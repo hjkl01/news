@@ -1,0 +1,22 @@
+name: Delete old workflow runs
+on:
+  schedule:
+    - cron: "0 0 2 * *"
+  push:
+    branches:
+      - master
+# Run monthly, at 00:00 on the 1st day of month.
+
+jobs:
+  del_runs:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Delete releases and workflows runs
+        uses: ophub/delete-releases-workflows@main
+        with:
+          delete_releases: true
+          releases_keep_latest: 5
+          delete_workflows: true
+          workflows_keep_day: 10
+          gh_token: ${{ secrets.GH_TOKEN }}
