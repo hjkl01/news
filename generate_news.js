@@ -15,7 +15,7 @@ function connectDb(dbName) {
 
 // 查询当天更新的内容
 function queryTodayUpdates(db, callback) {
-  const startOfDay = moment().startOf('day').format('YYYY-MM-DD HH:mm:ss');
+  const startOfDay = moment().subtract(1, 'days').startOf('day').format('YYYY-MM-DD HH:mm:ss');
   const endOfDay = moment().endOf('day').format('YYYY-MM-DD HH:mm:ss');
   db.all(`
     SELECT * FROM rss_items
