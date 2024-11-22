@@ -10,6 +10,16 @@
     "author": null
   },
   {
+    "id": 270872,
+    "feed_name": "豆瓣最受欢迎的影评",
+    "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
+    "category": "娱乐",
+    "title": "《白夜破晓》首播，还是那个味儿！原班人马，剧情演员依然能打 (评论: 白夜破晓)",
+    "link": "https://movie.douban.com/review/16308941/",
+    "pub_date": "2024-11-20 16:53:34",
+    "author": null
+  },
+  {
     "id": 263134,
     "feed_name": "豆瓣最受欢迎的影评",
     "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
@@ -2068,5 +2078,15 @@
     "link": "http://www.zhihu.com/question/661482971/answer/3602383984?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
     "pub_date": "2024-08-23 09:00:34",
     "author": null
+  },
+  {
+    "id": 270867,
+    "feed_name": "简书 / 首页",
+    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
+    "category": "娱乐",
+    "title": "还｜好久不见",
+    "link": "https://www.jianshu.com/p/5b35fcf756b5",
+    "pub_date": "2023-04-07 16:19:31",
+    "author": "冬天开的猫"
   }
 ]
