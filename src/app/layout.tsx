@@ -28,7 +28,7 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased bg-blue-200`}
       >
-        <header className="text-white p-4 bg-blue-500 text-1xl font-bold text-center sticky top-0">
+        <header className="text-white p-4 bg-blue-500 text-xl font-bold text-center sticky top-0">
           <nav>
             <ul className="flex space-x-4 justify-center">
               <li><a href="/" className="hover:text-gray-300">首页</a></li>
