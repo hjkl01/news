@@ -20,6 +20,26 @@
     "author": null
   },
   {
+    "id": 656832,
+    "feed_name": "南方周末 / 新闻",
+    "feed_url": "https://plink.anyfeeder.com/infzm/news",
+    "category": "新闻",
+    "title": "《花样年华》重映，苏丽珍和周慕云的爱情再续",
+    "link": "https://www.infzm.com/contents/288310",
+    "pub_date": "2025-02-23 10:00:00",
+    "author": "南方人物周刊特约撰稿 DLL"
+  },
+  {
+    "id": 656864,
+    "feed_name": "南方周末 / 新闻",
+    "feed_url": "https://plink.anyfeeder.com/infzm/news",
+    "category": "新闻",
+    "title": "俄乌冲突3周年，AI技术颠覆战场丨智库视点2025",
+    "link": "https://www.infzm.com/contents/288332",
+    "pub_date": "2025-02-23 09:00:08",
+    "author": "南方防务智库特约研究员 倪乐雄"
+  },
+  {
     "id": 655286,
     "feed_name": "南方周末 / 新闻",
     "feed_url": "https://plink.anyfeeder.com/infzm/news",
@@ -5458,6 +5478,16 @@
     "link": "http://www.qstheory.cn/20250214/98f4c336ec764c9aa8c87449dc787c14/c.html",
     "pub_date": "2025-02-16 09:00:00",
     "author": "来源：《求是》2025/04 作者：中共司法部党组"
+  },
+  {
+    "id": 656783,
+    "feed_name": "求是网",
+    "feed_url": "https://plink.anyfeeder.com/qstheory",
+    "category": "新闻",
+    "title": "锚定建设农业强国目标 加快实现高水平农业科技自立自强",
+    "link": "http://www.qstheory.cn/20250214/b11287b6f85f432ca45be9a25ad039c9/c.html",
+    "pub_date": "2025-02-16 09:00:00",
+    "author": "来源：《求是》2025/04 作者：韩 俊"
   },
   {
     "id": 625830,
@@ -66567,56 +66597,6 @@
     "title": "世行更新版的电子支付指标，如何平衡监管与效率？｜大咖聊营商",
     "link": "https://www.jiemian.com/article/11534121.html",
     "pub_date": "2024-11-23 15:14:41",
-    "author": null
-  },
-  {
-    "id": 276410,
-    "feed_name": "南方周末 / 新闻",
-    "feed_url": "https://plink.anyfeeder.com/infzm/news",
-    "category": "新闻",
-    "title": "7.7万名村干部被立案，全国展开对村巡察丨时政周报",
-    "link": "https://www.infzm.com/contents/283260",
-    "pub_date": "2024-11-23 15:00:00",
-    "author": "南方周末记者 李桂"
-  },
-  {
-    "id": 276411,
-    "feed_name": "南方周末 / 新闻",
-    "feed_url": "https://plink.anyfeeder.com/infzm/news",
-    "category": "新闻",
-    "title": "为市值管理正名，A股打响“慢牛令”？",
-    "link": "https://www.infzm.com/contents/283248",
-    "pub_date": "2024-11-23 12:00:31",
-    "author": "南方周末记者 徐庭芳"
-  },
-  {
-    "id": 273447,
-    "feed_name": "界面新闻: 新闻",
-    "feed_url": "https://plink.anyfeeder.com/jiemian/news",
-    "category": "新闻",
-    "title": "身价千万的“大龙邮票”、110框首日封，近年来孤品最多的邮展即将开幕",
-    "link": "https://www.jiemian.com/article/12021436.html",
-    "pub_date": "2024-11-23 11:23:31",
-    "author": null
-  },
-  {
-    "id": 273448,
-    "feed_name": "界面新闻: 新闻",
-    "feed_url": "https://plink.anyfeeder.com/jiemian/news",
-    "category": "新闻",
-    "title": "长三角27个中心城市，智能制造哪家强？",
-    "link": "https://www.jiemian.com/article/12019232.html",
-    "pub_date": "2024-11-23 11:23:31",
-    "author": null
-  },
-  {
-    "id": 273449,
-    "feed_name": "界面新闻: 新闻",
-    "feed_url": "https://plink.anyfeeder.com/jiemian/news",
-    "category": "新闻",
-    "title": "重塑金融生态：银行保险机构ESG合规引领营商环境再优化｜大咖聊营商",
-    "link": "https://www.jiemian.com/article/11997165.html",
-    "pub_date": "2024-11-23 11:23:31",
     "author": null
   }
 ]
