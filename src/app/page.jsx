@@ -28,11 +28,11 @@ const App = () => {
             <br />
             <ul style={{ listStyle: 'none', padding: 0 }}>
               {groupedData[feedName].slice(0, 15).map(item => (
-                <li key={item.id} style={{ display: 'flex', justifyContent: 'space-between' }}>
+                <li key={item.id} style={{ display: 'flex', justifyContent: 'space-between', fontSize: '16px' }}>
                   <a href={item.link} style={{ flex: 1 }}>
                     <strong>{item.title.length > 28 ? `${item.title.substring(0, 28)}...` : item.title}</strong>
                   </a>
-                  <span style={{ marginLeft: '10px' }}>{item.pub_date}</span>
+                  <span style={{ marginLeft: '10px', fontSize: '14px' }}>{item.pub_date}</span>
                 </li>
               ))}
             </ul>
@@ -40,7 +40,7 @@ const App = () => {
         ))}
       </div>
     </div >
-  );
+  )
 };
 
 export default App;
