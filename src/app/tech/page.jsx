@@ -1,24 +1,43 @@
 'use client';
-import React from 'react';
-import data from './data.json';
+import React, { useState, useEffect } from 'react';
+import jsonData from './data.json';
 
-function App() {
+
+const App = () => {
+  const [groupedData, setGroupedData] = useState({});
+
+  useEffect(() => {
+
+    const grouped = jsonData.reduce((acc, item) => {
+      if (!acc[item.feed_name]) {
+        acc[item.feed_name] = [];
+      }
+      acc[item.feed_name].push(item);
+      return acc;
+    }, {});
+
+    setGroupedData(grouped);
+  }, []);
+
   return (
-    <div className="flex flex-wrap justify-center gap-4 w-4/5 mx-auto">
-      {data.map((item, index) => (
-        <div key={index} className="p-4 text-black shadow-md rounded-lg flex flex-col">
-          <h2 className="text-lg font-semibold mb-2">
-            <a href={item.link} target="_blank" rel="noopener noreferrer">
-              <span title={item.title}>{item.title.length > 25 ? `${item.title.substring(0, 25)}...` : item.title}</span>
-            </a>
-          </h2>
-          <div className="text-sm text-gray-600">
-            {item.category}-{item.feed_name}-{item.pub_date}
+    <div style={{ padding: '20px' }}>
+      <div style={{ display: 'flex', flexWrap: 'wrap', gap: '20px' }}>
+        {Object.keys(groupedData).map(feedName => (
+          <div key={feedName} style={{ flex: '1 1 calc(50% - 20px)', border: '1px solid #ccc', borderRadius: '8px', padding: '16px', boxShadow: '0 2px 4px rgba(0,0,0,0.1)' }}>
+            <h1 style={{ marginTop: 0 }}>{feedName}</h1>
+            <br />
+            <ul style={{ listStyle: 'none', padding: 0 }}>
+              {groupedData[feedName].slice(0, 10).map(item => (
+                <li key={item.id} style={{ marginBottom: '10px' }}>
+                  <strong>{item.title}</strong> - <a href={item.link} target="_blank" rel="noopener noreferrer">Read more</a>
+                </li>
+              ))}
+            </ul>
           </div>
-        </div>
-      ))}
+        ))}
+      </div>
     </div>
   );
-}
+};
 
 export default App;
