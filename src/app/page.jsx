@@ -28,15 +28,17 @@ const App = () => {
             <br />
             <ul style={{ listStyle: 'none', padding: 0 }}>
               {groupedData[feedName].slice(0, 15).map(item => (
-                <li key={item.id} style={{ marginBottom: '10px' }}>
-                  <strong>{item.title}</strong> - <a href={item.link} target="_blank" rel="noopener noreferrer">Read more</a>
-                </li>
+                <a href={item.link} target="_blank" rel="noopener noreferrer">
+                  <li key={item.id} style={{ marginBottom: '10px' }}>
+                    <strong>{item.title} {item.pub_date}</strong>
+                  </li>
+                </a>
               ))}
             </ul>
           </div>
         ))}
       </div>
-    </div>
+    </div >
   );
 };
 
