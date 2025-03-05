@@ -29,7 +29,7 @@ const App = () => {
             <ul style={{ listStyle: 'none', padding: 0 }}>
               {groupedData[feedName].slice(0, 15).map(item => (
                 <li key={item.id} style={{ display: 'flex', justifyContent: 'space-between', fontSize: '16px', marginTop: '10px', marginBottom: '10px' }}>
-                  <a href={item.link} style={{ flex: 1 }}>
+                  <a href={item.link} style={{ flex: 1 }} target="_blank" rel="noopener noreferrer">
                     <strong>{item.title.length > 28 ? `${item.title.substring(0, 28)}...` : item.title}</strong>
                   </a>
                   <span style={{ marginLeft: '10px', fontSize: '14px' }}>{item.pub_date}</span>
