@@ -27,7 +27,7 @@ const App = () => {
             <h1 style={{ marginTop: 0 }}>{feedName}</h1>
             <br />
             <ul style={{ listStyle: 'none', padding: 0 }}>
-              {groupedData[feedName].slice(0, 10).map(item => (
+              {groupedData[feedName].slice(0, 15).map(item => (
                 <li key={item.id} style={{ marginBottom: '10px' }}>
                   <strong>{item.title}</strong> - <a href={item.link} target="_blank" rel="noopener noreferrer">Read more</a>
                 </li>
