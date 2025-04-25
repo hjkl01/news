@@ -18,6 +18,7 @@ export const metadata: Metadata = {
   description: "A modern news aggregator built with Next.js",
 };
 
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -26,29 +27,40 @@ export default function RootLayout({
   return (
     <html lang="en" className="scroll-smooth">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased bg-gradient-to-b from-blue-50 to-white min-h-screen`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased bg-gradient-to-b from-blue-50 via-white to-blue-50 min-h-screen flex flex-col`}
       >
-        <header className="sticky top-0 z-50 backdrop-blur-lg bg-blue-500/95 shadow-lg">
+        <header className="sticky top-0 z-50 backdrop-blur-xl bg-blue-600/95 shadow-lg">
           <div className="max-w-7xl mx-auto">
-            <nav className="px-4 py-4">
-              <ul className="flex flex-wrap justify-center gap-x-8 gap-y-2 text-sm md:text-base">
+            <nav className="px-6 py-4">
+              <ul className="flex flex-wrap justify-center gap-x-10 gap-y-3 text-sm md:text-base">
                 <li>
-                  <a href="/" className="text-white hover:text-blue-100 transition-colors duration-200 font-medium flex items-center gap-1">
-                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <a href="/" className="text-white hover:text-blue-100 transition-all duration-300 font-medium flex items-center gap-2 hover:scale-105">
+                    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
                     </svg>
                     首页
                   </a>
                 </li>
-                <li><a href="/news" className="text-white hover:text-blue-100 transition-colors duration-200 font-medium">新闻</a></li>
-                <li><a href="/foreign" className="text-white hover:text-blue-100 transition-colors duration-200 font-medium">国外</a></li>
-                <li><a href="/tech" className="text-white hover:text-blue-100 transition-colors duration-200 font-medium">科技</a></li>
-                <li><a href="/code" className="text-white hover:text-blue-100 transition-colors duration-200 font-medium">技术</a></li>
-                <li><a href="/live" className="text-white hover:text-blue-100 transition-colors duration-200 font-medium">生活</a></li>
-                <li><a href="/info" className="text-white hover:text-blue-100 transition-colors duration-200 font-medium">资讯</a></li>
-                <li><a href="/forum" className="text-white hover:text-blue-100 transition-colors duration-200 font-medium">论坛</a></li>
-                <li><a href="/funny" className="text-white hover:text-blue-100 transition-colors duration-200 font-medium">娱乐</a></li>
-                <li><a href="/public" className="text-white hover:text-blue-100 transition-colors duration-200 font-medium">公众号</a></li>
+                {[
+                  ['新闻', '/news'],
+                  ['国外', '/foreign'],
+                  ['科技', '/tech'],
+                  ['技术', '/code'],
+                  ['生活', '/live'],
+                  ['资讯', '/info'],
+                  ['论坛', '/forum'],
+                  ['娱乐', '/funny'],
+                  ['公众号', '/public']
+                ].map(([label, path]) => (
+                  <li key={path}>
+                    <a
+                      href={path}
+                      className="text-white hover:text-blue-100 transition-all duration-300 font-medium px-3 py-2 rounded-full hover:bg-white/10"
+                    >
+                      {label}
+                    </a>
+                  </li>
+                ))}
               </ul>
             </nav>
           </div>
@@ -58,9 +70,11 @@ export default function RootLayout({
           {children}
         </main>
 
-        <footer className="mt-auto py-6 px-4 bg-blue-500/10">
-          <div className="max-w-7xl mx-auto text-center text-sm text-blue-600">
-            <p> {new Date().getFullYear()} News Hub. All rights reserved.</p>
+        <footer className="mt-auto py-8 px-4 bg-gradient-to-b from-blue-500/5 to-blue-500/10">
+          <div className="max-w-7xl mx-auto text-center">
+            <p className="text-sm text-blue-700 font-medium">
+              © {new Date().getFullYear()} News Hub. All rights reserved.
+            </p>
           </div>
         </footer>
       </body>
