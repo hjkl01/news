@@ -40,7 +40,7 @@ function generate_today() {
       title: row.title,
       link: row.link,
       pub_date: row.pub_date
-    })).filter(update => !update.link.includes('weibo')).filter(update => !update.category.includes('论坛')).filter(update => !update.feed_name.includes('github')).filter(update => !update.category.includes('财经'));
+    })).filter(update => !update.link.includes('66y')).filter(update => !update.link.includes('weibo')).filter(update => !update.category.includes('论坛')).filter(update => !update.feed_name.includes('github')).filter(update => !update.category.includes('财经'));
 
     fs.writeFileSync('src/app/data.json', JSON.stringify(todayUpdates, null, 2));
     console.log('Today updates saved');
