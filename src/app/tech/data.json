@@ -1,5 +1,85 @@
 [
   {
+    "id": 3699,
+    "feed_name": "机核",
+    "feed_url": "https://plink.anyfeeder.com/gcores",
+    "category": "科技",
+    "title": "由押井守导演执导《攻壳机动队 4K修复版》定档5月10日艺联专线上映",
+    "link": "https://www.gcores.com/articles/197900",
+    "pub_date": "2025-04-25 10:28:45",
+    "author": "单梦蛙"
+  },
+  {
+    "id": 3700,
+    "feed_name": "机核",
+    "feed_url": "https://plink.anyfeeder.com/gcores",
+    "category": "科技",
+    "title": "据外媒Variety独家消息，《双影奇境》电影版即将开拍，该片由朱浩伟导演",
+    "link": "https://www.gcores.com/articles/197899",
+    "pub_date": "2025-04-25 10:21:49",
+    "author": "单梦蛙"
+  },
+  {
+    "id": 3701,
+    "feed_name": "机核",
+    "feed_url": "https://plink.anyfeeder.com/gcores",
+    "category": "科技",
+    "title": "日本一恐怖冒险游戏新作《连咒》公布，8月28日发售",
+    "link": "https://www.gcores.com/articles/197897",
+    "pub_date": "2025-04-25 10:20:35",
+    "author": "熊吉吉"
+  },
+  {
+    "id": 3756,
+    "feed_name": "爱范儿",
+    "feed_url": "https://plink.anyfeeder.com/ifanr",
+    "category": "科技",
+    "title": "8 英寸的小平板很好，但我看不到它的未来",
+    "link": "https://www.ifanr.com/1621641?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "pub_date": "2025-04-25 10:16:13",
+    "author": null
+  },
+  {
+    "id": 3702,
+    "feed_name": "机核",
+    "feed_url": "https://plink.anyfeeder.com/gcores",
+    "category": "科技",
+    "title": "《最终幻想9》“比比的帽子”商品化，8月16日发售",
+    "link": "https://www.gcores.com/articles/197894",
+    "pub_date": "2025-04-25 09:49:31",
+    "author": "熊吉吉"
+  },
+  {
+    "id": 3703,
+    "feed_name": "机核",
+    "feed_url": "https://plink.anyfeeder.com/gcores",
+    "category": "科技",
+    "title": "《街头霸王6》公布艾琳娜角色宣传片，将于6月5日参战！",
+    "link": "https://www.gcores.com/articles/197895",
+    "pub_date": "2025-04-25 09:45:20",
+    "author": "单梦蛙"
+  },
+  {
+    "id": 3764,
+    "feed_name": "爱范儿",
+    "feed_url": "https://plink.anyfeeder.com/ifanr",
+    "category": "科技",
+    "title": "早报｜小红书取消「大小周」/官方介入调查「猿辅导员工猝死」事件/京东：外卖日单量破千万",
+    "link": "https://www.ifanr.com/1621943?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "pub_date": "2025-04-25 09:13:29",
+    "author": null
+  },
+  {
+    "id": 3776,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "萌娃界的“绝对霸主”，这座河北县城靠卖童车年赚300亿元？",
+    "link": "https://www.tmtpost.com/7546928.html",
+    "pub_date": "2025-04-25 09:13:00",
+    "author": null
+  },
+  {
     "id": 2102,
     "feed_name": "36氪",
     "feed_url": "https://plink.anyfeeder.com/36kr",
@@ -8,6 +88,16 @@
     "link": "https://36kr.com/newsflashes/3264864796376832?f=rss",
     "pub_date": "2025-04-25 09:12:12",
     "author": null
+  },
+  {
+    "id": 3725,
+    "feed_name": "虎嗅",
+    "feed_url": "https://plink.anyfeeder.com/huxiu",
+    "category": "科技",
+    "title": " 谷歌广告业务强劲，净利润大增46% ",
+    "link": "https://www.huxiu.com/article/4277807.html?f=rss",
+    "pub_date": "2025-04-25 09:12:04",
+    "author": " 华尔街见闻 "
   },
   {
     "id": 2071,
@@ -60,6 +150,16 @@
     "author": "AICon 全球人工智能开发与应用大会"
   },
   {
+    "id": 3779,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "教育主业重回高增长轨道，资本市场却不买新东方的账？",
+    "link": "https://www.tmtpost.com/7547101.html",
+    "pub_date": "2025-04-25 09:00:00",
+    "author": null
+  },
+  {
     "id": 2074,
     "feed_name": "36氪",
     "feed_url": "https://plink.anyfeeder.com/36kr",
@@ -80,6 +180,16 @@
     "author": null
   },
   {
+    "id": 3682,
+    "feed_name": "虎嗅",
+    "feed_url": "https://plink.anyfeeder.com/huxiu",
+    "category": "科技",
+    "title": " 乡村“鬼火”少年，在迷茫中长大 ",
+    "link": "https://www.huxiu.com/article/4276574.html?f=rss",
+    "pub_date": "2025-04-25 08:58:02",
+    "author": " 秦朔朋友圈 "
+  },
+  {
     "id": 2076,
     "feed_name": "36氪",
     "feed_url": "https://plink.anyfeeder.com/36kr",
@@ -97,6 +207,16 @@
     "title": "出海势头强劲、业绩表现亮眼，汽车零部件企业喜报频传",
     "link": "https://36kr.com/newsflashes/3264846616723589?f=rss",
     "pub_date": "2025-04-25 08:53:43",
+    "author": null
+  },
+  {
+    "id": 3792,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "白沟箱包：年产8亿只箱包，一年狂揽百亿元",
+    "link": "https://www.tmtpost.com/7546962.html",
+    "pub_date": "2025-04-25 08:52:00",
     "author": null
   },
   {
@@ -130,6 +250,16 @@
     "author": null
   },
   {
+    "id": 3683,
+    "feed_name": "虎嗅",
+    "feed_url": "https://plink.anyfeeder.com/huxiu",
+    "category": "科技",
+    "title": " 特朗普：俄罗斯没占领整个乌克兰就是“重大让步” ",
+    "link": "https://www.huxiu.com/article/4277793.html?f=rss",
+    "pub_date": "2025-04-25 08:50:16",
+    "author": " 财联社© "
+  },
+  {
     "id": 2081,
     "feed_name": "36氪",
     "feed_url": "https://plink.anyfeeder.com/36kr",
@@ -150,6 +280,16 @@
     "author": null
   },
   {
+    "id": 3684,
+    "feed_name": "虎嗅",
+    "feed_url": "https://plink.anyfeeder.com/huxiu",
+    "category": "科技",
+    "title": " 京东外卖日单量已冲破1000万单，谁要拉响警报？ ",
+    "link": "https://www.huxiu.com/article/4276312.html?f=rss",
+    "pub_date": "2025-04-25 08:49:01",
+    "author": " 每日经济新闻© "
+  },
+  {
     "id": 2083,
     "feed_name": "36氪",
     "feed_url": "https://plink.anyfeeder.com/36kr",
@@ -168,6 +308,16 @@
     "link": "https://36kr.com/newsflashes/3264841026535556?f=rss",
     "pub_date": "2025-04-25 08:48:02",
     "author": null
+  },
+  {
+    "id": 3686,
+    "feed_name": "虎嗅",
+    "feed_url": "https://plink.anyfeeder.com/huxiu",
+    "category": "科技",
+    "title": " 我在英国当中学老师，看见真正的“混沌少年时” ",
+    "link": "https://www.huxiu.com/article/4277774.html?f=rss",
+    "pub_date": "2025-04-25 08:46:03",
+    "author": " 新周刊 "
   },
   {
     "id": 2085,
@@ -230,6 +380,46 @@
     "author": null
   },
   {
+    "id": 3777,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "粽子这玩意儿，谁还在吃啊？",
+    "link": "https://www.tmtpost.com/7546995.html",
+    "pub_date": "2025-04-25 08:42:00",
+    "author": null
+  },
+  {
+    "id": 3778,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "迪安诊断转型困境：ICL企业消化重荷、卡位未来实录",
+    "link": "https://www.tmtpost.com/7547023.html",
+    "pub_date": "2025-04-25 08:33:00",
+    "author": null
+  },
+  {
+    "id": 3687,
+    "feed_name": "虎嗅",
+    "feed_url": "https://plink.anyfeeder.com/huxiu",
+    "category": "科技",
+    "title": " 迈凯伦暴跌88%，劳斯莱斯腰斩50%，豪车卖不动了？ ",
+    "link": "https://www.huxiu.com/article/4272098.html?f=rss",
+    "pub_date": "2025-04-25 08:30:21",
+    "author": " 财经不眠姐 "
+  },
+  {
+    "id": 3688,
+    "feed_name": "虎嗅",
+    "feed_url": "https://plink.anyfeeder.com/huxiu",
+    "category": "科技",
+    "title": " ChatGPT照片“以假乱真”，这是一份AI防骗指南 ",
+    "link": "https://www.huxiu.com/article/4275880.html?f=rss",
+    "pub_date": "2025-04-25 08:27:08",
+    "author": " 田威AI "
+  },
+  {
     "id": 2122,
     "feed_name": "快科技",
     "feed_url": "https://plink.anyfeeder.com/mydrivers",
@@ -240,6 +430,16 @@
     "author": null
   },
   {
+    "id": 3791,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "当神话IP碾压式收割票房，谁在吞下冷门档期的苦果？",
+    "link": "https://www.tmtpost.com/7547056.html",
+    "pub_date": "2025-04-25 08:25:00",
+    "author": null
+  },
+  {
     "id": 1187,
     "feed_name": "极客公园",
     "feed_url": "https://www.geekpark.net/rss",
@@ -247,6 +447,16 @@
     "title": "\n        京东外卖日单量超过 1000 万；小米被曝要求员工日均工时不低于 11.5 小时；小红书将取消大小周 | 极客早知道\n      ",
     "link": "http://www.geekpark.net/news/348618",
     "pub_date": "2025-04-25 08:24:56",
+    "author": null
+  },
+  {
+    "id": 3780,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "钛媒体科股早知道：航天产业维持高景气，机构指出上游这类环节将率先受益",
+    "link": "https://www.tmtpost.com/7547251.html",
+    "pub_date": "2025-04-25 08:16:28",
     "author": null
   },
   {
@@ -277,6 +487,16 @@
     "title": "为啥有的疫苗只用打1针 有的却每年都要打",
     "link": "https://news.mydrivers.com/1/1043/1043954.htm",
     "pub_date": "2025-04-25 08:14:19",
+    "author": null
+  },
+  {
+    "id": 3781,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "国产六大推理模型激战OpenAI？",
+    "link": "https://www.tmtpost.com/7547075.html",
+    "pub_date": "2025-04-25 08:12:00",
     "author": null
   },
   {
@@ -1278,6 +1498,16 @@
     "link": "https://www.gcores.com/articles/197788",
     "pub_date": "2025-04-24 18:00:00",
     "author": "机核编辑部,yn27"
+  },
+  {
+    "id": 3726,
+    "feed_name": "软餐 - 新鲜软件资讯",
+    "feed_url": "https://plink.anyfeeder.com/ruancan",
+    "category": "科技",
+    "title": "微软年内全面推出 Windows 11 绿屏死机界面",
+    "link": "https://www.ruancan.com/p/213722.html",
+    "pub_date": "2025-04-24 17:58:31",
+    "author": null
   },
   {
     "id": 2167,
@@ -3510,7 +3740,7 @@
     "author": "果壳亲子"
   },
   {
-    "id": 2369,
+    "id": 3871,
     "feed_name": "观止·每日一文",
     "feed_url": "https://plink.anyfeeder.com/meiriyiwen",
     "category": "科技",

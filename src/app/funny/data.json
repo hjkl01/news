@@ -370,6 +370,16 @@
     "author": null
   },
   {
+    "id": 3858,
+    "feed_name": "豆瓣最受欢迎的影评",
+    "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
+    "category": "娱乐",
+    "title": "陆导你借的是我们观众的命啊！ (评论: 借命而生)",
+    "link": "https://movie.douban.com/review/16679435/",
+    "pub_date": "2025-04-24 00:22:51",
+    "author": null
+  },
+  {
     "id": 677,
     "feed_name": "豆瓣最受欢迎的影评",
     "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
@@ -408,15 +418,5 @@
     "link": "https://movie.douban.com/review/16675981/",
     "pub_date": "2025-04-22 02:55:23",
     "author": null
-  },
-  {
-    "id": 2322,
-    "feed_name": "简书 / 首页",
-    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
-    "category": "娱乐",
-    "title": "Git中submodule的使用",
-    "link": "https://www.jianshu.com/p/60d926f45113",
-    "pub_date": "2023-04-29 09:46:25",
-    "author": "幻城之雪"
   }
 ]
