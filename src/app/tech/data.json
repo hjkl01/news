@@ -1,5 +1,365 @@
 [
   {
+    "id": 11678,
+    "feed_name": "虎嗅",
+    "feed_url": "https://plink.anyfeeder.com/huxiu",
+    "category": "科技",
+    "title": " 数百个项目经费面临被砍，美科学家直言“未来让人恐慌” ",
+    "link": "https://www.huxiu.com/article/4281998.html?f=rss",
+    "pub_date": "2025-04-26 14:21:00",
+    "author": " 科学网© "
+  },
+  {
+    "id": 11645,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "途虎养车2025加盟商大会：突破7000店，口碑好店加盟费减免100%",
+    "link": "https://36kr.com/newsflashes/3266583066612358?f=rss",
+    "pub_date": "2025-04-26 14:20:07",
+    "author": null
+  },
+  {
+    "id": 11682,
+    "feed_name": "虎嗅",
+    "feed_url": "https://plink.anyfeeder.com/huxiu",
+    "category": "科技",
+    "title": " 90天亏2850亿，麻了 ",
+    "link": "https://www.huxiu.com/article/4282302.html?f=rss",
+    "pub_date": "2025-04-26 14:04:17",
+    "author": " 投中网 "
+  },
+  {
+    "id": 11679,
+    "feed_name": "虎嗅",
+    "feed_url": "https://plink.anyfeeder.com/huxiu",
+    "category": "科技",
+    "title": " 新茶饮第六股困局：加盟商喝下“苦”茶 ",
+    "link": "https://www.huxiu.com/article/4281988.html?f=rss",
+    "pub_date": "2025-04-26 13:41:06",
+    "author": " 凤凰网财经 "
+  },
+  {
+    "id": 11612,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "央行行长潘功胜会见世界银行行长彭安杰",
+    "link": "https://36kr.com/newsflashes/3266530450362759?f=rss",
+    "pub_date": "2025-04-26 13:26:36",
+    "author": null
+  },
+  {
+    "id": 11647,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "新华时评：用好用足更加积极的财政政策 要确保财政资金的“真金白银”加快落地、落到实地",
+    "link": "https://36kr.com/newsflashes/3266529794150786?f=rss",
+    "pub_date": "2025-04-26 13:25:56",
+    "author": null
+  },
+  {
+    "id": 11613,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "炮制假非遗、AI生成假神医，涉事企业被立案调查",
+    "link": "https://36kr.com/newsflashes/3266528748163461?f=rss",
+    "pub_date": "2025-04-26 13:24:52",
+    "author": null
+  },
+  {
+    "id": 11764,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "日本一大爷坠入深坑3个月仍未获救 官方：预计5月中旬开始搜寻",
+    "link": "https://news.mydrivers.com/1/1044/1044224.htm",
+    "pub_date": "2025-04-26 13:17:59",
+    "author": null
+  },
+  {
+    "id": 11765,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "叠加国补最高减800元！荣耀Magic7系列官宣降价：3799元起",
+    "link": "https://news.mydrivers.com/1/1044/1044222.htm",
+    "pub_date": "2025-04-26 13:14:17",
+    "author": null
+  },
+  {
+    "id": 11680,
+    "feed_name": "虎嗅",
+    "feed_url": "https://plink.anyfeeder.com/huxiu",
+    "category": "科技",
+    "title": " “我没开玩笑” 特朗普：加拿大应是美国第51个州 ",
+    "link": "https://www.huxiu.com/article/4281986.html?f=rss",
+    "pub_date": "2025-04-26 12:46:17",
+    "author": " 财联社© "
+  },
+  {
+    "id": 11681,
+    "feed_name": "虎嗅",
+    "feed_url": "https://plink.anyfeeder.com/huxiu",
+    "category": "科技",
+    "title": " “组队发育”，安徽在打什么算盘？ ",
+    "link": "https://www.huxiu.com/article/4281982.html?f=rss",
+    "pub_date": "2025-04-26 12:45:01",
+    "author": " 城市进化论 "
+  },
+  {
+    "id": 11766,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "TCL 电视 4 月动作观察：技术普惠与场景创新如何打开新局？",
+    "link": "https://news.mydrivers.com/1/1044/1044221.htm",
+    "pub_date": "2025-04-26 12:44:00",
+    "author": null
+  },
+  {
+    "id": 11688,
+    "feed_name": "虎嗅",
+    "feed_url": "https://plink.anyfeeder.com/huxiu",
+    "category": "科技",
+    "title": " 小米高端化的双驱动：保时捷与个人IP ",
+    "link": "https://www.huxiu.com/article/4281976.html?f=rss",
+    "pub_date": "2025-04-26 12:38:00",
+    "author": " 投资人黄海 "
+  },
+  {
+    "id": 11767,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "李斌：很笃定蔚来今年第四季度会盈利",
+    "link": "https://news.mydrivers.com/1/1044/1044220.htm",
+    "pub_date": "2025-04-26 12:36:05",
+    "author": null
+  },
+  {
+    "id": 11683,
+    "feed_name": "虎嗅",
+    "feed_url": "https://plink.anyfeeder.com/huxiu",
+    "category": "科技",
+    "title": " “好球”幻觉：我们都活在“以为稳了”的一拍里 ",
+    "link": "https://www.huxiu.com/article/4278516.html?f=rss",
+    "pub_date": "2025-04-26 12:17:00",
+    "author": " 跑步有毒 "
+  },
+  {
+    "id": 11728,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "猿辅导员工猝死悲剧背后，一次教科书式的公关灾难",
+    "link": "https://www.tmtpost.com/7548966.html",
+    "pub_date": "2025-04-26 12:10:22",
+    "author": null
+  },
+  {
+    "id": 11770,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "华为全力扶持国产！Mate/Pura加持下：国产摄像头全面爆发 紧追索尼",
+    "link": "https://news.mydrivers.com/1/1044/1044219.htm",
+    "pub_date": "2025-04-26 12:01:45",
+    "author": null
+  },
+  {
+    "id": 11684,
+    "feed_name": "虎嗅",
+    "feed_url": "https://plink.anyfeeder.com/huxiu",
+    "category": "科技",
+    "title": " 资溪，“中国面包之乡”是如何炼成的？ ",
+    "link": "https://www.huxiu.com/article/4279254.html?f=rss",
+    "pub_date": "2025-04-26 12:00:00",
+    "author": " 地道风物 "
+  },
+  {
+    "id": 11763,
+    "feed_name": "爱范儿",
+    "feed_url": "https://plink.anyfeeder.com/ifanr",
+    "category": "科技",
+    "title": "更运动的 3 系，更锐利的 X5 和重塑的 1 系，新世代的宝马依旧想让你「开起来」",
+    "link": "https://www.ifanr.com/1622085?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "pub_date": "2025-04-26 11:59:28",
+    "author": null
+  },
+  {
+    "id": 11729,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "Trump Sees 200 Trade Deals to be Settled in Weeks, Says Further Pause on Tariffs Unlikely",
+    "link": "https://www.tmtpost.com/7549126.html",
+    "pub_date": "2025-04-26 11:53:02",
+    "author": null
+  },
+  {
+    "id": 11746,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "从味精到算力：莲花控股的“洗白”与“跨界”生死局",
+    "link": "https://www.tmtpost.com/7548820.html",
+    "pub_date": "2025-04-26 11:46:12",
+    "author": null
+  },
+  {
+    "id": 11731,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "长春高新已经赚不到家长身高焦虑的钱了",
+    "link": "https://www.tmtpost.com/7548826.html",
+    "pub_date": "2025-04-26 11:46:07",
+    "author": null
+  },
+  {
+    "id": 11732,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "曹操出行：聚合平台的“打工人”",
+    "link": "https://www.tmtpost.com/7548903.html",
+    "pub_date": "2025-04-26 11:46:03",
+    "author": null
+  },
+  {
+    "id": 11733,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "“老人住不起，机构不赚钱”：农村养老院到底怎么了？",
+    "link": "https://www.tmtpost.com/7548964.html",
+    "pub_date": "2025-04-26 11:45:54",
+    "author": null
+  },
+  {
+    "id": 11685,
+    "feed_name": "虎嗅",
+    "feed_url": "https://plink.anyfeeder.com/huxiu",
+    "category": "科技",
+    "title": " 结直肠癌不是突然发生，而是童年早已注定？ ",
+    "link": "https://www.huxiu.com/article/4281570.html?f=rss",
+    "pub_date": "2025-04-26 11:43:03",
+    "author": " 学术经纬 "
+  },
+  {
+    "id": 11604,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "与黑芝麻智能合作，英特尔瞄准下一代智能座舱芯片｜36氪专访",
+    "link": "https://36kr.com/p/3265735356682881?f=rss",
+    "pub_date": "2025-04-26 11:39:05",
+    "author": null
+  },
+  {
+    "id": 11614,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "上海经信委：将推动整车企业转型，加强智能驾驶大模型等创新应用",
+    "link": "https://36kr.com/newsflashes/3266423652258433?f=rss",
+    "pub_date": "2025-04-26 11:37:57",
+    "author": null
+  },
+  {
+    "id": 11611,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "安波福发布风河操作系统等多项方案，核心物料实现100%国产化｜最前线",
+    "link": "https://36kr.com/p/3265445244686472?f=rss",
+    "pub_date": "2025-04-26 11:37:44",
+    "author": null
+  },
+  {
+    "id": 11615,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "习近平在中共中央政治局第二十次集体学习时强调，坚持自立自强，突出应用导向，推动人工智能健康有序发展",
+    "link": "https://36kr.com/newsflashes/3266422753907328?f=rss",
+    "pub_date": "2025-04-26 11:37:03",
+    "author": null
+  },
+  {
+    "id": 11616,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "中国人民银行行长潘功胜会见新兴市场经济体央行主要负责人",
+    "link": "https://36kr.com/newsflashes/3266421784187526?f=rss",
+    "pub_date": "2025-04-26 11:36:03",
+    "author": null
+  },
+  {
+    "id": 11617,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "中国重汽与丰田汽车签署战略合作协议",
+    "link": "https://36kr.com/newsflashes/3266420941836679?f=rss",
+    "pub_date": "2025-04-26 11:35:12",
+    "author": null
+  },
+  {
+    "id": 11618,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "埃隆·马斯克旗下XAI公司正与投资者洽谈 计划融资约200亿美元",
+    "link": "https://36kr.com/newsflashes/3266420409438856?f=rss",
+    "pub_date": "2025-04-26 11:34:40",
+    "author": null
+  },
+  {
+    "id": 11619,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "多家德国中小企业考虑暂停在美业务扩张",
+    "link": "https://36kr.com/newsflashes/3266419907334533?f=rss",
+    "pub_date": "2025-04-26 11:34:09",
+    "author": null
+  },
+  {
+    "id": 11686,
+    "feed_name": "虎嗅",
+    "feed_url": "https://plink.anyfeeder.com/huxiu",
+    "category": "科技",
+    "title": " 美股、美债、比特币强劲反弹，但怀疑者紧盯“美国经济崩溃迹象” ",
+    "link": "https://www.huxiu.com/article/4281584.html?f=rss",
+    "pub_date": "2025-04-26 11:03:00",
+    "author": " 华尔街见闻 "
+  },
+  {
+    "id": 11687,
+    "feed_name": "虎嗅",
+    "feed_url": "https://plink.anyfeeder.com/huxiu",
+    "category": "科技",
+    "title": " 藤校捐赠基金抛售PE资产，新“次贷危机”要来了吗？ ",
+    "link": "https://www.huxiu.com/article/4281568.html?f=rss",
+    "pub_date": "2025-04-26 10:43:04",
+    "author": " 东四十条资本© "
+  },
+  {
+    "id": 11691,
+    "feed_name": "虎嗅",
+    "feed_url": "https://plink.anyfeeder.com/huxiu",
+    "category": "科技",
+    "title": " 赴美旅游产子，这次彻底凉了 ",
+    "link": "https://www.huxiu.com/article/4281566.html?f=rss",
+    "pub_date": "2025-04-26 10:36:05",
+    "author": " 旅界 "
+  },
+  {
     "id": 10070,
     "feed_name": "钛媒体",
     "feed_url": "https://plink.anyfeeder.com/tmtpost",
@@ -28,6 +388,16 @@
     "link": "https://www.tmtpost.com/7548764.html",
     "pub_date": "2025-04-26 10:17:04",
     "author": null
+  },
+  {
+    "id": 11700,
+    "feed_name": "虎嗅",
+    "feed_url": "https://plink.anyfeeder.com/huxiu",
+    "category": "科技",
+    "title": " 资本家审美正在脑控世界 ",
+    "link": "https://www.huxiu.com/article/4274792.html?f=rss",
+    "pub_date": "2025-04-26 10:10:00",
+    "author": " 渣渣郡 "
   },
   {
     "id": 10072,
@@ -70,6 +440,16 @@
     "author": null
   },
   {
+    "id": 11689,
+    "feed_name": "虎嗅",
+    "feed_url": "https://plink.anyfeeder.com/huxiu",
+    "category": "科技",
+    "title": " “动漫短剧”值不值得做？ ",
+    "link": "https://www.huxiu.com/article/4278230.html?f=rss",
+    "pub_date": "2025-04-26 10:00:01",
+    "author": " 靠谱二次元 "
+  },
+  {
     "id": 9979,
     "feed_name": "36氪",
     "feed_url": "https://plink.anyfeeder.com/36kr",
@@ -78,6 +458,36 @@
     "link": "https://36kr.com/p/3265689975361922?f=rss",
     "pub_date": "2025-04-26 10:00:00",
     "author": null
+  },
+  {
+    "id": 11690,
+    "feed_name": "虎嗅",
+    "feed_url": "https://plink.anyfeeder.com/huxiu",
+    "category": "科技",
+    "title": " 00后脸上的第四次工业革命 ",
+    "link": "https://www.huxiu.com/article/4279301.html?f=rss",
+    "pub_date": "2025-04-26 10:00:00",
+    "author": " 阿珂可 "
+  },
+  {
+    "id": 11697,
+    "feed_name": "虎嗅",
+    "feed_url": "https://plink.anyfeeder.com/huxiu",
+    "category": "科技",
+    "title": " 国补￥2210？用天玑9400+性能卷7200mAh大电池，结果是什么？ ",
+    "link": "https://www.huxiu.com/article/4278533.html?f=rss",
+    "pub_date": "2025-04-26 10:00:00",
+    "author": " 奋斗的王大刀 "
+  },
+  {
+    "id": 11692,
+    "feed_name": "虎嗅",
+    "feed_url": "https://plink.anyfeeder.com/huxiu",
+    "category": "科技",
+    "title": " 中美，正在争夺机器人的市场 ",
+    "link": "https://www.huxiu.com/article/4281239.html?f=rss",
+    "pub_date": "2025-04-26 09:57:02",
+    "author": " 笔记侠 "
   },
   {
     "id": 9988,
@@ -308,6 +718,16 @@
     "link": "https://36kr.com/p/3265400454237826?f=rss",
     "pub_date": "2025-04-26 09:30:08",
     "author": null
+  },
+  {
+    "id": 11821,
+    "feed_name": "机核",
+    "feed_url": "https://plink.anyfeeder.com/gcores",
+    "category": "科技",
+    "title": "关于“奇幻”",
+    "link": "https://www.gcores.com/articles/197952",
+    "pub_date": "2025-04-26 09:30:00",
+    "author": "徳蔚"
   },
   {
     "id": 10037,
@@ -677,6 +1097,16 @@
     "title": "长江存储母公司获94亿增资：“六个核桃”控股公司出16亿元，总估值超千亿｜硅基世界",
     "link": "https://www.tmtpost.com/7548802.html",
     "pub_date": "2025-04-25 21:37:34",
+    "author": null
+  },
+  {
+    "id": 11901,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "PoC攻击暴露Linux安全工具缺陷，以色列厂商称过度依赖eBPF埋隐患",
+    "link": "https://www.freebuf.com/articles/system/428839.html",
+    "pub_date": "2025-04-25 21:35:30",
     "author": null
   },
   {
@@ -7030,7 +7460,7 @@
     "author": "果壳亲子"
   },
   {
-    "id": 10390,
+    "id": 11843,
     "feed_name": "观止·每日一文",
     "feed_url": "https://plink.anyfeeder.com/meiriyiwen",
     "category": "科技",
