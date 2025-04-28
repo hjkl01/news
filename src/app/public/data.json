@@ -1,5 +1,15 @@
 [
   {
+    "id": 20392,
+    "feed_name": "腾讯科技",
+    "feed_url": "https://plink.anyfeeder.com/weixin/qqtech",
+    "category": "公众号",
+    "title": "对话能量奇点创始人杨钊：人类驯服可控核聚变还有多少路程？",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E8%85%BE%E8%AE%AF%E7%A7%91%E6%8A%80+%E5%AF%B9%E8%AF%9D%E8%83%BD%E9%87%8F%E5%A5%87%E7%82%B9%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%9D%A8%E9%92%8A%EF%BC%9A%E4%BA%BA%E7%B1%BB%E9%A9%AF%E6%9C%8D%E5%8F%AF%E6%8E%A7%E6%A0%B8%E8%81%9A%E5%8F%98%E8%BF%98%E6%9C%89%E5%A4%9A%E5%B0%91%E8%B7%AF%E7%A8%8B%EF%BC%9F",
+    "pub_date": "2025-04-28 07:00:00",
+    "author": null
+  },
+  {
     "id": 18285,
     "feed_name": "南都周刊",
     "feed_url": "https://plink.anyfeeder.com/weixin/nbweekly",
@@ -340,6 +350,16 @@
     "author": null
   },
   {
+    "id": 20232,
+    "feed_name": "机器之心",
+    "feed_url": "https://plink.anyfeeder.com/weixin/almosthuman2014",
+    "category": "公众号",
+    "title": "Devin开发团队开源DeepWiki，助你快速读懂所有GitHub代码库",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83+Devin%E5%BC%80%E5%8F%91%E5%9B%A2%E9%98%9F%E5%BC%80%E6%BA%90DeepWiki%EF%BC%8C%E5%8A%A9%E4%BD%A0%E5%BF%AB%E9%80%9F%E8%AF%BB%E6%87%82%E6%89%80%E6%9C%89GitHub%E4%BB%A3%E7%A0%81%E5%BA%93",
+    "pub_date": "2025-04-27 18:40:00",
+    "author": null
+  },
+  {
     "id": 18310,
     "feed_name": "MacTalk",
     "feed_url": "https://plink.anyfeeder.com/weixin/sagacity-mac",
@@ -667,6 +687,26 @@
     "title": "今年来近30家银行信用卡分中心关停",
     "link": "http://weixin.sogou.com/weixin?type=2&query=%E7%95%8C%E9%9D%A2+%E4%BB%8A%E5%B9%B4%E6%9D%A5%E8%BF%9130%E5%AE%B6%E9%93%B6%E8%A1%8C%E4%BF%A1%E7%94%A8%E5%8D%A1%E5%88%86%E4%B8%AD%E5%BF%83%E5%85%B3%E5%81%9C",
     "pub_date": "2025-04-27 13:10:00",
+    "author": null
+  },
+  {
+    "id": 20302,
+    "feed_name": "新智元",
+    "feed_url": "https://plink.anyfeeder.com/weixin/AI_era",
+    "category": "公众号",
+    "title": "毛骨悚然！o3精准破译照片位置，只靠几行Python代码？人类在AI面前已裸奔",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E6%99%BA%E5%85%83+%E6%AF%9B%E9%AA%A8%E6%82%9A%E7%84%B6%EF%BC%81o3%E7%B2%BE%E5%87%86%E7%A0%B4%E8%AF%91%E7%85%A7%E7%89%87%E4%BD%8D%E7%BD%AE%EF%BC%8C%E5%8F%AA%E9%9D%A0%E5%87%A0%E8%A1%8CPython%E4%BB%A3%E7%A0%81%EF%BC%9F%E4%BA%BA%E7%B1%BB%E5%9C%A8AI%E9%9D%A2%E5%89%8D%E5%B7%B2%E8%A3%B8%E5%A5%94",
+    "pub_date": "2025-04-27 12:40:00",
+    "author": null
+  },
+  {
+    "id": 20303,
+    "feed_name": "新智元",
+    "feed_url": "https://plink.anyfeeder.com/weixin/AI_era",
+    "category": "公众号",
+    "title": "GPT-4o偷偷升级，变身聊天鬼才！新版STEM智力飙升，生图却惨遭削弱？",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E6%99%BA%E5%85%83+GPT-4o%E5%81%B7%E5%81%B7%E5%8D%87%E7%BA%A7%EF%BC%8C%E5%8F%98%E8%BA%AB%E8%81%8A%E5%A4%A9%E9%AC%BC%E6%89%8D%EF%BC%81%E6%96%B0%E7%89%88STEM%E6%99%BA%E5%8A%9B%E9%A3%99%E5%8D%87%EF%BC%8C%E7%94%9F%E5%9B%BE%E5%8D%B4%E6%83%A8%E9%81%AD%E5%89%8A%E5%BC%B1%EF%BC%9F",
+    "pub_date": "2025-04-27 12:40:00",
     "author": null
   },
   {
@@ -6850,7 +6890,7 @@
     "author": null
   },
   {
-    "id": 874,
+    "id": 19944,
     "feed_name": "经济学人",
     "feed_url": "https://plink.anyfeeder.com/weixin/theeconomist",
     "category": "公众号",
@@ -6860,7 +6900,7 @@
     "author": null
   },
   {
-    "id": 18274,
+    "id": 19945,
     "feed_name": "经济学人",
     "feed_url": "https://plink.anyfeeder.com/weixin/theeconomist",
     "category": "公众号",
@@ -6870,7 +6910,7 @@
     "author": null
   },
   {
-    "id": 18635,
+    "id": 20368,
     "feed_name": "ImportNew",
     "feed_url": "https://plink.anyfeeder.com/weixin/importnew",
     "category": "公众号",
@@ -6880,7 +6920,7 @@
     "author": null
   },
   {
-    "id": 18634,
+    "id": 20360,
     "feed_name": "ImportNew",
     "feed_url": "https://plink.anyfeeder.com/weixin/importnew",
     "category": "公众号",
@@ -6890,7 +6930,7 @@
     "author": null
   },
   {
-    "id": 18636,
+    "id": 20361,
     "feed_name": "ImportNew",
     "feed_url": "https://plink.anyfeeder.com/weixin/importnew",
     "category": "公众号",
@@ -6900,7 +6940,7 @@
     "author": null
   },
   {
-    "id": 18637,
+    "id": 20362,
     "feed_name": "ImportNew",
     "feed_url": "https://plink.anyfeeder.com/weixin/importnew",
     "category": "公众号",
@@ -6910,7 +6950,7 @@
     "author": null
   },
   {
-    "id": 18638,
+    "id": 20363,
     "feed_name": "ImportNew",
     "feed_url": "https://plink.anyfeeder.com/weixin/importnew",
     "category": "公众号",
@@ -6920,7 +6960,7 @@
     "author": null
   },
   {
-    "id": 18598,
+    "id": 20141,
     "feed_name": "读库小报",
     "feed_url": "https://plink.anyfeeder.com/weixin/dukuxiaobao",
     "category": "公众号",
@@ -6930,7 +6970,7 @@
     "author": null
   },
   {
-    "id": 18275,
+    "id": 19946,
     "feed_name": "经济学人",
     "feed_url": "https://plink.anyfeeder.com/weixin/theeconomist",
     "category": "公众号",
@@ -6940,7 +6980,7 @@
     "author": null
   },
   {
-    "id": 18276,
+    "id": 19947,
     "feed_name": "经济学人",
     "feed_url": "https://plink.anyfeeder.com/weixin/theeconomist",
     "category": "公众号",
@@ -6950,7 +6990,7 @@
     "author": null
   },
   {
-    "id": 18599,
+    "id": 20139,
     "feed_name": "读库小报",
     "feed_url": "https://plink.anyfeeder.com/weixin/dukuxiaobao",
     "category": "公众号",
@@ -6960,7 +7000,7 @@
     "author": null
   },
   {
-    "id": 18608,
+    "id": 20304,
     "feed_name": "CSDN",
     "feed_url": "https://plink.anyfeeder.com/weixin/CSDNnews",
     "category": "公众号",
@@ -6970,7 +7010,7 @@
     "author": null
   },
   {
-    "id": 18609,
+    "id": 20305,
     "feed_name": "CSDN",
     "feed_url": "https://plink.anyfeeder.com/weixin/CSDNnews",
     "category": "公众号",
@@ -6980,7 +7020,7 @@
     "author": null
   },
   {
-    "id": 18610,
+    "id": 20306,
     "feed_name": "CSDN",
     "feed_url": "https://plink.anyfeeder.com/weixin/CSDNnews",
     "category": "公众号",
@@ -6990,7 +7030,7 @@
     "author": null
   },
   {
-    "id": 18611,
+    "id": 20307,
     "feed_name": "CSDN",
     "feed_url": "https://plink.anyfeeder.com/weixin/CSDNnews",
     "category": "公众号",
@@ -7000,7 +7040,7 @@
     "author": null
   },
   {
-    "id": 18612,
+    "id": 20308,
     "feed_name": "CSDN",
     "feed_url": "https://plink.anyfeeder.com/weixin/CSDNnews",
     "category": "公众号",
@@ -7010,7 +7050,7 @@
     "author": null
   },
   {
-    "id": 18600,
+    "id": 20140,
     "feed_name": "读库小报",
     "feed_url": "https://plink.anyfeeder.com/weixin/dukuxiaobao",
     "category": "公众号",
@@ -7020,7 +7060,7 @@
     "author": null
   },
   {
-    "id": 18601,
+    "id": 20142,
     "feed_name": "读库小报",
     "feed_url": "https://plink.anyfeeder.com/weixin/dukuxiaobao",
     "category": "公众号",
@@ -7030,7 +7070,7 @@
     "author": null
   },
   {
-    "id": 18602,
+    "id": 20143,
     "feed_name": "读库小报",
     "feed_url": "https://plink.anyfeeder.com/weixin/dukuxiaobao",
     "category": "公众号",
@@ -7040,7 +7080,7 @@
     "author": null
   },
   {
-    "id": 18640,
+    "id": 20395,
     "feed_name": "唐书房",
     "feed_url": "https://plink.anyfeeder.com/weixin/clouds70",
     "category": "公众号",
@@ -7050,7 +7090,7 @@
     "author": null
   },
   {
-    "id": 18639,
+    "id": 20399,
     "feed_name": "唐书房",
     "feed_url": "https://plink.anyfeeder.com/weixin/clouds70",
     "category": "公众号",
@@ -7060,7 +7100,7 @@
     "author": null
   },
   {
-    "id": 18642,
+    "id": 20401,
     "feed_name": "唐书房",
     "feed_url": "https://plink.anyfeeder.com/weixin/clouds70",
     "category": "公众号",
@@ -7070,7 +7110,7 @@
     "author": null
   },
   {
-    "id": 18641,
+    "id": 20396,
     "feed_name": "唐书房",
     "feed_url": "https://plink.anyfeeder.com/weixin/clouds70",
     "category": "公众号",
@@ -7080,7 +7120,7 @@
     "author": null
   },
   {
-    "id": 18643,
+    "id": 20397,
     "feed_name": "唐书房",
     "feed_url": "https://plink.anyfeeder.com/weixin/clouds70",
     "category": "公众号",
@@ -7090,7 +7130,7 @@
     "author": null
   },
   {
-    "id": 18618,
+    "id": 19998,
     "feed_name": "MOOC",
     "feed_url": "https://plink.anyfeeder.com/weixin/mooc",
     "category": "公众号",
@@ -7100,7 +7140,7 @@
     "author": null
   },
   {
-    "id": 18619,
+    "id": 19999,
     "feed_name": "MOOC",
     "feed_url": "https://plink.anyfeeder.com/weixin/mooc",
     "category": "公众号",
@@ -7110,7 +7150,7 @@
     "author": null
   },
   {
-    "id": 18620,
+    "id": 20000,
     "feed_name": "MOOC",
     "feed_url": "https://plink.anyfeeder.com/weixin/mooc",
     "category": "公众号",
@@ -7120,7 +7160,7 @@
     "author": null
   },
   {
-    "id": 18621,
+    "id": 20001,
     "feed_name": "MOOC",
     "feed_url": "https://plink.anyfeeder.com/weixin/mooc",
     "category": "公众号",
@@ -7130,7 +7170,7 @@
     "author": null
   },
   {
-    "id": 18622,
+    "id": 20002,
     "feed_name": "MOOC",
     "feed_url": "https://plink.anyfeeder.com/weixin/mooc",
     "category": "公众号",
