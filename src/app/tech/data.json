@@ -1,5 +1,755 @@
 [
   {
+    "id": 31434,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "摩尔线程Linux显卡驱动v3.0.0发布：支持Wayland GPU渲染性能提升",
+    "link": "https://news.mydrivers.com/1/1045/1045155.htm",
+    "pub_date": "2025-05-01 00:05:36",
+    "author": null
+  },
+  {
+    "id": 31435,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "苹果A19/A19 Pro已在路上：iPhone 17系列首发",
+    "link": "https://news.mydrivers.com/1/1045/1045154.htm",
+    "pub_date": "2025-05-01 00:00:02",
+    "author": null
+  },
+  {
+    "id": 31436,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "五一北方穿外套：南方要防暑",
+    "link": "https://news.mydrivers.com/1/1045/1045153.htm",
+    "pub_date": "2025-04-30 23:53:36",
+    "author": null
+  },
+  {
+    "id": 31437,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "村里第二个大学生！《明末：渊虚之羽》PC配置需求公布：显卡最低GTX 1070",
+    "link": "https://news.mydrivers.com/1/1045/1045152.htm",
+    "pub_date": "2025-04-30 23:52:56",
+    "author": null
+  },
+  {
+    "id": 31438,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "3月新能源物流车战报：远程连冠凯程猛涨，大电量车型成新蛋糕",
+    "link": "https://news.mydrivers.com/1/1045/1045151.htm",
+    "pub_date": "2025-04-30 23:41:12",
+    "author": null
+  },
+  {
+    "id": 32150,
+    "feed_name": "极客公园",
+    "feed_url": "https://www.geekpark.net/rss",
+    "category": "科技",
+    "title": "\n        发布 Qwen3，阿里云拉开新一轮开源模型竞赛的序幕\n      ",
+    "link": "http://www.geekpark.net/news/348949",
+    "pub_date": "2025-04-30 23:40:40",
+    "author": null
+  },
+  {
+    "id": 31324,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "特斯联更新招股书：年营收超18亿、大涨83.2%，瞄准空间智能",
+    "link": "https://36kr.com/p/3269531002524295?f=rss",
+    "pub_date": "2025-04-30 23:29:50",
+    "author": null
+  },
+  {
+    "id": 31509,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "A股年报收官：算力和芯片开挂、养猪起飞、宠物经济崛起｜看财报",
+    "link": "https://www.tmtpost.com/7554243.html",
+    "pub_date": "2025-04-30 23:25:13",
+    "author": null
+  },
+  {
+    "id": 31394,
+    "feed_name": "机核",
+    "feed_url": "https://plink.anyfeeder.com/gcores",
+    "category": "科技",
+    "title": "《星之海》全新免费DLC《钟表匠的痛苦》公布上线日期",
+    "link": "https://www.gcores.com/articles/198149",
+    "pub_date": "2025-04-30 23:10:34",
+    "author": "单梦蛙"
+  },
+  {
+    "id": 31325,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "科氪 | 荣耀MagicBook Pro 16 2025发布：HONOR Turbo X重塑轻薄静音游戏本体验",
+    "link": "https://36kr.com/p/3272762929127809?f=rss",
+    "pub_date": "2025-04-30 23:06:56",
+    "author": null
+  },
+  {
+    "id": 31510,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "亏损扩大，锦富技术转型陷三重困局｜看财报",
+    "link": "https://www.tmtpost.com/7554263.html",
+    "pub_date": "2025-04-30 23:05:52",
+    "author": null
+  },
+  {
+    "id": 31395,
+    "feed_name": "机核",
+    "feed_url": "https://plink.anyfeeder.com/gcores",
+    "category": "科技",
+    "title": "北京的朋友周末去哪里玩？【那我问你】4月号",
+    "link": "https://www.gcores.com/radios/197936",
+    "pub_date": "2025-04-30 23:00:00",
+    "author": "annann,西蒙,四十二"
+  },
+  {
+    "id": 31511,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "那些加入京东外卖的骑手，他们发生了怎样的变化？",
+    "link": "https://www.tmtpost.com/7553919.html",
+    "pub_date": "2025-04-30 22:50:54",
+    "author": null
+  },
+  {
+    "id": 31512,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "半导体设备，日韩大赚",
+    "link": "https://www.tmtpost.com/7553918.html",
+    "pub_date": "2025-04-30 22:50:52",
+    "author": null
+  },
+  {
+    "id": 31513,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "五粮液亮相日本世博会：重构白酒出海新范式，与世界共和美",
+    "link": "https://www.tmtpost.com/7554250.html",
+    "pub_date": "2025-04-30 22:39:33",
+    "author": null
+  },
+  {
+    "id": 31514,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "中美博弈下，国产磁悬浮离心机技术能反向“卡脖子”吗？｜钛媒体AGI",
+    "link": "https://www.tmtpost.com/7549785.html",
+    "pub_date": "2025-04-30 22:35:00",
+    "author": null
+  },
+  {
+    "id": 31515,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "不到15万元！清华90后团队发布“褐蚁”一体机，已支持阿里最新Qwen3模型｜钛媒体AGI",
+    "link": "https://www.tmtpost.com/7554206.html",
+    "pub_date": "2025-04-30 22:26:19",
+    "author": null
+  },
+  {
+    "id": 31326,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "11款产品入选，2025春季「焦点」产品计划重磅发布",
+    "link": "https://36kr.com/p/3272303571378310?f=rss",
+    "pub_date": "2025-04-30 21:30:17",
+    "author": null
+  },
+  {
+    "id": 31516,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "港股突围，赛力斯能否跑赢“问界依赖”与估值重构？｜钛度车库",
+    "link": "https://www.tmtpost.com/7553350.html",
+    "pub_date": "2025-04-30 21:13:37",
+    "author": null
+  },
+  {
+    "id": 31517,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "营收暴涨、净利润暴跌，石头科技出海业务成为“吞金兽”？",
+    "link": "https://www.tmtpost.com/7553781.html",
+    "pub_date": "2025-04-30 21:12:49",
+    "author": null
+  },
+  {
+    "id": 31518,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "AI时代的to B业务，不再是单纯的产品售卖",
+    "link": "https://www.tmtpost.com/7553822.html",
+    "pub_date": "2025-04-30 21:12:11",
+    "author": null
+  },
+  {
+    "id": 31396,
+    "feed_name": "机核",
+    "feed_url": "https://plink.anyfeeder.com/gcores",
+    "category": "科技",
+    "title": "电视研第五期 对口型、老铁、带货——短视频当代史",
+    "link": "https://www.gcores.com/radios/194869",
+    "pub_date": "2025-04-30 21:00:00",
+    "author": "陈朝,萝卜萝卜萝,Ryoma"
+  },
+  {
+    "id": 31334,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "美国经济出现2022年以来首次负增长 受进口激增影响",
+    "link": "https://36kr.com/newsflashes/3272632532213888?f=rss",
+    "pub_date": "2025-04-30 20:59:16",
+    "author": null
+  },
+  {
+    "id": 31519,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "一季度新发放商业房贷加权平均利率仅3.11%，已经触底了吗？",
+    "link": "https://www.tmtpost.com/7553960.html",
+    "pub_date": "2025-04-30 20:57:09",
+    "author": null
+  },
+  {
+    "id": 31335,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "热门中概股美股盘前多数下跌，蔚来跌超4%",
+    "link": "https://36kr.com/newsflashes/3272635654709376?f=rss",
+    "pub_date": "2025-04-30 20:57:08",
+    "author": null
+  },
+  {
+    "id": 31336,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "蚂蚁数科为全球RWA资金高效交易推出全新区块链平台",
+    "link": "https://36kr.com/newsflashes/3272633615245705?f=rss",
+    "pub_date": "2025-04-30 20:55:04",
+    "author": null
+  },
+  {
+    "id": 31337,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "美股大型科技股盘前普跌，特斯拉跌超4%",
+    "link": "https://36kr.com/newsflashes/3272631800373638?f=rss",
+    "pub_date": "2025-04-30 20:53:13",
+    "author": null
+  },
+  {
+    "id": 31338,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "海光信息：董事长孟宪棠因个人年龄原因辞职",
+    "link": "https://36kr.com/newsflashes/3272620948824195?f=rss",
+    "pub_date": "2025-04-30 20:51:15",
+    "author": null
+  },
+  {
+    "id": 31339,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "2025五一档电影新片票房破9000万",
+    "link": "https://36kr.com/newsflashes/3272627888464259?f=rss",
+    "pub_date": "2025-04-30 20:49:14",
+    "author": null
+  },
+  {
+    "id": 31340,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "大千生态：子公司江苏千宠家科技有限公司尚处于起步阶段",
+    "link": "https://36kr.com/newsflashes/3272613690286211?f=rss",
+    "pub_date": "2025-04-30 20:42:45",
+    "author": null
+  },
+  {
+    "id": 31837,
+    "feed_name": "Solidot",
+    "feed_url": "https://www.solidot.org/index.rss",
+    "category": "科技",
+    "title": "芬兰议会通过限制中小学生使用手机的法律",
+    "link": "https://www.solidot.org/story?sid=81189",
+    "pub_date": "2025-04-30 20:42:38",
+    "author": null
+  },
+  {
+    "id": 31341,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "广东：推动政府等公共服务机构率先接入人工智能大模型",
+    "link": "https://36kr.com/newsflashes/3272619961622913?f=rss",
+    "pub_date": "2025-04-30 20:41:10",
+    "author": null
+  },
+  {
+    "id": 31342,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "广东：突出培育发展前沿赛道产业，降低制造业和高新技术企业融资成本",
+    "link": "https://36kr.com/newsflashes/3272619647197572?f=rss",
+    "pub_date": "2025-04-30 20:40:51",
+    "author": null
+  },
+  {
+    "id": 31343,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "美国第一季度经济环比萎缩0.3%",
+    "link": "https://36kr.com/newsflashes/3272617490342278?f=rss",
+    "pub_date": "2025-04-30 20:38:39",
+    "author": null
+  },
+  {
+    "id": 31344,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "诺华将斥资至多17亿美元收购生物技术公司Regulus Therapeutics",
+    "link": "https://36kr.com/newsflashes/3272608401121668?f=rss",
+    "pub_date": "2025-04-30 20:38:21",
+    "author": null
+  },
+  {
+    "id": 31520,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "瑞幸咖啡Q1净收入同比增长41.2%；On昂跑中国首家旗舰店落地成都；伯希和冲刺港交所；始祖鸟成立鞋履部门｜消研所周报  原创 消研所  消研所trendmakers  2025年04月30日 18:37 黑龙江",
+    "link": "https://www.tmtpost.com/7554006.html",
+    "pub_date": "2025-04-30 20:37:52",
+    "author": null
+  },
+  {
+    "id": 31345,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "寒武纪：拟定增募资不超过49.8亿元",
+    "link": "https://36kr.com/newsflashes/3272606010581376?f=rss",
+    "pub_date": "2025-04-30 20:33:56",
+    "author": null
+  },
+  {
+    "id": 31327,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "2025 KIC知识艺术节启动，在大学路漫游“无界的大学”",
+    "link": "https://36kr.com/p/3270966486311044?f=rss",
+    "pub_date": "2025-04-30 20:32:00",
+    "author": null
+  },
+  {
+    "id": 31346,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "华盛控自建AI算力中心，搭建本地私有大模型",
+    "link": "https://36kr.com/newsflashes/3272572183224456?f=rss",
+    "pub_date": "2025-04-30 20:30:27",
+    "author": null
+  },
+  {
+    "id": 31397,
+    "feed_name": "机核",
+    "feed_url": "https://plink.anyfeeder.com/gcores",
+    "category": "科技",
+    "title": "低调爆肝5年，这支动画团队如何让全球玩家直呼“美神降临”？⎪专访悠星ARCUS Anime",
+    "link": "https://www.gcores.com/articles/198143",
+    "pub_date": "2025-04-30 20:30:00",
+    "author": "动画学术趴"
+  },
+  {
+    "id": 31347,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "蓝佛安访问新开发银行总部",
+    "link": "https://36kr.com/newsflashes/3272607240118409?f=rss",
+    "pub_date": "2025-04-30 20:28:14",
+    "author": null
+  },
+  {
+    "id": 31348,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "韦尔股份：公司毛利率有望进一步提升",
+    "link": "https://36kr.com/newsflashes/3272567930397065?f=rss",
+    "pub_date": "2025-04-30 20:24:09",
+    "author": null
+  },
+  {
+    "id": 31349,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "央行有关负责人：供应链核心企业及时支付中小企业款项，明确应收账款电子凭证付款期限原则上应在6个月以内",
+    "link": "https://36kr.com/newsflashes/3272599617167489?f=rss",
+    "pub_date": "2025-04-30 20:20:28",
+    "author": null
+  },
+  {
+    "id": 31521,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "疫苗市场“万马齐喑”，康希诺有望盈利上岸，但增长潜力与瓶颈都很明显丨看财报",
+    "link": "https://www.tmtpost.com/7553760.html",
+    "pub_date": "2025-04-30 20:20:07",
+    "author": null
+  },
+  {
+    "id": 31350,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "挪威邮轮公司因高端航次需求疲软未达季度预期",
+    "link": "https://36kr.com/newsflashes/3272564885315713?f=rss",
+    "pub_date": "2025-04-30 20:16:03",
+    "author": null
+  },
+  {
+    "id": 31351,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "国家互联网信息办公室等七部门：向境内提供终端设备直连卫星服务应当依照相关规定取得相应许可和核准",
+    "link": "https://36kr.com/newsflashes/3272593372504193?f=rss",
+    "pub_date": "2025-04-30 20:14:07",
+    "author": null
+  },
+  {
+    "id": 31352,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "国家互联网信息办公室等七部门联合发布《终端设备直连卫星服务管理规定》",
+    "link": "https://36kr.com/newsflashes/3272592957301123?f=rss",
+    "pub_date": "2025-04-30 20:13:42",
+    "author": null
+  },
+  {
+    "id": 31353,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "LG化学一季度营业利润同比增加68.9%",
+    "link": "https://36kr.com/newsflashes/3272562514911364?f=rss",
+    "pub_date": "2025-04-30 20:09:36",
+    "author": null
+  },
+  {
+    "id": 31354,
+    "feed_name": "爱范儿",
+    "feed_url": "https://plink.anyfeeder.com/ifanr",
+    "category": "科技",
+    "title": "ROG 魔霸 9X 游戏电脑体验，强悍的游戏性能，只为打造情绪价值机器",
+    "link": "https://www.ifanr.com/1622695?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "pub_date": "2025-04-30 20:03:45",
+    "author": null
+  },
+  {
+    "id": 31398,
+    "feed_name": "机核",
+    "feed_url": "https://plink.anyfeeder.com/gcores",
+    "category": "科技",
+    "title": "肉鸽+掼蛋+斗地主，《天启派对：恶魔牌》开启限量测试",
+    "link": "https://www.gcores.com/articles/198146",
+    "pub_date": "2025-04-30 20:03:38",
+    "author": "势不可挡的肖尔"
+  },
+  {
+    "id": 31399,
+    "feed_name": "机核",
+    "feed_url": "https://plink.anyfeeder.com/gcores",
+    "category": "科技",
+    "title": "卡牌肉鸽新游《虚空之旅》中文DEMO公开",
+    "link": "https://www.gcores.com/articles/198140",
+    "pub_date": "2025-04-30 19:52:58",
+    "author": "Darlin'菈妮"
+  },
+  {
+    "id": 31522,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "用技术回应“人民需要”，五菱想用体系力应对智能化内卷",
+    "link": "https://www.tmtpost.com/7554023.html",
+    "pub_date": "2025-04-30 19:49:18",
+    "author": null
+  },
+  {
+    "id": 31523,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "高毛利业务失守砍研发降本，光峰科技转型阵痛加剧｜看财报",
+    "link": "https://www.tmtpost.com/7553980.html",
+    "pub_date": "2025-04-30 19:49:08",
+    "author": null
+  },
+  {
+    "id": 31524,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "中国电信董事长柯瑞文详解：天翼云如何向AI转型",
+    "link": "https://www.tmtpost.com/7553951.html",
+    "pub_date": "2025-04-30 19:07:13",
+    "author": null
+  },
+  {
+    "id": 31838,
+    "feed_name": "Solidot",
+    "feed_url": "https://www.solidot.org/index.rss",
+    "category": "科技",
+    "title": "黄金可能来自磁星",
+    "link": "https://www.solidot.org/story?sid=81188",
+    "pub_date": "2025-04-30 19:00:38",
+    "author": null
+  },
+  {
+    "id": 31526,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "“奇葩”的众泰汽车：一年生产0辆车、卖出14辆、亏损10亿",
+    "link": "https://www.tmtpost.com/7553854.html",
+    "pub_date": "2025-04-30 18:34:00",
+    "author": null
+  },
+  {
+    "id": 31839,
+    "feed_name": "Solidot",
+    "feed_url": "https://www.solidot.org/index.rss",
+    "category": "科技",
+    "title": "LG 将于 6 月底关闭智能手机更新服务",
+    "link": "https://www.solidot.org/story?sid=81187",
+    "pub_date": "2025-04-30 18:33:30",
+    "author": null
+  },
+  {
+    "id": 31525,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "取消了“仅退款”，商家就可以高枕无忧了吗？",
+    "link": "https://www.tmtpost.com/7553710.html",
+    "pub_date": "2025-04-30 18:21:56",
+    "author": null
+  },
+  {
+    "id": 31355,
+    "feed_name": "爱范儿",
+    "feed_url": "https://plink.anyfeeder.com/ifanr",
+    "category": "科技",
+    "title": "中杯 LYRIQ、大杯 VISTIQ、超大杯 ESCLADE IQ ，凯迪拉克电动化主打「以不变应万变」",
+    "link": "https://www.ifanr.com/1622675?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "pub_date": "2025-04-30 18:14:54",
+    "author": null
+  },
+  {
+    "id": 31400,
+    "feed_name": "机核",
+    "feed_url": "https://plink.anyfeeder.com/gcores",
+    "category": "科技",
+    "title": "重逢在那遥远星系，远离纷扰的黄金乡｜星战庆典东京2025游记Vlog",
+    "link": "https://www.gcores.com/videos/198126",
+    "pub_date": "2025-04-30 18:00:00",
+    "author": "小五_Klaus,贝壳哈姆,pmbie"
+  },
+  {
+    "id": 31328,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "国泰乌鲁木齐-香港直飞航线开通，扩大东亚、东南亚至中西亚国际客流货运辐射通道｜最前线",
+    "link": "https://36kr.com/p/3272417529880961?f=rss",
+    "pub_date": "2025-04-30 17:56:44",
+    "author": null
+  },
+  {
+    "id": 31329,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "华为郭振兴： DeepSeek浪潮后，AI将快速释放巨大的制造业生产红利 | 最前线",
+    "link": "https://36kr.com/p/3272321127112839?f=rss",
+    "pub_date": "2025-04-30 17:47:06",
+    "author": null
+  },
+  {
+    "id": 31401,
+    "feed_name": "机核",
+    "feed_url": "https://plink.anyfeeder.com/gcores",
+    "category": "科技",
+    "title": "《光与影：33号远征队》评测：1/10，远征失败",
+    "link": "https://www.gcores.com/articles/198135",
+    "pub_date": "2025-04-30 17:30:08",
+    "author": "北依"
+  },
+  {
+    "id": 31840,
+    "feed_name": "Solidot",
+    "feed_url": "https://www.solidot.org/index.rss",
+    "category": "科技",
+    "title": "Google Play 应用数量减少 47%",
+    "link": "https://www.solidot.org/story?sid=81186",
+    "pub_date": "2025-04-30 17:26:22",
+    "author": null
+  },
+  {
+    "id": 31449,
+    "feed_name": "小众软件",
+    "feed_url": "https://plink.anyfeeder.com/appinn",
+    "category": "科技",
+    "title": "Aegis – 免费开源的二次验证（2FA）应用[Android]",
+    "link": "https://www.appinn.com/aegis-2fa-for-android/",
+    "pub_date": "2025-04-30 17:13:47",
+    "author": null
+  },
+  {
+    "id": 31458,
+    "feed_name": "少数派",
+    "feed_url": "https://plink.anyfeeder.com/sspai",
+    "category": "科技",
+    "title": "付费栏目试读 | 挖掘独特标识，打造个人品牌的几点经验谈",
+    "link": "https://sspai.com/post/98651",
+    "pub_date": "2025-04-30 17:05:52",
+    "author": null
+  },
+  {
+    "id": 31330,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "夏季焦点产品计划招募",
+    "link": "https://36kr.com/p/3272311778877574?f=rss",
+    "pub_date": "2025-04-30 17:00:38",
+    "author": null
+  },
+  {
+    "id": 31402,
+    "feed_name": "机核",
+    "feed_url": "https://plink.anyfeeder.com/gcores",
+    "category": "科技",
+    "title": "只知道育碧请吃罗马大餐，吃完发现是古罗马大餐 S·P·Q·R，录音笔VOL.442",
+    "link": "https://www.gcores.com/radios/198132",
+    "pub_date": "2025-04-30 17:00:00",
+    "author": "萝卜萝卜萝,稚嫩的魔法师"
+  },
+  {
+    "id": 31459,
+    "feed_name": "小众软件",
+    "feed_url": "https://plink.anyfeeder.com/appinn",
+    "category": "科技",
+    "title": "GitHub 被访问限制，Access has been restricted 错误临时解决方案[Chrome/Edge/Firefox]",
+    "link": "https://www.appinn.com/github-access-has-been-restricted-429/",
+    "pub_date": "2025-04-30 16:51:20",
+    "author": null
+  },
+  {
+    "id": 31403,
+    "feed_name": "机核",
+    "feed_url": "https://plink.anyfeeder.com/gcores",
+    "category": "科技",
+    "title": "网易新游《星绘友晴天》海外首曝 充满治愈的生活模拟/欢乐派对游戏",
+    "link": "https://www.gcores.com/articles/198133",
+    "pub_date": "2025-04-30 16:38:27",
+    "author": "单梦蛙"
+  },
+  {
+    "id": 31841,
+    "feed_name": "Solidot",
+    "feed_url": "https://www.solidot.org/index.rss",
+    "category": "科技",
+    "title": "前苏联失败的金星探测器即将坠落回地面",
+    "link": "https://www.solidot.org/story?sid=81185",
+    "pub_date": "2025-04-30 16:37:04",
+    "author": null
+  },
+  {
+    "id": 31331,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "卖皮肤病药曾年入6亿，治白癜风的药企想IPO",
+    "link": "https://36kr.com/p/3272363545469064?f=rss",
+    "pub_date": "2025-04-30 16:34:00",
+    "author": null
+  },
+  {
+    "id": 31404,
+    "feed_name": "机核",
+    "feed_url": "https://plink.anyfeeder.com/gcores",
+    "category": "科技",
+    "title": "可以撸猫的动作肉鸽？《维兹之刃》Demo现已上线",
+    "link": "https://www.gcores.com/articles/198131",
+    "pub_date": "2025-04-30 16:26:40",
+    "author": "Darlin'菈妮"
+  },
+  {
+    "id": 31372,
+    "feed_name": "36氪",
+    "feed_url": "https://plink.anyfeeder.com/36kr",
+    "category": "科技",
+    "title": "氪星晚报 ｜饿了么宣布超百亿补贴；星巴克宣布将增加门店员工数量，减少自动化设备；曹操出行更新招股书：2024年营收147亿同比增长37.4%，毛利率持续提升",
+    "link": "https://36kr.com/p/3272025288286599?f=rss",
+    "pub_date": "2025-04-30 16:07:10",
+    "author": null
+  },
+  {
+    "id": 31421,
+    "feed_name": "少数派",
+    "feed_url": "https://plink.anyfeeder.com/sspai",
+    "category": "科技",
+    "title": "打碎知识管理的外壳：笔记该记什么，不该记什么？",
+    "link": "https://sspai.com/post/98846",
+    "pub_date": "2025-04-30 15:35:39",
+    "author": null
+  },
+  {
     "id": 29650,
     "feed_name": "36氪",
     "feed_url": "https://plink.anyfeeder.com/36kr",
@@ -390,6 +1140,16 @@
     "author": null
   },
   {
+    "id": 31619,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "Meta推出LlamaFirewall框架，防御AI越狱攻击与不安全代码生成",
+    "link": "https://www.freebuf.com/articles/ai-security/429439.html",
+    "pub_date": "2025-04-30 12:38:00",
+    "author": null
+  },
+  {
     "id": 29669,
     "feed_name": "36氪",
     "feed_url": "https://plink.anyfeeder.com/36kr",
@@ -530,6 +1290,16 @@
     "author": "mowolf"
   },
   {
+    "id": 31406,
+    "feed_name": "机核",
+    "feed_url": "https://plink.anyfeeder.com/gcores",
+    "category": "科技",
+    "title": "HLA速递&预告|聚焦游戏与家庭教育，共探亲子游戏素养提升之道",
+    "link": "https://www.gcores.com/articles/198088",
+    "pub_date": "2025-04-30 12:00:00",
+    "author": "Felania"
+  },
+  {
     "id": 29676,
     "feed_name": "小众软件",
     "feed_url": "https://plink.anyfeeder.com/appinn",
@@ -638,6 +1408,26 @@
     "link": "https://www.gcores.com/articles/197988",
     "pub_date": "2025-04-30 11:00:00",
     "author": "吉考斯工业"
+  },
+  {
+    "id": 31410,
+    "feed_name": "机核",
+    "feed_url": "https://plink.anyfeeder.com/gcores",
+    "category": "科技",
+    "title": "《光与影：33号远征队》的66点感受和细节（个人向）",
+    "link": "https://www.gcores.com/articles/198113",
+    "pub_date": "2025-04-30 11:00:00",
+    "author": "巧克力曲奇麦片超难吃"
+  },
+  {
+    "id": 31411,
+    "feed_name": "机核",
+    "feed_url": "https://plink.anyfeeder.com/gcores",
+    "category": "科技",
+    "title": "《怪物猎人：荒野》泡狐龙武器命名原型解析",
+    "link": "https://www.gcores.com/videos/198098",
+    "pub_date": "2025-04-30 11:00:00",
+    "author": "打不死的迪奥"
   },
   {
     "id": 29779,
@@ -1440,6 +2230,16 @@
     "author": " x 博士 "
   },
   {
+    "id": 31622,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "AirBorne漏洞可导致苹果设备被完全劫持",
+    "link": "https://www.freebuf.com/articles/endpoint/429453.html",
+    "pub_date": "2025-04-30 05:36:57",
+    "author": null
+  },
+  {
     "id": 26276,
     "feed_name": "快科技",
     "feed_url": "https://plink.anyfeeder.com/mydrivers",
@@ -1447,6 +2247,16 @@
     "title": "回家！神舟十九号撤离空间站",
     "link": "https://news.mydrivers.com/1/1044/1044888.htm",
     "pub_date": "2025-04-30 05:12:02",
+    "author": null
+  },
+  {
+    "id": 31623,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "GitAuto 通过规模化自动化质量保障强化代码安全",
+    "link": "https://www.freebuf.com/articles/ai-security/429378.html",
+    "pub_date": "2025-04-30 04:17:46",
     "author": null
   },
   {
@@ -1617,6 +2427,16 @@
     "title": "万兴科技与华为云达成全新战略合作，将共建AI联合实验室",
     "link": "https://36kr.com/newsflashes/3271274677887111?f=rss",
     "pub_date": "2025-04-29 21:52:41",
+    "author": null
+  },
+  {
+    "id": 31625,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "研究报告揭示主流AI系统存在越狱漏洞、不安全代码及数据窃取风险",
+    "link": "https://www.freebuf.com/articles/ai-security/429368.html",
+    "pub_date": "2025-04-29 21:48:00",
     "author": null
   },
   {
@@ -2170,6 +2990,16 @@
     "author": null
   },
   {
+    "id": 31628,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "产品解析：如何通过 Reco 保障 Microsoft Copilot 安全",
+    "link": "https://www.freebuf.com/articles/ai-security/429380.html",
+    "pub_date": "2025-04-29 16:30:00",
+    "author": null
+  },
+  {
     "id": 25870,
     "feed_name": "机核",
     "feed_url": "https://plink.anyfeeder.com/gcores",
@@ -2217,6 +3047,16 @@
     "title": "java安全：从发现者角度解析CC5和CC7链构造过程(完结)",
     "link": "https://www.freebuf.com/articles/web/429198.html",
     "pub_date": "2025-04-29 16:00:42",
+    "author": null
+  },
+  {
+    "id": 31631,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "微软宣布Windows Server热补丁功能将转为订阅制",
+    "link": "https://www.freebuf.com/articles/system/429343.html",
+    "pub_date": "2025-04-29 15:47:15",
     "author": null
   },
   {
@@ -3196,6 +4036,16 @@
     "category": "科技",
     "title": "2025音乐App终极对决：QQ曲库最大，网易评论最疯，Apple Music最纯粹",
     "link": "https://www.tmtpost.com/7551373.html",
+    "pub_date": "2025-04-29 09:00:00",
+    "author": null
+  },
+  {
+    "id": 31633,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "入侵态势分析：凭证窃取与边界漏洞利用激增，钓鱼攻击持续衰退",
+    "link": "https://www.freebuf.com/articles/es/429372.html",
     "pub_date": "2025-04-29 09:00:00",
     "author": null
   },
@@ -15780,7 +16630,7 @@
     "author": "果壳亲子"
   },
   {
-    "id": 29813,
+    "id": 31564,
     "feed_name": "观止·每日一文",
     "feed_url": "https://plink.anyfeeder.com/meiriyiwen",
     "category": "科技",
