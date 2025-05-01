@@ -1,5 +1,485 @@
 [
   {
+    "id": 33161,
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "《黑神话：悟空》杨奇回应DLC！还晒出超大亢金星君T恤",
+    "link": "https://news.mydrivers.com/1/1045/1045194.htm",
+    "pub_date": "2025-05-01 10:38:27"
+  },
+  {
+    "id": 33162,
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "网飞上线希区柯克作品集",
+    "link": "https://news.mydrivers.com/1/1045/1045193.htm",
+    "pub_date": "2025-05-01 10:27:40"
+  },
+  {
+    "id": 33053,
+    "feed_name": "36氪",
+    "category": "科技",
+    "title": "1—4月重点房企拿地总额同比增长26.6%",
+    "link": "https://36kr.com/newsflashes/3273430373982598?f=rss",
+    "pub_date": "2025-05-01 10:25:34"
+  },
+  {
+    "id": 33163,
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "微软电脑管家推送自家Microsoft 365广告：还没法关闭！",
+    "link": "https://news.mydrivers.com/1/1045/1045192.htm",
+    "pub_date": "2025-05-01 10:22:12"
+  },
+  {
+    "id": 33256,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "优酷平台预算缩水后的第一剑，指向了男频剧",
+    "link": "https://www.tmtpost.com/7554458.html",
+    "pub_date": "2025-05-01 10:20:00"
+  },
+  {
+    "id": 33054,
+    "feed_name": "36氪",
+    "category": "科技",
+    "title": "岚图汽车4月销量10019辆 同比增长150%",
+    "link": "https://36kr.com/newsflashes/3273424162463880?f=rss",
+    "pub_date": "2025-05-01 10:19:15"
+  },
+  {
+    "id": 33055,
+    "feed_name": "36氪",
+    "category": "科技",
+    "title": "理想汽车2025年4月交付33939辆",
+    "link": "https://36kr.com/newsflashes/3273421970366601?f=rss",
+    "pub_date": "2025-05-01 10:17:01"
+  },
+  {
+    "id": 33056,
+    "feed_name": "36氪",
+    "category": "科技",
+    "title": "小米汽车4月交付超28000台",
+    "link": "https://36kr.com/newsflashes/3273415310762114?f=rss",
+    "pub_date": "2025-05-01 10:10:14"
+  },
+  {
+    "id": 33150,
+    "feed_name": "虎嗅",
+    "category": "科技",
+    "title": " “学了蛤蟆功，打跑资本家” ",
+    "link": "https://www.huxiu.com/article/4297496.html?f=rss",
+    "pub_date": "2025-05-01 10:10:00"
+  },
+  {
+    "id": 33257,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "全球第八的野心，储能新秀果下科技赴港上市，直指“AI+储能”的高地",
+    "link": "https://www.tmtpost.com/7554051.html",
+    "pub_date": "2025-05-01 10:07:00"
+  },
+  {
+    "id": 33164,
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "新势力卷王卖爆！零跑4月交付41039台 同比暴涨173%",
+    "link": "https://news.mydrivers.com/1/1045/1045191.htm",
+    "pub_date": "2025-05-01 10:04:54"
+  },
+  {
+    "id": 33258,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "青海春天，放不下听花酒",
+    "link": "https://www.tmtpost.com/7554129.html",
+    "pub_date": "2025-05-01 10:02:53"
+  },
+  {
+    "id": 33259,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "饿了么紧急入局，补贴大战再升级，外卖市场进入深度博弈期",
+    "link": "https://www.tmtpost.com/7554135.html",
+    "pub_date": "2025-05-01 10:02:49"
+  },
+  {
+    "id": 33260,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "28亿拿下香港老券商耀才，蚂蚁的算盘怎么打？",
+    "link": "https://www.tmtpost.com/7554195.html",
+    "pub_date": "2025-05-01 10:00:47"
+  },
+  {
+    "id": 33288,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "价格全线回撤，光伏“春季攻势”已告终？",
+    "link": "https://www.tmtpost.com/7554346.html",
+    "pub_date": "2025-05-01 09:59:41"
+  },
+  {
+    "id": 33165,
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "彻底告别Windows！华为鸿蒙PC版本月发布：自主可控、统一生态",
+    "link": "https://news.mydrivers.com/1/1045/1045190.htm",
+    "pub_date": "2025-05-01 09:57:04"
+  },
+  {
+    "id": 33057,
+    "feed_name": "36氪",
+    "category": "科技",
+    "title": "茅台集团：要抓住“五一”假期消费契机 强化“酒旅”联动",
+    "link": "https://36kr.com/newsflashes/3273393749794947?f=rss",
+    "pub_date": "2025-05-01 09:48:18"
+  },
+  {
+    "id": 33261,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "关税效应下，中国跨境电商如何重构全球价值链？",
+    "link": "https://www.tmtpost.com/7554030.html",
+    "pub_date": "2025-05-01 09:38:00"
+  },
+  {
+    "id": 33058,
+    "feed_name": "36氪",
+    "category": "科技",
+    "title": "“安序源”向港交所递交招股说明书",
+    "link": "https://36kr.com/newsflashes/3273382207791494?f=rss",
+    "pub_date": "2025-05-01 09:36:34"
+  },
+  {
+    "id": 33709,
+    "feed_name": "雪球",
+    "category": "公众号",
+    "title": "Biotech产业链：康诺亚向右，百奥赛图向左，和铂在中间",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E9%9B%AA%E7%90%83+Biotech%E4%BA%A7%E4%B8%9A%E9%93%BE%EF%BC%9A%E5%BA%B7%E8%AF%BA%E4%BA%9A%E5%90%91%E5%8F%B3%EF%BC%8C%E7%99%BE%E5%A5%A5%E8%B5%9B%E5%9B%BE%E5%90%91%E5%B7%A6%EF%BC%8C%E5%92%8C%E9%93%82%E5%9C%A8%E4%B8%AD%E9%97%B4",
+    "pub_date": "2025-05-01 09:32:00"
+  },
+  {
+    "id": 33710,
+    "feed_name": "雪球",
+    "category": "公众号",
+    "title": "为什么军工板块的投资难度这么大？",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E9%9B%AA%E7%90%83+%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%9B%E5%B7%A5%E6%9D%BF%E5%9D%97%E7%9A%84%E6%8A%95%E8%B5%84%E9%9A%BE%E5%BA%A6%E8%BF%99%E4%B9%88%E5%A4%A7%EF%BC%9F",
+    "pub_date": "2025-05-01 09:32:00"
+  },
+  {
+    "id": 33711,
+    "feed_name": "雪球",
+    "category": "公众号",
+    "title": "1月股市涨了：这是川普的股市！4月股市跌了：这是拜登的股市！特朗普执政100天，被痛批失败！沃尔玛低头了，145%关税全扛！",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E9%9B%AA%E7%90%83+1%E6%9C%88%E8%82%A1%E5%B8%82%E6%B6%A8%E4%BA%86%EF%BC%9A%E8%BF%99%E6%98%AF%E5%B7%9D%E6%99%AE%E7%9A%84%E8%82%A1%E5%B8%82%EF%BC%814%E6%9C%88%E8%82%A1%E5%B8%82%E8%B7%8C%E4%BA%86%EF%BC%9A%E8%BF%99%E6%98%AF%E6%8B%9C%E7%99%BB%E7%9A%84%E8%82%A1%E5%B8%82%EF%BC%81%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%A7%E6%94%BF100%E5%A4%A9%EF%BC%8C%E8%A2%AB%E7%97%9B%E6%89%B9%E5%A4%B1%E8%B4%A5%EF%BC%81%E6%B2%83%E5%B0%94%E7%8E%9B%E4%BD%8E%E5%A4%B4%E4%BA%86%EF%BC%8C145%25%E5%85%B3%E7%A8%8E%E5%85%A8%E6%89%9B%EF%BC%81",
+    "pub_date": "2025-05-01 09:32:00"
+  },
+  {
+    "id": 33712,
+    "feed_name": "雪球",
+    "category": "公众号",
+    "title": "当A股波动率消失时，最应该做的事",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E9%9B%AA%E7%90%83+%E5%BD%93A%E8%82%A1%E6%B3%A2%E5%8A%A8%E7%8E%87%E6%B6%88%E5%A4%B1%E6%97%B6%EF%BC%8C%E6%9C%80%E5%BA%94%E8%AF%A5%E5%81%9A%E7%9A%84%E4%BA%8B",
+    "pub_date": "2025-05-01 09:32:00"
+  },
+  {
+    "id": 33262,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "2025年，什么样的燃油车会被排队围观？",
+    "link": "https://www.tmtpost.com/7554031.html",
+    "pub_date": "2025-05-01 09:29:00"
+  },
+  {
+    "id": 33137,
+    "feed_name": "虎嗅",
+    "category": "科技",
+    "title": " 连大厂都不卷了，我却还不敢休息 ",
+    "link": "https://www.huxiu.com/article/4299505.html?f=rss",
+    "pub_date": "2025-05-01 09:28:00"
+  },
+  {
+    "id": 33059,
+    "feed_name": "36氪",
+    "category": "科技",
+    "title": "元保正式登陆纳斯达克：首日上涨6.4%",
+    "link": "https://36kr.com/newsflashes/3273372645220743?f=rss",
+    "pub_date": "2025-05-01 09:26:50"
+  },
+  {
+    "id": 33138,
+    "feed_name": "虎嗅",
+    "category": "科技",
+    "title": " 今年的五一消费，确实没想到 ",
+    "link": "https://www.huxiu.com/article/4299484.html?f=rss",
+    "pub_date": "2025-05-01 09:26:00"
+  },
+  {
+    "id": 33139,
+    "feed_name": "虎嗅",
+    "category": "科技",
+    "title": " 李敬泽：我不相信阅读会式微 ",
+    "link": "https://www.huxiu.com/article/4299495.html?f=rss",
+    "pub_date": "2025-05-01 09:25:00"
+  },
+  {
+    "id": 33888,
+    "feed_name": "极客公园",
+    "category": "科技",
+    "title": "\n        一个月 78 块的 AI 日历，治好了我的「万事开头难」\n      ",
+    "link": "http://www.geekpark.net/news/348924",
+    "pub_date": "2025-05-01 09:24:57"
+  },
+  {
+    "id": 33263,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "AIoT企业特斯联递交更新版招股书：2024年营收18.43亿元，同比增长83.2%",
+    "link": "https://www.tmtpost.com/7554388.html",
+    "pub_date": "2025-05-01 09:21:54"
+  },
+  {
+    "id": 33060,
+    "feed_name": "36氪",
+    "category": "科技",
+    "title": "零跑汽车：4月交付41039台，同比增长173%",
+    "link": "https://36kr.com/newsflashes/3273367171228034?f=rss",
+    "pub_date": "2025-05-01 09:21:16"
+  },
+  {
+    "id": 33264,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "从9.9到5.9元，“健身界瑞幸”们内卷起来了",
+    "link": "https://www.tmtpost.com/7554088.html",
+    "pub_date": "2025-05-01 09:21:00"
+  },
+  {
+    "id": 33265,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "中山“神秘鞋王”张聪渊，财富飙至800亿",
+    "link": "https://www.tmtpost.com/7554265.html",
+    "pub_date": "2025-05-01 09:14:00"
+  },
+  {
+    "id": 33061,
+    "feed_name": "36氪",
+    "category": "科技",
+    "title": "特斯联更新2024年业绩：年复合增长率达58.0%",
+    "link": "https://36kr.com/newsflashes/3273357882695810?f=rss",
+    "pub_date": "2025-05-01 09:11:49"
+  },
+  {
+    "id": 33889,
+    "feed_name": "极客公园",
+    "category": "科技",
+    "title": "\n        DeepSeek 发布 Prover-V2 模型；小米首个推理大模型开源；饿了么宣布超百亿补贴加入外卖战局\n      ",
+    "link": "http://www.geekpark.net/news/348950",
+    "pub_date": "2025-05-01 09:09:56"
+  },
+  {
+    "id": 33266,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "泥泞中的小程序短剧，寻找新的应许之地",
+    "link": "https://www.tmtpost.com/7554284.html",
+    "pub_date": "2025-05-01 09:08:00"
+  },
+  {
+    "id": 33267,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "市值蒸发400亿，康佳‘陨落启示录’：战略摇摆如何摧毁一家巨头",
+    "link": "https://www.tmtpost.com/7554198.html",
+    "pub_date": "2025-05-01 09:04:13"
+  },
+  {
+    "id": 33268,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "从小众水果到“西梅宇宙”，一个功效大于口味的超级水果如何诞生？",
+    "link": "https://www.tmtpost.com/7554222.html",
+    "pub_date": "2025-05-01 09:03:48"
+  },
+  {
+    "id": 33062,
+    "feed_name": "36氪",
+    "category": "科技",
+    "title": "X200 Ultra部分版本缺货：vivo回应预估销量保守",
+    "link": "https://36kr.com/newsflashes/3273347820331397?f=rss",
+    "pub_date": "2025-05-01 09:01:35"
+  },
+  {
+    "id": 33118,
+    "feed_name": "爱范儿",
+    "category": "科技",
+    "title": "早报｜小米开源首个推理大模型/苹果 AirPlay 漏洞曝光，影响百万设备/扎克伯格回应「Llama 4 造假」质疑",
+    "link": "https://www.ifanr.com/1622753?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "pub_date": "2025-05-01 09:00:36"
+  },
+  {
+    "id": 33167,
+    "feed_name": "虎嗅",
+    "category": "科技",
+    "title": " 从云南到老挝，连过三天泼水节，我人泡傻了 ",
+    "link": "https://www.huxiu.com/article/4296877.html?f=rss",
+    "pub_date": "2025-05-01 09:00:00"
+  },
+  {
+    "id": 33063,
+    "feed_name": "36氪",
+    "category": "科技",
+    "title": "国家卫健委对近日肖某引发舆情问题开展调查",
+    "link": "https://36kr.com/newsflashes/3273336182219136?f=rss",
+    "pub_date": "2025-05-01 08:49:45"
+  },
+  {
+    "id": 33064,
+    "feed_name": "36氪",
+    "category": "科技",
+    "title": "全国最大京东MALL“五一”迎客",
+    "link": "https://36kr.com/newsflashes/3273333322588546?f=rss",
+    "pub_date": "2025-05-01 08:46:50"
+  },
+  {
+    "id": 33141,
+    "feed_name": "虎嗅",
+    "category": "科技",
+    "title": " DeepSeek开源新模型，数学推理能力大提升 ",
+    "link": "https://www.huxiu.com/article/4299198.html?f=rss",
+    "pub_date": "2025-05-01 08:45:15"
+  },
+  {
+    "id": 33142,
+    "feed_name": "虎嗅",
+    "category": "科技",
+    "title": " 二游联动哪家强？ ",
+    "link": "https://www.huxiu.com/article/4296903.html?f=rss",
+    "pub_date": "2025-05-01 08:44:00"
+  },
+  {
+    "id": 33099,
+    "feed_name": "机核",
+    "category": "科技",
+    "title": "8家新老枪厂+融合改枪系统，《无主之地4》公布实机演示",
+    "link": "https://www.gcores.com/articles/198154",
+    "pub_date": "2025-05-01 08:43:28"
+  },
+  {
+    "id": 33065,
+    "feed_name": "36氪",
+    "category": "科技",
+    "title": "广东：对高精尖缺和前沿赛道领域重点人才实行“一人申请，全家落户”等支持政策",
+    "link": "https://36kr.com/newsflashes/3273328393969792?f=rss",
+    "pub_date": "2025-05-01 08:41:49"
+  },
+  {
+    "id": 33066,
+    "feed_name": "36氪",
+    "category": "科技",
+    "title": "乖宝宠物：股东拟询价转让公司3%股份",
+    "link": "https://36kr.com/newsflashes/3273326333780360?f=rss",
+    "pub_date": "2025-05-01 08:39:44"
+  },
+  {
+    "id": 33067,
+    "feed_name": "36氪",
+    "category": "科技",
+    "title": "晶澳科技：预计阿曼项目投产后能快速提升产能",
+    "link": "https://36kr.com/newsflashes/3273324725199236?f=rss",
+    "pub_date": "2025-05-01 08:38:06"
+  },
+  {
+    "id": 33269,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "从\"茅宁时代\"到腾讯时代，中国资本市场的\"C位\"大变迁",
+    "link": "https://www.tmtpost.com/7554094.html",
+    "pub_date": "2025-05-01 08:35:40"
+  },
+  {
+    "id": 33289,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "见不得光的男喘生意，新时代的“赛博牛郎”？",
+    "link": "https://www.tmtpost.com/7554327.html",
+    "pub_date": "2025-05-01 08:35:33"
+  },
+  {
+    "id": 33068,
+    "feed_name": "36氪",
+    "category": "科技",
+    "title": "三花智控：2024年公司出口美国业务占比不足20%",
+    "link": "https://36kr.com/newsflashes/3273321699123330?f=rss",
+    "pub_date": "2025-05-01 08:35:01"
+  },
+  {
+    "id": 33143,
+    "feed_name": "虎嗅",
+    "category": "科技",
+    "title": " 交1800元即可清偿百万债务？揭秘App“众筹还债”套路 ",
+    "link": "https://www.huxiu.com/article/4298466.html?f=rss",
+    "pub_date": "2025-05-01 08:35:00"
+  },
+  {
+    "id": 33069,
+    "feed_name": "36氪",
+    "category": "科技",
+    "title": "值得买：今年计划消费内容和营销服务同步出海 年底实现在5个国家落地",
+    "link": "https://36kr.com/newsflashes/3273319071310215?f=rss",
+    "pub_date": "2025-05-01 08:32:20"
+  },
+  {
+    "id": 32595,
+    "feed_name": "南方周末 / 新闻",
+    "category": "新闻",
+    "title": "国家卫健委对近日肖某引发舆情问题开展调查",
+    "link": "https://www.infzm.com/contents/292866",
+    "pub_date": "2025-05-01 08:30:29"
+  },
+  {
+    "id": 33144,
+    "feed_name": "虎嗅",
+    "category": "科技",
+    "title": " 最年轻诺奖得主的学生，中国金属物理开拓者的归国路 ",
+    "link": "https://www.huxiu.com/article/4299479.html?f=rss",
+    "pub_date": "2025-05-01 08:04:19"
+  },
+  {
+    "id": 32596,
+    "feed_name": "南方周末 / 新闻",
+    "category": "新闻",
+    "title": "1个动作重复上百万次：机器人如何成“人”",
+    "link": "https://www.infzm.com/contents/292846",
+    "pub_date": "2025-05-01 08:00:00"
+  },
+  {
+    "id": 33145,
+    "feed_name": "虎嗅",
+    "category": "科技",
+    "title": " 大行股价突然下跌，一季报谁喜谁忧 ",
+    "link": "https://www.huxiu.com/article/4298295.html?f=rss",
+    "pub_date": "2025-05-01 07:47:00"
+  },
+  {
+    "id": 33146,
+    "feed_name": "虎嗅",
+    "category": "科技",
+    "title": " 曾经年薪百万的机长，如今开起滴滴了？ ",
+    "link": "https://www.huxiu.com/article/4297947.html?f=rss",
+    "pub_date": "2025-05-01 07:18:00"
+  },
+  {
+    "id": 33147,
+    "feed_name": "虎嗅",
+    "category": "科技",
+    "title": " 看病该如何选医生？AI时代，这样做效率翻倍 ",
+    "link": "https://www.huxiu.com/article/4296384.html?f=rss",
+    "pub_date": "2025-05-01 07:05:00"
+  },
+  {
     "id": 31153,
     "feed_name": "界面新闻: 新闻",
     "category": "新闻",
@@ -38,6 +518,38 @@
     "title": "【专访】世界经济论坛专家：气候变化愈加紧迫，中国在全球脱碳进程中将扮演重要角色",
     "link": "https://www.jiemian.com/article/12729699.html",
     "pub_date": "2025-05-01 07:02:09"
+  },
+  {
+    "id": 33148,
+    "feed_name": "虎嗅",
+    "category": "科技",
+    "title": " 如何打造“敏捷型长寿企业”？ ",
+    "link": "https://www.huxiu.com/article/4294807.html?f=rss",
+    "pub_date": "2025-05-01 07:01:00"
+  },
+  {
+    "id": 33149,
+    "feed_name": "虎嗅",
+    "category": "科技",
+    "title": " GPT4o生成的烂自拍，反而比我们更真实 ",
+    "link": "https://www.huxiu.com/article/4296382.html?f=rss",
+    "pub_date": "2025-05-01 07:00:00"
+  },
+  {
+    "id": 33684,
+    "feed_name": "罗辑思维",
+    "category": "公众号",
+    "title": "大学专业最新大洗牌，你准备好了吗？",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E7%BD%97%E8%BE%91%E6%80%9D%E7%BB%B4+%E5%A4%A7%E5%AD%A6%E4%B8%93%E4%B8%9A%E6%9C%80%E6%96%B0%E5%A4%A7%E6%B4%97%E7%89%8C%EF%BC%8C%E4%BD%A0%E5%87%86%E5%A4%87%E5%A5%BD%E4%BA%86%E5%90%97%EF%BC%9F",
+    "pub_date": "2025-05-01 06:30:00"
+  },
+  {
+    "id": 33685,
+    "feed_name": "罗辑思维",
+    "category": "公众号",
+    "title": "太依赖AI，孩子脑子真的会“废掉”吗？",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E7%BD%97%E8%BE%91%E6%80%9D%E7%BB%B4+%E5%A4%AA%E4%BE%9D%E8%B5%96AI%EF%BC%8C%E5%AD%A9%E5%AD%90%E8%84%91%E5%AD%90%E7%9C%9F%E7%9A%84%E4%BC%9A%E2%80%9C%E5%BA%9F%E6%8E%89%E2%80%9D%E5%90%97%EF%BC%9F",
+    "pub_date": "2025-05-01 06:30:00"
   },
   {
     "id": 31093,
@@ -264,6 +776,22 @@
     "pub_date": "2025-05-01 04:28:05"
   },
   {
+    "id": 33410,
+    "feed_name": "FreeBuf 关注黑客",
+    "category": "科技",
+    "title": "CVE-2024-10442（CVSS 10分）：群晖DiskStation零点击远程代码执行漏洞曝光，PoC已公开",
+    "link": "https://www.freebuf.com/articles/system/429525.html",
+    "pub_date": "2025-05-01 00:55:19"
+  },
+  {
+    "id": 33309,
+    "feed_name": "Solidot",
+    "category": "科技",
+    "title": "因经济动荡 LWN 考虑涨价",
+    "link": "https://www.solidot.org/story?sid=81193",
+    "pub_date": "2025-05-01 00:05:40"
+  },
+  {
     "id": 31434,
     "feed_name": "快科技",
     "category": "科技",
@@ -278,6 +806,14 @@
     "title": "苹果A19/A19 Pro已在路上：iPhone 17系列首发",
     "link": "https://news.mydrivers.com/1/1045/1045154.htm",
     "pub_date": "2025-05-01 00:00:02"
+  },
+  {
+    "id": 33310,
+    "feed_name": "Solidot",
+    "category": "科技",
+    "title": "撞击月球产生的碎片四分之一掉落到地球",
+    "link": "https://www.solidot.org/story?sid=81192",
+    "pub_date": "2025-04-30 23:54:52"
   },
   {
     "id": 31436,
@@ -310,6 +846,14 @@
     "title": "\n        发布 Qwen3，阿里云拉开新一轮开源模型竞赛的序幕\n      ",
     "link": "http://www.geekpark.net/news/348949",
     "pub_date": "2025-04-30 23:40:40"
+  },
+  {
+    "id": 33311,
+    "feed_name": "Solidot",
+    "category": "科技",
+    "title": "Google 称政府更频繁的使用 0day",
+    "link": "https://www.solidot.org/story?sid=81191",
+    "pub_date": "2025-04-30 23:37:17"
   },
   {
     "id": 31324,
@@ -512,6 +1056,14 @@
     "pub_date": "2025-04-30 21:30:17"
   },
   {
+    "id": 33312,
+    "feed_name": "Solidot",
+    "category": "科技",
+    "title": "Firefox 138 释出，标签组正式推出",
+    "link": "https://www.solidot.org/story?sid=81190",
+    "pub_date": "2025-04-30 21:21:19"
+  },
+  {
     "id": 31565,
     "feed_name": "南都周刊",
     "category": "公众号",
@@ -622,6 +1174,46 @@
     "title": "蚂蚁数科为全球RWA资金高效交易推出全新区块链平台",
     "link": "https://36kr.com/newsflashes/3272633615245705?f=rss",
     "pub_date": "2025-04-30 20:55:04"
+  },
+  {
+    "id": 33819,
+    "feed_name": "丁香妈妈",
+    "category": "公众号",
+    "title": "99 元 2 件！它简直是平价内衣的神，好穿到爆",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%A6%88%E5%A6%88+99%20%E5%85%83%202%20%E4%BB%B6%EF%BC%81%E5%AE%83%E7%AE%80%E7%9B%B4%E6%98%AF%E5%B9%B3%E4%BB%B7%E5%86%85%E8%A1%A3%E7%9A%84%E7%A5%9E%EF%BC%8C%E5%A5%BD%E7%A9%BF%E5%88%B0%E7%88%86",
+    "pub_date": "2025-04-30 20:54:00"
+  },
+  {
+    "id": 33822,
+    "feed_name": "丁香妈妈",
+    "category": "公众号",
+    "title": "宝宝手指脱皮，怎么办？",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%A6%88%E5%A6%88+%E5%AE%9D%E5%AE%9D%E6%89%8B%E6%8C%87%E8%84%B1%E7%9A%AE%EF%BC%8C%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F",
+    "pub_date": "2025-04-30 20:54:00"
+  },
+  {
+    "id": 33823,
+    "feed_name": "丁香妈妈",
+    "category": "公众号",
+    "title": "不会给娃科学加辅食？快领走这份辅食指南，限免！",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%A6%88%E5%A6%88+%E4%B8%8D%E4%BC%9A%E7%BB%99%E5%A8%83%E7%A7%91%E5%AD%A6%E5%8A%A0%E8%BE%85%E9%A3%9F%EF%BC%9F%E5%BF%AB%E9%A2%86%E8%B5%B0%E8%BF%99%E4%BB%BD%E8%BE%85%E9%A3%9F%E6%8C%87%E5%8D%97%EF%BC%8C%E9%99%90%E5%85%8D%EF%BC%81",
+    "pub_date": "2025-04-30 20:54:00"
+  },
+  {
+    "id": 33887,
+    "feed_name": "丁香妈妈",
+    "category": "公众号",
+    "title": "花青素是蓝莓的 2.4 倍，这种应季护眼水果，很多人没给娃吃过",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%A6%88%E5%A6%88+%E8%8A%B1%E9%9D%92%E7%B4%A0%E6%98%AF%E8%93%9D%E8%8E%93%E7%9A%84%202.4%20%E5%80%8D%EF%BC%8C%E8%BF%99%E7%A7%8D%E5%BA%94%E5%AD%A3%E6%8A%A4%E7%9C%BC%E6%B0%B4%E6%9E%9C%EF%BC%8C%E5%BE%88%E5%A4%9A%E4%BA%BA%E6%B2%A1%E7%BB%99%E5%A8%83%E5%90%83%E8%BF%87",
+    "pub_date": "2025-04-30 20:54:00"
+  },
+  {
+    "id": 33917,
+    "feed_name": "丁香妈妈",
+    "category": "公众号",
+    "title": "孩子感冒，发热流涕？问问医生怎么办",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E4%B8%81%E9%A6%99%E5%A6%88%E5%A6%88+%E5%AD%A9%E5%AD%90%E6%84%9F%E5%86%92%EF%BC%8C%E5%8F%91%E7%83%AD%E6%B5%81%E6%B6%95%EF%BC%9F%E9%97%AE%E9%97%AE%E5%8C%BB%E7%94%9F%E6%80%8E%E4%B9%88%E5%8A%9E",
+    "pub_date": "2025-04-30 20:54:00"
   },
   {
     "id": 31337,
@@ -832,6 +1424,38 @@
     "pub_date": "2025-04-30 20:20:07"
   },
   {
+    "id": 33465,
+    "feed_name": "洞见",
+    "category": "公众号",
+    "title": "所谓自律，就是去对抗“人性下坠力”",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%89%80%E8%B0%93%E8%87%AA%E5%BE%8B%EF%BC%8C%E5%B0%B1%E6%98%AF%E5%8E%BB%E5%AF%B9%E6%8A%97%E2%80%9C%E4%BA%BA%E6%80%A7%E4%B8%8B%E5%9D%A0%E5%8A%9B%E2%80%9D",
+    "pub_date": "2025-04-30 20:20:00"
+  },
+  {
+    "id": 33466,
+    "feed_name": "洞见",
+    "category": "公众号",
+    "title": "无论跟何人相处：打明牌，只筛选，不纠缠",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E6%97%A0%E8%AE%BA%E8%B7%9F%E4%BD%95%E4%BA%BA%E7%9B%B8%E5%A4%84%EF%BC%9A%E6%89%93%E6%98%8E%E7%89%8C%EF%BC%8C%E5%8F%AA%E7%AD%9B%E9%80%89%EF%BC%8C%E4%B8%8D%E7%BA%A0%E7%BC%A0",
+    "pub_date": "2025-04-30 20:20:00"
+  },
+  {
+    "id": 33467,
+    "feed_name": "洞见",
+    "category": "公众号",
+    "title": "学会哄自己开心（深度好文）",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E5%AD%A6%E4%BC%9A%E5%93%84%E8%87%AA%E5%B7%B1%E5%BC%80%E5%BF%83%EF%BC%88%E6%B7%B1%E5%BA%A6%E5%A5%BD%E6%96%87%EF%BC%89",
+    "pub_date": "2025-04-30 20:20:00"
+  },
+  {
+    "id": 33468,
+    "feed_name": "洞见",
+    "category": "公众号",
+    "title": "你和孩子说话的语气，决定了孩子的智商和情商",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%B4%9E%E8%A7%81+%E4%BD%A0%E5%92%8C%E5%AD%A9%E5%AD%90%E8%AF%B4%E8%AF%9D%E7%9A%84%E8%AF%AD%E6%B0%94%EF%BC%8C%E5%86%B3%E5%AE%9A%E4%BA%86%E5%AD%A9%E5%AD%90%E7%9A%84%E6%99%BA%E5%95%86%E5%92%8C%E6%83%85%E5%95%86",
+    "pub_date": "2025-04-30 20:20:00"
+  },
+  {
     "id": 31350,
     "feed_name": "36氪",
     "category": "科技",
@@ -1030,6 +1654,14 @@
     "title": "LG 将于 6 月底关闭智能手机更新服务",
     "link": "https://www.solidot.org/story?sid=81187",
     "pub_date": "2025-04-30 18:33:30"
+  },
+  {
+    "id": 33332,
+    "feed_name": "豆瓣最受欢迎的影评",
+    "category": "娱乐",
+    "title": "巴基·巴恩斯，是那个从历史的缝隙中挣扎而出、浑身伤痕却始终踏步前行的英雄 (评论: 雷霆特攻队*)",
+    "link": "https://movie.douban.com/review/16692219/",
+    "pub_date": "2025-04-30 18:32:00"
   },
   {
     "id": 31525,
@@ -1438,6 +2070,14 @@
     "title": "好评如潮，真的不错？ (评论: 雷霆特攻队*)",
     "link": "https://movie.douban.com/review/16691812/",
     "pub_date": "2025-04-30 15:25:14"
+  },
+  {
+    "id": 33714,
+    "feed_name": "微软研究院AI头条",
+    "category": "公众号",
+    "title": "祝贺微软亚洲研究院谢幸博士荣获“北京市劳动模范”称号！",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E5%BE%AE%E8%BD%AF%E7%A0%94%E7%A9%B6%E9%99%A2AI%E5%A4%B4%E6%9D%A1+%E7%A5%9D%E8%B4%BA%E5%BE%AE%E8%BD%AF%E4%BA%9A%E6%B4%B2%E7%A0%94%E7%A9%B6%E9%99%A2%E8%B0%A2%E5%B9%B8%E5%8D%9A%E5%A3%AB%E8%8D%A3%E8%8E%B7%E2%80%9C%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8A%B3%E5%8A%A8%E6%A8%A1%E8%8C%83%E2%80%9D%E7%A7%B0%E5%8F%B7%EF%BC%81",
+    "pub_date": "2025-04-30 15:22:00"
   },
   {
     "id": 29248,
@@ -2000,6 +2640,22 @@
     "pub_date": "2025-04-30 12:30:00"
   },
   {
+    "id": 33722,
+    "feed_name": "新智元",
+    "category": "公众号",
+    "title": "诺奖得主、AlphaGo之父：AI远不如人类科学家，根本提不出有价值的猜想",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E6%99%BA%E5%85%83+%E8%AF%BA%E5%A5%96%E5%BE%97%E4%B8%BB%E3%80%81AlphaGo%E4%B9%8B%E7%88%B6%EF%BC%9AAI%E8%BF%9C%E4%B8%8D%E5%A6%82%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6%EF%BC%8C%E6%A0%B9%E6%9C%AC%E6%8F%90%E4%B8%8D%E5%87%BA%E6%9C%89%E4%BB%B7%E5%80%BC%E7%9A%84%E7%8C%9C%E6%83%B3",
+    "pub_date": "2025-04-30 12:30:00"
+  },
+  {
+    "id": 33723,
+    "feed_name": "新智元",
+    "category": "公众号",
+    "title": "人人都能有一个满血DeepSeek？清华90后出手，10万块畅玩FP8原版",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E6%99%BA%E5%85%83+%E4%BA%BA%E4%BA%BA%E9%83%BD%E8%83%BD%E6%9C%89%E4%B8%80%E4%B8%AA%E6%BB%A1%E8%A1%80DeepSeek%EF%BC%9F%E6%B8%85%E5%8D%8E90%E5%90%8E%E5%87%BA%E6%89%8B%EF%BC%8C10%E4%B8%87%E5%9D%97%E7%95%85%E7%8E%A9FP8%E5%8E%9F%E7%89%88",
+    "pub_date": "2025-04-30 12:30:00"
+  },
+  {
     "id": 29716,
     "feed_name": "钛媒体",
     "category": "科技",
@@ -2230,6 +2886,22 @@
     "title": "特朗普对华关税冲击供应链，危及美国圣诞产业",
     "link": "https://cn.nytimes.com/business/20250430/trump-tariffs-christmas-china/dual",
     "pub_date": "2025-04-30 11:36:02"
+  },
+  {
+    "id": 33824,
+    "feed_name": "看理想",
+    "category": "公众号",
+    "title": "我们需要一场盛会，来抵抗精神的沉降｜2025理想国读者日",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E7%9C%8B%E7%90%86%E6%83%B3+%E6%88%91%E4%BB%AC%E9%9C%80%E8%A6%81%E4%B8%80%E5%9C%BA%E7%9B%9B%E4%BC%9A%EF%BC%8C%E6%9D%A5%E6%8A%B5%E6%8A%97%E7%B2%BE%E7%A5%9E%E7%9A%84%E6%B2%89%E9%99%8D%EF%BD%9C2025%E7%90%86%E6%83%B3%E5%9B%BD%E8%AF%BB%E8%80%85%E6%97%A5",
+    "pub_date": "2025-04-30 11:33:00"
+  },
+  {
+    "id": 33825,
+    "feed_name": "看理想",
+    "category": "公众号",
+    "title": "4月生存报告｜请不要在春天倒下",
+    "link": "http://weixin.sogou.com/weixin?type=2&query=%E7%9C%8B%E7%90%86%E6%83%B3+4%E6%9C%88%E7%94%9F%E5%AD%98%E6%8A%A5%E5%91%8A%EF%BD%9C%E8%AF%B7%E4%B8%8D%E8%A6%81%E5%9C%A8%E6%98%A5%E5%A4%A9%E5%80%92%E4%B8%8B",
+    "pub_date": "2025-04-30 11:33:00"
   },
   {
     "id": 29709,
