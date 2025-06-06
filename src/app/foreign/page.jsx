@@ -67,7 +67,7 @@ const App = () => {
               </div>
               {/* 云图气泡区 */}
               <div className="flex flex-wrap gap-3 px-6 py-6 min-h-[220px] items-start justify-start bg-white/0 relative">
-                {groupedData[feedName].slice(0, 8).map((item, idx) => {
+                {groupedData[feedName].slice(0, 8).map((item) => {
                   const { size, color, px, py, rotate } = getBubbleStyle(item.id.toString());
                   return (
                     <a
