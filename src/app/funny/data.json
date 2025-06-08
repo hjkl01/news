@@ -50,6 +50,26 @@
     "author": "敏儿好学300"
   },
   {
+    "id": 196934,
+    "feed_name": "豆瓣最受欢迎的影评",
+    "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
+    "category": "娱乐",
+    "title": "双峰第一季人物关系图 (评论: 双峰 第一季)",
+    "link": "https://movie.douban.com/review/16764057/",
+    "pub_date": "2025-06-08 01:41:30",
+    "author": null
+  },
+  {
+    "id": 196935,
+    "feed_name": "豆瓣最受欢迎的影评",
+    "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
+    "category": "娱乐",
+    "title": "给那些感同身受的人一面镜子 (评论: 世界上最糟糕的人)",
+    "link": "https://movie.douban.com/review/16763630/",
+    "pub_date": "2025-06-07 21:47:12",
+    "author": null
+  },
+  {
     "id": 192147,
     "feed_name": "知乎日报",
     "feed_url": "https://plink.anyfeeder.com/zhihu/daily",
@@ -2468,15 +2488,5 @@
     "link": "https://movie.douban.com/review/16675981/",
     "pub_date": "2025-04-22 02:55:23",
     "author": null
-  },
-  {
-    "id": 195556,
-    "feed_name": "简书 / 首页",
-    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
-    "category": "娱乐",
-    "title": "adb常用命令",
-    "link": "https://www.jianshu.com/p/3fee1c9d51ae",
-    "pub_date": "2022-07-26 16:06:52",
-    "author": "搬码人"
   }
 ]
