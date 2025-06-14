@@ -1,5 +1,15 @@
 [
   {
+    "id": 226894,
+    "feed_name": "豆瓣最受欢迎的影评",
+    "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
+    "category": "娱乐",
+    "title": "你看，蒙古的世袭荔枝 (评论: 长安的荔枝)",
+    "link": "https://movie.douban.com/review/16773942/",
+    "pub_date": "2025-06-13 12:53:06",
+    "author": null
+  },
+  {
     "id": 223328,
     "feed_name": "豆瓣最受欢迎的影评",
     "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
@@ -3080,7 +3090,7 @@
     "author": null
   },
   {
-    "id": 225081,
+    "id": 227146,
     "feed_name": "简书 / 首页",
     "feed_url": "https://plink.anyfeeder.com/jianshu/home",
     "category": "娱乐",
