@@ -1,5 +1,15 @@
 [
   {
+    "id": 243998,
+    "feed_name": "豆瓣最受欢迎的影评",
+    "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
+    "category": "娱乐",
+    "title": "【影世绘字幕组第029号作品】奇怪的女人 Странная женщина (1978) (苏联 尤里·莱兹曼） (评论: 奇怪的女人)",
+    "link": "https://movie.douban.com/review/16782317/",
+    "pub_date": "2025-06-17 10:08:00",
+    "author": null
+  },
+  {
     "id": 240456,
     "feed_name": "知乎日报",
     "feed_url": "https://plink.anyfeeder.com/zhihu/daily",
@@ -3440,7 +3450,7 @@
     "author": null
   },
   {
-    "id": 242361,
+    "id": 244028,
     "feed_name": "简书 / 首页",
     "feed_url": "https://plink.anyfeeder.com/jianshu/home",
     "category": "娱乐",
