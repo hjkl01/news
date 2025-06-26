@@ -45,7 +45,6 @@ function connectDb(dbName) {
 function insertItem(db, item, callback) {
   const stmt = db.prepare('INSERT OR IGNORE INTO rss_items (feed_name, feed_url, category, title, link, pub_date, author) VALUES (?, ?, ?, ?, ?, ?, ?)');
 
-  console.log(item);
   stmt.run(
     item.feed_name,
     item.feed_url,
