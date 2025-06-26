@@ -18,5 +18,5 @@ jobs:
           delete_releases: true
           releases_keep_latest: 5
           delete_workflows: true
-          workflows_keep_day: 10
+          workflows_keep_day: 3
           gh_token: ${{ secrets.GH_TOKEN }}
