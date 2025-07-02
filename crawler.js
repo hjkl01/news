@@ -65,40 +65,16 @@ function insertItems(db, items, callback) {
 }
 
 // 抓取并保存单个 RSS 地址的数据
-function fetchAndSaveRss(feed, db, callback) {
-  // 用动态 import 解决 node-fetch ESM 问题
-  const parser = new Parser({
-    fetch: async (url, options) => {
-      const { default: fetch } = await import('node-fetch');
-      const controller = new AbortController();
-      const timeoutPromise = new Promise((_, reject) =>
-        setTimeout(() => {
-          controller.abort();
-          reject(new Error('Fetch timeout'));
-        }, 10000)
-      );
-      const fetchPromise = fetch(url, { ...options, signal: controller.signal });
-      try {
-        return await Promise.race([fetchPromise, timeoutPromise]);
-      } finally {
-        // 无需 clearTimeout，因为 reject 后就结束了
-      }
-    },
-    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3',
-    headers: {
-      'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-      'Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.3',
-      'Accept-Encoding': 'none',
-      'Accept-Language': 'en-US,en;q=0.8',
-      'Connection': 'keep-alive',
-    },
-  });
-  parser.parseURL(feed.url, (err, parsedFeed) => {
-    if (err) {
-      console.error(`Error fetching ${feed.url}: ${err.message}`);
-      callback(null);
-      return;
-    }
+async function fetchAndSaveRss(feed, db, callback) {
+  const parser = new Parser();
+  const { default: fetch } = await import('node-fetch');
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 15000);
+  try {
+    const res = await fetch(feed.url, { signal: controller.signal });
+    const xml = await res.text();
+    clearTimeout(timeout);
+    const parsedFeed = await parser.parseString(xml);
     const items = (parsedFeed.items || []).map(item => ({
       feed_name: feed.title,
       feed_url: feed.url,
@@ -108,13 +84,22 @@ function fetchAndSaveRss(feed, db, callback) {
       pub_date: moment(item.pubDate).format('YYYY-MM-DD HH:mm:ss'),
       author: item.author
     }));
+    console.log(`Fetched ${items.length} items from ${feed.url}`);
     insertItems(db, items, (err) => {
       if (err) {
         console.error(`Error inserting items from ${feed.url}: ${err.message}`);
       }
       callback(null);
     });
-  });
+  } catch (err) {
+    clearTimeout(timeout);
+    if (err.name === 'AbortError') {
+      console.error(`Timeout fetching ${feed.url}`);
+    } else {
+      console.error(`Error fetching ${feed.url}: ${err.message}`);
+    }
+    callback(err); // 让 async.each 能感知错误
+  }
 }
 
 // 删除3个月前的数据
@@ -146,7 +131,7 @@ function main() {
           console.error(`Error closing the database: ${err.message}`);
         }
         console.log('Database closed.');
-        console.log('Active handles:', process._getActiveHandles());
+        // console.log('Active handles:', process._getActiveHandles());
         // process.exit(0);
       });
     });
