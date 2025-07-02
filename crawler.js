@@ -71,11 +71,17 @@ function fetchAndSaveRss(feed, db, callback) {
     fetch: async (url, options) => {
       const { default: fetch } = await import('node-fetch');
       const controller = new AbortController();
-      const timeout = setTimeout(() => controller.abort(), 10000); // 10秒超时
+      const timeoutPromise = new Promise((_, reject) =>
+        setTimeout(() => {
+          controller.abort();
+          reject(new Error('Fetch timeout'));
+        }, 10000)
+      );
+      const fetchPromise = fetch(url, { ...options, signal: controller.signal });
       try {
-        return await fetch(url, { ...options, signal: controller.signal });
+        return await Promise.race([fetchPromise, timeoutPromise]);
       } finally {
-        clearTimeout(timeout);
+        // 无需 clearTimeout，因为 reject 后就结束了
       }
     },
     userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3',
@@ -140,7 +146,8 @@ function main() {
           console.error(`Error closing the database: ${err.message}`);
         }
         console.log('Database closed.');
-        process.exit(0);
+        console.log('Active handles:', process._getActiveHandles());
+        // process.exit(0);
       });
     });
   });
