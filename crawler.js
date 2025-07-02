@@ -66,8 +66,18 @@ function insertItems(db, items, callback) {
 
 // 抓取并保存单个 RSS 地址的数据
 function fetchAndSaveRss(feed, db, callback) {
-  let parser = new Parser({
-    timeout: 10000,
+  // 用动态 import 解决 node-fetch ESM 问题
+  const parser = new Parser({
+    fetch: async (url, options) => {
+      const { default: fetch } = await import('node-fetch');
+      const controller = new AbortController();
+      const timeout = setTimeout(() => controller.abort(), 10000); // 10秒超时
+      try {
+        return await fetch(url, { ...options, signal: controller.signal });
+      } finally {
+        clearTimeout(timeout);
+      }
+    },
     userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3',
     headers: {
       'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
