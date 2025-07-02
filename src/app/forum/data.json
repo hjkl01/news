@@ -1,5 +1,135 @@
 [
   {
+    "id": 277854,
+    "feed_name": "Arch Linux 中文论坛",
+    "feed_url": "https://bbs.archlinuxcn.org/extern.php?action=feed&type=rss",
+    "category": "论坛",
+    "title": "[已解决]蓝牙和wifi问题",
+    "link": "https://bbs.archlinuxcn.org/viewtopic.php?id=15161&action=new",
+    "pub_date": "2025-07-01 15:20:27",
+    "author": "dummy@example.com (ztg)"
+  },
+  {
+    "id": 277856,
+    "feed_name": "Arch Linux 中文论坛",
+    "feed_url": "https://bbs.archlinuxcn.org/extern.php?action=feed&type=rss",
+    "category": "论坛",
+    "title": "wezterm跟fcitx5是不是有点不兼容？",
+    "link": "https://bbs.archlinuxcn.org/viewtopic.php?id=15163&action=new",
+    "pub_date": "2025-07-01 10:05:07",
+    "author": "dummy@example.com (依云)"
+  },
+  {
+    "id": 277857,
+    "feed_name": "Arch Linux 中文论坛",
+    "feed_url": "https://bbs.archlinuxcn.org/extern.php?action=feed&type=rss",
+    "category": "论坛",
+    "title": "wifi 在笔记本电脑从 suspend 中恢复之后挂掉",
+    "link": "https://bbs.archlinuxcn.org/viewtopic.php?id=15162&action=new",
+    "pub_date": "2025-07-01 10:04:28",
+    "author": "dummy@example.com (依云)"
+  },
+  {
+    "id": 277858,
+    "feed_name": "Arch Linux 中文论坛",
+    "feed_url": "https://bbs.archlinuxcn.org/extern.php?action=feed&type=rss",
+    "category": "论坛",
+    "title": "使用archinstall安装遇到问题",
+    "link": "https://bbs.archlinuxcn.org/viewtopic.php?id=15154&action=new",
+    "pub_date": "2025-07-01 09:35:45",
+    "author": "dummy@example.com (fhercules)"
+  },
+  {
+    "id": 277859,
+    "feed_name": "Arch Linux 中文论坛",
+    "feed_url": "https://bbs.archlinuxcn.org/extern.php?action=feed&type=rss",
+    "category": "论坛",
+    "title": "内核中ntfs文件系统模块",
+    "link": "https://bbs.archlinuxcn.org/viewtopic.php?id=14942&action=new",
+    "pub_date": "2025-06-30 23:42:50",
+    "author": "dummy@example.com (弯弓射小白)"
+  },
+  {
+    "id": 277860,
+    "feed_name": "Arch Linux 中文论坛",
+    "feed_url": "https://bbs.archlinuxcn.org/extern.php?action=feed&type=rss",
+    "category": "论坛",
+    "title": "【求助】Hyprland下应用图标显示问题",
+    "link": "https://bbs.archlinuxcn.org/viewtopic.php?id=15160&action=new",
+    "pub_date": "2025-06-30 22:42:20",
+    "author": "dummy@example.com (PenguinSAMA)"
+  },
+  {
+    "id": 277861,
+    "feed_name": "Arch Linux 中文论坛",
+    "feed_url": "https://bbs.archlinuxcn.org/extern.php?action=feed&type=rss",
+    "category": "论坛",
+    "title": "fcitx5托盘图标异常",
+    "link": "https://bbs.archlinuxcn.org/viewtopic.php?id=15158&action=new",
+    "pub_date": "2025-06-30 21:14:52",
+    "author": "dummy@example.com (chrisivanovic)"
+  },
+  {
+    "id": 277862,
+    "feed_name": "Arch Linux 中文论坛",
+    "feed_url": "https://bbs.archlinuxcn.org/extern.php?action=feed&type=rss",
+    "category": "论坛",
+    "title": "关于KDE崩溃，求助",
+    "link": "https://bbs.archlinuxcn.org/viewtopic.php?id=15159&action=new",
+    "pub_date": "2025-06-30 20:58:38",
+    "author": "dummy@example.com (bluegravitys)"
+  },
+  {
+    "id": 277864,
+    "feed_name": "Arch Linux 中文论坛",
+    "feed_url": "https://bbs.archlinuxcn.org/extern.php?action=feed&type=rss",
+    "category": "论坛",
+    "title": "[求助]更新系统后科学上网软件v2rayN报错",
+    "link": "https://bbs.archlinuxcn.org/viewtopic.php?id=15157&action=new",
+    "pub_date": "2025-06-30 16:49:37",
+    "author": "dummy@example.com (qjgoisz)"
+  },
+  {
+    "id": 277865,
+    "feed_name": "Arch Linux 中文论坛",
+    "feed_url": "https://bbs.archlinuxcn.org/extern.php?action=feed&type=rss",
+    "category": "论坛",
+    "title": "v2ray无法使用",
+    "link": "https://bbs.archlinuxcn.org/viewtopic.php?id=14772&action=new",
+    "pub_date": "2025-06-30 15:35:07",
+    "author": "dummy@example.com (弯弓射小白)"
+  },
+  {
+    "id": 277866,
+    "feed_name": "Arch Linux 中文论坛",
+    "feed_url": "https://bbs.archlinuxcn.org/extern.php?action=feed&type=rss",
+    "category": "论坛",
+    "title": "升级alsa-utils问题",
+    "link": "https://bbs.archlinuxcn.org/viewtopic.php?id=14680&action=new",
+    "pub_date": "2025-06-30 15:26:10",
+    "author": "dummy@example.com (弯弓射小白)"
+  },
+  {
+    "id": 277867,
+    "feed_name": "Arch Linux 中文论坛",
+    "feed_url": "https://bbs.archlinuxcn.org/extern.php?action=feed&type=rss",
+    "category": "论坛",
+    "title": "已经做了 debtap -u 还提示要做，怎么回事",
+    "link": "https://bbs.archlinuxcn.org/viewtopic.php?id=14893&action=new",
+    "pub_date": "2025-06-30 12:15:13",
+    "author": "dummy@example.com (nu1lptr)"
+  },
+  {
+    "id": 277868,
+    "feed_name": "Arch Linux 中文论坛",
+    "feed_url": "https://bbs.archlinuxcn.org/extern.php?action=feed&type=rss",
+    "category": "论坛",
+    "title": "KDE(Wayland)桌面环境输入法(fcitx5)和屏幕键盘如何共存",
+    "link": "https://bbs.archlinuxcn.org/viewtopic.php?id=14203&action=new",
+    "pub_date": "2025-06-30 11:38:21",
+    "author": "dummy@example.com (依云)"
+  },
+  {
     "id": 276722,
     "feed_name": "NodeSeek",
     "feed_url": "https://rss.nodeseek.com/",

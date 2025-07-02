@@ -19,6 +19,9 @@ function connectDb(dbName) {
     console.log('Connected to the database.');
   });
 
+  // 开启 WAL 模式提升并发写入性能
+  db.run('PRAGMA journal_mode = WAL');
+
   db.run(`
     CREATE TABLE IF NOT EXISTS rss_items (
       id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -41,25 +44,24 @@ function connectDb(dbName) {
   return db;
 }
 
-// 插入数据到数据库
-function insertItem(db, item, callback) {
+// 批量插入数据到数据库，重用 statement，串行写入
+function insertItems(db, items, callback) {
   const stmt = db.prepare('INSERT OR IGNORE INTO rss_items (feed_name, feed_url, category, title, link, pub_date, author) VALUES (?, ?, ?, ?, ?, ?, ?)');
-
-  stmt.run(
-    item.feed_name,
-    item.feed_url,
-    item.category,
-    item.title,
-    item.link,
-    item.pub_date,
-    item.author,
-  ), (err) => {
-    if (err) {
-      console.error(err.message);
-    }
+  async.eachSeries(items, (item, cb) => {
+    stmt.run(
+      item.feed_name,
+      item.feed_url,
+      item.category,
+      item.title,
+      item.link,
+      item.pub_date,
+      item.author,
+      cb
+    );
+  }, (err) => {
     stmt.finalize();
-    callback(null);
-  };
+    callback(err);
+  });
 }
 
 // 抓取并保存单个 RSS 地址的数据
@@ -81,21 +83,16 @@ function fetchAndSaveRss(feed, db, callback) {
       callback(null);
       return;
     }
-
-    const items = parsedFeed.items || [];
-    async.each(items, (item, cb) => {
-      const formattedPubDate = moment(item.pubDate).format('YYYY-MM-DD HH:mm:ss');
-      const rssItem = {
-        feed_name: feed.title,
-        feed_url: feed.url,
-        category: feed.category,
-        title: item.title,
-        link: item.link,
-        pub_date: formattedPubDate,
-        author: item.author
-      };
-      insertItem(db, rssItem, cb);
-    }, (err) => {
+    const items = (parsedFeed.items || []).map(item => ({
+      feed_name: feed.title,
+      feed_url: feed.url,
+      category: feed.category,
+      title: item.title,
+      link: item.link,
+      pub_date: moment(item.pubDate).format('YYYY-MM-DD HH:mm:ss'),
+      author: item.author
+    }));
+    insertItems(db, items, (err) => {
       if (err) {
         console.error(`Error inserting items from ${feed.url}: ${err.message}`);
       }
