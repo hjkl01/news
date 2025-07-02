@@ -140,6 +140,7 @@ function main() {
           console.error(`Error closing the database: ${err.message}`);
         }
         console.log('Database closed.');
+        process.exit(0);
       });
     });
   });
