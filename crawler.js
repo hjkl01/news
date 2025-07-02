@@ -112,15 +112,15 @@ function fetchAndSaveRss(feed, db, callback) {
 }
 
 // 删除3个月前的数据
-function deleteOldRecords(db) {
+function deleteOldRecords(db, callback) {
   const threeMonthsAgo = moment().subtract(3, 'months').format('YYYY-MM-DD HH:mm:ss');
   db.run(`DELETE FROM rss_items WHERE pub_date < ?`, [threeMonthsAgo], (err) => {
     if (err) {
       console.error(`Error deleting old records: ${err.message}`);
     }
+    callback && callback();
   });
 }
-
 
 // 主函数
 function main() {
@@ -133,15 +133,16 @@ function main() {
     if (err) {
       console.error(`Error processing feeds: ${err.message}`);
     }
-    db.close((err) => {
-      if (err) {
-        console.error(`Error closing the database: ${err.message}`);
-      }
-      console.log('Database closed.');
+    // 删除旧数据后再关闭数据库
+    deleteOldRecords(db, () => {
+      db.close((err) => {
+        if (err) {
+          console.error(`Error closing the database: ${err.message}`);
+        }
+        console.log('Database closed.');
+      });
     });
   });
-
-  deleteOldRecords(db);
 }
 
 if (require.main === module) {
