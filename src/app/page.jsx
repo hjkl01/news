@@ -14,11 +14,9 @@ const App = () => {
       acc[item.feed_name].push(item);
       return acc;
     }, {});
-
     setGroupedData(grouped);
   }, []);
 
-  // 用于生成固定样式的简单 hash 函数
   function hashCode(str) {
     let hash = 0;
     for (let i = 0; i < str.length; i++) {
@@ -44,57 +42,62 @@ const App = () => {
     const color = colors[hash % colors.length];
     const px = pxs[hash % pxs.length];
     const py = pys[hash % pys.length];
-    const rotate = (hash % 9) - 4; // -4 ~ +4 deg
+    const rotate = (hash % 9) - 4;
     return { size, color, px, py, rotate };
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-indigo-100">
-      <div className="container mx-auto px-4 py-12">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {Object.keys(groupedData).map(feedName => (
-            <div
-              key={feedName}
-              className={`bg-white/80 border border-indigo-100 rounded-2xl shadow-lg overflow-hidden transform transition-all duration-300 hover:shadow-2xl hover:-translate-y-1 hover:ring-2 hover:ring-indigo-200/60 ${hoveredCard === feedName ? 'scale-[1.025] ring-2 ring-indigo-300/40' : ''}`}
-              onMouseEnter={() => setHoveredCard(feedName)}
-              onMouseLeave={() => setHoveredCard(null)}
-            >
-              <div className="bg-gradient-to-r from-indigo-600 to-blue-500 px-6 py-4 flex items-center justify-between">
-                <h2 className="text-lg font-bold text-white truncate tracking-wide drop-shadow">{feedName}</h2>
-                <span className="text-xs text-blue-100 bg-blue-600/30 px-2 py-1 rounded-full shadow-sm">
-                  {groupedData[feedName].length} 篇文章
-                </span>
+    <div className="min-h-screen bg-gradient-to-br from-indigo-50 via-white to-blue-100 flex flex-col">
+
+      {/* 主体内容 */}
+      <main className="flex-1 w-full">
+        <div className="max-w-6xl mx-auto px-2 sm:px-4 py-10">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
+            {Object.keys(groupedData).map(feedName => (
+              <div
+                key={feedName}
+                className={`bg-white/70 border border-indigo-100 rounded-3xl shadow-md overflow-hidden transform transition-all duration-300 hover:shadow-xl hover:-translate-y-1 hover:ring-2 hover:ring-indigo-200/60 ${hoveredCard === feedName ? 'scale-[1.03] ring-2 ring-indigo-300/40' : ''}`}
+                onMouseEnter={() => setHoveredCard(feedName)}
+                onMouseLeave={() => setHoveredCard(null)}
+              >
+                {/* feed 名称区 */}
+                <div className="bg-gradient-to-r from-indigo-500 to-blue-400 px-7 py-5 flex items-center justify-between">
+                  <h2 className="text-xl font-extrabold text-white truncate tracking-wide drop-shadow-lg">{feedName}</h2>
+                  <span className="text-xs text-blue-100 bg-blue-600/30 px-2 py-1 rounded-full shadow-sm ml-2">
+                    {groupedData[feedName].length} 篇
+                  </span>
+                </div>
+                {/* 云图气泡区 */}
+                <div className="flex flex-wrap gap-3 px-7 py-7 min-h-[200px] items-start justify-start bg-gradient-to-br from-indigo-50/80 to-blue-50/60 relative">
+                  {groupedData[feedName].slice(0, 10).map((item) => {
+                    const { size, color, px, py, rotate } = getBubbleStyle(item.id.toString());
+                    return (
+                      <a
+                        key={item.id}
+                        href={item.link}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className={`relative rounded-full font-semibold shadow transition-all duration-200 hover:ring-2 hover:ring-indigo-300 hover:shadow-lg cursor-pointer ${size} ${color} ${px} ${py} whitespace-nowrap flex items-center hover:scale-105`}
+                        title={item.title}
+                        style={{
+                          transform: `rotate(${rotate}deg)`
+                        }}
+                      >
+                        <span>{item.title.length > 20 ? item.title.slice(0, 18) + '…' : item.title}</span>
+                        <span className="ml-2 text-[10px] text-gray-400 bg-white/60 rounded px-1.5 py-0.5 shadow-sm border border-gray-100 font-normal hidden md:inline-block">
+                          {new Date(item.pub_date).toLocaleDateString('zh-CN', {
+                            year: '2-digit', month: '2-digit', day: '2-digit'
+                          })}
+                        </span>
+                      </a>
+                    );
+                  })}
+                </div>
               </div>
-              {/* 云图气泡区 */}
-              <div className="flex flex-wrap gap-3 px-6 py-6 min-h-[220px] items-start justify-start bg-white/0 relative">
-                {groupedData[feedName].slice(0, 8).map((item) => {
-                  const { size, color, px, py, rotate } = getBubbleStyle(item.id.toString());
-                  return (
-                    <a
-                      key={item.id}
-                      href={item.link}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className={`relative rounded-full font-semibold shadow transition-all duration-200 hover:ring-2 hover:ring-indigo-300 hover:shadow-lg cursor-pointer ${size} ${color} ${px} ${py} whitespace-nowrap flex items-center`}
-                      title={item.title}
-                      style={{
-                        transform: `rotate(${rotate}deg)`
-                      }}
-                    >
-                      <span>{item.title.length > 22 ? item.title.slice(0, 20) + '…' : item.title}</span>
-                      <span className="ml-2 text-[10px] text-gray-400 bg-white/60 rounded px-1.5 py-0.5 shadow-sm border border-gray-100 font-normal hidden md:inline-block">
-                        {new Date(item.pub_date).toLocaleDateString('zh-CN', {
-                          year: '2-digit', month: '2-digit', day: '2-digit'
-                        })}
-                      </span>
-                    </a>
-                  );
-                })}
-              </div>
-            </div>
-          ))}
+            ))}
+          </div>
         </div>
-      </div>
+      </main>
     </div>
   );
 };
