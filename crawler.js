@@ -114,27 +114,29 @@ function deleteOldRecords(db, callback) {
 }
 
 // 主函数
-function main() {
+async function main() {
   const feeds = readFeeds('./feeds.json');
   const db = connectDb('rss.db');
 
-  async.each(feeds, (feed, callback) => {
-    fetchAndSaveRss(feed, db, callback);
-  }, (err) => {
-    if (err) {
-      console.error(`Error processing feeds: ${err.message}`);
-    }
-    // 删除旧数据后再关闭数据库
-    deleteOldRecords(db, () => {
-      db.close((err) => {
-        if (err) {
-          console.error(`Error closing the database: ${err.message}`);
-        }
-        console.log('Database closed.');
-        // console.log('Active handles:', process._getActiveHandles());
-        // process.exit(0);
-      });
+  // 用 Promise.all 等待所有抓取和插入完成
+  await Promise.all(feeds.map(feed => {
+    return new Promise(resolve => {
+      fetchAndSaveRss(feed, db, () => resolve());
     });
+  }));
+
+  // 删除旧数据
+  await new Promise(resolve => {
+    deleteOldRecords(db, resolve);
+  });
+
+  // 关闭数据库
+  db.close((err) => {
+    if (err) {
+      console.error(`Error closing the database: ${err.message}`);
+    }
+    console.log('Database closed.');
+    // process.exit(0);
   });
 }
 
