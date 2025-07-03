@@ -6,8 +6,8 @@ on:
   schedule:
     # delay
     # - cron: "58 22 * * *"
-    - cron: "58 2 * * *"
-    - cron: "58 6 * * *"
+    - cron: "58 1 * * *"
+    - cron: "58 18 * * *"
     # - cron: '58 10 * * *'
   # push:
   #   branches:
