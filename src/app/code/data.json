@@ -1,5 +1,215 @@
 [
   {
+    "id": 285881,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "n0-computer/iroh",
+    "link": "https://github.com/n0-computer/iroh",
+    "pub_date": "2025-07-04 11:21:25",
+    "author": null
+  },
+  {
+    "id": 285894,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "zama-ai/tfhe-rs",
+    "link": "https://github.com/zama-ai/tfhe-rs",
+    "pub_date": "2025-07-04 11:21:25",
+    "author": null
+  },
+  {
+    "id": 285909,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "category": "技术",
+    "title": "pcottle/learnGitBranching",
+    "link": "https://github.com/pcottle/learnGitBranching",
+    "pub_date": "2025-07-04 11:21:25",
+    "author": null
+  },
+  {
+    "id": 285924,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "Safe3/uuWAF",
+    "link": "https://github.com/Safe3/uuWAF",
+    "pub_date": "2025-07-04 11:21:25",
+    "author": null
+  },
+  {
+    "id": 285950,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "craftzdog/dotfiles-public",
+    "link": "https://github.com/craftzdog/dotfiles-public",
+    "pub_date": "2025-07-04 11:21:25",
+    "author": null
+  },
+  {
+    "id": 285965,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "Stephan-S/FS25_AutoDrive",
+    "link": "https://github.com/Stephan-S/FS25_AutoDrive",
+    "pub_date": "2025-07-04 11:21:25",
+    "author": null
+  },
+  {
+    "id": 285976,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "sindrets/diffview.nvim",
+    "link": "https://github.com/sindrets/diffview.nvim",
+    "pub_date": "2025-07-04 11:21:25",
+    "author": null
+  },
+  {
+    "id": 286066,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "fleetdm/fleet",
+    "link": "https://github.com/fleetdm/fleet",
+    "pub_date": "2025-07-04 11:21:25",
+    "author": null
+  },
+  {
+    "id": 286073,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "getlago/lago",
+    "link": "https://github.com/getlago/lago",
+    "pub_date": "2025-07-04 11:21:25",
+    "author": null
+  },
+  {
+    "id": 286091,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "ossf/scorecard",
+    "link": "https://github.com/ossf/scorecard",
+    "pub_date": "2025-07-04 11:21:25",
+    "author": null
+  },
+  {
+    "id": 286103,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "EndlessCheng/codeforces-go",
+    "link": "https://github.com/EndlessCheng/codeforces-go",
+    "pub_date": "2025-07-04 11:21:25",
+    "author": null
+  },
+  {
+    "id": 286109,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "google/go-github",
+    "link": "https://github.com/google/go-github",
+    "pub_date": "2025-07-04 11:21:25",
+    "author": null
+  },
+  {
+    "id": 285849,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "btjawa/BiliTools",
+    "link": "https://github.com/btjawa/BiliTools",
+    "pub_date": "2025-07-04 11:21:24",
+    "author": null
+  },
+  {
+    "id": 285856,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "danny-avila/LibreChat",
+    "link": "https://github.com/danny-avila/LibreChat",
+    "pub_date": "2025-07-04 11:21:24",
+    "author": null
+  },
+  {
+    "id": 285866,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "MotiaDev/motia",
+    "link": "https://github.com/MotiaDev/motia",
+    "pub_date": "2025-07-04 11:21:24",
+    "author": null
+  },
+  {
+    "id": 285878,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "isaac-sim/IsaacLab",
+    "link": "https://github.com/isaac-sim/IsaacLab",
+    "pub_date": "2025-07-04 11:21:24",
+    "author": null
+  },
+  {
+    "id": 285885,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "Genesis-Embodied-AI/Genesis",
+    "link": "https://github.com/Genesis-Embodied-AI/Genesis",
+    "pub_date": "2025-07-04 11:21:24",
+    "author": null
+  },
+  {
+    "id": 285888,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "datawhalechina/happy-llm",
+    "link": "https://github.com/datawhalechina/happy-llm",
+    "pub_date": "2025-07-04 11:21:24",
+    "author": null
+  },
+  {
+    "id": 285891,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "llmware-ai/llmware",
+    "link": "https://github.com/llmware-ai/llmware",
+    "pub_date": "2025-07-04 11:21:24",
+    "author": null
+  },
+  {
+    "id": 285893,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "link": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "pub_date": "2025-07-04 11:21:24",
+    "author": null
+  },
+  {
+    "id": 285899,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "swagger-api/swagger-ui",
+    "link": "https://github.com/swagger-api/swagger-ui",
+    "pub_date": "2025-07-04 11:21:24",
+    "author": null
+  },
+  {
     "id": 279550,
     "feed_name": "github all",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
