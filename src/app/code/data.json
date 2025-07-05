@@ -1,5 +1,125 @@
 [
   {
+    "id": 289580,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "trekhleb/javascript-algorithms",
+    "link": "https://github.com/trekhleb/javascript-algorithms",
+    "pub_date": "2025-07-05 11:16:28",
+    "author": null
+  },
+  {
+    "id": 289589,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "Infisical/infisical",
+    "link": "https://github.com/Infisical/infisical",
+    "pub_date": "2025-07-05 11:16:28",
+    "author": null
+  },
+  {
+    "id": 289598,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "toeverything/AFFiNE",
+    "link": "https://github.com/toeverything/AFFiNE",
+    "pub_date": "2025-07-05 11:16:28",
+    "author": null
+  },
+  {
+    "id": 289622,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "dockur/macos",
+    "link": "https://github.com/dockur/macos",
+    "pub_date": "2025-07-05 11:16:28",
+    "author": null
+  },
+  {
+    "id": 289658,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "argoproj/argo-rollouts",
+    "link": "https://github.com/argoproj/argo-rollouts",
+    "pub_date": "2025-07-05 11:16:28",
+    "author": null
+  },
+  {
+    "id": 289766,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "vosen/ZLUDA",
+    "link": "https://github.com/vosen/ZLUDA",
+    "pub_date": "2025-07-05 11:16:28",
+    "author": null
+  },
+  {
+    "id": 289778,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "fatedier/frp",
+    "link": "https://github.com/fatedier/frp",
+    "pub_date": "2025-07-05 11:16:28",
+    "author": null
+  },
+  {
+    "id": 289786,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "rust-lang/rust-analyzer",
+    "link": "https://github.com/rust-lang/rust-analyzer",
+    "pub_date": "2025-07-05 11:16:28",
+    "author": null
+  },
+  {
+    "id": 289849,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "openbao/openbao",
+    "link": "https://github.com/openbao/openbao",
+    "pub_date": "2025-07-05 11:16:28",
+    "author": null
+  },
+  {
+    "id": 289864,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "kopia/kopia",
+    "link": "https://github.com/kopia/kopia",
+    "pub_date": "2025-07-05 11:16:28",
+    "author": null
+  },
+  {
+    "id": 289873,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "NVIDIA/dcgm-exporter",
+    "link": "https://github.com/NVIDIA/dcgm-exporter",
+    "pub_date": "2025-07-05 11:16:28",
+    "author": null
+  },
+  {
+    "id": 289877,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "kagent-dev/kagent",
+    "link": "https://github.com/kagent-dev/kagent",
+    "pub_date": "2025-07-05 11:16:28",
+    "author": null
+  },
+  {
     "id": 285881,
     "feed_name": "github rust",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
