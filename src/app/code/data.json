@@ -1,5 +1,125 @@
 [
   {
+    "id": 293406,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "category": "技术",
+    "title": "mailcow/mailcow-dockerized",
+    "link": "https://github.com/mailcow/mailcow-dockerized",
+    "pub_date": "2025-07-06 11:29:48",
+    "author": null
+  },
+  {
+    "id": 293409,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "megadose/toutatis",
+    "link": "https://github.com/megadose/toutatis",
+    "pub_date": "2025-07-06 11:29:48",
+    "author": null
+  },
+  {
+    "id": 293429,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "Universidade-Livre/ciencia-da-computacao",
+    "link": "https://github.com/Universidade-Livre/ciencia-da-computacao",
+    "pub_date": "2025-07-06 11:29:48",
+    "author": null
+  },
+  {
+    "id": 293435,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "category": "技术",
+    "title": "NaiboWang/EasySpider",
+    "link": "https://github.com/NaiboWang/EasySpider",
+    "pub_date": "2025-07-06 11:29:48",
+    "author": null
+  },
+  {
+    "id": 293441,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "directus/directus",
+    "link": "https://github.com/directus/directus",
+    "pub_date": "2025-07-06 11:29:48",
+    "author": null
+  },
+  {
+    "id": 293459,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "rustfs/rustfs",
+    "link": "https://github.com/rustfs/rustfs",
+    "pub_date": "2025-07-06 11:29:48",
+    "author": null
+  },
+  {
+    "id": 293538,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "v2fly/domain-list-community",
+    "link": "https://github.com/v2fly/domain-list-community",
+    "pub_date": "2025-07-06 11:29:48",
+    "author": null
+  },
+  {
+    "id": 293540,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "XIU2/CloudflareSpeedTest",
+    "link": "https://github.com/XIU2/CloudflareSpeedTest",
+    "pub_date": "2025-07-06 11:29:48",
+    "author": null
+  },
+  {
+    "id": 293545,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "Dyneteq/reconya",
+    "link": "https://github.com/Dyneteq/reconya",
+    "pub_date": "2025-07-06 11:29:48",
+    "author": null
+  },
+  {
+    "id": 293547,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "kubernetes/enhancements",
+    "link": "https://github.com/kubernetes/enhancements",
+    "pub_date": "2025-07-06 11:29:48",
+    "author": null
+  },
+  {
+    "id": 293298,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "fatihak/InkyPi",
+    "link": "https://github.com/fatihak/InkyPi",
+    "pub_date": "2025-07-06 11:29:47",
+    "author": null
+  },
+  {
+    "id": 293301,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "Safe3/uusec-waf",
+    "link": "https://github.com/Safe3/uusec-waf",
+    "pub_date": "2025-07-06 11:29:47",
+    "author": null
+  },
+  {
     "id": 289580,
     "feed_name": "github all",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
