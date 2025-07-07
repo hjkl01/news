@@ -1,5 +1,85 @@
 [
   {
+    "id": 296793,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "qichiyuhub/rule",
+    "link": "https://github.com/qichiyuhub/rule",
+    "pub_date": "2025-07-07 11:27:53",
+    "author": null
+  },
+  {
+    "id": 296831,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "blampe/rreading-glasses",
+    "link": "https://github.com/blampe/rreading-glasses",
+    "pub_date": "2025-07-07 11:27:53",
+    "author": null
+  },
+  {
+    "id": 296852,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "katanemo/archgw",
+    "link": "https://github.com/katanemo/archgw",
+    "pub_date": "2025-07-07 11:27:53",
+    "author": null
+  },
+  {
+    "id": 296863,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "hypermodeinc/badger",
+    "link": "https://github.com/hypermodeinc/badger",
+    "pub_date": "2025-07-07 11:27:53",
+    "author": null
+  },
+  {
+    "id": 296876,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "esx-framework/esx_core",
+    "link": "https://github.com/esx-framework/esx_core",
+    "pub_date": "2025-07-07 11:27:53",
+    "author": null
+  },
+  {
+    "id": 296928,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "mit-han-lab/nunchaku",
+    "link": "https://github.com/mit-han-lab/nunchaku",
+    "pub_date": "2025-07-07 11:27:53",
+    "author": null
+  },
+  {
+    "id": 296742,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "home-assistant/home-assistant.io",
+    "link": "https://github.com/home-assistant/home-assistant.io",
+    "pub_date": "2025-07-07 11:27:52",
+    "author": null
+  },
+  {
+    "id": 296746,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "Alex313031/thorium",
+    "link": "https://github.com/Alex313031/thorium",
+    "pub_date": "2025-07-07 11:27:52",
+    "author": null
+  },
+  {
     "id": 293406,
     "feed_name": "github javascript",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
