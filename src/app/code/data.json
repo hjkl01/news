@@ -1,5 +1,45 @@
 [
   {
+    "id": 300614,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "humanlayer/12-factor-agents",
+    "link": "https://github.com/humanlayer/12-factor-agents",
+    "pub_date": "2025-07-08 11:22:45",
+    "author": null
+  },
+  {
+    "id": 300660,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "smallcloudai/refact",
+    "link": "https://github.com/smallcloudai/refact",
+    "pub_date": "2025-07-08 11:22:45",
+    "author": null
+  },
+  {
+    "id": 300774,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "robustmq/robustmq",
+    "link": "https://github.com/robustmq/robustmq",
+    "pub_date": "2025-07-08 11:22:45",
+    "author": null
+  },
+  {
+    "id": 300802,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "wailsapp/wails",
+    "link": "https://github.com/wailsapp/wails",
+    "pub_date": "2025-07-08 11:22:45",
+    "author": null
+  },
+  {
     "id": 296793,
     "feed_name": "github go",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
