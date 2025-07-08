@@ -1,5 +1,55 @@
 [
   {
+    "id": 303178,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "哈佛与中国：从双赢互利到白宫的“眼中钉”",
+    "link": "https://cn.nytimes.com/usa/20250708/harvard-china-white-house-funding/dual",
+    "pub_date": "2025-07-08 18:06:01",
+    "author": null
+  },
+  {
+    "id": 303191,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "杭州，中国人工智能热潮的中心",
+    "link": "https://cn.nytimes.com/technology/20250708/china-artificial-intelligence-hangzhou/dual",
+    "pub_date": "2025-07-08 15:06:02",
+    "author": null
+  },
+  {
+    "id": 303073,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "特朗普宣佈14國新關稅稅率但最後期限延長三週",
+    "link": "https://www.bbc.com/zhongwen/articles/cy4n7q2vklpo/trad",
+    "pub_date": "2025-07-08 12:33:09",
+    "author": null
+  },
+  {
+    "id": 303066,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "特朗普向金磚國家威脅加徵10%關稅",
+    "link": "https://www.bbc.com/zhongwen/articles/cm201x0dyz7o/trad",
+    "pub_date": "2025-07-08 11:57:28",
+    "author": null
+  },
+  {
+    "id": 303201,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "台湾能承受与中国经济脱钩吗",
+    "link": "https://cn.nytimes.com/business/20250708/china-taiwan-chips/dual",
+    "pub_date": "2025-07-08 11:06:02",
+    "author": null
+  },
+  {
     "id": 301571,
     "feed_name": "BBC 中文版",
     "feed_url": "https://plink.anyfeeder.com/bbc/cn",
