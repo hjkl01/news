@@ -1,5 +1,75 @@
 [
   {
+    "id": 307758,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "punkpeye/awesome-mcp-clients",
+    "link": "https://github.com/punkpeye/awesome-mcp-clients",
+    "pub_date": "2025-07-10 11:24:54",
+    "author": null
+  },
+  {
+    "id": 307759,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "microsoft/MoGe",
+    "link": "https://github.com/microsoft/MoGe",
+    "pub_date": "2025-07-10 11:24:54",
+    "author": null
+  },
+  {
+    "id": 307762,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "strapi/strapi",
+    "link": "https://github.com/strapi/strapi",
+    "pub_date": "2025-07-10 11:24:54",
+    "author": null
+  },
+  {
+    "id": 307770,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "wanghongenpin/proxypin",
+    "link": "https://github.com/wanghongenpin/proxypin",
+    "pub_date": "2025-07-10 11:24:54",
+    "author": null
+  },
+  {
+    "id": 307790,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "ed-donner/agents",
+    "link": "https://github.com/ed-donner/agents",
+    "pub_date": "2025-07-10 11:24:54",
+    "author": null
+  },
+  {
+    "id": 307795,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "Asabeneh/30-Days-Of-Python",
+    "link": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "pub_date": "2025-07-10 11:24:54",
+    "author": null
+  },
+  {
+    "id": 307824,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "vitessio/vitess",
+    "link": "https://github.com/vitessio/vitess",
+    "pub_date": "2025-07-10 11:24:54",
+    "author": null
+  },
+  {
     "id": 304108,
     "feed_name": "github python",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
