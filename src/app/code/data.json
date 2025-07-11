@@ -1,5 +1,155 @@
 [
   {
+    "id": 311642,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "yusing/godoxy",
+    "link": "https://github.com/yusing/godoxy",
+    "pub_date": "2025-07-11 11:39:38",
+    "author": null
+  },
+  {
+    "id": 311657,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "vllm-project/aibrix",
+    "link": "https://github.com/vllm-project/aibrix",
+    "pub_date": "2025-07-11 11:39:38",
+    "author": null
+  },
+  {
+    "id": 311665,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "category": "技术",
+    "title": "fanmingming/live",
+    "link": "https://github.com/fanmingming/live",
+    "pub_date": "2025-07-11 11:39:38",
+    "author": null
+  },
+  {
+    "id": 311671,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "ByteByteGoHq/system-design-101",
+    "link": "https://github.com/ByteByteGoHq/system-design-101",
+    "pub_date": "2025-07-11 11:39:38",
+    "author": null
+  },
+  {
+    "id": 311675,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "category": "技术",
+    "title": "ConardLi/easy-dataset",
+    "link": "https://github.com/ConardLi/easy-dataset",
+    "pub_date": "2025-07-11 11:39:38",
+    "author": null
+  },
+  {
+    "id": 311676,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "snap-stanford/Biomni",
+    "link": "https://github.com/snap-stanford/Biomni",
+    "pub_date": "2025-07-11 11:39:38",
+    "author": null
+  },
+  {
+    "id": 311691,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "WordPress/wordpress-develop",
+    "link": "https://github.com/WordPress/wordpress-develop",
+    "pub_date": "2025-07-11 11:39:38",
+    "author": null
+  },
+  {
+    "id": 311701,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "coleam00/ai-agents-masterclass",
+    "link": "https://github.com/coleam00/ai-agents-masterclass",
+    "pub_date": "2025-07-11 11:39:38",
+    "author": null
+  },
+  {
+    "id": 311702,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "steveiliop56/tinyauth",
+    "link": "https://github.com/steveiliop56/tinyauth",
+    "pub_date": "2025-07-11 11:39:38",
+    "author": null
+  },
+  {
+    "id": 311706,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "helm/helm",
+    "link": "https://github.com/helm/helm",
+    "pub_date": "2025-07-11 11:39:38",
+    "author": null
+  },
+  {
+    "id": 311715,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "flutter/packages",
+    "link": "https://github.com/flutter/packages",
+    "pub_date": "2025-07-11 11:39:38",
+    "author": null
+  },
+  {
+    "id": 311723,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "pybind/pybind11",
+    "link": "https://github.com/pybind/pybind11",
+    "pub_date": "2025-07-11 11:39:38",
+    "author": null
+  },
+  {
+    "id": 311728,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "category": "技术",
+    "title": "GitSquared/edex-ui",
+    "link": "https://github.com/GitSquared/edex-ui",
+    "pub_date": "2025-07-11 11:39:38",
+    "author": null
+  },
+  {
+    "id": 311747,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "apache/iggy",
+    "link": "https://github.com/apache/iggy",
+    "pub_date": "2025-07-11 11:39:38",
+    "author": null
+  },
+  {
+    "id": 311750,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "huggingface/transformers",
+    "link": "https://github.com/huggingface/transformers",
+    "pub_date": "2025-07-11 11:39:38",
+    "author": null
+  },
+  {
     "id": 307758,
     "feed_name": "github all",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
