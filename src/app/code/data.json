@@ -1,5 +1,105 @@
 [
   {
+    "id": 315378,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "home-assistant/operating-system",
+    "link": "https://github.com/home-assistant/operating-system",
+    "pub_date": "2025-07-12 11:28:43",
+    "author": null
+  },
+  {
+    "id": 315397,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "goauthentik/authentik",
+    "link": "https://github.com/goauthentik/authentik",
+    "pub_date": "2025-07-12 11:28:43",
+    "author": null
+  },
+  {
+    "id": 315404,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "landing-ai/agentic-doc",
+    "link": "https://github.com/landing-ai/agentic-doc",
+    "pub_date": "2025-07-12 11:28:43",
+    "author": null
+  },
+  {
+    "id": 315411,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "antiwork/flexile",
+    "link": "https://github.com/antiwork/flexile",
+    "pub_date": "2025-07-12 11:28:43",
+    "author": null
+  },
+  {
+    "id": 315425,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "getsentry/sentry",
+    "link": "https://github.com/getsentry/sentry",
+    "pub_date": "2025-07-12 11:28:43",
+    "author": null
+  },
+  {
+    "id": 315439,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "google/googletest",
+    "link": "https://github.com/google/googletest",
+    "pub_date": "2025-07-12 11:28:43",
+    "author": null
+  },
+  {
+    "id": 315453,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "protocolbuffers/protobuf",
+    "link": "https://github.com/protocolbuffers/protobuf",
+    "pub_date": "2025-07-12 11:28:43",
+    "author": null
+  },
+  {
+    "id": 315495,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "huggingface/candle",
+    "link": "https://github.com/huggingface/candle",
+    "pub_date": "2025-07-12 11:28:43",
+    "author": null
+  },
+  {
+    "id": 315570,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "TwiN/gatus",
+    "link": "https://github.com/TwiN/gatus",
+    "pub_date": "2025-07-12 11:28:43",
+    "author": null
+  },
+  {
+    "id": 315605,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "LunarVim/LunarVim",
+    "link": "https://github.com/LunarVim/LunarVim",
+    "pub_date": "2025-07-12 11:28:43",
+    "author": null
+  },
+  {
     "id": 311642,
     "feed_name": "github go",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
