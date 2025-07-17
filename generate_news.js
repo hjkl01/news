@@ -17,6 +17,7 @@ function connectDb(dbName) {
 function queryTodayUpdates(db, callback) {
   const startOfDay = moment().subtract(1, 'days').startOf('day').format('YYYY-MM-DD HH:mm:ss');
   const endOfDay = moment().endOf('day').format('YYYY-MM-DD HH:mm:ss');
+  console.log(`Querying updates from ${startOfDay} to ${endOfDay}`);
   db.all(`
     SELECT * FROM rss_items
     WHERE pub_date BETWEEN ? AND ? order by pub_date desc
@@ -68,8 +69,12 @@ function generate_title() {
   };
   const db = connectDb('rss.db');
 
-  // 查询所有数据
-  db.all('SELECT * FROM rss_items order by pub_date desc', [], (err, rows) => {
+  
+  // 查询一周内的数据
+  const startOfDay = moment().subtract(7, 'days').startOf('day').format('YYYY-MM-DD HH:mm:ss');
+  const endOfDay = moment().endOf('day').format('YYYY-MM-DD HH:mm:ss');
+  db.all(`SELECT * FROM rss_items 
+    WHERE pub_date BETWEEN ? AND ? order by pub_date desc`,[startOfDay, endOfDay] , (err, rows) => {
     if (err) {
       console.error('Failed to fetch data from the database:', err.message);
       return;
