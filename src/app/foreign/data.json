@@ -1,5 +1,15 @@
 [
   {
+    "id": 315376,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "《竹林女儿》：离散和跨国收养，一对双胞胎的命运回响",
+    "link": "https://cn.nytimes.com/culture/20250717/daughters-of-the-bamboo-grove-barbara-demick/dual",
+    "pub_date": "2025-07-17 16:36:02",
+    "author": null
+  },
+  {
     "id": 311095,
     "feed_name": "纽约时报双语版",
     "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
@@ -190,13 +200,33 @@
     "author": null
   },
   {
-    "id": 303201,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "id": 315580,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
     "category": "国外",
-    "title": "台湾能承受与中国经济脱钩吗",
-    "link": "https://cn.nytimes.com/business/20250708/china-taiwan-chips/dual",
-    "pub_date": "2025-07-08 11:06:02",
+    "title": "黃仁勳訪華受明星般關注 稱讚中國AI是「優秀的技術」",
+    "link": "https://www.bbc.com/zhongwen/articles/ckg3d2ljjylo/trad",
+    "pub_date": "2025-07-17 18:44:33",
+    "author": null
+  },
+  {
+    "id": 315582,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "英國成功結合三人DNA誕生嬰兒 截斷遺傳病傳播",
+    "link": "https://www.bbc.com/zhongwen/articles/cn5k906vqx1o/trad",
+    "pub_date": "2025-07-17 18:28:18",
+    "author": null
+  },
+  {
+    "id": 315584,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "美國、越南、印尼簽貿易條款，「轉運」約束下東南亞國家該如何應對「選邊站隊」壓力？",
+    "link": "https://www.bbc.com/zhongwen/articles/cly8e40ekmyo/trad",
+    "pub_date": "2025-07-17 17:28:13",
     "author": null
   },
   {
@@ -367,36 +397,6 @@
     "title": "歐盟延後對美國的報復性貿易關稅",
     "link": "https://www.bbc.com/zhongwen/articles/c5yg7x6p6xjo/trad",
     "pub_date": "2025-07-14 12:47:28",
-    "author": null
-  },
-  {
-    "id": 309463,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "朝鮮的「西班牙班尼多姆式」度假村迎來首批俄羅斯遊客",
-    "link": "https://www.bbc.com/zhongwen/articles/c4g8ddv6m48o/trad",
-    "pub_date": "2025-07-13 18:03:55",
-    "author": null
-  },
-  {
-    "id": 309561,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "台灣提升軍人待遇：加薪、搭機優惠為何引發爭議？",
-    "link": "https://www.bbc.com/zhongwen/articles/clylgynpv76o/trad",
-    "pub_date": "2025-07-12 13:27:48",
-    "author": null
-  },
-  {
-    "id": 309565,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "伊朗戰場遇挫後 中國殲-10戰機將成為「救命稻草」？",
-    "link": "https://www.bbc.com/zhongwen/articles/c5y0qpekdklo/trad",
-    "pub_date": "2025-07-11 20:40:21",
     "author": null
   }
 ]
