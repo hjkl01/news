@@ -68,47 +68,38 @@ function generate_title() {
     '公众号': 'public'
   };
   const db = connectDb('rss.db');
-
-  
-  // 查询一周内的数据
-  const startOfDay = moment().subtract(7, 'days').startOf('day').format('YYYY-MM-DD HH:mm:ss');
-  const endOfDay = moment().endOf('day').format('YYYY-MM-DD HH:mm:ss');
-  db.all(`SELECT * FROM rss_items 
-    WHERE pub_date BETWEEN ? AND ? order by pub_date desc`,[startOfDay, endOfDay] , (err, rows) => {
-    if (err) {
-      console.error('Failed to fetch data from the database:', err.message);
-      return;
-    }
-
-    // 按分类组织数据
-    const categorizedData = {};
-    rows.forEach(row => {
-      const categoryKey = categoryMap[row.category] || 'uncategorized';
-      if (!categorizedData[categoryKey]) {
-        categorizedData[categoryKey] = [];
+  // 查询一周内的数据，每个分类取前20条
+  const categories = Object.keys(categoryMap);
+  let finished = 0;
+  categories.forEach((cat) => {
+    const categoryKey = categoryMap[cat];
+    db.all(
+      `SELECT * FROM rss_items WHERE category = ? ORDER BY pub_date DESC LIMIT 20`,
+      [cat],
+      (err, rows) => {
+        if (err) {
+          console.error(`Failed to fetch data for category ${cat}:`, err.message);
+        } else {
+          const folderPath = path.join(__dirname, `src/app/${categoryKey}`);
+          if (!fs.existsSync(folderPath)) {
+            fs.mkdirSync(folderPath, { recursive: true });
+          }
+          const filePath = path.join(folderPath, 'data.json');
+          fs.writeFileSync(filePath, JSON.stringify(rows, null, 2));
+          console.log(`Data for category ${categoryKey} has been written to ${filePath}`);
+        }
+        finished++;
+        if (finished === categories.length) {
+          db.close((err) => {
+            if (err) {
+              console.error('Failed to close the database:', err.message);
+            } else {
+              console.log('Database connection closed.');
+            }
+          });
+        }
       }
-      categorizedData[categoryKey].push(row);
-    });
-
-    // 将数据写入相应的文件夹
-    for (const [category, data] of Object.entries(categorizedData)) {
-      const folderPath = path.join(__dirname, `src/app/${category}`);
-      if (!fs.existsSync(folderPath)) {
-        fs.mkdirSync(folderPath, { recursive: true });
-      }
-      const filePath = path.join(folderPath, 'data.json');
-      fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
-      console.log(`Data for category ${category} has been written to ${filePath}`);
-    }
-
-    // 关闭数据库连接
-    db.close((err) => {
-      if (err) {
-        console.error('Failed to close the database:', err.message);
-      } else {
-        console.log('Database connection closed.');
-      }
-    });
+    );
   });
 }
 
