@@ -68,36 +68,72 @@ function generate_title() {
     '公众号': 'public'
   };
   const db = connectDb('rss.db');
-  // 查询一周内的数据，每个分类取前20条
+  // 查询所有分类下每个feed_name最新20条
   const categories = Object.keys(categoryMap);
   let finished = 0;
   categories.forEach((cat) => {
     const categoryKey = categoryMap[cat];
+    // 先查出该分类下所有feed_name
     db.all(
-      `SELECT * FROM rss_items WHERE category = ? ORDER BY pub_date DESC LIMIT 20`,
+      `SELECT DISTINCT feed_name FROM rss_items WHERE category = ?`,
       [cat],
-      (err, rows) => {
+      (err, feeds) => {
         if (err) {
-          console.error(`Failed to fetch data for category ${cat}:`, err.message);
-        } else {
+          console.error(`Failed to fetch feeds for category ${cat}:`, err.message);
+          finished++;
+          if (finished === categories.length) {
+            db.close();
+          }
+          return;
+        }
+        let allRows = [];
+        let feedFinished = 0;
+        if (feeds.length === 0) {
+          // 没有源也要写空文件
           const folderPath = path.join(__dirname, `src/app/${categoryKey}`);
           if (!fs.existsSync(folderPath)) {
             fs.mkdirSync(folderPath, { recursive: true });
           }
           const filePath = path.join(folderPath, 'data.json');
-          fs.writeFileSync(filePath, JSON.stringify(rows, null, 2));
-          console.log(`Data for category ${categoryKey} has been written to ${filePath}`);
+          fs.writeFileSync(filePath, JSON.stringify([], null, 2));
+          finished++;
+          if (finished === categories.length) {
+            db.close();
+          }
+          return;
         }
-        finished++;
-        if (finished === categories.length) {
-          db.close((err) => {
-            if (err) {
-              console.error('Failed to close the database:', err.message);
-            } else {
-              console.log('Database connection closed.');
+        feeds.forEach(feed => {
+          db.all(
+            `SELECT * FROM rss_items WHERE category = ? AND feed_name = ? ORDER BY pub_date DESC LIMIT 20`,
+            [cat, feed.feed_name],
+            (err2, rows) => {
+              if (!err2 && rows && rows.length > 0) {
+                allRows = allRows.concat(rows);
+              }
+              feedFinished++;
+              if (feedFinished === feeds.length) {
+                // 合并写入
+                const folderPath = path.join(__dirname, `src/app/${categoryKey}`);
+                if (!fs.existsSync(folderPath)) {
+                  fs.mkdirSync(folderPath, { recursive: true });
+                }
+                const filePath = path.join(folderPath, 'data.json');
+                fs.writeFileSync(filePath, JSON.stringify(allRows, null, 2));
+                console.log(`Data for category ${categoryKey} has been written to ${filePath}`);
+                finished++;
+                if (finished === categories.length) {
+                  db.close((err) => {
+                    if (err) {
+                      console.error('Failed to close the database:', err.message);
+                    } else {
+                      console.log('Database connection closed.');
+                    }
+                  });
+                }
+              }
             }
-          });
-        }
+          );
+        });
       }
     );
   });
