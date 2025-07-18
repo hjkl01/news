@@ -1,5 +1,25 @@
 [
   {
+    "id": 319494,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "“他们是我的一切”：一位在印度空难中失去挚爱的父亲",
+    "link": "https://cn.nytimes.com/world/20250718/air-india-crash-father-grief/dual",
+    "pub_date": "2025-07-18 16:36:02",
+    "author": null
+  },
+  {
+    "id": 319508,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "黄仁勋如何说服特朗普：英伟达对华销售解禁内幕",
+    "link": "https://cn.nytimes.com/business/20250718/nvidia-trump-ai-chips-china/dual",
+    "pub_date": "2025-07-18 12:36:02",
+    "author": null
+  },
+  {
     "id": 317113,
     "feed_name": "纽约时报双语版",
     "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
@@ -180,23 +200,73 @@
     "author": null
   },
   {
-    "id": 307158,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "id": 319690,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
     "category": "国外",
-    "title": "美国农业部称将禁止中国买家购买美国农田",
-    "link": "https://cn.nytimes.com/usa/20250709/chinese-ownership-american-farmland/dual",
-    "pub_date": "2025-07-09 09:36:01",
+    "title": "避難包、急救班、體能訓練：台灣女性如何「備戰」？",
+    "link": "https://www.bbc.com/zhongwen/articles/cy8gelp57g2o/trad",
+    "pub_date": "2025-07-18 19:34:57",
     "author": null
   },
   {
-    "id": 307166,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "id": 319692,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
     "category": "国外",
-    "title": "欧洲的困境：全球贸易体系剧变，深陷中美两国夹击",
-    "link": "https://cn.nytimes.com/world/20250709/european-union-china-tariffs/dual",
-    "pub_date": "2025-07-09 08:36:01",
+    "title": "特權階層接連爆雷，中國網民震怒",
+    "link": "https://www.bbc.com/zhongwen/articles/cdxl7w63p1po/trad",
+    "pub_date": "2025-07-18 16:45:38",
+    "author": null
+  },
+  {
+    "id": 319694,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "BBC專訪德國總理默茨：美國要與中國競爭而無暇顧及歐洲",
+    "link": "https://www.bbc.com/zhongwen/articles/crmvrdelwepo/trad",
+    "pub_date": "2025-07-18 15:52:19",
+    "author": null
+  },
+  {
+    "id": 319696,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "「子宮內即被預訂」嬰兒以500英鎊的價格出售：印尼警方破獲嬰兒販賣集團",
+    "link": "https://www.bbc.com/zhongwen/articles/cz7ldpve95zo/trad",
+    "pub_date": "2025-07-18 15:05:41",
+    "author": null
+  },
+  {
+    "id": 319698,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "白宮表示，特朗普在被問及瘀傷後被診斷出患有靜脈疾病",
+    "link": "https://www.bbc.com/zhongwen/articles/cn0qnx957jqo/trad",
+    "pub_date": "2025-07-18 14:31:56",
+    "author": null
+  },
+  {
+    "id": 319700,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "阿富汗資料外洩事件：英國間諜與特種空勤團成員身份遭揭露",
+    "link": "https://www.bbc.com/zhongwen/articles/ce8z503e557o/trad",
+    "pub_date": "2025-07-18 13:19:01",
+    "author": null
+  },
+  {
+    "id": 319702,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "核武器：哪些國家擁有它們？這些國家是如何獲得的？",
+    "link": "https://www.bbc.com/zhongwen/articles/c4gkjd802plo/trad",
+    "pub_date": "2025-07-18 12:57:25",
     "author": null
   },
   {
@@ -327,76 +397,6 @@
     "title": "特朗普向普京發出最後通牒，烏克蘭人卻感到難抱期望",
     "link": "https://www.bbc.com/zhongwen/articles/c9392k9l9yxo/trad",
     "pub_date": "2025-07-16 12:19:14",
-    "author": null
-  },
-  {
-    "id": 309427,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "中國高校擬因在校女生與外籍男子「不正當交往」開除其學籍，稱其「有損國格」",
-    "link": "https://www.bbc.com/zhongwen/articles/cy9x21zn93yo/trad",
-    "pub_date": "2025-07-16 08:07:16",
-    "author": null
-  },
-  {
-    "id": 309430,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "台灣「大罷免」事件始末、政黨表態及投票流程等一次看",
-    "link": "https://www.bbc.com/zhongwen/articles/cvgwzx9erylo/trad",
-    "pub_date": "2025-07-15 19:34:05",
-    "author": null
-  },
-  {
-    "id": 309433,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "中國上半年GDP增長5.3%：關稅壓力下顯「韌性」 但下半年需求端或「斷崖式下跌」",
-    "link": "https://www.bbc.com/zhongwen/articles/ce8zp58vq69o/trad",
-    "pub_date": "2025-07-15 17:36:06",
-    "author": null
-  },
-  {
-    "id": 309442,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "特朗普接受BBC訪問：「我對普京感到失望，但尚未放棄與他的關係」",
-    "link": "https://www.bbc.com/zhongwen/articles/cjwnpgxew30o/trad",
-    "pub_date": "2025-07-15 16:03:55",
-    "author": null
-  },
-  {
-    "id": 309445,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "特朗普承諾軍援，象徵烏克蘭戰事的重要突破",
-    "link": "https://www.bbc.com/zhongwen/articles/cd97pvpnnz1o/trad",
-    "pub_date": "2025-07-15 14:55:49",
-    "author": null
-  },
-  {
-    "id": 309448,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "特朗普威脅對俄羅斯加徵關稅，並公布對烏克蘭軍援計劃",
-    "link": "https://www.bbc.com/zhongwen/articles/c70r7n27k8wo/trad",
-    "pub_date": "2025-07-15 11:46:05",
-    "author": null
-  },
-  {
-    "id": 309451,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "「魷魚遊戲」下結業潮來襲，香港餐飲業能重返「美食天堂」嗎？",
-    "link": "https://www.bbc.com/zhongwen/articles/c1k8ge4zjw0o/trad",
-    "pub_date": "2025-07-15 09:10:24",
     "author": null
   }
 ]
