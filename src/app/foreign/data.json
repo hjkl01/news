@@ -1,5 +1,25 @@
 [
   {
+    "id": 317113,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "特朗普被诊断患有慢性静脉功能不全，这是什么病？",
+    "link": "https://cn.nytimes.com/usa/20250718/trump-chronic-venous-insufficiency/dual",
+    "pub_date": "2025-07-18 10:36:02",
+    "author": null
+  },
+  {
+    "id": 317121,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "中国高调展示军事雄心，两艘航母共同穿越“第一岛链”",
+    "link": "https://cn.nytimes.com/china/20250718/china-carriers-us-japan/dual",
+    "pub_date": "2025-07-18 08:36:05",
+    "author": null
+  },
+  {
     "id": 315376,
     "feed_name": "纽约时报双语版",
     "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
@@ -180,23 +200,33 @@
     "author": null
   },
   {
-    "id": 303178,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "id": 317482,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
     "category": "国外",
-    "title": "哈佛与中国：从双赢互利到白宫的“眼中钉”",
-    "link": "https://cn.nytimes.com/usa/20250708/harvard-china-white-house-funding/dual",
-    "pub_date": "2025-07-08 18:06:01",
+    "title": "阿波羅－聯盟測試計劃：為世界帶來希望的美蘇太空握手",
+    "link": "https://www.bbc.com/zhongwen/articles/cn0zn3xkl44o/trad",
+    "pub_date": "2025-07-18 10:24:53",
     "author": null
   },
   {
-    "id": 303191,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "id": 317488,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
     "category": "国外",
-    "title": "杭州，中国人工智能热潮的中心",
-    "link": "https://cn.nytimes.com/technology/20250708/china-artificial-intelligence-hangzhou/dual",
-    "pub_date": "2025-07-08 15:06:02",
+    "title": "美國太空軍：BBC罕見獲准進入追蹤全球飛彈發射的美軍基地內部",
+    "link": "https://www.bbc.com/zhongwen/articles/cwykejzkrwgo/trad",
+    "pub_date": "2025-07-18 08:03:42",
+    "author": null
+  },
+  {
+    "id": 317494,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "台美關稅談判爲何緩慢，特朗普在想什麽",
+    "link": "https://www.bbc.com/zhongwen/articles/c9942mep41ko/trad",
+    "pub_date": "2025-07-18 07:53:24",
     "author": null
   },
   {
@@ -367,36 +397,6 @@
     "title": "「魷魚遊戲」下結業潮來襲，香港餐飲業能重返「美食天堂」嗎？",
     "link": "https://www.bbc.com/zhongwen/articles/c1k8ge4zjw0o/trad",
     "pub_date": "2025-07-15 09:10:24",
-    "author": null
-  },
-  {
-    "id": 309454,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "從「臉基尼」到「水上麻將」：中國高溫下民眾尋涼方",
-    "link": "https://www.bbc.com/zhongwen/articles/c9w1eg95j49o/trad",
-    "pub_date": "2025-07-14 22:32:40",
-    "author": null
-  },
-  {
-    "id": 309457,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "人工智慧會威脅水資源嗎？",
-    "link": "https://www.bbc.com/zhongwen/articles/c07d29vdx7zo/trad",
-    "pub_date": "2025-07-14 15:09:24",
-    "author": null
-  },
-  {
-    "id": 309460,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "歐盟延後對美國的報復性貿易關稅",
-    "link": "https://www.bbc.com/zhongwen/articles/c5yg7x6p6xjo/trad",
-    "pub_date": "2025-07-14 12:47:28",
     "author": null
   }
 ]
