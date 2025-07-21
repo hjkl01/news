@@ -1,5 +1,15 @@
 [
   {
+    "id": 329215,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "富国银行驻美高管被中国限制离境引发商界担忧",
+    "link": "https://cn.nytimes.com/china/20250721/china-exit-ban-business-anxiety/dual",
+    "pub_date": "2025-07-21 08:36:02",
+    "author": null
+  },
+  {
     "id": 319494,
     "feed_name": "纽约时报双语版",
     "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
@@ -190,13 +200,33 @@
     "author": null
   },
   {
-    "id": 307150,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "id": 329314,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
     "category": "国外",
-    "title": "为什么美国人买不到世界上最好的电动汽车",
-    "link": "https://cn.nytimes.com/opinion/20250709/byd-china-car-ev/dual",
-    "pub_date": "2025-07-09 12:06:02",
+    "title": "中共政治局公告引關注，中國領導人習近平正為繼任做準備？",
+    "link": "https://www.bbc.com/zhongwen/articles/cy0w240egkxo/trad",
+    "pub_date": "2025-07-21 08:15:38",
+    "author": null
+  },
+  {
+    "id": 329318,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "愛潑斯坦案：該案為何在「讓美國再次偉大」陣營中備受關注",
+    "link": "https://www.bbc.com/zhongwen/articles/c5yge7j1zp1o/trad",
+    "pub_date": "2025-07-20 18:06:56",
+    "author": null
+  },
+  {
+    "id": 329322,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "Coldplay 音樂會「出軌門」視頻瘋傳 當事人科技公司CEO已辭職",
+    "link": "https://www.bbc.com/zhongwen/articles/clyl499zylwo/trad",
+    "pub_date": "2025-07-20 12:23:06",
     "author": null
   },
   {
@@ -367,36 +397,6 @@
     "title": "印度空難後中國東航的一起類似事件被重提，「可能危及國安」會將真相塵封嗎？",
     "link": "https://www.bbc.com/zhongwen/articles/c1lj2ynp20vo/trad",
     "pub_date": "2025-07-17 08:15:56",
-    "author": null
-  },
-  {
-    "id": 311446,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "印度空難後中國「東航慘案」被重提，「可能危及國安」會將真相塵封嗎？",
-    "link": "https://www.bbc.com/zhongwen/articles/c1lj2ynp20vo/trad",
-    "pub_date": "2025-07-17 08:15:56",
-    "author": null
-  },
-  {
-    "id": 309417,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "你最喜歡的健康飲料會損害牙齒嗎？",
-    "link": "https://www.bbc.com/zhongwen/articles/ckgj01q59k0o/trad",
-    "pub_date": "2025-07-16 15:03:46",
-    "author": null
-  },
-  {
-    "id": 309421,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "阿富汗資料外洩引發前所未有秘密撤離：值得關注的三大關鍵問題",
-    "link": "https://www.bbc.com/zhongwen/articles/cp3lx4z5vneo/trad",
-    "pub_date": "2025-07-16 13:32:58",
     "author": null
   }
 ]
