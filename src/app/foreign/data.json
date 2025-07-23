@@ -1,5 +1,35 @@
 [
   {
+    "id": 339293,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "美元疲软欧元崛起，全球货币体系迎变局？",
+    "link": "https://cn.nytimes.com/business/20250723/euro-dollar-currency-tariffs/dual",
+    "pub_date": "2025-07-23 16:36:02",
+    "author": null
+  },
+  {
+    "id": 339302,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "中国汽车巨头进军巴西，梦想称霸南美大陆",
+    "link": "https://cn.nytimes.com/business/20250723/china-brazil-electric-vehicles/dual",
+    "pub_date": "2025-07-23 14:36:02",
+    "author": null
+  },
+  {
+    "id": 339312,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "中国正在抢占未来，美国却陷入焦虑与退缩",
+    "link": "https://cn.nytimes.com/opinion/20250723/trump-america-china/dual",
+    "pub_date": "2025-07-23 13:06:02",
+    "author": null
+  },
+  {
     "id": 337119,
     "feed_name": "纽约时报双语版",
     "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
@@ -170,33 +200,53 @@
     "author": null
   },
   {
-    "id": 309051,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "id": 339590,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
     "category": "国外",
-    "title": "中国是如何斥巨资打造人工智能超级大国的",
-    "link": "https://cn.nytimes.com/technology/20250717/china-ai/dual",
-    "pub_date": "2025-07-17 13:36:02",
+    "title": "中歐峰會：為什麼會談會變得緊張？",
+    "link": "https://www.bbc.com/zhongwen/articles/c4g2n2ld4n7o/trad",
+    "pub_date": "2025-07-23 17:49:59",
     "author": null
   },
   {
-    "id": 309067,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "id": 339592,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
     "category": "国外",
-    "title": "加拿大对中国钢铁实施新的关税措施",
-    "link": "https://cn.nytimes.com/world/20250717/carney-trump-us-canada-steel-tariffs/dual",
-    "pub_date": "2025-07-17 13:36:02",
+    "title": "圈養獅子成風 巴基斯坦打擊將「大貓」當寵物行為",
+    "link": "https://www.bbc.com/zhongwen/articles/cly8elqvylgo/trad",
+    "pub_date": "2025-07-23 17:27:57",
     "author": null
   },
   {
-    "id": 309079,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "id": 339594,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
     "category": "国外",
-    "title": "黄仁勋访华，在中美之间谨慎寻求平衡",
-    "link": "https://cn.nytimes.com/business/20250717/nvidia-jensen-huang-beijing/dual",
-    "pub_date": "2025-07-17 13:36:02",
+    "title": "前線報導：敘利亞醫院遭大屠殺 目擊者稱病人在床上被射殺",
+    "link": "https://www.bbc.com/zhongwen/articles/cly84z6l28go/trad",
+    "pub_date": "2025-07-23 17:24:26",
+    "author": null
+  },
+  {
+    "id": 339596,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "澳洲珊瑚礁陷入「水下叢林大火」危機",
+    "link": "https://www.bbc.com/zhongwen/articles/cwyk4wl00x1o/trad",
+    "pub_date": "2025-07-23 16:41:04",
+    "author": null
+  },
+  {
+    "id": 339598,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "特朗普宣佈與日本和菲律賓分別達成貿易協議",
+    "link": "https://www.bbc.com/zhongwen/articles/cgk3lry85vvo/trad",
+    "pub_date": "2025-07-23 15:12:54",
     "author": null
   },
   {
@@ -347,56 +397,6 @@
     "title": "愛潑斯坦案：該案為何在「讓美國再次偉大」陣營中備受關注",
     "link": "https://www.bbc.com/zhongwen/articles/c5yge7j1zp1o/trad",
     "pub_date": "2025-07-20 18:06:56",
-    "author": null
-  },
-  {
-    "id": 329322,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "Coldplay 音樂會「出軌門」視頻瘋傳 當事人科技公司CEO已辭職",
-    "link": "https://www.bbc.com/zhongwen/articles/clyl499zylwo/trad",
-    "pub_date": "2025-07-20 12:23:06",
-    "author": null
-  },
-  {
-    "id": 323732,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "台灣「大罷免」分析：投票率、仇恨值與民眾黨選民將如何左右勝負？",
-    "link": "https://www.bbc.com/zhongwen/articles/cn0zn2k21jzo/trad",
-    "pub_date": "2025-07-19 11:00:15",
-    "author": null
-  },
-  {
-    "id": 319690,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "避難包、急救班、體能訓練：台灣女性如何「備戰」？",
-    "link": "https://www.bbc.com/zhongwen/articles/cy8gelp57g2o/trad",
-    "pub_date": "2025-07-18 19:34:57",
-    "author": null
-  },
-  {
-    "id": 319692,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "特權階層接連爆雷，中國網民震怒",
-    "link": "https://www.bbc.com/zhongwen/articles/cdxl7w63p1po/trad",
-    "pub_date": "2025-07-18 16:45:38",
-    "author": null
-  },
-  {
-    "id": 319694,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "BBC專訪德國總理默茨：美國要與中國競爭而無暇顧及歐洲",
-    "link": "https://www.bbc.com/zhongwen/articles/crmvrdelwepo/trad",
-    "pub_date": "2025-07-18 15:52:19",
     "author": null
   }
 ]
