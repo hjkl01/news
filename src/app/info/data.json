@@ -200,6 +200,46 @@
     "author": "卓先生"
   },
   {
+    "id": 299084,
+    "feed_name": "阮一峰的网络日志",
+    "feed_url": "https://www.ruanyifeng.com/blog/atom.xml",
+    "category": "资讯",
+    "title": "科技爱好者周刊（第 355 期）：两本《芯片战争》",
+    "link": "http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html",
+    "pub_date": "2025-07-04 08:02:04",
+    "author": "阮一峰"
+  },
+  {
+    "id": 277980,
+    "feed_name": "阮一峰的网络日志",
+    "feed_url": "https://www.ruanyifeng.com/blog/atom.xml",
+    "category": "资讯",
+    "title": "科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？",
+    "link": "http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html",
+    "pub_date": "2025-06-27 08:13:19",
+    "author": "阮一峰"
+  },
+  {
+    "id": 277981,
+    "feed_name": "阮一峰的网络日志",
+    "feed_url": "https://www.ruanyifeng.com/blog/atom.xml",
+    "category": "资讯",
+    "title": "国产 AI 网页开发工具：豆包 AI 编程简单测评",
+    "link": "http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html",
+    "pub_date": "2025-06-24 10:49:18",
+    "author": "阮一峰"
+  },
+  {
+    "id": 277982,
+    "feed_name": "阮一峰的网络日志",
+    "feed_url": "https://www.ruanyifeng.com/blog/atom.xml",
+    "category": "资讯",
+    "title": "科技爱好者周刊（第 353 期）：苹果的\"液态玻璃\"是为了 AR",
+    "link": "http://www.ruanyifeng.com/blog/2025/06/weekly-issue-353.html",
+    "pub_date": "2025-06-20 08:08:10",
+    "author": "阮一峰"
+  },
+  {
     "id": 335695,
     "feed_name": "路由器交流",
     "feed_url": "https://www.acwifi.net/feed",
@@ -398,45 +438,5 @@
     "link": "https://www.acwifi.net/31382.html",
     "pub_date": "2025-05-12 14:10:03",
     "author": null
-  },
-  {
-    "id": 299084,
-    "feed_name": "阮一峰的网络日志",
-    "feed_url": "https://www.ruanyifeng.com/blog/atom.xml",
-    "category": "资讯",
-    "title": "科技爱好者周刊（第 355 期）：两本《芯片战争》",
-    "link": "http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html",
-    "pub_date": "2025-07-04 08:02:04",
-    "author": "阮一峰"
-  },
-  {
-    "id": 277980,
-    "feed_name": "阮一峰的网络日志",
-    "feed_url": "https://www.ruanyifeng.com/blog/atom.xml",
-    "category": "资讯",
-    "title": "科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？",
-    "link": "http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html",
-    "pub_date": "2025-06-27 08:13:19",
-    "author": "阮一峰"
-  },
-  {
-    "id": 277981,
-    "feed_name": "阮一峰的网络日志",
-    "feed_url": "https://www.ruanyifeng.com/blog/atom.xml",
-    "category": "资讯",
-    "title": "国产 AI 网页开发工具：豆包 AI 编程简单测评",
-    "link": "http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html",
-    "pub_date": "2025-06-24 10:49:18",
-    "author": "阮一峰"
-  },
-  {
-    "id": 277982,
-    "feed_name": "阮一峰的网络日志",
-    "feed_url": "https://www.ruanyifeng.com/blog/atom.xml",
-    "category": "资讯",
-    "title": "科技爱好者周刊（第 353 期）：苹果的\"液态玻璃\"是为了 AR",
-    "link": "http://www.ruanyifeng.com/blog/2025/06/weekly-issue-353.html",
-    "pub_date": "2025-06-20 08:08:10",
-    "author": "阮一峰"
   }
 ]
