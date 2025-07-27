@@ -1,5 +1,15 @@
 [
   {
+    "id": 354884,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "bee-san/RustScan",
+    "link": "https://github.com/bee-san/RustScan",
+    "pub_date": "2025-07-27 22:19:54",
+    "author": null
+  },
+  {
     "id": 352715,
     "feed_name": "github rust",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
@@ -190,13 +200,13 @@
     "author": null
   },
   {
-    "id": 308148,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "id": 354983,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
     "category": "技术",
-    "title": "huggingface/candle",
-    "link": "https://github.com/huggingface/candle",
-    "pub_date": "2025-07-17 15:20:55",
+    "title": "HumanSignal/label-studio",
+    "link": "https://github.com/HumanSignal/label-studio",
+    "pub_date": "2025-07-27 22:19:54",
     "author": null
   },
   {
@@ -390,13 +400,23 @@
     "author": null
   },
   {
-    "id": 308052,
-    "feed_name": "github javascript",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "id": 354840,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
     "category": "技术",
-    "title": "pollinations/pollinations",
-    "link": "https://github.com/pollinations/pollinations",
-    "pub_date": "2025-07-17 15:20:55",
+    "title": "siderolabs/talos",
+    "link": "https://github.com/siderolabs/talos",
+    "pub_date": "2025-07-27 22:19:54",
+    "author": null
+  },
+  {
+    "id": 354932,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "nats-io/nats-server",
+    "link": "https://github.com/nats-io/nats-server",
+    "pub_date": "2025-07-27 22:19:54",
     "author": null
   },
   {
@@ -576,26 +596,6 @@
     "category": "技术",
     "title": "steveiliop56/tinyauth",
     "link": "https://github.com/steveiliop56/tinyauth",
-    "pub_date": "2025-07-17 15:20:55",
-    "author": null
-  },
-  {
-    "id": 308076,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "qdm12/gluetun",
-    "link": "https://github.com/qdm12/gluetun",
-    "pub_date": "2025-07-17 15:20:55",
-    "author": null
-  },
-  {
-    "id": 308082,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "ArvinLovegood/go-stock",
-    "link": "https://github.com/ArvinLovegood/go-stock",
     "pub_date": "2025-07-17 15:20:55",
     "author": null
   },
