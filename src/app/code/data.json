@@ -630,206 +630,6 @@
     "author": null
   },
   {
-    "id": 358349,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "nvimtools/none-ls.nvim",
-    "link": "https://github.com/nvimtools/none-ls.nvim",
-    "pub_date": "2025-07-28 10:35:56",
-    "author": null
-  },
-  {
-    "id": 358366,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "sphamba/smear-cursor.nvim",
-    "link": "https://github.com/sphamba/smear-cursor.nvim",
-    "pub_date": "2025-07-28 10:35:56",
-    "author": null
-  },
-  {
-    "id": 350823,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "echasnovski/mini.nvim",
-    "link": "https://github.com/echasnovski/mini.nvim",
-    "pub_date": "2025-07-26 22:20:27",
-    "author": null
-  },
-  {
-    "id": 350838,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "LazyVim/LazyVim",
-    "link": "https://github.com/LazyVim/LazyVim",
-    "pub_date": "2025-07-26 22:20:27",
-    "author": null
-  },
-  {
-    "id": 348648,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "folke/which-key.nvim",
-    "link": "https://github.com/folke/which-key.nvim",
-    "pub_date": "2025-07-26 15:18:20",
-    "author": null
-  },
-  {
-    "id": 348707,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "zbirenbaum/copilot.lua",
-    "link": "https://github.com/zbirenbaum/copilot.lua",
-    "pub_date": "2025-07-26 15:18:20",
-    "author": null
-  },
-  {
-    "id": 348714,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "mistweaverco/kulala.nvim",
-    "link": "https://github.com/mistweaverco/kulala.nvim",
-    "pub_date": "2025-07-26 15:18:20",
-    "author": null
-  },
-  {
-    "id": 348715,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "apache/apisix",
-    "link": "https://github.com/apache/apisix",
-    "pub_date": "2025-07-26 15:18:20",
-    "author": null
-  },
-  {
-    "id": 346502,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "iDvel/rime-ice",
-    "link": "https://github.com/iDvel/rime-ice",
-    "pub_date": "2025-07-25 22:21:11",
-    "author": null
-  },
-  {
-    "id": 346507,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "folke/lazy.nvim",
-    "link": "https://github.com/folke/lazy.nvim",
-    "pub_date": "2025-07-25 22:21:11",
-    "author": null
-  },
-  {
-    "id": 346560,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "Kong/kong",
-    "link": "https://github.com/Kong/kong",
-    "pub_date": "2025-07-25 22:21:11",
-    "author": null
-  },
-  {
-    "id": 346568,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "neovim/nvim-lspconfig",
-    "link": "https://github.com/neovim/nvim-lspconfig",
-    "pub_date": "2025-07-25 22:21:11",
-    "author": null
-  },
-  {
-    "id": 346572,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "NeogitOrg/neogit",
-    "link": "https://github.com/NeogitOrg/neogit",
-    "pub_date": "2025-07-25 22:21:11",
-    "author": null
-  },
-  {
-    "id": 346576,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "nvim-neo-tree/neo-tree.nvim",
-    "link": "https://github.com/nvim-neo-tree/neo-tree.nvim",
-    "pub_date": "2025-07-25 22:21:11",
-    "author": null
-  },
-  {
-    "id": 346581,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "yetone/avante.nvim",
-    "link": "https://github.com/yetone/avante.nvim",
-    "pub_date": "2025-07-25 22:21:11",
-    "author": null
-  },
-  {
-    "id": 346595,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "lewis6991/gitsigns.nvim",
-    "link": "https://github.com/lewis6991/gitsigns.nvim",
-    "pub_date": "2025-07-25 22:21:11",
-    "author": null
-  },
-  {
-    "id": 336128,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "ThePrimeagen/vim-be-good",
-    "link": "https://github.com/ThePrimeagen/vim-be-good",
-    "pub_date": "2025-07-23 11:41:05",
-    "author": null
-  },
-  {
-    "id": 320487,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "rcarriga/nvim-dap-ui",
-    "link": "https://github.com/rcarriga/nvim-dap-ui",
-    "pub_date": "2025-07-19 11:24:18",
-    "author": null
-  },
-  {
-    "id": 304275,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "stevearc/overseer.nvim",
-    "link": "https://github.com/stevearc/overseer.nvim",
-    "pub_date": "2025-07-09 11:25:19",
-    "author": null
-  },
-  {
-    "id": 304277,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "monaqa/dial.nvim",
-    "link": "https://github.com/monaqa/dial.nvim",
-    "pub_date": "2025-07-09 11:25:19",
-    "author": null
-  },
-  {
     "id": 354983,
     "feed_name": "github javascript",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
@@ -1030,6 +830,16 @@
     "author": null
   },
   {
+    "id": 362743,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "MystenLabs/sui",
+    "link": "https://github.com/MystenLabs/sui",
+    "pub_date": "2025-07-29 07:17:32",
+    "author": null
+  },
+  {
     "id": 358331,
     "feed_name": "github rust",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
@@ -1220,13 +1030,203 @@
     "author": null
   },
   {
-    "id": 308138,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "id": 358349,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
     "category": "技术",
-    "title": "restatedev/restate",
-    "link": "https://github.com/restatedev/restate",
-    "pub_date": "2025-07-17 15:20:55",
+    "title": "nvimtools/none-ls.nvim",
+    "link": "https://github.com/nvimtools/none-ls.nvim",
+    "pub_date": "2025-07-28 10:35:56",
+    "author": null
+  },
+  {
+    "id": 358366,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "sphamba/smear-cursor.nvim",
+    "link": "https://github.com/sphamba/smear-cursor.nvim",
+    "pub_date": "2025-07-28 10:35:56",
+    "author": null
+  },
+  {
+    "id": 350823,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "echasnovski/mini.nvim",
+    "link": "https://github.com/echasnovski/mini.nvim",
+    "pub_date": "2025-07-26 22:20:27",
+    "author": null
+  },
+  {
+    "id": 350838,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "LazyVim/LazyVim",
+    "link": "https://github.com/LazyVim/LazyVim",
+    "pub_date": "2025-07-26 22:20:27",
+    "author": null
+  },
+  {
+    "id": 348648,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "folke/which-key.nvim",
+    "link": "https://github.com/folke/which-key.nvim",
+    "pub_date": "2025-07-26 15:18:20",
+    "author": null
+  },
+  {
+    "id": 348707,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "zbirenbaum/copilot.lua",
+    "link": "https://github.com/zbirenbaum/copilot.lua",
+    "pub_date": "2025-07-26 15:18:20",
+    "author": null
+  },
+  {
+    "id": 348714,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "mistweaverco/kulala.nvim",
+    "link": "https://github.com/mistweaverco/kulala.nvim",
+    "pub_date": "2025-07-26 15:18:20",
+    "author": null
+  },
+  {
+    "id": 348715,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "apache/apisix",
+    "link": "https://github.com/apache/apisix",
+    "pub_date": "2025-07-26 15:18:20",
+    "author": null
+  },
+  {
+    "id": 346502,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "iDvel/rime-ice",
+    "link": "https://github.com/iDvel/rime-ice",
+    "pub_date": "2025-07-25 22:21:11",
+    "author": null
+  },
+  {
+    "id": 346507,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "folke/lazy.nvim",
+    "link": "https://github.com/folke/lazy.nvim",
+    "pub_date": "2025-07-25 22:21:11",
+    "author": null
+  },
+  {
+    "id": 346560,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "Kong/kong",
+    "link": "https://github.com/Kong/kong",
+    "pub_date": "2025-07-25 22:21:11",
+    "author": null
+  },
+  {
+    "id": 346568,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "neovim/nvim-lspconfig",
+    "link": "https://github.com/neovim/nvim-lspconfig",
+    "pub_date": "2025-07-25 22:21:11",
+    "author": null
+  },
+  {
+    "id": 346572,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "NeogitOrg/neogit",
+    "link": "https://github.com/NeogitOrg/neogit",
+    "pub_date": "2025-07-25 22:21:11",
+    "author": null
+  },
+  {
+    "id": 346576,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "nvim-neo-tree/neo-tree.nvim",
+    "link": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+    "pub_date": "2025-07-25 22:21:11",
+    "author": null
+  },
+  {
+    "id": 346581,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "yetone/avante.nvim",
+    "link": "https://github.com/yetone/avante.nvim",
+    "pub_date": "2025-07-25 22:21:11",
+    "author": null
+  },
+  {
+    "id": 346595,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "lewis6991/gitsigns.nvim",
+    "link": "https://github.com/lewis6991/gitsigns.nvim",
+    "pub_date": "2025-07-25 22:21:11",
+    "author": null
+  },
+  {
+    "id": 336128,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "ThePrimeagen/vim-be-good",
+    "link": "https://github.com/ThePrimeagen/vim-be-good",
+    "pub_date": "2025-07-23 11:41:05",
+    "author": null
+  },
+  {
+    "id": 320487,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "rcarriga/nvim-dap-ui",
+    "link": "https://github.com/rcarriga/nvim-dap-ui",
+    "pub_date": "2025-07-19 11:24:18",
+    "author": null
+  },
+  {
+    "id": 304275,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "stevearc/overseer.nvim",
+    "link": "https://github.com/stevearc/overseer.nvim",
+    "pub_date": "2025-07-09 11:25:19",
+    "author": null
+  },
+  {
+    "id": 304277,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "monaqa/dial.nvim",
+    "link": "https://github.com/monaqa/dial.nvim",
+    "pub_date": "2025-07-09 11:25:19",
     "author": null
   }
 ]
