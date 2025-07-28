@@ -1,5 +1,45 @@
 [
   {
+    "id": 361711,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "中美举行新一轮贸易谈判，特朗普暗示可能达成协议",
+    "link": "https://cn.nytimes.com/business/20250728/us-and-china-meet-as-trade-truce-nears-expiration/dual",
+    "pub_date": "2025-07-28 16:06:02",
+    "author": null
+  },
+  {
+    "id": 361718,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "改装特朗普的新“空军一号”要花多少钱？",
+    "link": "https://cn.nytimes.com/usa/20250728/air-force-one-trump-cost/dual",
+    "pub_date": "2025-07-28 14:36:02",
+    "author": null
+  },
+  {
+    "id": 361725,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "特朗普斡旋下，泰国和柬埔寨将就停火协议展开磋商",
+    "link": "https://cn.nytimes.com/asia-pacific/20250728/thailand-cambodia-conflict/dual",
+    "pub_date": "2025-07-28 12:36:01",
+    "author": null
+  },
+  {
+    "id": 361730,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "全球钢铁过剩，但没人愿意停止生产",
+    "link": "https://cn.nytimes.com/business/20250728/steel-overcapacity-china/dual",
+    "pub_date": "2025-07-28 11:36:02",
+    "author": null
+  },
+  {
     "id": 357707,
     "feed_name": "纽约时报双语版",
     "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
@@ -160,43 +200,53 @@
     "author": null
   },
   {
-    "id": 335129,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "id": 361897,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
     "category": "国外",
-    "title": "官方报告称中国官员协助掩盖幼儿园学童铅中毒事件",
-    "link": "https://cn.nytimes.com/china/20250722/china-lead-poisoning-scandal/dual",
-    "pub_date": "2025-07-22 11:06:02",
+    "title": "美歐協議關稅降至15% 專家指歐盟談判處下風",
+    "link": "https://www.bbc.com/zhongwen/articles/cx2q5qxegz7o/trad",
+    "pub_date": "2025-07-28 17:32:17",
     "author": null
   },
   {
-    "id": 335141,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "id": 361904,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
     "category": "国外",
-    "title": "中国阻止一名美国商务部雇员离境，盘问其美军服役经历",
-    "link": "https://cn.nytimes.com/china/20250722/china-exit-ban-us-government-employee/dual",
-    "pub_date": "2025-07-22 10:36:01",
+    "title": "Google承認有1000萬人未收到兩年前的土耳其地震預警",
+    "link": "https://www.bbc.com/zhongwen/articles/czd01ve25njo/trad",
+    "pub_date": "2025-07-28 16:41:53",
     "author": null
   },
   {
-    "id": 333123,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "id": 361910,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
     "category": "国外",
-    "title": "中国强硬对抗特朗普，对欧洲也毫不退让",
-    "link": "https://cn.nytimes.com/world/20250722/china-europe-trade-war/dual",
-    "pub_date": "2025-07-22 08:06:02",
+    "title": "觀察：盟友為加沙飢荒震驚，以色列的援助措施是一種姿態",
+    "link": "https://www.bbc.com/zhongwen/articles/c1ej86qgl5jo/trad",
+    "pub_date": "2025-07-28 14:37:03",
     "author": null
   },
   {
-    "id": 331136,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "id": 361916,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
     "category": "国外",
-    "title": "“阴谋论的完美配方”：关于爱泼斯坦档案，你应该知道的",
-    "link": "https://cn.nytimes.com/usa/20250721/jeffrey-epstein-files-trump/dual",
-    "pub_date": "2025-07-21 16:36:02",
+    "title": "美國與歐盟達成貿易協議，對歐洲出口商品徵收15%關稅",
+    "link": "https://www.bbc.com/zhongwen/articles/c5y20km82kxo/trad",
+    "pub_date": "2025-07-28 14:04:13",
+    "author": null
+  },
+  {
+    "id": 361925,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "人體內充斥著真菌：但它們會否造成大腦疾病？",
+    "link": "https://www.bbc.com/zhongwen/articles/clymyg0gvpdo/trad",
+    "pub_date": "2025-07-28 12:10:54",
     "author": null
   },
   {
@@ -347,56 +397,6 @@
     "title": "遙距狂熱：我們為何對外國球隊如此鍾情",
     "link": "https://www.bbc.com/zhongwen/articles/cpd1wex1l8qo/trad",
     "pub_date": "2025-07-25 15:27:10",
-    "author": null
-  },
-  {
-    "id": 350091,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "遙距狂熱：為何亞洲球迷對歐洲球隊如此痴迷？",
-    "link": "https://www.bbc.com/zhongwen/articles/cpd1wex1l8qo/trad",
-    "pub_date": "2025-07-25 15:27:10",
-    "author": null
-  },
-  {
-    "id": 348103,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "針對「親中」立委的「大罷免」投票如何撕裂台灣",
-    "link": "https://www.bbc.com/zhongwen/articles/c0q8q1wy851o/trad",
-    "pub_date": "2025-07-25 14:42:44",
-    "author": null
-  },
-  {
-    "id": 345932,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "天性還是後天教養造就了我們？同卵雙胞胎意想不到的共同特質",
-    "link": "https://www.bbc.com/zhongwen/articles/c75r51e0d2eo/trad",
-    "pub_date": "2025-07-25 14:17:22",
-    "author": null
-  },
-  {
-    "id": 345936,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "台灣「大罷免」：「外省人」選民為何「造反」 ? 國民黨「鐵票」生鏽？",
-    "link": "https://www.bbc.com/zhongwen/articles/cglzlk26ryro/trad",
-    "pub_date": "2025-07-25 13:11:57",
-    "author": null
-  },
-  {
-    "id": 345940,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "分析：泰緬衝突背後的脆弱友誼",
-    "link": "https://www.bbc.com/zhongwen/articles/cly8yze6p4jo/trad",
-    "pub_date": "2025-07-25 12:27:31",
     "author": null
   }
 ]
