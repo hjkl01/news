@@ -76,7 +76,7 @@ async function fetchAndSaveRss(feed, db, callback) {
     clearTimeout(timeout);
     const parsedFeed = await parser.parseString(xml);
     const items = (parsedFeed.items || []).map(item => ({
-      feed_name: feed.title,
+      feed_name: feed.title || feed.name, // 支持 title 和 name 字段
       feed_url: feed.url,
       category: feed.category,
       title: item.title,
@@ -115,7 +115,8 @@ function deleteOldRecords(db, callback) {
 
 // 主函数
 async function main() {
-  const feeds = readFeeds('./feeds.json');
+  const feedsData = readFeeds('./public/rss-feeds.json');
+  const feeds = feedsData.feeds; // 获取feeds数组
   const db = connectDb('rss.db');
 
   // 用 Promise.all 等待所有抓取和插入完成

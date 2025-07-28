@@ -46,7 +46,8 @@ export default function RootLayout({
                   ['资讯', '/info'],
                   ['论坛', '/forum'],
                   ['娱乐', '/funny'],
-                  ['公众号', '/public']
+                  ['公众号', '/public'],
+                  ['RSS', '/rss']
                 ].map(([label, path]) => (
                   <li key={path}>
                     <a
