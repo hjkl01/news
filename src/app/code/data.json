@@ -400,6 +400,16 @@
     "author": null
   },
   {
+    "id": 371039,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "juspay/hyperswitch",
+    "link": "https://github.com/juspay/hyperswitch",
+    "pub_date": "2025-07-31 07:17:13",
+    "author": null
+  },
+  {
     "id": 368889,
     "feed_name": "github rust",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
@@ -590,13 +600,13 @@
     "author": null
   },
   {
-    "id": 316097,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "id": 371000,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
     "category": "技术",
-    "title": "sigoden/aichat",
-    "link": "https://github.com/sigoden/aichat",
-    "pub_date": "2025-07-18 11:38:49",
+    "title": "moby/moby",
+    "link": "https://github.com/moby/moby",
+    "pub_date": "2025-07-31 07:17:13",
     "author": null
   },
   {
@@ -787,16 +797,6 @@
     "title": "quii/learn-go-with-tests",
     "link": "https://github.com/quii/learn-go-with-tests",
     "pub_date": "2025-07-21 11:46:53",
-    "author": null
-  },
-  {
-    "id": 324521,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "coreybutler/nvm-windows",
-    "link": "https://github.com/coreybutler/nvm-windows",
-    "pub_date": "2025-07-20 11:47:42",
     "author": null
   },
   {
