@@ -5,17 +5,17 @@ import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
 
 const navLinks = [
-    ['首页', '/'],
-    ['新闻', '/news'],
-    ['国外', '/foreign'],
-    ['科技', '/tech'],
-    ['技术', '/code'],
-    ['生活', '/live'],
-    ['资讯', '/info'],
-    ['论坛', '/forum'],
-    ['娱乐', '/funny'],
-    ['公众号', '/public'],
-    ['RSS', '/rss']
+  ['首页', '/'],
+  ['新闻', '/news'],
+  ['国外', '/foreign'],
+  ['科技', '/tech'],
+  ['技术', '/code'],
+  ['生活', '/live'],
+  ['资讯', '/info'],
+  ['论坛', '/forum'],
+  ['娱乐', '/funny'],
+  ['公众号', '/public'],
+  ['RSS', '/rss']
 ];
 
 const DynamicDate = () => {
@@ -49,11 +49,10 @@ export default function Header() {
                 <li key={path}>
                   <Link
                     href={path}
-                    className={`px-3 py-2 rounded-md text-sm font-medium transition-colors duration-200 whitespace-nowrap ${
-                      pathname === path
+                    className={`px-3 py-2 rounded-md text-sm font-medium transition-colors duration-200 whitespace-nowrap ${pathname === path
                         ? 'bg-indigo-100 text-indigo-700 shadow-inner'
                         : 'text-gray-600 hover:bg-indigo-50 hover:text-indigo-600'
-                    }`}
+                      }`}
                   >
                     {label}
                   </Link>
@@ -62,7 +61,7 @@ export default function Header() {
             </ul>
           </nav>
           <div className="hidden md:flex items-center">
-             <DynamicDate />
+            <DynamicDate />
           </div>
         </div>
       </div>
