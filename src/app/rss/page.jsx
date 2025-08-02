@@ -386,6 +386,31 @@ export default function RSSPage() {
     });
   }, []);
 
+  const toggleSourceWithScroll = useCallback((sourceName, idx, arr) => {
+    setExpandedSources(prev => {
+      const newExpanded = new Set(prev);
+      const wasOpen = newExpanded.has(sourceName);
+      if (wasOpen) {
+        newExpanded.delete(sourceName);
+        // 收起时滚动到下一个 source
+        setTimeout(() => {
+          const next = arr[idx + 1];
+          if (next) {
+            const nextSourceName = next[0];
+            const nextId = `rss-source-header-${nextSourceName.replace(/[^a-zA-Z0-9]/g, '')}`;
+            const el = document.getElementById(nextId);
+            if (el) {
+              el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }
+          }
+        }, 100);
+      } else {
+        newExpanded.add(sourceName);
+      }
+      return newExpanded;
+    });
+  }, []);
+
   const toggleAllSources = useCallback(() => {
     const allSources = Object.keys(groupedFeeds);
     setExpandedSources(prev => {
@@ -578,16 +603,19 @@ export default function RSSPage() {
                     </button>
                   </div>
                 ) : (
-                  Object.entries(groupedFeeds).map(([sourceName, sourceFeeds]) => {
+                  Object.entries(groupedFeeds).map(([sourceName, sourceFeeds], idx, arr) => {
                     const isExpanded = expandedSources.has(sourceName);
                     const categoryColor = sourceFeeds[0]?.category.color || '#3B82F6';
+                    // 生成唯一id
+                    const sourceHeaderId = `rss-source-header-${sourceName.replace(/[^a-zA-Z0-9]/g, '')}`;
                     return (
-                      <div key={sourceName} className="bg-white rounded-xl shadow-lg overflow-hidden">
-                        {/* 来源标题栏 */}
+                      <div key={sourceName} className="bg-white rounded-xl shadow-lg">
+                        {/* 来源标题栏 - 吸顶 */}
                         <div
-                          className="px-6 py-4 cursor-pointer hover:bg-opacity-90 transition-all duration-200"
+                          id={sourceHeaderId}
+                          className="px-6 py-4 cursor-pointer hover:bg-opacity-90 transition-all duration-200 sticky top-16 z-20 bg-white/90 backdrop-blur border-b border-gray-100"
                           style={{ backgroundColor: categoryColor + '10' }}
-                          onClick={() => toggleSource(sourceName)}
+                          onClick={() => toggleSourceWithScroll(sourceName, idx, arr)}
                         >
                           <div className="flex items-center justify-between">
                             <div className="flex items-center space-x-3">
@@ -619,7 +647,7 @@ export default function RSSPage() {
                         </div>
                         {/* 文章列表 */}
                         {isExpanded && (
-                          <div className="divide-y divide-gray-100">
+                          <div className="divide-y divide-gray-100 overflow-hidden">
                             {sourceFeeds.map(feed => (
                               <div key={feed.id} className="p-6 hover:bg-gray-50 transition-colors duration-200">
                                 <div className="flex items-start space-x-4">
@@ -673,4 +701,4 @@ export default function RSSPage() {
       </div>
     </div>
   );
-} 
+}
