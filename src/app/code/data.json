@@ -200,6 +200,16 @@
     "author": null
   },
   {
+    "id": 383432,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "zed-industries/zed",
+    "link": "https://github.com/zed-industries/zed",
+    "pub_date": "2025-08-02 18:14:07",
+    "author": null
+  },
+  {
     "id": 381266,
     "feed_name": "github rust",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
@@ -387,16 +397,6 @@
     "title": "foundry-rs/foundry",
     "link": "https://github.com/foundry-rs/foundry",
     "pub_date": "2025-07-23 11:41:05",
-    "author": null
-  },
-  {
-    "id": 332038,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "alexpasmantier/television",
-    "link": "https://github.com/alexpasmantier/television",
-    "pub_date": "2025-07-22 11:39:06",
     "author": null
   },
   {
@@ -1030,6 +1030,16 @@
     "author": null
   },
   {
+    "id": 383440,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "olimorris/codecompanion.nvim",
+    "link": "https://github.com/olimorris/codecompanion.nvim",
+    "pub_date": "2025-08-02 18:14:07",
+    "author": null
+  },
+  {
     "id": 381403,
     "feed_name": "github lua",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
@@ -1216,16 +1226,6 @@
     "category": "技术",
     "title": "NeogitOrg/neogit",
     "link": "https://github.com/NeogitOrg/neogit",
-    "pub_date": "2025-07-25 22:21:11",
-    "author": null
-  },
-  {
-    "id": 346576,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "nvim-neo-tree/neo-tree.nvim",
-    "link": "https://github.com/nvim-neo-tree/neo-tree.nvim",
     "pub_date": "2025-07-25 22:21:11",
     "author": null
   }
