@@ -323,6 +323,7 @@ export default function RSSPage() {
               addFailedFeed(feedConfig.title);
             }
           } catch (error) {
+            console.error(error)
             addFailedFeed(feedConfig.title);
           } finally {
             removeLoadingFeed(feedConfig.title);
@@ -437,8 +438,8 @@ export default function RSSPage() {
                   onClick={handleSortByTime}
                   disabled={isSorted}
                   className={`px-4 py-2 rounded-lg flex items-center space-x-2 transition-all duration-200 ${isSorted
-                      ? 'bg-green-100 text-green-700 cursor-not-allowed'
-                      : 'bg-orange-100 hover:bg-orange-200 text-orange-700'
+                    ? 'bg-green-100 text-green-700 cursor-not-allowed'
+                    : 'bg-orange-100 hover:bg-orange-200 text-orange-700'
                     }`}
                 >
                   <ClockIcon className="w-4 h-4" />
@@ -473,8 +474,8 @@ export default function RSSPage() {
                     key={category.id}
                     onClick={() => handleCategoryClick(category.id)}
                     className={`w-full text-left px-4 py-3 rounded-lg transition-all duration-200 flex items-center justify-between ${selectedCategory === category.id
-                        ? 'shadow-lg text-white'
-                        : 'text-gray-700 hover:bg-gray-50'
+                      ? 'shadow-lg text-white'
+                      : 'text-gray-700 hover:bg-gray-50'
                       }`}
                     style={{
                       backgroundColor: selectedCategory === category.id ? category.color : 'transparent'
