@@ -274,6 +274,7 @@ export default function RSSPage() {
   const [selectedCategory, setSelectedCategory] = useState(null);
   const [expandedSources, setExpandedSources] = useState(new Set());
   const [isSorted, setIsSorted] = useState(false);
+  // 无需滚动
 
   // 初始化
   useEffect(() => {
@@ -375,30 +376,63 @@ export default function RSSPage() {
   }, [selectedCategory]);
 
 
+  // 收起时滚动到下一个RSS的第一条新闻
+  const [scrollToFeedId, setScrollToFeedId] = useState(null);
+
+  // 计算属性，必须在 groupedFeeds 之前
+  const currentFeeds = useMemo(() => {
+    return selectedCategory ? (feedsByCategory[selectedCategory] || []) : [];
+  }, [selectedCategory, feedsByCategory]);
+
+  // groupedFeeds 只声明一次，供全局使用
+  const groupedFeeds = useMemo(() => {
+    return currentFeeds.reduce((acc, feed) => {
+      if (!acc[feed.feedName]) {
+        acc[feed.feedName] = [];
+      }
+      acc[feed.feedName].push(feed);
+      return acc;
+    }, {});
+  }, [currentFeeds]);
+
   const toggleSourceWithScroll = useCallback((sourceName, idx, arr) => {
     setExpandedSources(prev => {
       const newExpanded = new Set(prev);
       const wasOpen = newExpanded.has(sourceName);
       if (wasOpen) {
         newExpanded.delete(sourceName);
-        // 收起时滚动到下一个 source
-        setTimeout(() => {
-          const next = arr[idx + 1];
-          if (next) {
-            const nextSourceName = next[0];
-            const nextId = `rss-source-header-${nextSourceName.replace(/[^a-zA-Z0-9]/g, '')}`;
-            const el = document.getElementById(nextId);
-            if (el) {
-              el.scrollIntoView({ behavior: 'smooth', block: 'start' });
-            }
+        // 收起时滚动到下一个source的第一条新闻
+        const next = arr[idx + 1];
+        if (next) {
+          const nextSourceName = next[0];
+          const nextFeeds = groupedFeeds[nextSourceName];
+          if (nextFeeds && nextFeeds.length > 0) {
+            setScrollToFeedId(`rss-feed-item-${nextFeeds[0].id}`);
           }
-        }, 100);
+        }
       } else {
         newExpanded.add(sourceName);
       }
       return newExpanded;
     });
-  }, []);
+  }, [groupedFeeds]);
+
+  useEffect(() => {
+    if (scrollToFeedId) {
+      setTimeout(() => {
+        const el = document.getElementById(scrollToFeedId);
+        if (el) {
+          el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          setTimeout(() => {
+            window.scrollBy({ top: -120, left: 0, behavior: 'instant' });
+          }, 300);
+        }
+        setScrollToFeedId(null);
+      }, 100);
+    }
+  }, [scrollToFeedId]);
+
+  // 无需滚动 effect
 
   const toggleAllSources = useCallback(() => {
     const allSources = Object.keys(groupedFeeds);
@@ -411,20 +445,9 @@ export default function RSSPage() {
     });
   }, []);
 
-  // 计算属性
-  const currentFeeds = useMemo(() => {
-    return selectedCategory ? (feedsByCategory[selectedCategory] || []) : [];
-  }, [selectedCategory, feedsByCategory]);
+  // ...existing code...
 
-  const groupedFeeds = useMemo(() => {
-    return currentFeeds.reduce((acc, feed) => {
-      if (!acc[feed.feedName]) {
-        acc[feed.feedName] = [];
-      }
-      acc[feed.feedName].push(feed);
-      return acc;
-    }, {});
-  }, [currentFeeds]);
+  // ...existing code...
 
   const isLoading = configLoading || loadingFeeds.size > 0;
 
@@ -637,8 +660,12 @@ export default function RSSPage() {
                         {/* 文章列表 */}
                         {isExpanded && (
                           <div className="divide-y divide-gray-100 overflow-hidden">
-                            {sourceFeeds.map(feed => (
-                              <div key={feed.id} className="p-6 hover:bg-gray-50 transition-colors duration-200">
+                            {sourceFeeds.map((feed, feedIdx) => (
+                              <div
+                                key={feed.id}
+                                id={`rss-feed-item-${feed.id}`}
+                                className="p-6 hover:bg-gray-50 transition-colors duration-200"
+                              >
                                 <div className="flex items-start space-x-4">
                                   <div
                                     className="w-2 h-16 rounded-full flex-shrink-0"
