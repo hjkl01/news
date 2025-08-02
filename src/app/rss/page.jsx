@@ -432,8 +432,6 @@ export default function RSSPage() {
     }
   }, [scrollToFeedId]);
 
-  // 无需滚动 effect
-
   const toggleAllSources = useCallback(() => {
     const allSources = Object.keys(groupedFeeds);
     setExpandedSources(prev => {
@@ -444,10 +442,6 @@ export default function RSSPage() {
       }
     });
   }, []);
-
-  // ...existing code...
-
-  // ...existing code...
 
   const isLoading = configLoading || loadingFeeds.size > 0;
 
