@@ -654,7 +654,7 @@ export default function RSSPage() {
                         {/* 文章列表 */}
                         {isExpanded && (
                           <div className="divide-y divide-gray-100 overflow-hidden">
-                            {sourceFeeds.map((feed, feedIdx) => (
+                            {sourceFeeds.map((feed) => (
                               <div
                                 key={feed.id}
                                 id={`rss-feed-item-${feed.id}`}
