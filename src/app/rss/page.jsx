@@ -13,6 +13,9 @@ export default function RSSPage() {
   const [expandedSources, setExpandedSources] = useState(new Set());
   const [rssConfig, setRssConfig] = useState(null);
   const [failedFeeds, setFailedFeeds] = useState([]);
+  const [loadingFeeds, setLoadingFeeds] = useState(new Set());
+  const [loadedFeedsCount, setLoadedFeedsCount] = useState(0);
+  const [isSorted, setIsSorted] = useState(false);
 
   // 预定义的分类颜色
   const categoryColors = [
@@ -59,44 +62,94 @@ export default function RSSPage() {
     }
   };
 
-  // 按分类加载feeds
+  // 按分类加载feeds - 分批并发加载
   const loadFeedsForCategory = async (categoryId) => {
     if (!rssConfig) return;
     setLoading(true);
     setError(null);
+
     try {
       // 找到该分类下的所有feedConfig
       const category = categories.find((c) => c.id === categoryId);
       if (!category) throw new Error('分类不存在');
       const feedConfigs = rssConfig.feeds.filter((f) => f.category.toLowerCase().replace(/\s+/g, '-') === categoryId);
-      // 并发加载
-      const feedPromises = feedConfigs.map((feedConfig) => fetchRSSFeed(feedConfig, category));
-      const results = await Promise.allSettled(feedPromises);
-      const allFeeds = [];
-      const failedFeeds = [];
-      results.forEach((result, index) => {
-        const feedName = feedConfigs[index].title || feedConfigs[index].name;
-        if (result.status === 'fulfilled' && result.value) {
-          console.log(`Successfully loaded ${result.value.length} items from ${feedName}`);
-          allFeeds.push(...result.value);
-        } else {
-          console.warn(`Failed to load feed: ${feedName}`, result);
-          failedFeeds.push(feedName);
-        }
-      });
 
-      // 如果有失败的feed，显示警告信息
+      // 初始化当前分类的feeds数组
+      setFeedsByCategory((prev) => ({ ...prev, [categoryId]: [] }));
+
+      const failedFeeds = [];
+      const allFeeds = [];
+
+      // 分批处理，每批最多3个请求
+      const batchSize = 3;
+      for (let i = 0; i < feedConfigs.length; i += batchSize) {
+        const batch = feedConfigs.slice(i, i + batchSize);
+        console.log(`Loading batch ${Math.floor(i / batchSize) + 1}:`, batch.map(f => f.title));
+
+        // 并发加载当前批次，但不等待所有完成
+        batch.forEach(async (feedConfig) => {
+          // 添加到加载状态
+          setLoadingFeeds(prev => new Set(prev).add(feedConfig.title));
+
+          try {
+            const result = await fetchRSSFeed(feedConfig, category);
+            if (result && result.length > 0) {
+              console.log(`Successfully loaded ${result.length} items from ${feedConfig.title}`);
+
+              // 立即更新UI，将新加载的feeds追加到现有feeds末尾，不重新排序
+              setFeedsByCategory((prev) => {
+                const currentFeeds = prev[categoryId] || [];
+                // 直接追加到末尾，保持已有内容的顺序不变
+                const newFeeds = [...currentFeeds, ...result];
+                return { ...prev, [categoryId]: newFeeds };
+              });
+
+              // 更新展开状态
+              setExpandedSources((prev) => {
+                const newExpanded = new Set(prev);
+                newExpanded.add(feedConfig.title);
+                return newExpanded;
+              });
+
+              // 记录成功的feeds
+              allFeeds.push(...result);
+
+              // 更新已加载的RSS源数量
+              setLoadedFeedsCount(prev => prev + 1);
+            } else {
+              console.warn(`No items found for ${feedConfig.title}`);
+              failedFeeds.push(feedConfig.title);
+            }
+          } catch (error) {
+            console.error(`Error loading ${feedConfig.title}:`, error);
+            failedFeeds.push(feedConfig.title);
+          } finally {
+            // 从加载状态中移除
+            setLoadingFeeds(prev => {
+              const newSet = new Set(prev);
+              newSet.delete(feedConfig.title);
+              return newSet;
+            });
+          }
+        });
+
+        // 等待当前批次的所有请求开始（但不等待完成）
+        await new Promise(resolve => setTimeout(resolve, 50));
+
+        // 批次间短暂延迟，避免过于频繁的请求
+        if (i + batchSize < feedConfigs.length) {
+          await new Promise(resolve => setTimeout(resolve, 100));
+        }
+      }
+
+      // 处理失败的feeds
       if (failedFeeds.length > 0) {
         console.warn(`Failed to load ${failedFeeds.length} feeds:`, failedFeeds);
         setFailedFeeds(prev => [...prev, ...failedFeeds]);
       }
-      // 按发布时间排序
-      allFeeds.sort((a, b) => b.pubDate.getTime() - a.pubDate.getTime());
+
       console.log(`Total feeds loaded for category ${categoryId}:`, allFeeds.length);
-      setFeedsByCategory((prev) => ({ ...prev, [categoryId]: allFeeds }));
-      // 默认展开所有来源
-      const allSources = new Set(allFeeds.map(feed => feed.feedName));
-      setExpandedSources(allSources);
+
     } catch (err) {
       setError(err instanceof Error ? err.message : '加载RSS内容时发生错误');
     } finally {
@@ -179,13 +232,29 @@ export default function RSSPage() {
   // 处理分类点击
   const handleCategoryClick = async (categoryId) => {
     setSelectedCategory(categoryId);
+    setLoadedFeedsCount(0); // 重置加载计数
+    setIsSorted(false); // 重置排序状态
     if (categoryId === null) {
-      // 全部分类的处理
+      // 全部分类的处理 - 分批加载所有分类
       const allCategoryIds = categories.map(c => c.id);
       const unloadedCategories = allCategoryIds.filter(id => !feedsByCategory[id]);
       if (unloadedCategories.length > 0) {
-        for (const catId of unloadedCategories) {
-          await loadFeedsForCategory(catId);
+        // 分批加载分类，每批最多3个
+        const batchSize = 3;
+        for (let i = 0; i < unloadedCategories.length; i += batchSize) {
+          const batch = unloadedCategories.slice(i, i + batchSize);
+          console.log(`Loading categories batch ${Math.floor(i / batchSize) + 1}:`, batch);
+
+          // 并发加载当前批次的分类，但不等待完成
+          batch.forEach(catId => loadFeedsForCategory(catId));
+
+          // 等待当前批次的所有请求开始（但不等待完成）
+          await new Promise(resolve => setTimeout(resolve, 100));
+
+          // 批次间短暂延迟
+          if (i + batchSize < unloadedCategories.length) {
+            await new Promise(resolve => setTimeout(resolve, 200));
+          }
         }
       }
     } else {
@@ -203,10 +272,27 @@ export default function RSSPage() {
   const handleRefresh = async () => {
     setFeedsByCategory({});
     setFailedFeeds([]); // 清空失败记录
+    setLoadingFeeds(new Set()); // 清空加载状态
+    setLoadedFeedsCount(0); // 重置加载计数
+    setIsSorted(false); // 重置排序状态
     if (selectedCategory === null) {
-      // 重新加载所有分类
-      for (const category of categories) {
-        await loadFeedsForCategory(category.id);
+      // 重新加载所有分类 - 分批加载
+      const allCategoryIds = categories.map(c => c.id);
+      const batchSize = 3;
+      for (let i = 0; i < allCategoryIds.length; i += batchSize) {
+        const batch = allCategoryIds.slice(i, i + batchSize);
+        console.log(`Refreshing categories batch ${Math.floor(i / batchSize) + 1}:`, batch);
+
+        // 并发加载当前批次的分类，但不等待完成
+        batch.forEach(catId => loadFeedsForCategory(catId));
+
+        // 等待当前批次的所有请求开始（但不等待完成）
+        await new Promise(resolve => setTimeout(resolve, 100));
+
+        // 批次间短暂延迟
+        if (i + batchSize < allCategoryIds.length) {
+          await new Promise(resolve => setTimeout(resolve, 200));
+        }
       }
     } else if (selectedCategory) {
       await loadFeedsForCategory(selectedCategory);
@@ -250,6 +336,35 @@ export default function RSSPage() {
     }
   };
 
+  // 按时间排序当前分类的所有feeds
+  const handleSortByTime = () => {
+    if (selectedCategory) {
+      setFeedsByCategory((prev) => {
+        if (selectedCategory === null) {
+          // 处理"全部"分类 - 对所有分类的feeds进行排序
+          const allFeeds = Object.values(prev).flat();
+          const sortedFeeds = [...allFeeds].sort((a, b) => b.pubDate.getTime() - a.pubDate.getTime());
+          // 重新分配到各个分类
+          const newFeedsByCategory = {};
+          sortedFeeds.forEach(feed => {
+            const categoryId = feed.category.id;
+            if (!newFeedsByCategory[categoryId]) {
+              newFeedsByCategory[categoryId] = [];
+            }
+            newFeedsByCategory[categoryId].push(feed);
+          });
+          return newFeedsByCategory;
+        } else {
+          // 处理单个分类
+          const currentFeeds = prev[selectedCategory] || [];
+          const sortedFeeds = [...currentFeeds].sort((a, b) => b.pubDate.getTime() - a.pubDate.getTime());
+          return { ...prev, [selectedCategory]: sortedFeeds };
+        }
+      });
+      setIsSorted(true);
+    }
+  };
+
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-50 to-blue-50">
       {/* Header */}
@@ -269,6 +384,18 @@ export default function RSSPage() {
               >
                 <span>{expandedSources.size === Object.keys(groupedFeeds).length ? '收起全部' : '展开全部'}</span>
               </button>
+              {selectedCategory && Object.keys(groupedFeeds).length > 0 && (
+                <button
+                  onClick={handleSortByTime}
+                  disabled={isSorted}
+                  className={`px-4 py-2 rounded-lg flex items-center space-x-2 transition-all duration-200 ${isSorted
+                      ? 'bg-green-100 text-green-700 cursor-not-allowed'
+                      : 'bg-orange-100 hover:bg-orange-200 text-orange-700'
+                    }`}
+                >
+                  <span>{isSorted ? '已按时间排序' : '按时间排序'}</span>
+                </button>
+              )}
               <button
                 onClick={handleRefresh}
                 disabled={loading}
@@ -369,9 +496,34 @@ export default function RSSPage() {
             )}
 
             {loading ? (
-              <div className="bg-white rounded-xl shadow-lg p-12 text-center">
-                <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-500 mx-auto mb-4"></div>
-                <p className="text-gray-600">正在加载RSS内容...</p>
+              <div className="bg-white rounded-xl shadow-lg p-8">
+                <div className="text-center mb-6">
+                  <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-500 mx-auto mb-4"></div>
+                  <p className="text-gray-600">正在动态加载RSS内容...</p>
+                  {loadedFeedsCount > 0 && (
+                    <p className="text-sm text-green-600 mt-2">
+                      已成功加载 {loadedFeedsCount} 个RSS源
+                    </p>
+                  )}
+                </div>
+
+                {/* 显示正在加载的RSS源 */}
+                {loadingFeeds.size > 0 && (
+                  <div className="border-t pt-4">
+                    <p className="text-sm text-gray-500 mb-3">正在动态加载RSS源：</p>
+                    <div className="flex flex-wrap gap-2">
+                      {Array.from(loadingFeeds).map((feedName, index) => (
+                        <div key={index} className="flex items-center space-x-2 px-3 py-1 bg-blue-50 text-blue-700 rounded-full text-sm">
+                          <div className="animate-spin rounded-full h-3 w-3 border-b border-blue-500"></div>
+                          <span>{feedName}</span>
+                        </div>
+                      ))}
+                    </div>
+                    <p className="text-xs text-gray-400 mt-2">
+                      内容将实时显示，无需等待所有加载完成。新内容会追加到列表末尾，不影响已有内容的查看。
+                    </p>
+                  </div>
+                )}
               </div>
             ) : (
               <div className="space-y-6">
