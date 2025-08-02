@@ -12,10 +12,11 @@ export default function RSSPage() {
   const [error, setError] = useState(null);
   const [expandedSources, setExpandedSources] = useState(new Set());
   const [rssConfig, setRssConfig] = useState(null);
+  const [failedFeeds, setFailedFeeds] = useState([]);
 
   // 预定义的分类颜色
   const categoryColors = [
-    '#3B82F6', '#10B981', '#F59E0B', '#EF4444', 
+    '#3B82F6', '#10B981', '#F59E0B', '#EF4444',
     '#8B5CF6', '#06B6D4', '#84CC16', '#F97316',
     '#EC4899', '#6366F1', '#14B8A6', '#F43F5E'
   ];
@@ -72,15 +73,26 @@ export default function RSSPage() {
       const feedPromises = feedConfigs.map((feedConfig) => fetchRSSFeed(feedConfig, category));
       const results = await Promise.allSettled(feedPromises);
       const allFeeds = [];
+      const failedFeeds = [];
       results.forEach((result, index) => {
+        const feedName = feedConfigs[index].title || feedConfigs[index].name;
         if (result.status === 'fulfilled' && result.value) {
+          console.log(`Successfully loaded ${result.value.length} items from ${feedName}`);
           allFeeds.push(...result.value);
         } else {
-          console.warn(`Failed to load feed: ${feedConfigs[index].name}`, result);
+          console.warn(`Failed to load feed: ${feedName}`, result);
+          failedFeeds.push(feedName);
         }
       });
+
+      // 如果有失败的feed，显示警告信息
+      if (failedFeeds.length > 0) {
+        console.warn(`Failed to load ${failedFeeds.length} feeds:`, failedFeeds);
+        setFailedFeeds(prev => [...prev, ...failedFeeds]);
+      }
       // 按发布时间排序
       allFeeds.sort((a, b) => b.pubDate.getTime() - a.pubDate.getTime());
+      console.log(`Total feeds loaded for category ${categoryId}:`, allFeeds.length);
       setFeedsByCategory((prev) => ({ ...prev, [categoryId]: allFeeds }));
       // 默认展开所有来源
       const allSources = new Set(allFeeds.map(feed => feed.feedName));
@@ -95,25 +107,71 @@ export default function RSSPage() {
   // RSS代理加载
   const fetchRSSFeed = async (feedConfig, category) => {
     try {
-      const proxyUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(feedConfig.url)}`;
+      const proxyUrl = `https://rsstojson.hjkl01.cn/api/rss?url=${encodeURIComponent(feedConfig.url)}`;
       const response = await fetch(proxyUrl);
-      const data = await response.json();
-      if (data.status === 'ok' && data.items) {
-        return data.items.map((item, index) => ({
-          id: `${feedConfig.title || feedConfig.name}-${Date.now()}-${index}`,
-          title: item.title || '无标题',
-          description: item.description || item.content || '无描述',
-          link: item.link || '#',
-          pubDate: new Date(item.pubDate || Date.now()),
-          category: category,
-          source: data.feed?.title || feedConfig.title || feedConfig.name,
-          author: item.author || data.feed?.title || feedConfig.title || feedConfig.name,
-          feedName: feedConfig.title || feedConfig.name,
-        }));
+
+      if (!response.ok) {
+        console.warn(`HTTP error for ${feedConfig.title || feedConfig.name}: ${response.status}`);
+        return null;
       }
+
+      const data = await response.json();
+
+      // 调试信息
+      console.log(`RSS response for ${feedConfig.title || feedConfig.name}:`, data);
+
+      // 处理不同的响应格式
+      let items = [];
+      let feedTitle = '';
+
+      if (data.status === 'ok' && data.items) {
+        // 标准格式
+        items = data.items;
+        feedTitle = data.feed?.title || data.feed?.name || '';
+      } else if (Array.isArray(data)) {
+        // 直接返回数组格式
+        items = data;
+      } else if (data.rss && data.rss.channel && data.rss.channel.item) {
+        // RSS XML解析后的格式
+        items = Array.isArray(data.rss.channel.item) ? data.rss.channel.item : [data.rss.channel.item];
+        feedTitle = data.rss.channel.title || data.rss.channel.name || '';
+      } else if (data.feed && data.feed.entry) {
+        // Atom格式
+        items = Array.isArray(data.feed.entry) ? data.feed.entry : [data.feed.entry];
+        feedTitle = data.feed.title || data.feed.name || '';
+      } else if (data.items && Array.isArray(data.items)) {
+        // 新的标准RSS格式
+        items = data.items;
+        feedTitle = data.title || data.name || '';
+      }
+
+      if (items && items.length > 0) {
+        return items.map((item, index) => {
+          // 统一处理不同的字段名
+          const title = item.title || item.name || '无标题';
+          const description = item.description || item.content || item.summary || '无描述';
+          const link = item.link || item.url || '#';
+          const pubDate = item.pubDate || item.published || item.updated || item.date || Date.now();
+          const author = item.author || item.creator || feedTitle || feedConfig.title || feedConfig.name;
+
+          return {
+            id: `${feedConfig.title || feedConfig.name}-${Date.now()}-${index}`,
+            title: typeof title === 'string' ? title : (title?._text || title?._cdata || '无标题'),
+            description: typeof description === 'string' ? description : (description?._text || description?._cdata || '无描述'),
+            link: typeof link === 'string' ? link : (link?._text || link?._cdata || '#'),
+            pubDate: new Date(pubDate),
+            category: category,
+            source: feedTitle || feedConfig.title || feedConfig.name,
+            author: typeof author === 'string' ? author : (author?._text || author?._cdata || feedConfig.title || feedConfig.name),
+            feedName: feedConfig.title || feedConfig.name,
+          };
+        });
+      }
+
+      console.warn(`No items found for ${feedConfig.title || feedConfig.name}`);
       return null;
     } catch (error) {
-      console.error(`Error fetching RSS feed ${feedConfig.name}:`, error);
+      console.error(`Error fetching RSS feed ${feedConfig.title || feedConfig.name}:`, error);
       return null;
     }
   };
@@ -144,6 +202,7 @@ export default function RSSPage() {
   // 刷新按钮：清空feeds缓存，重新加载当前分类
   const handleRefresh = async () => {
     setFeedsByCategory({});
+    setFailedFeeds([]); // 清空失败记录
     if (selectedCategory === null) {
       // 重新加载所有分类
       for (const category of categories) {
@@ -235,11 +294,10 @@ export default function RSSPage() {
               <div className="space-y-2">
                 <button
                   onClick={() => handleCategoryClick(null)}
-                  className={`w-full text-left px-4 py-3 rounded-lg transition-all duration-200 flex items-center justify-between ${
-                    selectedCategory === null
-                      ? 'shadow-lg text-white bg-gradient-to-r from-blue-500 to-purple-600'
-                      : 'text-gray-700 hover:bg-gray-50'
-                  }`}
+                  className={`w-full text-left px-4 py-3 rounded-lg transition-all duration-200 flex items-center justify-between ${selectedCategory === null
+                    ? 'shadow-lg text-white bg-gradient-to-r from-blue-500 to-purple-600'
+                    : 'text-gray-700 hover:bg-gray-50'
+                    }`}
                 >
                   <span className="font-medium">全部</span>
                   <span className="text-sm px-2 py-1 rounded-full bg-white bg-opacity-20">
@@ -250,21 +308,20 @@ export default function RSSPage() {
                   <button
                     key={category.id}
                     onClick={() => handleCategoryClick(category.id)}
-                    className={`w-full text-left px-4 py-3 rounded-lg transition-all duration-200 flex items-center justify-between ${
-                      selectedCategory === category.id
-                        ? 'shadow-lg text-white'
-                        : 'text-gray-700 hover:bg-gray-50'
-                    }`}
+                    className={`w-full text-left px-4 py-3 rounded-lg transition-all duration-200 flex items-center justify-between ${selectedCategory === category.id
+                      ? 'shadow-lg text-white'
+                      : 'text-gray-700 hover:bg-gray-50'
+                      }`}
                     style={{
                       backgroundColor: selectedCategory === category.id ? category.color : 'transparent'
                     }}
                   >
                     <span className="font-medium">{category.name}</span>
-                    <span 
+                    <span
                       className="text-sm px-2 py-1 rounded-full"
                       style={{
-                        backgroundColor: selectedCategory === category.id 
-                          ? 'rgba(255, 255, 255, 0.2)' 
+                        backgroundColor: selectedCategory === category.id
+                          ? 'rgba(255, 255, 255, 0.2)'
                           : category.color + '20',
                         color: selectedCategory === category.id ? 'white' : category.color
                       }}
@@ -285,6 +342,28 @@ export default function RSSPage() {
                 <div>
                   <p className="text-red-800 font-medium">加载错误</p>
                   <p className="text-red-600 text-sm">{error}</p>
+                </div>
+              </div>
+            )}
+
+            {failedFeeds.length > 0 && (
+              <div className="bg-yellow-50 border border-yellow-200 rounded-xl p-4 mb-6">
+                <div className="flex items-center space-x-3 mb-2">
+                  <AlertCircleIcon className="w-5 h-5 text-yellow-600 flex-shrink-0" />
+                  <p className="text-yellow-800 font-medium">部分RSS源加载失败</p>
+                </div>
+                <p className="text-yellow-700 text-sm mb-2">以下RSS源暂时无法访问：</p>
+                <div className="flex flex-wrap gap-2">
+                  {failedFeeds.slice(0, 5).map((feed, index) => (
+                    <span key={index} className="px-2 py-1 bg-yellow-100 text-yellow-800 text-xs rounded-full">
+                      {feed}
+                    </span>
+                  ))}
+                  {failedFeeds.length > 5 && (
+                    <span className="px-2 py-1 bg-yellow-100 text-yellow-800 text-xs rounded-full">
+                      +{failedFeeds.length - 5} 更多
+                    </span>
+                  )}
                 </div>
               </div>
             )}
@@ -315,14 +394,14 @@ export default function RSSPage() {
                     return (
                       <div key={sourceName} className="bg-white rounded-xl shadow-lg overflow-hidden">
                         {/* 来源标题栏 */}
-                        <div 
+                        <div
                           className="px-6 py-4 cursor-pointer hover:bg-opacity-90 transition-all duration-200"
                           style={{ backgroundColor: categoryColor + '10' }}
                           onClick={() => toggleSource(sourceName)}
                         >
                           <div className="flex items-center justify-between">
                             <div className="flex items-center space-x-3">
-                              <div 
+                              <div
                                 className="w-10 h-10 rounded-lg flex items-center justify-center text-white font-bold"
                                 style={{ backgroundColor: categoryColor }}
                               >
@@ -334,7 +413,7 @@ export default function RSSPage() {
                               </div>
                             </div>
                             <div className="flex items-center space-x-2">
-                              <span 
+                              <span
                                 className="px-3 py-1 rounded-full text-xs font-medium text-white"
                                 style={{ backgroundColor: categoryColor }}
                               >
@@ -354,7 +433,7 @@ export default function RSSPage() {
                             {sourceFeeds.map(feed => (
                               <div key={feed.id} className="p-6 hover:bg-gray-50 transition-colors duration-200">
                                 <div className="flex items-start space-x-4">
-                                  <div 
+                                  <div
                                     className="w-2 h-16 rounded-full flex-shrink-0"
                                     style={{ backgroundColor: categoryColor }}
                                   />
