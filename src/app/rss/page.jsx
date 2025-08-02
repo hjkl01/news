@@ -1,45 +1,86 @@
 'use client';
 
-import React, { useState, useEffect } from 'react';
-import { RssIcon, FolderIcon, ExternalLinkIcon, CalendarIcon, UserIcon, RefreshCwIcon, AlertCircleIcon, ChevronDownIcon, ChevronRightIcon } from 'lucide-react';
+import React, { useState, useEffect, useCallback, useMemo } from 'react';
+import {
+  RssIcon,
+  FolderIcon,
+  ExternalLinkIcon,
+  CalendarIcon,
+  UserIcon,
+  RefreshCwIcon,
+  AlertCircleIcon,
+  ChevronDownIcon,
+  ChevronRightIcon,
+  ClockIcon,
+  CheckCircleIcon
+} from 'lucide-react';
 
-export default function RSSPage() {
-  // feeds缓存，key为分类id，value为该分类下的feeds
-  const [feedsByCategory, setFeedsByCategory] = useState({});
-  const [categories, setCategories] = useState([]);
-  const [selectedCategory, setSelectedCategory] = useState(null);
-  const [loading, setLoading] = useState(false);
-  const [error, setError] = useState(null);
-  const [expandedSources, setExpandedSources] = useState(new Set());
-  const [rssConfig, setRssConfig] = useState(null);
-  const [failedFeeds, setFailedFeeds] = useState([]);
-  const [loadingFeeds, setLoadingFeeds] = useState(new Set());
-  const [loadedFeedsCount, setLoadedFeedsCount] = useState(0);
-  const [isSorted, setIsSorted] = useState(false);
-
-  // 预定义的分类颜色
-  const categoryColors = [
+// 常量配置
+const CONFIG = {
+  BATCH_SIZE: 3,
+  BATCH_DELAY: 100,
+  CATEGORY_DELAY: 200,
+  RSS_PROXY_URL: 'https://rsstojson.hjkl01.cn/api/rss',
+  CATEGORY_COLORS: [
     '#3B82F6', '#10B981', '#F59E0B', '#EF4444',
     '#8B5CF6', '#06B6D4', '#84CC16', '#F97316',
     '#EC4899', '#6366F1', '#14B8A6', '#F43F5E'
-  ];
+  ]
+};
 
-  // 初始化：只加载分类信息和rssConfig
-  useEffect(() => {
-    loadCategoriesAndConfig();
-  }, []);
+// 工具函数
+const utils = {
+  // 清理HTML标签
+  stripHtml: (html) => {
+    if (!html) return '';
+    return html.replace(/<[^>]*>/g, '').trim();
+  },
 
-  // 当分类加载完成后，默认选择第一个分类
-  useEffect(() => {
-    if (categories.length > 0 && selectedCategory === null) {
-      const firstCategory = categories[0];
-      setSelectedCategory(firstCategory.id);
-      loadFeedsForCategory(firstCategory.id);
-    }
-  }, [categories, selectedCategory]);
+  // 格式化日期
+  formatDate: (date) => {
+    if (!date) return '';
+    const d = new Date(date);
+    return d.toLocaleDateString('zh-CN', {
+      year: 'numeric',
+      month: 'short',
+      day: 'numeric',
+      hour: '2-digit',
+      minute: '2-digit'
+    });
+  },
 
-  // 只加载分类信息和rssConfig
-  const loadCategoriesAndConfig = async () => {
+  // 截断文本
+  truncateText: (text, maxLength = 150) => {
+    if (!text || text.length <= maxLength) return text;
+    return text.substring(0, maxLength) + '...';
+  },
+
+  // 生成唯一ID
+  generateId: (prefix, index) => `${prefix}-${Date.now()}-${index}`,
+
+  // 防抖函数
+  debounce: (func, wait) => {
+    let timeout;
+    return function executedFunction(...args) {
+      const later = () => {
+        clearTimeout(timeout);
+        func(...args);
+      };
+      clearTimeout(timeout);
+      timeout = setTimeout(later, wait);
+    };
+  }
+};
+
+// 自定义Hook：RSS数据管理
+const useRSSData = () => {
+  const [feedsByCategory, setFeedsByCategory] = useState({});
+  const [categories, setCategories] = useState([]);
+  const [rssConfig, setRssConfig] = useState(null);
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState(null);
+
+  const loadCategoriesAndConfig = useCallback(async () => {
     setLoading(true);
     setError(null);
     try {
@@ -49,18 +90,17 @@ export default function RSSPage() {
       }
       const config = await configResponse.json();
       setRssConfig(config);
+
       // 动态生成分类
       const categoryMap = new Map();
-      let colorIndex = 0;
-      config.feeds.forEach(feedConfig => {
+      config.feeds.forEach((feedConfig, index) => {
         if (!categoryMap.has(feedConfig.category)) {
           categoryMap.set(feedConfig.category, {
             id: feedConfig.category.toLowerCase().replace(/\s+/g, '-'),
             name: feedConfig.category,
-            color: categoryColors[colorIndex % categoryColors.length],
+            color: CONFIG.CATEGORY_COLORS[index % CONFIG.CATEGORY_COLORS.length],
             count: 0
           });
-          colorIndex++;
         }
       });
       setCategories(Array.from(categoryMap.values()));
@@ -69,248 +109,309 @@ export default function RSSPage() {
     } finally {
       setLoading(false);
     }
-  };
+  }, []);
 
-  // 按分类加载feeds - 分批并发加载
-  const loadFeedsForCategory = async (categoryId) => {
+  const addFeedsToCategory = useCallback((categoryId, newFeeds) => {
+    setFeedsByCategory(prev => {
+      const currentFeeds = prev[categoryId] || [];
+      return { ...prev, [categoryId]: [...currentFeeds, ...newFeeds] };
+    });
+  }, []);
+
+  const clearCategoryFeeds = useCallback((categoryId) => {
+    setFeedsByCategory(prev => ({ ...prev, [categoryId]: [] }));
+  }, []);
+
+  const clearAllFeeds = useCallback(() => {
+    setFeedsByCategory({});
+  }, []);
+
+  return {
+    feedsByCategory,
+    categories,
+    rssConfig,
+    loading,
+    error,
+    loadCategoriesAndConfig,
+    addFeedsToCategory,
+    clearCategoryFeeds,
+    clearAllFeeds,
+    setError
+  };
+};
+
+// 自定义Hook：加载状态管理
+const useLoadingState = () => {
+  const [loadingFeeds, setLoadingFeeds] = useState(new Set());
+  const [failedFeeds, setFailedFeeds] = useState([]);
+  const [loadedFeedsCount, setLoadedFeedsCount] = useState(0);
+
+  const addLoadingFeed = useCallback((feedName) => {
+    setLoadingFeeds(prev => new Set(prev).add(feedName));
+  }, []);
+
+  const removeLoadingFeed = useCallback((feedName) => {
+    setLoadingFeeds(prev => {
+      const newSet = new Set(prev);
+      newSet.delete(feedName);
+      return newSet;
+    });
+  }, []);
+
+  const addFailedFeed = useCallback((feedName) => {
+    setFailedFeeds(prev => [...prev, feedName]);
+  }, []);
+
+  const incrementLoadedCount = useCallback(() => {
+    setLoadedFeedsCount(prev => prev + 1);
+  }, []);
+
+  const resetLoadingState = useCallback(() => {
+    setLoadingFeeds(new Set());
+    setFailedFeeds([]);
+    setLoadedFeedsCount(0);
+  }, []);
+
+  return {
+    loadingFeeds,
+    failedFeeds,
+    loadedFeedsCount,
+    addLoadingFeed,
+    removeLoadingFeed,
+    addFailedFeed,
+    incrementLoadedCount,
+    resetLoadingState
+  };
+};
+
+// RSS Feed获取函数
+const fetchRSSFeed = async (feedConfig, category) => {
+  try {
+    const proxyUrl = `${CONFIG.RSS_PROXY_URL}?url=${encodeURIComponent(feedConfig.url)}`;
+    const response = await fetch(proxyUrl);
+
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}`);
+    }
+
+    const data = await response.json();
+
+    // 处理不同的响应格式
+    let items = [];
+    let feedTitle = '';
+
+    if (data.status === 'ok' && data.items) {
+      items = data.items;
+      feedTitle = data.feed?.title || data.feed?.name || '';
+    } else if (Array.isArray(data)) {
+      items = data;
+    } else if (data.rss?.channel?.item) {
+      items = Array.isArray(data.rss.channel.item) ? data.rss.channel.item : [data.rss.channel.item];
+      feedTitle = data.rss.channel.title || data.rss.channel.name || '';
+    } else if (data.feed?.entry) {
+      items = Array.isArray(data.feed.entry) ? data.feed.entry : [data.feed.entry];
+      feedTitle = data.feed.title || data.feed.name || '';
+    } else if (data.items && Array.isArray(data.items)) {
+      items = data.items;
+      feedTitle = data.title || data.name || '';
+    }
+
+    if (items && items.length > 0) {
+      return items.map((item, index) => {
+        const title = item.title || item.name || '无标题';
+        const description = item.description || item.content || item.summary || '无描述';
+        const link = item.link || item.url || '#';
+        const pubDate = item.pubDate || item.published || item.updated || item.date || Date.now();
+        const author = item.author || item.creator || feedTitle || feedConfig.title || feedConfig.name;
+
+        return {
+          id: utils.generateId(feedConfig.title || feedConfig.name, index),
+          title: typeof title === 'string' ? title : (title?._text || title?._cdata || '无标题'),
+          description: utils.stripHtml(typeof description === 'string' ? description : (description?._text || description?._cdata || '无描述')),
+          link: typeof link === 'string' ? link : (link?._text || link?._cdata || '#'),
+          pubDate: new Date(pubDate),
+          category: category,
+          source: feedTitle || feedConfig.title || feedConfig.name,
+          author: typeof author === 'string' ? author : (author?._text || author?._cdata || feedConfig.title || feedConfig.name),
+          feedName: feedConfig.title || feedConfig.name,
+        };
+      });
+    }
+
+    return null;
+  } catch (error) {
+    console.error(`Error fetching RSS feed ${feedConfig.title || feedConfig.name}:`, error);
+    return null;
+  }
+};
+
+// 主组件
+export default function RSSPage() {
+  const {
+    feedsByCategory,
+    categories,
+    rssConfig,
+    loading: configLoading,
+    error,
+    loadCategoriesAndConfig,
+    addFeedsToCategory,
+    clearCategoryFeeds,
+    clearAllFeeds,
+    setError
+  } = useRSSData();
+
+  const {
+    loadingFeeds,
+    failedFeeds,
+    loadedFeedsCount,
+    addLoadingFeed,
+    removeLoadingFeed,
+    addFailedFeed,
+    incrementLoadedCount,
+    resetLoadingState
+  } = useLoadingState();
+
+  const [selectedCategory, setSelectedCategory] = useState(null);
+  const [expandedSources, setExpandedSources] = useState(new Set());
+  const [isSorted, setIsSorted] = useState(false);
+
+  // 初始化
+  useEffect(() => {
+    loadCategoriesAndConfig();
+  }, [loadCategoriesAndConfig]);
+
+  // 默认选择第一个分类
+  useEffect(() => {
+    if (categories.length > 0 && selectedCategory === null) {
+      const firstCategory = categories[0];
+      setSelectedCategory(firstCategory.id);
+      loadFeedsForCategory(firstCategory.id);
+    }
+  }, [categories, selectedCategory]);
+
+  // 分批加载RSS feeds
+  const loadFeedsForCategory = useCallback(async (categoryId) => {
     if (!rssConfig) return;
-    setLoading(true);
+
     setError(null);
+    clearCategoryFeeds(categoryId);
+    resetLoadingState();
 
     try {
-      // 找到该分类下的所有feedConfig
       const category = categories.find((c) => c.id === categoryId);
       if (!category) throw new Error('分类不存在');
-      const feedConfigs = rssConfig.feeds.filter((f) => f.category.toLowerCase().replace(/\s+/g, '-') === categoryId);
 
-      // 初始化当前分类的feeds数组
-      setFeedsByCategory((prev) => ({ ...prev, [categoryId]: [] }));
+      const feedConfigs = rssConfig.feeds.filter((f) =>
+        f.category.toLowerCase().replace(/\s+/g, '-') === categoryId
+      );
 
-      const failedFeeds = [];
-      const allFeeds = [];
+      // 分批处理
+      for (let i = 0; i < feedConfigs.length; i += CONFIG.BATCH_SIZE) {
+        const batch = feedConfigs.slice(i, i + CONFIG.BATCH_SIZE);
 
-      // 分批处理，每批最多3个请求
-      const batchSize = 3;
-      for (let i = 0; i < feedConfigs.length; i += batchSize) {
-        const batch = feedConfigs.slice(i, i + batchSize);
-        console.log(`Loading batch ${Math.floor(i / batchSize) + 1}:`, batch.map(f => f.title));
-
-        // 并发加载当前批次，但不等待所有完成
+        // 并发加载当前批次
         batch.forEach(async (feedConfig) => {
-          // 添加到加载状态
-          setLoadingFeeds(prev => new Set(prev).add(feedConfig.title));
+          addLoadingFeed(feedConfig.title);
 
           try {
             const result = await fetchRSSFeed(feedConfig, category);
             if (result && result.length > 0) {
-              console.log(`Successfully loaded ${result.length} items from ${feedConfig.title}`);
-
-              // 立即更新UI，将新加载的feeds追加到现有feeds末尾，不重新排序
-              setFeedsByCategory((prev) => {
-                const currentFeeds = prev[categoryId] || [];
-                // 直接追加到末尾，保持已有内容的顺序不变
-                const newFeeds = [...currentFeeds, ...result];
-                return { ...prev, [categoryId]: newFeeds };
-              });
-
-              // 更新展开状态
-              setExpandedSources((prev) => {
-                const newExpanded = new Set(prev);
-                newExpanded.add(feedConfig.title);
-                return newExpanded;
-              });
-
-              // 记录成功的feeds
-              allFeeds.push(...result);
-
-              // 更新已加载的RSS源数量
-              setLoadedFeedsCount(prev => prev + 1);
+              addFeedsToCategory(categoryId, result);
+              setExpandedSources(prev => new Set(prev).add(feedConfig.title));
+              incrementLoadedCount();
             } else {
-              console.warn(`No items found for ${feedConfig.title}`);
-              failedFeeds.push(feedConfig.title);
+              addFailedFeed(feedConfig.title);
             }
           } catch (error) {
-            console.error(`Error loading ${feedConfig.title}:`, error);
-            failedFeeds.push(feedConfig.title);
+            addFailedFeed(feedConfig.title);
           } finally {
-            // 从加载状态中移除
-            setLoadingFeeds(prev => {
-              const newSet = new Set(prev);
-              newSet.delete(feedConfig.title);
-              return newSet;
-            });
+            removeLoadingFeed(feedConfig.title);
           }
         });
 
-        // 等待当前批次的所有请求开始（但不等待完成）
-        await new Promise(resolve => setTimeout(resolve, 50));
-
-        // 批次间短暂延迟，避免过于频繁的请求
-        if (i + batchSize < feedConfigs.length) {
-          await new Promise(resolve => setTimeout(resolve, 100));
+        // 批次间延迟
+        if (i + CONFIG.BATCH_SIZE < feedConfigs.length) {
+          await new Promise(resolve => setTimeout(resolve, CONFIG.BATCH_DELAY));
         }
       }
-
-      // 处理失败的feeds
-      if (failedFeeds.length > 0) {
-        console.warn(`Failed to load ${failedFeeds.length} feeds:`, failedFeeds);
-        setFailedFeeds(prev => [...prev, ...failedFeeds]);
-      }
-
-      console.log(`Total feeds loaded for category ${categoryId}:`, allFeeds.length);
-
     } catch (err) {
       setError(err instanceof Error ? err.message : '加载RSS内容时发生错误');
-    } finally {
-      setLoading(false);
     }
-  };
+  }, [rssConfig, categories, addFeedsToCategory, clearCategoryFeeds, resetLoadingState, addLoadingFeed, removeLoadingFeed, addFailedFeed, incrementLoadedCount, setError]);
 
-  // RSS代理加载
-  const fetchRSSFeed = async (feedConfig, category) => {
-    try {
-      const proxyUrl = `https://rsstojson.hjkl01.cn/api/rss?url=${encodeURIComponent(feedConfig.url)}`;
-      const response = await fetch(proxyUrl);
-
-      if (!response.ok) {
-        console.warn(`HTTP error for ${feedConfig.title || feedConfig.name}: ${response.status}`);
-        return null;
-      }
-
-      const data = await response.json();
-
-      // 调试信息
-      console.log(`RSS response for ${feedConfig.title || feedConfig.name}:`, data);
-
-      // 处理不同的响应格式
-      let items = [];
-      let feedTitle = '';
-
-      if (data.status === 'ok' && data.items) {
-        // 标准格式
-        items = data.items;
-        feedTitle = data.feed?.title || data.feed?.name || '';
-      } else if (Array.isArray(data)) {
-        // 直接返回数组格式
-        items = data;
-      } else if (data.rss && data.rss.channel && data.rss.channel.item) {
-        // RSS XML解析后的格式
-        items = Array.isArray(data.rss.channel.item) ? data.rss.channel.item : [data.rss.channel.item];
-        feedTitle = data.rss.channel.title || data.rss.channel.name || '';
-      } else if (data.feed && data.feed.entry) {
-        // Atom格式
-        items = Array.isArray(data.feed.entry) ? data.feed.entry : [data.feed.entry];
-        feedTitle = data.feed.title || data.feed.name || '';
-      } else if (data.items && Array.isArray(data.items)) {
-        // 新的标准RSS格式
-        items = data.items;
-        feedTitle = data.title || data.name || '';
-      }
-
-      if (items && items.length > 0) {
-        return items.map((item, index) => {
-          // 统一处理不同的字段名
-          const title = item.title || item.name || '无标题';
-          const description = item.description || item.content || item.summary || '无描述';
-          const link = item.link || item.url || '#';
-          const pubDate = item.pubDate || item.published || item.updated || item.date || Date.now();
-          const author = item.author || item.creator || feedTitle || feedConfig.title || feedConfig.name;
-
-          return {
-            id: `${feedConfig.title || feedConfig.name}-${Date.now()}-${index}`,
-            title: typeof title === 'string' ? title : (title?._text || title?._cdata || '无标题'),
-            description: typeof description === 'string' ? description : (description?._text || description?._cdata || '无描述'),
-            link: typeof link === 'string' ? link : (link?._text || link?._cdata || '#'),
-            pubDate: new Date(pubDate),
-            category: category,
-            source: feedTitle || feedConfig.title || feedConfig.name,
-            author: typeof author === 'string' ? author : (author?._text || author?._cdata || feedConfig.title || feedConfig.name),
-            feedName: feedConfig.title || feedConfig.name,
-          };
-        });
-      }
-
-      console.warn(`No items found for ${feedConfig.title || feedConfig.name}`);
-      return null;
-    } catch (error) {
-      console.error(`Error fetching RSS feed ${feedConfig.title || feedConfig.name}:`, error);
-      return null;
-    }
-  };
-
-  // 处理分类点击
-  const handleCategoryClick = async (categoryId) => {
+  // 事件处理函数
+  const handleCategoryClick = useCallback(async (categoryId) => {
     setSelectedCategory(categoryId);
-    setLoadedFeedsCount(0); // 重置加载计数
-    setIsSorted(false); // 重置排序状态
+    setIsSorted(false);
 
-    if (!feedsByCategory[categoryId]) {
-      await loadFeedsForCategory(categoryId); // 只在没缓存时加载
+    if (!feedsByCategory[categoryId] || feedsByCategory[categoryId].length === 0) {
+      await loadFeedsForCategory(categoryId);
     } else {
-      // 已加载，直接显示
       const allSources = new Set(feedsByCategory[categoryId].map(feed => feed.feedName));
       setExpandedSources(allSources);
     }
-  };
+  }, [feedsByCategory, loadFeedsForCategory]);
 
-  // 刷新按钮：清空feeds缓存，重新加载当前分类
-  const handleRefresh = async () => {
-    setFeedsByCategory({});
-    setFailedFeeds([]); // 清空失败记录
-    setLoadingFeeds(new Set()); // 清空加载状态
-    setLoadedFeedsCount(0); // 重置加载计数
-    setIsSorted(false); // 重置排序状态
+  const handleRefresh = useCallback(async () => {
+    clearAllFeeds();
+    resetLoadingState();
+    setIsSorted(false);
 
     if (selectedCategory) {
       await loadFeedsForCategory(selectedCategory);
     }
-  };
+  }, [selectedCategory, clearAllFeeds, resetLoadingState, loadFeedsForCategory]);
 
-  // 当前显示的feeds
-  let filteredFeeds = [];
-  if (selectedCategory) {
-    filteredFeeds = feedsByCategory[selectedCategory] || [];
-  }
-
-  // 按来源分组
-  const groupedFeeds = filteredFeeds.reduce((acc, feed) => {
-    if (!acc[feed.feedName]) {
-      acc[feed.feedName] = [];
-    }
-    acc[feed.feedName].push(feed);
-    return acc;
-  }, {});
-
-  const toggleSource = (sourceName) => {
-    const newExpanded = new Set(expandedSources);
-    if (newExpanded.has(sourceName)) {
-      newExpanded.delete(sourceName);
-    } else {
-      newExpanded.add(sourceName);
-    }
-    setExpandedSources(newExpanded);
-  };
-
-  const toggleAllSources = () => {
-    const allSources = Object.keys(groupedFeeds);
-    if (expandedSources.size === allSources.length) {
-      setExpandedSources(new Set());
-    } else {
-      setExpandedSources(new Set(allSources));
-    }
-  };
-
-  // 按时间排序当前分类的所有feeds
-  const handleSortByTime = () => {
+  const handleSortByTime = useCallback(() => {
     if (selectedCategory) {
-      setFeedsByCategory((prev) => {
+      setFeedsByCategory(prev => {
         const currentFeeds = prev[selectedCategory] || [];
         const sortedFeeds = [...currentFeeds].sort((a, b) => b.pubDate.getTime() - a.pubDate.getTime());
         return { ...prev, [selectedCategory]: sortedFeeds };
       });
       setIsSorted(true);
     }
-  };
+  }, [selectedCategory]);
+
+  const toggleSource = useCallback((sourceName) => {
+    setExpandedSources(prev => {
+      const newExpanded = new Set(prev);
+      if (newExpanded.has(sourceName)) {
+        newExpanded.delete(sourceName);
+      } else {
+        newExpanded.add(sourceName);
+      }
+      return newExpanded;
+    });
+  }, []);
+
+  const toggleAllSources = useCallback(() => {
+    const allSources = Object.keys(groupedFeeds);
+    setExpandedSources(prev => {
+      if (prev.size === allSources.length) {
+        return new Set();
+      } else {
+        return new Set(allSources);
+      }
+    });
+  }, []);
+
+  // 计算属性
+  const currentFeeds = useMemo(() => {
+    return selectedCategory ? (feedsByCategory[selectedCategory] || []) : [];
+  }, [selectedCategory, feedsByCategory]);
+
+  const groupedFeeds = useMemo(() => {
+    return currentFeeds.reduce((acc, feed) => {
+      if (!acc[feed.feedName]) {
+        acc[feed.feedName] = [];
+      }
+      acc[feed.feedName].push(feed);
+      return acc;
+    }, {});
+  }, [currentFeeds]);
+
+  const isLoading = configLoading || loadingFeeds.size > 0;
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-50 to-blue-50">
@@ -336,19 +437,20 @@ export default function RSSPage() {
                   onClick={handleSortByTime}
                   disabled={isSorted}
                   className={`px-4 py-2 rounded-lg flex items-center space-x-2 transition-all duration-200 ${isSorted
-                    ? 'bg-green-100 text-green-700 cursor-not-allowed'
-                    : 'bg-orange-100 hover:bg-orange-200 text-orange-700'
+                      ? 'bg-green-100 text-green-700 cursor-not-allowed'
+                      : 'bg-orange-100 hover:bg-orange-200 text-orange-700'
                     }`}
                 >
+                  <ClockIcon className="w-4 h-4" />
                   <span>{isSorted ? '已按时间排序' : '按时间排序'}</span>
                 </button>
               )}
               <button
                 onClick={handleRefresh}
-                disabled={loading}
+                disabled={isLoading}
                 className="bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 disabled:opacity-50 text-white px-4 py-2 rounded-lg flex items-center space-x-2 transition-all duration-200 transform hover:scale-105"
               >
-                <RefreshCwIcon className={`w-4 h-4 ${loading ? 'animate-spin' : ''}`} />
+                <RefreshCwIcon className={`w-4 h-4 ${isLoading ? 'animate-spin' : ''}`} />
                 <span>刷新内容</span>
               </button>
             </div>
@@ -371,8 +473,8 @@ export default function RSSPage() {
                     key={category.id}
                     onClick={() => handleCategoryClick(category.id)}
                     className={`w-full text-left px-4 py-3 rounded-lg transition-all duration-200 flex items-center justify-between ${selectedCategory === category.id
-                      ? 'shadow-lg text-white'
-                      : 'text-gray-700 hover:bg-gray-50'
+                        ? 'shadow-lg text-white'
+                        : 'text-gray-700 hover:bg-gray-50'
                       }`}
                     style={{
                       backgroundColor: selectedCategory === category.id ? category.color : 'transparent'
@@ -430,19 +532,19 @@ export default function RSSPage() {
               </div>
             )}
 
-            {loading ? (
+            {isLoading ? (
               <div className="bg-white rounded-xl shadow-lg p-8">
                 <div className="text-center mb-6">
                   <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-500 mx-auto mb-4"></div>
                   <p className="text-gray-600">正在动态加载RSS内容...</p>
                   {loadedFeedsCount > 0 && (
-                    <p className="text-sm text-green-600 mt-2">
+                    <p className="text-sm text-green-600 mt-2 flex items-center justify-center">
+                      <CheckCircleIcon className="w-4 h-4 mr-1" />
                       已成功加载 {loadedFeedsCount} 个RSS源
                     </p>
                   )}
                 </div>
 
-                {/* 显示正在加载的RSS源 */}
                 {loadingFeeds.size > 0 && (
                   <div className="border-t pt-4">
                     <p className="text-sm text-gray-500 mb-3">正在动态加载RSS源：</p>
@@ -529,7 +631,7 @@ export default function RSSPage() {
                                       {feed.title}
                                     </h4>
                                     <p className="text-gray-600 mb-4 line-clamp-3">
-                                      {feed.description.replace(/<[^>]*>/g, '')}
+                                      {utils.truncateText(feed.description)}
                                     </p>
                                     <div className="flex items-center justify-between flex-wrap gap-2">
                                       <div className="flex items-center space-x-4 text-sm text-gray-500">
@@ -539,7 +641,7 @@ export default function RSSPage() {
                                         </div>
                                         <div className="flex items-center space-x-1">
                                           <CalendarIcon className="w-4 h-4" />
-                                          <span>{feed.pubDate.toLocaleDateString('zh-CN')}</span>
+                                          <span>{utils.formatDate(feed.pubDate)}</span>
                                         </div>
                                       </div>
                                       <a
