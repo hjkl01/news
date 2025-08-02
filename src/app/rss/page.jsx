@@ -29,6 +29,15 @@ export default function RSSPage() {
     loadCategoriesAndConfig();
   }, []);
 
+  // 当分类加载完成后，默认选择第一个分类
+  useEffect(() => {
+    if (categories.length > 0 && selectedCategory === null) {
+      const firstCategory = categories[0];
+      setSelectedCategory(firstCategory.id);
+      loadFeedsForCategory(firstCategory.id);
+    }
+  }, [categories, selectedCategory]);
+
   // 只加载分类信息和rssConfig
   const loadCategoriesAndConfig = async () => {
     setLoading(true);
@@ -234,37 +243,13 @@ export default function RSSPage() {
     setSelectedCategory(categoryId);
     setLoadedFeedsCount(0); // 重置加载计数
     setIsSorted(false); // 重置排序状态
-    if (categoryId === null) {
-      // 全部分类的处理 - 分批加载所有分类
-      const allCategoryIds = categories.map(c => c.id);
-      const unloadedCategories = allCategoryIds.filter(id => !feedsByCategory[id]);
-      if (unloadedCategories.length > 0) {
-        // 分批加载分类，每批最多3个
-        const batchSize = 3;
-        for (let i = 0; i < unloadedCategories.length; i += batchSize) {
-          const batch = unloadedCategories.slice(i, i + batchSize);
-          console.log(`Loading categories batch ${Math.floor(i / batchSize) + 1}:`, batch);
 
-          // 并发加载当前批次的分类，但不等待完成
-          batch.forEach(catId => loadFeedsForCategory(catId));
-
-          // 等待当前批次的所有请求开始（但不等待完成）
-          await new Promise(resolve => setTimeout(resolve, 100));
-
-          // 批次间短暂延迟
-          if (i + batchSize < unloadedCategories.length) {
-            await new Promise(resolve => setTimeout(resolve, 200));
-          }
-        }
-      }
+    if (!feedsByCategory[categoryId]) {
+      await loadFeedsForCategory(categoryId); // 只在没缓存时加载
     } else {
-      if (!feedsByCategory[categoryId]) {
-        await loadFeedsForCategory(categoryId); // 只在没缓存时加载
-      } else {
-        // 已加载，直接显示
-        const allSources = new Set(feedsByCategory[categoryId].map(feed => feed.feedName));
-        setExpandedSources(allSources);
-      }
+      // 已加载，直接显示
+      const allSources = new Set(feedsByCategory[categoryId].map(feed => feed.feedName));
+      setExpandedSources(allSources);
     }
   };
 
@@ -275,36 +260,15 @@ export default function RSSPage() {
     setLoadingFeeds(new Set()); // 清空加载状态
     setLoadedFeedsCount(0); // 重置加载计数
     setIsSorted(false); // 重置排序状态
-    if (selectedCategory === null) {
-      // 重新加载所有分类 - 分批加载
-      const allCategoryIds = categories.map(c => c.id);
-      const batchSize = 3;
-      for (let i = 0; i < allCategoryIds.length; i += batchSize) {
-        const batch = allCategoryIds.slice(i, i + batchSize);
-        console.log(`Refreshing categories batch ${Math.floor(i / batchSize) + 1}:`, batch);
 
-        // 并发加载当前批次的分类，但不等待完成
-        batch.forEach(catId => loadFeedsForCategory(catId));
-
-        // 等待当前批次的所有请求开始（但不等待完成）
-        await new Promise(resolve => setTimeout(resolve, 100));
-
-        // 批次间短暂延迟
-        if (i + batchSize < allCategoryIds.length) {
-          await new Promise(resolve => setTimeout(resolve, 200));
-        }
-      }
-    } else if (selectedCategory) {
+    if (selectedCategory) {
       await loadFeedsForCategory(selectedCategory);
     }
   };
 
   // 当前显示的feeds
   let filteredFeeds = [];
-  if (selectedCategory === null) {
-    // "全部"，合并所有分类feeds
-    filteredFeeds = Object.values(feedsByCategory).flat();
-  } else if (selectedCategory) {
+  if (selectedCategory) {
     filteredFeeds = feedsByCategory[selectedCategory] || [];
   }
 
@@ -340,26 +304,9 @@ export default function RSSPage() {
   const handleSortByTime = () => {
     if (selectedCategory) {
       setFeedsByCategory((prev) => {
-        if (selectedCategory === null) {
-          // 处理"全部"分类 - 对所有分类的feeds进行排序
-          const allFeeds = Object.values(prev).flat();
-          const sortedFeeds = [...allFeeds].sort((a, b) => b.pubDate.getTime() - a.pubDate.getTime());
-          // 重新分配到各个分类
-          const newFeedsByCategory = {};
-          sortedFeeds.forEach(feed => {
-            const categoryId = feed.category.id;
-            if (!newFeedsByCategory[categoryId]) {
-              newFeedsByCategory[categoryId] = [];
-            }
-            newFeedsByCategory[categoryId].push(feed);
-          });
-          return newFeedsByCategory;
-        } else {
-          // 处理单个分类
-          const currentFeeds = prev[selectedCategory] || [];
-          const sortedFeeds = [...currentFeeds].sort((a, b) => b.pubDate.getTime() - a.pubDate.getTime());
-          return { ...prev, [selectedCategory]: sortedFeeds };
-        }
+        const currentFeeds = prev[selectedCategory] || [];
+        const sortedFeeds = [...currentFeeds].sort((a, b) => b.pubDate.getTime() - a.pubDate.getTime());
+        return { ...prev, [selectedCategory]: sortedFeeds };
       });
       setIsSorted(true);
     }
@@ -384,13 +331,13 @@ export default function RSSPage() {
               >
                 <span>{expandedSources.size === Object.keys(groupedFeeds).length ? '收起全部' : '展开全部'}</span>
               </button>
-              {selectedCategory && Object.keys(groupedFeeds).length > 0 && (
+              {Object.keys(groupedFeeds).length > 0 && (
                 <button
                   onClick={handleSortByTime}
                   disabled={isSorted}
                   className={`px-4 py-2 rounded-lg flex items-center space-x-2 transition-all duration-200 ${isSorted
-                      ? 'bg-green-100 text-green-700 cursor-not-allowed'
-                      : 'bg-orange-100 hover:bg-orange-200 text-orange-700'
+                    ? 'bg-green-100 text-green-700 cursor-not-allowed'
+                    : 'bg-orange-100 hover:bg-orange-200 text-orange-700'
                     }`}
                 >
                   <span>{isSorted ? '已按时间排序' : '按时间排序'}</span>
@@ -419,18 +366,6 @@ export default function RSSPage() {
                 分类
               </h2>
               <div className="space-y-2">
-                <button
-                  onClick={() => handleCategoryClick(null)}
-                  className={`w-full text-left px-4 py-3 rounded-lg transition-all duration-200 flex items-center justify-between ${selectedCategory === null
-                    ? 'shadow-lg text-white bg-gradient-to-r from-blue-500 to-purple-600'
-                    : 'text-gray-700 hover:bg-gray-50'
-                    }`}
-                >
-                  <span className="font-medium">全部</span>
-                  <span className="text-sm px-2 py-1 rounded-full bg-white bg-opacity-20">
-                    {Object.values(feedsByCategory).flat().length}
-                  </span>
-                </button>
                 {categories.map(category => (
                   <button
                     key={category.id}
