@@ -374,17 +374,6 @@ export default function RSSPage() {
     }
   }, [selectedCategory]);
 
-  const toggleSource = useCallback((sourceName) => {
-    setExpandedSources(prev => {
-      const newExpanded = new Set(prev);
-      if (newExpanded.has(sourceName)) {
-        newExpanded.delete(sourceName);
-      } else {
-        newExpanded.add(sourceName);
-      }
-      return newExpanded;
-    });
-  }, []);
 
   const toggleSourceWithScroll = useCallback((sourceName, idx, arr) => {
     setExpandedSources(prev => {
