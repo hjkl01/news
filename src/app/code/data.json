@@ -600,6 +600,16 @@
     "author": null
   },
   {
+    "id": 405218,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "pola-rs/polars",
+    "link": "https://github.com/pola-rs/polars",
+    "pub_date": "2025-08-08 07:17:37",
+    "author": null
+  },
+  {
     "id": 402335,
     "feed_name": "github rust",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
@@ -787,16 +797,6 @@
     "title": "MystenLabs/sui",
     "link": "https://github.com/MystenLabs/sui",
     "pub_date": "2025-07-29 07:17:32",
-    "author": null
-  },
-  {
-    "id": 358331,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "idootop/open-xiaoai",
-    "link": "https://github.com/idootop/open-xiaoai",
-    "pub_date": "2025-07-28 10:35:55",
     "author": null
   },
   {
@@ -1000,6 +1000,16 @@
     "author": null
   },
   {
+    "id": 405239,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "Saghen/blink.cmp",
+    "link": "https://github.com/Saghen/blink.cmp",
+    "pub_date": "2025-08-08 07:17:37",
+    "author": null
+  },
+  {
     "id": 402305,
     "feed_name": "github lua",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
@@ -1187,16 +1197,6 @@
     "title": "folke/tokyonight.nvim",
     "link": "https://github.com/folke/tokyonight.nvim",
     "pub_date": "2025-07-30 07:17:08",
-    "author": null
-  },
-  {
-    "id": 358349,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "nvimtools/none-ls.nvim",
-    "link": "https://github.com/nvimtools/none-ls.nvim",
-    "pub_date": "2025-07-28 10:35:56",
     "author": null
   },
   {
