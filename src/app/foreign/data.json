@@ -1,5 +1,15 @@
 [
   {
+    "id": 403271,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "特朗普政府打出發展AI「組合拳」戰略，美中人工智慧競賽走向全方位博弈？",
+    "link": "https://www.bbc.com/zhongwen/articles/cdd3e7vjp6no/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-08-07 18:15:05",
+    "author": null
+  },
+  {
     "id": 401796,
     "feed_name": "BBC 中文版",
     "feed_url": "https://plink.anyfeeder.com/bbc/cn",
@@ -190,13 +200,63 @@
     "author": null
   },
   {
-    "id": 393668,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "id": 403798,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
     "category": "国外",
-    "title": "紐西蘭女子行李箱內藏兩歲女童被捕",
-    "link": "https://www.bbc.com/zhongwen/articles/clyj8ve9p7po/trad?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2025-08-04 11:14:11",
+    "title": "我是长崎核爆幸存者，是时候停止核威胁了",
+    "link": "https://cn.nytimes.com/opinion/20250807/hiroshima-nagasaki-anniversary-nuclear-weapons/dual",
+    "pub_date": "2025-08-07 16:36:02",
+    "author": null
+  },
+  {
+    "id": 403810,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "“智能宣传系统”：中国如何用AI武装信息战",
+    "link": "https://cn.nytimes.com/china/20250807/china-artificial-intelligence-information-warfare/dual",
+    "pub_date": "2025-08-07 15:36:01",
+    "author": null
+  },
+  {
+    "id": 403819,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "巴基斯坦再现“荣誉处决”，女性因婚外情被枪杀引发抗议",
+    "link": "https://cn.nytimes.com/world/20250807/pakistan-honor-killing-gender-violence/dual",
+    "pub_date": "2025-08-07 15:06:02",
+    "author": null
+  },
+  {
+    "id": 403835,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "中国7月出口激增超预期，主要运往美国以外地区",
+    "link": "https://cn.nytimes.com/business/20250808/china-tariffs-exports-imports/dual",
+    "pub_date": "2025-08-07 14:06:03",
+    "author": null
+  },
+  {
+    "id": 403849,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "遏制中国同盟破裂？特朗普为何向印度“宣战”",
+    "link": "https://cn.nytimes.com/business/20250807/india-china-trump-tariffs/dual",
+    "pub_date": "2025-08-07 12:06:02",
+    "author": null
+  },
+  {
+    "id": 403861,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "美国向广岛长崎投下的原子弹如何改变了日本",
+    "link": "https://cn.nytimes.com/asia-pacific/20250807/hiroshima-nagasaki-nuclear-explainer/dual",
+    "pub_date": "2025-08-07 08:36:02",
     "author": null
   },
   {
@@ -337,66 +397,6 @@
     "title": "佛教徒的快乐",
     "link": "https://cn.nytimes.com/opinion/20120630/c30buddhism/dual",
     "pub_date": "2025-08-04 17:36:02",
-    "author": null
-  },
-  {
-    "id": 393428,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
-    "category": "国外",
-    "title": "当美国总统表现得像个五岁小孩，我们该怎么办？",
-    "link": "https://cn.nytimes.com/opinion/20250804/trump-bls-fired-labor-jobs-data/dual",
-    "pub_date": "2025-08-04 16:06:02",
-    "author": null
-  },
-  {
-    "id": 393431,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
-    "category": "国外",
-    "title": "中国限制公职人员出国，幼教、护士也要上交护照",
-    "link": "https://cn.nytimes.com/china/20250804/china-passports-civil-servants/dual",
-    "pub_date": "2025-08-04 14:36:02",
-    "author": null
-  },
-  {
-    "id": 393438,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
-    "category": "国外",
-    "title": "特朗普治下，中国“走线客”面临痛苦抉择",
-    "link": "https://cn.nytimes.com/usa/20250804/chinese-stay-flee-united-states-trump/dual",
-    "pub_date": "2025-08-04 13:06:02",
-    "author": null
-  },
-  {
-    "id": 393446,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
-    "category": "国外",
-    "title": "美台关系紧张中，特朗普或对台湾芯片加征关税",
-    "link": "https://cn.nytimes.com/business/20250804/taiwan-tariffs-trump-us-chips/dual",
-    "pub_date": "2025-08-04 10:36:02",
-    "author": null
-  },
-  {
-    "id": 393455,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
-    "category": "国外",
-    "title": "美国对转运商品加征40%关税，中国预计受最大影响",
-    "link": "https://cn.nytimes.com/business/20250804/trump-tariffs-china-transshipment/dual",
-    "pub_date": "2025-08-04 09:06:02",
-    "author": null
-  },
-  {
-    "id": 378348,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
-    "category": "国外",
-    "title": "夏天车里的瓶装水能安全饮用吗",
-    "link": "https://cn.nytimes.com/health/20250801/plastic-water-bottle-health-microplastics/dual",
-    "pub_date": "2025-08-01 16:36:01",
     "author": null
   }
 ]
