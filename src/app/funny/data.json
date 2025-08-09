@@ -70,6 +70,16 @@
     "author": null
   },
   {
+    "id": 416140,
+    "feed_name": "豆瓣最受欢迎的影评",
+    "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
+    "category": "娱乐",
+    "title": "反省篇：第一篇\n9.0分\n《地球最后的夜晚》，二刷 (评论: 地球最后的夜晚)",
+    "link": "https://movie.douban.com/review/16948213/",
+    "pub_date": "2025-08-08 10:03:05",
+    "author": null
+  },
+  {
     "id": 408574,
     "feed_name": "豆瓣最受欢迎的影评",
     "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
@@ -190,13 +200,83 @@
     "author": null
   },
   {
-    "id": 387984,
-    "feed_name": "豆瓣最受欢迎的影评",
-    "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
+    "id": 416947,
+    "feed_name": "知乎日报",
+    "feed_url": "https://plink.anyfeeder.com/zhihu/daily",
     "category": "娱乐",
-    "title": "6分。《地球最后的夜晚》\n——毕赣失去了什么 (评论: 地球最后的夜晚)",
-    "link": "https://movie.douban.com/review/16916187/",
-    "pub_date": "2025-08-03 09:43:40",
+    "title": "人类文明有没有可能一直延续到太阳变成红巨星的时候?",
+    "link": "https://daily.zhihu.com/story/9783097",
+    "pub_date": "2025-08-10 07:15:57",
+    "author": null
+  },
+  {
+    "id": 416956,
+    "feed_name": "知乎日报",
+    "feed_url": "https://plink.anyfeeder.com/zhihu/daily",
+    "category": "娱乐",
+    "title": "为什么很多酸的水果晒成果干之后会变得不酸？",
+    "link": "https://daily.zhihu.com/story/9783114",
+    "pub_date": "2025-08-10 07:15:57",
+    "author": null
+  },
+  {
+    "id": 416965,
+    "feed_name": "知乎日报",
+    "feed_url": "https://plink.anyfeeder.com/zhihu/daily",
+    "category": "娱乐",
+    "title": "真实的战场是一地尸体，还是一地重伤半截人呻吟蠕动？",
+    "link": "https://daily.zhihu.com/story/9783104",
+    "pub_date": "2025-08-10 07:15:57",
+    "author": null
+  },
+  {
+    "id": 416974,
+    "feed_name": "知乎日报",
+    "feed_url": "https://plink.anyfeeder.com/zhihu/daily",
+    "category": "娱乐",
+    "title": "为什么人总是下意识反驳别人？好像「反驳别人」比「认同别人」要容易得多？",
+    "link": "https://daily.zhihu.com/story/9783100",
+    "pub_date": "2025-08-10 07:15:57",
+    "author": null
+  },
+  {
+    "id": 416983,
+    "feed_name": "知乎日报",
+    "feed_url": "https://plink.anyfeeder.com/zhihu/daily",
+    "category": "娱乐",
+    "title": "黄瓤的西瓜是怎么结出来的呢？",
+    "link": "https://daily.zhihu.com/story/9783079",
+    "pub_date": "2025-08-10 07:15:57",
+    "author": null
+  },
+  {
+    "id": 416992,
+    "feed_name": "知乎日报",
+    "feed_url": "https://plink.anyfeeder.com/zhihu/daily",
+    "category": "娱乐",
+    "title": "从社会心理学角度分析，为什么「凡尔赛文学」能够精准戳中现代人的心理痛点？",
+    "link": "https://daily.zhihu.com/story/9783088",
+    "pub_date": "2025-08-10 07:15:57",
+    "author": null
+  },
+  {
+    "id": 417006,
+    "feed_name": "知乎日报",
+    "feed_url": "https://plink.anyfeeder.com/zhihu/daily",
+    "category": "娱乐",
+    "title": "为什么熬夜晚起不健康，早睡早起就健康？",
+    "link": "https://daily.zhihu.com/story/9783086",
+    "pub_date": "2025-08-10 07:15:57",
+    "author": null
+  },
+  {
+    "id": 417025,
+    "feed_name": "知乎日报",
+    "feed_url": "https://plink.anyfeeder.com/zhihu/daily",
+    "category": "娱乐",
+    "title": "",
+    "link": "https://daily.zhihu.com/story/9783091",
+    "pub_date": "2025-08-10 07:15:57",
     "author": null
   },
   {
@@ -320,84 +400,24 @@
     "author": null
   },
   {
-    "id": 404122,
-    "feed_name": "知乎日报",
-    "feed_url": "https://plink.anyfeeder.com/zhihu/daily",
+    "id": 416062,
+    "feed_name": "简书 / 首页",
+    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
     "category": "娱乐",
-    "title": "为什么蜜蜂会挂着俩个袋子？",
-    "link": "https://daily.zhihu.com/story/9783002",
-    "pub_date": "2025-08-07 19:22:36",
-    "author": null
+    "title": "从莫桑比克商会年会看中国石油的国际朋友圈如何拓展？",
+    "link": "https://www.jianshu.com/p/396aa5b79e06",
+    "pub_date": "2025-08-10 06:04:11",
+    "author": "油气兵哥"
   },
   {
-    "id": 404155,
-    "feed_name": "知乎日报",
-    "feed_url": "https://plink.anyfeeder.com/zhihu/daily",
+    "id": 416069,
+    "feed_name": "简书 / 首页",
+    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
     "category": "娱乐",
-    "title": "一张纸对折105次，宇宙就真的放不下了吗？",
-    "link": "https://daily.zhihu.com/story/9783013",
-    "pub_date": "2025-08-07 19:22:36",
-    "author": null
-  },
-  {
-    "id": 404171,
-    "feed_name": "知乎日报",
-    "feed_url": "https://plink.anyfeeder.com/zhihu/daily",
-    "category": "娱乐",
-    "title": "古代诗人喝的都是什么酒？",
-    "link": "https://daily.zhihu.com/story/9783012",
-    "pub_date": "2025-08-07 19:22:36",
-    "author": null
-  },
-  {
-    "id": 404183,
-    "feed_name": "知乎日报",
-    "feed_url": "https://plink.anyfeeder.com/zhihu/daily",
-    "category": "娱乐",
-    "title": "瞎扯 · 如何正确地吐槽",
-    "link": "https://daily.zhihu.com/story/9783022",
-    "pub_date": "2025-08-07 19:22:36",
-    "author": null
-  },
-  {
-    "id": 404201,
-    "feed_name": "知乎日报",
-    "feed_url": "https://plink.anyfeeder.com/zhihu/daily",
-    "category": "娱乐",
-    "title": "古代河流多见「X水」之名，何时分化成X河、X江？",
-    "link": "https://daily.zhihu.com/story/9782978",
-    "pub_date": "2025-08-07 19:22:36",
-    "author": null
-  },
-  {
-    "id": 404218,
-    "feed_name": "知乎日报",
-    "feed_url": "https://plink.anyfeeder.com/zhihu/daily",
-    "category": "娱乐",
-    "title": "蚊子能不能吸起其他虫子的血？",
-    "link": "https://daily.zhihu.com/story/9782996",
-    "pub_date": "2025-08-07 19:22:36",
-    "author": null
-  },
-  {
-    "id": 404232,
-    "feed_name": "知乎日报",
-    "feed_url": "https://plink.anyfeeder.com/zhihu/daily",
-    "category": "娱乐",
-    "title": "交流电的电流方向一直在改变，那么它的电能传输方向也是一直在改变吗？电能被带过去后还会带回来吗？",
-    "link": "https://daily.zhihu.com/story/9782987",
-    "pub_date": "2025-08-07 19:22:36",
-    "author": null
-  },
-  {
-    "id": 404258,
-    "feed_name": "知乎日报",
-    "feed_url": "https://plink.anyfeeder.com/zhihu/daily",
-    "category": "娱乐",
-    "title": "有哪些生物的寿命很长呢？",
-    "link": "https://daily.zhihu.com/story/9782997",
-    "pub_date": "2025-08-07 19:22:36",
-    "author": null
+    "title": "汉字神奇",
+    "link": "https://www.jianshu.com/p/483c24f8db2b",
+    "pub_date": "2025-08-10 06:04:11",
+    "author": "祥致"
   },
   {
     "id": 413640,
@@ -578,25 +598,5 @@
     "link": "https://www.jianshu.com/p/72b7dabd03f1",
     "pub_date": "2025-06-17 05:20:54",
     "author": "Edwin_红狼"
-  },
-  {
-    "id": 242359,
-    "feed_name": "简书 / 首页",
-    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
-    "category": "娱乐",
-    "title": "现代诗：《射箭》",
-    "link": "https://www.jianshu.com/p/c572cfdf29aa",
-    "pub_date": "2025-06-17 02:18:26",
-    "author": "唐风丿"
-  },
-  {
-    "id": 242358,
-    "feed_name": "简书 / 首页",
-    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
-    "category": "娱乐",
-    "title": "任重道远新时代弘毅笃行新征程——二十大学习之“说青年”",
-    "link": "https://www.jianshu.com/p/85d290b76390",
-    "pub_date": "2025-06-16 09:54:25",
-    "author": "退而结网人"
   }
 ]
