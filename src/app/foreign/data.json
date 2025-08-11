@@ -200,6 +200,16 @@
     "author": null
   },
   {
+    "id": 427721,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "楊蘭蘭身世在中國引發關注 澳洲司法部門否認天價保釋金傳聞",
+    "link": "https://www.bbc.com/zhongwen/articles/c4gee89vlzgo/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-08-11 19:16:49",
+    "author": null
+  },
+  {
     "id": 425092,
     "feed_name": "BBC 中文版",
     "feed_url": "https://plink.anyfeeder.com/bbc/cn",
@@ -207,6 +217,16 @@
     "title": "香港大學N號檔深偽圖片受害女生：「這是一個法律黑洞」",
     "link": "https://www.bbc.com/zhongwen/articles/cp94nmgde2xo/trad?at_medium=RSS&at_campaign=rss",
     "pub_date": "2025-08-11 17:08:09",
+    "author": null
+  },
+  {
+    "id": 427730,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "中國首家機器人餐廳北京開幕 大廚、服務生、樂隊全由機器人代勞",
+    "link": "https://www.bbc.com/zhongwen/articles/cjw66y8232jo/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-08-11 16:33:09",
     "author": null
   },
   {
@@ -380,23 +400,63 @@
     "author": null
   },
   {
-    "id": 406916,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "id": 427078,
+    "feed_name": "ABC 澳大利亚广播公司",
+    "feed_url": "https://plink.anyfeeder.com/abc/cn",
     "category": "国外",
-    "title": "特朗普對俄羅斯能源購買國徵收次級關稅將如何衝擊全球經濟？",
-    "link": "https://www.bbc.com/zhongwen/articles/c05e7l879geo/trad?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2025-08-07 19:20:25",
+    "title": "美国“对等”关税正式生效",
+    "link": "https://newsapp.abc.net.au/newsapp/chinese/2025-08-07/donald-trump-jd-vance-likely-republican-nominee-us-election-2028/105622772",
+    "pub_date": "2025-08-12 01:40:16",
     "author": null
   },
   {
-    "id": 406922,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "id": 427095,
+    "feed_name": "ABC 澳大利亚广播公司",
+    "feed_url": "https://plink.anyfeeder.com/abc/cn",
     "category": "国外",
-    "title": "美國不滿印度購買俄羅斯石油、對其徵收新稅——特朗普與莫迪關係跌至谷底？",
-    "link": "https://www.bbc.com/zhongwen/articles/cde3d7yr8rwo/trad?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2025-08-07 18:46:13",
+    "title": "英伟达“后门”事件会影响中国芯片发展吗？",
+    "link": "https://newsapp.abc.net.au/newsapp/chinese/2025-08-07/china-flags-h20-security-concerns-after-us-lifted-chip-ban/105617346",
+    "pub_date": "2025-08-12 01:40:16",
+    "author": null
+  },
+  {
+    "id": 427112,
+    "feed_name": "ABC 澳大利亚广播公司",
+    "feed_url": "https://plink.anyfeeder.com/abc/cn",
+    "category": "国外",
+    "title": "以色列安全内阁批准军事接管加沙城计划",
+    "link": "https://newsapp.abc.net.au/newsapp/chinese/2025-08-08/netanyahu-says-israel-intends-to-take-all-of-gaza/105627428",
+    "pub_date": "2025-08-12 01:40:16",
+    "author": null
+  },
+  {
+    "id": 427126,
+    "feed_name": "ABC 澳大利亚广播公司",
+    "feed_url": "https://plink.anyfeeder.com/abc/cn",
+    "category": "国外",
+    "title": "中国女性呼吁对传播性剥削影像的Telegram频道采取行动",
+    "link": "https://newsapp.abc.net.au/newsapp/chinese/2025-08-11/women-in-china-call-for-action-on-exploitative-telegram-channels/105638648",
+    "pub_date": "2025-08-12 01:40:16",
+    "author": null
+  },
+  {
+    "id": 427139,
+    "feed_name": "ABC 澳大利亚广播公司",
+    "feed_url": "https://plink.anyfeeder.com/abc/cn",
+    "category": "国外",
+    "title": "澳洲宣布将于9月正式承认巴勒斯坦国 这意味着什么？",
+    "link": "https://newsapp.abc.net.au/newsapp/chinese/2025-08-11/liu-jianchao-taken-in-for-questioning-wsj-reports/105635892",
+    "pub_date": "2025-08-12 01:40:16",
+    "author": null
+  },
+  {
+    "id": 427154,
+    "feed_name": "ABC 澳大利亚广播公司",
+    "feed_url": "https://plink.anyfeeder.com/abc/cn",
+    "category": "国外",
+    "title": "以色列人权组织指责政府在加沙进行种族灭绝",
+    "link": "https://newsapp.abc.net.au/newsapp/chinese/2025-07-30/israeli-orgs-label-gaza-situation-genocide/105587066",
+    "pub_date": "2025-08-12 01:22:58",
     "author": null
   }
 ]
