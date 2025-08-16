@@ -400,6 +400,26 @@
     "author": null
   },
   {
+    "id": 449171,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "mullvad/mullvadvpn-app",
+    "link": "https://github.com/mullvad/mullvadvpn-app",
+    "pub_date": "2025-08-17 07:15:29",
+    "author": null
+  },
+  {
+    "id": 449244,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "chroma-core/chroma",
+    "link": "https://github.com/chroma-core/chroma",
+    "pub_date": "2025-08-17 07:15:29",
+    "author": null
+  },
+  {
     "id": 446628,
     "feed_name": "github rust",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
@@ -576,26 +596,6 @@
     "category": "技术",
     "title": "openai/codex",
     "link": "https://github.com/openai/codex",
-    "pub_date": "2025-08-09 19:19:32",
-    "author": null
-  },
-  {
-    "id": 412589,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "cisagov/thorium",
-    "link": "https://github.com/cisagov/thorium",
-    "pub_date": "2025-08-09 19:19:32",
-    "author": null
-  },
-  {
-    "id": 412595,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "nkaz001/hftbacktest",
-    "link": "https://github.com/nkaz001/hftbacktest",
     "pub_date": "2025-08-09 19:19:32",
     "author": null
   },
@@ -800,6 +800,26 @@
     "author": null
   },
   {
+    "id": 449210,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "redis/go-redis",
+    "link": "https://github.com/redis/go-redis",
+    "pub_date": "2025-08-17 07:15:30",
+    "author": null
+  },
+  {
+    "id": 449313,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "go-gitea/gitea",
+    "link": "https://github.com/go-gitea/gitea",
+    "pub_date": "2025-08-17 07:15:30",
+    "author": null
+  },
+  {
     "id": 446558,
     "feed_name": "github go",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
@@ -977,26 +997,6 @@
     "title": "openai/openai-go",
     "link": "https://github.com/openai/openai-go",
     "pub_date": "2025-08-10 19:19:15",
-    "author": null
-  },
-  {
-    "id": 412616,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "charmbracelet/bubbles",
-    "link": "https://github.com/charmbracelet/bubbles",
-    "pub_date": "2025-08-09 19:19:32",
-    "author": null
-  },
-  {
-    "id": 412621,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "traefik/traefik",
-    "link": "https://github.com/traefik/traefik",
-    "pub_date": "2025-08-09 19:19:32",
     "author": null
   },
   {
