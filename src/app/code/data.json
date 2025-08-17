@@ -830,6 +830,206 @@
     "author": null
   },
   {
+    "id": 453900,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "EasyTier/EasyTier",
+    "link": "https://github.com/EasyTier/EasyTier",
+    "pub_date": "2025-08-18 07:15:36",
+    "author": null
+  },
+  {
+    "id": 451824,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "rust-lang/cargo",
+    "link": "https://github.com/rust-lang/cargo",
+    "pub_date": "2025-08-17 19:18:36",
+    "author": null
+  },
+  {
+    "id": 449171,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "mullvad/mullvadvpn-app",
+    "link": "https://github.com/mullvad/mullvadvpn-app",
+    "pub_date": "2025-08-17 07:15:29",
+    "author": null
+  },
+  {
+    "id": 449244,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "chroma-core/chroma",
+    "link": "https://github.com/chroma-core/chroma",
+    "pub_date": "2025-08-17 07:15:29",
+    "author": null
+  },
+  {
+    "id": 446628,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "shshemi/tabiew",
+    "link": "https://github.com/shshemi/tabiew",
+    "pub_date": "2025-08-16 19:17:52",
+    "author": null
+  },
+  {
+    "id": 442116,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "librespot-org/librespot",
+    "link": "https://github.com/librespot-org/librespot",
+    "pub_date": "2025-08-15 19:20:00",
+    "author": null
+  },
+  {
+    "id": 442123,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "libp2p/rust-libp2p",
+    "link": "https://github.com/libp2p/rust-libp2p",
+    "pub_date": "2025-08-15 19:20:00",
+    "author": null
+  },
+  {
+    "id": 442175,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "meilisearch/meilisearch",
+    "link": "https://github.com/meilisearch/meilisearch",
+    "pub_date": "2025-08-15 19:20:00",
+    "author": null
+  },
+  {
+    "id": 442203,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "BoundaryML/baml",
+    "link": "https://github.com/BoundaryML/baml",
+    "pub_date": "2025-08-15 19:20:00",
+    "author": null
+  },
+  {
+    "id": 433384,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "ratatui/ratatui",
+    "link": "https://github.com/ratatui/ratatui",
+    "pub_date": "2025-08-13 19:20:47",
+    "author": null
+  },
+  {
+    "id": 433414,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "bevyengine/bevy",
+    "link": "https://github.com/bevyengine/bevy",
+    "pub_date": "2025-08-13 19:20:47",
+    "author": null
+  },
+  {
+    "id": 433419,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "iced-rs/iced",
+    "link": "https://github.com/iced-rs/iced",
+    "pub_date": "2025-08-13 19:20:47",
+    "author": null
+  },
+  {
+    "id": 433446,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "wezterm/wezterm",
+    "link": "https://github.com/wezterm/wezterm",
+    "pub_date": "2025-08-13 19:20:47",
+    "author": null
+  },
+  {
+    "id": 433451,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "category-labs/monad-bft",
+    "link": "https://github.com/category-labs/monad-bft",
+    "pub_date": "2025-08-13 19:20:47",
+    "author": null
+  },
+  {
+    "id": 428517,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "rust-lang/rust",
+    "link": "https://github.com/rust-lang/rust",
+    "pub_date": "2025-08-12 19:20:41",
+    "author": null
+  },
+  {
+    "id": 423293,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "cube-js/cube",
+    "link": "https://github.com/cube-js/cube",
+    "pub_date": "2025-08-11 19:21:24",
+    "author": null
+  },
+  {
+    "id": 423318,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "lumina-ai-inc/chunkr",
+    "link": "https://github.com/lumina-ai-inc/chunkr",
+    "pub_date": "2025-08-11 19:21:24",
+    "author": null
+  },
+  {
+    "id": 417801,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "rathole-org/rathole",
+    "link": "https://github.com/rathole-org/rathole",
+    "pub_date": "2025-08-10 19:19:15",
+    "author": null
+  },
+  {
+    "id": 417841,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "paradigmxyz/reth",
+    "link": "https://github.com/paradigmxyz/reth",
+    "pub_date": "2025-08-10 19:19:15",
+    "author": null
+  },
+  {
+    "id": 417888,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "ilya-zlobintsev/LACT",
+    "link": "https://github.com/ilya-zlobintsev/LACT",
+    "pub_date": "2025-08-10 19:19:15",
+    "author": null
+  },
+  {
     "id": 451829,
     "feed_name": "github lua",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
@@ -1027,206 +1227,6 @@
     "title": "stevearc/oil.nvim",
     "link": "https://github.com/stevearc/oil.nvim",
     "pub_date": "2025-08-06 19:22:12",
-    "author": null
-  },
-  {
-    "id": 451824,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "rust-lang/cargo",
-    "link": "https://github.com/rust-lang/cargo",
-    "pub_date": "2025-08-17 19:18:36",
-    "author": null
-  },
-  {
-    "id": 449171,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "mullvad/mullvadvpn-app",
-    "link": "https://github.com/mullvad/mullvadvpn-app",
-    "pub_date": "2025-08-17 07:15:29",
-    "author": null
-  },
-  {
-    "id": 449244,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "chroma-core/chroma",
-    "link": "https://github.com/chroma-core/chroma",
-    "pub_date": "2025-08-17 07:15:29",
-    "author": null
-  },
-  {
-    "id": 446628,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "shshemi/tabiew",
-    "link": "https://github.com/shshemi/tabiew",
-    "pub_date": "2025-08-16 19:17:52",
-    "author": null
-  },
-  {
-    "id": 442116,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "librespot-org/librespot",
-    "link": "https://github.com/librespot-org/librespot",
-    "pub_date": "2025-08-15 19:20:00",
-    "author": null
-  },
-  {
-    "id": 442123,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "libp2p/rust-libp2p",
-    "link": "https://github.com/libp2p/rust-libp2p",
-    "pub_date": "2025-08-15 19:20:00",
-    "author": null
-  },
-  {
-    "id": 442175,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "meilisearch/meilisearch",
-    "link": "https://github.com/meilisearch/meilisearch",
-    "pub_date": "2025-08-15 19:20:00",
-    "author": null
-  },
-  {
-    "id": 442203,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "BoundaryML/baml",
-    "link": "https://github.com/BoundaryML/baml",
-    "pub_date": "2025-08-15 19:20:00",
-    "author": null
-  },
-  {
-    "id": 433384,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "ratatui/ratatui",
-    "link": "https://github.com/ratatui/ratatui",
-    "pub_date": "2025-08-13 19:20:47",
-    "author": null
-  },
-  {
-    "id": 433414,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "bevyengine/bevy",
-    "link": "https://github.com/bevyengine/bevy",
-    "pub_date": "2025-08-13 19:20:47",
-    "author": null
-  },
-  {
-    "id": 433419,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "iced-rs/iced",
-    "link": "https://github.com/iced-rs/iced",
-    "pub_date": "2025-08-13 19:20:47",
-    "author": null
-  },
-  {
-    "id": 433446,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "wezterm/wezterm",
-    "link": "https://github.com/wezterm/wezterm",
-    "pub_date": "2025-08-13 19:20:47",
-    "author": null
-  },
-  {
-    "id": 433451,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "category-labs/monad-bft",
-    "link": "https://github.com/category-labs/monad-bft",
-    "pub_date": "2025-08-13 19:20:47",
-    "author": null
-  },
-  {
-    "id": 428517,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "rust-lang/rust",
-    "link": "https://github.com/rust-lang/rust",
-    "pub_date": "2025-08-12 19:20:41",
-    "author": null
-  },
-  {
-    "id": 423293,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "cube-js/cube",
-    "link": "https://github.com/cube-js/cube",
-    "pub_date": "2025-08-11 19:21:24",
-    "author": null
-  },
-  {
-    "id": 423318,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "lumina-ai-inc/chunkr",
-    "link": "https://github.com/lumina-ai-inc/chunkr",
-    "pub_date": "2025-08-11 19:21:24",
-    "author": null
-  },
-  {
-    "id": 417801,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "rathole-org/rathole",
-    "link": "https://github.com/rathole-org/rathole",
-    "pub_date": "2025-08-10 19:19:15",
-    "author": null
-  },
-  {
-    "id": 417841,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "paradigmxyz/reth",
-    "link": "https://github.com/paradigmxyz/reth",
-    "pub_date": "2025-08-10 19:19:15",
-    "author": null
-  },
-  {
-    "id": 417888,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "ilya-zlobintsev/LACT",
-    "link": "https://github.com/ilya-zlobintsev/LACT",
-    "pub_date": "2025-08-10 19:19:15",
-    "author": null
-  },
-  {
-    "id": 412577,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "lencx/ChatGPT",
-    "link": "https://github.com/lencx/ChatGPT",
-    "pub_date": "2025-08-09 19:19:32",
     "author": null
   }
 ]
