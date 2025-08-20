@@ -114,7 +114,17 @@ const useRSSData = () => {
   const addFeedsToCategory = useCallback((categoryId, newFeeds) => {
     setFeedsByCategory(prev => {
       const currentFeeds = prev[categoryId] || [];
-      return { ...prev, [categoryId]: [...currentFeeds, ...newFeeds] };
+      // 用 link 去重
+      const allFeeds = [...currentFeeds, ...newFeeds];
+      const uniqueFeeds = [];
+      const linkSet = new Set();
+      for (const feed of allFeeds) {
+        if (!linkSet.has(feed.link)) {
+          linkSet.add(feed.link);
+          uniqueFeeds.push(feed);
+        }
+      }
+      return { ...prev, [categoryId]: uniqueFeeds };
     });
   }, []);
 
@@ -666,34 +676,33 @@ export default function RSSPage() {
                                     style={{ backgroundColor: categoryColor }}
                                   />
                                   <div className="flex-1 min-w-0">
-                                    <h4 className="text-lg font-semibold text-gray-900 mb-2 line-clamp-2">
-                                      {feed.title}
-                                    </h4>
+                                    <div className="flex items-center justify-between mb-2">
+                                      <a
+                                        href={feed.link}
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                        className="text-lg font-semibold text-gray-900 line-clamp-2 hover:underline"
+                                        style={{ color: categoryColor }}
+                                      >
+                                        {feed.title}
+                                      </a>
+                                      <span className="flex items-center text-sm text-gray-500 whitespace-nowrap ml-4">
+                                        <CalendarIcon className="w-4 h-4 mr-1" />
+                                        {utils.formatDate(feed.pubDate)}
+                                      </span>
+                                    </div>
                                     <p className="text-gray-600 mb-4 line-clamp-3">
                                       {utils.truncateText(feed.description)}
                                     </p>
-                                    <div className="flex items-center justify-between flex-wrap gap-2">
+                                    <div className="flex items-center flex-wrap gap-2">
                                       <div className="flex items-center space-x-4 text-sm text-gray-500">
                                         <div className="flex items-center space-x-1">
                                           <UserIcon className="w-4 h-4" />
                                           <span className="truncate max-w-32">{feed.author}</span>
                                         </div>
-                                        <div className="flex items-center space-x-1">
-                                          <CalendarIcon className="w-4 h-4" />
-                                          <span>{utils.formatDate(feed.pubDate)}</span>
-                                        </div>
                                       </div>
-                                      <a
-                                        href={feed.link}
-                                        target="_blank"
-                                        rel="noopener noreferrer"
-                                        className="inline-flex items-center space-x-1 font-medium transition-colors duration-200 hover:underline"
-                                        style={{ color: categoryColor }}
-                                      >
-                                        <span>阅读全文</span>
-                                        <ExternalLinkIcon className="w-4 h-4" />
-                                      </a>
                                     </div>
+                                    {/* 去掉“阅读全文”链接，只在标题上加链接 */}
                                   </div>
                                 </div>
                               </div>
