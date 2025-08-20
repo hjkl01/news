@@ -8,7 +8,7 @@ on:
     - cron: "58 22 * * *"
     # - cron: "58 6 * * *"
     # - cron: "58 13 * * *"
-    - cron: '58 10 * * *'
+    - cron: '58 5 * * *'
   # push:
   #   branches:
   #     - master
