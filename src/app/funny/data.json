@@ -10,6 +10,16 @@
     "author": null
   },
   {
+    "id": 488596,
+    "feed_name": "豆瓣最受欢迎的影评",
+    "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
+    "category": "娱乐",
+    "title": "《青蛇》：色相之下，是贪、嗔、痴的悲惨世界 (评论: 青蛇)",
+    "link": "https://movie.douban.com/review/16990766/",
+    "pub_date": "2025-08-23 11:16:05",
+    "author": null
+  },
+  {
     "id": 478550,
     "feed_name": "豆瓣最受欢迎的影评",
     "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
@@ -190,13 +200,43 @@
     "author": null
   },
   {
-    "id": 462911,
-    "feed_name": "豆瓣最受欢迎的影评",
-    "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
+    "id": 489226,
+    "feed_name": "知乎日报",
+    "feed_url": "https://plink.anyfeeder.com/zhihu/daily",
     "category": "娱乐",
-    "title": "精神分析视域下的《宇宙探索编辑部》：主体创伤的疗愈之旅 (评论: 宇宙探索编辑部)",
-    "link": "https://movie.douban.com/review/16977196/",
-    "pub_date": "2025-08-18 22:51:16",
+    "title": "母鸡孵蛋的时候不会感到无聊吗？",
+    "link": "https://daily.zhihu.com/story/9783443",
+    "pub_date": "2025-08-25 07:15:04",
+    "author": null
+  },
+  {
+    "id": 489238,
+    "feed_name": "知乎日报",
+    "feed_url": "https://plink.anyfeeder.com/zhihu/daily",
+    "category": "娱乐",
+    "title": "有哪些地理上的事实，没有一定地理知识的人不会相信？",
+    "link": "https://daily.zhihu.com/story/9783464",
+    "pub_date": "2025-08-25 07:15:04",
+    "author": null
+  },
+  {
+    "id": 489250,
+    "feed_name": "知乎日报",
+    "feed_url": "https://plink.anyfeeder.com/zhihu/daily",
+    "category": "娱乐",
+    "title": "地球上强震是不是比过去发生的更频繁了？如何科学应对？",
+    "link": "https://daily.zhihu.com/story/9783456",
+    "pub_date": "2025-08-25 07:15:04",
+    "author": null
+  },
+  {
+    "id": 489256,
+    "feed_name": "知乎日报",
+    "feed_url": "https://plink.anyfeeder.com/zhihu/daily",
+    "category": "娱乐",
+    "title": "蚊子停在天花板上是否比停在墙壁上能耗更大？",
+    "link": "https://daily.zhihu.com/story/9783453",
+    "pub_date": "2025-08-25 07:15:04",
     "author": null
   },
   {
@@ -360,44 +400,24 @@
     "author": null
   },
   {
-    "id": 463541,
-    "feed_name": "知乎日报",
-    "feed_url": "https://plink.anyfeeder.com/zhihu/daily",
+    "id": 488452,
+    "feed_name": "简书 / 首页",
+    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
     "category": "娱乐",
-    "title": "海豹的胡须有什么作用？",
-    "link": "https://daily.zhihu.com/story/9783334",
-    "pub_date": "2025-08-19 19:19:36",
-    "author": null
+    "title": "Java 并发基础之 Java 线程池详解",
+    "link": "https://www.jianshu.com/p/6f72181c1de2",
+    "pub_date": "2025-08-25 06:33:26",
+    "author": "you的日常"
   },
   {
-    "id": 463551,
-    "feed_name": "知乎日报",
-    "feed_url": "https://plink.anyfeeder.com/zhihu/daily",
+    "id": 488462,
+    "feed_name": "简书 / 首页",
+    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
     "category": "娱乐",
-    "title": "蚂蚁为什么不吃同类的尸体？",
-    "link": "https://daily.zhihu.com/story/9783348",
-    "pub_date": "2025-08-19 19:19:36",
-    "author": null
-  },
-  {
-    "id": 463559,
-    "feed_name": "知乎日报",
-    "feed_url": "https://plink.anyfeeder.com/zhihu/daily",
-    "category": "娱乐",
-    "title": "植物都有哪些自保奇招？",
-    "link": "https://daily.zhihu.com/story/9783339",
-    "pub_date": "2025-08-19 19:19:36",
-    "author": null
-  },
-  {
-    "id": 463565,
-    "feed_name": "知乎日报",
-    "feed_url": "https://plink.anyfeeder.com/zhihu/daily",
-    "category": "娱乐",
-    "title": "瞎扯 · 如何正确地吐槽",
-    "link": "https://daily.zhihu.com/story/9783354",
-    "pub_date": "2025-08-19 19:19:36",
-    "author": null
+    "title": "旅行记",
+    "link": "https://www.jianshu.com/p/829ab6f893ff",
+    "pub_date": "2025-08-25 06:33:25",
+    "author": "向幸福的方向出发"
   },
   {
     "id": 486231,
@@ -578,25 +598,5 @@
     "link": "https://www.jianshu.com/p/7ceea1fcc1ae",
     "pub_date": "2025-08-22 05:56:57",
     "author": "三角sin90"
-  },
-  {
-    "id": 472998,
-    "feed_name": "简书 / 首页",
-    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
-    "category": "娱乐",
-    "title": "欧曼树纤纸是木浆制作的吗",
-    "link": "https://www.jianshu.com/p/a4f675b8ea03",
-    "pub_date": "2025-08-22 05:56:57",
-    "author": "纸路人"
-  },
-  {
-    "id": 473002,
-    "feed_name": "简书 / 首页",
-    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
-    "category": "娱乐",
-    "title": "单于大帐光影秀：裸眼 3D 奏响草原上的和亲千年绝唱",
-    "link": "https://www.jianshu.com/p/dc31d963e6d1",
-    "pub_date": "2025-08-22 05:56:57",
-    "author": "文文舒舒"
   }
 ]
