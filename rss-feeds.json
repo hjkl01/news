@@ -141,11 +141,6 @@
             "url": "http://hellogithub.com/rss"
         },
         {
-            "title": "V2EX",
-            "category": "论坛",
-            "url": "https://v2ex.com/index.xml"
-        },
-        {
             "title": "路由器交流",
             "category": "资讯",
             "url": "https://www.acwifi.net/feed"
@@ -159,16 +154,6 @@
             "title": "极客公园",
             "url": "https://www.geekpark.net/rss",
             "category": "科技"
-        },
-        {
-            "title": "阮一峰的网络日志",
-            "url": "https://www.ruanyifeng.com/blog/atom.xml",
-            "category": "资讯"
-        },
-        {
-            "title": "知乎每日精选",
-            "url": "http://www.zhihu.com/rss",
-            "category": "娱乐"
         },
         {
             "title": "github all",
@@ -251,11 +236,6 @@
             "category": "新闻"
         },
         {
-            "title": "抽屉新热榜",
-            "url": "https://plink.anyfeeder.com/chouti/hot",
-            "category": "论坛"
-        },
-        {
             "title": "求是网",
             "url": "https://plink.anyfeeder.com/qstheory",
             "category": "新闻"
@@ -301,16 +281,6 @@
             "category": "新闻"
         },
         {
-            "title": "腾讯新闻 / 国际",
-            "url": "https://plink.anyfeeder.com/qq/news/world",
-            "category": "新闻"
-        },
-        {
-            "title": "腾讯新闻 / 国内",
-            "url": "https://plink.anyfeeder.com/qq/news/china",
-            "category": "新闻"
-        },
-        {
             "title": "界面新闻: 新闻",
             "url": "https://plink.anyfeeder.com/jiemian/news",
             "category": "新闻"
@@ -323,11 +293,6 @@
         {
             "title": "数字尾巴",
             "url": "https://plink.anyfeeder.com/dgtle",
-            "category": "科技"
-        },
-        {
-            "title": "36氪",
-            "url": "https://plink.anyfeeder.com/36kr",
             "category": "科技"
         },
         {
@@ -366,16 +331,6 @@
             "category": "科技"
         },
         {
-            "title": "虎嗅",
-            "url": "https://plink.anyfeeder.com/huxiu",
-            "category": "科技"
-        },
-        {
-            "title": "机核",
-            "url": "https://plink.anyfeeder.com/gcores",
-            "category": "科技"
-        },
-        {
             "title": "快科技",
             "url": "https://plink.anyfeeder.com/mydrivers",
             "category": "科技"
@@ -401,16 +356,6 @@
             "category": "科技"
         },
         {
-            "title": "极客公园",
-            "url": "https://www.geekpark.net/rss",
-            "category": "科技"
-        },
-        {
-            "title": "小众软件",
-            "url": "https://plink.anyfeeder.com/appinn",
-            "category": "科技"
-        },
-        {
             "title": "超能网",
             "url": "https://plink.anyfeeder.com/expreview",
             "category": "科技"
@@ -426,11 +371,6 @@
             "category": "科技"
         },
         {
-            "title": "品玩",
-            "url": "https://plink.anyfeeder.com/pingwest",
-            "category": "科技"
-        },
-        {
             "title": "湾区日报",
             "url": "https://wanqu.co/feed/",
             "category": "科技"
@@ -441,23 +381,8 @@
             "category": "资讯"
         },
         {
-            "title": "知乎日报",
-            "url": "https://plink.anyfeeder.com/zhihu/daily",
-            "category": "娱乐"
-        },
-        {
-            "title": "知乎每日精选",
-            "url": "http://www.zhihu.com/rss",
-            "category": "娱乐"
-        },
-        {
             "title": "简书 / 首页",
             "url": "https://plink.anyfeeder.com/jianshu/home",
-            "category": "娱乐"
-        },
-        {
-            "title": "知乎热榜",
-            "url": "https://plink.anyfeeder.com/zhihu/hotlist",
             "category": "娱乐"
         },
         {
@@ -478,16 +403,6 @@
         {
             "title": "微博 / 热搜榜",
             "url": "https://plink.anyfeeder.com/weibo/search/hot",
-            "category": "生活"
-        },
-        {
-            "title": "煎蛋",
-            "url": "https://plink.anyfeeder.com/jiandan",
-            "category": "生活"
-        },
-        {
-            "title": "理想生活实验室",
-            "url": "https://plink.anyfeeder.com/toodaylab",
             "category": "生活"
         },
         {
@@ -536,11 +451,6 @@
             "category": "国外"
         },
         {
-            "title": "路透中文",
-            "url": "https://plink.anyfeeder.com/reuters/cn",
-            "category": "国外"
-        },
-        {
             "title": "华尔街日报中文版",
             "url": "https://plink.anyfeeder.com/wsj/cn",
             "category": "国外"
@@ -568,11 +478,6 @@
         {
             "title": "caoz的梦呓",
             "url": "https://plink.anyfeeder.com/weixin/caozsay",
-            "category": "公众号"
-        },
-        {
-            "title": "keso怎么看",
-            "url": "https://plink.anyfeeder.com/weixin/kesoview",
             "category": "公众号"
         },
         {
@@ -691,11 +596,6 @@
             "category": "公众号"
         },
         {
-            "title": "真实故事计划",
-            "url": "https://plink.anyfeeder.com/weixin/zhenshigushi1",
-            "category": "公众号"
-        },
-        {
             "title": "知乎分子",
             "url": "https://plink.anyfeeder.com/weixin/The-Intellectual",
             "category": "公众号"
@@ -738,11 +638,6 @@
         {
             "title": "丁香医生",
             "url": "https://plink.anyfeeder.com/weixin/DingXiangYiSheng",
-            "category": "公众号"
-        },
-        {
-            "title": "糗事百科",
-            "url": "https://plink.anyfeeder.com/weixin/qiubai2005",
             "category": "公众号"
         },
         {
