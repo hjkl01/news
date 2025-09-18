@@ -4,6 +4,7 @@ import React, { useState, useEffect, useCallback, useMemo } from 'react';
 import {
   RssIcon,
   FolderIcon,
+  ExternalLinkIcon,
   CalendarIcon,
   UserIcon,
   RefreshCwIcon,
@@ -269,6 +270,9 @@ export default function RSSPage() {
     setError
   } = useRSSData();
 
+  const [customRssUrl, setCustomRssUrl] = useState('');
+  const [isAddingCustomFeed, setIsAddingCustomFeed] = useState(false);
+
   const {
     loadingFeeds,
     failedFeeds,
@@ -290,17 +294,33 @@ export default function RSSPage() {
     loadCategoriesAndConfig();
   }, [loadCategoriesAndConfig]);
 
-  // 默认选择第一个分类
+  // 默认不自动选择任何分类
   useEffect(() => {
     if (categories.length > 0 && selectedCategory === null) {
-      const firstCategory = categories[0];
-      setSelectedCategory(firstCategory.id);
-      loadFeedsForCategory(firstCategory.id);
+      // 不自动选择第一个分类，让用户主动选择
+      // 可以设置为 null 或不设置 selectedCategory
     }
   }, [categories, selectedCategory]);
 
+  // 添加自定义分类到分类列表
+  const allCategories = useMemo(() => {
+    const customCategory = {
+      id: 'custom',
+      name: '自定义',
+      color: '#8B5CF6',
+      count: feedsByCategory['custom'] ? feedsByCategory['custom'].length : 0
+    };
+
+    return [customCategory, ...categories];
+  }, [categories, feedsByCategory]);
+
   // 分批加载RSS feeds
   const loadFeedsForCategory = useCallback(async (categoryId) => {
+    // 自定义分类不需要加载（数据已存在）
+    if (categoryId === 'custom') {
+      return;
+    }
+
     if (!rssConfig) return;
 
     setError(null);
@@ -355,6 +375,16 @@ export default function RSSPage() {
     setSelectedCategory(categoryId);
     setIsSorted(false);
 
+    // 如果是自定义分类，不需要加载feeds（已经在feedsByCategory中）
+    if (categoryId === 'custom') {
+      const customFeeds = feedsByCategory['custom'] || [];
+      if (customFeeds.length > 0) {
+        const allSources = new Set(customFeeds.map(feed => feed.feedName));
+        setExpandedSources(allSources);
+      }
+      return;
+    }
+
     if (!feedsByCategory[categoryId] || feedsByCategory[categoryId].length === 0) {
       await loadFeedsForCategory(categoryId);
     } else {
@@ -383,6 +413,53 @@ export default function RSSPage() {
       setIsSorted(true);
     }
   }, [selectedCategory]);
+
+  const handleAddCustomFeed = useCallback(async () => {
+    if (!customRssUrl.trim()) {
+      setError('请输入有效的RSS地址');
+      return;
+    }
+
+    setIsAddingCustomFeed(true);
+    setError(null);
+
+    try {
+      // 创建一个临时的 feed 配置
+      const feedConfig = {
+        title: '自定义RSS源',
+        name: '自定义RSS源',
+        url: customRssUrl,
+        category: '自定义'
+      };
+
+      // 获取分类信息
+      const category = {
+        id: 'custom',
+        name: '自定义',
+        color: '#8B5CF6' // 紫色
+      };
+
+      // 获取 RSS 数据
+      const result = await fetchRSSFeed(feedConfig, category);
+
+      if (result && result.length > 0) {
+        // 添加到自定义分类
+        addFeedsToCategory('custom', result);
+        setExpandedSources(prev => new Set(prev).add(feedConfig.title));
+        incrementLoadedCount();
+
+        // 自动选择自定义分类
+        setSelectedCategory('custom');
+      } else {
+        setError('无法获取RSS内容，请检查URL是否正确');
+      }
+    } catch (error) {
+      console.error('Error adding custom feed:', error);
+      setError('添加RSS源时发生错误: ' + (error.message || '未知错误'));
+    } finally {
+      setIsAddingCustomFeed(false);
+    }
+  }, [customRssUrl, selectedCategory, addFeedsToCategory, incrementLoadedCount, setError]);
 
 
   // 收起时滚动到下一个RSS的第一条新闻
@@ -450,7 +527,7 @@ export default function RSSPage() {
         return new Set(allSources);
       }
     });
-  }, []);
+  }, [groupedFeeds]);
 
   const isLoading = configLoading || loadingFeeds.size > 0;
 
@@ -469,17 +546,21 @@ export default function RSSPage() {
             <div className="flex items-center space-x-3">
               <button
                 onClick={toggleAllSources}
-                className="bg-gray-100 hover:bg-gray-200 text-gray-700 px-4 py-2 rounded-lg flex items-center space-x-2 transition-all duration-200"
+                disabled={selectedCategory === null}
+                className={`px-4 py-2 rounded-lg flex items-center space-x-2 transition-all duration-200 shadow-sm hover:shadow-md border ${selectedCategory === null
+                  ? 'bg-gray-100 border-gray-200 text-gray-500 cursor-not-allowed'
+                  : 'bg-white hover:bg-gray-50 text-gray-700 border-gray-200'
+                  }`}
               >
                 <span>{expandedSources.size === Object.keys(groupedFeeds).length ? '收起全部' : '展开全部'}</span>
               </button>
-              {Object.keys(groupedFeeds).length > 0 && (
+              {selectedCategory !== null && Object.keys(groupedFeeds).length > 0 && (
                 <button
                   onClick={handleSortByTime}
                   disabled={isSorted}
-                  className={`px-4 py-2 rounded-lg flex items-center space-x-2 transition-all duration-200 ${isSorted
-                    ? 'bg-green-100 text-green-700 cursor-not-allowed'
-                    : 'bg-orange-100 hover:bg-orange-200 text-orange-700'
+                  className={`px-4 py-2 rounded-lg flex items-center space-x-2 transition-all duration-200 shadow-sm hover:shadow-md border ${isSorted
+                    ? 'bg-green-50 border-green-200 text-green-700 cursor-not-allowed'
+                    : 'bg-white hover:bg-gray-50 border-gray-200 text-gray-700'
                     }`}
                 >
                   <ClockIcon className="w-4 h-4" />
@@ -488,8 +569,11 @@ export default function RSSPage() {
               )}
               <button
                 onClick={handleRefresh}
-                disabled={isLoading}
-                className="bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 disabled:opacity-50 text-white px-4 py-2 rounded-lg flex items-center space-x-2 transition-all duration-200 transform hover:scale-105"
+                disabled={isLoading || selectedCategory === null}
+                className={`px-4 py-2 rounded-lg flex items-center space-x-2 transition-all duration-200 transform hover:scale-105 shadow-sm hover:shadow-md border ${isLoading || selectedCategory === null
+                  ? 'bg-gray-100 border-gray-200 text-gray-500 cursor-not-allowed'
+                  : 'bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 text-white border-transparent'
+                  }`}
               >
                 <RefreshCwIcon className={`w-4 h-4 ${isLoading ? 'animate-spin' : ''}`} />
                 <span>刷新内容</span>
@@ -504,17 +588,55 @@ export default function RSSPage() {
           {/* 侧边栏 - 分类 */}
           <div className="lg:col-span-1">
             <div className="bg-white rounded-xl shadow-lg p-6 sticky top-8">
-              <h2 className="text-lg font-semibold text-gray-900 mb-4 flex items-center">
-                <FolderIcon className="w-5 h-5 mr-2 text-blue-500" />
-                分类
-              </h2>
-              <div className="space-y-2">
-                {categories.map(category => (
+              <div className="space-y-4">
+                {/* 自定义RSS输入框 */}
+                <div className="mb-6">
+                  <h3 className="text-md font-semibold text-gray-900 mb-3 flex items-center">
+                    <RssIcon className="w-4 h-4 mr-2 text-blue-500" />
+                    添加自定义RSS源
+                  </h3>
+                  <div className="flex space-x-2">
+                    <input
+                      type="text"
+                      value={customRssUrl}
+                      onChange={(e) => setCustomRssUrl(e.target.value)}
+                      onKeyPress={(e) => {
+                        if (e.key === 'Enter' && !isAddingCustomFeed && customRssUrl.trim()) {
+                          handleAddCustomFeed();
+                        }
+                      }}
+                      placeholder="https://example.com/rss"
+                      className="w-4/5 px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent shadow-sm transition-all duration-200"
+                    />
+                    <button
+                      onClick={handleAddCustomFeed}
+                      disabled={isAddingCustomFeed || !customRssUrl.trim()}
+                      className={`px-4 py-2 rounded-lg transition-all duration-200 flex items-center shadow-sm whitespace-nowrap ${isAddingCustomFeed || !customRssUrl.trim()
+                        ? 'bg-gray-300 text-gray-500 cursor-not-allowed'
+                        : 'bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 text-white transform hover:scale-105'
+                        }`}
+                    >
+                      {isAddingCustomFeed ? (
+                        <RefreshCwIcon className="w-4 h-4 animate-spin" />
+                      ) : (
+                        <span>添加</span>
+                      )}
+                    </button>
+                  </div>
+                </div>
+
+                <div className="border-t border-gray-200 pt-4">
+                  <h3 className="text-md font-semibold text-gray-900 mb-3 flex items-center">
+                    <FolderIcon className="w-4 h-4 mr-2 text-blue-500" />
+                    分类
+                  </h3>
+                </div>
+                {allCategories.map(category => (
                   <button
                     key={category.id}
                     onClick={() => handleCategoryClick(category.id)}
-                    className={`w-full text-left px-4 py-3 rounded-lg transition-all duration-200 flex items-center justify-between ${selectedCategory === category.id
-                      ? 'shadow-lg text-white'
+                    className={`w-full text-left px-4 py-3 rounded-lg transition-all duration-200 flex items-center justify-between shadow-sm hover:shadow-md ${selectedCategory === category.id
+                      ? 'text-white shadow-md'
                       : 'text-gray-700 hover:bg-gray-50'
                       }`}
                     style={{
@@ -523,7 +645,7 @@ export default function RSSPage() {
                   >
                     <span className="font-medium">{category.name}</span>
                     <span
-                      className="text-sm px-2 py-1 rounded-full"
+                      className="text-sm px-2 py-1 rounded-full font-medium"
                       style={{
                         backgroundColor: selectedCategory === category.id
                           ? 'rgba(255, 255, 255, 0.2)'
@@ -542,7 +664,7 @@ export default function RSSPage() {
           {/* 主内容区 */}
           <div className="lg:col-span-3">
             {error && (
-              <div className="bg-red-50 border border-red-200 rounded-xl p-4 mb-6 flex items-center space-x-3">
+              <div className="bg-red-50 border border-red-200 rounded-xl p-4 mb-6 flex items-center space-x-3 shadow-sm">
                 <AlertCircleIcon className="w-5 h-5 text-red-500 flex-shrink-0" />
                 <div>
                   <p className="text-red-800 font-medium">加载错误</p>
@@ -552,7 +674,7 @@ export default function RSSPage() {
             )}
 
             {failedFeeds.length > 0 && (
-              <div className="bg-yellow-50 border border-yellow-200 rounded-xl p-4 mb-6">
+              <div className="bg-yellow-50 border border-yellow-200 rounded-xl p-4 mb-6 shadow-sm">
                 <div className="flex items-center space-x-3 mb-2">
                   <AlertCircleIcon className="w-5 h-5 text-yellow-600 flex-shrink-0" />
                   <p className="text-yellow-800 font-medium">部分RSS源加载失败</p>
@@ -560,12 +682,12 @@ export default function RSSPage() {
                 <p className="text-yellow-700 text-sm mb-2">以下RSS源暂时无法访问：</p>
                 <div className="flex flex-wrap gap-2">
                   {failedFeeds.slice(0, 5).map((feed, index) => (
-                    <span key={index} className="px-2 py-1 bg-yellow-100 text-yellow-800 text-xs rounded-full">
+                    <span key={index} className="px-3 py-1 bg-yellow-100 text-yellow-800 text-xs rounded-full">
                       {feed}
                     </span>
                   ))}
                   {failedFeeds.length > 5 && (
-                    <span className="px-2 py-1 bg-yellow-100 text-yellow-800 text-xs rounded-full">
+                    <span className="px-3 py-1 bg-yellow-100 text-yellow-800 text-xs rounded-full">
                       +{failedFeeds.length - 5} 更多
                     </span>
                   )}
@@ -587,21 +709,27 @@ export default function RSSPage() {
                 </div>
 
                 {loadingFeeds.size > 0 && (
-                  <div className="border-t pt-4">
+                  <div className="border-t border-gray-200 pt-4">
                     <p className="text-sm text-gray-500 mb-3">正在动态加载RSS源：</p>
                     <div className="flex flex-wrap gap-2">
                       {Array.from(loadingFeeds).map((feedName, index) => (
-                        <div key={index} className="flex items-center space-x-2 px-3 py-1 bg-blue-50 text-blue-700 rounded-full text-sm">
+                        <div key={index} className="flex items-center space-x-2 px-3 py-1 bg-blue-50 text-blue-700 rounded-full text-sm shadow-sm">
                           <div className="animate-spin rounded-full h-3 w-3 border-b border-blue-500"></div>
                           <span>{feedName}</span>
                         </div>
                       ))}
                     </div>
-                    <p className="text-xs text-gray-400 mt-2">
+                    <p className="text-xs text-gray-400 mt-3">
                       内容将实时显示，无需等待所有加载完成。新内容会追加到列表末尾，不影响已有内容的查看。
                     </p>
                   </div>
                 )}
+              </div>
+            ) : selectedCategory === null ? (
+              <div className="bg-white rounded-xl shadow-lg p-12 text-center">
+                <FolderIcon className="w-16 h-16 text-gray-400 mx-auto mb-4" />
+                <h3 className="text-lg font-semibold text-gray-900 mb-2">请选择一个分类</h3>
+                <p className="text-gray-600 mb-6">从左侧分类列表中选择一个分类以查看RSS内容</p>
               </div>
             ) : (
               <div className="space-y-6">
@@ -612,7 +740,7 @@ export default function RSSPage() {
                     <p className="text-gray-600 mb-6">该分类下暂无内容或加载失败</p>
                     <button
                       onClick={handleRefresh}
-                      className="bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 text-white px-6 py-3 rounded-lg transition-all duration-200 transform hover:scale-105"
+                      className="bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 text-white px-6 py-3 rounded-lg transition-all duration-200 transform hover:scale-105 shadow-md"
                     >
                       重新加载
                     </button>
@@ -628,14 +756,14 @@ export default function RSSPage() {
                         {/* 来源标题栏 - 吸顶 */}
                         <div
                           id={sourceHeaderId}
-                          className="px-6 py-4 cursor-pointer hover:bg-opacity-90 transition-all duration-200 sticky top-16 z-20 bg-white/90 backdrop-blur border-b border-gray-100"
+                          className="px-6 py-4 cursor-pointer hover:bg-opacity-90 transition-all duration-200 sticky top-16 z-20 bg-white/90 backdrop-blur border-b border-gray-100 shadow-sm"
                           style={{ backgroundColor: categoryColor + '10' }}
                           onClick={() => toggleSourceWithScroll(sourceName, idx, arr)}
                         >
                           <div className="flex items-center justify-between">
                             <div className="flex items-center space-x-3">
                               <div
-                                className="w-10 h-10 rounded-lg flex items-center justify-center text-white font-bold"
+                                className="w-10 h-10 rounded-lg flex items-center justify-center text-white font-bold shadow-sm"
                                 style={{ backgroundColor: categoryColor }}
                               >
                                 {sourceName.charAt(0).toUpperCase()}
@@ -647,7 +775,7 @@ export default function RSSPage() {
                             </div>
                             <div className="flex items-center space-x-2">
                               <span
-                                className="px-3 py-1 rounded-full text-xs font-medium text-white"
+                                className="px-3 py-1 rounded-full text-xs font-medium text-white shadow-sm"
                                 style={{ backgroundColor: categoryColor }}
                               >
                                 {sourceFeeds[0]?.category.name}
@@ -667,11 +795,11 @@ export default function RSSPage() {
                               <div
                                 key={feed.id}
                                 id={`rss-feed-item-${feed.id}`}
-                                className="p-6 hover:bg-gray-50 transition-colors duration-200"
+                                className="p-6 hover:bg-gray-50 transition-colors duration-200 border-b border-gray-100 last:border-b-0"
                               >
                                 <div className="flex items-start space-x-4">
                                   <div
-                                    className="w-2 h-16 rounded-full flex-shrink-0"
+                                    className="w-1 h-16 rounded-full flex-shrink-0 mt-1"
                                     style={{ backgroundColor: categoryColor }}
                                   />
                                   <div className="flex-1 min-w-0">
@@ -720,3 +848,4 @@ export default function RSSPage() {
     </div>
   );
 }
+
