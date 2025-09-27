@@ -400,206 +400,6 @@
     "author": null
   },
   {
-    "id": 629050,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "grafana/loki",
-    "link": "https://github.com/grafana/loki",
-    "pub_date": "2025-09-27 14:18:03",
-    "author": null
-  },
-  {
-    "id": 629081,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "go-git/go-git",
-    "link": "https://github.com/go-git/go-git",
-    "pub_date": "2025-09-27 14:18:03",
-    "author": null
-  },
-  {
-    "id": 626054,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "shadow1ng/fscan",
-    "link": "https://github.com/shadow1ng/fscan",
-    "pub_date": "2025-09-26 14:20:42",
-    "author": null
-  },
-  {
-    "id": 626068,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "krillinai/KrillinAI",
-    "link": "https://github.com/krillinai/KrillinAI",
-    "pub_date": "2025-09-26 14:20:42",
-    "author": null
-  },
-  {
-    "id": 626136,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "gtsteffaniak/filebrowser",
-    "link": "https://github.com/gtsteffaniak/filebrowser",
-    "pub_date": "2025-09-26 14:20:42",
-    "author": null
-  },
-  {
-    "id": 626150,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "muesli/duf",
-    "link": "https://github.com/muesli/duf",
-    "pub_date": "2025-09-26 14:20:42",
-    "author": null
-  },
-  {
-    "id": 622968,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "netbirdio/netbird",
-    "link": "https://github.com/netbirdio/netbird",
-    "pub_date": "2025-09-25 14:21:51",
-    "author": null
-  },
-  {
-    "id": 623007,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "kgateway-dev/kgateway",
-    "link": "https://github.com/kgateway-dev/kgateway",
-    "pub_date": "2025-09-25 14:21:51",
-    "author": null
-  },
-  {
-    "id": 623104,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "bytebase/bytebase",
-    "link": "https://github.com/bytebase/bytebase",
-    "pub_date": "2025-09-25 14:21:51",
-    "author": null
-  },
-  {
-    "id": 620131,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "kubernetes/kubernetes",
-    "link": "https://github.com/kubernetes/kubernetes",
-    "pub_date": "2025-09-24 14:21:03",
-    "author": null
-  },
-  {
-    "id": 620210,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "quic-go/quic-go",
-    "link": "https://github.com/quic-go/quic-go",
-    "pub_date": "2025-09-24 14:21:03",
-    "author": null
-  },
-  {
-    "id": 617103,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "ava-labs/avalanchego",
-    "link": "https://github.com/ava-labs/avalanchego",
-    "pub_date": "2025-09-23 14:21:21",
-    "author": null
-  },
-  {
-    "id": 617112,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "NexaAI/nexa-sdk",
-    "link": "https://github.com/NexaAI/nexa-sdk",
-    "pub_date": "2025-09-23 14:21:21",
-    "author": null
-  },
-  {
-    "id": 617120,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "uber-go/mock",
-    "link": "https://github.com/uber-go/mock",
-    "pub_date": "2025-09-23 14:21:21",
-    "author": null
-  },
-  {
-    "id": 617174,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "istio/istio",
-    "link": "https://github.com/istio/istio",
-    "pub_date": "2025-09-23 14:21:21",
-    "author": null
-  },
-  {
-    "id": 612762,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "docker/mcp-registry",
-    "link": "https://github.com/docker/mcp-registry",
-    "pub_date": "2025-09-22 14:43:37",
-    "author": null
-  },
-  {
-    "id": 612772,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "TwiN/gatus",
-    "link": "https://github.com/TwiN/gatus",
-    "pub_date": "2025-09-22 14:43:37",
-    "author": null
-  },
-  {
-    "id": 612778,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "go-task/task",
-    "link": "https://github.com/go-task/task",
-    "pub_date": "2025-09-22 14:43:37",
-    "author": null
-  },
-  {
-    "id": 612788,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "tailscale/tailscale",
-    "link": "https://github.com/tailscale/tailscale",
-    "pub_date": "2025-09-22 14:43:37",
-    "author": null
-  },
-  {
-    "id": 612793,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "containers/skopeo",
-    "link": "https://github.com/containers/skopeo",
-    "pub_date": "2025-09-22 14:43:37",
-    "author": null
-  },
-  {
     "id": 628999,
     "feed_name": "github python",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
@@ -1217,6 +1017,206 @@
     "title": "HelloGitHub 第 112 期",
     "link": "https://hellogithub.com/periodical/volume/112",
     "pub_date": "2025-07-28 08:05:17",
+    "author": null
+  },
+  {
+    "id": 629050,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "grafana/loki",
+    "link": "https://github.com/grafana/loki",
+    "pub_date": "2025-09-27 14:18:03",
+    "author": null
+  },
+  {
+    "id": 629081,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "go-git/go-git",
+    "link": "https://github.com/go-git/go-git",
+    "pub_date": "2025-09-27 14:18:03",
+    "author": null
+  },
+  {
+    "id": 626054,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "shadow1ng/fscan",
+    "link": "https://github.com/shadow1ng/fscan",
+    "pub_date": "2025-09-26 14:20:42",
+    "author": null
+  },
+  {
+    "id": 626068,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "krillinai/KrillinAI",
+    "link": "https://github.com/krillinai/KrillinAI",
+    "pub_date": "2025-09-26 14:20:42",
+    "author": null
+  },
+  {
+    "id": 626136,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "gtsteffaniak/filebrowser",
+    "link": "https://github.com/gtsteffaniak/filebrowser",
+    "pub_date": "2025-09-26 14:20:42",
+    "author": null
+  },
+  {
+    "id": 626150,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "muesli/duf",
+    "link": "https://github.com/muesli/duf",
+    "pub_date": "2025-09-26 14:20:42",
+    "author": null
+  },
+  {
+    "id": 622968,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "netbirdio/netbird",
+    "link": "https://github.com/netbirdio/netbird",
+    "pub_date": "2025-09-25 14:21:51",
+    "author": null
+  },
+  {
+    "id": 623007,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "kgateway-dev/kgateway",
+    "link": "https://github.com/kgateway-dev/kgateway",
+    "pub_date": "2025-09-25 14:21:51",
+    "author": null
+  },
+  {
+    "id": 623104,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "bytebase/bytebase",
+    "link": "https://github.com/bytebase/bytebase",
+    "pub_date": "2025-09-25 14:21:51",
+    "author": null
+  },
+  {
+    "id": 620131,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "kubernetes/kubernetes",
+    "link": "https://github.com/kubernetes/kubernetes",
+    "pub_date": "2025-09-24 14:21:03",
+    "author": null
+  },
+  {
+    "id": 620210,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "quic-go/quic-go",
+    "link": "https://github.com/quic-go/quic-go",
+    "pub_date": "2025-09-24 14:21:03",
+    "author": null
+  },
+  {
+    "id": 617103,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "ava-labs/avalanchego",
+    "link": "https://github.com/ava-labs/avalanchego",
+    "pub_date": "2025-09-23 14:21:21",
+    "author": null
+  },
+  {
+    "id": 617112,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "NexaAI/nexa-sdk",
+    "link": "https://github.com/NexaAI/nexa-sdk",
+    "pub_date": "2025-09-23 14:21:21",
+    "author": null
+  },
+  {
+    "id": 617120,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "uber-go/mock",
+    "link": "https://github.com/uber-go/mock",
+    "pub_date": "2025-09-23 14:21:21",
+    "author": null
+  },
+  {
+    "id": 617174,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "istio/istio",
+    "link": "https://github.com/istio/istio",
+    "pub_date": "2025-09-23 14:21:21",
+    "author": null
+  },
+  {
+    "id": 612762,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "docker/mcp-registry",
+    "link": "https://github.com/docker/mcp-registry",
+    "pub_date": "2025-09-22 14:43:37",
+    "author": null
+  },
+  {
+    "id": 612772,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "TwiN/gatus",
+    "link": "https://github.com/TwiN/gatus",
+    "pub_date": "2025-09-22 14:43:37",
+    "author": null
+  },
+  {
+    "id": 612778,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "go-task/task",
+    "link": "https://github.com/go-task/task",
+    "pub_date": "2025-09-22 14:43:37",
+    "author": null
+  },
+  {
+    "id": 612788,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "tailscale/tailscale",
+    "link": "https://github.com/tailscale/tailscale",
+    "pub_date": "2025-09-22 14:43:37",
+    "author": null
+  },
+  {
+    "id": 612793,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "containers/skopeo",
+    "link": "https://github.com/containers/skopeo",
+    "pub_date": "2025-09-22 14:43:37",
     "author": null
   }
 ]
