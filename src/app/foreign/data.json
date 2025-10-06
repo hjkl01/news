@@ -1,5 +1,35 @@
 [
   {
+    "id": 655301,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "珠峰東側暴雪西藏境內千人受困，救援正進行已有數百人獲救",
+    "link": "https://www.bbc.com/zhongwen/articles/cy4jzg2ld7ko/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-10-06 11:48:10",
+    "author": null
+  },
+  {
+    "id": 655307,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "澳洲成為全球鯊魚攻擊最致命地區，為何防鯊網爭議再起",
+    "link": "https://www.bbc.com/zhongwen/articles/clydj5k8lmxo/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-10-06 08:27:17",
+    "author": null
+  },
+  {
+    "id": 655313,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "AI與人類：那些轉向人工智慧尋求約會和情感建議的人",
+    "link": "https://www.bbc.com/zhongwen/articles/c7v1y17p807o/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-10-06 08:27:05",
+    "author": null
+  },
+  {
     "id": 653858,
     "feed_name": "BBC 中文版",
     "feed_url": "https://plink.anyfeeder.com/bbc/cn",
@@ -167,36 +197,6 @@
     "title": "無人機、手語與「看起來像個美國人」：移民如何巧妙地躲避特朗普的打擊行動",
     "link": "https://www.bbc.com/zhongwen/articles/cj07pgqgdz1o/trad?at_medium=RSS&at_campaign=rss",
     "pub_date": "2025-10-02 14:24:46",
-    "author": null
-  },
-  {
-    "id": 643598,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "珍·古德爾博士永載史冊，黑猩猩研究權威被譽為「地球的真正英雄」",
-    "link": "https://www.bbc.com/zhongwen/articles/cjedp890yn9o/trad?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2025-10-02 14:11:02",
-    "author": null
-  },
-  {
-    "id": 643604,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "你應該使用哪種食用油？三個需要避免的常見錯誤",
-    "link": "https://www.bbc.com/zhongwen/articles/cy502vpwqndo/trad?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2025-10-02 11:43:54",
-    "author": null
-  },
-  {
-    "id": 643610,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "膠原蛋白：喝的？注射的？還是塗在皮膚上？真的有效嗎？",
-    "link": "https://www.bbc.com/zhongwen/articles/ce9rmj5mrd7o/trad?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2025-10-02 08:17:51",
     "author": null
   },
   {
@@ -400,6 +400,16 @@
     "author": null
   },
   {
+    "id": 655070,
+    "feed_name": "ABC 澳大利亚广播公司",
+    "feed_url": "https://plink.anyfeeder.com/abc/cn",
+    "category": "国外",
+    "title": "西藏珠峰突降暴雪数百游客被困终获救 北坡情况不明",
+    "link": "https://newsapp.abc.net.au/newsapp/chinese/2025-10-06/mount-everest-rescue-hundreds-of-trekkers-escape-snowstorm/105856052",
+    "pub_date": "2025-10-06 08:19:03",
+    "author": null
+  },
+  {
     "id": 646341,
     "feed_name": "ABC 澳大利亚广播公司",
     "feed_url": "https://plink.anyfeeder.com/abc/cn",
@@ -590,13 +600,33 @@
     "author": null
   },
   {
-    "id": 612571,
-    "feed_name": "ABC 澳大利亚广播公司",
-    "feed_url": "https://plink.anyfeeder.com/abc/cn",
+    "id": 654967,
+    "feed_name": "RFI 法国国际广播电台",
+    "feed_url": "https://plink.anyfeeder.com/rfi/cn",
     "category": "国外",
-    "title": "头条：澳大利亚正式承认巴勒斯坦为主权国家",
-    "link": "https://newsapp.abc.net.au/newsapp/chinese/2025-09-22/daily-news-brief-09-22/105801204",
-    "pub_date": "2025-09-22 13:19:02",
+    "title": "北京消费断崖式下滑 人民日报喊话不要因感受不好就否定经济形势",
+    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251005-%E5%8C%97%E4%BA%AC%E6%B6%88%E8%B4%B9%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E6%BB%91-%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E5%96%8A%E8%AF%9D%E4%B8%8D%E8%A6%81%E5%9B%A0%E6%84%9F%E5%8F%97%E4%B8%8D%E5%A5%BD%E5%B0%B1%E5%90%A6%E5%AE%9A%E7%BB%8F%E6%B5%8E%E5%BD%A2%E5%8A%BF",
+    "pub_date": "2025-10-06 07:15:02",
+    "author": null
+  },
+  {
+    "id": 654969,
+    "feed_name": "RFI 法国国际广播电台",
+    "feed_url": "https://plink.anyfeeder.com/rfi/cn",
+    "category": "国外",
+    "title": "法国新政府旧面孔  能挺多久未知数",
+    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251005-%E6%B3%95%E5%9B%BD%E6%96%B0%E6%94%BF%E5%BA%9C%E6%97%A7%E9%9D%A2%E5%AD%94-%E8%83%BD%E6%8C%BA%E5%A4%9A%E4%B9%85%E6%9C%AA%E7%9F%A5%E6%95%B0",
+    "pub_date": "2025-10-06 06:45:02",
+    "author": null
+  },
+  {
+    "id": 654971,
+    "feed_name": "RFI 法国国际广播电台",
+    "feed_url": "https://plink.anyfeeder.com/rfi/cn",
+    "category": "国外",
+    "title": "芝加哥国民警卫队部署加剧冲突 波特兰军事计划遭暂停",
+    "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20251005-%E8%8A%9D%E5%8A%A0%E5%93%A5%E5%9B%BD%E6%B0%91%E8%AD%A6%E5%8D%AB%E9%98%9F%E9%83%A8%E7%BD%B2%E5%8A%A0%E5%89%A7%E5%86%B2%E7%AA%81-%E6%B3%A2%E7%89%B9%E5%85%B0%E5%86%9B%E4%BA%8B%E8%AE%A1%E5%88%92%E9%81%AD%E6%9A%82%E5%81%9C",
+    "pub_date": "2025-10-06 06:15:02",
     "author": null
   },
   {
@@ -767,36 +797,6 @@
     "title": "高市早苗当选自民党总裁  美中韩舆论纷纷表示担忧",
     "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251005-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BD%93%E9%80%89%E8%87%AA%E6%B0%91%E5%85%9A%E6%80%BB%E8%A3%81-%E7%BE%8E%E4%B8%AD%E9%9F%A9%E8%88%86%E8%AE%BA%E7%BA%B7%E7%BA%B7%E8%A1%A8%E7%A4%BA%E6%8B%85%E5%BF%A7",
     "pub_date": "2025-10-05 17:15:01",
-    "author": null
-  },
-  {
-    "id": 650690,
-    "feed_name": "RFI 法国国际广播电台",
-    "feed_url": "https://plink.anyfeeder.com/rfi/cn",
-    "category": "国外",
-    "title": "“女版安倍”  中国戒备？",
-    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251004-%E5%A5%B3%E7%89%88%E5%AE%89%E5%80%8D-%E4%B8%AD%E5%9B%BD%E6%88%92%E5%A4%87",
-    "pub_date": "2025-10-05 06:15:02",
-    "author": null
-  },
-  {
-    "id": 650695,
-    "feed_name": "RFI 法国国际广播电台",
-    "feed_url": "https://plink.anyfeeder.com/rfi/cn",
-    "category": "国外",
-    "title": "中国的新开放：北京外交官在柏林参与公开辩论",
-    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251004-%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%96%B0%E5%BC%80%E6%94%BE-%E5%8C%97%E4%BA%AC%E5%A4%96%E4%BA%A4%E5%AE%98%E5%9C%A8%E6%9F%8F%E6%9E%97%E5%8F%82%E4%B8%8E%E5%85%AC%E5%BC%80%E8%BE%A9%E8%AE%BA",
-    "pub_date": "2025-10-05 05:45:03",
-    "author": null
-  },
-  {
-    "id": 650700,
-    "feed_name": "RFI 法国国际广播电台",
-    "feed_url": "https://plink.anyfeeder.com/rfi/cn",
-    "category": "国外",
-    "title": "以哈周日起在开罗间接谈判 特朗普女婿和特使前往敲定人质释放细节",
-    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20251004-%E4%BB%A5%E5%93%88%E5%91%A8%E6%97%A5%E8%B5%B7%E5%9C%A8%E5%BC%80%E7%BD%97%E9%97%B4%E6%8E%A5%E8%B0%88%E5%88%A4-%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%A9%BF%E5%92%8C%E7%89%B9%E4%BD%BF%E5%89%8D%E5%BE%80%E6%95%B2%E5%AE%9A%E4%BA%BA%E8%B4%A8%E9%87%8A%E6%94%BE%E7%BB%86%E8%8A%82",
-    "pub_date": "2025-10-05 05:45:03",
     "author": null
   }
 ]
