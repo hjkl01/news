@@ -1,5 +1,15 @@
 [
   {
+    "id": 658932,
+    "feed_name": "豆瓣最受欢迎的影评",
+    "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
+    "category": "娱乐",
+    "title": "7.2分\n《怪奇收割》\n——收割还会继续 (评论: 怪奇收割)",
+    "link": "https://movie.douban.com/review/17126934/",
+    "pub_date": "2025-10-07 09:25:32",
+    "author": null
+  },
+  {
     "id": 657495,
     "feed_name": "豆瓣最受欢迎的影评",
     "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
@@ -187,16 +197,6 @@
     "title": "革命未竟与保守回潮的时代割裂 (评论: 一战再战)",
     "link": "https://movie.douban.com/review/17103203/",
     "pub_date": "2025-09-29 22:19:56",
-    "author": null
-  },
-  {
-    "id": 638605,
-    "feed_name": "豆瓣最受欢迎的影评",
-    "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
-    "category": "娱乐",
-    "title": "Pipa的遗嘱 (评论: 接近终点)",
-    "link": "https://movie.douban.com/review/17103062/",
-    "pub_date": "2025-09-29 21:17:34",
     "author": null
   },
   {
@@ -400,6 +400,26 @@
     "author": null
   },
   {
+    "id": 659079,
+    "feed_name": "简书 / 首页",
+    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
+    "category": "娱乐",
+    "title": "《秘密花园》第一章总结",
+    "link": "https://www.jianshu.com/p/6953e4b11bb5",
+    "pub_date": "2025-10-07 13:28:00",
+    "author": "阳春白鹅"
+  },
+  {
+    "id": 659081,
+    "feed_name": "简书 / 首页",
+    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
+    "category": "娱乐",
+    "title": "创业or打工",
+    "link": "https://www.jianshu.com/p/b533757e99f4",
+    "pub_date": "2025-10-07 13:28:00",
+    "author": "贾竞媛"
+  },
+  {
     "id": 657392,
     "feed_name": "简书 / 首页",
     "feed_url": "https://plink.anyfeeder.com/jianshu/home",
@@ -578,26 +598,6 @@
     "link": "https://www.jianshu.com/p/8c08ee3a9c04",
     "pub_date": "2025-10-04 13:17:46",
     "author": "贯华"
-  },
-  {
-    "id": 650150,
-    "feed_name": "简书 / 首页",
-    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
-    "category": "娱乐",
-    "title": "锁链",
-    "link": "https://www.jianshu.com/p/b0818ff33b31",
-    "pub_date": "2025-10-04 13:17:46",
-    "author": "苍天万道"
-  },
-  {
-    "id": 648892,
-    "feed_name": "简书 / 首页",
-    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
-    "category": "娱乐",
-    "title": "10+生信，基于 Ro/e 发现不同治疗反应患者 CD8Teff 细胞比例差异。细胞丰度分析识别关键细胞目前在高分文章中很常见！",
-    "link": "https://www.jianshu.com/p/f7ec427084bf",
-    "pub_date": "2025-10-04 06:31:10",
-    "author": "生信小课堂"
   },
   {
     "id": 657491,
