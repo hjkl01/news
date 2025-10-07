@@ -12,7 +12,6 @@ const CONFIG = {
     ['国外', '/foreign'],
     ['科技', '/tech'],
     ['技术', '/code'],
-    ['生活', '/live'],
     ['资讯', '/info'],
     ['论坛', '/forum'],
     ['娱乐', '/funny'],
