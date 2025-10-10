@@ -1,5 +1,25 @@
 [
   {
+    "id": 666637,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "以色列批准加沙停火协议",
+    "link": "https://cn.nytimes.com/world/20251010/heres-the-latest/dual",
+    "pub_date": "2025-10-10 12:06:03",
+    "author": null
+  },
+  {
+    "id": 666640,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "美国解雇一名外交官，称其隐瞒与中共官员之女恋爱关系",
+    "link": "https://cn.nytimes.com/usa/20251010/us-diplomat-fired-relationship-china/dual",
+    "pub_date": "2025-10-10 09:36:02",
+    "author": null
+  },
+  {
     "id": 665390,
     "feed_name": "纽约时报双语版",
     "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
@@ -180,23 +200,33 @@
     "author": null
   },
   {
-    "id": 622848,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "id": 667059,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
     "category": "国外",
-    "title": "中共跨国施压：缅甸策展人因“得罪中国”逃离泰国",
-    "link": "https://cn.nytimes.com/world/20250925/bangkok-museum-censorship-china/dual",
-    "pub_date": "2025-09-25 12:36:01",
+    "title": "台灣雙十慶典視像直播",
+    "link": "https://www.bbc.com/zhongwen/articles/cd9y183vywyo/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-10-10 10:07:53",
     "author": null
   },
   {
-    "id": 622851,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "id": 667065,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
     "category": "国外",
-    "title": "现场直击：“桦加沙”过境，被淹没的台湾光复乡",
-    "link": "https://cn.nytimes.com/asia-pacific/20250925/typhoon-ragasa-guangfu-taiwan-photos/dual",
-    "pub_date": "2025-09-25 10:36:03",
+    "title": "根據「瘦瘦針」製訂的食譜真能減肥嗎？",
+    "link": "https://www.bbc.com/zhongwen/articles/cwywzegrp2go/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-10-10 08:15:23",
+    "author": null
+  },
+  {
+    "id": 667071,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "素食漢堡沒了？歐洲議會通過議案禁植物性食品使用肉類名稱",
+    "link": "https://www.bbc.com/zhongwen/articles/c740pe448p1o/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-10-10 08:14:47",
     "author": null
   },
   {
@@ -370,33 +400,13 @@
     "author": null
   },
   {
-    "id": 659688,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "id": 666656,
+    "feed_name": "ABC 澳大利亚广播公司",
+    "feed_url": "https://plink.anyfeeder.com/abc/cn",
     "category": "国外",
-    "title": "英國破獲手機走私團伙 涉運4萬部被盜手機至中國",
-    "link": "https://www.bbc.com/zhongwen/articles/cddmvvl0m71o/trad?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2025-10-07 17:47:43",
-    "author": null
-  },
-  {
-    "id": 659693,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "美國政府停擺：此次有何不同？",
-    "link": "https://www.bbc.com/zhongwen/articles/c2ej0ld3zjlo/trad?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2025-10-07 15:36:17",
-    "author": null
-  },
-  {
-    "id": 659698,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "一部iPhone神助攻 倫敦警方端掉向中國走私4萬部被盜手機的團夥",
-    "link": "https://www.bbc.com/zhongwen/articles/c4g7vjw1dpjo/trad?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2025-10-07 15:21:24",
+    "title": "中国扩大稀土出口限制 新增五种元素 加工技术入列",
+    "link": "https://newsapp.abc.net.au/newsapp/chinese/2025-10-10/daily-news-brief/105876046",
+    "pub_date": "2025-10-10 07:49:02",
     "author": null
   },
   {
@@ -590,13 +600,13 @@
     "author": null
   },
   {
-    "id": 621361,
-    "feed_name": "ABC 澳大利亚广播公司",
-    "feed_url": "https://plink.anyfeeder.com/abc/cn",
+    "id": 666607,
+    "feed_name": "RFI 法国国际广播电台",
+    "feed_url": "https://plink.anyfeeder.com/rfi/cn",
     "category": "国外",
-    "title": "最新研究披露朝鲜官方参与秘密野生动物交易",
-    "link": "https://newsapp.abc.net.au/newsapp/chinese/2025-09-24/north-koreas-hidden-wildlife-trade/105808034",
-    "pub_date": "2025-09-24 13:49:02",
+    "title": "以国家安全为由，中国再加强对稀土及其技术的出口管制",
+    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251010-%E4%BB%A5%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E4%B8%BA%E7%94%B1%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%86%8D%E5%8A%A0%E5%BC%BA%E5%AF%B9%E7%A8%80%E5%9C%9F%E5%8F%8A%E5%85%B6%E6%8A%80%E6%9C%AF%E7%9A%84%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6",
+    "pub_date": "2025-10-10 08:15:02",
     "author": null
   },
   {
@@ -786,16 +796,6 @@
     "category": "国外",
     "title": "夏海俊涉参与“香港议会”被通缉 国安处带走其兄长助查",
     "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20251009-%E5%A4%8F%E6%B5%B7%E4%BF%8A%E6%B6%89%E5%8F%82%E4%B8%8E-%E9%A6%99%E6%B8%AF%E8%AE%AE%E4%BC%9A-%E8%A2%AB%E9%80%9A%E7%BC%89-%E5%9B%BD%E5%AE%89%E5%A4%84%E5%B8%A6%E8%B5%B0%E5%85%B6%E5%85%84%E9%95%BF%E5%8A%A9%E6%9F%A5",
-    "pub_date": "2025-10-09 17:15:02",
-    "author": null
-  },
-  {
-    "id": 665247,
-    "feed_name": "RFI 法国国际广播电台",
-    "feed_url": "https://plink.anyfeeder.com/rfi/cn",
-    "category": "国外",
-    "title": "日本30多名国会议员赴台庆“双十节”  或携带高市早苗给赖清德亲笔信",
-    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251009-%E6%97%A5%E6%9C%AC30%E5%A4%9A%E5%90%8D%E5%9B%BD%E4%BC%9A%E8%AE%AE%E5%91%98%E8%B5%B4%E5%8F%B0%E5%BA%86-%E5%8F%8C%E5%8D%81%E8%8A%82-%E6%88%96%E6%90%BA%E5%B8%A6%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%BB%99%E8%B5%96%E6%B8%85%E5%BE%B7%E4%BA%B2%E7%AC%94%E4%BF%A1",
     "pub_date": "2025-10-09 17:15:02",
     "author": null
   }
