@@ -50,6 +50,56 @@
     "author": null
   },
   {
+    "id": 2713,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "苹果官网出现错别字：官方紧急修正",
+    "link": "https://news.mydrivers.com/1/1079/1079529.htm",
+    "pub_date": "2025-10-12 00:19:02",
+    "author": null
+  },
+  {
+    "id": 2714,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "无缓HMB的固态硬盘能买吗：看完秒懂",
+    "link": "https://news.mydrivers.com/1/1079/1079528.htm",
+    "pub_date": "2025-10-12 00:03:06",
+    "author": null
+  },
+  {
+    "id": 2715,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "再等一天！下周起南北方气温都有大变化",
+    "link": "https://news.mydrivers.com/1/1079/1079527.htm",
+    "pub_date": "2025-10-11 23:59:34",
+    "author": null
+  },
+  {
+    "id": 2716,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "12306回应乘客坐高铁自备椅凳：可携带符合条件的座椅",
+    "link": "https://news.mydrivers.com/1/1079/1079526.htm",
+    "pub_date": "2025-10-11 23:52:41",
+    "author": null
+  },
+  {
+    "id": 2717,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "山航空姐全面换穿平底鞋：可自由选择裙装或裤装",
+    "link": "https://news.mydrivers.com/1/1079/1079525.htm",
+    "pub_date": "2025-10-11 23:31:44",
+    "author": null
+  },
+  {
     "id": 811,
     "feed_name": "快科技",
     "feed_url": "https://plink.anyfeeder.com/mydrivers",
@@ -97,6 +147,516 @@
     "title": "滴滴自动驾驶获20亿元D轮融资 将用于加速L4落地与AI研发",
     "link": "https://news.mydrivers.com/1/1079/1079461.htm",
     "pub_date": "2025-10-11 15:23:18",
+    "author": null
+  },
+  {
+    "id": 2323,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "vivo“看得见信得过有记忆”的安全：在AI时代重建数字信任",
+    "link": "https://www.freebuf.com/articles/452238.html",
+    "pub_date": "2025-10-11 16:12:43",
+    "author": null
+  },
+  {
+    "id": 2326,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "赠书福利 | 《内网攻防实战图谱：从红队视角构建安全对抗体系》免费送",
+    "link": "https://www.freebuf.com/articles/452210.html",
+    "pub_date": "2025-10-11 11:24:07",
+    "author": null
+  },
+  {
+    "id": 815,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "CVE-2024-49093（ReFS漏洞分析）",
+    "link": "https://www.freebuf.com/articles/web/452207.html",
+    "pub_date": "2025-10-11 11:15:28",
+    "author": null
+  },
+  {
+    "id": 2332,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "超10万个IP地址针对远程桌面协议服务发起大规模攻击",
+    "link": "https://www.freebuf.com/articles/network/452247.html",
+    "pub_date": "2025-10-11 09:06:25",
+    "author": null
+  },
+  {
+    "id": 2336,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "Kali 新工具 llm-tools-nmap 为网络扫描注入 AI 动能",
+    "link": "https://www.freebuf.com/articles/452236.html",
+    "pub_date": "2025-10-11 06:49:30",
+    "author": null
+  },
+  {
+    "id": 817,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "log4j2（CVE-2021-44228）漏洞复现与分析",
+    "link": "https://www.freebuf.com/articles/web/452167.html",
+    "pub_date": "2025-10-11 00:04:25",
+    "author": null
+  },
+  {
+    "id": 819,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "苹果将RCE漏洞赏金提高至200万美元以应对商业间谍软件威胁",
+    "link": "https://www.freebuf.com/articles/452174.html",
+    "pub_date": "2025-10-10 19:27:08",
+    "author": null
+  },
+  {
+    "id": 821,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "FreeBuf早报 | Linux内核TLS组件漏洞可致远程代码执行；多态Python恶意软件可改变自身特征",
+    "link": "https://www.freebuf.com/news/452087.html",
+    "pub_date": "2025-10-10 17:00:10",
+    "author": null
+  },
+  {
+    "id": 822,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "2026年AI驱动的SOC技术栈：顶级平台的核心差异",
+    "link": "https://www.freebuf.com/articles/ai-security/452147.html",
+    "pub_date": "2025-10-10 16:30:00",
+    "author": null
+  },
+  {
+    "id": 823,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "ReadLine 窃密病毒变种分析",
+    "link": "https://www.freebuf.com/articles/others-articles/452065.html",
+    "pub_date": "2025-10-10 14:56:04",
+    "author": null
+  },
+  {
+    "id": 824,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "企业级WAF绕过技术深度研究",
+    "link": "https://www.freebuf.com/articles/web/452137.html",
+    "pub_date": "2025-10-10 13:17:43",
+    "author": null
+  },
+  {
+    "id": 825,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "RondoDox僵尸网络利用50余个漏洞攻击路由器、监控系统及网络服务器",
+    "link": "https://www.freebuf.com/articles/452154.html",
+    "pub_date": "2025-10-10 13:16:37",
+    "author": null
+  },
+  {
+    "id": 826,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "GitHub Copilot高危漏洞可导致攻击者窃取私有仓库源代码",
+    "link": "https://www.freebuf.com/articles/database/452148.html",
+    "pub_date": "2025-10-10 11:18:20",
+    "author": null
+  },
+  {
+    "id": 827,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "大模型安全实践（白皮书下载）",
+    "link": "https://www.freebuf.com/articles/452114.html",
+    "pub_date": "2025-10-10 10:52:56",
+    "author": null
+  },
+  {
+    "id": 828,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "实战中Java反序列化漏洞黑盒挖掘思路",
+    "link": "https://www.freebuf.com/articles/web/452132.html",
+    "pub_date": "2025-10-10 10:36:49",
+    "author": null
+  },
+  {
+    "id": 829,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "战时想定下台湾关键基础设施的脆弱性与防护韧性研究",
+    "link": "https://www.freebuf.com/articles/452113.html",
+    "pub_date": "2025-10-10 10:24:38",
+    "author": null
+  },
+  {
+    "id": 831,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "2025北外滩网络安全论坛 | 上海人工智能实验室王迎春：走向人工智能安全评估新阶段",
+    "link": "https://www.freebuf.com/articles/452133.html",
+    "pub_date": "2025-10-10 09:20:00",
+    "author": null
+  },
+  {
+    "id": 834,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "利用GPT-4生成勒索软件代码的LLM驱动型恶意软件MalTerminal现世",
+    "link": "https://www.freebuf.com/articles/ai-security/452085.html",
+    "pub_date": "2025-10-10 08:33:52",
+    "author": null
+  },
+  {
+    "id": 835,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "Linux内核TLS组件UAF漏洞：攻击者可利用异步解密实现本地远程代码执行（PoC已公开）",
+    "link": "https://www.freebuf.com/articles/network/452056.html",
+    "pub_date": "2025-10-10 04:30:22",
+    "author": null
+  },
+  {
+    "id": 837,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "NVIDIA GPU驱动修复多个高危漏洞，存在远程代码执行和权限提升风险",
+    "link": "https://www.freebuf.com/articles/system/452039.html",
+    "pub_date": "2025-10-10 02:34:48",
+    "author": null
+  },
+  {
+    "id": 2370,
+    "feed_name": "果壳网 / 科学人",
+    "feed_url": "https://plink.anyfeeder.com/guokr/scientific",
+    "category": "科技",
+    "title": "这些人的出片很美，但抢救无效，去世",
+    "link": "https://www.guokr.com/article/467660/",
+    "pub_date": "2025-10-11 21:00:34",
+    "author": "果壳"
+  },
+  {
+    "id": 830,
+    "feed_name": "果壳网 / 科学人",
+    "feed_url": "https://plink.anyfeeder.com/guokr/scientific",
+    "category": "科技",
+    "title": "特朗普160%关税白费劲？对华“脱钩”不成，还砸了特斯拉的“锅”",
+    "link": "https://www.guokr.com/article/467654/",
+    "pub_date": "2025-10-11 12:00:04",
+    "author": "果壳"
+  },
+  {
+    "id": 832,
+    "feed_name": "果壳网 / 科学人",
+    "feed_url": "https://plink.anyfeeder.com/guokr/scientific",
+    "category": "科技",
+    "title": "这朵来自东亚的金黄蘑菇，已经入侵了北美森林",
+    "link": "https://www.guokr.com/article/467652/",
+    "pub_date": "2025-10-10 21:00:05",
+    "author": "果壳"
+  },
+  {
+    "id": 833,
+    "feed_name": "果壳网 / 科学人",
+    "feed_url": "https://plink.anyfeeder.com/guokr/scientific",
+    "category": "科技",
+    "title": "这种又软又纤细的身材，可能比纯胖更可怕！有这 4 个特征就要注意了",
+    "link": "https://www.guokr.com/article/467651/",
+    "pub_date": "2025-10-10 17:00:05",
+    "author": "果壳"
+  },
+  {
+    "id": 836,
+    "feed_name": "果壳网 / 科学人",
+    "feed_url": "https://plink.anyfeeder.com/guokr/scientific",
+    "category": "科技",
+    "title": "全球首例！中国团队成功将猪肝移植给活人",
+    "link": "https://www.guokr.com/article/467647/",
+    "pub_date": "2025-10-10 13:00:03",
+    "author": "果壳"
+  },
+  {
+    "id": 838,
+    "feed_name": "果壳网 / 科学人",
+    "feed_url": "https://plink.anyfeeder.com/guokr/scientific",
+    "category": "科技",
+    "title": "古代的“火折子”里面装了什么？为什么一吹就着火？",
+    "link": "https://www.guokr.com/article/467646/",
+    "pub_date": "2025-10-09 21:00:06",
+    "author": "果壳"
+  },
+  {
+    "id": 840,
+    "feed_name": "果壳网 / 科学人",
+    "feed_url": "https://plink.anyfeeder.com/guokr/scientific",
+    "category": "科技",
+    "title": "王宾：接种，不应成为最后的难关",
+    "link": "https://www.guokr.com/article/467645/",
+    "pub_date": "2025-10-09 17:58:59",
+    "author": "果壳"
+  },
+  {
+    "id": 842,
+    "feed_name": "果壳网 / 科学人",
+    "feed_url": "https://plink.anyfeeder.com/guokr/scientific",
+    "category": "科技",
+    "title": "走几十米路就眼前发黑，二十分钟爬不上四楼，我越来越累",
+    "link": "https://www.guokr.com/article/467644/",
+    "pub_date": "2025-10-09 15:00:01",
+    "author": "果壳"
+  },
+  {
+    "id": 844,
+    "feed_name": "果壳网 / 科学人",
+    "feed_url": "https://plink.anyfeeder.com/guokr/scientific",
+    "category": "科技",
+    "title": "在“乱讲PPT”里笑得最大声的人，是最伤心的打工人",
+    "link": "https://www.guokr.com/article/467643/",
+    "pub_date": "2025-10-09 13:00:13",
+    "author": "果壳"
+  },
+  {
+    "id": 847,
+    "feed_name": "果壳网 / 科学人",
+    "feed_url": "https://plink.anyfeeder.com/guokr/scientific",
+    "category": "科技",
+    "title": "史上最强打工人：老板布置的杂活，被他干成了诺贝尔奖！",
+    "link": "https://www.guokr.com/article/467641/",
+    "pub_date": "2025-10-09 05:00:01",
+    "author": "果壳"
+  },
+  {
+    "id": 849,
+    "feed_name": "果壳网 / 科学人",
+    "feed_url": "https://plink.anyfeeder.com/guokr/scientific",
+    "category": "科技",
+    "title": "让积木自动变成房子，从沙漠中变出水，2025化学诺奖的金属有机框架有多神？",
+    "link": "https://www.guokr.com/article/467640/",
+    "pub_date": "2025-10-08 23:00:02",
+    "author": "果壳"
+  },
+  {
+    "id": 846,
+    "feed_name": "MIT 科技评论 / 本周热榜",
+    "feed_url": "https://plink.anyfeeder.com/mittrchina/hot",
+    "category": "科技",
+    "title": "《麻省理工科技评论》发布“值得关注的10家气候科技公司”榜单，两家中国公司上榜",
+    "link": "https://www.mittrchina.com/news/detail/15324",
+    "pub_date": "2025-10-08 10:18:27",
+    "author": "DeepTech深科技"
+  },
+  {
+    "id": 848,
+    "feed_name": "MIT 科技评论 / 本周热榜",
+    "feed_url": "https://plink.anyfeeder.com/mittrchina/hot",
+    "category": "科技",
+    "title": "2025年诺贝尔物理学奖揭晓：表彰宏观量子效应的先驱，其成果奠定量子计算基石",
+    "link": "https://www.mittrchina.com/news/detail/15323",
+    "pub_date": "2025-10-07 19:57:32",
+    "author": "DeepTech深科技"
+  },
+  {
+    "id": 850,
+    "feed_name": "MIT 科技评论 / 本周热榜",
+    "feed_url": "https://plink.anyfeeder.com/mittrchina/hot",
+    "category": "科技",
+    "title": "回顾｜专访诺奖得主John Martinis，曾带领Google在4个月内实现量子计算的重大突破",
+    "link": "https://www.mittrchina.com/news/detail/15322",
+    "pub_date": "2025-10-07 19:34:17",
+    "author": "DeepTech深科技"
+  },
+  {
+    "id": 852,
+    "feed_name": "MIT 科技评论 / 本周热榜",
+    "feed_url": "https://plink.anyfeeder.com/mittrchina/hot",
+    "category": "科技",
+    "title": "研究人员在离线学习加入多样性激励，减轻创意写作“AI味”",
+    "link": "https://www.mittrchina.com/news/detail/15312",
+    "pub_date": "2025-10-05 22:08:47",
+    "author": "DeepTech深科技"
+  },
+  {
+    "id": 854,
+    "feed_name": "MIT 科技评论 / 本周热榜",
+    "feed_url": "https://plink.anyfeeder.com/mittrchina/hot",
+    "category": "科技",
+    "title": "北大北航联合团队刷新“第五力”实验灵敏度，在关键轴子窗区间提升一万倍",
+    "link": "https://www.mittrchina.com/news/detail/15311",
+    "pub_date": "2025-10-05 21:59:00",
+    "author": "DeepTech深科技"
+  },
+  {
+    "id": 856,
+    "feed_name": "MIT 科技评论 / 本周热榜",
+    "feed_url": "https://plink.anyfeeder.com/mittrchina/hot",
+    "category": "科技",
+    "title": "超“月”想象 · 六聚鹏城丨第六届生物制造产业大会将于12月2日重磅启幕",
+    "link": "https://www.mittrchina.com/news/detail/15309",
+    "pub_date": "2025-10-05 18:33:16",
+    "author": "DeepTech深科技"
+  },
+  {
+    "id": 858,
+    "feed_name": "MIT 科技评论 / 本周热榜",
+    "feed_url": "https://plink.anyfeeder.com/mittrchina/hot",
+    "category": "科技",
+    "title": "MIT破解5亿年前分子密码，远古海绵或是地球动物始祖",
+    "link": "https://www.mittrchina.com/news/detail/15308",
+    "pub_date": "2025-10-04 18:57:45",
+    "author": "DeepTech深科技"
+  },
+  {
+    "id": 860,
+    "feed_name": "MIT 科技评论 / 本周热榜",
+    "feed_url": "https://plink.anyfeeder.com/mittrchina/hot",
+    "category": "科技",
+    "title": "量子计算机越来越复杂，科学家如何用AI学会与它对话?",
+    "link": "https://www.mittrchina.com/news/detail/15307",
+    "pub_date": "2025-10-04 18:39:36",
+    "author": "DeepTech深科技"
+  },
+  {
+    "id": 862,
+    "feed_name": "MIT 科技评论 / 本周热榜",
+    "feed_url": "https://plink.anyfeeder.com/mittrchina/hot",
+    "category": "科技",
+    "title": "MIT团队用AI筛选食用配体，打造下一代铁碘共存的双重强化盐，或改变全球微量营养素补充方式",
+    "link": "https://www.mittrchina.com/news/detail/15306",
+    "pub_date": "2025-10-04 18:29:37",
+    "author": "DeepTech深科技"
+  },
+  {
+    "id": 864,
+    "feed_name": "MIT 科技评论 / 本周热榜",
+    "feed_url": "https://plink.anyfeeder.com/mittrchina/hot",
+    "category": "科技",
+    "title": "研究表明AI可伪装有害蛋白，微软Science发文揭示“零日漏洞”，DNA合成公司紧急升级筛查系统",
+    "link": "https://www.mittrchina.com/news/detail/15305",
+    "pub_date": "2025-10-03 19:08:16",
+    "author": "DeepTech深科技"
+  },
+  {
+    "id": 2307,
+    "feed_name": "IT 之家",
+    "feed_url": "https://plink.anyfeeder.com/ithome/it",
+    "category": "科技",
+    "title": "7-Zip 被曝高危漏洞可远程执行任意代码，建议尽快更新至 25.00 版本",
+    "link": "https://www.ithome.com/0/888/789.htm",
+    "pub_date": "2025-10-11 23:45:19",
+    "author": null
+  },
+  {
+    "id": 2308,
+    "feed_name": "IT 之家",
+    "feed_url": "https://plink.anyfeeder.com/ithome/it",
+    "category": "科技",
+    "title": "全球最卖座体育电影《F1：狂飙飞车》密钥第四次延期：上映时间延至 11 月 26 日，全球票房 6.58 亿美元",
+    "link": "https://www.ithome.com/0/888/788.htm",
+    "pub_date": "2025-10-11 23:35:22",
+    "author": null
+  },
+  {
+    "id": 2309,
+    "feed_name": "IT 之家",
+    "feed_url": "https://plink.anyfeeder.com/ithome/it",
+    "category": "科技",
+    "title": "第 138 届广交会召开在即，广州实现境外银行卡“拍卡过闸”坐地铁",
+    "link": "https://www.ithome.com/0/888/787.htm",
+    "pub_date": "2025-10-11 23:26:24",
+    "author": null
+  },
+  {
+    "id": 2310,
+    "feed_name": "IT 之家",
+    "feed_url": "https://plink.anyfeeder.com/ithome/it",
+    "category": "科技",
+    "title": "美国关税新规引发快递清关混乱：成千上万包裹卡在 UPS 仓库，最终被销毁",
+    "link": "https://www.ithome.com/0/888/786.htm",
+    "pub_date": "2025-10-11 23:17:30",
+    "author": null
+  },
+  {
+    "id": 2311,
+    "feed_name": "IT 之家",
+    "feed_url": "https://plink.anyfeeder.com/ithome/it",
+    "category": "科技",
+    "title": "黑客组织“Crimson Collective”继攻击红帽后，又声称成功入侵任天堂",
+    "link": "https://www.ithome.com/0/888/785.htm",
+    "pub_date": "2025-10-11 22:55:21",
+    "author": null
+  },
+  {
+    "id": 2312,
+    "feed_name": "IT 之家",
+    "feed_url": "https://plink.anyfeeder.com/ithome/it",
+    "category": "科技",
+    "title": "时隔九年《惊天魔盗团 3》确认引进中国内地：初代四骑士回归，北美已定档 11 月 14 日",
+    "link": "https://www.ithome.com/0/888/783.htm",
+    "pub_date": "2025-10-11 22:44:18",
+    "author": null
+  },
+  {
+    "id": 2313,
+    "feed_name": "IT 之家",
+    "feed_url": "https://plink.anyfeeder.com/ithome/it",
+    "category": "科技",
+    "title": "苹果官网出现“错别字”上热搜，AirPods 拼成“ArPods”",
+    "link": "https://www.ithome.com/0/888/782.htm",
+    "pub_date": "2025-10-11 22:26:45",
+    "author": null
+  },
+  {
+    "id": 2314,
+    "feed_name": "IT 之家",
+    "feed_url": "https://plink.anyfeeder.com/ithome/it",
+    "category": "科技",
+    "title": "网易云音乐回应有人意外登上李玟账号：运营商二次放号所致",
+    "link": "https://www.ithome.com/0/888/760.htm",
+    "pub_date": "2025-10-11 20:02:58",
+    "author": null
+  },
+  {
+    "id": 2315,
+    "feed_name": "IT 之家",
+    "feed_url": "https://plink.anyfeeder.com/ithome/it",
+    "category": "科技",
+    "title": "南大团队研发出全新模拟存算一体芯片，创下模拟向量-矩阵乘法运算精度的最高纪录",
+    "link": "https://www.ithome.com/0/888/758.htm",
+    "pub_date": "2025-10-11 19:48:29",
+    "author": null
+  },
+  {
+    "id": 2316,
+    "feed_name": "IT 之家",
+    "feed_url": "https://plink.anyfeeder.com/ithome/it",
+    "category": "科技",
+    "title": "撞船事故 8 个月后，美国受损航母“杜鲁门”号预计还要再等 12 个月才能修",
+    "link": "https://www.ithome.com/0/888/752.htm",
+    "pub_date": "2025-10-11 18:13:22",
     "author": null
   },
   {
@@ -198,6 +758,16 @@
     "link": "https://www.ithome.com/0/888/618.htm",
     "pub_date": "2025-10-11 09:59:49",
     "author": null
+  },
+  {
+    "id": 2412,
+    "feed_name": "InfoQ 中文",
+    "feed_url": "https://plink.anyfeeder.com/infoq/recommend",
+    "category": "科技",
+    "title": "TRAE MCP 实践：智能人情账本系统开发",
+    "link": "https://www.infoq.cn/article/5TBDQ4234L7921lW9rKT",
+    "pub_date": "2025-10-11 19:06:02",
+    "author": "TRAE.ai"
   },
   {
     "id": 868,
@@ -390,14 +960,44 @@
     "author": "吴建阳"
   },
   {
-    "id": 942,
-    "feed_name": "InfoQ 中文",
-    "feed_url": "https://plink.anyfeeder.com/infoq/recommend",
+    "id": 2369,
+    "feed_name": "超能网",
+    "feed_url": "https://plink.anyfeeder.com/expreview",
     "category": "科技",
-    "title": "“微信这类App在美国未必行得通！”Sam 最新访谈：ChatGPT 是超级AI助手，不是全能应用",
-    "link": "https://www.infoq.cn/article/Ix4qCHwEaerhLvHIx45P",
-    "pub_date": "2025-10-10 14:49:27",
-    "author": "李冬梅"
+    "title": "传PlayStation 6将于2027年推出，Xbox Next目标同年发售",
+    "link": "http://www.expreview.com/102113.html",
+    "pub_date": "2025-10-12 10:20:00",
+    "author": "吕嘉俭"
+  },
+  {
+    "id": 2371,
+    "feed_name": "超能网",
+    "feed_url": "https://plink.anyfeeder.com/expreview",
+    "category": "科技",
+    "title": "NS2支持两种不同类型的DLSS，顾及掌机性能提供“轻量版”方案",
+    "link": "http://www.expreview.com/102112.html",
+    "pub_date": "2025-10-12 09:47:00",
+    "author": "吕嘉俭"
+  },
+  {
+    "id": 2373,
+    "feed_name": "超能网",
+    "feed_url": "https://plink.anyfeeder.com/expreview",
+    "category": "科技",
+    "title": "《Painkiller》发售宣传视频：10月22日解锁，Steam国区预购169元起",
+    "link": "http://www.expreview.com/102111.html",
+    "pub_date": "2025-10-12 09:35:00",
+    "author": "吕嘉俭"
+  },
+  {
+    "id": 2375,
+    "feed_name": "超能网",
+    "feed_url": "https://plink.anyfeeder.com/expreview",
+    "category": "科技",
+    "title": "软银打算追加投资OpenAI，计划抵押部分Arm股票再借50亿美元",
+    "link": "http://www.expreview.com/102110.html",
+    "pub_date": "2025-10-12 09:00:00",
+    "author": "吕嘉俭"
   },
   {
     "id": 870,
@@ -560,44 +1160,44 @@
     "author": "吕嘉俭"
   },
   {
-    "id": 939,
-    "feed_name": "超能网",
-    "feed_url": "https://plink.anyfeeder.com/expreview",
+    "id": 2467,
+    "feed_name": "爱范儿",
+    "feed_url": "https://plink.anyfeeder.com/ifanr",
     "category": "科技",
-    "title": "《战地风云6》正式解锁：Steam国区268元起，尽享终极全面战争体验",
-    "link": "http://www.expreview.com/102093.html",
-    "pub_date": "2025-10-11 15:23:00",
-    "author": "吕嘉俭"
+    "title": "快充、智能之后，新能源汽车的下一个「圣杯」是固态电池",
+    "link": "https://www.ifanr.com/1640555?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "pub_date": "2025-10-11 22:07:27",
+    "author": null
   },
   {
-    "id": 946,
-    "feed_name": "超能网",
-    "feed_url": "https://plink.anyfeeder.com/expreview",
+    "id": 2469,
+    "feed_name": "爱范儿",
+    "feed_url": "https://plink.anyfeeder.com/ifanr",
     "category": "科技",
-    "title": "《光与影 : 33号远征队》销量突破500万份，正在准备全平台免费更新",
-    "link": "http://www.expreview.com/102092.html",
-    "pub_date": "2025-10-11 10:09:00",
-    "author": "吕嘉俭"
+    "title": "续航翻倍，降价 2 万，比亚迪「最头疼的车」这次改对了",
+    "link": "https://www.ifanr.com/1640536?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "pub_date": "2025-10-11 22:07:18",
+    "author": null
   },
   {
-    "id": 951,
-    "feed_name": "超能网",
-    "feed_url": "https://plink.anyfeeder.com/expreview",
+    "id": 2471,
+    "feed_name": "爱范儿",
+    "feed_url": "https://plink.anyfeeder.com/ifanr",
     "category": "科技",
-    "title": "三星已使用2nm工艺生产第五代骁龙8至尊版，样品送至高通做评估",
-    "link": "http://www.expreview.com/102091.html",
-    "pub_date": "2025-10-11 09:50:00",
-    "author": "吕嘉俭"
+    "title": "苹果截胡马斯克抢到 AI 人才，想给 HomePod 加个「智慧眼」",
+    "link": "https://www.ifanr.com/1640481?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "pub_date": "2025-10-11 18:00:05",
+    "author": null
   },
   {
-    "id": 954,
-    "feed_name": "超能网",
-    "feed_url": "https://plink.anyfeeder.com/expreview",
+    "id": 2472,
+    "feed_name": "爱范儿",
+    "feed_url": "https://plink.anyfeeder.com/ifanr",
     "category": "科技",
-    "title": "高通涉嫌违反反垄断法，市场监管总局宣布依法决定立案调查",
-    "link": "http://www.expreview.com/102090.html",
-    "pub_date": "2025-10-11 09:25:00",
-    "author": "吕嘉俭"
+    "title": "特斯拉即将上新，全新奥迪 A6L 亮相，小鹏 P7+ 增程版也来了！",
+    "link": "https://www.ifanr.com/1640386?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "pub_date": "2025-10-11 16:57:19",
+    "author": null
   },
   {
     "id": 871,
@@ -750,53 +1350,33 @@
     "author": null
   },
   {
-    "id": 932,
+    "id": 2491,
     "feed_name": "爱范儿",
     "feed_url": "https://plink.anyfeeder.com/ifanr",
     "category": "科技",
-    "title": "首位 AI 女演员签约出道，好莱坞炸锅，同行阴阳：谢谢你抢走我的饭碗",
-    "link": "https://www.ifanr.com/1639908?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "pub_date": "2025-10-03 20:30:39",
+    "title": "刚发布一台 V12 千匹旗舰，兰博基尼又造了台「无用」的概念车",
+    "link": "https://www.ifanr.com/1640046?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "pub_date": "2025-10-06 19:44:03",
     "author": null
   },
   {
-    "id": 936,
-    "feed_name": "爱范儿",
-    "feed_url": "https://plink.anyfeeder.com/ifanr",
+    "id": 2486,
+    "feed_name": "新浪专栏 / 创事记",
+    "feed_url": "https://plink.anyfeeder.com/sina/csj",
     "category": "科技",
-    "title": "如何让 Kimi 的新 Agent 给我做国庆攻略，跟着 AI 旅游会踩雷吗？",
-    "link": "https://www.ifanr.com/1639270?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "pub_date": "2025-10-03 20:22:09",
+    "title": "刚刚，Meta风雨飘摇中发了篇重量级论文，作者几乎全是华人",
+    "link": "https://finance.sina.com.cn/tech/csj/2025-10-11/doc-inftprki4805631.shtml",
+    "pub_date": "2025-10-11 19:31:32",
     "author": null
   },
   {
-    "id": 940,
-    "feed_name": "爱范儿",
-    "feed_url": "https://plink.anyfeeder.com/ifanr",
+    "id": 2488,
+    "feed_name": "新浪专栏 / 创事记",
+    "feed_url": "https://plink.anyfeeder.com/sina/csj",
     "category": "科技",
-    "title": "玩了半天 Sora APP，我发现了这些比抖音「上头」的新玩法",
-    "link": "https://www.ifanr.com/1639818?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "pub_date": "2025-10-01 20:30:48",
-    "author": null
-  },
-  {
-    "id": 944,
-    "feed_name": "爱范儿",
-    "feed_url": "https://plink.anyfeeder.com/ifanr",
-    "category": "科技",
-    "title": "早报｜OpenAI发布Sora 2：AI视频进入GPT-3.5时刻/罗永浩称小米小字是行业陋习/三星戒指电池鼓包，用户手指被卡就医",
-    "link": "https://www.ifanr.com/1639815?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "pub_date": "2025-10-01 08:51:27",
-    "author": null
-  },
-  {
-    "id": 948,
-    "feed_name": "爱范儿",
-    "feed_url": "https://plink.anyfeeder.com/ifanr",
-    "category": "科技",
-    "title": "OpenAI 发布 Sora 2！AI 视频 GPT-3.5 时刻来了，还有一个 AI 版抖音| 附下载链接",
-    "link": "https://www.ifanr.com/1639809?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "pub_date": "2025-10-01 08:15:20",
+    "title": "清华万引教授：万倍加速催化剂设计，AI突破DFT瓶颈！",
+    "link": "https://finance.sina.com.cn/tech/csj/2025-10-11/doc-inftpeum0367254.shtml",
+    "pub_date": "2025-10-11 17:07:31",
     "author": null
   },
   {
@@ -980,23 +1560,163 @@
     "author": null
   },
   {
-    "id": 1078,
-    "feed_name": "新浪专栏 / 创事记",
-    "feed_url": "https://plink.anyfeeder.com/sina/csj",
+    "id": 2317,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
     "category": "科技",
-    "title": "首位AI女演员出道！好莱坞「天敌」来了，下一代偶像全是代码制造？",
-    "link": "https://finance.sina.com.cn/tech/csj/2025-10-04/doc-infsttpe3981060.shtml",
-    "pub_date": "2025-10-04 19:36:17",
+    "title": "猪价狂跌、融资收紧，猪企能否熬过这个寒冬？| 行业风向标",
+    "link": "https://www.tmtpost.com/7718399.html",
+    "pub_date": "2025-10-11 22:17:27",
     "author": null
   },
   {
-    "id": 1080,
-    "feed_name": "新浪专栏 / 创事记",
-    "feed_url": "https://plink.anyfeeder.com/sina/csj",
+    "id": 2318,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
     "category": "科技",
-    "title": "刚刚，奥特曼亲赴，韩国「举国」投靠！",
-    "link": "https://finance.sina.com.cn/tech/csj/2025-10-02/doc-infsnqmt8911141.shtml",
-    "pub_date": "2025-10-02 12:57:40",
+    "title": "主投电影国庆档失利，果麦文化股价“腰斩”背后的转型阵痛",
+    "link": "https://www.tmtpost.com/7718371.html",
+    "pub_date": "2025-10-11 20:49:13",
+    "author": null
+  },
+  {
+    "id": 2319,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "大恒科技“无主”：新股东高息举债接棒“徐翔系”，火速跨界埋风险",
+    "link": "https://www.tmtpost.com/7718350.html",
+    "pub_date": "2025-10-11 20:35:49",
+    "author": null
+  },
+  {
+    "id": 2322,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "还能直播互动？日本厂商将AI陪伴卷出新高度",
+    "link": "https://www.tmtpost.com/7718294.html",
+    "pub_date": "2025-10-11 18:48:47",
+    "author": null
+  },
+  {
+    "id": 2327,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "康泰医学收FDA警告信：美国市场准入临时“断档”，两成营收来源告急",
+    "link": "https://www.tmtpost.com/7718266.html",
+    "pub_date": "2025-10-11 18:25:54",
+    "author": null
+  },
+  {
+    "id": 2331,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "AI女演员勇闯好莱坞，却遭全行业怒怼！他们在害怕什么？（深度观察）",
+    "link": "https://www.tmtpost.com/7718271.html",
+    "pub_date": "2025-10-11 18:04:33",
+    "author": null
+  },
+  {
+    "id": 2335,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "英国前首相“跳槽”美国硅谷，欧洲AI可能真没救了",
+    "link": "https://www.tmtpost.com/7718258.html",
+    "pub_date": "2025-10-11 18:04:29",
+    "author": null
+  },
+  {
+    "id": 2339,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "In a First, MIT Rejects Trump’s Proposal Linking Federal Funding to Campus Reforms",
+    "link": "https://www.tmtpost.com/7718286.html",
+    "pub_date": "2025-10-11 17:56:02",
+    "author": null
+  },
+  {
+    "id": 2343,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "AI出海东南亚，EDTech落先手",
+    "link": "https://www.tmtpost.com/7717140.html",
+    "pub_date": "2025-10-11 17:54:43",
+    "author": null
+  },
+  {
+    "id": 2346,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "弃900亿江山，宗馥莉能带娃小宗躲开内外绞杀？",
+    "link": "https://www.tmtpost.com/7718230.html",
+    "pub_date": "2025-10-11 17:28:47",
+    "author": null
+  },
+  {
+    "id": 2349,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "雷鸟不想只性价比，但活成了TCL的影子",
+    "link": "https://www.tmtpost.com/7718158.html",
+    "pub_date": "2025-10-11 17:28:41",
+    "author": null
+  },
+  {
+    "id": 2352,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "宗馥莉的疯狂380天：700亿娃哈哈容不下女首富",
+    "link": "https://www.tmtpost.com/7718176.html",
+    "pub_date": "2025-10-11 17:28:39",
+    "author": null
+  },
+  {
+    "id": 2355,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "苹果沦落到要对标小米了",
+    "link": "https://www.tmtpost.com/7718216.html",
+    "pub_date": "2025-10-11 17:28:35",
+    "author": null
+  },
+  {
+    "id": 2357,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "一场蒙超，怎么把半个中国都卷进了战场？",
+    "link": "https://www.tmtpost.com/7718224.html",
+    "pub_date": "2025-10-11 17:28:33",
+    "author": null
+  },
+  {
+    "id": 2359,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "Didi Autonomous Driving Raises 2 Billion Yuan in Series D, Pushing Toward L4 Rollout",
+    "link": "https://www.tmtpost.com/7718243.html",
+    "pub_date": "2025-10-11 17:22:02",
+    "author": null
+  },
+  {
+    "id": 2361,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "大女主高开低走，宗馥莉挂印辞职，娃哈哈自此“失宗”",
+    "link": "https://www.tmtpost.com/7718029.html",
+    "pub_date": "2025-10-11 17:07:09",
     "author": null
   },
   {
@@ -1040,143 +1760,13 @@
     "author": null
   },
   {
-    "id": 1030,
-    "feed_name": "钛媒体",
-    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "id": 2532,
+    "feed_name": "少数派",
+    "feed_url": "https://plink.anyfeeder.com/sspai",
     "category": "科技",
-    "title": "《羊蹄山之魂》两天回本首周破亿，美国人做日本武士又成了",
-    "link": "https://www.tmtpost.com/7717694.html",
-    "pub_date": "2025-10-11 16:30:57",
-    "author": null
-  },
-  {
-    "id": 1034,
-    "feed_name": "钛媒体",
-    "feed_url": "https://plink.anyfeeder.com/tmtpost",
-    "category": "科技",
-    "title": "火爆国庆的东方「迪士尼」、明星NPC和背后的操盘手",
-    "link": "https://www.tmtpost.com/7717711.html",
-    "pub_date": "2025-10-11 16:30:55",
-    "author": null
-  },
-  {
-    "id": 1039,
-    "feed_name": "钛媒体",
-    "feed_url": "https://plink.anyfeeder.com/tmtpost",
-    "category": "科技",
-    "title": "东鹏饮料：特饮之后，“下个百亿密码” 路在何方？",
-    "link": "https://www.tmtpost.com/7717795.html",
-    "pub_date": "2025-10-11 16:30:54",
-    "author": null
-  },
-  {
-    "id": 1042,
-    "feed_name": "钛媒体",
-    "feed_url": "https://plink.anyfeeder.com/tmtpost",
-    "category": "科技",
-    "title": "东南亚要“装不下”出海的国产服装品牌了",
-    "link": "https://www.tmtpost.com/7717807.html",
-    "pub_date": "2025-10-11 16:30:52",
-    "author": null
-  },
-  {
-    "id": 1045,
-    "feed_name": "钛媒体",
-    "feed_url": "https://plink.anyfeeder.com/tmtpost",
-    "category": "科技",
-    "title": "2025年，创新药最热门并购赛道浮现",
-    "link": "https://www.tmtpost.com/7717871.html",
-    "pub_date": "2025-10-11 16:30:50",
-    "author": null
-  },
-  {
-    "id": 1048,
-    "feed_name": "钛媒体",
-    "feed_url": "https://plink.anyfeeder.com/tmtpost",
-    "category": "科技",
-    "title": "又一位时代性大佬，走了！",
-    "link": "https://www.tmtpost.com/7717887.html",
-    "pub_date": "2025-10-11 16:30:49",
-    "author": null
-  },
-  {
-    "id": 1051,
-    "feed_name": "钛媒体",
-    "feed_url": "https://plink.anyfeeder.com/tmtpost",
-    "category": "科技",
-    "title": "空姐“坦白局”：常常被当作服务员，但我们的工作远不止如此",
-    "link": "https://www.tmtpost.com/7717939.html",
-    "pub_date": "2025-10-11 16:30:46",
-    "author": null
-  },
-  {
-    "id": 1053,
-    "feed_name": "钛媒体",
-    "feed_url": "https://plink.anyfeeder.com/tmtpost",
-    "category": "科技",
-    "title": "Zong Qinghou’s Brother Launches Competing Beverage Brand “Wa Xiaozhi,” Heating up Family Feud",
-    "link": "https://www.tmtpost.com/7718180.html",
-    "pub_date": "2025-10-11 16:11:02",
-    "author": null
-  },
-  {
-    "id": 1055,
-    "feed_name": "钛媒体",
-    "feed_url": "https://plink.anyfeeder.com/tmtpost",
-    "category": "科技",
-    "title": "又一批AI社交产品悄悄「死亡」了",
-    "link": "https://www.tmtpost.com/7718052.html",
-    "pub_date": "2025-10-11 15:05:57",
-    "author": null
-  },
-  {
-    "id": 1057,
-    "feed_name": "钛媒体",
-    "feed_url": "https://plink.anyfeeder.com/tmtpost",
-    "category": "科技",
-    "title": "腾讯视频“封号”会员，合理吗？",
-    "link": "https://www.tmtpost.com/7718040.html",
-    "pub_date": "2025-10-11 15:05:54",
-    "author": null
-  },
-  {
-    "id": 1059,
-    "feed_name": "钛媒体",
-    "feed_url": "https://plink.anyfeeder.com/tmtpost",
-    "category": "科技",
-    "title": "滴滴自动驾驶完成20亿元D轮融资，累计融资超100亿",
-    "link": "https://www.tmtpost.com/7718116.html",
-    "pub_date": "2025-10-11 14:52:41",
-    "author": null
-  },
-  {
-    "id": 1062,
-    "feed_name": "钛媒体",
-    "feed_url": "https://plink.anyfeeder.com/tmtpost",
-    "category": "科技",
-    "title": "“变重”的转转，靠金融“回血”",
-    "link": "https://www.tmtpost.com/7717574.html",
-    "pub_date": "2025-10-11 14:18:41",
-    "author": null
-  },
-  {
-    "id": 1065,
-    "feed_name": "钛媒体",
-    "feed_url": "https://plink.anyfeeder.com/tmtpost",
-    "category": "科技",
-    "title": "丽珠医药做股东、30亿估值闯港股，新元素药业押注痛风药的背后",
-    "link": "https://www.tmtpost.com/7717764.html",
-    "pub_date": "2025-10-11 14:18:38",
-    "author": null
-  },
-  {
-    "id": 1068,
-    "feed_name": "钛媒体",
-    "feed_url": "https://plink.anyfeeder.com/tmtpost",
-    "category": "科技",
-    "title": "一个“缺水”省份，是如何逆袭成为水利大省的？",
-    "link": "https://www.tmtpost.com/7718026.html",
-    "pub_date": "2025-10-11 13:58:36",
+    "title": "画质不算强，体验却很棒：我的大疆 Osmo Nano 使用小记",
+    "link": "https://sspai.com/post/102919",
+    "pub_date": "2025-10-11 15:00:00",
     "author": null
   },
   {
@@ -1228,6 +1818,96 @@
     "link": "https://sspai.com/post/102853",
     "pub_date": "2025-10-10 10:49:30",
     "author": null
+  },
+  {
+    "id": 2325,
+    "feed_name": "雷峰网",
+    "feed_url": "https://plink.anyfeeder.com/leiphone",
+    "category": "科技",
+    "title": "",
+    "link": "https://www.leiphone.com/category/ai/L6tQCmiyhpWnqvRk.html",
+    "pub_date": "Invalid date",
+    "author": null
+  },
+  {
+    "id": 2330,
+    "feed_name": "雷峰网",
+    "feed_url": "https://plink.anyfeeder.com/leiphone",
+    "category": "科技",
+    "title": "",
+    "link": "https://www.leiphone.com/category/industrynews/SyONzhHPQ7DrfMcI.html",
+    "pub_date": "Invalid date",
+    "author": null
+  },
+  {
+    "id": 2334,
+    "feed_name": "雷峰网",
+    "feed_url": "https://plink.anyfeeder.com/leiphone",
+    "category": "科技",
+    "title": "",
+    "link": "https://www.leiphone.com/category/weiwu/yCFHTasW4byUURV8.html",
+    "pub_date": "Invalid date",
+    "author": null
+  },
+  {
+    "id": 2337,
+    "feed_name": "雷峰网",
+    "feed_url": "https://plink.anyfeeder.com/leiphone",
+    "category": "科技",
+    "title": "",
+    "link": "https://www.leiphone.com/category/weiwu/rNqZBsPN0pah3Ebw.html",
+    "pub_date": "Invalid date",
+    "author": null
+  },
+  {
+    "id": 2341,
+    "feed_name": "雷峰网",
+    "feed_url": "https://plink.anyfeeder.com/leiphone",
+    "category": "科技",
+    "title": "",
+    "link": "https://www.leiphone.com/category/weiwu/HLmzTaV7E5F8xza7.html",
+    "pub_date": "Invalid date",
+    "author": null
+  },
+  {
+    "id": 2344,
+    "feed_name": "雷峰网",
+    "feed_url": "https://plink.anyfeeder.com/leiphone",
+    "category": "科技",
+    "title": "",
+    "link": "https://www.leiphone.com/category/zaobao/2kNNMBjt2IU06a1S.html",
+    "pub_date": "Invalid date",
+    "author": null
+  },
+  {
+    "id": 2351,
+    "feed_name": "雷峰网",
+    "feed_url": "https://plink.anyfeeder.com/leiphone",
+    "category": "科技",
+    "title": "",
+    "link": "https://www.leiphone.com/category/chips/9ZvsqjOgdCXQU2ug.html",
+    "pub_date": "Invalid date",
+    "author": null
+  },
+  {
+    "id": 2354,
+    "feed_name": "雷峰网",
+    "feed_url": "https://plink.anyfeeder.com/leiphone",
+    "category": "科技",
+    "title": "",
+    "link": "https://www.leiphone.com/category/zaobao/7IFVLQnMpkS6tLlw.html",
+    "pub_date": "Invalid date",
+    "author": null
+  },
+  {
+    "id": 2321,
+    "feed_name": "雷峰网",
+    "feed_url": "https://plink.anyfeeder.com/leiphone",
+    "category": "科技",
+    "title": "创纪录的288核至强服务器CPU，为什么离不开Intel 18A？",
+    "link": "https://www.leiphone.com/category/chips/imdreWPsW5QKpK2O.html",
+    "pub_date": "2025-10-11 18:39:00",
+    "author": "包永刚"
   },
   {
     "id": 1060,
@@ -1328,6 +2008,16 @@
     "link": "https://www.leiphone.com/category/chips/S3htPmn1sI3DdL6N.html",
     "pub_date": "2025-10-09 16:04:00",
     "author": "杨依婷"
+  },
+  {
+    "id": 2521,
+    "feed_name": "人人都是产品经理",
+    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
+    "category": "科技",
+    "title": "“雷声大、雨点小”的 AI Agent",
+    "link": "https://www.woshipm.com/ai/6276545.html",
+    "pub_date": "2025-10-11 16:18:39",
+    "author": "AI Online"
   },
   {
     "id": 1096,
@@ -1520,14 +2210,34 @@
     "author": "卡思数据"
   },
   {
-    "id": 1144,
-    "feed_name": "人人都是产品经理",
-    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
+    "id": 2722,
+    "feed_name": "Solidot",
+    "feed_url": "https://www.solidot.org/index.rss",
     "category": "科技",
-    "title": "服装老板内参：与其焦虑流量，不如看懂AI带来的四波红利",
-    "link": "https://www.woshipm.com/operate/6271339.html",
-    "pub_date": "2025-10-11 09:49:15",
-    "author": "靠谱瓦叔"
+    "title": "小鼠实验显示新癌症疫苗疗效显著",
+    "link": "https://www.solidot.org/story?sid=82521",
+    "pub_date": "2025-10-11 18:12:56",
+    "author": null
+  },
+  {
+    "id": 2723,
+    "feed_name": "Solidot",
+    "feed_url": "https://www.solidot.org/index.rss",
+    "category": "科技",
+    "title": "海关严查英伟达 AI 芯片",
+    "link": "https://www.solidot.org/story?sid=82520",
+    "pub_date": "2025-10-11 17:38:01",
+    "author": null
+  },
+  {
+    "id": 2724,
+    "feed_name": "Solidot",
+    "feed_url": "https://www.solidot.org/index.rss",
+    "category": "科技",
+    "title": "波兰称针对其关键基础设施的网络攻击在增加",
+    "link": "https://www.solidot.org/story?sid=82519",
+    "pub_date": "2025-10-11 16:59:40",
+    "author": null
   },
   {
     "id": 1421,
@@ -1697,36 +2407,6 @@
     "title": "黄金价格首次突破每盎司 4000 美元",
     "link": "https://www.solidot.org/story?sid=82502",
     "pub_date": "2025-10-09 18:31:55",
-    "author": null
-  },
-  {
-    "id": 1438,
-    "feed_name": "Solidot",
-    "feed_url": "https://www.solidot.org/index.rss",
-    "category": "科技",
-    "title": "Fedora 43 将 /boot 分区容量从 1GB 增加到 2GB",
-    "link": "https://www.solidot.org/story?sid=82501",
-    "pub_date": "2025-10-09 17:35:58",
-    "author": null
-  },
-  {
-    "id": 1439,
-    "feed_name": "Solidot",
-    "feed_url": "https://www.solidot.org/index.rss",
-    "category": "科技",
-    "title": "Starlink 每天有 1-2 颗重返大气层",
-    "link": "https://www.solidot.org/story?sid=82500",
-    "pub_date": "2025-10-09 16:22:07",
-    "author": null
-  },
-  {
-    "id": 1440,
-    "feed_name": "Solidot",
-    "feed_url": "https://www.solidot.org/index.rss",
-    "category": "科技",
-    "title": "Salesforce 拒绝为被盗的客户数据支付赎金",
-    "link": "https://www.solidot.org/story?sid=82499",
-    "pub_date": "2025-10-09 15:11:12",
     "author": null
   },
   {
@@ -1928,405 +2608,5 @@
     "link": "http://www.geekpark.net/news/354770",
     "pub_date": "2025-10-03 10:01:27",
     "author": null
-  },
-  {
-    "id": 830,
-    "feed_name": "果壳网 / 科学人",
-    "feed_url": "https://plink.anyfeeder.com/guokr/scientific",
-    "category": "科技",
-    "title": "特朗普160%关税白费劲？对华“脱钩”不成，还砸了特斯拉的“锅”",
-    "link": "https://www.guokr.com/article/467654/",
-    "pub_date": "2025-10-11 12:00:04",
-    "author": "果壳"
-  },
-  {
-    "id": 832,
-    "feed_name": "果壳网 / 科学人",
-    "feed_url": "https://plink.anyfeeder.com/guokr/scientific",
-    "category": "科技",
-    "title": "这朵来自东亚的金黄蘑菇，已经入侵了北美森林",
-    "link": "https://www.guokr.com/article/467652/",
-    "pub_date": "2025-10-10 21:00:05",
-    "author": "果壳"
-  },
-  {
-    "id": 833,
-    "feed_name": "果壳网 / 科学人",
-    "feed_url": "https://plink.anyfeeder.com/guokr/scientific",
-    "category": "科技",
-    "title": "这种又软又纤细的身材，可能比纯胖更可怕！有这 4 个特征就要注意了",
-    "link": "https://www.guokr.com/article/467651/",
-    "pub_date": "2025-10-10 17:00:05",
-    "author": "果壳"
-  },
-  {
-    "id": 836,
-    "feed_name": "果壳网 / 科学人",
-    "feed_url": "https://plink.anyfeeder.com/guokr/scientific",
-    "category": "科技",
-    "title": "全球首例！中国团队成功将猪肝移植给活人",
-    "link": "https://www.guokr.com/article/467647/",
-    "pub_date": "2025-10-10 13:00:03",
-    "author": "果壳"
-  },
-  {
-    "id": 838,
-    "feed_name": "果壳网 / 科学人",
-    "feed_url": "https://plink.anyfeeder.com/guokr/scientific",
-    "category": "科技",
-    "title": "古代的“火折子”里面装了什么？为什么一吹就着火？",
-    "link": "https://www.guokr.com/article/467646/",
-    "pub_date": "2025-10-09 21:00:06",
-    "author": "果壳"
-  },
-  {
-    "id": 840,
-    "feed_name": "果壳网 / 科学人",
-    "feed_url": "https://plink.anyfeeder.com/guokr/scientific",
-    "category": "科技",
-    "title": "王宾：接种，不应成为最后的难关",
-    "link": "https://www.guokr.com/article/467645/",
-    "pub_date": "2025-10-09 17:58:59",
-    "author": "果壳"
-  },
-  {
-    "id": 842,
-    "feed_name": "果壳网 / 科学人",
-    "feed_url": "https://plink.anyfeeder.com/guokr/scientific",
-    "category": "科技",
-    "title": "走几十米路就眼前发黑，二十分钟爬不上四楼，我越来越累",
-    "link": "https://www.guokr.com/article/467644/",
-    "pub_date": "2025-10-09 15:00:01",
-    "author": "果壳"
-  },
-  {
-    "id": 844,
-    "feed_name": "果壳网 / 科学人",
-    "feed_url": "https://plink.anyfeeder.com/guokr/scientific",
-    "category": "科技",
-    "title": "在“乱讲PPT”里笑得最大声的人，是最伤心的打工人",
-    "link": "https://www.guokr.com/article/467643/",
-    "pub_date": "2025-10-09 13:00:13",
-    "author": "果壳"
-  },
-  {
-    "id": 847,
-    "feed_name": "果壳网 / 科学人",
-    "feed_url": "https://plink.anyfeeder.com/guokr/scientific",
-    "category": "科技",
-    "title": "史上最强打工人：老板布置的杂活，被他干成了诺贝尔奖！",
-    "link": "https://www.guokr.com/article/467641/",
-    "pub_date": "2025-10-09 05:00:01",
-    "author": "果壳"
-  },
-  {
-    "id": 849,
-    "feed_name": "果壳网 / 科学人",
-    "feed_url": "https://plink.anyfeeder.com/guokr/scientific",
-    "category": "科技",
-    "title": "让积木自动变成房子，从沙漠中变出水，2025化学诺奖的金属有机框架有多神？",
-    "link": "https://www.guokr.com/article/467640/",
-    "pub_date": "2025-10-08 23:00:02",
-    "author": "果壳"
-  },
-  {
-    "id": 815,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "CVE-2024-49093（ReFS漏洞分析）",
-    "link": "https://www.freebuf.com/articles/web/452207.html",
-    "pub_date": "2025-10-11 11:15:28",
-    "author": null
-  },
-  {
-    "id": 817,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "log4j2（CVE-2021-44228）漏洞复现与分析",
-    "link": "https://www.freebuf.com/articles/web/452167.html",
-    "pub_date": "2025-10-11 00:04:25",
-    "author": null
-  },
-  {
-    "id": 819,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "苹果将RCE漏洞赏金提高至200万美元以应对商业间谍软件威胁",
-    "link": "https://www.freebuf.com/articles/452174.html",
-    "pub_date": "2025-10-10 19:27:08",
-    "author": null
-  },
-  {
-    "id": 821,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "FreeBuf早报 | Linux内核TLS组件漏洞可致远程代码执行；多态Python恶意软件可改变自身特征",
-    "link": "https://www.freebuf.com/news/452087.html",
-    "pub_date": "2025-10-10 17:00:10",
-    "author": null
-  },
-  {
-    "id": 822,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "2026年AI驱动的SOC技术栈：顶级平台的核心差异",
-    "link": "https://www.freebuf.com/articles/ai-security/452147.html",
-    "pub_date": "2025-10-10 16:30:00",
-    "author": null
-  },
-  {
-    "id": 823,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "ReadLine 窃密病毒变种分析",
-    "link": "https://www.freebuf.com/articles/others-articles/452065.html",
-    "pub_date": "2025-10-10 14:56:04",
-    "author": null
-  },
-  {
-    "id": 824,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "企业级WAF绕过技术深度研究",
-    "link": "https://www.freebuf.com/articles/web/452137.html",
-    "pub_date": "2025-10-10 13:17:43",
-    "author": null
-  },
-  {
-    "id": 825,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "RondoDox僵尸网络利用50余个漏洞攻击路由器、监控系统及网络服务器",
-    "link": "https://www.freebuf.com/articles/452154.html",
-    "pub_date": "2025-10-10 13:16:37",
-    "author": null
-  },
-  {
-    "id": 826,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "GitHub Copilot高危漏洞可导致攻击者窃取私有仓库源代码",
-    "link": "https://www.freebuf.com/articles/database/452148.html",
-    "pub_date": "2025-10-10 11:18:20",
-    "author": null
-  },
-  {
-    "id": 827,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "大模型安全实践（白皮书下载）",
-    "link": "https://www.freebuf.com/articles/452114.html",
-    "pub_date": "2025-10-10 10:52:56",
-    "author": null
-  },
-  {
-    "id": 828,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "实战中Java反序列化漏洞黑盒挖掘思路",
-    "link": "https://www.freebuf.com/articles/web/452132.html",
-    "pub_date": "2025-10-10 10:36:49",
-    "author": null
-  },
-  {
-    "id": 829,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "战时想定下台湾关键基础设施的脆弱性与防护韧性研究",
-    "link": "https://www.freebuf.com/articles/452113.html",
-    "pub_date": "2025-10-10 10:24:38",
-    "author": null
-  },
-  {
-    "id": 831,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "2025北外滩网络安全论坛 | 上海人工智能实验室王迎春：走向人工智能安全评估新阶段",
-    "link": "https://www.freebuf.com/articles/452133.html",
-    "pub_date": "2025-10-10 09:20:00",
-    "author": null
-  },
-  {
-    "id": 834,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "利用GPT-4生成勒索软件代码的LLM驱动型恶意软件MalTerminal现世",
-    "link": "https://www.freebuf.com/articles/ai-security/452085.html",
-    "pub_date": "2025-10-10 08:33:52",
-    "author": null
-  },
-  {
-    "id": 835,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "Linux内核TLS组件UAF漏洞：攻击者可利用异步解密实现本地远程代码执行（PoC已公开）",
-    "link": "https://www.freebuf.com/articles/network/452056.html",
-    "pub_date": "2025-10-10 04:30:22",
-    "author": null
-  },
-  {
-    "id": 837,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "NVIDIA GPU驱动修复多个高危漏洞，存在远程代码执行和权限提升风险",
-    "link": "https://www.freebuf.com/articles/system/452039.html",
-    "pub_date": "2025-10-10 02:34:48",
-    "author": null
-  },
-  {
-    "id": 839,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "联发科修复Wi-Fi和GNSS芯片组多个高危漏洞",
-    "link": "https://www.freebuf.com/articles/network/452015.html",
-    "pub_date": "2025-10-10 00:22:54",
-    "author": null
-  },
-  {
-    "id": 841,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "TP-Link路由器漏洞允许通过局域网实现Root权限远程代码执行，PoC已公开",
-    "link": "https://www.freebuf.com/articles/network/452038.html",
-    "pub_date": "2025-10-10 00:06:52",
-    "author": null
-  },
-  {
-    "id": 843,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "xss实战挖掘思路和绕过",
-    "link": "https://www.freebuf.com/articles/vuls/451992.html",
-    "pub_date": "2025-10-09 22:17:13",
-    "author": null
-  },
-  {
-    "id": 845,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "fastjson全版本漏洞深度剖析",
-    "link": "https://www.freebuf.com/articles/vuls/451895.html",
-    "pub_date": "2025-10-09 18:58:15",
-    "author": null
-  },
-  {
-    "id": 846,
-    "feed_name": "MIT 科技评论 / 本周热榜",
-    "feed_url": "https://plink.anyfeeder.com/mittrchina/hot",
-    "category": "科技",
-    "title": "《麻省理工科技评论》发布“值得关注的10家气候科技公司”榜单，两家中国公司上榜",
-    "link": "https://www.mittrchina.com/news/detail/15324",
-    "pub_date": "2025-10-08 10:18:27",
-    "author": "DeepTech深科技"
-  },
-  {
-    "id": 848,
-    "feed_name": "MIT 科技评论 / 本周热榜",
-    "feed_url": "https://plink.anyfeeder.com/mittrchina/hot",
-    "category": "科技",
-    "title": "2025年诺贝尔物理学奖揭晓：表彰宏观量子效应的先驱，其成果奠定量子计算基石",
-    "link": "https://www.mittrchina.com/news/detail/15323",
-    "pub_date": "2025-10-07 19:57:32",
-    "author": "DeepTech深科技"
-  },
-  {
-    "id": 850,
-    "feed_name": "MIT 科技评论 / 本周热榜",
-    "feed_url": "https://plink.anyfeeder.com/mittrchina/hot",
-    "category": "科技",
-    "title": "回顾｜专访诺奖得主John Martinis，曾带领Google在4个月内实现量子计算的重大突破",
-    "link": "https://www.mittrchina.com/news/detail/15322",
-    "pub_date": "2025-10-07 19:34:17",
-    "author": "DeepTech深科技"
-  },
-  {
-    "id": 852,
-    "feed_name": "MIT 科技评论 / 本周热榜",
-    "feed_url": "https://plink.anyfeeder.com/mittrchina/hot",
-    "category": "科技",
-    "title": "研究人员在离线学习加入多样性激励，减轻创意写作“AI味”",
-    "link": "https://www.mittrchina.com/news/detail/15312",
-    "pub_date": "2025-10-05 22:08:47",
-    "author": "DeepTech深科技"
-  },
-  {
-    "id": 854,
-    "feed_name": "MIT 科技评论 / 本周热榜",
-    "feed_url": "https://plink.anyfeeder.com/mittrchina/hot",
-    "category": "科技",
-    "title": "北大北航联合团队刷新“第五力”实验灵敏度，在关键轴子窗区间提升一万倍",
-    "link": "https://www.mittrchina.com/news/detail/15311",
-    "pub_date": "2025-10-05 21:59:00",
-    "author": "DeepTech深科技"
-  },
-  {
-    "id": 856,
-    "feed_name": "MIT 科技评论 / 本周热榜",
-    "feed_url": "https://plink.anyfeeder.com/mittrchina/hot",
-    "category": "科技",
-    "title": "超“月”想象 · 六聚鹏城丨第六届生物制造产业大会将于12月2日重磅启幕",
-    "link": "https://www.mittrchina.com/news/detail/15309",
-    "pub_date": "2025-10-05 18:33:16",
-    "author": "DeepTech深科技"
-  },
-  {
-    "id": 858,
-    "feed_name": "MIT 科技评论 / 本周热榜",
-    "feed_url": "https://plink.anyfeeder.com/mittrchina/hot",
-    "category": "科技",
-    "title": "MIT破解5亿年前分子密码，远古海绵或是地球动物始祖",
-    "link": "https://www.mittrchina.com/news/detail/15308",
-    "pub_date": "2025-10-04 18:57:45",
-    "author": "DeepTech深科技"
-  },
-  {
-    "id": 860,
-    "feed_name": "MIT 科技评论 / 本周热榜",
-    "feed_url": "https://plink.anyfeeder.com/mittrchina/hot",
-    "category": "科技",
-    "title": "量子计算机越来越复杂，科学家如何用AI学会与它对话?",
-    "link": "https://www.mittrchina.com/news/detail/15307",
-    "pub_date": "2025-10-04 18:39:36",
-    "author": "DeepTech深科技"
-  },
-  {
-    "id": 862,
-    "feed_name": "MIT 科技评论 / 本周热榜",
-    "feed_url": "https://plink.anyfeeder.com/mittrchina/hot",
-    "category": "科技",
-    "title": "MIT团队用AI筛选食用配体，打造下一代铁碘共存的双重强化盐，或改变全球微量营养素补充方式",
-    "link": "https://www.mittrchina.com/news/detail/15306",
-    "pub_date": "2025-10-04 18:29:37",
-    "author": "DeepTech深科技"
-  },
-  {
-    "id": 864,
-    "feed_name": "MIT 科技评论 / 本周热榜",
-    "feed_url": "https://plink.anyfeeder.com/mittrchina/hot",
-    "category": "科技",
-    "title": "研究表明AI可伪装有害蛋白，微软Science发文揭示“零日漏洞”，DNA合成公司紧急升级筛查系统",
-    "link": "https://www.mittrchina.com/news/detail/15305",
-    "pub_date": "2025-10-03 19:08:16",
-    "author": "DeepTech深科技"
   }
 ]
