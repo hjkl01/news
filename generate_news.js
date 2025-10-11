@@ -61,10 +61,8 @@ function generate_title() {
     '国外': 'foreign',
     '科技': 'tech',
     '技术': 'code',
-    '资讯': 'info',
     '论坛': 'forum',
     '娱乐': 'funny',
-    '公众号': 'public'
   };
   const db = connectDb('rss.db');
   // 查询所有分类下每个feed_name最新20条
