@@ -1,5 +1,35 @@
 [
   {
+    "id": 6576,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "《人民日报》詹姆斯“署名文章”：NBA面临的政治雷区",
+    "link": "https://cn.nytimes.com/usa/20251013/china-nba-lebron/dual",
+    "pub_date": "2025-10-13 12:06:02",
+    "author": null
+  },
+  {
+    "id": 6578,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "贸易战再次升级对中美关系意味着什么",
+    "link": "https://cn.nytimes.com/china/20251013/china-trump-tariff-threat/dual",
+    "pub_date": "2025-10-13 10:36:02",
+    "author": null
+  },
+  {
+    "id": 6580,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "中国拘留多名地下教会成员，引发新一轮宗教镇压担忧",
+    "link": "https://cn.nytimes.com/china/20251013/china-church-pastor-detained/dual",
+    "pub_date": "2025-10-13 10:36:02",
+    "author": null
+  },
+  {
     "id": 74,
     "feed_name": "纽约时报双语版",
     "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
@@ -300,6 +330,16 @@
     "author": null
   },
   {
+    "id": 5813,
+    "feed_name": "ABC 澳大利亚广播公司",
+    "feed_url": "https://plink.anyfeeder.com/abc/cn",
+    "category": "国外",
+    "title": "美国曾在中国宣布扩大稀土出口管制后请求通话 但遭推迟",
+    "link": "https://newsapp.abc.net.au/newsapp/chinese/2025-10-13/us-tried-to-reach-china-after-exports-controls-expansion/105883924",
+    "pub_date": "2025-10-13 08:19:03",
+    "author": null
+  },
+  {
     "id": 344,
     "feed_name": "ABC 澳大利亚广播公司",
     "feed_url": "https://plink.anyfeeder.com/abc/cn",
@@ -397,6 +437,46 @@
     "title": "特朗普称四周后与习近平会晤重点谈美国大豆出口",
     "link": "https://newsapp.abc.net.au/newsapp/chinese/2025-10-02/trump-says-china-s-xi-using-soy-as-negotiation-tactic/105842748",
     "pub_date": "2025-10-02 09:49:03",
+    "author": null
+  },
+  {
+    "id": 6341,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "用臉部熱成像技術解讀你面臨的壓力",
+    "link": "https://www.bbc.com/zhongwen/articles/c201r4dnyevo/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-10-13 13:35:13",
+    "author": null
+  },
+  {
+    "id": 6346,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "南非巫師公開將迷幻藥用於醫學治療",
+    "link": "https://www.bbc.com/zhongwen/articles/cnveyz7g6qeo/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-10-13 13:32:19",
+    "author": null
+  },
+  {
+    "id": 6351,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "28 歲就拉皮？年輕世代為何越來越依賴整形手術？",
+    "link": "https://www.bbc.com/zhongwen/articles/c2373958j22o/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-10-13 09:43:45",
+    "author": null
+  },
+  {
+    "id": 6356,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "「後果將非常嚴重」：矽谷對AI泡沫破裂的擔憂正在升溫",
+    "link": "https://www.bbc.com/zhongwen/articles/ce3y3gdv5yxo/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-10-13 09:38:32",
     "author": null
   },
   {
@@ -557,46 +637,6 @@
     "title": "以色列哈馬斯接受第一階段和平計劃，72小時內釋放全部在世以方人質",
     "link": "https://www.bbc.com/zhongwen/articles/cd9y335nd04o/trad?at_medium=RSS&at_campaign=rss",
     "pub_date": "2025-10-09 17:24:37",
-    "author": null
-  },
-  {
-    "id": 524,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "十一長假：香港力推生態旅遊，但熱門景點遭受破壞前景堪憂",
-    "link": "https://www.bbc.com/zhongwen/articles/cwyr4zjpw92o/trad?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2025-10-09 12:59:49",
-    "author": null
-  },
-  {
-    "id": 529,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "從街頭乞丐到醫生：中國奇跡醫師李創業的故事",
-    "link": "https://www.bbc.com/zhongwen/articles/c930zlyng09o/trad?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2025-10-09 08:26:54",
-    "author": null
-  },
-  {
-    "id": 534,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "加拿大海洋公園威脅將對30頭白鯨實施安樂死",
-    "link": "https://www.bbc.com/zhongwen/articles/c4gj1redr3po/trad?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2025-10-09 08:26:17",
-    "author": null
-  },
-  {
-    "id": 539,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "中國遊客停擺 六年後台灣能靠東南亞旅客填補空缺嗎？",
-    "link": "https://www.bbc.com/zhongwen/articles/c237d71pm35o/trad?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2025-10-08 19:16:20",
     "author": null
   }
 ]
