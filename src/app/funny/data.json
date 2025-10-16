@@ -280,6 +280,16 @@
     "author": "xilei"
   },
   {
+    "id": 15615,
+    "feed_name": "豆瓣最受欢迎的影评",
+    "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
+    "category": "娱乐",
+    "title": "北国之恋-1992自立之短评太多写不下版 (评论: 北国之恋：1992自立)",
+    "link": "https://movie.douban.com/review/17152126/",
+    "pub_date": "2025-10-15 23:43:41",
+    "author": null
+  },
+  {
     "id": 14214,
     "feed_name": "豆瓣最受欢迎的影评",
     "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
@@ -458,6 +468,16 @@
     "link": "https://movie.douban.com/review/17134201/",
     "pub_date": "2025-10-09 11:37:16",
     "author": null
+  },
+  {
+    "id": 15551,
+    "feed_name": "简书 / 首页",
+    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
+    "category": "娱乐",
+    "title": "干部干事创业，既要有担当之心，又要有担当之能。",
+    "link": "https://www.jianshu.com/p/7933e291e818",
+    "pub_date": "2025-10-16 14:09:51",
+    "author": "小郑_102b"
   },
   {
     "id": 14163,
@@ -648,15 +668,5 @@
     "link": "https://www.jianshu.com/p/ddf96ffc0d43",
     "pub_date": "2025-10-13 13:40:22",
     "author": "玲玲欢欢"
-  },
-  {
-    "id": 5494,
-    "feed_name": "简书 / 首页",
-    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
-    "category": "娱乐",
-    "title": "个人信用权：数字时代的法律新思考",
-    "link": "https://www.jianshu.com/p/ae4f6e22f8c9",
-    "pub_date": "2025-10-13 05:59:08",
-    "author": "大数据检索中心"
   }
 ]

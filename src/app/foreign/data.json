@@ -1,5 +1,35 @@
 [
   {
+    "id": 14747,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "中国对特朗普亮出最强底牌，妙招还是昏招？",
+    "link": "https://cn.nytimes.com/china/20251016/china-trump-tariffs/dual",
+    "pub_date": "2025-10-16 13:06:02",
+    "author": null
+  },
+  {
+    "id": 14750,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "神秘CEO和数十亿美元销售：被禁英伟达芯片流入中国？",
+    "link": "https://cn.nytimes.com/business/20251016/nvidia-chips-china-megaspeed/dual",
+    "pub_date": "2025-10-16 11:36:02",
+    "author": null
+  },
+  {
+    "id": 14753,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "美国严重依赖中国药品原材料",
+    "link": "https://cn.nytimes.com/usa/20251016/us-drugs-china-production/dual",
+    "pub_date": "2025-10-16 09:36:01",
+    "author": null
+  },
+  {
     "id": 13268,
     "feed_name": "纽约时报双语版",
     "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
@@ -167,36 +197,6 @@
     "title": "青藏高原，中国的清洁能源网络试验场",
     "link": "https://cn.nytimes.com/business/20251010/china-solar-tibetan-plateau/dual",
     "pub_date": "2025-10-10 13:36:02",
-    "author": null
-  },
-  {
-    "id": 101,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
-    "category": "国外",
-    "title": "以色列批准加沙停火协议",
-    "link": "https://cn.nytimes.com/world/20251010/heres-the-latest/dual",
-    "pub_date": "2025-10-10 12:06:03",
-    "author": null
-  },
-  {
-    "id": 108,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
-    "category": "国外",
-    "title": "美国解雇一名外交官，称其隐瞒与中共官员之女恋爱关系",
-    "link": "https://cn.nytimes.com/usa/20251010/us-diplomat-fired-relationship-china/dual",
-    "pub_date": "2025-10-10 09:36:02",
-    "author": null
-  },
-  {
-    "id": 115,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
-    "category": "国外",
-    "title": "华裔商人被控为中国公民“代捐”助特朗普竞选",
-    "link": "https://cn.nytimes.com/usa/20251009/daniel-lou-campaign-contributions/dual",
-    "pub_date": "2025-10-09 16:06:02",
     "author": null
   },
   {
@@ -400,6 +400,16 @@
     "author": null
   },
   {
+    "id": 14706,
+    "feed_name": "ABC 澳大利亚广播公司",
+    "feed_url": "https://plink.anyfeeder.com/abc/cn",
+    "category": "国外",
+    "title": "“中国在对抗全世界” 美国警告中国不要实施稀土新出口管制",
+    "link": "https://newsapp.abc.net.au/newsapp/chinese/2025-10-16/greer-bessent-blast-china-s-rare-earths-curbs/105897782",
+    "pub_date": "2025-10-16 07:19:03",
+    "author": null
+  },
+  {
     "id": 11748,
     "feed_name": "ABC 澳大利亚广播公司",
     "feed_url": "https://plink.anyfeeder.com/abc/cn",
@@ -537,6 +547,46 @@
     "title": "特朗普称四周后与习近平会晤重点谈美国大豆出口",
     "link": "https://newsapp.abc.net.au/newsapp/chinese/2025-10-02/trump-says-china-s-xi-using-soy-as-negotiation-tactic/105842748",
     "pub_date": "2025-10-02 09:49:03",
+    "author": null
+  },
+  {
+    "id": 15169,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "ChatGPT即將為成人用戶開放驗證過的色情內容",
+    "link": "https://www.bbc.com/zhongwen/articles/cjr03rjq445o/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-10-16 13:02:30",
+    "author": null
+  },
+  {
+    "id": 15171,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "國民黨主席選舉「兩強之爭」：郝龍斌與鄭麗文分別代表什麼路線？",
+    "link": "https://www.bbc.com/zhongwen/articles/ckgkn58z119o/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-10-16 12:13:44",
+    "author": null
+  },
+  {
+    "id": 15175,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "中國逮捕30名基督徒，民眾擔心這是更大規模鎮壓的開端",
+    "link": "https://www.bbc.com/zhongwen/articles/c891l483y19o/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-10-16 12:08:43",
+    "author": null
+  },
+  {
+    "id": 15179,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "美英聯手查獲太子集團140億美元比特幣，幕後主使陳志涉「龐大電詐帝國」",
+    "link": "https://www.bbc.com/zhongwen/articles/c5yl31g7gdpo/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-10-16 10:53:10",
     "author": null
   },
   {
@@ -697,46 +747,6 @@
     "title": "荷蘭政府因「經濟安全風險」出手干預在該國營運的中國半導體公司",
     "link": "https://www.bbc.com/zhongwen/articles/cq832012jwko/trad?at_medium=RSS&at_campaign=rss",
     "pub_date": "2025-10-13 16:21:32",
-    "author": null
-  },
-  {
-    "id": 7657,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "喜馬拉雅秋季登山為何變得如此危險",
-    "link": "https://www.bbc.com/zhongwen/articles/cq50dz6z17eo/trad?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2025-10-13 14:32:14",
-    "author": null
-  },
-  {
-    "id": 6341,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "用臉部熱成像技術解讀你面臨的壓力",
-    "link": "https://www.bbc.com/zhongwen/articles/c201r4dnyevo/trad?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2025-10-13 13:35:13",
-    "author": null
-  },
-  {
-    "id": 6346,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "南非巫師公開將迷幻藥用於醫學治療",
-    "link": "https://www.bbc.com/zhongwen/articles/cnveyz7g6qeo/trad?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2025-10-13 13:32:19",
-    "author": null
-  },
-  {
-    "id": 6351,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "28 歲就拉皮？年輕世代為何越來越依賴整形手術？",
-    "link": "https://www.bbc.com/zhongwen/articles/c2373958j22o/trad?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2025-10-13 09:43:45",
     "author": null
   }
 ]
