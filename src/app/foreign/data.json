@@ -1,5 +1,35 @@
 [
   {
+    "id": 17661,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "中美争夺科技供应链控制权，企业承压",
+    "link": "https://cn.nytimes.com/business/20251017/nexperia-netherlands-us-china/dual",
+    "pub_date": "2025-10-17 13:36:02",
+    "author": null
+  },
+  {
+    "id": 17665,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "贸易战升温，中国官方煽动爱国情绪但保留余地",
+    "link": "https://cn.nytimes.com/china/20251017/china-nationalism-trade-war/dual",
+    "pub_date": "2025-10-17 11:36:01",
+    "author": null
+  },
+  {
+    "id": 17669,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "中美贸易战让巴西大豆迎来机遇，却让森林陷入危机",
+    "link": "https://cn.nytimes.com/business/20251017/china-brazil-soybeans-trade-midwest-amazon/dual",
+    "pub_date": "2025-10-17 10:36:01",
+    "author": null
+  },
+  {
     "id": 16193,
     "feed_name": "纽约时报双语版",
     "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
@@ -170,33 +200,43 @@
     "author": null
   },
   {
-    "id": 6580,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "id": 17535,
+    "feed_name": "RFI 法国国际广播电台",
+    "feed_url": "https://plink.anyfeeder.com/rfi/cn",
     "category": "国外",
-    "title": "中国拘留多名地下教会成员，引发新一轮宗教镇压担忧",
-    "link": "https://cn.nytimes.com/china/20251013/china-church-pastor-detained/dual",
-    "pub_date": "2025-10-13 10:36:02",
+    "title": "英军情五处：中国间谍活动对英国构成日常威胁",
+    "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251017-%E8%8B%B1%E5%86%9B%E6%83%85%E4%BA%94%E5%A4%84-%E4%B8%AD%E5%9B%BD%E9%97%B4%E8%B0%8D%E6%B4%BB%E5%8A%A8%E5%AF%B9%E8%8B%B1%E5%9B%BD%E6%9E%84%E6%88%90%E6%97%A5%E5%B8%B8%E5%A8%81%E8%83%81",
+    "pub_date": "2025-10-17 08:15:03",
     "author": null
   },
   {
-    "id": 74,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "id": 17539,
+    "feed_name": "RFI 法国国际广播电台",
+    "feed_url": "https://plink.anyfeeder.com/rfi/cn",
     "category": "国外",
-    "title": "中国推进电网升级：西电东送，建设特高压输电网络",
-    "link": "https://cn.nytimes.com/business/20251011/china-electric-grid/dual",
-    "pub_date": "2025-10-11 13:06:01",
+    "title": "加拿大相信G7可减少对来自中国的稀土依赖 日本呼吁共同应对",
+    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251016-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%9B%B8%E4%BF%A1g7%E5%8F%AF%E5%87%8F%E5%B0%91%E5%AF%B9%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A8%80%E5%9C%9F%E4%BE%9D%E8%B5%96-%E6%97%A5%E6%9C%AC%E5%91%BC%E5%90%81%E5%85%B1%E5%90%8C%E5%BA%94%E5%AF%B9",
+    "pub_date": "2025-10-17 06:45:01",
     "author": null
   },
   {
-    "id": 81,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "id": 17543,
+    "feed_name": "RFI 法国国际广播电台",
+    "feed_url": "https://plink.anyfeeder.com/rfi/cn",
     "category": "国外",
-    "title": "特朗普威胁对中国加征100%关税，回应稀土管制",
-    "link": "https://cn.nytimes.com/usa/20251011/trump-xi-china-tariffs-rare-earth/dual",
-    "pub_date": "2025-10-11 11:06:01",
+    "title": "特朗普与普京通话　同意布达佩斯会晤寻求俄乌战争终结",
+    "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251016-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%99%AE%E4%BA%AC%E9%80%9A%E8%AF%9D-%E5%90%8C%E6%84%8F%E5%B8%83%E8%BE%BE%E4%BD%A9%E6%96%AF%E4%BC%9A%E6%99%A4%E5%AF%BB%E6%B1%82%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89%E7%BB%88%E7%BB%93",
+    "pub_date": "2025-10-17 06:45:01",
+    "author": null
+  },
+  {
+    "id": 17547,
+    "feed_name": "RFI 法国国际广播电台",
+    "feed_url": "https://plink.anyfeeder.com/rfi/cn",
+    "category": "国外",
+    "title": "这张卡脖子的稀土牌 习近平是否打过头",
+    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251016-%E8%BF%99%E5%BC%A0%E5%8D%A1%E8%84%96%E5%AD%90%E7%9A%84%E7%A8%80%E5%9C%9F%E7%89%8C-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%98%AF%E5%90%A6%E6%89%93%E8%BF%87%E5%A4%B4",
+    "pub_date": "2025-10-17 06:45:01",
     "author": null
   },
   {
@@ -360,43 +400,23 @@
     "author": null
   },
   {
-    "id": 16187,
-    "feed_name": "RFI 法国国际广播电台",
-    "feed_url": "https://plink.anyfeeder.com/rfi/cn",
+    "id": 17562,
+    "feed_name": "ABC 澳大利亚广播公司",
+    "feed_url": "https://plink.anyfeeder.com/abc/cn",
     "category": "国外",
-    "title": "香港三权分立进一步弱化 要求行政立法「良性互动丶无缝配合」",
-    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251016-%E9%A6%99%E6%B8%AF%E4%B8%89%E6%9D%83%E5%88%86%E7%AB%8B%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%BC%B1%E5%8C%96-%E8%A6%81%E6%B1%82%E8%A1%8C%E6%94%BF%E7%AB%8B%E6%B3%95-%E8%89%AF%E6%80%A7%E4%BA%92%E5%8A%A8%E4%B8%B6%E6%97%A0%E7%BC%9D%E9%85%8D%E5%90%88",
-    "pub_date": "2025-10-16 15:45:01",
+    "title": "“习家军”二十大四中全会面对清洗？“十五五规划”能让中国脱离经济困境吗？",
+    "link": "https://newsapp.abc.net.au/newsapp/chinese/2025-10-17/ccp-xi-power-base-struggle/105883952",
+    "pub_date": "2025-10-17 12:19:02",
     "author": null
   },
   {
-    "id": 16189,
-    "feed_name": "RFI 法国国际广播电台",
-    "feed_url": "https://plink.anyfeeder.com/rfi/cn",
+    "id": 17567,
+    "feed_name": "ABC 澳大利亚广播公司",
+    "feed_url": "https://plink.anyfeeder.com/abc/cn",
     "category": "国外",
-    "title": "FCC拟将香港最大电讯商踢出美国电讯网络 电盈股价急挫逾4%",
-    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251016-fcc%E6%8B%9F%E5%B0%86%E9%A6%99%E6%B8%AF%E6%9C%80%E5%A4%A7%E7%94%B5%E8%AE%AF%E5%95%86%E8%B8%A2%E5%87%BA%E7%BE%8E%E5%9B%BD%E7%94%B5%E8%AE%AF%E7%BD%91%E7%BB%9C-%E7%94%B5%E7%9B%88%E8%82%A1%E4%BB%B7%E6%80%A5%E6%8C%AB%E9%80%BE4",
-    "pub_date": "2025-10-16 15:45:01",
-    "author": null
-  },
-  {
-    "id": 13190,
-    "feed_name": "RFI 法国国际广播电台",
-    "feed_url": "https://plink.anyfeeder.com/rfi/cn",
-    "category": "国外",
-    "title": "中国艺术家蔡国强喜马拉雅烟花秀被指破坏环境 在西藏遭追责",
-    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251015-%E4%B8%AD%E5%9B%BD%E8%89%BA%E6%9C%AF%E5%AE%B6%E8%94%A1%E5%9B%BD%E5%BC%BA%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E7%83%9F%E8%8A%B1%E7%A7%80%E8%A2%AB%E6%8C%87%E7%A0%B4%E5%9D%8F%E7%8E%AF%E5%A2%83-%E5%9C%A8%E8%A5%BF%E8%97%8F%E9%81%AD%E8%BF%BD%E8%B4%A3",
-    "pub_date": "2025-10-16 06:15:03",
-    "author": null
-  },
-  {
-    "id": 13194,
-    "feed_name": "RFI 法国国际广播电台",
-    "feed_url": "https://plink.anyfeeder.com/rfi/cn",
-    "category": "国外",
-    "title": "法国加速稀土精炼与回收布局　欧盟制定战略减少对中国依赖",
-    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251015-%E6%B3%95%E5%9B%BD%E5%8A%A0%E9%80%9F%E7%A8%80%E5%9C%9F%E7%B2%BE%E7%82%BC%E4%B8%8E%E5%9B%9E%E6%94%B6%E5%B8%83%E5%B1%80-%E6%AC%A7%E7%9B%9F%E5%88%B6%E5%AE%9A%E6%88%98%E7%95%A5%E5%87%8F%E5%B0%91%E5%AF%B9%E4%B8%AD%E5%9B%BD%E4%BE%9D%E8%B5%96",
-    "pub_date": "2025-10-16 06:15:03",
+    "title": "印度到底有没有答应特朗普停止购买俄罗斯石油？",
+    "link": "https://newsapp.abc.net.au/newsapp/chinese/2025-10-17/donald-trump-says-india-will-stop-buying-russian-oil/105902964",
+    "pub_date": "2025-10-17 08:49:02",
     "author": null
   },
   {
@@ -550,6 +570,66 @@
     "author": null
   },
   {
+    "id": 17842,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "在「非常有建設性」的通話後，特朗普稱將在匈牙利與普京會面",
+    "link": "https://www.bbc.com/zhongwen/articles/c205gzpx0n9o/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-10-17 13:22:06",
+    "author": null
+  },
+  {
+    "id": 17848,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "中國間諜案告吹，英國軍情五處處長感「沮喪」",
+    "link": "https://www.bbc.com/zhongwen/articles/cm2e70m8e2zo/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-10-17 13:06:04",
+    "author": null
+  },
+  {
+    "id": 17853,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "台北車站性侵案：香港女遊客遭公然性侵十分鐘無人制止，「公共冷漠」引關注",
+    "link": "https://www.bbc.com/zhongwen/articles/cg5178lyg99o/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-10-17 12:47:52",
+    "author": null
+  },
+  {
+    "id": 17860,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "台灣空姐猝逝風波：長榮航空再爆勞動剝削爭議，為何員工不敢請病假？",
+    "link": "https://www.bbc.com/zhongwen/articles/ckg4zwe0kq2o/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-10-17 10:01:51",
+    "author": null
+  },
+  {
+    "id": 17866,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "中國亮出「最強稀土牌」：「 卡脖子」方案背後的談判籌碼",
+    "link": "https://www.bbc.com/zhongwen/articles/cjek039jdkqo/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-10-17 08:02:31",
+    "author": null
+  },
+  {
+    "id": 17877,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "中共四中全會：審議「十五五」規劃，「整肅」高層維穩及歷史角色等幾大看點",
+    "link": "https://www.bbc.com/zhongwen/articles/cn95wn518wgo/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-10-17 07:59:28",
+    "author": null
+  },
+  {
     "id": 15169,
     "feed_name": "BBC 中文版",
     "feed_url": "https://plink.anyfeeder.com/bbc/cn",
@@ -687,66 +767,6 @@
     "title": "美國影后黛安·基頓辭世 伍迪·艾倫長文悼念",
     "link": "https://www.bbc.com/zhongwen/articles/cj0e8686rypo/trad?at_medium=RSS&at_campaign=rss",
     "pub_date": "2025-10-14 14:46:24",
-    "author": null
-  },
-  {
-    "id": 9397,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "「你的預約已重新安排」：政府停擺導致美國公民入籍儀式取消",
-    "link": "https://www.bbc.com/zhongwen/articles/ce3x144qzzdo/trad?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2025-10-14 13:44:14",
-    "author": null
-  },
-  {
-    "id": 9400,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "美國麻疹病例創33年來新高，超過150名學童被隔離",
-    "link": "https://www.bbc.com/zhongwen/articles/cd67y92e7jeo/trad?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2025-10-14 12:43:22",
-    "author": null
-  },
-  {
-    "id": 9403,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "加沙停火：人質獲釋，特朗普稱中東迎來「歷史性曙光」",
-    "link": "https://www.bbc.com/zhongwen/articles/ce9dz7r5m0ko/trad?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2025-10-14 12:29:34",
-    "author": null
-  },
-  {
-    "id": 9406,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "一圖勝千言：印度女記者這次佔據了塔利班外長記者會前排",
-    "link": "https://www.bbc.com/zhongwen/articles/c2emdywkgv2o/trad?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2025-10-14 12:09:03",
-    "author": null
-  },
-  {
-    "id": 7639,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "美國呼籲中國釋放30名有影響力的地下教會領袖",
-    "link": "https://www.bbc.com/zhongwen/articles/cwynw7xgze5o/trad?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2025-10-13 19:39:34",
-    "author": null
-  },
-  {
-    "id": 7645,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "加沙停火：20名在世以色列人質全部獲釋，特朗普閃電訪問中東",
-    "link": "https://www.bbc.com/zhongwen/articles/c2lp1k0e45do/trad?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2025-10-13 16:30:15",
     "author": null
   }
 ]
