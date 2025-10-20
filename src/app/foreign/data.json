@@ -1,5 +1,45 @@
 [
   {
+    "id": 26452,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "中国三季度GDP增速稳定，但消费者更加谨慎",
+    "link": "https://cn.nytimes.com/business/20251020/china-economy-gdp-q3/dual",
+    "pub_date": "2025-10-20 12:36:02",
+    "author": null
+  },
+  {
+    "id": 26458,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "中国国航飞机行李架内锂电池起火",
+    "link": "https://cn.nytimes.com/china/20251020/air-china-flight-lithium-battery-fire/dual",
+    "pub_date": "2025-10-20 10:06:02",
+    "author": null
+  },
+  {
+    "id": 26464,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "习近平继续清洗军方最高层，军委副主席何卫东落马",
+    "link": "https://cn.nytimes.com/china/20251020/china-military-general-he-corruption/dual",
+    "pub_date": "2025-10-20 10:06:02",
+    "author": null
+  },
+  {
+    "id": 26470,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "中美角力中，苹果“两边下注”面临平衡考验",
+    "link": "https://cn.nytimes.com/business/20251020/apple-china-us-tim-cook-investment-tech-war/dual",
+    "pub_date": "2025-10-20 09:36:02",
+    "author": null
+  },
+  {
     "id": 19134,
     "feed_name": "纽约时报双语版",
     "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
@@ -157,46 +197,6 @@
     "title": "拉斯维加斯赌场大亨如何帮助NBA重返中国",
     "link": "https://cn.nytimes.com/china/20251014/las-vegas-sands-nba-china-macau-casino-dumont-games/dual",
     "pub_date": "2025-10-14 14:36:02",
-    "author": null
-  },
-  {
-    "id": 8860,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
-    "category": "国外",
-    "title": "特朗普对华新关税威胁引发全球股市震荡",
-    "link": "https://cn.nytimes.com/business/20251014/trump-china-tariffs-global-markets/dual",
-    "pub_date": "2025-10-14 11:06:02",
-    "author": null
-  },
-  {
-    "id": 8864,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
-    "category": "国外",
-    "title": "中国举办全球妇女峰会，但打压女性权益活动",
-    "link": "https://cn.nytimes.com/china/20251014/china-womens-rights-feminism/dual",
-    "pub_date": "2025-10-14 10:06:02",
-    "author": null
-  },
-  {
-    "id": 8872,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
-    "category": "国外",
-    "title": "从汽车到战斗机：中国新出口限制或对全球造成沉重打击",
-    "link": "https://cn.nytimes.com/business/20251013/china-rare-earth-export-controls/dual",
-    "pub_date": "2025-10-14 07:36:02",
-    "author": null
-  },
-  {
-    "id": 8879,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
-    "category": "国外",
-    "title": "为什么加沙停火协议未能更早达成",
-    "link": "https://cn.nytimes.com/world/20251013/lost-chances-hostage-deal-gaza-israel/dual",
-    "pub_date": "2025-10-14 07:36:02",
     "author": null
   },
   {
@@ -400,6 +400,16 @@
     "author": null
   },
   {
+    "id": 26318,
+    "feed_name": "ABC 澳大利亚广播公司",
+    "feed_url": "https://plink.anyfeeder.com/abc/cn",
+    "category": "国外",
+    "title": "中国国民党新任主席郑丽文复电习近平未提“国家统一”",
+    "link": "https://newsapp.abc.net.au/newsapp/chinese/2025-10-20/china-s-xi-calls-for-reunification-to-kmt-new-leader/105910754",
+    "pub_date": "2025-10-20 07:49:03",
+    "author": null
+  },
+  {
     "id": 17562,
     "feed_name": "ABC 澳大利亚广播公司",
     "feed_url": "https://plink.anyfeeder.com/abc/cn",
@@ -567,6 +577,16 @@
     "title": "特朗普称四周后与习近平会晤重点谈美国大豆出口",
     "link": "https://newsapp.abc.net.au/newsapp/chinese/2025-10-02/trump-says-china-s-xi-using-soy-as-negotiation-tactic/105842748",
     "pub_date": "2025-10-02 09:49:03",
+    "author": null
+  },
+  {
+    "id": 26668,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "中共「十五五規劃」：習近平「全面主掌中國經濟後第一個五年發展藍圖」的四個看點",
+    "link": "https://www.bbc.com/zhongwen/articles/c4gpz999pkvo/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-10-20 08:22:13",
     "author": null
   },
   {
@@ -757,16 +777,6 @@
     "title": "分析：加沙停火特朗普角色至為關鍵，但和平協議仍然渺茫",
     "link": "https://www.bbc.com/zhongwen/articles/c4gjq9ql08lo/trad?at_medium=RSS&at_campaign=rss",
     "pub_date": "2025-10-15 14:50:54",
-    "author": null
-  },
-  {
-    "id": 13513,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "美中貿易戰持續升溫 互徵船隻港口費",
-    "link": "https://www.bbc.com/zhongwen/articles/cly4vjd8p90o/trad?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2025-10-15 13:40:13",
     "author": null
   }
 ]
