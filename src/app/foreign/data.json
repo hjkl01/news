@@ -1,5 +1,45 @@
 [
   {
+    "id": 29360,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "贸易战的另一张王牌？从义乌看“中国硬核制造实力”",
+    "link": "https://cn.nytimes.com/business/20251021/trump-china-tariffs-exports-yiwu/dual",
+    "pub_date": "2025-10-21 13:36:05",
+    "author": null
+  },
+  {
+    "id": 29368,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "美国与澳大利亚达成稀土协议，寻求减少对华依赖",
+    "link": "https://cn.nytimes.com/asia-pacific/20251021/china-critical-minerals-trump-australia/dual",
+    "pub_date": "2025-10-21 13:36:05",
+    "author": null
+  },
+  {
+    "id": 29374,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "萦绕四中全会的禁忌问题：谁将接班习近平",
+    "link": "https://cn.nytimes.com/china/20251021/china-communist-succession-plenum/dual",
+    "pub_date": "2025-10-21 10:06:03",
+    "author": null
+  },
+  {
+    "id": 29380,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "澳大利亚称中国战斗机在其军机附近发射照明弹",
+    "link": "https://cn.nytimes.com/asia-pacific/20251021/china-fighter-jets-australia/dual",
+    "pub_date": "2025-10-21 10:06:03",
+    "author": null
+  },
+  {
     "id": 27826,
     "feed_name": "纽约时报双语版",
     "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
@@ -160,43 +200,13 @@
     "author": null
   },
   {
-    "id": 13268,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "id": 29226,
+    "feed_name": "RFI 法国国际广播电台",
+    "feed_url": "https://plink.anyfeeder.com/rfi/cn",
     "category": "国外",
-    "title": "美国和阿拉伯世界如何联手促成加沙协议",
-    "link": "https://cn.nytimes.com/world/20251015/us-arab-gaza-deal/dual",
-    "pub_date": "2025-10-15 17:06:02",
-    "author": null
-  },
-  {
-    "id": 11817,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
-    "category": "国外",
-    "title": "中美将全世界卷入贸易战“交火”",
-    "link": "https://cn.nytimes.com/business/20251015/us-china-trade-tariffs-global-economy/dual",
-    "pub_date": "2025-10-15 11:36:03",
-    "author": null
-  },
-  {
-    "id": 11819,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
-    "category": "国外",
-    "title": "美国对中国船舶征收港口费，中国威胁报复",
-    "link": "https://cn.nytimes.com/business/20251015/us-starts-charging-chinese-ships-to-dock-at-its-ports/dual",
-    "pub_date": "2025-10-15 10:06:02",
-    "author": null
-  },
-  {
-    "id": 11821,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
-    "category": "国外",
-    "title": "中国想吸引外国青年科技人才，民众不买账",
-    "link": "https://cn.nytimes.com/china/20251015/china-stem-visa-racist-backlash/dual",
-    "pub_date": "2025-10-15 09:06:03",
+    "title": "阿联酋货机香港坠海，两名地勤人员死亡",
+    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251020-%E9%98%BF%E8%81%94%E9%85%8B%E8%B4%A7%E6%9C%BA%E9%A6%99%E6%B8%AF%E5%9D%A0%E6%B5%B7%EF%BC%8C%E4%B8%A4%E5%90%8D%E5%9C%B0%E5%8B%A4%E4%BA%BA%E5%91%98%E6%AD%BB%E4%BA%A1",
+    "pub_date": "2025-10-21 06:45:02",
     "author": null
   },
   {
@@ -390,13 +400,23 @@
     "author": null
   },
   {
-    "id": 27814,
-    "feed_name": "RFI 法国国际广播电台",
-    "feed_url": "https://plink.anyfeeder.com/rfi/cn",
+    "id": 29269,
+    "feed_name": "ABC 澳大利亚广播公司",
+    "feed_url": "https://plink.anyfeeder.com/abc/cn",
     "category": "国外",
-    "title": "日本自民党与维新会组建联合政权  21日诞生日本首位女首相",
-    "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251020-%E6%97%A5%E6%9C%AC%E8%87%AA%E6%B0%91%E5%85%9A%E4%B8%8E%E7%BB%B4%E6%96%B0%E4%BC%9A%E7%BB%84%E5%BB%BA%E8%81%94%E5%90%88%E6%94%BF%E6%9D%83-21%E6%97%A5%E8%AF%9E%E7%94%9F%E6%97%A5%E6%9C%AC%E9%A6%96%E4%BD%8D%E5%A5%B3%E9%A6%96%E7%9B%B8",
-    "pub_date": "2025-10-20 17:45:02",
+    "title": "中国企业正在改变其在非洲的经营方式",
+    "link": "https://newsapp.abc.net.au/newsapp/chinese/2025-10-21/chinese-companies-changing-the-way-they-operate-in-africa/105872818",
+    "pub_date": "2025-10-21 12:19:03",
+    "author": null
+  },
+  {
+    "id": 29275,
+    "feed_name": "ABC 澳大利亚广播公司",
+    "feed_url": "https://plink.anyfeeder.com/abc/cn",
+    "category": "国外",
+    "title": "澳洲总理阿尔巴尼斯与美国总统特朗普举行“历史性”会晤",
+    "link": "https://newsapp.abc.net.au/newsapp/chinese/2025-10-21/donald-trump-and-anthony-albanese-meet-in-washington/105914834",
+    "pub_date": "2025-10-21 07:19:04",
     "author": null
   },
   {
@@ -580,13 +600,53 @@
     "author": null
   },
   {
-    "id": 419,
-    "feed_name": "ABC 澳大利亚广播公司",
-    "feed_url": "https://plink.anyfeeder.com/abc/cn",
+    "id": 29640,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
     "category": "国外",
-    "title": "特朗普称四周后与习近平会晤重点谈美国大豆出口",
-    "link": "https://newsapp.abc.net.au/newsapp/chinese/2025-10-02/trump-says-china-s-xi-using-soy-as-negotiation-tactic/105842748",
-    "pub_date": "2025-10-02 09:49:03",
+    "title": "高市早苗當選首相 被視為安倍「弟子」的她對華策略是否會有別於「議員高市」",
+    "link": "https://www.bbc.com/zhongwen/articles/cd631xg2n4eo/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-10-21 13:34:54",
+    "author": null
+  },
+  {
+    "id": 29647,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "緬甸臭名昭著的KK詐騙園區被軍政府攻佔，背後涉華人黑幫",
+    "link": "https://www.bbc.com/zhongwen/articles/cr5e3y3l05no/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-10-21 13:06:35",
+    "author": null
+  },
+  {
+    "id": 29653,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "習式反腐「打虎拍蠅」12年後，中共高官為何「越反越腐」？",
+    "link": "https://www.bbc.com/zhongwen/articles/cx27l1rz6xko/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-10-21 10:33:10",
+    "author": null
+  },
+  {
+    "id": 29659,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "我為什麼在14歲就長白髮了，還有辦法逆轉嗎？",
+    "link": "https://www.bbc.com/zhongwen/articles/c9d65g26eyjo/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-10-21 08:21:34",
+    "author": null
+  },
+  {
+    "id": 29665,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "為什麼我會愛上一本名為《雖然想死，但還是想吃辣炒年糕》的書",
+    "link": "https://www.bbc.com/zhongwen/articles/cwyp1n3rjnyo/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-10-21 08:15:15",
     "author": null
   },
   {
@@ -737,56 +797,6 @@
     "title": "台北車站性侵案：香港女遊客遭公然性侵十分鐘無人制止，「公共冷漠」引關注",
     "link": "https://www.bbc.com/zhongwen/articles/cg5178lyg99o/trad?at_medium=RSS&at_campaign=rss",
     "pub_date": "2025-10-17 12:47:52",
-    "author": null
-  },
-  {
-    "id": 17860,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "台灣空姐猝逝風波：長榮航空再爆勞動剝削爭議，為何員工不敢請病假？",
-    "link": "https://www.bbc.com/zhongwen/articles/ckg4zwe0kq2o/trad?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2025-10-17 10:01:51",
-    "author": null
-  },
-  {
-    "id": 17866,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "中國亮出「最強稀土牌」：「 卡脖子」方案背後的談判籌碼",
-    "link": "https://www.bbc.com/zhongwen/articles/cjek039jdkqo/trad?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2025-10-17 08:02:31",
-    "author": null
-  },
-  {
-    "id": 17877,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "中共四中全會：審議「十五五」規劃，「整肅」高層維穩及歷史角色等幾大看點",
-    "link": "https://www.bbc.com/zhongwen/articles/cn95wn518wgo/trad?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2025-10-17 07:59:28",
-    "author": null
-  },
-  {
-    "id": 19394,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "中共四中全會：審議「十五五」規劃，「整肅」高層及歷史角色等幾大看點",
-    "link": "https://www.bbc.com/zhongwen/articles/cn95wn518wgo/trad?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2025-10-17 07:59:28",
-    "author": null
-  },
-  {
-    "id": 15169,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "ChatGPT即將為成人用戶開放驗證過的色情內容",
-    "link": "https://www.bbc.com/zhongwen/articles/cjr03rjq445o/trad?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2025-10-16 13:02:30",
     "author": null
   }
 ]
