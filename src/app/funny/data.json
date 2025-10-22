@@ -340,6 +340,16 @@
     "author": "xilei"
   },
   {
+    "id": 33260,
+    "feed_name": "豆瓣最受欢迎的影评",
+    "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
+    "category": "娱乐",
+    "title": "共同体的类型片 (评论: 一战再战)",
+    "link": "https://movie.douban.com/review/17161087/",
+    "pub_date": "2025-10-22 01:31:47",
+    "author": null
+  },
+  {
     "id": 31508,
     "feed_name": "豆瓣最受欢迎的影评",
     "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
@@ -530,14 +540,34 @@
     "author": null
   },
   {
-    "id": 15615,
-    "feed_name": "豆瓣最受欢迎的影评",
-    "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
+    "id": 33240,
+    "feed_name": "简书 / 首页",
+    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
     "category": "娱乐",
-    "title": "北国之恋-1992自立之短评太多写不下版 (评论: 北国之恋：1992自立)",
-    "link": "https://movie.douban.com/review/17152126/",
-    "pub_date": "2025-10-15 23:43:41",
-    "author": null
+    "title": "论文生成ppt上传文档一键生成答辩PPT生成器的使用教程",
+    "link": "https://www.jianshu.com/p/b912a79a51fc",
+    "pub_date": "2025-10-22 12:55:11",
+    "author": "千星创作"
+  },
+  {
+    "id": 33243,
+    "feed_name": "简书 / 首页",
+    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
+    "category": "娱乐",
+    "title": "写给孩子的三国故事16曹操败走华容道",
+    "link": "https://www.jianshu.com/p/9041c76ad717",
+    "pub_date": "2025-10-22 12:55:11",
+    "author": "素琳琅"
+  },
+  {
+    "id": 33245,
+    "feed_name": "简书 / 首页",
+    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
+    "category": "娱乐",
+    "title": "是晨诵课，亦是我的成长课",
+    "link": "https://www.jianshu.com/p/eac4743142ae",
+    "pub_date": "2025-10-22 12:55:10",
+    "author": "一0一"
   },
   {
     "id": 31491,
@@ -708,35 +738,5 @@
     "link": "https://www.jianshu.com/p/06bbbe4d3d97",
     "pub_date": "2025-10-18 12:53:20",
     "author": "一直流浪"
-  },
-  {
-    "id": 21620,
-    "feed_name": "简书 / 首页",
-    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
-    "category": "娱乐",
-    "title": "分布式--Spring Security入门",
-    "link": "https://www.jianshu.com/p/7ab64719841f",
-    "pub_date": "2025-10-18 12:53:19",
-    "author": "aruba"
-  },
-  {
-    "id": 21621,
-    "feed_name": "简书 / 首页",
-    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
-    "category": "娱乐",
-    "title": "读一本好书，就是在和许多高尚的人谈话",
-    "link": "https://www.jianshu.com/p/91b4ac68e4f4",
-    "pub_date": "2025-10-18 08:28:22",
-    "author": "汉水孤雁"
-  },
-  {
-    "id": 20090,
-    "feed_name": "简书 / 首页",
-    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
-    "category": "娱乐",
-    "title": "三顾茅庐：史上最牛面试背后的真相",
-    "link": "https://www.jianshu.com/p/2c9f0e5a3579",
-    "pub_date": "2025-10-18 06:45:38",
-    "author": "箭落书边"
   }
 ]
