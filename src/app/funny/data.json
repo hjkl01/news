@@ -360,6 +360,16 @@
     "author": "xilei"
   },
   {
+    "id": 38964,
+    "feed_name": "豆瓣最受欢迎的影评",
+    "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
+    "category": "娱乐",
+    "title": "并非政治，Ocean Waves+Courage.\n基于异见者，对意识形态、角色等不同看法 (评论: 一战再战)",
+    "link": "https://movie.douban.com/review/17163790/",
+    "pub_date": "2025-10-24 04:46:06",
+    "author": null
+  },
+  {
     "id": 37514,
     "feed_name": "豆瓣最受欢迎的影评",
     "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
@@ -550,14 +560,24 @@
     "author": null
   },
   {
-    "id": 18556,
-    "feed_name": "豆瓣最受欢迎的影评",
-    "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
+    "id": 38938,
+    "feed_name": "简书 / 首页",
+    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
     "category": "娱乐",
-    "title": "这种女性题材就应该多多益善好吗！ (评论: 余生有涯)",
-    "link": "https://movie.douban.com/review/17153865/",
-    "pub_date": "2025-10-17 10:01:31",
-    "author": null
+    "title": "宠物益生菌与食物混合后放置25分钟活性保留率≥70%吗？",
+    "link": "https://www.jianshu.com/p/f4e03743f1e2",
+    "pub_date": "2025-10-24 13:05:34",
+    "author": "宠物小屋"
+  },
+  {
+    "id": 38945,
+    "feed_name": "简书 / 首页",
+    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
+    "category": "娱乐",
+    "title": "QQ、逝去的青春",
+    "link": "https://www.jianshu.com/p/1bd14c149d49",
+    "pub_date": "2025-10-24 09:47:09",
+    "author": "小小林2003"
   },
   {
     "id": 37523,
@@ -738,25 +758,5 @@
     "link": "https://www.jianshu.com/p/1ab2d94fe189",
     "pub_date": "2025-10-20 06:30:36",
     "author": "阿迷唐七"
-  },
-  {
-    "id": 24257,
-    "feed_name": "简书 / 首页",
-    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
-    "category": "娱乐",
-    "title": "零一四学校编程班—《接水果》《太空穿梭》",
-    "link": "https://www.jianshu.com/p/e3fb105b7496",
-    "pub_date": "2025-10-19 13:45:25",
-    "author": "bb5bab81e147"
-  },
-  {
-    "id": 24259,
-    "feed_name": "简书 / 首页",
-    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
-    "category": "娱乐",
-    "title": "泰国行普吉岛篇（三）",
-    "link": "https://www.jianshu.com/p/a83da5141416",
-    "pub_date": "2025-10-19 13:45:24",
-    "author": "wysw"
   }
 ]
