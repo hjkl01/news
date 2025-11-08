@@ -400,6 +400,36 @@
     "author": "xilei"
   },
   {
+    "id": 81749,
+    "feed_name": "豆瓣最受欢迎的影评",
+    "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
+    "category": "娱乐",
+    "title": "铁血与异形宇宙时间线对齐 (评论: 铁血战士：杀戮之地)",
+    "link": "https://movie.douban.com/review/17189492/",
+    "pub_date": "2025-11-08 01:29:39",
+    "author": null
+  },
+  {
+    "id": 81737,
+    "feed_name": "豆瓣最受欢迎的影评",
+    "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
+    "category": "娱乐",
+    "title": "失控的“架空现实主义”电影 (评论: 日掛中天)",
+    "link": "https://movie.douban.com/review/17189299/",
+    "pub_date": "2025-11-07 23:26:13",
+    "author": null
+  },
+  {
+    "id": 81740,
+    "feed_name": "豆瓣最受欢迎的影评",
+    "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
+    "category": "娱乐",
+    "title": "系列最佳 (评论: 铁血战士：杀戮之地)",
+    "link": "https://movie.douban.com/review/17188810/",
+    "pub_date": "2025-11-07 18:44:27",
+    "author": null
+  },
+  {
     "id": 80273,
     "feed_name": "豆瓣最受欢迎的影评",
     "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
@@ -407,6 +437,16 @@
     "title": "评《日掛中天》：根系的冲突，文化的幽魂 (评论: 日掛中天)",
     "link": "https://movie.douban.com/review/17188809/",
     "pub_date": "2025-11-07 18:43:57",
+    "author": null
+  },
+  {
+    "id": 81745,
+    "feed_name": "豆瓣最受欢迎的影评",
+    "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
+    "category": "娱乐",
+    "title": "特效：把怪兽做丑 (评论: 铁血战士：杀戮之地)",
+    "link": "https://movie.douban.com/review/17188601/",
+    "pub_date": "2025-11-07 16:19:49",
     "author": null
   },
   {
@@ -560,44 +600,34 @@
     "author": null
   },
   {
-    "id": 61715,
-    "feed_name": "豆瓣最受欢迎的影评",
-    "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
+    "id": 81784,
+    "feed_name": "简书 / 首页",
+    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
     "category": "娱乐",
-    "title": "好地狱还是破地狱？ (评论: 破·地狱)",
-    "link": "https://movie.douban.com/review/17177288/",
-    "pub_date": "2025-11-01 08:55:53",
-    "author": null
+    "title": "梨花国学院退费：从闲置杂物到家居艺术品的创意密码",
+    "link": "https://www.jianshu.com/p/ae4462018081",
+    "pub_date": "2025-11-08 13:40:26",
+    "author": "小白棉棉"
   },
   {
-    "id": 63198,
-    "feed_name": "豆瓣最受欢迎的影评",
-    "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
+    "id": 81786,
+    "feed_name": "简书 / 首页",
+    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
     "category": "娱乐",
-    "title": "全员恶人局，却上演了一场对无爱原生家庭的觉醒式切割 (评论: 即兴谋杀)",
-    "link": "https://movie.douban.com/review/17176937/",
-    "pub_date": "2025-10-31 23:18:27",
-    "author": null
+    "title": "《30天精学Excel：从菜鸟到数据分析高手》05 金桥&周奎奎著",
+    "link": "https://www.jianshu.com/p/a0b1d2cb2452",
+    "pub_date": "2025-11-08 13:40:25",
+    "author": "小说质量守恒"
   },
   {
-    "id": 61713,
-    "feed_name": "豆瓣最受欢迎的影评",
-    "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
+    "id": 81788,
+    "feed_name": "简书 / 首页",
+    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
     "category": "娱乐",
-    "title": "邓家佳跟李庚希新电影双双开“大”，真的看爽了… (评论: 即兴谋杀)",
-    "link": "https://movie.douban.com/review/17176748/",
-    "pub_date": "2025-10-31 21:52:32",
-    "author": null
-  },
-  {
-    "id": 61714,
-    "feed_name": "豆瓣最受欢迎的影评",
-    "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
-    "category": "娱乐",
-    "title": "笔记：同义词 (评论: 是的)",
-    "link": "https://movie.douban.com/review/17176740/",
-    "pub_date": "2025-10-31 21:47:26",
-    "author": null
+    "title": "华为数据之道｜02 建立企业级数据综合治理体系｜①建立公司级的数据治理政策",
+    "link": "https://www.jianshu.com/p/6072c7c27662",
+    "pub_date": "2025-11-08 13:40:25",
+    "author": "是杰夫呀"
   },
   {
     "id": 80206,
@@ -768,35 +798,5 @@
     "link": "https://www.jianshu.com/p/4c8ebae07695",
     "pub_date": "2025-11-05 14:11:41",
     "author": "大龙10"
-  },
-  {
-    "id": 73130,
-    "feed_name": "简书 / 首页",
-    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
-    "category": "娱乐",
-    "title": "537.【博客开发】前端应用开发环境搭建（可复用）",
-    "link": "https://www.jianshu.com/p/adcad4102eb5",
-    "pub_date": "2025-11-05 14:11:40",
-    "author": "七镜"
-  },
-  {
-    "id": 73131,
-    "feed_name": "简书 / 首页",
-    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
-    "category": "娱乐",
-    "title": "华为十年架构师实战经验总结：大规模分布式系统架构与设计实战",
-    "link": "https://www.jianshu.com/p/cc9b12b7b41e",
-    "pub_date": "2025-11-05 14:11:40",
-    "author": "程序员阿远"
-  },
-  {
-    "id": 73132,
-    "feed_name": "简书 / 首页",
-    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
-    "category": "娱乐",
-    "title": "uniapp 连接 node.js 本地接口",
-    "link": "https://www.jianshu.com/p/75e78e5a0126",
-    "pub_date": "2025-11-05 14:11:40",
-    "author": "鹿简luz"
   }
 ]
