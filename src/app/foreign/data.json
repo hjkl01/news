@@ -1,5 +1,35 @@
 [
   {
+    "id": 86872,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "中荷芯片争端现缓和迹象，安世中国工厂恢复发货",
+    "link": "https://cn.nytimes.com/business/20251110/china-nexperia-autos-chips/dual",
+    "pub_date": "2025-11-10 10:06:02",
+    "author": null
+  },
+  {
+    "id": 86876,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "中国10月出口额意外下滑，主要出口商品价格持续下跌",
+    "link": "https://cn.nytimes.com/business/20251110/china-exports-fall/dual",
+    "pub_date": "2025-11-10 09:06:02",
+    "author": null
+  },
+  {
+    "id": 86880,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "中国暂停对五种关键矿物实施出口管制",
+    "link": "https://cn.nytimes.com/business/20251110/china-suspends-export-controls/dual",
+    "pub_date": "2025-11-10 08:36:02",
+    "author": null
+  },
+  {
     "id": 79538,
     "feed_name": "纽约时报双语版",
     "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
@@ -167,36 +197,6 @@
     "title": "“美国最受欢迎的水果”有多健康？",
     "link": "https://cn.nytimes.com/health/20251104/apples-health-benefits-recipes/dual",
     "pub_date": "2025-11-04 17:06:02",
-    "author": null
-  },
-  {
-    "id": 70605,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
-    "category": "国外",
-    "title": "美国真的会恢复核爆炸试验吗？特朗普和官员各执一词",
-    "link": "https://cn.nytimes.com/usa/20251104/trump-nuclear-tests-energy-secretary/dual",
-    "pub_date": "2025-11-04 16:36:01",
-    "author": null
-  },
-  {
-    "id": 70606,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
-    "category": "国外",
-    "title": "特朗普的对华贸易政策糟透了",
-    "link": "https://cn.nytimes.com/opinion/20251104/trump-china-trade-tariffs/dual",
-    "pub_date": "2025-11-04 13:36:02",
-    "author": null
-  },
-  {
-    "id": 69198,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
-    "category": "国外",
-    "title": "红薯有多健康？",
-    "link": "https://cn.nytimes.com/health/20241119/sweet-potatoes-health-benefits-recipes/dual",
-    "pub_date": "2025-11-04 11:36:02",
     "author": null
   },
   {
@@ -400,6 +400,16 @@
     "author": null
   },
   {
+    "id": 86904,
+    "feed_name": "ABC 澳大利亚广播公司",
+    "feed_url": "https://plink.anyfeeder.com/abc/cn",
+    "category": "国外",
+    "title": "英国广播公司BBC总裁与新闻主管因特朗普演讲剪辑风波辞职",
+    "link": "https://newsapp.abc.net.au/newsapp/chinese/2025-11-10/bbc-director-geneal-an-news-ceo-resign-controversy-trump-doco/105990634",
+    "pub_date": "2025-11-10 08:49:02",
+    "author": null
+  },
+  {
     "id": 78142,
     "feed_name": "ABC 澳大利亚广播公司",
     "feed_url": "https://plink.anyfeeder.com/abc/cn",
@@ -590,13 +600,43 @@
     "author": null
   },
   {
-    "id": 37954,
-    "feed_name": "ABC 澳大利亚广播公司",
-    "feed_url": "https://plink.anyfeeder.com/abc/cn",
+    "id": 87202,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
     "category": "国外",
-    "title": "白宫确认特习会将在韩国APEC期间举行",
-    "link": "https://newsapp.abc.net.au/newsapp/chinese/2025-10-24/trump-to-meet-xi-in-south-korea-as-part-of-asia-swing/105929206",
-    "pub_date": "2025-10-24 07:19:02",
+    "title": "美國如何超車中國成為非洲最大外國投資者",
+    "link": "https://www.bbc.com/zhongwen/articles/cwyk2r1lkv1o/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-11-10 13:00:56",
+    "author": null
+  },
+  {
+    "id": 87237,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "BBC總裁蒂姆·戴維為何辭職？紀錄片剪輯事件究竟是怎麼回事？",
+    "link": "https://www.bbc.com/zhongwen/articles/cdrzpn41xlvo/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-11-10 12:55:21",
+    "author": null
+  },
+  {
+    "id": 87239,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "中國政協非換屆年10名高官集中去職 引發整治裸官升級和機構調整猜測",
+    "link": "https://www.bbc.com/zhongwen/articles/cx2n4lq9xrko/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-11-10 10:37:28",
+    "author": null
+  },
+  {
+    "id": 87241,
+    "feed_name": "BBC 中文版",
+    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
+    "category": "国外",
+    "title": "中國進口原研藥退市潮：民眾質疑國產藥品質，專家指並非完全壞事",
+    "link": "https://www.bbc.com/zhongwen/articles/c0l7jz6dg5ro/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-11-10 08:13:24",
     "author": null
   },
   {
@@ -757,46 +797,6 @@
     "title": "台灣「普發現金」一萬元，民眾怎麼看？",
     "link": "https://www.bbc.com/zhongwen/articles/ce3keqyw755o/trad?at_medium=RSS&at_campaign=rss",
     "pub_date": "2025-11-05 18:39:28",
-    "author": null
-  },
-  {
-    "id": 73820,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "歌手黃明志涉台灣網紅命案，大馬警方朝「謀殺罪」調查、延長收押",
-    "link": "https://www.bbc.com/zhongwen/articles/czxk1dg5np8o/trad?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2025-11-05 18:03:38",
-    "author": null
-  },
-  {
-    "id": 73826,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "切尼的政治遺產 特朗普學到最多的是擴大總統權力",
-    "link": "https://www.bbc.com/zhongwen/articles/cr7mjpdlj0go/trad?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2025-11-05 16:50:21",
-    "author": null
-  },
-  {
-    "id": 73833,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "法國就「性愛娃娃醜聞」對Shein和Temu展開調查",
-    "link": "https://www.bbc.com/zhongwen/articles/c5y057ldvn1o/trad?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2025-11-05 14:08:50",
-    "author": null
-  },
-  {
-    "id": 79969,
-    "feed_name": "BBC 中文版",
-    "feed_url": "https://plink.anyfeeder.com/bbc/cn",
-    "category": "国外",
-    "title": "法國就「性愛娃娃醜聞」對Shein展開調查",
-    "link": "https://www.bbc.com/zhongwen/articles/c5y057ldvn1o/trad?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2025-11-05 14:08:50",
     "author": null
   }
 ]
