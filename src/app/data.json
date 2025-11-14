@@ -1,5 +1,3445 @@
 [
   {
+    "id": 98415,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "江苏扬州立法“护航”系统化全域推进海绵城市建设",
+    "link": "https://www.chinanews.com.cn/gn/2025/11-14/10515409.shtml",
+    "pub_date": "2025-11-14 14:18:20"
+  },
+  {
+    "id": 99606,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "美国将免除拉美四国部分产品关税，以降低咖啡香蕉等食品价格",
+    "link": "https://36kr.com/newsflashes/3552527197453447?f=rss",
+    "pub_date": "2025-11-14 14:17:32"
+  },
+  {
+    "id": 99607,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "上海通报“绿捷食安事件”：已查明违法犯罪事实，公司8名责任人被依法执行逮捕",
+    "link": "https://36kr.com/newsflashes/3552524096256898?f=rss",
+    "pub_date": "2025-11-14 14:14:23"
+  },
+  {
+    "id": 99608,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "福建多地公告，将暂停汽车置换更新等补贴",
+    "link": "https://36kr.com/newsflashes/3552520423914368?f=rss",
+    "pub_date": "2025-11-14 14:10:39"
+  },
+  {
+    "id": 98378,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "科学家揭示家犬同人类近万年来的共迁移历史",
+    "link": "https://www.chinanews.com.cn/gn/2025/11-14/10515424.shtml",
+    "pub_date": "2025-11-14 14:10:06"
+  },
+  {
+    "id": 98379,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "农工党中央赴上海开展长江生态环境保护民主监督工作专题调研",
+    "link": "https://www.chinanews.com.cn/gn/2025/11-14/10515416.shtml",
+    "pub_date": "2025-11-14 14:10:00"
+  },
+  {
+    "id": 99609,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "1至10月全国铁路完成固定资产投资6715亿元。同比增长5.7%",
+    "link": "https://36kr.com/newsflashes/3552518653770629?f=rss",
+    "pub_date": "2025-11-14 14:08:51"
+  },
+  {
+    "id": 98380,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "广西贺州：武警官兵进行实战化训练",
+    "link": "https://www.chinanews.com.cn/tp/2025/11-14/10515403.shtml",
+    "pub_date": "2025-11-14 14:08:10"
+  },
+  {
+    "id": 99596,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "最前线｜大疆无人机在沙漠新能源基地应用：超大规模电站运维效率提升26倍",
+    "link": "https://36kr.com/p/3552517204081798?f=rss",
+    "pub_date": "2025-11-14 14:07:47"
+  },
+  {
+    "id": 99610,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "抖音直播狙击新型低俗诱导打赏，8.8万人次被处罚",
+    "link": "https://36kr.com/newsflashes/3552515726556039?f=rss",
+    "pub_date": "2025-11-14 14:05:52"
+  },
+  {
+    "id": 99332,
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "美团外卖上线“致敬蓝朋友”专场，“隔空喊话饿了么”感谢 12 年相伴",
+    "link": "https://www.ithome.com/0/897/436.htm",
+    "pub_date": "2025-11-14 14:03:37"
+  },
+  {
+    "id": 98381,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "直播：神舟二十号航天员乘组返回任务 ",
+    "link": "https://www.chinanews.com.cn/iframe/2025/11-14/10515414.shtml",
+    "pub_date": "2025-11-14 14:01:09"
+  },
+  {
+    "id": 98382,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "加拿大公布第二批国家重点项目清单 推动全国资源战略布局",
+    "link": "https://www.chinanews.com.cn/gj/2025/11-14/10515395.shtml",
+    "pub_date": "2025-11-14 14:01:03"
+  },
+  {
+    "id": 99611,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "中国铁建旗下公司、国通信托在内蒙古成立置业公司",
+    "link": "https://36kr.com/newsflashes/3552507355888515?f=rss",
+    "pub_date": "2025-11-14 13:57:21"
+  },
+  {
+    "id": 98383,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "【新思想引领新征程·非凡“十四五”】大科学装置建设全面提速 筑牢科技强国基石",
+    "link": "https://www.chinanews.com.cn/gn/2025/11-14/10515411.shtml",
+    "pub_date": "2025-11-14 13:56:36"
+  },
+  {
+    "id": 99612,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "西联汇款与腾讯TenPay Global达成战略合作",
+    "link": "https://36kr.com/newsflashes/3552498549521540?f=rss",
+    "pub_date": "2025-11-14 13:56:01"
+  },
+  {
+    "id": 98384,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "国家统计局：秋粮产量预计增加，全年粮食有望再获丰收",
+    "link": "https://www.chinanews.com.cn/cj/2025/11-14/10515389.shtml",
+    "pub_date": "2025-11-14 13:53:50"
+  },
+  {
+    "id": 98386,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "北京怀柔代表团赴港参访：两地合作只有“加分题”",
+    "link": "https://www.chinanews.com.cn/dwq/2025/11-14/10515406.shtml",
+    "pub_date": "2025-11-14 13:53:40"
+  },
+  {
+    "id": 98388,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "国家统计局：房地产市场虽有所波动，但政策成效仍在继续显现",
+    "link": "https://www.chinanews.com.cn/cj/2025/11-14/10515382.shtml",
+    "pub_date": "2025-11-14 13:53:08"
+  },
+  {
+    "id": 98392,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "国家统计局：10月份PPI环比首次上涨，同比降幅收窄",
+    "link": "https://www.chinanews.com.cn/cj/2025/11-14/10515383.shtml",
+    "pub_date": "2025-11-14 13:52:32"
+  },
+  {
+    "id": 98395,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "“东宁黑木耳”今年全产业链产值和销售收入将超百亿元",
+    "link": "https://www.chinanews.com.cn/cj/2025/11-14/10515401.shtml",
+    "pub_date": "2025-11-14 13:52:02"
+  },
+  {
+    "id": 98399,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "携百万资金返乡种高粱，内蒙古“新农人”的田埂创业路",
+    "link": "https://www.chinanews.com.cn/sh/2025/11-14/10515399.shtml",
+    "pub_date": "2025-11-14 13:52:00"
+  },
+  {
+    "id": 98403,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "（粤港澳全运会）背靠祖国“泳”往直前 港澳健儿闪耀全运“主场”",
+    "link": "https://www.chinanews.com.cn/ty/2025/11-14/10515397.shtml",
+    "pub_date": "2025-11-14 13:51:36"
+  },
+  {
+    "id": 99821,
+    "feed_name": "Solidot",
+    "category": "科技",
+    "title": "Blue Origin 完成首次 New Glenn 火箭回收",
+    "link": "https://www.solidot.org/story?sid=82803",
+    "pub_date": "2025-11-14 13:50:51"
+  },
+  {
+    "id": 99791,
+    "feed_name": "极客公园",
+    "category": "科技",
+    "title": "\n        对话李彦宏：Chatbot 不是一切，我在 AI 上看到了更让人兴奋的未来\n      ",
+    "link": "http://www.geekpark.net/news/356414",
+    "pub_date": "2025-11-14 13:50:42"
+  },
+  {
+    "id": 98407,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "国家统计局：我国就业形势总体稳定",
+    "link": "https://www.chinanews.com.cn/cj/2025/11-14/10515374.shtml",
+    "pub_date": "2025-11-14 13:50:32"
+  },
+  {
+    "id": 99613,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "苏文电能、江苏有线等新设新能源产业发展公司",
+    "link": "https://36kr.com/newsflashes/3552500463287168?f=rss",
+    "pub_date": "2025-11-14 13:50:20"
+  },
+  {
+    "id": 98409,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "甘肃民勤：科技赋能沙漠寒旱农业",
+    "link": "https://www.chinanews.com.cn/sh/2025/11-14/10515402.shtml",
+    "pub_date": "2025-11-14 13:49:58"
+  },
+  {
+    "id": 99614,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "中美航空合作项目（ACP）第十届运输航空运行安全研讨会在厦门举行",
+    "link": "https://36kr.com/newsflashes/3552500052458630?f=rss",
+    "pub_date": "2025-11-14 13:49:55"
+  },
+  {
+    "id": 98413,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "我国6G发展路线图浮现 融合创新成关键词",
+    "link": "https://www.chinanews.com.cn/gn/2025/11-14/10515405.shtml",
+    "pub_date": "2025-11-14 13:49:36"
+  },
+  {
+    "id": 98421,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "社融存量增长8.5% 适度宽松货币政策持续显效",
+    "link": "https://www.chinanews.com.cn/cj/2025/11-14/10515404.shtml",
+    "pub_date": "2025-11-14 13:48:08"
+  },
+  {
+    "id": 98428,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "国家统计局：10月份工业生产基本平稳",
+    "link": "https://www.chinanews.com.cn/cj/2025/11-14/10515373.shtml",
+    "pub_date": "2025-11-14 13:45:14"
+  },
+  {
+    "id": 98433,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "企业办事不出园区 东北首家产业社区在沈阳成立",
+    "link": "https://www.chinanews.com.cn/cj/2025/11-14/10515396.shtml",
+    "pub_date": "2025-11-14 13:43:52"
+  },
+  {
+    "id": 98440,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "（粤港澳全运会）广东选手张悦彤夺得十五运攀岩比赛女子难度决赛金牌",
+    "link": "https://www.chinanews.com.cn/ty/2025/11-14/10515387.shtml",
+    "pub_date": "2025-11-14 13:43:28"
+  },
+  {
+    "id": 98445,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "“锡”引全球客！无锡“小电驴”勇闯世界",
+    "link": "https://www.chinanews.com.cn/cj/2025/11-14/10515385.shtml",
+    "pub_date": "2025-11-14 13:42:52"
+  },
+  {
+    "id": 98442,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "第三届中约友好对话会举行",
+    "link": "https://www.chinanews.com.cn/gn/2025/11-14/10515384.shtml",
+    "pub_date": "2025-11-14 13:42:10"
+  },
+  {
+    "id": 98447,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "沈伯洋宣称“不惧打压”  国台办指其言行暴露内心慌张",
+    "link": "https://www.chinanews.com.cn/gn/2025/11-14/10515381.shtml",
+    "pub_date": "2025-11-14 13:41:42"
+  },
+  {
+    "id": 99615,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "广汽集团与阿里云达成全栈AI战略合作",
+    "link": "https://36kr.com/newsflashes/3552491960188037?f=rss",
+    "pub_date": "2025-11-14 13:41:41"
+  },
+  {
+    "id": 99334,
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "EDA 巨头新思科技宣布裁员约 10%，涉及约 2000 名员工",
+    "link": "https://www.ithome.com/0/897/428.htm",
+    "pub_date": "2025-11-14 13:41:27"
+  },
+  {
+    "id": 99616,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "花旗CEO：在华业务快速增长，投资者和公司对中国兴趣浓厚",
+    "link": "https://36kr.com/newsflashes/3552491568282760?f=rss",
+    "pub_date": "2025-11-14 13:41:17"
+  },
+  {
+    "id": 98467,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "前三季度国开行向中欧班列项目发放75.9亿元贷款",
+    "link": "https://www.chinanews.com.cn/cj/2025/11-14/10515369.shtml",
+    "pub_date": "2025-11-14 13:40:54"
+  },
+  {
+    "id": 98452,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "心相近｜中埃携手，书写文明互鉴新佳话",
+    "link": "https://www.chinanews.com.cn/gn/2025/11-14/10515400.shtml",
+    "pub_date": "2025-11-14 13:40:42"
+  },
+  {
+    "id": 99617,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "数据传输速率再创新高，我国星地微波高码率通信技术取得突破",
+    "link": "https://36kr.com/newsflashes/3552490797939588?f=rss",
+    "pub_date": "2025-11-14 13:40:30"
+  },
+  {
+    "id": 98458,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "神舟二十一号载人飞船顺利撤离空间站组合体 神舟二十号乘组踏上回家之旅",
+    "link": "https://www.chinanews.com.cn/gn/2025/11-14/10515378.shtml",
+    "pub_date": "2025-11-14 13:40:10"
+  },
+  {
+    "id": 98482,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "联合国气候变化大会讲述深圳绿电故事",
+    "link": "https://www.chinanews.com.cn/dwq/2025/11-14/10515398.shtml",
+    "pub_date": "2025-11-14 13:40:04"
+  },
+  {
+    "id": 99618,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "大疆长测程高精度激光雷达工厂首次亮相",
+    "link": "https://36kr.com/newsflashes/3552489729358982?f=rss",
+    "pub_date": "2025-11-14 13:39:25"
+  },
+  {
+    "id": 98490,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "中国官方回应投资增速放缓：潜力空间依然巨大",
+    "link": "https://www.chinanews.com.cn/cj/2025/11-14/10515393.shtml",
+    "pub_date": "2025-11-14 13:38:15"
+  },
+  {
+    "id": 98496,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "中国减碳方案闪耀COP30 上海电气以科技助力全球绿色发展",
+    "link": "https://www.chinanews.com.cn/cj/2025/11-14/10515392.shtml",
+    "pub_date": "2025-11-14 13:35:51"
+  },
+  {
+    "id": 98502,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "这种优秀粗粮被严重忽视了，好吃不胖还能控糖",
+    "link": "https://www.chinanews.com.cn/life/2025/11-14/10515394.shtml",
+    "pub_date": "2025-11-14 13:34:29"
+  },
+  {
+    "id": 98555,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "大国五年｜“春天的事业”，刻画高质量发展民生温度",
+    "link": "http://www.news.cn/20251114/f2bc5be1d26144a090bddf22d99cc61b/c.html",
+    "pub_date": "2025-11-14 13:29:31"
+  },
+  {
+    "id": 99619,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "日产汽车将在欧洲办事处裁员",
+    "link": "https://36kr.com/newsflashes/3552476314369159?f=rss",
+    "pub_date": "2025-11-14 13:25:46"
+  },
+  {
+    "id": 99822,
+    "feed_name": "Solidot",
+    "category": "科技",
+    "title": "小鹏汇天开始量产“飞行汽车”",
+    "link": "https://www.solidot.org/story?sid=82802",
+    "pub_date": "2025-11-14 13:22:02"
+  },
+  {
+    "id": 98465,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "新华图讯丨习近平会见泰国国王哇集拉隆功",
+    "link": "https://www.chinanews.com.cn/gn/2025/11-14/10515380.shtml",
+    "pub_date": "2025-11-14 13:20:08"
+  },
+  {
+    "id": 99620,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "南向资金净买入额达100亿港元",
+    "link": "https://36kr.com/newsflashes/3552470622223497?f=rss",
+    "pub_date": "2025-11-14 13:19:59"
+  },
+  {
+    "id": 99621,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "大摩：英伟达、AMD、特斯拉等客户需求爆表，台积电3nm抢手紧急扩产",
+    "link": "https://36kr.com/newsflashes/3552470453779592?f=rss",
+    "pub_date": "2025-11-14 13:19:49"
+  },
+  {
+    "id": 99622,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "机构：2032年全球电子传感器市场将达412亿美元",
+    "link": "https://36kr.com/newsflashes/3552469824879492?f=rss",
+    "pub_date": "2025-11-14 13:19:10"
+  },
+  {
+    "id": 98495,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "巴黎系列恐怖袭击十周年：构建集体记忆 努力抚平伤痛",
+    "link": "https://www.chinanews.com.cn/gj/2025/11-14/10515344.shtml",
+    "pub_date": "2025-11-14 13:18:00"
+  },
+  {
+    "id": 98469,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "神舟二十号乘组搭乘神舟二十一号载人飞船踏上回家之旅",
+    "link": "https://www.chinanews.com.cn/gn/2025/11-14/10515376.shtml",
+    "pub_date": "2025-11-14 13:16:24"
+  },
+  {
+    "id": 99385,
+    "feed_name": "果壳网 / 科学人",
+    "category": "科技",
+    "title": "露肌肉夹柿子，村干部“豁出去”后红了",
+    "link": "https://www.guokr.com/article/467878/",
+    "pub_date": "2025-11-14 13:15:06"
+  },
+  {
+    "id": 99623,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "TCL华星明年印刷OLED出货量将达百万级",
+    "link": "https://36kr.com/newsflashes/3552463171599489?f=rss",
+    "pub_date": "2025-11-14 13:12:24"
+  },
+  {
+    "id": 98561,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "习近平会见泰国国王哇集拉隆功",
+    "link": "http://www.news.cn/20251114/4e0d256f9fd04a60a0f5296dc1801de6/c.html",
+    "pub_date": "2025-11-14 13:11:19"
+  },
+  {
+    "id": 98474,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "习近平会见泰国国王哇集拉隆功",
+    "link": "https://www.chinanews.com.cn/gn/2025/11-14/10515372.shtml",
+    "pub_date": "2025-11-14 13:07:52"
+  },
+  {
+    "id": 99624,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "东盟首超欧盟成浙江最大贸易市场",
+    "link": "https://36kr.com/newsflashes/3552458180508807?f=rss",
+    "pub_date": "2025-11-14 13:07:20"
+  },
+  {
+    "id": 98569,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "COP30“中国角”边会呼吁国际社会推进公正能源转型",
+    "link": "http://www.news.cn/20251114/3472b43e72614811a6fb7fc5f20c9090/c.html",
+    "pub_date": "2025-11-14 13:06:38"
+  },
+  {
+    "id": 98577,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "第十三届中欧论坛聚焦深化中欧对话与务实合作",
+    "link": "http://www.news.cn/20251114/053d99b92df14d39a628473ae758dd87/c.html",
+    "pub_date": "2025-11-14 13:06:28"
+  },
+  {
+    "id": 98585,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "中方就加强和振兴联大工作提出三点建议",
+    "link": "http://www.news.cn/20251114/fb5fd3e9c5be47f0927cffe183b778fb/c.html",
+    "pub_date": "2025-11-14 13:06:24"
+  },
+  {
+    "id": 98501,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "1至10月中国铁路固定资产投资同比增长5.7%",
+    "link": "https://www.chinanews.com.cn/cj/2025/11-14/10515370.shtml",
+    "pub_date": "2025-11-14 13:04:44"
+  },
+  {
+    "id": 98398,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "中国军方用日文告诫日本勿武力介入台海局势",
+    "link": "https://www.zaobao.com/realtime/china/story20251114-7817210",
+    "pub_date": "2025-11-14 13:02:00"
+  },
+  {
+    "id": 99242,
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "Anthropic 研究发现：仅需少量污染文档即可对 LLM 实施投毒",
+    "link": "https://www.infoq.cn/article/vLK9YATzkKKPEfDcsyE0",
+    "pub_date": "2025-11-14 13:00:00"
+  },
+  {
+    "id": 98478,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "评论：大陆依法惩“独”步伐持续且坚定",
+    "link": "https://www.chinanews.com.cn/gn/2025/11-14/10515366.shtml",
+    "pub_date": "2025-11-14 12:59:31"
+  },
+  {
+    "id": 98483,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "中国大唐原总经理寇伟被公诉 涉多项罪名",
+    "link": "https://www.chinanews.com.cn/gn/2025/11-14/10515365.shtml",
+    "pub_date": "2025-11-14 12:58:55"
+  },
+  {
+    "id": 98798,
+    "feed_name": "求是网",
+    "category": "新闻",
+    "title": "习近平会见泰国国王哇集拉隆功",
+    "link": "https://www.qstheory.cn/20251114/428361717f334357bc198b1a0e717585/c.html",
+    "pub_date": "2025-11-14 12:57:07"
+  },
+  {
+    "id": 98593,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "中国品牌再获日内瓦高级钟表大赏奖项",
+    "link": "http://www.news.cn/20251114/fdad03c9fa9745e68f1a4303f11a54a8/c.html",
+    "pub_date": "2025-11-14 12:54:28"
+  },
+  {
+    "id": 99625,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "中创新航发布顶流“全能”圆柱电池，可应用于乘用车、eVOLT等多个领域",
+    "link": "https://36kr.com/newsflashes/3552445438213255?f=rss",
+    "pub_date": "2025-11-14 12:54:22"
+  },
+  {
+    "id": 98600,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "国家统计局：我国投资潜力和空间依然巨大",
+    "link": "http://www.news.cn/20251114/fcc738ec8c984074a1ba448132d702d7/c.html",
+    "pub_date": "2025-11-14 12:53:09"
+  },
+  {
+    "id": 98609,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "国家统计局：制造业投资持续增长",
+    "link": "http://www.news.cn/20251114/23d3e3940e944c3c98eb29ed7de6ab05/c.html",
+    "pub_date": "2025-11-14 12:52:59"
+  },
+  {
+    "id": 98616,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "朝鲜谴责七国集团涉朝“无核化”声明",
+    "link": "http://www.news.cn/20251114/ced193a706e14d2bbad18a0290bcc058/c.html",
+    "pub_date": "2025-11-14 12:51:54"
+  },
+  {
+    "id": 98626,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "新华图讯丨习近平会见泰国国王哇集拉隆功",
+    "link": "http://www.news.cn/20251114/ce43d497c3ec446d9dc36f8d2aee5dd4/c.html",
+    "pub_date": "2025-11-14 12:49:44"
+  },
+  {
+    "id": 98488,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "“十四五”期间三峡后续工作规划实施项目1235个",
+    "link": "https://www.chinanews.com.cn/gn/2025/11-14/10515364.shtml",
+    "pub_date": "2025-11-14 12:46:52"
+  },
+  {
+    "id": 98633,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "法国10年来挫败85起恐袭图谋",
+    "link": "http://www.news.cn/20251114/bae06455183a4b10b8d9497c6e75a930/c.html",
+    "pub_date": "2025-11-14 12:45:34"
+  },
+  {
+    "id": 98641,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "国台办：“台独”分子越疯狂，越会提早灭亡",
+    "link": "http://www.news.cn/20251114/006bd2bffee94074b71599892379da1a/c.html",
+    "pub_date": "2025-11-14 12:45:18"
+  },
+  {
+    "id": 98400,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "中国通缩风险未解除 官方称市场需求拉动仍不足",
+    "link": "https://www.zaobao.com/realtime/china/story20251114-7817365",
+    "pub_date": "2025-11-14 12:38:57"
+  },
+  {
+    "id": 99434,
+    "feed_name": "简书 / 首页",
+    "category": "娱乐",
+    "title": "Git不要只会pull和push",
+    "link": "https://www.jianshu.com/p/a69ed73d537a",
+    "pub_date": "2025-11-14 12:31:25"
+  },
+  {
+    "id": 99436,
+    "feed_name": "简书 / 首页",
+    "category": "娱乐",
+    "title": "OAuth 2.0 的一个简单解释，一看就懂",
+    "link": "https://www.jianshu.com/p/06db5819801e",
+    "pub_date": "2025-11-14 12:31:25"
+  },
+  {
+    "id": 99438,
+    "feed_name": "简书 / 首页",
+    "category": "娱乐",
+    "title": "Django笔记二十五之数据库函数之日期函数",
+    "link": "https://www.jianshu.com/p/a18ba66d8110",
+    "pub_date": "2025-11-14 12:31:25"
+  },
+  {
+    "id": 99440,
+    "feed_name": "简书 / 首页",
+    "category": "娱乐",
+    "title": "《浅品茅台和五粮液》",
+    "link": "https://www.jianshu.com/p/e7ed33c25edf",
+    "pub_date": "2025-11-14 12:31:18"
+  },
+  {
+    "id": 99216,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "Tencent Posts Massive Q3 Profit Beat with a 19% Rise as AI Fuels Ad and Game",
+    "link": "https://www.tmtpost.com/7764565.html",
+    "pub_date": "2025-11-14 12:29:02"
+  },
+  {
+    "id": 98654,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "神舟二十一号载人飞船顺利撤离空间站组合体 神舟二十号航天员乘组将踏上回家之路",
+    "link": "http://www.news.cn/20251114/26a09381f1e54b52b3330500faeff642/c.html",
+    "pub_date": "2025-11-14 12:26:38"
+  },
+  {
+    "id": 98661,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "新华社消息丨2025世界中文大会集中发布一批数智化成果",
+    "link": "http://www.news.cn/20251114/fa31c5f5c3184205a8c9c2f18142a4dc/c.html",
+    "pub_date": "2025-11-14 12:24:45"
+  },
+  {
+    "id": 98402,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "被大陆警方悬赏征集线索后 网民威胁“斩杀”台湾网红陈柏源",
+    "link": "https://www.zaobao.com/realtime/china/story20251114-7817234",
+    "pub_date": "2025-11-14 12:23:45"
+  },
+  {
+    "id": 98668,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "美防长：美军在西半球启动“南方之矛”行动",
+    "link": "http://www.news.cn/20251114/30c10cb2b2c6439ba5ed17f464e464aa/c.html",
+    "pub_date": "2025-11-14 12:23:27"
+  },
+  {
+    "id": 99218,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "环球音乐、Udio和解后，AI音乐的终局是什么？",
+    "link": "https://www.tmtpost.com/7764448.html",
+    "pub_date": "2025-11-14 12:13:28"
+  },
+  {
+    "id": 98675,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "中方呼吁加大对近东救济工程处的支持力度",
+    "link": "http://www.news.cn/20251114/32e28f1ad68c491ea9d2175144666de8/c.html",
+    "pub_date": "2025-11-14 12:11:40"
+  },
+  {
+    "id": 98684,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "10月国民经济运行总体平稳、稳中有进",
+    "link": "http://www.news.cn/20251114/087d7bc884724b3da4d7e7e2184061b1/c.html",
+    "pub_date": "2025-11-14 12:10:48"
+  },
+  {
+    "id": 98692,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "新华社消息丨习近平会见泰国国王哇集拉隆功",
+    "link": "http://www.news.cn/20251114/edbee5b67ad3447c9ba7946132dad098/c.html",
+    "pub_date": "2025-11-14 12:09:15"
+  },
+  {
+    "id": 98404,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "中国官方：实现全年经济增长目标具较多有利条件",
+    "link": "https://www.zaobao.com/realtime/china/story20251114-7817170",
+    "pub_date": "2025-11-14 12:06:23"
+  },
+  {
+    "id": 98493,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "第四届中国空间科学大会将在北京举行 开放合作AI赋能促跨越发展",
+    "link": "https://www.chinanews.com.cn/gn/2025/11-14/10515350.shtml",
+    "pub_date": "2025-11-14 12:06:12"
+  },
+  {
+    "id": 99311,
+    "feed_name": "超能网",
+    "category": "科技",
+    "title": "迎广DLITE中塔机箱上架：波浪纹网孔，可选摩卡棕/丁香紫配色，首发价679元",
+    "link": "http://www.expreview.com/102730.html",
+    "pub_date": "2025-11-14 12:02:00"
+  },
+  {
+    "id": 98389,
+    "feed_name": "南方周末 / 新闻",
+    "category": "新闻",
+    "title": "专访COP30中国代表团团长李高：制定NDC目标不是“小学生做数学题”",
+    "link": "https://www.infzm.com/contents/307456",
+    "pub_date": "2025-11-14 12:01:31"
+  },
+  {
+    "id": 98702,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "流感“知”多少：得过流感也要打疫苗？对！",
+    "link": "http://www.news.cn/20251114/a605f0a8eea14a3f9559d3faabd9f277/c.html",
+    "pub_date": "2025-11-14 12:00:18"
+  },
+  {
+    "id": 98709,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "流感“知”多少：注意这些流感用药“误区”",
+    "link": "http://www.news.cn/20251114/94d9d677d0454075afab877af48d52aa/c.html",
+    "pub_date": "2025-11-14 12:00:09"
+  },
+  {
+    "id": 98716,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "流感“知”多少：流感疫苗接种“攻略”",
+    "link": "http://www.news.cn/20251114/6f46bd1b398e414c9f08053e5bb13627/c.html",
+    "pub_date": "2025-11-14 11:59:59"
+  },
+  {
+    "id": 99336,
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "大麦娱乐推出全新品牌“大麦国际”：提供全球演出购票，接入支付宝网络",
+    "link": "https://www.ithome.com/0/897/405.htm",
+    "pub_date": "2025-11-14 11:55:42"
+  },
+  {
+    "id": 99244,
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "微软修复严重性评分达9.9分的ASP.NET Core漏洞",
+    "link": "https://www.infoq.cn/article/zwSsK22GONPZruv6Gg0C",
+    "pub_date": "2025-11-14 11:54:52"
+  },
+  {
+    "id": 99339,
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "1299 元买个“被剪开的袜子”，苹果新款 iPhone Pocket 配件发布后即遭群嘲",
+    "link": "https://www.ithome.com/0/897/404.htm",
+    "pub_date": "2025-11-14 11:51:39"
+  },
+  {
+    "id": 98722,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "四中全会精神在基层丨一度绿电的“跨省闪送”",
+    "link": "http://www.news.cn/20251114/e08da7fc36d24640bceb76d21c6683fa/c.html",
+    "pub_date": "2025-11-14 11:50:30"
+  },
+  {
+    "id": 98498,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "经综合评估，神舟二十号载人飞船返回舱舷窗玻璃出现细微裂纹，最大可能是受空间碎片外部冲击导致，不满足载人安全返回的放行条件，将继续留轨开展相关试验",
+    "link": "https://www.chinanews.com.cn/gn/2025/11-14/10515358.shtml",
+    "pub_date": "2025-11-14 11:49:56"
+  },
+  {
+    "id": 99416,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "产品经理靠 AI 用 Rust+Bevy ECS 搓出了一个开箱即用、跨平台、高并发桌面自动化工具，能一键发布多平台视频",
+    "link": "https://www.woshipm.com/ai/6292224.html",
+    "pub_date": "2025-11-14 11:47:29"
+  },
+  {
+    "id": 99597,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "第一批喜茶加盟商，迎来史上最艰难的一年｜深氪",
+    "link": "https://36kr.com/p/3550155320932228?f=rss",
+    "pub_date": "2025-11-14 11:47:03"
+  },
+  {
+    "id": 98503,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "神舟二十一号载人飞船顺利撤离空间站组合体 神舟二十号乘组踏上回家之旅",
+    "link": "https://www.chinanews.com.cn/gn/2025/11-14/10515357.shtml",
+    "pub_date": "2025-11-14 11:44:10"
+  },
+  {
+    "id": 99289,
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "神20乘组开始返程！神舟二十一载人飞船顺利撤离空间站组合体",
+    "link": "https://news.mydrivers.com/1/1086/1086567.htm",
+    "pub_date": "2025-11-14 11:44:07"
+  },
+  {
+    "id": 99418,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "钉钉AI表格构建个人成长系统：用数字画布，绘制“生命之花”",
+    "link": "https://www.woshipm.com/ai/6292213.html",
+    "pub_date": "2025-11-14 11:42:03"
+  },
+  {
+    "id": 98729,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "新华社快讯：经综合评估，神舟二十号载人飞船返回舱舷窗玻璃出现细微裂纹，最大可能是受空间碎片外部冲击导致，不满足载人安全返回的放行条件，将继续留轨开展相...",
+    "link": "http://www.news.cn/20251114/4223f91cc7c2417695741ff5c11321e5/c.html",
+    "pub_date": "2025-11-14 11:41:22"
+  },
+  {
+    "id": 99291,
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "力压BBA 稳坐40万级销冠宝座！问界M8上市200天 交付破12万台",
+    "link": "https://news.mydrivers.com/1/1086/1086566.htm",
+    "pub_date": "2025-11-14 11:41:13"
+  },
+  {
+    "id": 98737,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "新华社快讯：神舟二十一号载人飞船与空间站组合体成功分离 神舟二十号航天员陈冬、陈中瑞、王杰将踏上回家之路",
+    "link": "http://www.news.cn/20251114/21eeb7710d734faaaf356c82f0dedd00/c.html",
+    "pub_date": "2025-11-14 11:40:19"
+  },
+  {
+    "id": 99293,
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "AVX-512终于回归升级！Intel Nova Lake处理器确认支持AVX10指令集",
+    "link": "https://news.mydrivers.com/1/1086/1086565.htm",
+    "pub_date": "2025-11-14 11:39:45"
+  },
+  {
+    "id": 98509,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "神二十乘组踏上回家之旅！神二十一载人飞船顺利撤离空间站组合体",
+    "link": "https://www.chinanews.com.cn/gn/2025/11-14/10515354.shtml",
+    "pub_date": "2025-11-14 11:39:00"
+  },
+  {
+    "id": 98536,
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "“战狼”回归，中国外交官威胁砍掉高市早苗“肮脏的头颅”",
+    "link": "https://cn.nytimes.com/asia-pacific/20251114/china-japan-takaichi-taiwan/dual",
+    "pub_date": "2025-11-14 11:36:02"
+  },
+  {
+    "id": 98507,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "李在明：韩美最终敲定关税磋商文件",
+    "link": "https://www.chinanews.com.cn/gj/2025/11-14/10515337.shtml",
+    "pub_date": "2025-11-14 11:35:34"
+  },
+  {
+    "id": 98511,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "国台办：“台独”分子已日暮西山、穷途末路",
+    "link": "https://www.chinanews.com.cn/gn/2025/11-14/10515351.shtml",
+    "pub_date": "2025-11-14 11:35:00"
+  },
+  {
+    "id": 98744,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "国家统计局：10月份货物进出口保持增长 贸易结构继续优化",
+    "link": "http://www.news.cn/20251114/a8874fab6a05432cb39b454fcf66bef7/c.html",
+    "pub_date": "2025-11-14 11:34:20"
+  },
+  {
+    "id": 98752,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "国家统计局：10月社会消费品零售总额46291亿元 同比增长2.9%",
+    "link": "http://www.news.cn/20251114/92865acdfc494bd8a217f5765c980f76/c.html",
+    "pub_date": "2025-11-14 11:34:13"
+  },
+  {
+    "id": 98757,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "国家统计局：全年粮食丰收在望 秋冬播进展总体顺利",
+    "link": "http://www.news.cn/20251114/99273c93eceb4d399bd218ac0d7e4413/c.html",
+    "pub_date": "2025-11-14 11:34:06"
+  },
+  {
+    "id": 99314,
+    "feed_name": "超能网",
+    "category": "科技",
+    "title": "瑞萨电子推出行业首个第六代DDR5 RCD芯片，为RDIMM提供9600MT/s速率",
+    "link": "http://www.expreview.com/102729.html",
+    "pub_date": "2025-11-14 11:32:00"
+  },
+  {
+    "id": 98519,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "2025世界中文大会集中发布一批数智化成果",
+    "link": "https://www.chinanews.com.cn/gn/2025/11-14/10515346.shtml",
+    "pub_date": "2025-11-14 11:30:37"
+  },
+  {
+    "id": 99177,
+    "feed_name": "少数派",
+    "category": "科技",
+    "title": "在 2025 年选择一台小众手机，我的二手努比亚 Z50S Pro 体验谈",
+    "link": "https://sspai.com/post/103723",
+    "pub_date": "2025-11-14 11:30:31"
+  },
+  {
+    "id": 99343,
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "倪光南院士：报告显示 80% 的美国 AI 创新企业使用中国开源模型",
+    "link": "https://www.ithome.com/0/897/396.htm",
+    "pub_date": "2025-11-14 11:29:29"
+  },
+  {
+    "id": 99295,
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "NVIDIA酝酿AI商业模式重大转变：要吃下整个蛋糕！",
+    "link": "https://news.mydrivers.com/1/1086/1086560.htm",
+    "pub_date": "2025-11-14 11:29:13"
+  },
+  {
+    "id": 99347,
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "英伟达拖累华尔街跌至近一个月来最糟水平，AI“明星股”持续走弱",
+    "link": "https://www.ithome.com/0/897/394.htm",
+    "pub_date": "2025-11-14 11:27:25"
+  },
+  {
+    "id": 99297,
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "安钛克新款P7 S机箱首发319元起：三面吸音面板 优化风道设计",
+    "link": "https://news.mydrivers.com/1/1086/1086559.htm",
+    "pub_date": "2025-11-14 11:27:05"
+  },
+  {
+    "id": 98764,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "新华社权威快报丨2025世界中文大会集中发布一批数智化成果",
+    "link": "http://www.news.cn/20251114/c33d01e29e4f48afa5cb266420bf0125/c.html",
+    "pub_date": "2025-11-14 11:26:45"
+  },
+  {
+    "id": 98768,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "让“懂法人”讲好村规民约——2025年河南法治乡村建设见闻",
+    "link": "http://www.news.cn/20251114/6cf11e1bdaf242e1b992215ed68cd303/c.html",
+    "pub_date": "2025-11-14 11:26:44"
+  },
+  {
+    "id": 98517,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "国家统计局：10月份居民消费价格出现积极变化",
+    "link": "https://www.chinanews.com.cn/cj/2025/11-14/10515340.shtml",
+    "pub_date": "2025-11-14 11:26:33"
+  },
+  {
+    "id": 98773,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "新华社消息丨10月国民经济保持总体平稳、稳中有进发展态势",
+    "link": "http://www.news.cn/20251114/c533b70a6589420cac79168a70e83178/c.html",
+    "pub_date": "2025-11-14 11:25:36"
+  },
+  {
+    "id": 98777,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "新华社消息丨习近平举行仪式欢迎泰国国王哇集拉隆功访华",
+    "link": "http://www.news.cn/20251114/7916b37d1b8e488e82e7f4b90b72510e/c.html",
+    "pub_date": "2025-11-14 11:25:04"
+  },
+  {
+    "id": 98782,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "乌克兰首都基辅遭空袭致11人受伤",
+    "link": "http://www.news.cn/20251114/3d1df921aefd4c1d93f5cb749add24ab/c.html",
+    "pub_date": "2025-11-14 11:22:57"
+  },
+  {
+    "id": 98525,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "“十四五”收官绘好同心画卷 “十五五”启程谋实发展蓝图—— “十四五”期间山西省统战工作综述",
+    "link": "https://www.chinanews.com.cn/gn/2025/11-14/10515338.shtml",
+    "pub_date": "2025-11-14 11:21:07"
+  },
+  {
+    "id": 99222,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "老商场“爆改”酒店，需要几步？",
+    "link": "https://www.tmtpost.com/7764009.html",
+    "pub_date": "2025-11-14 11:20:56"
+  },
+  {
+    "id": 98786,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "国际团队借助AI分析蜜蜂“摇摆舞”绘制“花资源地图”",
+    "link": "http://www.news.cn/20251114/eaf2879eaaa44724a2dbf7fca6c2a1a4/c.html",
+    "pub_date": "2025-11-14 11:19:55"
+  },
+  {
+    "id": 99421,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "ChatGPT的两义",
+    "link": "https://www.woshipm.com/ai/6292184.html",
+    "pub_date": "2025-11-14 11:19:28"
+  },
+  {
+    "id": 98792,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "国家统计局：10月份服务业平稳增长 现代服务业发展良好",
+    "link": "http://www.news.cn/20251114/4113481b68f14faf89700e2ad33921d2/c.html",
+    "pub_date": "2025-11-14 11:18:34"
+  },
+  {
+    "id": 98799,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "记者手记丨传递绿色理念 展示中国贡献——走进COP30“中国角”",
+    "link": "http://www.news.cn/20251114/8f2902ddceff4d47b8bcb37f4391f005/c.html",
+    "pub_date": "2025-11-14 11:17:19"
+  },
+  {
+    "id": 98522,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "中国国家铁路集团有限公司董事、总经理、党组副书记任职",
+    "link": "https://www.chinanews.com.cn/gn/2025/11-14/10515322.shtml",
+    "pub_date": "2025-11-14 11:16:31"
+  },
+  {
+    "id": 98807,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "10月全国规模以上工业增加值同比增长4.9% 环比增长0.17%",
+    "link": "http://www.news.cn/20251114/bd5ed93d102944da8e6c938029f340e6/c.html",
+    "pub_date": "2025-11-14 11:15:46"
+  },
+  {
+    "id": 98406,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "荷部长称政府代表团下周赴华讨论安世",
+    "link": "https://www.zaobao.com/realtime/china/story20251114-7816911",
+    "pub_date": "2025-11-14 11:15:36"
+  },
+  {
+    "id": 99317,
+    "feed_name": "超能网",
+    "category": "科技",
+    "title": "高通跃龙IQ-X系列发布：工业级PC处理器，8至12个高性能内核",
+    "link": "http://www.expreview.com/102728.html",
+    "pub_date": "2025-11-14 11:15:00"
+  },
+  {
+    "id": 98815,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "流感“知”多少：流感不是“大号感冒”",
+    "link": "http://www.news.cn/20251114/207a799d4c9044469959d7e26b95158e/c.html",
+    "pub_date": "2025-11-14 11:14:34"
+  },
+  {
+    "id": 98821,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "秀我中国丨山东东营：破晓黄河口 万鸟朝阳舞",
+    "link": "http://www.news.cn/20251114/5d2c4c3bad3c4e4d99a09a13a5ab1770/c.html",
+    "pub_date": "2025-11-14 11:10:00"
+  },
+  {
+    "id": 98827,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "四中全会精神在基层丨以锈防锈！鞍钢科研硬实力助力多个国家重大项目",
+    "link": "http://www.news.cn/20251114/d8e92e6acc024dd6b703eadee2be0905/c.html",
+    "pub_date": "2025-11-14 11:09:36"
+  },
+  {
+    "id": 98411,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "中国10月工业产出与零售销售增速创一年多新低",
+    "link": "https://www.zaobao.com/realtime/china/story20251114-7816888",
+    "pub_date": "2025-11-14 11:09:32"
+  },
+  {
+    "id": 98830,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "综述丨中澳能源资源企业共议创新与绿色转型",
+    "link": "http://www.news.cn/20251114/1177e18aa1164b87af31835d6972198c/c.html",
+    "pub_date": "2025-11-14 11:08:35"
+  },
+  {
+    "id": 98526,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "常见观赏鸟可以随意买卖？这些涉鸟保护误区触碰法律红线",
+    "link": "https://www.chinanews.com.cn/sh/2025/11-14/10515324.shtml",
+    "pub_date": "2025-11-14 11:06:44"
+  },
+  {
+    "id": 98531,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "海外华媒海南行：访台商探新渔路",
+    "link": "https://www.chinanews.com.cn/gn/2025/11-14/10515315.shtml",
+    "pub_date": "2025-11-14 11:06:40"
+  },
+  {
+    "id": 98534,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "习近平会见泰国国王哇集拉隆功",
+    "link": "https://www.chinanews.com.cn/gn/2025/11-14/10515323.shtml",
+    "pub_date": "2025-11-14 11:04:58"
+  },
+  {
+    "id": 98834,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "新华社权威快报丨习近平会见泰国国王哇集拉隆功",
+    "link": "http://www.news.cn/20251114/806fe498c6ba43bca2d7910e681ca74c/c.html",
+    "pub_date": "2025-11-14 11:04:31"
+  },
+  {
+    "id": 99598,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "自研星载SAR载荷，总体成本有望降低50%，「图强宇航」完成天使轮融资｜36氪首发",
+    "link": "https://36kr.com/p/3552331738741888?f=rss",
+    "pub_date": "2025-11-14 11:00:15"
+  },
+  {
+    "id": 99246,
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "CodeClash通过多轮编程竞赛对大型语言模型进行基准测试",
+    "link": "https://www.infoq.cn/article/ayF7iELxSWyS0CH4eh0e",
+    "pub_date": "2025-11-14 11:00:00"
+  },
+  {
+    "id": 99424,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "即梦AI无限画布能干啥？一文为你理清思路！",
+    "link": "https://www.woshipm.com/ai/6292231.html",
+    "pub_date": "2025-11-14 10:57:58"
+  },
+  {
+    "id": 98530,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "中新健康丨我国进入呼吸道传染病流行季 专家提醒：警惕叠加感染",
+    "link": "https://www.chinanews.com.cn/life/2025/11-14/10515311.shtml",
+    "pub_date": "2025-11-14 10:57:37"
+  },
+  {
+    "id": 98416,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "称日本80年来首次武力威胁中国 人民日报批高市台湾有事论",
+    "link": "https://www.zaobao.com/realtime/china/story20251114-7816811",
+    "pub_date": "2025-11-14 10:57:30"
+  },
+  {
+    "id": 99351,
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "机电与高技术产品成出口新引擎：前 10 月集成电路、汽车出口额分别增长 24.7%、14.3%",
+    "link": "https://www.ithome.com/0/897/388.htm",
+    "pub_date": "2025-11-14 10:54:13"
+  },
+  {
+    "id": 98838,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "全国消防宣传月｜液化石油气罐起火如何扑灭？消防实验来解答",
+    "link": "http://www.news.cn/20251114/2053401cb709435cb16d78dd7673779b/c.html",
+    "pub_date": "2025-11-14 10:52:32"
+  },
+  {
+    "id": 98538,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "湖南省纪委监委驻湖南建设投资集团纪检监察组副组长雷海标被查",
+    "link": "https://www.chinanews.com.cn/gn/2025/11-14/10515309.shtml",
+    "pub_date": "2025-11-14 10:49:49"
+  },
+  {
+    "id": 98543,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "14个上榜！工信部公布2025年度中外中小企业合作区名单",
+    "link": "https://www.chinanews.com.cn/gn/2025/11-14/10515304.shtml",
+    "pub_date": "2025-11-14 10:48:21"
+  },
+  {
+    "id": 99355,
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "陈睿：B站 UP 主和用户群在国内含 AI 量肯定是最高的，第三季度 AI 相关内容日均投稿量同比增长 83%",
+    "link": "https://www.ithome.com/0/897/386.htm",
+    "pub_date": "2025-11-14 10:48:02"
+  },
+  {
+    "id": 99224,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "黄金的又一个十字路口",
+    "link": "https://www.tmtpost.com/7764138.html",
+    "pub_date": "2025-11-14 10:47:40"
+  },
+  {
+    "id": 98548,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "瞄准新兴机床领域 台商二代南京深耕机械行业",
+    "link": "https://www.chinanews.com.cn/gn/2025/11-14/10515300.shtml",
+    "pub_date": "2025-11-14 10:47:06"
+  },
+  {
+    "id": 98553,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "云南昭通守牢防返贫底线  “十四五”期间农村居民收入增速领跑全省",
+    "link": "https://www.chinanews.com.cn/gn/2025/11-14/10515307.shtml",
+    "pub_date": "2025-11-14 10:45:50"
+  },
+  {
+    "id": 98441,
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "恐袭十周年：马克龙承诺采取一切措施防恐袭",
+    "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251114-%E6%81%90%E8%A2%AD%E5%8D%81%E5%91%A8%E5%B9%B4-%E9%A9%AC%E5%85%8B%E9%BE%99%E6%89%BF%E8%AF%BA%E9%87%87%E5%8F%96%E4%B8%80%E5%88%87%E6%8E%AA%E6%96%BD%E9%98%B2%E6%81%90%E8%A2%AD",
+    "pub_date": "2025-11-14 10:45:02"
+  },
+  {
+    "id": 99219,
+    "feed_name": "雷峰网",
+    "category": "科技",
+    "title": "迈富时副总裁李玠佚：取代传统SaaS的不是Agent，而是AI原生SaaS | SaaS+Agent十人谈",
+    "link": "https://www.leiphone.com/category/CorporateServices/ydGFkDoeEnYgB50g.html",
+    "pub_date": "2025-11-14 10:38:00"
+  },
+  {
+    "id": 99359,
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "TrendForce：存储产业 2026 年资本支出仍显保守，对容量产出提升助力有限",
+    "link": "https://www.ithome.com/0/897/384.htm",
+    "pub_date": "2025-11-14 10:36:57"
+  },
+  {
+    "id": 98842,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "新华社快讯：习近平举行仪式欢迎泰国国王哇集拉隆功访华",
+    "link": "http://www.news.cn/20251114/67579a146ca3459f8987cc3e8ae9d4e8/c.html",
+    "pub_date": "2025-11-14 10:36:53"
+  },
+  {
+    "id": 98560,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "习近平举行仪式欢迎泰国国王哇集拉隆功访华",
+    "link": "https://www.chinanews.com.cn/gn/2025/11-14/10515303.shtml",
+    "pub_date": "2025-11-14 10:36:18"
+  },
+  {
+    "id": 98423,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "中国10月新房售价创下一年来环比最大跌幅",
+    "link": "https://www.zaobao.com/realtime/china/story20251114-7816625",
+    "pub_date": "2025-11-14 10:35:06"
+  },
+  {
+    "id": 99248,
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "Dev Proxy v1.3.0：HAR文件生成、LLM使用跟踪、增强的API测试功能",
+    "link": "https://www.infoq.cn/article/spkw4QjuqNtHuVvUrJga",
+    "pub_date": "2025-11-14 10:35:03"
+  },
+  {
+    "id": 99320,
+    "feed_name": "超能网",
+    "category": "科技",
+    "title": "Thermaltake发布光透View 390 TG机箱：全景式强化玻璃带来独特展示",
+    "link": "http://www.expreview.com/102727.html",
+    "pub_date": "2025-11-14 10:27:00"
+  },
+  {
+    "id": 99226,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "一大波酒店投资人，开始组团“西南飞”",
+    "link": "https://www.tmtpost.com/7764189.html",
+    "pub_date": "2025-11-14 10:25:47"
+  },
+  {
+    "id": 98846,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "新华社消息丨海军四川舰开展首次航行试验",
+    "link": "http://www.news.cn/20251114/ae56c0a8e2dc4b04b5d6456ba5153879/c.html",
+    "pub_date": "2025-11-14 10:24:11"
+  },
+  {
+    "id": 98533,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "国家统计局：2025年10月份规模以上工业增加值增长4.9%",
+    "link": "https://www.chinanews.com.cn/cj/2025/11-14/10515292.shtml",
+    "pub_date": "2025-11-14 10:22:13"
+  },
+  {
+    "id": 99599,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "合作伙伴暗打价格战，中建智地要求越秀交出北京一项目操盘权",
+    "link": "https://36kr.com/p/3552288066993282?f=rss",
+    "pub_date": "2025-11-14 10:20:40"
+  },
+  {
+    "id": 98850,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "加拿大再推大型项目布局战略资源",
+    "link": "http://www.news.cn/20251114/02e21ec7e9e448f8a24081448cc738f5/c.html",
+    "pub_date": "2025-11-14 10:19:17"
+  },
+  {
+    "id": 98854,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "“新格伦”火箭搭载火星探测器升空 第一级实现海上回收",
+    "link": "http://www.news.cn/20251114/29108d41f19343699adced8540c69d78/c.html",
+    "pub_date": "2025-11-14 10:18:11"
+  },
+  {
+    "id": 98858,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "西班牙实施全国家禽圈养措施遏制禽流感蔓延",
+    "link": "http://www.news.cn/20251114/29c3bc00d5ac42b1bd5bda8d1075975e/c.html",
+    "pub_date": "2025-11-14 10:18:06"
+  },
+  {
+    "id": 99228,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "Apple Cuts App Store Commission for Mini Apps to 15%",
+    "link": "https://www.tmtpost.com/7764277.html",
+    "pub_date": "2025-11-14 10:18:03"
+  },
+  {
+    "id": 98429,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "076两栖攻击舰四川舰下水11个月后首次航行试验",
+    "link": "https://www.zaobao.com/realtime/china/story20251114-7816509",
+    "pub_date": "2025-11-14 10:15:56"
+  },
+  {
+    "id": 98862,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "新华视点丨护工死亡背后：谁来守护“守护者”？",
+    "link": "http://www.news.cn/20251114/3b88e330275640ec98949739c2e843ec/c.html",
+    "pub_date": "2025-11-14 10:12:39"
+  },
+  {
+    "id": 98537,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "非洲疾控中心：非洲面临25年来最严重霍乱疫情",
+    "link": "https://www.chinanews.com.cn/gj/2025/11-14/10515254.shtml",
+    "pub_date": "2025-11-14 10:12:01"
+  },
+  {
+    "id": 99427,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "车企线索变革分析（1）告别“内卷”泥潭：传统汽车线索模式正在走向终结",
+    "link": "https://www.woshipm.com/operate/6292168.html",
+    "pub_date": "2025-11-14 10:11:33"
+  },
+  {
+    "id": 98539,
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "“外强中干”的祖国让中国人感到绝望",
+    "link": "https://cn.nytimes.com/opinion/20251114/china-politics-social-public-mood/dual",
+    "pub_date": "2025-11-14 10:06:03"
+  },
+  {
+    "id": 98542,
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "妙瓦底诈骗园区头目佘智江被引渡至中国",
+    "link": "https://cn.nytimes.com/world/20251114/scam-center-she-zhijiang-extradited-china/dual",
+    "pub_date": "2025-11-14 10:06:03"
+  },
+  {
+    "id": 98866,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "人民币市场汇价（11月14日）",
+    "link": "http://www.news.cn/20251114/b3b8a4f11d2e418e897dc7fe40543cdd/c.html",
+    "pub_date": "2025-11-14 10:03:43"
+  },
+  {
+    "id": 98541,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "检察机关依法对寇伟涉嫌贪污、国有公司人员滥用职权、受贿、利用影响力受贿案提起公诉",
+    "link": "https://www.chinanews.com.cn/gn/2025/11-14/10515282.shtml",
+    "pub_date": "2025-11-14 10:03:20"
+  },
+  {
+    "id": 98870,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "新华社消息丨1444.49吨！我国探明首个千吨级金矿",
+    "link": "http://www.news.cn/20251114/02fde5546ba749bfb65506997bc0f924/c.html",
+    "pub_date": "2025-11-14 10:03:19"
+  },
+  {
+    "id": 99221,
+    "feed_name": "雷峰网",
+    "category": "科技",
+    "title": "AI、出海与盈利：中国企业软件迎来历史性“N个拐点”",
+    "link": "https://www.leiphone.com/category/CorporateServices/vs9hpsQ2O4OeR9SK.html",
+    "pub_date": "2025-11-14 10:03:00"
+  },
+  {
+    "id": 98874,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "检察机关依法对寇伟涉嫌贪污、国有公司人员滥用职权、受贿、利用影响力受贿案提起公诉",
+    "link": "http://www.news.cn/20251114/999cffa0097844abbef4e328e2314e6e/c.html",
+    "pub_date": "2025-11-14 10:01:30"
+  },
+  {
+    "id": 98878,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "新华社权威快报丨10月国民经济保持总体平稳、稳中有进发展态势",
+    "link": "http://www.news.cn/20251114/999e5b6d408b4837b0bbb273b141504e/c.html",
+    "pub_date": "2025-11-14 10:01:19"
+  },
+  {
+    "id": 98391,
+    "feed_name": "南方周末 / 新闻",
+    "category": "新闻",
+    "title": "在喀什，那些被打动的瞬间",
+    "link": "https://www.infzm.com/contents/307422",
+    "pub_date": "2025-11-14 10:00:00"
+  },
+  {
+    "id": 99430,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "饿了么为什么要改名？一个18年品牌的\"主动消失\"背后",
+    "link": "https://www.woshipm.com/it/6292050.html",
+    "pub_date": "2025-11-14 09:58:16"
+  },
+  {
+    "id": 98434,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "美议员抨击特朗普暂停对华技术限制 称削弱国安",
+    "link": "https://www.zaobao.com/realtime/china/story20251114-7816433",
+    "pub_date": "2025-11-14 09:57:34"
+  },
+  {
+    "id": 99223,
+    "feed_name": "雷峰网",
+    "category": "科技",
+    "title": "超能小度：从AI助手到AI伙伴，小度上演超能进化",
+    "link": "https://www.leiphone.com/category/industrynews/bK1A70tOHVCu2UW9.html",
+    "pub_date": "2025-11-14 09:57:00"
+  },
+  {
+    "id": 98547,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "网红网店偷逃税赚快钱须遏制 6起案件曝光",
+    "link": "https://www.chinanews.com.cn/cj/2025/11-14/10515276.shtml",
+    "pub_date": "2025-11-14 09:54:39"
+  },
+  {
+    "id": 99432,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "我用钉钉AI表格，重构了新媒体运营的“人、数据、流”",
+    "link": "https://www.woshipm.com/ai/6291753.html",
+    "pub_date": "2025-11-14 09:54:34"
+  },
+  {
+    "id": 99433,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "0经验转AI产品经理，拿下40W年薪offer！",
+    "link": "https://www.woshipm.com/class/6292181.html",
+    "pub_date": "2025-11-14 09:54:26"
+  },
+  {
+    "id": 99230,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "China's AI Chip Race Accelerates as \"Local Nvidias\" Advance IPO Plans Despite Global Market Volatility",
+    "link": "https://www.tmtpost.com/7764181.html",
+    "pub_date": "2025-11-14 09:52:03"
+  },
+  {
+    "id": 99323,
+    "feed_name": "超能网",
+    "category": "科技",
+    "title": "Minisforum带来X1 Lite-255迷你PC：搭载AMD R7 255处理器，首发价1999元起",
+    "link": "http://www.expreview.com/102726.html",
+    "pub_date": "2025-11-14 09:52:00"
+  },
+  {
+    "id": 99435,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "十平米的生死局：为什么高密度连锁品牌，必须用AI在数据空间里偷面积？",
+    "link": "https://www.woshipm.com/it/6292049.html",
+    "pub_date": "2025-11-14 09:50:45"
+  },
+  {
+    "id": 99250,
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "没活硬整？OpenAI新发的GPT-5.1被网友狂吐槽：我不想和它聊天，我想用它工作",
+    "link": "https://www.infoq.cn/article/ORpjd2vf8Tfz1pNq2YUP",
+    "pub_date": "2025-11-14 09:50:39"
+  },
+  {
+    "id": 98438,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "腾讯第三季度营收超出预期 谨慎推进AI策略获验证",
+    "link": "https://www.zaobao.com/realtime/china/story20251114-7816374",
+    "pub_date": "2025-11-14 09:49:04"
+  },
+  {
+    "id": 98882,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "权威医者说丨流感也有自限性 抗病毒药作用大",
+    "link": "http://www.news.cn/20251114/1a18035260de451783a4b886fd9f1671/c.html",
+    "pub_date": "2025-11-14 09:49:04"
+  },
+  {
+    "id": 99225,
+    "feed_name": "雷峰网",
+    "category": "科技",
+    "title": "百度文库网盘发布GenFlow3.0，超级应用成就超级个体",
+    "link": "https://www.leiphone.com/category/industrynews/fnsvwNVN0LghCqTk.html",
+    "pub_date": "2025-11-14 09:49:00"
+  },
+  {
+    "id": 99437,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "AI社交化：流量红海的下一个“杀手级”入口？",
+    "link": "https://www.woshipm.com/ai/6292029.html",
+    "pub_date": "2025-11-14 09:48:11"
+  },
+  {
+    "id": 99227,
+    "feed_name": "雷峰网",
+    "category": "科技",
+    "title": "用汽车下令数千家供应商剥离中国供应链，2027年前完成；苹果获得微信小游戏抽成15%；阿里秘密启动千问项目，对标ChatGPT",
+    "link": "https://www.leiphone.com/category/zaobao/7QHaxYuq9mgCEtl8.html",
+    "pub_date": "2025-11-14 09:47:00"
+  },
+  {
+    "id": 99330,
+    "feed_name": "超能网",
+    "category": "科技",
+    "title": "安钛克推出P7 S机箱：配备三面吸音面板，优化风道设计，售价319元起",
+    "link": "http://www.expreview.com/102723.html",
+    "pub_date": "2025-11-14 09:44:15"
+  },
+  {
+    "id": 99439,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "GEO优化：企业AI智能体搭建的隐形战场",
+    "link": "https://www.woshipm.com/ai/6208629.html",
+    "pub_date": "2025-11-14 09:40:11"
+  },
+  {
+    "id": 98554,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "下半年首场寒潮影响我国 中东部地区大风降温显著",
+    "link": "https://www.chinanews.com.cn/sh/2025/11-14/10515253.shtml",
+    "pub_date": "2025-11-14 09:36:42"
+  },
+  {
+    "id": 99441,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "饿了么“消失”背后：淘宝闪购的豪赌与用户心智迁移的攻坚战",
+    "link": "https://www.woshipm.com/it/6291995.html",
+    "pub_date": "2025-11-14 09:36:23"
+  },
+  {
+    "id": 99328,
+    "feed_name": "超能网",
+    "category": "科技",
+    "title": "《荒野大镖客 : 救赎》即将登录多平台，兼容iOS和Android设备",
+    "link": "http://www.expreview.com/102724.html",
+    "pub_date": "2025-11-14 09:36:00"
+  },
+  {
+    "id": 98563,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "市场监管总局就《电子商务平台协助查处商标侵权案件规定（征求意见稿）》向社会公开征求意见",
+    "link": "https://www.chinanews.com.cn/cj/2025/11-14/10515249.shtml",
+    "pub_date": "2025-11-14 09:35:52"
+  },
+  {
+    "id": 98886,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "新华视点丨免费领鸡蛋、扫码入群看直播 警惕私域直播侵害老年人合法权益",
+    "link": "http://www.news.cn/20251114/ee046239ab1d47a28a022d7e6ea3473d/c.html",
+    "pub_date": "2025-11-14 09:34:08"
+  },
+  {
+    "id": 98571,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "证监会出台23项务实举措回应社会关切 全方位织密投资者权益保护网",
+    "link": "https://www.chinanews.com.cn/cj/2025/11-14/10515257.shtml",
+    "pub_date": "2025-11-14 09:33:38"
+  },
+  {
+    "id": 99443,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "需求池里捞黄金：用 CMA 边际公式 + LLM 秒算 的需求决策自动化方法研究",
+    "link": "https://www.woshipm.com/pd/6292002.html",
+    "pub_date": "2025-11-14 09:32:39"
+  },
+  {
+    "id": 98890,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "秀我中国｜吉林集安：晨光映江雾",
+    "link": "http://www.news.cn/20251114/728a5a4fd8b34689a844d19aa2dc981e/c.html",
+    "pub_date": "2025-11-14 09:31:06"
+  },
+  {
+    "id": 99444,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "AI重塑企业培训：用一张钉钉AI表格，搭建智能培训管理中枢",
+    "link": "https://www.woshipm.com/ai/6291992.html",
+    "pub_date": "2025-11-14 09:27:43"
+  },
+  {
+    "id": 99232,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "一天一个价，存储芯片的“涨价潮”没有尽头？",
+    "link": "https://www.tmtpost.com/7764108.html",
+    "pub_date": "2025-11-14 09:27:00"
+  },
+  {
+    "id": 99326,
+    "feed_name": "超能网",
+    "category": "科技",
+    "title": "英特尔Arc显卡32.0.101.8250驱动：支持《纪元 117 : 罗马和平》等新游戏",
+    "link": "http://www.expreview.com/102725.html",
+    "pub_date": "2025-11-14 09:26:00"
+  },
+  {
+    "id": 98894,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "美国抵制G20约堡峰会 南非总统：损失的是他们……",
+    "link": "http://www.news.cn/20251114/0f6e39e736fe40409dc9808539fc62d8/c.html",
+    "pub_date": "2025-11-14 09:22:58"
+  },
+  {
+    "id": 99445,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "从界面逻辑到系统逻辑：体验设计师的AI产品经理思维升维",
+    "link": "https://www.woshipm.com/pd/6291620.html",
+    "pub_date": "2025-11-14 09:22:11"
+  },
+  {
+    "id": 98448,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "50年来首次访华 泰王抵京王毅接机",
+    "link": "https://www.zaobao.com/realtime/china/story20251114-7816231",
+    "pub_date": "2025-11-14 09:17:15"
+  },
+  {
+    "id": 98455,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "英军情六处前处长：英国应找到办法批准中国在伦敦建新使馆",
+    "link": "https://www.zaobao.com/realtime/china/story20251114-7816227",
+    "pub_date": "2025-11-14 09:15:15"
+  },
+  {
+    "id": 99446,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "场景驱动：产品经理如何将模糊的“用户故事”转化为清晰的“产品落地”？",
+    "link": "https://www.woshipm.com/pd/6291921.html",
+    "pub_date": "2025-11-14 09:10:58"
+  },
+  {
+    "id": 98898,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "网信部门从严整治利用AI仿冒公众人物开展直播营销问题乱象",
+    "link": "http://www.news.cn/20251114/ce018766dd9f4103b4b32c11321ab7ed/c.html",
+    "pub_date": "2025-11-14 09:09:06"
+  },
+  {
+    "id": 99333,
+    "feed_name": "超能网",
+    "category": "科技",
+    "title": "AMD Software Adrenalin Edition 25.11.1驱动：支持《ARC Raiders》等",
+    "link": "http://www.expreview.com/102722.html",
+    "pub_date": "2025-11-14 09:09:00"
+  },
+  {
+    "id": 99447,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "B端产品经理的“灵魂三问”：边界、权限与流程",
+    "link": "https://www.woshipm.com/pmd/6291848.html",
+    "pub_date": "2025-11-14 09:08:05"
+  },
+  {
+    "id": 98902,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "全运·文化丨开幕式上那条“大鱼”是何来历你知道吗",
+    "link": "http://www.news.cn/20251114/8263a781fd414a08b0eeb0ed96ce068b/c.html",
+    "pub_date": "2025-11-14 09:05:29"
+  },
+  {
+    "id": 98579,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "网信部门从严整治利用AI仿冒公众人物开展直播营销问题乱象",
+    "link": "https://www.chinanews.com.cn/gn/2025/11-14/10515242.shtml",
+    "pub_date": "2025-11-14 09:04:46"
+  },
+  {
+    "id": 98906,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "海军四川舰开展首次航行试验",
+    "link": "http://www.news.cn/20251114/f55adbc728514ef2896b2b2b246a2ad8/c.html",
+    "pub_date": "2025-11-14 09:00:55"
+  },
+  {
+    "id": 98394,
+    "feed_name": "南方周末 / 新闻",
+    "category": "新闻",
+    "title": "一个“明星”合作社的陨落：涉农资金互助进退二十年",
+    "link": "https://www.infzm.com/contents/307420",
+    "pub_date": "2025-11-14 09:00:00"
+  },
+  {
+    "id": 99274,
+    "feed_name": "爱范儿",
+    "category": "科技",
+    "title": "早报｜苹果将「小程序」正式纳入iOS体系，抽成降一半/京东外卖将成可独立生存业务/微信最终将推出AI智能体",
+    "link": "https://www.ifanr.com/1644529?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "pub_date": "2025-11-14 08:59:20"
+  },
+  {
+    "id": 98587,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "石破茂对高市早苗涉台言论表示反对",
+    "link": "https://www.chinanews.com.cn/gj/2025/11-14/10515239.shtml",
+    "pub_date": "2025-11-14 08:56:09"
+  },
+  {
+    "id": 98910,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "新华社消息丨神舟二十号航天员乘组即将返回东风着陆场",
+    "link": "http://www.news.cn/20251114/cc8514e3c8684a438dc33a75b01699b6/c.html",
+    "pub_date": "2025-11-14 08:53:00"
+  },
+  {
+    "id": 98410,
+    "feed_name": "ABC 澳大利亚广播公司",
+    "category": "国外",
+    "title": "中国火力全开抨击日本首相高市早苗 召见日本大使",
+    "link": "https://newsapp.abc.net.au/newsapp/chinese/2025-11-14/china-urges-japan-pm-to-retract-egregious-remarks-on-taiwan/106009088",
+    "pub_date": "2025-11-14 08:49:02"
+  },
+  {
+    "id": 98802,
+    "feed_name": "求是网",
+    "category": "新闻",
+    "title": "习近平主席复信激励广大青年汉学家和国际中文教育工作者为推动构建人类命运共同体贡献智慧和力量",
+    "link": "https://www.qstheory.cn/20251114/ba45df3fbcf94b869fd9bcfcf22b9d3d/c.html",
+    "pub_date": "2025-11-14 08:38:19"
+  },
+  {
+    "id": 98462,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "中美俄元首齐缺席 习近平将不出席G20南非峰会",
+    "link": "https://www.zaobao.com/realtime/china/story20251114-7816105",
+    "pub_date": "2025-11-14 08:36:25"
+  },
+  {
+    "id": 99178,
+    "feed_name": "少数派",
+    "category": "科技",
+    "title": "派早报：OpenAI 发布 GPT-5.1 系列模型、Apple 推出小程序合作伙伴计划",
+    "link": "https://sspai.com/post/103816",
+    "pub_date": "2025-11-14 08:34:55"
+  },
+  {
+    "id": 99234,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "科股早知道：13.45亿元招标项目启动，可控核聚变正加速从实验验证迈向工程示范",
+    "link": "https://www.tmtpost.com/7763998.html",
+    "pub_date": "2025-11-14 08:33:33"
+  },
+  {
+    "id": 98914,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "新华社权威快报丨1444.49吨！我国探明首个千吨级金矿",
+    "link": "http://www.news.cn/20251114/58c74438d49f44e3a76eade0f3acf3bf/c.html",
+    "pub_date": "2025-11-14 08:30:57"
+  },
+  {
+    "id": 98662,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "01版头版 - 习近平复信青年汉学家",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_1-01.htm",
+    "pub_date": "2025-11-14 08:28:05"
+  },
+  {
+    "id": 98669,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "01版头版 - 习近平同科摩罗总统阿扎利就中科建交50周年互致贺电",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_2-01.htm",
+    "pub_date": "2025-11-14 08:28:05"
+  },
+  {
+    "id": 98676,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "01版头版 - 【“十五五”我所思·我所盼】造出性能更优的“感觉器官”",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_3-01.htm",
+    "pub_date": "2025-11-14 08:28:05"
+  },
+  {
+    "id": 98683,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "01版头版 - 【“十五五”我所思·我所盼】让绿色技术扎根“产业土壤”",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_4-01.htm",
+    "pub_date": "2025-11-14 08:28:05"
+  },
+  {
+    "id": 98689,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "01版头版 - 加强经验交流 续写友谊新篇",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_5-01.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98695,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "01版头版 - 【大美中国】鎏金初冬",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_6-01.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98701,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "01版头版 - 【光明时评】诚信氛围靠大家营造",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_7-01.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98706,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "01版头版 - 【这些文化名人的光明故事】金岳霖：启《哲学》园地 倡争鸣风气",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_8-01.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98714,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "02版要闻 - 李强将出席上海合作组织成员国政府首脑（总理）理事会第二十四次会议、二十国集团领导人第二十次峰会并对赞比亚进行正式访问",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_1-02.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98721,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "02版要闻 - 图片报道",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_2-02.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98727,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "02版要闻 - 党的二十届四中全会文件及学习辅导材料出版发行活动在京举行",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_3-02.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98734,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "02版要闻 - 《抗日战争档案汇编》出版图书140余种700余册",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_4-02.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98742,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "02版要闻 - 前10个月京津冀区域出口创历史同期新高",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_5-02.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98749,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "02版要闻 - 国家防减救灾委员会办公室：全力做好冬季低温雨雪冰冻灾害防范应对",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_6-02.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98756,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "02版要闻 - 做媒体变革发展的行动派、实干家",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_7-02.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98761,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "02版要闻 - 图片报道",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_8-02.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98769,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "03版评论 - 【光明论坛】集中资源突出优势 优化调整学科专业",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_1-03.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98776,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "03版评论 - 【光明时评】免费接种HPV疫苗是服务民生应时之举",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_2-03.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98780,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "03版评论 - 【光明时评】让“村字号”文化品牌越来越亮",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_3-03.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98785,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "03版评论 - 平顶山学院：探索培育高素质应用型人才创新之路",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_4-03.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98789,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "04版要闻 - 文化特派员：走进乡村绘就“文化风景”",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_1-04.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98794,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "04版要闻 - 坚持有效市场和有为政府相结合 推动建设强大国内市场",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_2-04.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98797,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "04版要闻 - 湖南大学国家卓越工程师学院：创新“六链贯通”育人机制 培养经世致用卓越工程师",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_3-04.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98801,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "04版要闻 - 东北林业大学：以新工科建设打造林业创新人才培养新高地",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_4-04.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98805,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "04版要闻 - 西安明德理工学院：坚持五育并举 精心打造“学在明德”学风品牌",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_5-04.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98809,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "05版红船初心专刊（总第1745期） - 深挖单产潜力，中国饭碗咱端得牢！",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_1-05.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98813,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "05版红船初心专刊（总第1745期） - 湖南岳阳：把示范田种在农民身边",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_2-05.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98816,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "05版红船初心专刊（总第1745期） - 持续增强重要农产品供给保障能力",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_3-05.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98819,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "06版学习贯彻习近平新时代中国特色社会主义思想专刊 - 全面提升中华文明传播力影响力",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_1-06.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98822,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "06版学习贯彻习近平新时代中国特色社会主义思想专刊 - 中华民族的文化主体性论析",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_2-06.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98825,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "06版学习贯彻习近平新时代中国特色社会主义思想专刊 - 中国式现代化自主知识体系建构：科学内涵、时代价值与推进路径",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_3-06.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98832,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "06版学习贯彻习近平新时代中国特色社会主义思想专刊 - 坚持党的文化领导权 扎实推进社会主义文化强国建设",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_4-06.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98840,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "07版光明视野 - 小小票根，何以成为促消费“金钥匙”",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_1-07.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98848,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "07版光明视野 - 延长消费链 激发新潜能",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_2-07.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98856,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "07版光明视野 - “解锁”惊喜",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_3-07.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98860,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "08版教科文新闻 - 十载青春接力 八千里以爱筑梦",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_1-08.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98868,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "08版教科文新闻 - “文化合伙人”搭起社区生活“新舞台”",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_2-08.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98876,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "08版教科文新闻 - 绚丽极光“光临”中国最北天空",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_3-08.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98884,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "08版教科文新闻 - 安徽明光：候鸟“稀客”变“常客”",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_4-08.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98892,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "08版教科文新闻 - 河北移动：发挥优势推动“智改数转” 擦亮产业集群特色招牌",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_5-08.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98900,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "08版教科文新闻 - 宿迁学院：非遗种子播校园 高校赋能育新苗",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_6-08.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98908,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "08版教科文新闻 - 江苏大学：数智赋能驱动三维融通 大学数学教改模式重构",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_7-08.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98912,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "09版第十五届全运会特刊 - 香港“飞鱼”首夺全运金牌 乒乓名将“过关斩将”晋级",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_1-09.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98924,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "09版第十五届全运会特刊 - 绿色全运会 生态大湾区",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_2-09.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98928,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "09版第十五届全运会特刊 - “喜洋洋”“乐融融”为啥招人喜欢",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_3-09.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98933,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "10版广告 - 兰州新区 焕新出发",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_1-10.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98938,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "11版理论 - 在强化自信自觉中巩固文化主体性",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_1-11.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98943,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "12版国际新闻 - 在结构性变革中重塑东亚经济韧性",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_1-12.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98948,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "12版国际新闻 - 欧盟气候新政在妥协中出台",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_2-12.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98953,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "12版国际新闻 - 鞍山师范学院人文与传播学院：以专业发展、学科建设、硕点建设“三位一体”促发展",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_3-12.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98958,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "13版光明文化周末·文荟 - 寻访茅盾在北京的遗迹",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_1-13.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98963,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "13版光明文化周末·文荟 - 《中国的一日》",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_2-13.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98968,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "14版光明文化周末·作品 - 布拉岩（小说）",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_1-14.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98985,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "14版光明文化周末·作品 - 淦田老街记",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_2-14.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98995,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "15版光明文化周末·大观 - 鹤魂飞扬",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_1-15.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 99005,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "15版光明文化周末·大观 - 母亲茶",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_2-15.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 99015,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "15版光明文化周末·大观 - 素雅含象（中国画）",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_3-15.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 99025,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "15版光明文化周末·大观 - 根菜",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_4-15.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 99035,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "15版光明文化周末·大观 - 沸腾的水花",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_5-15.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 99040,
+    "feed_name": "光明日报",
+    "category": "新闻",
+    "title": "16版雅趣 - 古代文人的消渴及其隐喻",
+    "link": "https://epaper.gmw.cn/gmrb/html/2025-11/14/nw.D110000gmrb_20251114_1-16.htm",
+    "pub_date": "2025-11-14 08:28:04"
+  },
+  {
+    "id": 98918,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "绝不容忍高市早苗在台湾问题上的越线挑衅（钟声）",
+    "link": "http://www.news.cn/20251114/cd8cd312813343ffbfb0fb897c37a49f/c.html",
+    "pub_date": "2025-11-14 08:27:38"
+  },
+  {
+    "id": 98831,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "01版 -  习近平复信青年汉学家 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114818.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98835,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "01版 -  习近平同科摩罗总统阿扎利就中科建交50周年互致贺电 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114819.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98839,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "01版 -  摘牌减负里的作风建设新成效（总书记的关切·落地的回响） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114820.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98843,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "01版 -  不断增强内需的主动力和稳定锚作用（活力中国调研行） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114821.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98847,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "01版 -  李强将出席上海合作组织成员国政府首脑（总理）理事会第二十四次会议、二十国集团领导人第二十次峰会并对赞比亚进行正式访问 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114822.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98851,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "01版 -  前三季度规上文化企业营收同比增长7.9% ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114823.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98855,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "01版 -  开放发展的中国，世界的机遇和信心 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114824.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98859,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "02版 -  从8000万元到2亿元，这家外贸企业做到了（迈向“十五五”的发展图景） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114825.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98863,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "02版 -  数字化转型大有可为 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114826.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98867,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "02版 -  扩大外贸领域制度型开放（专家点评） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114827.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98871,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "02版 -  在服务高质量发展中贡献更多市场监管力量（权威访谈·学习贯彻党的二十届四中全会精神） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114828.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98875,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "02版 -  农作物自主选育品种占比超95% ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114829.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98879,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "02版 -  图片报道 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114830.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98883,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "02版 -  竞业限制如何更规范（政策解读·问答） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114831.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98887,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "03版 -  “新质生产力正为中国高质量发展提供澎湃动力” ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114832.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98891,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "03版 -  与汉学结伴  和中国同行（和音） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114833.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98895,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "03版 -  “为‘泰中一家亲’谱写新篇章” ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114834.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98899,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "03版 -  借鉴经验  共享机遇 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114835.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98903,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "03版 -  绝不容忍高市早苗在台湾问题上的越线挑衅（钟声） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114836.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98907,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "03版 -  王毅会见哈萨克斯坦总统助理努尔特列乌 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114837.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98911,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "03版 -  张国清同西班牙国王费利佩六世共同出席中西企业顾问委员会第三次会议 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114838.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98915,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "03版 -  2025中德媒体圆桌对话会在深圳举行 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114839.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98919,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "03版 -  COP30“中国角”聚焦中国推进碳达峰碳中和成效经验 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114840.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98923,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "04版 -  建设“好房子”，如何下功夫？（深阅读） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114841.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98927,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "04版 -  谌贻琴赴香港澳门检查第十五届全运会赛事组织工作 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114842.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98932,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "04版 -  兜底帮扶  温暖群众 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114843.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98937,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "04版 -  图片报道 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114844.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98942,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "04版 -  不比排场  更重实际（厉行节约  反对浪费） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114845.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98947,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "04版 -  摘牌减负里的作风建设新成效（总书记的关切·落地的回响） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114846.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98952,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "04版 -  不断增强内需的主动力和稳定锚作用（活力中国调研行） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114847.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98957,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "04版 -  一版责编：胡安琪  张帅祯  张宇杰  二版责编：殷新宇  吕  莉  郭雪岩  三版责编：韩晓明  姜  波  李安琪  四版责编：白之羽  刘  念  杨烁壁 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114848.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98962,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "05版 -  焕新的长征路，笃行的奋进魂（评论员观察） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114849.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98967,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "05版 -  看安徽制造的破局之道（连线评论员） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114850.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98972,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "05版 -  图片报道 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114851.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98977,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "05版 -  文字联结你我  微光汇聚星河（暖闻热评） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114852.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98982,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "05版 -  莫让伪创新危害公共安全（纵横） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114853.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98987,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "05版 -  中国出口何以逆势增长（人民时评） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114854.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98992,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "05版 -  本版责编：刘天亮  李洪兴  崔  妍 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114855.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 98997,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "06版 -  建设更高水平平安中国（学习贯彻党的二十届四中全会精神） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114856.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 99002,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "06版 -  张庆伟率队在北京开展民用航空法修改调研 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114857.html",
+    "pub_date": "2025-11-14 08:26:09"
+  },
+  {
+    "id": 99007,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "06版 -  为机器人装上智慧大脑（迈向“十五五“的创新图景） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114858.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99012,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "06版 -  将技术潜力转化为现实生产力（编辑手记） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114859.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99017,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "06版 -  餐饮店助老 暖胃又贴心（暖心故事） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114860.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99022,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "06版 -  2025年中国文化馆年会在京举办 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114861.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99027,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "06版 -  山东博兴推进志愿服务标准化建设 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114862.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99032,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "06版 -  本版责编：张彦春  康  岩  宋  宇 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114863.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99037,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "07版 -  钱凯港开港一年，高效运营（经济聚焦） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114864.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99042,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "07版 -  我国社会融资成本持续下降 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114865.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99046,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "07版 -  做到“三不”，防范新型骗局 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114866.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99050,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "07版 -  超两百万亩土地成为“吨粮田” ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114867.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99055,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "07版 -   图片报道",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114868.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99059,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "07版 -  吉林省将发放1亿元冰雪消费券 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114869.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99063,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "07版 -  筑牢数字底座  赋能转型升级 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114870.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99066,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "07版 -  广告 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114872.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99069,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "07版 -  本版责编：吕钟正  韩春瑶  吴  凯 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114871.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99072,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "08版 -  赛场内外  青春闪耀 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114928.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99075,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "08版 -  用心勾勒青春的模样（赛场观潮） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114929.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99078,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "08版 -  本版责编：林  琳  高  佶  程  焕 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114930.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99081,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "09版 -  持续扩大中等收入群体规模  扎实推进共同富裕（深入学习贯彻习近平新时代中国特色社会主义思想） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114876.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99089,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "09版 -  真刀真枪干，解决矛盾和困难（思想纵横） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114877.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99092,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "09版 -  以对内对外开放联通推动建设强大国内市场（专题深思） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114878.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99098,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "10版 -  “网格兜不住事儿”，如何改出实效（干部状态新观察·走进一线探作风） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114879.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99104,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "10版 -  市场监管总局抽检“双11”网售食品3347批次 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114880.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99106,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "10版 -  山东公安持续推进智慧警务建设 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114881.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99110,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "10版 -  多元共治减少矛盾优化服务 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114882.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99114,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "10版 -  驱动改变  助力健康中国建设 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114883.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99116,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "10版 -  本版责编：季健明  徐雷鹏  李佩阳 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114884.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99118,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "11版 -  冬季居家取暖，这些细节要注意（服务窗） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114885.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99120,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "11版 -  产品创新，应以“真需求”为起点（民生观） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114886.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99122,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "11版 -  人间瑶池·古韵松潘  四川松潘奋力谱写民族地区文旅融合高质量发展新篇章 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114887.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99124,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "11版 -  本版责编：程  晨  徐  阳  秦瑞杰 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114888.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99126,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "12版 -  公益助力科研进步  服务科技强国建设 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114889.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99128,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "13版 -  综合高中如何拓宽成才路（人民眼·教育强国建设） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114890.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99130,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "13版 -  办好综合高中  助推职普融通（有所思） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114891.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99132,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "13版 -  本版责编：杨  彦  孙  振  戴林峰  刘雨瑞 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114892.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99134,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "14版 -  巴渝大地，人才与城市双向奔赴 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114893.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99136,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "14版 -  重庆壮大人才创新创业“陪跑人”队伍 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114894.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99138,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "14版 -  “渝才荟”AI管家赋能产才匹配 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114895.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99140,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "14版 -  重庆实施人才强园强企行动 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114896.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99142,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "14版 -  本版责编：纪雅林  管璇悦  卢  涛 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114897.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99144,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "15版 -  中欧科创企业探寻合作共赢新机遇（国际视点） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114898.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99146,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "15版 -  美国关税政策冲击德国经济 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114899.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99148,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "15版 -  印尼推进全民免费体检计划 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114900.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99150,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "15版 -  图片报道 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114901.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99152,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "15版 -  苏丹武装冲突再度升级 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114902.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99154,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "15版 -  美国创纪录联邦政府“停摆”结束 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114903.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99156,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "15版 -  本版责编：张梦旭  岳林炜  刘  刚 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114904.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99158,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "16版 -  三棵树实木水漆板通过新产品鉴定  科技创新助力“好房子”建设，绿色发展服务人民美好生活 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114905.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99160,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "17版 -  从水乡到世界的戏剧之路 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114906.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99162,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "17版 -  爱琴海畔的文明曙光（旅人心语） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114907.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99164,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "17版 -  日出博卡拉 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114908.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99166,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "17版 -  呈现技艺之美  推动文化交流 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114909.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99168,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "17版 -  本版责编：王佳可  庄雪雅  李欣怡 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114910.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99170,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "18版 -  千年手艺焕发时代活力（乡村观察） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114911.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99171,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "18版 -  令人向往的乡村多起来了（话说新农村） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114912.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99172,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "18版 -  提升农村饮水安全 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114913.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99173,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "18版 -  绿色蝶变更富民 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114914.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99174,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "18版 -  本版责编：李晓晴 ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114915.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99175,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "19版 -  让更多患者从创新技术中获益（健康焦点） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114923.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 99176,
+    "feed_name": "人民日报",
+    "category": "新闻",
+    "title": "19版 -  筑起青少年心理健康围栏（无影灯） ",
+    "link": "http://paper.people.com.cn/rmrb/pc/content/202511/14/content_30114924.html",
+    "pub_date": "2025-11-14 08:26:08"
+  },
+  {
+    "id": 98595,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "太阳X级大耀斑四连爆 “极光猎人”高纬度追光",
+    "link": "https://www.chinanews.com.cn/sh/2025/11-14/10515230.shtml",
+    "pub_date": "2025-11-14 08:23:10"
+  },
+  {
+    "id": 98414,
+    "feed_name": "ABC 澳大利亚广播公司",
+    "category": "国外",
+    "title": "中国火力全开抨击日本首相高市早苗 召见日本大使",
+    "link": "https://newsapp.abc.net.au/newsapp/chinese/2025-11-14/change-url-here/106009088",
+    "pub_date": "2025-11-14 08:19:03"
+  },
+  {
+    "id": 98468,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "中国神舟二十号乘组今搭乘神舟二十一号飞船返回地球",
+    "link": "https://www.zaobao.com/realtime/china/story20251114-7816067",
+    "pub_date": "2025-11-14 08:18:40"
+  },
+  {
+    "id": 98602,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "基辅市长称俄军发动“大规模”袭击",
+    "link": "https://www.chinanews.com.cn/gj/2025/11-14/10515226.shtml",
+    "pub_date": "2025-11-14 08:11:51"
+  },
+  {
+    "id": 99792,
+    "feed_name": "极客公园",
+    "category": "科技",
+    "title": "\n        传苹果从微信小程序抽成 15%，腾讯回应；特斯拉考虑支持 CarPlay；iPhone Air 成功支持实体卡 |极客早知道\n      ",
+    "link": "http://www.geekpark.net/news/356400",
+    "pub_date": "2025-11-14 08:10:42"
+  },
+  {
+    "id": 99600,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "腾讯又给AI泼了一次冷水",
+    "link": "https://36kr.com/p/3552154310425729?f=rss",
+    "pub_date": "2025-11-14 08:07:34"
+  },
+  {
+    "id": 98607,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "下半年首场寒潮过程将影响我国 部分地区降温12～14℃",
+    "link": "https://www.chinanews.com.cn/sh/2025/11-14/10515221.shtml",
+    "pub_date": "2025-11-14 08:07:21"
+  },
+  {
+    "id": 99601,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "8点1氪｜小孩试戴金镯子10秒被要求赔偿1000元，中国黄金回应；全红婵捐出全部直播收入；阿里秘密启动“千问”项目",
+    "link": "https://36kr.com/p/3552158353505417?f=rss",
+    "pub_date": "2025-11-14 08:05:03"
+  },
+  {
+    "id": 98922,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "英国广播公司向特朗普道歉但拒绝赔偿",
+    "link": "http://www.news.cn/20251114/230b582690b0405c951dbb47e72ea4dc/c.html",
+    "pub_date": "2025-11-14 08:04:31"
+  },
+  {
+    "id": 98926,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "构建更加公正合理的全球治理体系——智库报告解析共建“新型全球领导力”",
+    "link": "http://www.news.cn/20251114/7215c76fd35642679276442cb9062809/c.html",
+    "pub_date": "2025-11-14 08:03:06"
+  },
+  {
+    "id": 98929,
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "壓力如何影響健康及飲食? 哪些食物可以減壓?",
+    "link": "https://www.bbc.com/zhongwen/articles/cp3dx0w1e24o/trad?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2025-11-14 08:01:29"
+  },
+  {
+    "id": 98931,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "美国司法部参与起诉加州重划选区方案违宪",
+    "link": "http://www.news.cn/20251114/578283597296429eabdda54cb85efa2b/c.html",
+    "pub_date": "2025-11-14 08:00:42"
+  },
+  {
+    "id": 98397,
+    "feed_name": "南方周末 / 新闻",
+    "category": "新闻",
+    "title": "徐工机械首次登顶，三一重工这次滑到了第三｜2025行业科创解读（十三）",
+    "link": "https://www.infzm.com/contents/307337",
+    "pub_date": "2025-11-14 08:00:00"
+  },
+  {
+    "id": 99236,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "康波周期更迭中的藤校预备役：我们的孩子，是优质资产还是时代泡沫？（上）",
+    "link": "https://www.tmtpost.com/7763696.html",
+    "pub_date": "2025-11-14 08:00:00"
+  },
+  {
+    "id": 98473,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "中国商务部长批荷不当干预安世事务吁尽快撤销相关措施",
+    "link": "https://www.zaobao.com/realtime/china/story20251114-7816035",
+    "pub_date": "2025-11-14 07:59:00"
+  },
+  {
+    "id": 99238,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "国产芯片惊喜不断：两家“中国英伟达”迈向IPO，百度公布昆仑芯“五年计划”",
+    "link": "https://www.tmtpost.com/7764011.html",
+    "pub_date": "2025-11-14 07:55:00"
+  },
+  {
+    "id": 98936,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "神舟二十号航天员乘组即将返回东风着陆场",
+    "link": "http://www.news.cn/20251114/41f929e20c094c739038302ba2911d97/c.html",
+    "pub_date": "2025-11-14 07:50:58"
+  },
+  {
+    "id": 98480,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "中国大陆副外长奉示召见日大使批高市涉台言论极为危险",
+    "link": "https://www.zaobao.com/realtime/china/story20251114-7816006",
+    "pub_date": "2025-11-14 07:45:43"
+  },
+  {
+    "id": 98613,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "做“临时家人”有风险，如何给陪诊师稳稳的安全感？",
+    "link": "https://www.chinanews.com.cn/sh/2025/11-14/10515215.shtml",
+    "pub_date": "2025-11-14 07:34:36"
+  },
+  {
+    "id": 98941,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "外交部副部长孙卫东就日本首相高市早苗涉华错误言行提出严正交涉",
+    "link": "http://www.news.cn/20251114/741559feace74bfaab04342270fc0443/c.html",
+    "pub_date": "2025-11-14 07:30:27"
+  },
+  {
+    "id": 98618,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "“大牌尾货”竟是按吨回收的二手衣服 孤品直播间陷阱调查",
+    "link": "https://www.chinanews.com.cn/sh/2025/11-14/10515214.shtml",
+    "pub_date": "2025-11-14 07:23:40"
+  },
+  {
+    "id": 99239,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "【钛晨报】中国10月金融数据重磅出炉，M2同比增8.2%；阿里秘密启动“千问APP”项目，全面对标ChatGPT争夺海外用户；苹果和腾讯同意对购买微信小游戏收取15%费用？腾讯回应",
+    "link": "https://www.tmtpost.com/7763789.html",
+    "pub_date": "2025-11-14 07:20:00"
+  },
+  {
+    "id": 98946,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "委内瑞拉议会主席：美国“缉毒”真正目的是掠夺石油",
+    "link": "http://www.news.cn/20251114/2f9f375923294c2e9a2a0599413944cf/c.html",
+    "pub_date": "2025-11-14 07:18:10"
+  },
+  {
     "id": 96962,
     "feed_name": "界面新闻: 新闻",
     "category": "新闻",
@@ -78,6 +3518,14 @@
     "title": "达美航空CEO称政府停摆不可原谅",
     "link": "https://36kr.com/newsflashes/3552109065714568?f=rss",
     "pub_date": "2025-11-14 07:12:11"
+  },
+  {
+    "id": 98624,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "境外间谍伪装“完美男友”接近我机关工作人员 国安部披露案件详情",
+    "link": "https://www.chinanews.com.cn/sh/2025/11-14/10515210.shtml",
+    "pub_date": "2025-11-14 07:11:15"
   },
   {
     "id": 97730,
@@ -192,6 +3640,22 @@
     "pub_date": "2025-11-14 06:49:47"
   },
   {
+    "id": 98446,
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "巴黎1113恐袭案受害者与恐怖分子会面：所采修复性司法如何运作？",
+    "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251113-%E5%B7%B4%E9%BB%8E1113%E6%81%90%E8%A2%AD%E6%A1%88%E5%8F%97%E5%AE%B3%E8%80%85%E4%B8%8E%E6%81%90%E6%80%96%E5%88%86%E5%AD%90%E4%BC%9A%E9%9D%A2-%E6%89%80%E9%87%87%E4%BF%AE%E5%A4%8D%E6%80%A7%E5%8F%B8%E6%B3%95%E5%A6%82%E4%BD%95%E8%BF%90%E4%BD%9C",
+    "pub_date": "2025-11-14 06:45:02"
+  },
+  {
+    "id": 98951,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "“新格伦”火箭搭载火星探测器升空 第一级首次成功回收",
+    "link": "http://www.news.cn/20251114/b44bf97afb344e8c970fe8a203c7e3f2/c.html",
+    "pub_date": "2025-11-14 06:43:15"
+  },
+  {
     "id": 96924,
     "feed_name": "中国新闻网 即时新闻",
     "category": "新闻",
@@ -240,6 +3704,46 @@
     "pub_date": "2025-11-14 06:23:12"
   },
   {
+    "id": 98451,
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "美网民回忆巴黎恐攻十周年 官方尚无公开回应",
+    "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251113-%E7%BE%8E%E7%BD%91%E6%B0%91%E5%9B%9E%E5%BF%86%E5%B7%B4%E9%BB%8E%E6%81%90%E6%94%BB%E5%8D%81%E5%91%A8%E5%B9%B4-%E5%AE%98%E6%96%B9%E5%B0%9A%E6%97%A0%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94",
+    "pub_date": "2025-11-14 06:15:03"
+  },
+  {
+    "id": 98456,
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "欧洲塑料回收业告急：业者敦促欧盟出手应对廉价中国产能冲击",
+    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251113-%E6%AC%A7%E6%B4%B2%E5%A1%91%E6%96%99%E5%9B%9E%E6%94%B6%E4%B8%9A%E5%91%8A%E6%80%A5-%E4%B8%9A%E8%80%85%E6%95%A6%E4%BF%83%E6%AC%A7%E7%9B%9F%E5%87%BA%E6%89%8B%E5%BA%94%E5%AF%B9%E5%BB%89%E4%BB%B7%E4%B8%AD%E5%9B%BD%E4%BA%A7%E8%83%BD%E5%86%B2%E5%87%BB",
+    "pub_date": "2025-11-14 06:15:03"
+  },
+  {
+    "id": 98461,
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "美国将欧洲“安提法”相关组织列入恐怖组织黑名单",
+    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251113-%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%AC%A7%E6%B4%B2-%E5%AE%89%E6%8F%90%E6%B3%95-%E7%9B%B8%E5%85%B3%E7%BB%84%E7%BB%87%E5%88%97%E5%85%A5%E6%81%90%E6%80%96%E7%BB%84%E7%BB%87%E9%BB%91%E5%90%8D%E5%8D%95",
+    "pub_date": "2025-11-14 06:15:02"
+  },
+  {
+    "id": 98466,
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "稀土危机：德国重审对华政策 加速推动“去风险”战略",
+    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251113-%E7%A8%80%E5%9C%9F%E5%8D%B1%E6%9C%BA-%E5%BE%B7%E5%9B%BD%E9%87%8D%E5%AE%A1%E5%AF%B9%E5%8D%8E%E6%94%BF%E7%AD%96%E5%B9%B6%E5%8A%A0%E9%80%9F%E6%8E%A8%E5%8A%A8-%E5%8E%BB%E9%A3%8E%E9%99%A9-%E6%88%98%E7%95%A5",
+    "pub_date": "2025-11-14 06:15:02"
+  },
+  {
+    "id": 98470,
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "外传请辞之际 中国宣布证监会主席吴清访问法国、巴西行程",
+    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251113-%E5%A4%96%E4%BC%A0%E8%AF%B7%E8%BE%9E%E4%B9%8B%E9%99%85-%E4%B8%AD%E5%9B%BD%E5%AE%A3%E5%B8%83%E8%AF%81%E7%9B%91%E4%BC%9A%E4%B8%BB%E5%B8%AD%E5%90%B4%E6%B8%85%E8%AE%BF%E9%97%AE%E6%B3%95%E5%9B%BD-%E5%B7%B4%E8%A5%BF%E8%A1%8C%E7%A8%8B",
+    "pub_date": "2025-11-14 06:15:02"
+  },
+  {
     "id": 97210,
     "feed_name": "新华网 / 新华社新闻",
     "category": "新闻",
@@ -254,6 +3758,30 @@
     "title": "苹果推出 App Store 小程序合作伙伴计划，抽成 15%，或为微信 / 支付宝等小程序注入新活力",
     "link": "https://www.ithome.com/0/897/321.htm",
     "pub_date": "2025-11-14 06:01:28"
+  },
+  {
+    "id": 99277,
+    "feed_name": "爱范儿",
+    "category": "科技",
+    "title": "不止腾讯！苹果应用生态罕见开放，小程序终于「合法」存在",
+    "link": "https://www.ifanr.com/1644449?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "pub_date": "2025-11-14 05:59:09"
+  },
+  {
+    "id": 98475,
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "联合国教科文总干事交接在即",
+    "link": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20251113-rfi-%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E8%81%94%E5%90%88%E5%9B%BD%E6%95%99%E7%A7%91%E6%96%87%E6%80%BB%E5%B9%B2%E4%BA%8B%E4%BA%A4%E6%8E%A5%E5%9C%A8%E5%8D%B3",
+    "pub_date": "2025-11-14 05:45:02"
+  },
+  {
+    "id": 98479,
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "泽连斯基下令制裁一名涉嫌贪腐丑闻的亲信",
+    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251113-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%B8%8B%E4%BB%A4%E5%88%B6%E8%A3%81%E4%B8%80%E5%90%8D%E6%B6%89%E5%AB%8C%E8%B4%AA%E8%85%90%E4%B8%91%E9%97%BB%E7%9A%84%E4%BA%B2%E4%BF%A1",
+    "pub_date": "2025-11-14 05:45:02"
   },
   {
     "id": 96935,
@@ -648,6 +4176,14 @@
     "pub_date": "2025-11-13 23:24:27"
   },
   {
+    "id": 99823,
+    "feed_name": "Solidot",
+    "category": "科技",
+    "title": "美国停止铸造一美分硬币",
+    "link": "https://www.solidot.org/story?sid=82801",
+    "pub_date": "2025-11-13 23:24:25"
+  },
+  {
     "id": 97299,
     "feed_name": "新华网 / 新华社新闻",
     "category": "新闻",
@@ -678,6 +4214,14 @@
     "title": "2025面向东盟大健康旅游国际论坛在广西巴马举办",
     "link": "https://www.chinanews.com.cn/sh/2025/11-13/10515183.shtml",
     "pub_date": "2025-11-13 23:15:29"
+  },
+  {
+    "id": 99824,
+    "feed_name": "Solidot",
+    "category": "科技",
+    "title": "加州圣迭戈警告新生学术准备能力急剧下降",
+    "link": "https://www.solidot.org/story?sid=82800",
+    "pub_date": "2025-11-13 23:14:15"
   },
   {
     "id": 96926,
@@ -1000,12 +4544,28 @@
     "pub_date": "2025-11-13 22:00:00"
   },
   {
+    "id": 99245,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "AI赋能绿色新工业，远景能源大模型加速落地",
+    "link": "https://www.tmtpost.com/7763818.html",
+    "pub_date": "2025-11-13 22:00:00"
+  },
+  {
     "id": 96970,
     "feed_name": "中国新闻网 时政新闻",
     "category": "新闻",
     "title": "张国清同西班牙国王费利佩六世共同出席中西企业顾问委员会第三次会议",
     "link": "https://www.chinanews.com.cn/gn/2025/11-13/10515097.shtml",
     "pub_date": "2025-11-13 21:56:19"
+  },
+  {
+    "id": 99280,
+    "feed_name": "爱范儿",
+    "category": "科技",
+    "title": "冲上 5A 景区、硬扛 TNT 炸药，车圈营销是时候降温了",
+    "link": "https://www.ifanr.com/1644441?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "pub_date": "2025-11-13 21:55:18"
   },
   {
     "id": 97422,
@@ -1752,12 +5312,28 @@
     "pub_date": "2025-11-13 18:40:53"
   },
   {
+    "id": 99450,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "即梦AI的七面镜子：我低估了AI理解电影的速度",
+    "link": "https://www.woshipm.com/ai/6291885.html",
+    "pub_date": "2025-11-13 18:37:38"
+  },
+  {
     "id": 97631,
     "feed_name": "新华网 / 新华社新闻",
     "category": "新闻",
     "title": "商务部：努力推动中国－东盟自贸区3.0版升级议定书尽早生效实施",
     "link": "http://www.news.cn/20251113/08ce5e3dc87448b5b3b70442d442384c/c.html",
     "pub_date": "2025-11-13 18:32:35"
+  },
+  {
+    "id": 99451,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "AI硬件敲开大众消费之门，难在哪里？",
+    "link": "https://www.woshipm.com/ai/6291884.html",
+    "pub_date": "2025-11-13 18:30:22"
   },
   {
     "id": 97633,
@@ -1782,6 +5358,22 @@
     "title": "口袋里的光影课丨反光巧拍银杏树",
     "link": "http://www.news.cn/20251113/a2d28cf7dd3c467f8379ad7d237ee0ce/c.html",
     "pub_date": "2025-11-13 18:23:55"
+  },
+  {
+    "id": 99452,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "AI秒破18世纪「天书」账本！谷歌新模型盲测刷屏全网",
+    "link": "https://www.woshipm.com/ai/6291882.html",
+    "pub_date": "2025-11-13 18:23:28"
+  },
+  {
+    "id": 99825,
+    "feed_name": "Solidot",
+    "category": "科技",
+    "title": "Google 表示将允许侧载 Android 应用",
+    "link": "https://www.solidot.org/story?sid=82799",
+    "pub_date": "2025-11-13 18:21:35"
   },
   {
     "id": 97639,
@@ -1856,6 +5448,14 @@
     "pub_date": "2025-11-13 18:10:16"
   },
   {
+    "id": 99182,
+    "feed_name": "FreeBuf 关注黑客",
+    "category": "科技",
+    "title": "FreeBuf早报 | 恶意npm包利用CI/CD管道漏洞获取高权限；攻击者利用思科与Citrix 0Day漏洞部署后门",
+    "link": "https://www.freebuf.com/news/457018.html",
+    "pub_date": "2025-11-13 18:08:30"
+  },
+  {
     "id": 97651,
     "feed_name": "新华网 / 新华社新闻",
     "category": "新闻",
@@ -1870,6 +5470,14 @@
     "title": "黑龙江累计建成高标准农田1.17亿亩",
     "link": "http://www.news.cn/20251113/56ec3324c449499095dcaef41e410e23/c.html",
     "pub_date": "2025-11-13 18:08:05"
+  },
+  {
+    "id": 99454,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "今年最火的赛道，走入“精品化”时代",
+    "link": "https://www.woshipm.com/it/6291879.html",
+    "pub_date": "2025-11-13 18:07:30"
   },
   {
     "id": 98348,
@@ -1902,6 +5510,14 @@
     "title": "「中國加密女王」錢志敏案：英國史上最大比特幣查獲案的幕後真相",
     "link": "https://www.bbc.com/zhongwen/articles/c4gpj7qyk9yo/trad?at_medium=RSS&at_campaign=rss",
     "pub_date": "2025-11-13 18:02:54"
+  },
+  {
+    "id": 99826,
+    "feed_name": "Solidot",
+    "category": "科技",
+    "title": "旅行者1号距离地球即将达到一光日",
+    "link": "https://www.solidot.org/story?sid=82798",
+    "pub_date": "2025-11-13 18:02:46"
   },
   {
     "id": 97655,
@@ -2064,6 +5680,14 @@
     "pub_date": "2025-11-13 17:43:17"
   },
   {
+    "id": 99827,
+    "feed_name": "Solidot",
+    "category": "科技",
+    "title": "2024 年中国专利申请量继续遥遥领先",
+    "link": "https://www.solidot.org/story?sid=82797",
+    "pub_date": "2025-11-13 17:42:06"
+  },
+  {
     "id": 97061,
     "feed_name": "iDaily 每日环球视野",
     "category": "新闻",
@@ -2086,6 +5710,14 @@
     "title": "索尼PlayStation官宣新手游：《瑞奇与叮当 : 游侠乱斗》将登陆iOS及安卓端",
     "link": "http://www.expreview.com/102718.html",
     "pub_date": "2025-11-13 17:38:00"
+  },
+  {
+    "id": 99828,
+    "feed_name": "Solidot",
+    "category": "科技",
+    "title": "中国北方的沙尘主要源自蒙古",
+    "link": "https://www.solidot.org/story?sid=82796",
+    "pub_date": "2025-11-13 17:33:33"
   },
   {
     "id": 97417,
@@ -2264,6 +5896,14 @@
     "pub_date": "2025-11-13 16:42:52"
   },
   {
+    "id": 99829,
+    "feed_name": "Solidot",
+    "category": "科技",
+    "title": "冰岛将大西洋洋流的潜在崩溃视为国家安全风险",
+    "link": "https://www.solidot.org/story?sid=82795",
+    "pub_date": "2025-11-13 16:41:34"
+  },
+  {
     "id": 98036,
     "feed_name": "人人都是产品经理",
     "category": "科技",
@@ -2440,6 +6080,14 @@
     "pub_date": "2025-11-13 15:50:00"
   },
   {
+    "id": 99830,
+    "feed_name": "Solidot",
+    "category": "科技",
+    "title": "Google 释出 Android 16 QPR1 源代码",
+    "link": "https://www.solidot.org/story?sid=82794",
+    "pub_date": "2025-11-13 15:47:40"
+  },
+  {
     "id": 97160,
     "feed_name": "RFI 法国国际广播电台",
     "category": "国外",
@@ -2462,6 +6110,14 @@
     "title": "与资深AI架构师⼀起，解锁传统行业转型的真实挑战与破局思路",
     "link": "https://www.infoq.cn/article/A2KRmj3EbOy5ZoJ763ky",
     "pub_date": "2025-11-13 15:44:24"
+  },
+  {
+    "id": 99831,
+    "feed_name": "Solidot",
+    "category": "科技",
+    "title": "Reddit Mod 因分享电影中的裸露镜头被判缓刑",
+    "link": "https://www.solidot.org/story?sid=82793",
+    "pub_date": "2025-11-13 15:35:15"
   },
   {
     "id": 97825,
@@ -2508,6 +6164,14 @@
     "feed_name": "超能网",
     "category": "科技",
     "title": "微星B850 GAMING PLUS WIFI PZ主板上市：四PCIe及三M.2插槽，1699元",
+    "link": "http://www.expreview.com/102709.html",
+    "pub_date": "2025-11-13 15:09:00"
+  },
+  {
+    "id": 99360,
+    "feed_name": "超能网",
+    "category": "科技",
+    "title": "微星B850 GAMING PLUS WIFI PZ背插主板上市：四PCIe+三M.2插槽，1699元",
     "link": "http://www.expreview.com/102709.html",
     "pub_date": "2025-11-13 15:09:00"
   },
@@ -2758,6 +6422,14 @@
     "title": "中共中央统战部召开党外人士形势和政策报告会",
     "link": "https://www.chinanews.com.cn/gn/2025/11-13/10514821.shtml",
     "pub_date": "2025-11-13 14:05:54"
+  },
+  {
+    "id": 99185,
+    "feed_name": "FreeBuf 关注黑客",
+    "category": "科技",
+    "title": "恶意MCP服务器可劫持Cursor内置浏览器",
+    "link": "https://www.freebuf.com/articles/ai-security/457077.html",
+    "pub_date": "2025-11-13 14:05:00"
   },
   {
     "id": 96689,
@@ -3112,6 +6784,14 @@
     "pub_date": "2025-11-13 13:13:43"
   },
   {
+    "id": 99186,
+    "feed_name": "FreeBuf 关注黑客",
+    "category": "科技",
+    "title": "SAP紧急修复9.9分高危漏洞，攻击者可完全接管系统",
+    "link": "https://www.freebuf.com/articles/es/457068.html",
+    "pub_date": "2025-11-13 13:10:24"
+  },
+  {
     "id": 96409,
     "feed_name": "36氪",
     "category": "新闻",
@@ -3134,6 +6814,14 @@
     "title": "专访丨中国游客“已成为塞尔维亚旅游业重要支柱之一”——访塞国家旅游局局长拉博维奇",
     "link": "http://www.news.cn/20251113/9d9debe81411463fa93e85692b2e9cf9/c.html",
     "pub_date": "2025-11-13 13:06:04"
+  },
+  {
+    "id": 99188,
+    "feed_name": "FreeBuf 关注黑客",
+    "category": "科技",
+    "title": "GitLab 曝多个安全漏洞，攻击者可注入恶意指令窃取敏感数据",
+    "link": "https://www.freebuf.com/articles/database/457070.html",
+    "pub_date": "2025-11-13 13:04:17"
   },
   {
     "id": 95460,
@@ -3784,6 +7472,14 @@
     "pub_date": "2025-11-13 10:47:20"
   },
   {
+    "id": 99429,
+    "feed_name": "豆瓣最受欢迎的影评",
+    "category": "娱乐",
+    "title": "舒淇《女孩》：写给青春的散文诗 (评论: 女孩)",
+    "link": "https://movie.douban.com/review/17197762/",
+    "pub_date": "2025-11-13 10:46:13"
+  },
+  {
     "id": 96497,
     "feed_name": "IT 之家",
     "category": "科技",
@@ -3886,6 +7582,14 @@
     "title": "最高检发布检察机关依法履职推动社会主义核心价值观融入法治建设典型案例",
     "link": "https://www.chinanews.com.cn/gn/2025/11-13/10514738.shtml",
     "pub_date": "2025-11-13 10:29:56"
+  },
+  {
+    "id": 99195,
+    "feed_name": "FreeBuf 关注黑客",
+    "category": "科技",
+    "title": "逾4.6万个虚假npm包以蠕虫式垃圾攻击淹没注册库",
+    "link": "https://www.freebuf.com/articles/web/456977.html",
+    "pub_date": "2025-11-13 10:28:00"
   },
   {
     "id": 96394,
