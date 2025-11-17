@@ -1,5 +1,635 @@
 [
   {
+    "id": 109438,
+    "feed_name": "软餐 - 新鲜软件资讯",
+    "feed_url": "https://plink.anyfeeder.com/ruancan",
+    "category": "科技",
+    "title": "OpenAI 开测群聊功能，支持最多 20 人对话",
+    "link": "https://www.ruancan.com/p/253481.html",
+    "pub_date": "2025-11-17 09:25:05",
+    "author": null
+  },
+  {
+    "id": 107885,
+    "feed_name": "软餐 - 新鲜软件资讯",
+    "feed_url": "https://plink.anyfeeder.com/ruancan",
+    "category": "科技",
+    "title": "经过一年半延迟，支持 Exchange 的 Thunderbird 正式发布",
+    "link": "https://www.ruancan.com/p/253478.html",
+    "pub_date": "2025-11-17 09:15:51",
+    "author": null
+  },
+  {
+    "id": 107889,
+    "feed_name": "软餐 - 新鲜软件资讯",
+    "feed_url": "https://plink.anyfeeder.com/ruancan",
+    "category": "科技",
+    "title": "Android 17 或支持按键自定义及虚拟游戏手柄",
+    "link": "https://www.ruancan.com/p/253477.html",
+    "pub_date": "2025-11-17 09:05:57",
+    "author": null
+  },
+  {
+    "id": 103566,
+    "feed_name": "软餐 - 新鲜软件资讯",
+    "feed_url": "https://plink.anyfeeder.com/ruancan",
+    "category": "科技",
+    "title": "WhatsApp 首次实现与两款第三方应用的聊天互通",
+    "link": "https://www.ruancan.com/p/253474.html",
+    "pub_date": "2025-11-15 18:58:48",
+    "author": null
+  },
+  {
+    "id": 103567,
+    "feed_name": "软餐 - 新鲜软件资讯",
+    "feed_url": "https://plink.anyfeeder.com/ruancan",
+    "category": "科技",
+    "title": "X 正式推出端到端加密聊天服务 “Chat”",
+    "link": "https://www.ruancan.com/p/253471.html",
+    "pub_date": "2025-11-15 18:54:38",
+    "author": null
+  },
+  {
+    "id": 103570,
+    "feed_name": "软餐 - 新鲜软件资讯",
+    "feed_url": "https://plink.anyfeeder.com/ruancan",
+    "category": "科技",
+    "title": "蒂姆·库克可能于明年卸任苹果首席执行官",
+    "link": "https://www.ruancan.com/p/253469.html",
+    "pub_date": "2025-11-15 18:50:20",
+    "author": null
+  },
+  {
+    "id": 103583,
+    "feed_name": "软餐 - 新鲜软件资讯",
+    "feed_url": "https://plink.anyfeeder.com/ruancan",
+    "category": "科技",
+    "title": "德国总理称不允许在 6G 网络中使用中国部件",
+    "link": "https://www.ruancan.com/p/253467.html",
+    "pub_date": "2025-11-15 00:00:38",
+    "author": null
+  },
+  {
+    "id": 100670,
+    "feed_name": "软餐 - 新鲜软件资讯",
+    "feed_url": "https://plink.anyfeeder.com/ruancan",
+    "category": "科技",
+    "title": "Firefox 将新增 “AI 窗口”：常规窗口和无痕浏览之外的第三种浏览模式",
+    "link": "https://www.ruancan.com/p/253463.html",
+    "pub_date": "2025-11-14 09:36:52",
+    "author": null
+  },
+  {
+    "id": 100671,
+    "feed_name": "软餐 - 新鲜软件资讯",
+    "feed_url": "https://plink.anyfeeder.com/ruancan",
+    "category": "科技",
+    "title": "荷兰代表团下周就安世半导体危机与中国磋商",
+    "link": "https://www.ruancan.com/p/253458.html",
+    "pub_date": "2025-11-14 00:19:36",
+    "author": null
+  },
+  {
+    "id": 100672,
+    "feed_name": "软餐 - 新鲜软件资讯",
+    "feed_url": "https://plink.anyfeeder.com/ruancan",
+    "category": "科技",
+    "title": "Meta 人工智能部门负责人杨立昆离职创办 AI 企业",
+    "link": "https://www.ruancan.com/p/253412.html",
+    "pub_date": "2025-11-13 14:54:30",
+    "author": null
+  },
+  {
+    "id": 100673,
+    "feed_name": "软餐 - 新鲜软件资讯",
+    "feed_url": "https://plink.anyfeeder.com/ruancan",
+    "category": "科技",
+    "title": "微软发布．NET 10 与 Visual Studio 2026",
+    "link": "https://www.ruancan.com/p/253407.html",
+    "pub_date": "2025-11-13 14:47:54",
+    "author": null
+  },
+  {
+    "id": 100675,
+    "feed_name": "软餐 - 新鲜软件资讯",
+    "feed_url": "https://plink.anyfeeder.com/ruancan",
+    "category": "科技",
+    "title": "OpenAI 发布 GPT-5.1 即时版与思考版模型",
+    "link": "https://www.ruancan.com/p/253404.html",
+    "pub_date": "2025-11-13 14:45:46",
+    "author": null
+  },
+  {
+    "id": 97768,
+    "feed_name": "软餐 - 新鲜软件资讯",
+    "feed_url": "https://plink.anyfeeder.com/ruancan",
+    "category": "科技",
+    "title": "Win11 现已支持 1Password 与 Bitwarden 通行密钥",
+    "link": "https://www.ruancan.com/p/253396.html",
+    "pub_date": "2025-11-12 23:48:22",
+    "author": null
+  },
+  {
+    "id": 97770,
+    "feed_name": "软餐 - 新鲜软件资讯",
+    "feed_url": "https://plink.anyfeeder.com/ruancan",
+    "category": "科技",
+    "title": "谷歌时隔两月公开安卓 16 QPR1 源代码",
+    "link": "https://www.ruancan.com/p/253394.html",
+    "pub_date": "2025-11-12 23:44:28",
+    "author": null
+  },
+  {
+    "id": 94807,
+    "feed_name": "软餐 - 新鲜软件资讯",
+    "feed_url": "https://plink.anyfeeder.com/ruancan",
+    "category": "科技",
+    "title": "[全文] 火绒曝鲁大师等软件流量劫持黑幕",
+    "link": "https://www.ruancan.com/p/253235.html",
+    "pub_date": "2025-11-12 16:09:10",
+    "author": null
+  },
+  {
+    "id": 96255,
+    "feed_name": "软餐 - 新鲜软件资讯",
+    "feed_url": "https://plink.anyfeeder.com/ruancan",
+    "category": "科技",
+    "title": "[清单] 微软发布 2025 年 11 月星期二补丁日 Windows 安全更新",
+    "link": "https://www.ruancan.com/p/253233.html",
+    "pub_date": "2025-11-12 15:34:52",
+    "author": null
+  },
+  {
+    "id": 96258,
+    "feed_name": "软餐 - 新鲜软件资讯",
+    "feed_url": "https://plink.anyfeeder.com/ruancan",
+    "category": "科技",
+    "title": "Windows 版 WhatsApp 更新，内存占用飙升 10 倍",
+    "link": "https://www.ruancan.com/p/253231.html",
+    "pub_date": "2025-11-12 15:22:14",
+    "author": null
+  },
+  {
+    "id": 94810,
+    "feed_name": "软餐 - 新鲜软件资讯",
+    "feed_url": "https://plink.anyfeeder.com/ruancan",
+    "category": "科技",
+    "title": "刘乐飞控制的 CPE 源峰入主「汉堡王中国」",
+    "link": "https://www.ruancan.com/p/253224.html",
+    "pub_date": "2025-11-11 15:36:17",
+    "author": null
+  },
+  {
+    "id": 94813,
+    "feed_name": "软餐 - 新鲜软件资讯",
+    "feed_url": "https://plink.anyfeeder.com/ruancan",
+    "category": "科技",
+    "title": "传欧盟拟禁止成员国使用华为电信设备",
+    "link": "https://www.ruancan.com/p/253220.html",
+    "pub_date": "2025-11-11 14:55:23",
+    "author": null
+  },
+  {
+    "id": 94816,
+    "feed_name": "软餐 - 新鲜软件资讯",
+    "feed_url": "https://plink.anyfeeder.com/ruancan",
+    "category": "科技",
+    "title": "Firefox 145 发布：反追踪能力增强、停止支持 32 位 Linux",
+    "link": "https://www.ruancan.com/p/253218.html",
+    "pub_date": "2025-11-11 14:51:42",
+    "author": null
+  },
+  {
+    "id": 109452,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "奥特曼还没缓过神 阿里提着枪就来狙击了",
+    "link": "https://news.mydrivers.com/1/1087/1087129.htm",
+    "pub_date": "2025-11-18 00:28:04",
+    "author": null
+  },
+  {
+    "id": 109454,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "刷新内地影史纪录 《鬼灭之刃：无限城篇》上映5天票房破4亿",
+    "link": "https://news.mydrivers.com/1/1087/1087128.htm",
+    "pub_date": "2025-11-18 00:25:25",
+    "author": null
+  },
+  {
+    "id": 109456,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "把绿牌改成白色 这波“医美”问题有点大",
+    "link": "https://news.mydrivers.com/1/1087/1087127.htm",
+    "pub_date": "2025-11-18 00:20:52",
+    "author": null
+  },
+  {
+    "id": 109458,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "为了对抗摇一摇广告 我写了个只有摇一摇的App",
+    "link": "https://news.mydrivers.com/1/1087/1087126.htm",
+    "pub_date": "2025-11-18 00:13:54",
+    "author": null
+  },
+  {
+    "id": 109460,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "行业首款自带云台的机器人手机！荣耀ROBOT PHONE真机首次亮相",
+    "link": "https://news.mydrivers.com/1/1087/1087125.htm",
+    "pub_date": "2025-11-18 00:09:06",
+    "author": null
+  },
+  {
+    "id": 107857,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "三星宣布内存涨价60%！板卡厂商暂缓出货：没人买了 若滞销卖一块亏一块",
+    "link": "https://news.mydrivers.com/1/1086/1086989.htm",
+    "pub_date": "2025-11-17 12:37:24",
+    "author": null
+  },
+  {
+    "id": 107860,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "“WPS崩了”引热议 网友调侃：周一不适合上班",
+    "link": "https://news.mydrivers.com/1/1086/1086988.htm",
+    "pub_date": "2025-11-17 12:33:53",
+    "author": null
+  },
+  {
+    "id": 107864,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "Epic CEO怒批Win11：任务栏不能动、账户强制登！马斯克下场力挺",
+    "link": "https://news.mydrivers.com/1/1086/1086987.htm",
+    "pub_date": "2025-11-17 12:27:14",
+    "author": null
+  },
+  {
+    "id": 107869,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "宁德时代市值蒸发近千亿！联合创始人拟百亿级减持",
+    "link": "https://news.mydrivers.com/1/1086/1086986.htm",
+    "pub_date": "2025-11-17 12:23:06",
+    "author": null
+  },
+  {
+    "id": 107875,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "首发麒麟9030！华为Mate 80/Pro/Pro Max/RS开启预约：全配色、存储方案公布",
+    "link": "https://news.mydrivers.com/1/1086/1086985.htm",
+    "pub_date": "2025-11-17 12:20:20",
+    "author": null
+  },
+  {
+    "id": 106699,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "虚幻6引擎预计2028年推出！Epic CEO：两年半内完成整合",
+    "link": "https://news.mydrivers.com/1/1086/1086897.htm",
+    "pub_date": "2025-11-16 23:48:24",
+    "author": null
+  },
+  {
+    "id": 106701,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "宏碁宙斯智幕AirL机箱首发299元：曲面海景房 配6.2寸大屏",
+    "link": "https://news.mydrivers.com/1/1086/1086896.htm",
+    "pub_date": "2025-11-16 23:30:15",
+    "author": null
+  },
+  {
+    "id": 106703,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "十余年不见续作！育碧曾秘密开发《细胞分裂》新作：但最终演变成《不羁联盟》",
+    "link": "https://news.mydrivers.com/1/1086/1086895.htm",
+    "pub_date": "2025-11-16 23:26:51",
+    "author": null
+  },
+  {
+    "id": 106705,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "新成果！我国首台高能非弹性中子散射谱仪交付使用",
+    "link": "https://news.mydrivers.com/1/1086/1086894.htm",
+    "pub_date": "2025-11-16 23:16:15",
+    "author": null
+  },
+  {
+    "id": 106707,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "翻车现场！微软发视频宣传Win11 Copilot：反完美展示有多“无用”",
+    "link": "https://news.mydrivers.com/1/1086/1086893.htm",
+    "pub_date": "2025-11-16 22:59:02",
+    "author": null
+  },
+  {
+    "id": 105084,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "1万美刀的RTX RPO 6000专业显卡PCIe接口损坏变砖！维修几率为零",
+    "link": "https://news.mydrivers.com/1/1086/1086843.htm",
+    "pub_date": "2025-11-16 12:43:20",
+    "author": null
+  },
+  {
+    "id": 105086,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "华味亨坚果琥珀核桃仁450g16.9元",
+    "link": "https://news.mydrivers.com/1/1086/1086842.htm",
+    "pub_date": "2025-11-16 12:39:46",
+    "author": null
+  },
+  {
+    "id": 105090,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "深圳首班骑行地铁“专列”发车：4条线路试点 票价35元",
+    "link": "https://news.mydrivers.com/1/1086/1086841.htm",
+    "pub_date": "2025-11-16 12:39:05",
+    "author": null
+  },
+  {
+    "id": 105093,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "保暖轻盈！大嘴猴10A秋衣套装大促：14元券 39.1到手",
+    "link": "https://news.mydrivers.com/1/1086/1086840.htm",
+    "pub_date": "2025-11-16 12:38:38",
+    "author": null
+  },
+  {
+    "id": 105096,
+    "feed_name": "快科技",
+    "feed_url": "https://plink.anyfeeder.com/mydrivers",
+    "category": "科技",
+    "title": "橘珍堂十年陈藏橘红切片大促 100克9.9元",
+    "link": "https://news.mydrivers.com/1/1086/1086839.htm",
+    "pub_date": "2025-11-16 12:35:20",
+    "author": null
+  },
+  {
+    "id": 109425,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "新一代Web扫描器ES::Dirscan：目录扫描快准狠，高价值结果直接提取",
+    "link": "https://www.freebuf.com/articles/sectool/457550.html",
+    "pub_date": "2025-11-17 15:20:03",
+    "author": null
+  },
+  {
+    "id": 109426,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "赠书福利 | 《Web漏洞分析与防范实战》免费送",
+    "link": "https://www.freebuf.com/articles/457540.html",
+    "pub_date": "2025-11-17 14:25:35",
+    "author": null
+  },
+  {
+    "id": 109427,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "EchoGram漏洞可绕过主流大语言模型的护栏机制",
+    "link": "https://www.freebuf.com/articles/ai-security/457652.html",
+    "pub_date": "2025-11-17 13:20:46",
+    "author": null
+  },
+  {
+    "id": 109429,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "DLL劫持技术深度分析：原理、利用与防护",
+    "link": "https://www.freebuf.com/articles/endpoint/457487.html",
+    "pub_date": "2025-11-17 09:11:07",
+    "author": null
+  },
+  {
+    "id": 109430,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "Dancing Circle：把&quot;加密题&quot;拽回数独与Dancing Links的一次完整复现",
+    "link": "https://www.freebuf.com/articles/others-articles/457481.html",
+    "pub_date": "2025-11-17 08:13:33",
+    "author": null
+  },
+  {
+    "id": 109431,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "安全开发——JS应用&原生开发&JQuery库&Ajax技术&前端后端&安全验证处理",
+    "link": "https://www.freebuf.com/articles/vuls/457472.html",
+    "pub_date": "2025-11-16 21:57:36",
+    "author": null
+  },
+  {
+    "id": 109432,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "RCTF 2021 - ASM Crypto 加密算法完整复现与深度解析",
+    "link": "https://www.freebuf.com/articles/others-articles/457471.html",
+    "pub_date": "2025-11-16 21:10:49",
+    "author": null
+  },
+  {
+    "id": 106642,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "“交费后不退不赔”，网安培训“私下交易”维权之路",
+    "link": "https://www.freebuf.com/news/457446.html",
+    "pub_date": "2025-11-16 16:27:42",
+    "author": null
+  },
+  {
+    "id": 109433,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "Spring Boot详解&项目建立",
+    "link": "https://www.freebuf.com/articles/web/457442.html",
+    "pub_date": "2025-11-16 14:12:24",
+    "author": null
+  },
+  {
+    "id": 105108,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "SilentButDeadly：一款可阻断EDR/AV网络通信的新型工具",
+    "link": "https://www.freebuf.com/articles/endpoint/457441.html",
+    "pub_date": "2025-11-16 04:34:43",
+    "author": null
+  },
+  {
+    "id": 109436,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "McEliece密码系统攻击：从GRS码到Sidelnikov-Shestakov攻击的完整解析",
+    "link": "https://www.freebuf.com/articles/others-articles/457360.html",
+    "pub_date": "2025-11-15 10:28:06",
+    "author": null
+  },
+  {
+    "id": 107908,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "高度复杂的macOS DigitStealer采用多阶段攻击逃避检测",
+    "link": "https://www.freebuf.com/articles/endpoint/457419.html",
+    "pub_date": "2025-11-15 10:02:57",
+    "author": null
+  },
+  {
+    "id": 100730,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "研究人员发现严重AI漏洞影响Meta、Nvidia及微软推理框架",
+    "link": "https://www.freebuf.com/articles/ai-security/457328.html",
+    "pub_date": "2025-11-14 20:50:00",
+    "author": null
+  },
+  {
+    "id": 107916,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "FreeBuf早报 | GitLab漏洞可致攻击者窃取敏感数据；恶意MCP服务器可劫持Cursor内置浏览器",
+    "link": "https://www.freebuf.com/news/457310.html",
+    "pub_date": "2025-11-14 19:29:18",
+    "author": null
+  },
+  {
+    "id": 100732,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "【AI安全论文】ESWA25评估大模型在真实攻击活动中的恶意代码解混淆能力",
+    "link": "https://www.freebuf.com/articles/457238.html",
+    "pub_date": "2025-11-14 18:41:40",
+    "author": null
+  },
+  {
+    "id": 109448,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "OSCP靶场86--Extplorer(PG)",
+    "link": "https://www.freebuf.com/articles/system/457186.html",
+    "pub_date": "2025-11-14 16:59:03",
+    "author": null
+  },
+  {
+    "id": 100734,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "公安部公布“护网—2025”专项工作6起行政执法典型案例",
+    "link": "https://www.freebuf.com/articles/457304.html",
+    "pub_date": "2025-11-14 12:47:25",
+    "author": null
+  },
+  {
+    "id": 100737,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "BabyStream - 从LFSR到LPN的完整攻击复现",
+    "link": "https://www.freebuf.com/articles/others-articles/457143.html",
+    "pub_date": "2025-11-14 12:35:06",
+    "author": null
+  },
+  {
+    "id": 109453,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "CVE-2025-49132 — Pterodactyl Panel 未授权远程代码执行漏洞深度研究报告",
+    "link": "https://www.freebuf.com/articles/vuls/457142.html",
+    "pub_date": "2025-11-14 12:21:32",
+    "author": null
+  },
+  {
+    "id": 106654,
+    "feed_name": "FreeBuf 关注黑客",
+    "feed_url": "https://plink.anyfeeder.com/freebuf",
+    "category": "科技",
+    "title": "AI大模型+N8N工作流的自动化安全测试流程初探",
+    "link": "https://www.freebuf.com/articles/web/457389.html",
+    "pub_date": "2025-11-14 12:08:00",
+    "author": null
+  },
+  {
+    "id": 109470,
+    "feed_name": "果壳网 / 科学人",
+    "feed_url": "https://plink.anyfeeder.com/guokr/scientific",
+    "category": "科技",
+    "title": "焯水不是简单煮一下！这 6 类必须焯水的食物，你可能一直都没焯对……",
+    "link": "https://www.guokr.com/article/467895/",
+    "pub_date": "2025-11-17 21:15:02",
+    "author": "果壳"
+  },
+  {
+    "id": 109473,
+    "feed_name": "果壳网 / 科学人",
+    "feed_url": "https://plink.anyfeeder.com/guokr/scientific",
+    "category": "科技",
+    "title": "医院里，TA 们还在默默忍受性骚扰",
+    "link": "https://www.guokr.com/article/467893/",
+    "pub_date": "2025-11-17 17:15:02",
+    "author": "果壳"
+  },
+  {
+    "id": 109477,
+    "feed_name": "果壳网 / 科学人",
+    "feed_url": "https://plink.anyfeeder.com/guokr/scientific",
+    "category": "科技",
+    "title": "海星化成一滩后，海底变紫了",
+    "link": "https://www.guokr.com/article/467891/",
+    "pub_date": "2025-11-17 13:15:07",
+    "author": "果壳"
+  },
+  {
     "id": 106581,
     "feed_name": "果壳网 / 科学人",
     "feed_url": "https://plink.anyfeeder.com/guokr/scientific",
@@ -167,36 +797,6 @@
     "title": "女子用胶水给受伤的蝴蝶粘上新翅膀，仅用5分钟，蝴蝶重返天空",
     "link": "https://www.guokr.com/article/467857/",
     "pub_date": "2025-11-10 22:15:08",
-    "author": "果壳"
-  },
-  {
-    "id": 89011,
-    "feed_name": "果壳网 / 科学人",
-    "feed_url": "https://plink.anyfeeder.com/guokr/scientific",
-    "category": "科技",
-    "title": "中国人死后到底埋在了哪儿？",
-    "link": "https://www.guokr.com/article/467855/",
-    "pub_date": "2025-11-10 21:15:03",
-    "author": "果壳"
-  },
-  {
-    "id": 89013,
-    "feed_name": "果壳网 / 科学人",
-    "feed_url": "https://plink.anyfeeder.com/guokr/scientific",
-    "category": "科技",
-    "title": "中国化学家偶然发现，一个超简单反应，竟然能解决世纪难题！",
-    "link": "https://www.guokr.com/article/467854/",
-    "pub_date": "2025-11-10 17:15:04",
-    "author": "果壳"
-  },
-  {
-    "id": 89015,
-    "feed_name": "果壳网 / 科学人",
-    "feed_url": "https://plink.anyfeeder.com/guokr/scientific",
-    "category": "科技",
-    "title": "穿着外裤，到底能不能直接坐床上？",
-    "link": "https://www.guokr.com/article/467853/",
-    "pub_date": "2025-11-10 16:15:03",
     "author": "果壳"
   },
   {
@@ -400,6 +1000,106 @@
     "author": "DeepTech深科技"
   },
   {
+    "id": 109455,
+    "feed_name": "IT 之家",
+    "feed_url": "https://plink.anyfeeder.com/ithome/it",
+    "category": "科技",
+    "title": "巨石强森主演：迪士尼《海洋奇缘：启航》真人电影首支预告发布，北美明年 7 月 10 日上映",
+    "link": "https://www.ithome.com/0/898/134.htm",
+    "pub_date": "2025-11-18 01:51:30",
+    "author": null
+  },
+  {
+    "id": 109457,
+    "feed_name": "IT 之家",
+    "feed_url": "https://plink.anyfeeder.com/ithome/it",
+    "category": "科技",
+    "title": "电影《阿凡达 3：火与烬》正片片段首曝，内地定档 12 月 19 日上映",
+    "link": "https://www.ithome.com/0/898/131.htm",
+    "pub_date": "2025-11-18 00:09:53",
+    "author": null
+  },
+  {
+    "id": 109459,
+    "feed_name": "IT 之家",
+    "feed_url": "https://plink.anyfeeder.com/ithome/it",
+    "category": "科技",
+    "title": "中芯国际：存储器价格过高导致客户远期观望，高价位态势预计将持续",
+    "link": "https://www.ithome.com/0/898/125.htm",
+    "pub_date": "2025-11-17 23:17:19",
+    "author": null
+  },
+  {
+    "id": 109461,
+    "feed_name": "IT 之家",
+    "feed_url": "https://plink.anyfeeder.com/ithome/it",
+    "category": "科技",
+    "title": "任天堂《塞尔达传说》真人电影现场剧照公布，2027 年 5 月 7 日首映",
+    "link": "https://www.ithome.com/0/898/124.htm",
+    "pub_date": "2025-11-17 23:16:27",
+    "author": null
+  },
+  {
+    "id": 109462,
+    "feed_name": "IT 之家",
+    "feed_url": "https://plink.anyfeeder.com/ithome/it",
+    "category": "科技",
+    "title": "小鹏汽车何小鹏：期待机器人 2030 年销量超百万台，明年发布 7 款新车",
+    "link": "https://www.ithome.com/0/898/122.htm",
+    "pub_date": "2025-11-17 22:53:57",
+    "author": null
+  },
+  {
+    "id": 109463,
+    "feed_name": "IT 之家",
+    "feed_url": "https://plink.anyfeeder.com/ithome/it",
+    "category": "科技",
+    "title": "谷歌开源 Google Sans Flex 字体，可用于商业用途",
+    "link": "https://www.ithome.com/0/898/119.htm",
+    "pub_date": "2025-11-17 22:29:20",
+    "author": null
+  },
+  {
+    "id": 109464,
+    "feed_name": "IT 之家",
+    "feed_url": "https://plink.anyfeeder.com/ithome/it",
+    "category": "科技",
+    "title": "马斯克嫌三星、台积电“太慢”，要为特斯拉自建芯片工厂",
+    "link": "https://www.ithome.com/0/898/114.htm",
+    "pub_date": "2025-11-17 21:42:16",
+    "author": null
+  },
+  {
+    "id": 109465,
+    "feed_name": "IT 之家",
+    "feed_url": "https://plink.anyfeeder.com/ithome/it",
+    "category": "科技",
+    "title": "消息称库克提早退休传闻属苹果蓄意泄露，旨在试探市场反映",
+    "link": "https://www.ithome.com/0/898/112.htm",
+    "pub_date": "2025-11-17 21:21:28",
+    "author": null
+  },
+  {
+    "id": 109466,
+    "feed_name": "IT 之家",
+    "feed_url": "https://plink.anyfeeder.com/ithome/it",
+    "category": "科技",
+    "title": "亚马逊创始人贝索斯出任人工智能初创公司“普罗米修斯计划”CEO，旨在提升汽车、航天领域制造水平",
+    "link": "https://www.ithome.com/0/898/106.htm",
+    "pub_date": "2025-11-17 20:28:49",
+    "author": null
+  },
+  {
+    "id": 109467,
+    "feed_name": "IT 之家",
+    "feed_url": "https://plink.anyfeeder.com/ithome/it",
+    "category": "科技",
+    "title": "打击组织传销、诈骗等违法犯罪行为，微信公布一批违规账号 / 内容、涉诈 App 等",
+    "link": "https://www.ithome.com/0/898/104.htm",
+    "pub_date": "2025-11-17 20:14:02",
+    "author": null
+  },
+  {
     "id": 107892,
     "feed_name": "IT 之家",
     "feed_url": "https://plink.anyfeeder.com/ithome/it",
@@ -500,304 +1200,294 @@
     "author": null
   },
   {
-    "id": 106527,
-    "feed_name": "IT 之家",
-    "feed_url": "https://plink.anyfeeder.com/ithome/it",
-    "category": "科技",
-    "title": "专家称福建舰平台已具备全体系战斗力，舰载机部队能实现百分之百作战能力",
-    "link": "https://www.ithome.com/0/897/878.htm",
-    "pub_date": "2025-11-16 23:50:27",
-    "author": null
-  },
-  {
-    "id": 106530,
-    "feed_name": "IT 之家",
-    "feed_url": "https://plink.anyfeeder.com/ithome/it",
-    "category": "科技",
-    "title": "央视解答四川舰首次海试为何备受关注：“来头”不小、体量很大、战力拉满",
-    "link": "https://www.ithome.com/0/897/875.htm",
-    "pub_date": "2025-11-16 23:06:44",
-    "author": null
-  },
-  {
-    "id": 106534,
-    "feed_name": "IT 之家",
-    "feed_url": "https://plink.anyfeeder.com/ithome/it",
-    "category": "科技",
-    "title": "SK 启方半导体进军碳化硅晶圆代工，目标 2025 年内推出 1200V SiC 工艺技术",
-    "link": "https://www.ithome.com/0/897/873.htm",
-    "pub_date": "2025-11-16 22:52:08",
-    "author": null
-  },
-  {
-    "id": 106537,
-    "feed_name": "IT 之家",
-    "feed_url": "https://plink.anyfeeder.com/ithome/it",
-    "category": "科技",
-    "title": "Tower 推出 CPO Foundry 技术：图像传感器工艺现服务于高速光互联",
-    "link": "https://www.ithome.com/0/897/870.htm",
-    "pub_date": "2025-11-16 22:15:53",
-    "author": null
-  },
-  {
-    "id": 106540,
-    "feed_name": "IT 之家",
-    "feed_url": "https://plink.anyfeeder.com/ithome/it",
-    "category": "科技",
-    "title": "微软打造自家最大量子研究机构，加码投资丹麦 Lyngby 设施",
-    "link": "https://www.ithome.com/0/897/868.htm",
-    "pub_date": "2025-11-16 21:54:44",
-    "author": null
-  },
-  {
-    "id": 106543,
-    "feed_name": "IT 之家",
-    "feed_url": "https://plink.anyfeeder.com/ithome/it",
-    "category": "科技",
-    "title": "胖东来：从未授权任何账号直播带货，已累计发现侵权直播间 120 个",
-    "link": "https://www.ithome.com/0/897/858.htm",
-    "pub_date": "2025-11-16 20:30:27",
-    "author": null
-  },
-  {
-    "id": 106546,
-    "feed_name": "IT 之家",
-    "feed_url": "https://plink.anyfeeder.com/ithome/it",
-    "category": "科技",
-    "title": "内存短缺引发科技行业恐慌性囤货，消息称华硕、微星等厂商大举备货",
-    "link": "https://www.ithome.com/0/897/856.htm",
-    "pub_date": "2025-11-16 20:21:18",
-    "author": null
-  },
-  {
-    "id": 106549,
-    "feed_name": "IT 之家",
-    "feed_url": "https://plink.anyfeeder.com/ithome/it",
-    "category": "科技",
-    "title": "世界在建最大跨径公轨两用悬索桥首节钢桁梁吊装完成",
-    "link": "https://www.ithome.com/0/897/855.htm",
-    "pub_date": "2025-11-16 20:15:46",
-    "author": null
-  },
-  {
-    "id": 106552,
-    "feed_name": "IT 之家",
-    "feed_url": "https://plink.anyfeeder.com/ithome/it",
-    "category": "科技",
-    "title": "三星承诺：五年内在韩国投资 450 万亿韩元",
-    "link": "https://www.ithome.com/0/897/840.htm",
-    "pub_date": "2025-11-16 17:47:30",
-    "author": null
-  },
-  {
-    "id": 106556,
-    "feed_name": "IT 之家",
-    "feed_url": "https://plink.anyfeeder.com/ithome/it",
-    "category": "科技",
-    "title": "达到预期效果：我国 076 两栖攻击舰首舰四川舰顺利完成首次航行试验",
-    "link": "https://www.ithome.com/0/897/839.htm",
-    "pub_date": "2025-11-16 17:47:15",
-    "author": null
-  },
-  {
-    "id": 108080,
+    "id": 109522,
     "feed_name": "InfoQ 中文",
     "feed_url": "https://plink.anyfeeder.com/infoq/recommend",
     "category": "科技",
-    "title": "团队授权：分散化的架构决策",
-    "link": "https://www.infoq.cn/article/335Q3mKrOpmGXhSJGY79",
-    "pub_date": "2025-11-17 13:19:23",
-    "author": "作者：Peter Hunter, Elena Stojmilova"
+    "title": "openEuler发布超节点操作系统，年底正式上线！熊伟：AI 时代操作系统最终形态指向自然语言",
+    "link": "https://www.infoq.cn/article/WTXUlkxEt6jSlVK2fSNU",
+    "pub_date": "2025-11-17 19:13:04",
+    "author": "华卫"
   },
   {
-    "id": 108083,
+    "id": 109525,
     "feed_name": "InfoQ 中文",
     "feed_url": "https://plink.anyfeeder.com/infoq/recommend",
     "category": "科技",
-    "title": "从 “管好数据” 到 “让数据生智”，华为再发新作《数据空间探索与实践》",
-    "link": "https://www.infoq.cn/article/hPy7w60Rwhm1hmKmZZQg",
-    "pub_date": "2025-11-17 10:43:59",
-    "author": "机械工业出版社"
+    "title": "谷歌发布 Suncatcher 项目，设想让 AI 模型在太空中运行",
+    "link": "https://www.infoq.cn/article/RWsjaNMZ8lJPKlJQAcs2",
+    "pub_date": "2025-11-17 18:30:37",
+    "author": "作者：Daniel Dominguez"
   },
   {
-    "id": 108086,
+    "id": 109528,
     "feed_name": "InfoQ 中文",
     "feed_url": "https://plink.anyfeeder.com/infoq/recommend",
     "category": "科技",
-    "title": "开发者指南｜手把手教你玩转火山方舟 Coding Plan",
-    "link": "https://www.infoq.cn/article/rpSCltOqXo75KMJerzFb",
-    "pub_date": "2025-11-17 10:33:03",
-    "author": "火山引擎"
+    "title": "Java近期新闻：新的Jakarta AI规范、GlassFish、Spring RC、Infinispan 16和Open Liberty",
+    "link": "https://www.infoq.cn/article/Ygd0mK94z8VX4RNjEBya",
+    "pub_date": "2025-11-17 18:26:20",
+    "author": "Michael Redlich"
   },
   {
-    "id": 108089,
+    "id": 109531,
     "feed_name": "InfoQ 中文",
     "feed_url": "https://plink.anyfeeder.com/infoq/recommend",
     "category": "科技",
-    "title": "全栈 AI 首考、闪购并入：阿里的第 17 个双十一故事",
-    "link": "https://www.infoq.cn/article/hWYPqVFwtF693eUN7lFX",
-    "pub_date": "2025-11-17 10:26:40",
-    "author": "Tina,褚杏娟"
+    "title": "新的Claude Haiku 4.5模型号称提供更快的速度与1/3的成本",
+    "link": "https://www.infoq.cn/article/iilOR8Jd0R1qHIxJwPtK",
+    "pub_date": "2025-11-17 18:07:38",
+    "author": "作者：Vinod Goje"
   },
   {
-    "id": 106523,
+    "id": 109534,
     "feed_name": "InfoQ 中文",
     "feed_url": "https://plink.anyfeeder.com/infoq/recommend",
     "category": "科技",
-    "title": "Kiro开放公测：AI编程谁都会，能帮你上线才叫AI IDE",
-    "link": "https://www.infoq.cn/article/ZrKCUsTy6AD4ikHeoCvp",
-    "pub_date": "2025-11-17 00:09:30",
-    "author": "亚马逊云科技"
-  },
-  {
-    "id": 106526,
-    "feed_name": "InfoQ 中文",
-    "feed_url": "https://plink.anyfeeder.com/infoq/recommend",
-    "category": "科技",
-    "title": "全新AI开发工具Kiro首次亮相AdventureX 2025！",
-    "link": "https://www.infoq.cn/article/zEAv8d1YTAl6ieFSbcWb",
-    "pub_date": "2025-11-17 00:09:30",
-    "author": "亚马逊云科技"
-  },
-  {
-    "id": 106531,
-    "feed_name": "InfoQ 中文",
-    "feed_url": "https://plink.anyfeeder.com/infoq/recommend",
-    "category": "科技",
-    "title": "OPPO高级算法工程师杨俊确认出席AICon北京站，分享小布智能助手的个性化深度研究实践",
-    "link": "https://www.infoq.cn/article/BZG3kiu86dtZUrIOPmvS",
-    "pub_date": "2025-11-16 19:28:20",
+    "title": "智能体崛起，AI+软件研发到新拐点了？",
+    "link": "https://www.infoq.cn/article/QKYGuPFhQ1pkgQaCMmhA",
+    "pub_date": "2025-11-17 18:06:02",
     "author": "AICon 全球人工智能开发与应用大会"
   },
   {
-    "id": 103717,
+    "id": 109540,
     "feed_name": "InfoQ 中文",
     "feed_url": "https://plink.anyfeeder.com/infoq/recommend",
     "category": "科技",
-    "title": "AI 驱动的“10x组织”与“10x个体” ｜InfoQ《极客有约》",
-    "link": "https://www.infoq.cn/article/zEGNlx2jj8mMHKO18vy4",
-    "pub_date": "2025-11-15 15:48:15",
-    "author": "InfoQ 中文站"
+    "title": "大咖云集！InfoQ 2025中国技术力量年度榜单“专家评审天团”正式亮相",
+    "link": "https://www.infoq.cn/article/SRStZLuWiNXJpMsKmseT",
+    "pub_date": "2025-11-17 17:58:52",
+    "author": "InfoQ"
   },
   {
-    "id": 102253,
+    "id": 109545,
     "feed_name": "InfoQ 中文",
     "feed_url": "https://plink.anyfeeder.com/infoq/recommend",
     "category": "科技",
-    "title": "飞猪大模型算法专家罗超确认出席AICon北京，并分享LLM-Agent技术在对话场景的落地",
-    "link": "https://www.infoq.cn/article/d4MsEwcjfJw0WCQKufRp",
-    "pub_date": "2025-11-15 10:00:00",
+    "title": "Azure Front Door中断：单控制平面缺陷暴露了架构的脆弱性",
+    "link": "https://www.infoq.cn/article/9l0iNRmrrkyfHb4UbAmC",
+    "pub_date": "2025-11-17 17:48:07",
+    "author": "作者：Steef-Jan Wiggers"
+  },
+  {
+    "id": 109549,
+    "feed_name": "InfoQ 中文",
+    "feed_url": "https://plink.anyfeeder.com/infoq/recommend",
+    "category": "科技",
+    "title": "企业级 Agent 的设计与落地｜AICon 前瞻",
+    "link": "https://www.infoq.cn/article/xMHlQbVUa9WhohfBKKcq",
+    "pub_date": "2025-11-17 17:45:13",
     "author": "AICon 全球人工智能开发与应用大会"
   },
   {
-    "id": 100700,
+    "id": 109553,
     "feed_name": "InfoQ 中文",
     "feed_url": "https://plink.anyfeeder.com/infoq/recommend",
     "category": "科技",
-    "title": "安全新动态：数据与 AI 的主动安全防护、企业级深度防御等更多内容 | 技术趋势",
-    "link": "https://www.infoq.cn/article/2F3fNUbJf9lmJcDAUmPT",
-    "pub_date": "2025-11-14 17:44:08",
-    "author": "Nitika Gupta"
+    "title": "WeaveFox「AI 艺术家」创意大赛重磅来袭！千元豪礼 & SEE Conf 珍贵门票等你来拿",
+    "link": "https://www.infoq.cn/article/g6yxb0GWzqfzwXpvCzfo",
+    "pub_date": "2025-11-17 17:40:19",
+    "author": "QIWEI"
   },
   {
-    "id": 100701,
+    "id": 109559,
     "feed_name": "InfoQ 中文",
     "feed_url": "https://plink.anyfeeder.com/infoq/recommend",
     "category": "科技",
-    "title": "货拉拉用户画像基于 Apache Doris 的数据模型设计与实践",
-    "link": "https://www.infoq.cn/article/eAhZ0lvltkQ4s9hXiYAI",
-    "pub_date": "2025-11-14 17:25:43",
-    "author": "SelectDB"
+    "title": "亚马逊云科技发布Capabilities by Region工具",
+    "link": "https://www.infoq.cn/article/I09pJyvzBCdg2vs82QYt",
+    "pub_date": "2025-11-17 17:27:14",
+    "author": "作者：Steef-Jan Wiggers"
   },
   {
-    "id": 100702,
+    "id": 109568,
     "feed_name": "InfoQ 中文",
     "feed_url": "https://plink.anyfeeder.com/infoq/recommend",
     "category": "科技",
-    "title": "分钟级定位 IO 瓶颈：多租户云环境下的智能诊断",
-    "link": "https://www.infoq.cn/article/72lh5fQcxxradXu8meJX",
-    "pub_date": "2025-11-14 17:18:52",
-    "author": "肖振威"
+    "title": "灵宇宙再获2亿元PreA轮系列融资，双十一销售额暴涨230%",
+    "link": "https://www.infoq.cn/article/v5gAxoa9EDv7sQRgDqm7",
+    "pub_date": "2025-11-17 17:27:11",
+    "author": "灵宇宙"
   },
   {
-    "id": 100703,
+    "id": 109572,
     "feed_name": "InfoQ 中文",
     "feed_url": "https://plink.anyfeeder.com/infoq/recommend",
     "category": "科技",
-    "title": "两年半，从0到2000亿：Cursor刷新全球AI编程估值天花板",
-    "link": "https://www.infoq.cn/article/vt4fvYpdrQKvpPtRdRUs",
-    "pub_date": "2025-11-14 16:47:35",
-    "author": "木子,高允毅"
-  },
-  {
-    "id": 100704,
-    "feed_name": "InfoQ 中文",
-    "feed_url": "https://plink.anyfeeder.com/infoq/recommend",
-    "category": "科技",
-    "title": "百倍启动加速，大规模Agent部署和运维的捷径是什么？",
-    "link": "https://www.infoq.cn/article/K8NOKXPPIq1OCgQodwUF",
-    "pub_date": "2025-11-14 16:32:58",
+    "title": "亚马逊云科技首席布道师Jeff Barr独家分享： AI 如何重塑开发者生态｜C位面对面",
+    "link": "https://www.infoq.cn/article/focE6Y7hAyjsq61pokLo",
+    "pub_date": "2025-11-17 17:07:06",
     "author": "高允毅"
   },
   {
-    "id": 100705,
+    "id": 109576,
     "feed_name": "InfoQ 中文",
     "feed_url": "https://plink.anyfeeder.com/infoq/recommend",
     "category": "科技",
-    "title": "多模态从技术突破到创新应用落地｜AICon 前瞻",
-    "link": "https://www.infoq.cn/article/YzZuZ06lppLwUVN3VPBu",
-    "pub_date": "2025-11-14 15:23:29",
+    "title": "谁才是你最强的编程搭子？第二弹！Kiro. Codebuddy Al Coding 工具横评！｜AI的n次方",
+    "link": "https://www.infoq.cn/article/EaeeRdxqeyzfI1McbyPI",
+    "pub_date": "2025-11-17 16:15:51",
+    "author": "InfoQ 中文站"
+  },
+  {
+    "id": 109580,
+    "feed_name": "InfoQ 中文",
+    "feed_url": "https://plink.anyfeeder.com/infoq/recommend",
+    "category": "科技",
+    "title": "Snowflake AI 赋能数据工程，驱动下一代智能数据管道 | 技术实践",
+    "link": "https://www.infoq.cn/article/BKTB1gpTCAdV7pyIsFMb",
+    "pub_date": "2025-11-17 16:07:15",
+    "author": "Ahmed Mahmoud"
+  },
+  {
+    "id": 109584,
+    "feed_name": "InfoQ 中文",
+    "feed_url": "https://plink.anyfeeder.com/infoq/recommend",
+    "category": "科技",
+    "title": "Grails 7.0在Apache软件基金会发布，带来了针对Micronaut和GORM的功能增强",
+    "link": "https://www.infoq.cn/article/9m2wxYieQmVawQ7eNhrE",
+    "pub_date": "2025-11-17 16:00:00",
+    "author": "作者：Michael Redlich"
+  },
+  {
+    "id": 109590,
+    "feed_name": "InfoQ 中文",
+    "feed_url": "https://plink.anyfeeder.com/infoq/recommend",
+    "category": "科技",
+    "title": "靠创始人亲自假扮AI起家，如今估值10亿美元！印度CEO公开反内卷：从不在10点前起床，也不开例会",
+    "link": "https://www.infoq.cn/article/5MZM3L2tvqfL2pFpXjAC",
+    "pub_date": "2025-11-17 16:00:00",
+    "author": "李冬梅"
+  },
+  {
+    "id": 109593,
+    "feed_name": "InfoQ 中文",
+    "feed_url": "https://plink.anyfeeder.com/infoq/recommend",
+    "category": "科技",
+    "title": "亚马逊云科技推出搭载第五代AMD EPYC（Turin）处理器的M8a通用型EC2实例",
+    "link": "https://www.infoq.cn/article/edyRcj5Z7Ncg8t56IKil",
+    "pub_date": "2025-11-17 15:37:22",
+    "author": "Steef-Jan Wiggers"
+  },
+  {
+    "id": 109597,
+    "feed_name": "InfoQ 中文",
+    "feed_url": "https://plink.anyfeeder.com/infoq/recommend",
+    "category": "科技",
+    "title": "通用Agent技术在小爱同学场景中的实践｜AICon北京",
+    "link": "https://www.infoq.cn/article/WPNl5M1NFGdiO4IdUYd1",
+    "pub_date": "2025-11-17 15:24:19",
     "author": "AICon 全球人工智能开发与应用大会"
   },
   {
-    "id": 100706,
+    "id": 109601,
     "feed_name": "InfoQ 中文",
     "feed_url": "https://plink.anyfeeder.com/infoq/recommend",
     "category": "科技",
-    "title": "企业级Agent：构建教育服务的自主进化网络｜AICon北京",
-    "link": "https://www.infoq.cn/article/VNJjObIlQbivf2JBycAu",
-    "pub_date": "2025-11-14 13:45:33",
-    "author": "AICon 全球人工智能开发与应用大会"
+    "title": "将导游装在口袋里：AI 对景区游览新赋能",
+    "link": "https://www.infoq.cn/article/f8z3SSLMqLtzvYP6khNB",
+    "pub_date": "2025-11-17 14:32:20",
+    "author": "同程旅行研发中心"
   },
   {
-    "id": 99242,
+    "id": 109605,
     "feed_name": "InfoQ 中文",
     "feed_url": "https://plink.anyfeeder.com/infoq/recommend",
     "category": "科技",
-    "title": "Anthropic 研究发现：仅需少量污染文档即可对 LLM 实施投毒",
-    "link": "https://www.infoq.cn/article/vLK9YATzkKKPEfDcsyE0",
-    "pub_date": "2025-11-14 13:00:00",
-    "author": "作者：Anthony Alford"
+    "title": "全新升级，全面开放！一图读懂 SOLO 正式版",
+    "link": "https://www.infoq.cn/article/kJ03xwcXfAoO1xJrrkXO",
+    "pub_date": "2025-11-17 14:31:24",
+    "author": "TRAE.ai"
   },
   {
-    "id": 99244,
-    "feed_name": "InfoQ 中文",
-    "feed_url": "https://plink.anyfeeder.com/infoq/recommend",
+    "id": 109468,
+    "feed_name": "超能网",
+    "feed_url": "https://plink.anyfeeder.com/expreview",
     "category": "科技",
-    "title": "微软修复严重性评分达9.9分的ASP.NET Core漏洞",
-    "link": "https://www.infoq.cn/article/zwSsK22GONPZruv6Gg0C",
-    "pub_date": "2025-11-14 11:54:52",
-    "author": "作者：Renato Losio"
+    "title": "Steam Machine性能遭到质疑，Valve工程师称其优于70%的PC",
+    "link": "http://www.expreview.com/102780.html",
+    "pub_date": "2025-11-17 18:16:00",
+    "author": "吕嘉俭"
   },
   {
-    "id": 99246,
-    "feed_name": "InfoQ 中文",
-    "feed_url": "https://plink.anyfeeder.com/infoq/recommend",
+    "id": 109469,
+    "feed_name": "超能网",
+    "feed_url": "https://plink.anyfeeder.com/expreview",
     "category": "科技",
-    "title": "CodeClash通过多轮编程竞赛对大型语言模型进行基准测试",
-    "link": "https://www.infoq.cn/article/ayF7iELxSWyS0CH4eh0e",
-    "pub_date": "2025-11-14 11:00:00",
-    "author": "作者：Sergio De Simone"
+    "title": "苹果或放弃Mac Pro：今明两年都没有更新计划，将Mac Studio视为替代品",
+    "link": "http://www.expreview.com/102778.html",
+    "pub_date": "2025-11-17 16:57:00",
+    "author": "吕嘉俭"
   },
   {
-    "id": 99248,
-    "feed_name": "InfoQ 中文",
-    "feed_url": "https://plink.anyfeeder.com/infoq/recommend",
+    "id": 109471,
+    "feed_name": "超能网",
+    "feed_url": "https://plink.anyfeeder.com/expreview",
     "category": "科技",
-    "title": "Dev Proxy v1.3.0：HAR文件生成、LLM使用跟踪、增强的API测试功能",
-    "link": "https://www.infoq.cn/article/spkw4QjuqNtHuVvUrJga",
-    "pub_date": "2025-11-14 10:35:03",
-    "author": "作者：Almir Vuk"
+    "title": "七彩虹带来CVN B850 GAMING PRO WIFI7 V14：星座系列黑色主板，1699元",
+    "link": "http://www.expreview.com/102773.html",
+    "pub_date": "2025-11-17 16:28:00",
+    "author": "吕嘉俭"
+  },
+  {
+    "id": 109475,
+    "feed_name": "超能网",
+    "feed_url": "https://plink.anyfeeder.com/expreview",
+    "category": "科技",
+    "title": "紫光展锐推出T9300：影像游戏体验进阶的高性能5G SoC",
+    "link": "http://www.expreview.com/102771.html",
+    "pub_date": "2025-11-17 16:03:00",
+    "author": "吕嘉俭"
+  },
+  {
+    "id": 109479,
+    "feed_name": "超能网",
+    "feed_url": "https://plink.anyfeeder.com/expreview",
+    "category": "科技",
+    "title": "联力发布SP Platinum系列电源：850/1000W黑白可选，双白金认证",
+    "link": "http://www.expreview.com/102769.html",
+    "pub_date": "2025-11-17 15:38:00",
+    "author": "吕嘉俭"
+  },
+  {
+    "id": 109483,
+    "feed_name": "超能网",
+    "feed_url": "https://plink.anyfeeder.com/expreview",
+    "category": "科技",
+    "title": "联力新款SP V2系列电源开售：支持SFX12V 4.0标准，首发价699元起",
+    "link": "http://www.expreview.com/102768.html",
+    "pub_date": "2025-11-17 14:56:00",
+    "author": "吕嘉俭"
+  },
+  {
+    "id": 109487,
+    "feed_name": "超能网",
+    "feed_url": "https://plink.anyfeeder.com/expreview",
+    "category": "科技",
+    "title": "七彩虹iGame RTX 50 Ultra Z系列显卡开卖：隐藏式无线供电设计，2749元起",
+    "link": "http://www.expreview.com/102766.html",
+    "pub_date": "2025-11-17 14:28:00",
+    "author": "吕嘉俭"
+  },
+  {
+    "id": 109510,
+    "feed_name": "超能网",
+    "feed_url": "https://plink.anyfeeder.com/expreview",
+    "category": "科技",
+    "title": "超频三RZ620M X风冷散热器上市：118.5mm迷你高度，标配10cm风扇，219元起",
+    "link": "http://www.expreview.com/102757.html",
+    "pub_date": "2025-11-17 14:19:00",
+    "author": "梁文杰"
+  },
+  {
+    "id": 109491,
+    "feed_name": "超能网",
+    "feed_url": "https://plink.anyfeeder.com/expreview",
+    "category": "科技",
+    "title": "英特尔先进封装技术或为代工业务开辟新方向，被视为台积电可行替代方案",
+    "link": "http://www.expreview.com/102765.html",
+    "pub_date": "2025-11-17 14:01:00",
+    "author": "吕嘉俭"
   },
   {
     "id": 108002,
@@ -835,6 +1525,16 @@
     "feed_url": "https://plink.anyfeeder.com/expreview",
     "category": "科技",
     "title": "英特尔或删除8通道Diamond Rapids，将重点转向16通道型号",
+    "link": "http://www.expreview.com/102761.html",
+    "pub_date": "2025-11-17 11:02:00",
+    "author": "吕嘉俭"
+  },
+  {
+    "id": 109502,
+    "feed_name": "超能网",
+    "feed_url": "https://plink.anyfeeder.com/expreview",
+    "category": "科技",
+    "title": "英特尔删除8通道Diamond Rapids，将重点转向16通道型号",
     "link": "http://www.expreview.com/102761.html",
     "pub_date": "2025-11-17 11:02:00",
     "author": "吕嘉俭"
@@ -900,104 +1600,44 @@
     "author": "吕嘉俭"
   },
   {
-    "id": 103642,
-    "feed_name": "超能网",
-    "feed_url": "https://plink.anyfeeder.com/expreview",
+    "id": 109538,
+    "feed_name": "爱范儿",
+    "feed_url": "https://plink.anyfeeder.com/ifanr",
     "category": "科技",
-    "title": "微星发布PRO B840M-P EVO WIFI6E PZ：更实惠的背插主板，配64MB BIOS",
-    "link": "http://www.expreview.com/102752.html",
-    "pub_date": "2025-11-15 16:09:00",
-    "author": "吕嘉俭"
+    "title": "奔驰最强 AMG SUV 即将登场！3 电机 900 马力，性能看齐保时捷",
+    "link": "https://www.ifanr.com/1644821?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "pub_date": "2025-11-17 20:00:41",
+    "author": null
   },
   {
-    "id": 103645,
-    "feed_name": "超能网",
-    "feed_url": "https://plink.anyfeeder.com/expreview",
+    "id": 109543,
+    "feed_name": "爱范儿",
+    "feed_url": "https://plink.anyfeeder.com/ifanr",
     "category": "科技",
-    "title": "Dual RTX 5060 (Ti) EVO系列亮相：华硕首次采用物理PCIe 5.0 x8接口",
-    "link": "http://www.expreview.com/102751.html",
-    "pub_date": "2025-11-15 15:34:00",
-    "author": "吕嘉俭"
+    "title": "华为官宣 Mate 80 发布会，但看点不只有手机",
+    "link": "https://www.ifanr.com/1644801?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "pub_date": "2025-11-17 17:44:03",
+    "author": null
   },
   {
-    "id": 103654,
-    "feed_name": "超能网",
-    "feed_url": "https://plink.anyfeeder.com/expreview",
+    "id": 109548,
+    "feed_name": "爱范儿",
+    "feed_url": "https://plink.anyfeeder.com/ifanr",
     "category": "科技",
-    "title": "Steam Machine支持更换前面板，官方展示电子墨水显示屏",
-    "link": "http://www.expreview.com/102750.html",
-    "pub_date": "2025-11-15 14:30:00",
-    "author": "吕嘉俭"
+    "title": "红魔 11 Pro+ 体验：给手机装上内置水冷，是一种怎样的体验",
+    "link": "https://www.ifanr.com/1644781?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "pub_date": "2025-11-17 16:46:55",
+    "author": null
   },
   {
-    "id": 102184,
-    "feed_name": "超能网",
-    "feed_url": "https://plink.anyfeeder.com/expreview",
+    "id": 109554,
+    "feed_name": "爱范儿",
+    "feed_url": "https://plink.anyfeeder.com/ifanr",
     "category": "科技",
-    "title": "《荒野大镖客 : 救赎》次世代主机及移动版预告：体验穿越美西广阔土地的旅程",
-    "link": "http://www.expreview.com/102749.html",
-    "pub_date": "2025-11-15 12:22:00",
-    "author": "吕嘉俭"
-  },
-  {
-    "id": 102186,
-    "feed_name": "超能网",
-    "feed_url": "https://plink.anyfeeder.com/expreview",
-    "category": "科技",
-    "title": "DRAM价格上涨对PC玩家或是“灾难”：不仅是内存，显卡也准备涨价了",
-    "link": "http://www.expreview.com/102748.html",
-    "pub_date": "2025-11-15 12:00:00",
-    "author": "吕嘉俭"
-  },
-  {
-    "id": 102188,
-    "feed_name": "超能网",
-    "feed_url": "https://plink.anyfeeder.com/expreview",
-    "category": "科技",
-    "title": "自今年9月以来三星将存储芯片价格提高了60%，预计明年短缺会更严重",
-    "link": "http://www.expreview.com/102747.html",
-    "pub_date": "2025-11-15 11:39:00",
-    "author": "吕嘉俭"
-  },
-  {
-    "id": 102191,
-    "feed_name": "超能网",
-    "feed_url": "https://plink.anyfeeder.com/expreview",
-    "category": "科技",
-    "title": "零刻带来SER9 Max迷你主机：搭载Ryzen 7 H 255，单10G网口，到手价2249元起",
-    "link": "http://www.expreview.com/102746.html",
-    "pub_date": "2025-11-15 11:03:00",
-    "author": "吕嘉俭"
-  },
-  {
-    "id": 102197,
-    "feed_name": "超能网",
-    "feed_url": "https://plink.anyfeeder.com/expreview",
-    "category": "科技",
-    "title": "追风者推出D28系列积木风扇：可选无限镜/拉丝铝侧板及正反叶版本，59.9元起",
-    "link": "http://www.expreview.com/102744.html",
-    "pub_date": "2025-11-15 10:45:56",
-    "author": "郑滔"
-  },
-  {
-    "id": 102193,
-    "feed_name": "超能网",
-    "feed_url": "https://plink.anyfeeder.com/expreview",
-    "category": "科技",
-    "title": "慧荣科技发布SM8388：8通道企业级PCIe 5.0 SSD主控，优化能耗表现",
-    "link": "http://www.expreview.com/102745.html",
-    "pub_date": "2025-11-15 10:21:00",
-    "author": "吕嘉俭"
-  },
-  {
-    "id": 102202,
-    "feed_name": "超能网",
-    "feed_url": "https://plink.anyfeeder.com/expreview",
-    "category": "科技",
-    "title": "威刚和微星合作：推出全球首款4-RANK DDR5内存模块，单条容量128GB",
-    "link": "http://www.expreview.com/102743.html",
-    "pub_date": "2025-11-15 09:08:00",
-    "author": "吕嘉俭"
+    "title": "Google 年度最强 AI 偷跑！一个电风扇动画引发疯传，Gemini 3要给GPT-5.1上强度了",
+    "link": "https://www.ifanr.com/1644723?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "pub_date": "2025-11-17 14:41:50",
+    "author": null
   },
   {
     "id": 108104,
@@ -1160,43 +1800,23 @@
     "author": null
   },
   {
-    "id": 100847,
-    "feed_name": "爱范儿",
-    "feed_url": "https://plink.anyfeeder.com/ifanr",
+    "id": 109650,
+    "feed_name": "新浪专栏 / 创事记",
+    "feed_url": "https://plink.anyfeeder.com/sina/csj",
     "category": "科技",
-    "title": "7 万元拿下 5 米大七座 MPV，五菱星光 730「卷疯了」",
-    "link": "https://www.ifanr.com/1644401?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "pub_date": "2025-11-13 12:00:39",
+    "title": "《唐诡》三季三连爆，爱奇艺打造原创IP的逆袭胜利",
+    "link": "https://finance.sina.com.cn/tech/csj/2025-11-17/doc-infxtqvw4691524.shtml",
+    "pub_date": "2025-11-17 21:16:42",
     "author": null
   },
   {
-    "id": 96398,
-    "feed_name": "爱范儿",
-    "feed_url": "https://plink.anyfeeder.com/ifanr",
+    "id": 109652,
+    "feed_name": "新浪专栏 / 创事记",
+    "feed_url": "https://plink.anyfeeder.com/sina/csj",
     "category": "科技",
-    "title": "早报｜奇瑞为天门山挑战测试意外道歉/OpenAI 突袭发布 GPT-5.1/Steam 主机来啦！明年发售",
-    "link": "https://www.ifanr.com/1644359?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "pub_date": "2025-11-13 09:05:29",
-    "author": null
-  },
-  {
-    "id": 96401,
-    "feed_name": "爱范儿",
-    "feed_url": "https://plink.anyfeeder.com/ifanr",
-    "category": "科技",
-    "title": "奥迪 Q9 明年登场，携 SQ9 与霍希版硬刚宝马 X7、奔驰 GLS",
-    "link": "https://www.ifanr.com/1644262?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "pub_date": "2025-11-13 09:02:31",
-    "author": null
-  },
-  {
-    "id": 96404,
-    "feed_name": "爱范儿",
-    "feed_url": "https://plink.anyfeeder.com/ifanr",
-    "category": "科技",
-    "title": "今天起，李飞飞 AI「造世神器」人人可用，一句话打造 3D 世界 ｜ 附实测体验",
-    "link": "https://www.ifanr.com/1644304?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "pub_date": "2025-11-13 08:52:21",
+    "title": "雷军罕见硬刚回应！同日公关负责人被曝调整",
+    "link": "https://finance.sina.com.cn/tech/csj/2025-11-17/doc-infxsxxz5462644.shtml",
+    "pub_date": "2025-11-17 14:32:17",
     "author": null
   },
   {
@@ -1380,23 +2000,173 @@
     "author": null
   },
   {
-    "id": 64377,
-    "feed_name": "新浪专栏 / 创事记",
-    "feed_url": "https://plink.anyfeeder.com/sina/csj",
+    "id": 109505,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
     "category": "科技",
-    "title": "终于，中国高尔夫品牌得到了官方认证",
-    "link": "https://finance.sina.com.cn/tech/csj/2025-11-02/doc-infvyqsr6754835.shtml",
-    "pub_date": "2025-11-02 11:40:53",
+    "title": "55.18亿！珠海国资旗下免税龙头“去地产化”草案出炉；山西首家医药上市公司拟出售太原制药62%股权；【并购一线】",
+    "link": "https://www.tmtpost.com/7768816.html",
+    "pub_date": "2025-11-17 23:58:09",
     "author": null
   },
   {
-    "id": 61511,
-    "feed_name": "新浪专栏 / 创事记",
-    "feed_url": "https://plink.anyfeeder.com/sina/csj",
+    "id": 109508,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
     "category": "科技",
-    "title": "L2奶爸车用VLA变Robotaxi！深圳物理AI独角兽，率先无锡换道超车",
-    "link": "https://finance.sina.com.cn/tech/csj/2025-11-01/doc-infvwfmt7912778.shtml",
-    "pub_date": "2025-11-01 10:31:58",
+    "title": "曲线上市周年“劫”：伏泰科技董事长被留置，汉嘉设计业绩引擎或生变",
+    "link": "https://www.tmtpost.com/7768719.html",
+    "pub_date": "2025-11-17 22:28:23",
+    "author": null
+  },
+  {
+    "id": 109511,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "品酒会刘强东再秀厨艺，京东外卖推独立APP",
+    "link": "https://www.tmtpost.com/7768657.html",
+    "pub_date": "2025-11-17 21:19:01",
+    "author": null
+  },
+  {
+    "id": 109514,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "苹果帝国的人工智能赌局：库克的继任者为何将是一位硬件工程师？",
+    "link": "https://www.tmtpost.com/7767591.html",
+    "pub_date": "2025-11-17 21:08:47",
+    "author": null
+  },
+  {
+    "id": 109517,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "AI这一年，进入黄金年代还是泡沫时代",
+    "link": "https://www.tmtpost.com/7768180.html",
+    "pub_date": "2025-11-17 21:07:40",
+    "author": null
+  },
+  {
+    "id": 109520,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "谁是AI领域下一个敲钟人？",
+    "link": "https://www.tmtpost.com/7768053.html",
+    "pub_date": "2025-11-17 21:07:38",
+    "author": null
+  },
+  {
+    "id": 109523,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "雷军和影视飓风，卷入舆论流沙河",
+    "link": "https://www.tmtpost.com/7768310.html",
+    "pub_date": "2025-11-17 21:07:35",
+    "author": null
+  },
+  {
+    "id": 109526,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "标的曾因造假被查IPO撤单，嘉戎技术并购自救藏隐忧 ｜并购一线",
+    "link": "https://www.tmtpost.com/7768284.html",
+    "pub_date": "2025-11-17 20:55:11",
+    "author": null
+  },
+  {
+    "id": 109529,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "和顺石油跨界“联姻”奎芯科技：一场各取所需的资本豪赌｜并购一线",
+    "link": "https://www.tmtpost.com/7768538.html",
+    "pub_date": "2025-11-17 20:49:01",
+    "author": null
+  },
+  {
+    "id": 109532,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "巴西电商2025年预计增长10%；中国激光设备占全球市场56.6%，稳居首位；TTS、Temu备战黑五｜一周出海参考",
+    "link": "https://www.tmtpost.com/7768272.html",
+    "pub_date": "2025-11-17 20:13:14",
+    "author": null
+  },
+  {
+    "id": 109536,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "滴滴自动驾驶海外首战落地阿布扎比；腾讯国际市场游戏收入突破200亿元；知名跨境电商企业安克创新筹备港交所上市｜一周大公司出海动态",
+    "link": "https://www.tmtpost.com/7768356.html",
+    "pub_date": "2025-11-17 20:12:39",
+    "author": null
+  },
+  {
+    "id": 109541,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "探迹并购真爱美家：“AI智能体”能重塑产业么？｜ 出海参考",
+    "link": "https://www.tmtpost.com/7768133.html",
+    "pub_date": "2025-11-17 20:11:00",
+    "author": null
+  },
+  {
+    "id": 109546,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "《鬼灭之刃》，丧漫第一IP？",
+    "link": "https://www.tmtpost.com/7767799.html",
+    "pub_date": "2025-11-17 19:25:45",
+    "author": null
+  },
+  {
+    "id": 109550,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "安德玛不想给库里“打工”了",
+    "link": "https://www.tmtpost.com/7768235.html",
+    "pub_date": "2025-11-17 19:25:42",
+    "author": null
+  },
+  {
+    "id": 109552,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "漫长的季节：史上最长双十一，淘天和商家的十字路口",
+    "link": "https://www.tmtpost.com/7767826.html",
+    "pub_date": "2025-11-17 19:25:41",
+    "author": null
+  },
+  {
+    "id": 109556,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "宇树科技IPO辅导“通关”，四个月跑完上市前哨战",
+    "link": "https://www.tmtpost.com/7768257.html",
+    "pub_date": "2025-11-17 19:25:39",
+    "author": null
+  },
+  {
+    "id": 109565,
+    "feed_name": "钛媒体",
+    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "category": "科技",
+    "title": "蓝朋友没黄，蓝朋友“橙了”",
+    "link": "https://www.tmtpost.com/7768384.html",
+    "pub_date": "2025-11-17 19:25:37",
     "author": null
   },
   {
@@ -1430,173 +2200,33 @@
     "author": null
   },
   {
-    "id": 108065,
-    "feed_name": "钛媒体",
-    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "id": 109439,
+    "feed_name": "少数派",
+    "feed_url": "https://plink.anyfeeder.com/sspai",
     "category": "科技",
-    "title": "第二十七届高交会3E亚洲消费电子展圆满闭幕，中国智造重构未来生活新生态",
-    "link": "https://www.tmtpost.com/7767517.html",
-    "pub_date": "2025-11-17 12:13:18",
+    "title": "派评 | 近期值得关注的 App",
+    "link": "https://sspai.com/post/103895",
+    "pub_date": "2025-11-17 17:43:51",
     "author": null
   },
   {
-    "id": 108069,
-    "feed_name": "钛媒体",
-    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "id": 109442,
+    "feed_name": "少数派",
+    "feed_url": "https://plink.anyfeeder.com/sspai",
     "category": "科技",
-    "title": "IDG资本投资，加速进化全球交付能力再获战略加持 | 独家首发 | 巴伦精选",
-    "link": "https://www.tmtpost.com/7767620.html",
-    "pub_date": "2025-11-17 12:06:00",
+    "title": "Apple Trade In 换购计划体验：今年有什么不一样？",
+    "link": "https://sspai.com/post/103881",
+    "pub_date": "2025-11-17 15:07:16",
     "author": null
   },
   {
-    "id": 108073,
-    "feed_name": "钛媒体",
-    "feed_url": "https://plink.anyfeeder.com/tmtpost",
+    "id": 109445,
+    "feed_name": "少数派",
+    "feed_url": "https://plink.anyfeeder.com/sspai",
     "category": "科技",
-    "title": "累计捐赠30多亿，千亿党彦宝问鼎西北首富",
-    "link": "https://www.tmtpost.com/7767209.html",
-    "pub_date": "2025-11-17 12:00:00",
-    "author": null
-  },
-  {
-    "id": 108075,
-    "feed_name": "钛媒体",
-    "feed_url": "https://plink.anyfeeder.com/tmtpost",
-    "category": "科技",
-    "title": "DeepWay Files for Hong Kong IPO as China's New Energy Heavy Truck Market Heats Up",
-    "link": "https://www.tmtpost.com/7767587.html",
-    "pub_date": "2025-11-17 11:47:02",
-    "author": null
-  },
-  {
-    "id": 108081,
-    "feed_name": "钛媒体",
-    "feed_url": "https://plink.anyfeeder.com/tmtpost",
-    "category": "科技",
-    "title": "数据孤岛让AI的血液被抽干",
-    "link": "https://www.tmtpost.com/7767091.html",
-    "pub_date": "2025-11-17 11:30:00",
-    "author": null
-  },
-  {
-    "id": 108090,
-    "feed_name": "钛媒体",
-    "feed_url": "https://plink.anyfeeder.com/tmtpost",
-    "category": "科技",
-    "title": "【产业互联网周报】国家数据局：支持行业龙头建设综合性数字赋能平台； 李飞飞：空间智能是AI下一个前沿；开源欧拉操作系统装机量年底将超过1600万台",
-    "link": "https://www.tmtpost.com/7767295.html",
-    "pub_date": "2025-11-17 10:59:38",
-    "author": null
-  },
-  {
-    "id": 108099,
-    "feed_name": "钛媒体",
-    "feed_url": "https://plink.anyfeeder.com/tmtpost",
-    "category": "科技",
-    "title": "AI落地加速中，底层架构却成最大绊脚石？丨ToB产业观察",
-    "link": "https://www.tmtpost.com/7765433.html",
-    "pub_date": "2025-11-17 10:54:04",
-    "author": null
-  },
-  {
-    "id": 108106,
-    "feed_name": "钛媒体",
-    "feed_url": "https://plink.anyfeeder.com/tmtpost",
-    "category": "科技",
-    "title": "“京东点评”也和美团对上线了",
-    "link": "https://www.tmtpost.com/7766999.html",
-    "pub_date": "2025-11-17 10:53:50",
-    "author": null
-  },
-  {
-    "id": 108110,
-    "feed_name": "钛媒体",
-    "feed_url": "https://plink.anyfeeder.com/tmtpost",
-    "category": "科技",
-    "title": "百度智能云公布两款自研AI芯片，昆仑芯比外界想象得更有野心",
-    "link": "https://www.tmtpost.com/7767464.html",
-    "pub_date": "2025-11-17 10:53:00",
-    "author": null
-  },
-  {
-    "id": 108115,
-    "feed_name": "钛媒体",
-    "feed_url": "https://plink.anyfeeder.com/tmtpost",
-    "category": "科技",
-    "title": "Centurium Capital Eyes Costa Coffee in Potential Bargain Deal Amid Coca-Cola Shakeup",
-    "link": "https://www.tmtpost.com/7767356.html",
-    "pub_date": "2025-11-17 10:18:02",
-    "author": null
-  },
-  {
-    "id": 108120,
-    "feed_name": "钛媒体",
-    "feed_url": "https://plink.anyfeeder.com/tmtpost",
-    "category": "科技",
-    "title": "TCCI-backed EverMind Unveils EverMemOS, a Brain-Inspired Long-Term Memory System",
-    "link": "https://www.tmtpost.com/7767347.html",
-    "pub_date": "2025-11-17 10:15:04",
-    "author": null
-  },
-  {
-    "id": 108125,
-    "feed_name": "钛媒体",
-    "feed_url": "https://plink.anyfeeder.com/tmtpost",
-    "category": "科技",
-    "title": "Rokid联动BOLON，智能眼镜的主动破圈",
-    "link": "https://www.tmtpost.com/7765667.html",
-    "pub_date": "2025-11-17 10:10:38",
-    "author": null
-  },
-  {
-    "id": 108130,
-    "feed_name": "钛媒体",
-    "feed_url": "https://plink.anyfeeder.com/tmtpost",
-    "category": "科技",
-    "title": "教AI听懂人话，声网在AI淘金热中“卖铲子”",
-    "link": "https://www.tmtpost.com/7766881.html",
-    "pub_date": "2025-11-17 10:00:00",
-    "author": null
-  },
-  {
-    "id": 108135,
-    "feed_name": "钛媒体",
-    "feed_url": "https://plink.anyfeeder.com/tmtpost",
-    "category": "科技",
-    "title": "当山姆会员选择不再续费",
-    "link": "https://www.tmtpost.com/7766930.html",
-    "pub_date": "2025-11-17 09:00:00",
-    "author": null
-  },
-  {
-    "id": 108140,
-    "feed_name": "钛媒体",
-    "feed_url": "https://plink.anyfeeder.com/tmtpost",
-    "category": "科技",
-    "title": "科股早知道：6G技术试验取得重大突破，中国完成第一阶段300项关键技术储备",
-    "link": "https://www.tmtpost.com/7767042.html",
-    "pub_date": "2025-11-17 08:26:15",
-    "author": null
-  },
-  {
-    "id": 108162,
-    "feed_name": "钛媒体",
-    "feed_url": "https://plink.anyfeeder.com/tmtpost",
-    "category": "科技",
-    "title": "从财务造假到开出2.6万家门店，瑞幸能重返华尔街吗？",
-    "link": "https://www.tmtpost.com/7766939.html",
-    "pub_date": "2025-11-17 08:00:00",
-    "author": null
-  },
-  {
-    "id": 108166,
-    "feed_name": "钛媒体",
-    "feed_url": "https://plink.anyfeeder.com/tmtpost",
-    "category": "科技",
-    "title": "【钛晨报】增强消费品供需适配性，国常会重磅部署；苹果CEO库克被曝或于明年卸任；宇树科技IPO辅导完成",
-    "link": "https://www.tmtpost.com/7766849.html",
-    "pub_date": "2025-11-17 07:20:00",
+    "title": "2025 年 ARM 平台是否 Windows 堪用？这是我的体验",
+    "link": "https://sspai.com/post/103693",
+    "pub_date": "2025-11-17 11:31:14",
     "author": null
   },
   {
@@ -1770,36 +2400,6 @@
     "author": null
   },
   {
-    "id": 91882,
-    "feed_name": "少数派",
-    "feed_url": "https://plink.anyfeeder.com/sspai",
-    "category": "科技",
-    "title": "甘南川西北自驾 | 在路上集邮式看风景，最美的是不期而遇",
-    "link": "https://sspai.com/post/103426",
-    "pub_date": "2025-11-11 15:02:35",
-    "author": null
-  },
-  {
-    "id": 90497,
-    "feed_name": "少数派",
-    "feed_url": "https://plink.anyfeeder.com/sspai",
-    "category": "科技",
-    "title": "佳明 850 码表评测：创新不足，但仍是行业标杆",
-    "link": "https://sspai.com/post/103454",
-    "pub_date": "2025-11-11 11:32:13",
-    "author": null
-  },
-  {
-    "id": 90499,
-    "feed_name": "少数派",
-    "feed_url": "https://plink.anyfeeder.com/sspai",
-    "category": "科技",
-    "title": "派早报：vivo 发布 Y500 Pro 手机等",
-    "link": "https://sspai.com/post/103729",
-    "pub_date": "2025-11-11 08:27:33",
-    "author": null
-  },
-  {
     "id": 2325,
     "feed_name": "雷峰网",
     "feed_url": "https://plink.anyfeeder.com/leiphone",
@@ -1890,6 +2490,36 @@
     "author": null
   },
   {
+    "id": 109496,
+    "feed_name": "雷峰网",
+    "feed_url": "https://plink.anyfeeder.com/leiphone",
+    "category": "科技",
+    "title": "独家 | 前云鲸产品副总裁李阳创业，聚焦陪伴具身赛道",
+    "link": "https://www.leiphone.com/category/weiwu/V7Eg4NMtF3lQtIs7.html",
+    "pub_date": "2025-11-17 21:52:00",
+    "author": "余快"
+  },
+  {
+    "id": 109499,
+    "feed_name": "雷峰网",
+    "feed_url": "https://plink.anyfeeder.com/leiphone",
+    "category": "科技",
+    "title": "中科可控董事长聂华：在国产算力落地第一线，我所经历的质疑与孤寂 | 智算想象力十人谈",
+    "link": "https://www.leiphone.com/category/chips/LmPVTbTB4Sk3sTAy.html",
+    "pub_date": "2025-11-17 17:16:00",
+    "author": "赵之齐"
+  },
+  {
+    "id": 109501,
+    "feed_name": "雷峰网",
+    "feed_url": "https://plink.anyfeeder.com/leiphone",
+    "category": "科技",
+    "title": "议程公布！2025人工智能+大会，图灵奖得主姚期智来啦！",
+    "link": "https://www.leiphone.com/category/bank/94fxC6DANGi9YUFG.html",
+    "pub_date": "2025-11-17 17:02:00",
+    "author": "齐铖湧"
+  },
+  {
     "id": 108008,
     "feed_name": "雷峰网",
     "feed_url": "https://plink.anyfeeder.com/leiphone",
@@ -1970,34 +2600,164 @@
     "author": "张嘉敏"
   },
   {
-    "id": 99223,
-    "feed_name": "雷峰网",
-    "feed_url": "https://plink.anyfeeder.com/leiphone",
+    "id": 109687,
+    "feed_name": "人人都是产品经理",
+    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
     "category": "科技",
-    "title": "超能小度：从AI助手到AI伙伴，小度上演超能进化",
-    "link": "https://www.leiphone.com/category/industrynews/bK1A70tOHVCu2UW9.html",
-    "pub_date": "2025-11-14 09:57:00",
-    "author": "董子博"
+    "title": "夸克是工具箱还是AI超级入口？",
+    "link": "https://www.woshipm.com/ai/6293627.html",
+    "pub_date": "2025-11-17 21:28:22",
+    "author": "无名分析师"
   },
   {
-    "id": 99225,
-    "feed_name": "雷峰网",
-    "feed_url": "https://plink.anyfeeder.com/leiphone",
+    "id": 109692,
+    "feed_name": "人人都是产品经理",
+    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
     "category": "科技",
-    "title": "百度文库网盘发布GenFlow3.0，超级应用成就超级个体",
-    "link": "https://www.leiphone.com/category/industrynews/fnsvwNVN0LghCqTk.html",
-    "pub_date": "2025-11-14 09:49:00",
-    "author": "董子博"
+    "title": "AI产品经理的入职摸底 SOP：我用自身经历总结了一份模板",
+    "link": "https://www.woshipm.com/zhichang/6293523.html",
+    "pub_date": "2025-11-17 20:19:39",
+    "author": "小普"
   },
   {
-    "id": 99227,
-    "feed_name": "雷峰网",
-    "feed_url": "https://plink.anyfeeder.com/leiphone",
+    "id": 109694,
+    "feed_name": "人人都是产品经理",
+    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
     "category": "科技",
-    "title": "用汽车下令数千家供应商剥离中国供应链，2027年前完成；苹果获得微信小游戏抽成15%；阿里秘密启动千问项目，对标ChatGPT",
-    "link": "https://www.leiphone.com/category/zaobao/7QHaxYuq9mgCEtl8.html",
-    "pub_date": "2025-11-14 09:47:00",
-    "author": "巫夏清"
+    "title": "为什么这场访谈值得所有做 AI 产品的人看？我从 Cursor 看到了未来的 5 个趋势",
+    "link": "https://www.woshipm.com/ai/6293264.html",
+    "pub_date": "2025-11-17 17:09:24",
+    "author": "Josh赵士强"
+  },
+  {
+    "id": 109696,
+    "feed_name": "人人都是产品经理",
+    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
+    "category": "科技",
+    "title": "上海首例AI提示词案背后：看“咒语”的时代变迁",
+    "link": "https://www.woshipm.com/ai/6293399.html",
+    "pub_date": "2025-11-17 16:56:18",
+    "author": "快刀青衣"
+  },
+  {
+    "id": 109698,
+    "feed_name": "人人都是产品经理",
+    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
+    "category": "科技",
+    "title": "红杉合伙人重磅发声：AI泡沫中，谁能幸存？",
+    "link": "https://www.woshipm.com/ai/6293396.html",
+    "pub_date": "2025-11-17 16:47:39",
+    "author": "ToB老人家"
+  },
+  {
+    "id": 109700,
+    "feed_name": "人人都是产品经理",
+    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
+    "category": "科技",
+    "title": "iOS小程序将开放付费，AI商业化的转折",
+    "link": "https://www.woshipm.com/ai/6293394.html",
+    "pub_date": "2025-11-17 16:44:51",
+    "author": "赛博禅心"
+  },
+  {
+    "id": 109702,
+    "feed_name": "人人都是产品经理",
+    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
+    "category": "科技",
+    "title": "健身行业SaaS管理系统竞品分析报告 CAR",
+    "link": "https://www.woshipm.com/evaluating/6293310.html",
+    "pub_date": "2025-11-17 16:43:46",
+    "author": "远眺看世界"
+  },
+  {
+    "id": 109704,
+    "feed_name": "人人都是产品经理",
+    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
+    "category": "科技",
+    "title": "YC：垂直 AI 智能体，比 SaaS 大10倍的产业？",
+    "link": "https://www.woshipm.com/ai/6293226.html",
+    "pub_date": "2025-11-17 15:45:03",
+    "author": "张艾拉"
+  },
+  {
+    "id": 109706,
+    "feed_name": "人人都是产品经理",
+    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
+    "category": "科技",
+    "title": "“她经济” 重塑千亿市场：悦己生活产品赛道的升级革命与创业机遇",
+    "link": "https://www.woshipm.com/it/6293177.html",
+    "pub_date": "2025-11-17 15:41:38",
+    "author": "如去"
+  },
+  {
+    "id": 109708,
+    "feed_name": "人人都是产品经理",
+    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
+    "category": "科技",
+    "title": "GEO营销，如何抢占AI时代的品牌流量新入口",
+    "link": "https://www.woshipm.com/ai/6281335.html",
+    "pub_date": "2025-11-17 15:37:55",
+    "author": "胡铭轩（原名胡先务）"
+  },
+  {
+    "id": 109711,
+    "feed_name": "人人都是产品经理",
+    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
+    "category": "科技",
+    "title": "2025 年 AI 元年年终总结",
+    "link": "https://www.woshipm.com/ai/6288267.html",
+    "pub_date": "2025-11-17 15:33:07",
+    "author": "怡伶设计心理"
+  },
+  {
+    "id": 109714,
+    "feed_name": "人人都是产品经理",
+    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
+    "category": "科技",
+    "title": "To B线索分级为例，AI时代To B产品的“七步法”（上）",
+    "link": "https://www.woshipm.com/ai/6292948.html",
+    "pub_date": "2025-11-17 15:11:01",
+    "author": "疏桐to b运营"
+  },
+  {
+    "id": 109717,
+    "feed_name": "人人都是产品经理",
+    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
+    "category": "科技",
+    "title": "a16z最新对话：关于AI泡沫、护城河与商业模式的8个残酷真相",
+    "link": "https://www.woshipm.com/ai/6293218.html",
+    "pub_date": "2025-11-17 14:41:20",
+    "author": "张艾拉"
+  },
+  {
+    "id": 109720,
+    "feed_name": "人人都是产品经理",
+    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
+    "category": "科技",
+    "title": "低代码时代，为什么ChatBI成为产品经理的新武器",
+    "link": "https://www.woshipm.com/ai/6293011.html",
+    "pub_date": "2025-11-17 14:35:33",
+    "author": "Antivox-小陈"
+  },
+  {
+    "id": 109723,
+    "feed_name": "人人都是产品经理",
+    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
+    "category": "科技",
+    "title": "万字深度分析Agent智能体：迈向未来人类管家的征程！",
+    "link": "https://www.woshipm.com/ai/6261610.html",
+    "pub_date": "2025-11-17 14:32:20",
+    "author": "造梦产品论"
+  },
+  {
+    "id": 109726,
+    "feed_name": "人人都是产品经理",
+    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
+    "category": "科技",
+    "title": "浅谈产品设计逻辑定义",
+    "link": "https://www.woshipm.com/pd/6292991.html",
+    "pub_date": "2025-11-17 14:29:50",
+    "author": "老虎~色"
   },
   {
     "id": 108256,
@@ -2040,164 +2800,74 @@
     "author": "一葉"
   },
   {
-    "id": 108267,
-    "feed_name": "人人都是产品经理",
-    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
+    "id": 110003,
+    "feed_name": "Solidot",
+    "feed_url": "https://www.solidot.org/index.rss",
     "category": "科技",
-    "title": "需求管理的底层逻辑-商业价值",
-    "link": "https://www.woshipm.com/pd/6292872.html",
-    "pub_date": "2025-11-17 10:52:52",
-    "author": "跳跳堂"
+    "title": "AMD 占 x86 CPU 市场的份额突破四分之一",
+    "link": "https://www.solidot.org/story?sid=82823",
+    "pub_date": "2025-11-17 21:18:21",
+    "author": null
   },
   {
-    "id": 108270,
-    "feed_name": "人人都是产品经理",
-    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
+    "id": 110004,
+    "feed_name": "Solidot",
+    "feed_url": "https://www.solidot.org/index.rss",
     "category": "科技",
-    "title": "还在堆功能？下一代产品经理已经偷偷把“Agent”做成新增长引擎了",
-    "link": "https://www.woshipm.com/ai/6292817.html",
-    "pub_date": "2025-11-17 10:50:40",
-    "author": "三九（AI产品）"
+    "title": "比特币币值一个月下跌逾 3 万美元",
+    "link": "https://www.solidot.org/story?sid=82822",
+    "pub_date": "2025-11-17 18:06:35",
+    "author": null
   },
   {
-    "id": 108273,
-    "feed_name": "人人都是产品经理",
-    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
+    "id": 110005,
+    "feed_name": "Solidot",
+    "feed_url": "https://www.solidot.org/index.rss",
     "category": "科技",
-    "title": "AI既是生产力又是生产关系",
-    "link": "https://www.woshipm.com/ai/6292739.html",
-    "pub_date": "2025-11-17 10:27:57",
-    "author": "沈素明"
+    "title": "企业数据外泄的主要源头是拷贝黏贴",
+    "link": "https://www.solidot.org/story?sid=82821",
+    "pub_date": "2025-11-17 16:16:10",
+    "author": null
   },
   {
-    "id": 108276,
-    "feed_name": "人人都是产品经理",
-    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
+    "id": 110006,
+    "feed_name": "Solidot",
+    "feed_url": "https://www.solidot.org/index.rss",
     "category": "科技",
-    "title": "【产品体验】2025年爆火的辅助脱单软件——心动恋聊微信小程序产品深度分析",
-    "link": "https://www.woshipm.com/evaluating/6292508.html",
-    "pub_date": "2025-11-17 10:10:23",
-    "author": "Axias"
+    "title": "太阳能和风能能满足 2025 年新增能源需求",
+    "link": "https://www.solidot.org/story?sid=82820",
+    "pub_date": "2025-11-17 15:01:17",
+    "author": null
   },
   {
-    "id": 108279,
-    "feed_name": "人人都是产品经理",
-    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
+    "id": 110007,
+    "feed_name": "Solidot",
+    "feed_url": "https://www.solidot.org/index.rss",
     "category": "科技",
-    "title": "讲透大模型幻觉：从底层逻辑到五大缓解方法",
-    "link": "https://www.woshipm.com/ai/6289599.html",
-    "pub_date": "2025-11-17 09:51:39",
-    "author": "灵山下的小妖怪"
+    "title": "美国比特币矿场转向 AI 数据中心",
+    "link": "https://www.solidot.org/story?sid=82819",
+    "pub_date": "2025-11-17 13:47:46",
+    "author": null
   },
   {
-    "id": 108282,
-    "feed_name": "人人都是产品经理",
-    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
+    "id": 110008,
+    "feed_name": "Solidot",
+    "feed_url": "https://www.solidot.org/index.rss",
     "category": "科技",
-    "title": "AI产品经理别踩坑！提示工程、RAG、微调选不对，项目白忙还亏钱",
-    "link": "https://www.woshipm.com/ai/6292765.html",
-    "pub_date": "2025-11-17 09:50:31",
-    "author": "大叔拯救世界"
+    "title": "中美 AI 冷战",
+    "link": "https://www.solidot.org/story?sid=82818",
+    "pub_date": "2025-11-17 13:25:22",
+    "author": null
   },
   {
-    "id": 108285,
-    "feed_name": "人人都是产品经理",
-    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
+    "id": 110009,
+    "feed_name": "Solidot",
+    "feed_url": "https://www.solidot.org/index.rss",
     "category": "科技",
-    "title": "AI自动化实战：n8n+LLM的工作流搭建低成本高价值工作流",
-    "link": "https://www.woshipm.com/ai/6292783.html",
-    "pub_date": "2025-11-17 09:33:38",
-    "author": "SiegZhong"
-  },
-  {
-    "id": 108288,
-    "feed_name": "人人都是产品经理",
-    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
-    "category": "科技",
-    "title": "KIMI砍价活动：产品经理视角的战略与思考",
-    "link": "https://www.woshipm.com/ai/6292820.html",
-    "pub_date": "2025-11-17 09:32:09",
-    "author": "逸轩（AI产品经理）"
-  },
-  {
-    "id": 108291,
-    "feed_name": "人人都是产品经理",
-    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
-    "category": "科技",
-    "title": "用了两周钉钉 AI 表格，我终于不用在数据里 “坐牢” 了",
-    "link": "https://www.woshipm.com/ai/6292408.html",
-    "pub_date": "2025-11-17 09:31:14",
-    "author": "Tttttttt"
-  },
-  {
-    "id": 108294,
-    "feed_name": "人人都是产品经理",
-    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
-    "category": "科技",
-    "title": "AI Agent：解放生产力，还是重构生产关系？",
-    "link": "https://www.woshipm.com/ai/6292349.html",
-    "pub_date": "2025-11-17 09:27:23",
-    "author": "小麦鱼"
-  },
-  {
-    "id": 108296,
-    "feed_name": "人人都是产品经理",
-    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
-    "category": "科技",
-    "title": "玩梗的“安全边界”：从九阳与品客看热点营销的文化风险控制",
-    "link": "https://www.woshipm.com/marketing/6292612.html",
-    "pub_date": "2025-11-17 09:22:40",
-    "author": "插件飘过"
-  },
-  {
-    "id": 108298,
-    "feed_name": "人人都是产品经理",
-    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
-    "category": "科技",
-    "title": "AI Agent产品落地：从“万金油”到“专业工具”的蜕变",
-    "link": "https://www.woshipm.com/ai/6290448.html",
-    "pub_date": "2025-11-17 09:20:55",
-    "author": "进化之家BRN"
-  },
-  {
-    "id": 108300,
-    "feed_name": "人人都是产品经理",
-    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
-    "category": "科技",
-    "title": "跟风的小红书momo党、CBD糖葫芦与流动的盛宴",
-    "link": "https://www.woshipm.com/it/6292589.html",
-    "pub_date": "2025-11-17 09:17:52",
-    "author": "山农下山"
-  },
-  {
-    "id": 108302,
-    "feed_name": "人人都是产品经理",
-    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
-    "category": "科技",
-    "title": "商品属性搭建——不是字段的拼凑",
-    "link": "https://www.woshipm.com/pd/6292586.html",
-    "pub_date": "2025-11-17 09:16:28",
-    "author": "诸葛铁铁"
-  },
-  {
-    "id": 108304,
-    "feed_name": "人人都是产品经理",
-    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
-    "category": "科技",
-    "title": "一文详解如何转型AI产品经理",
-    "link": "https://www.woshipm.com/ai/6292490.html",
-    "pub_date": "2025-11-17 09:15:27",
-    "author": "刘刚"
-  },
-  {
-    "id": 108306,
-    "feed_name": "人人都是产品经理",
-    "feed_url": "https://plink.anyfeeder.com/woshipm/popular",
-    "category": "科技",
-    "title": "提效200%：我用钉钉AI表格重塑团队项目管理",
-    "link": "https://www.woshipm.com/ai/6292215.html",
-    "pub_date": "2025-11-17 09:14:30",
-    "author": "兔子"
+    "title": "神舟二十号宇航员搭乘神舟二十一号飞船返回地面",
+    "link": "https://www.solidot.org/story?sid=82817",
+    "pub_date": "2025-11-17 11:44:59",
+    "author": null
   },
   {
     "id": 107134,
@@ -2330,73 +3000,63 @@
     "author": null
   },
   {
-    "id": 99821,
-    "feed_name": "Solidot",
-    "feed_url": "https://www.solidot.org/index.rss",
+    "id": 110018,
+    "feed_name": "极客公园",
+    "feed_url": "https://www.geekpark.net/rss",
     "category": "科技",
-    "title": "Blue Origin 完成首次 New Glenn 火箭回收",
-    "link": "https://www.solidot.org/story?sid=82803",
-    "pub_date": "2025-11-14 13:50:51",
+    "title": "\n        「前三代定律」下，百年吸尘器如何做出新意？\n      ",
+    "link": "http://www.geekpark.net/news/356532",
+    "pub_date": "2025-11-17 23:11:44",
     "author": null
   },
   {
-    "id": 99822,
-    "feed_name": "Solidot",
-    "feed_url": "https://www.solidot.org/index.rss",
+    "id": 110019,
+    "feed_name": "极客公园",
+    "feed_url": "https://www.geekpark.net/rss",
     "category": "科技",
-    "title": "小鹏汇天开始量产“飞行汽车”",
-    "link": "https://www.solidot.org/story?sid=82802",
-    "pub_date": "2025-11-14 13:22:02",
+    "title": "\n        两个月破 300 万用户，Agnes AI 刷新 Instagram 与 Snapchat 增长纪录\n      ",
+    "link": "http://www.geekpark.net/news/356527",
+    "pub_date": "2025-11-17 17:47:55",
     "author": null
   },
   {
-    "id": 99823,
-    "feed_name": "Solidot",
-    "feed_url": "https://www.solidot.org/index.rss",
+    "id": 110020,
+    "feed_name": "极客公园",
+    "feed_url": "https://www.geekpark.net/rss",
     "category": "科技",
-    "title": "美国停止铸造一美分硬币",
-    "link": "https://www.solidot.org/story?sid=82801",
-    "pub_date": "2025-11-13 23:24:25",
+    "title": "\n        每天给白领发 1000 万，他成了硅谷最年轻亿万富翁\n      ",
+    "link": "http://www.geekpark.net/news/356525",
+    "pub_date": "2025-11-17 17:45:22",
     "author": null
   },
   {
-    "id": 99824,
-    "feed_name": "Solidot",
-    "feed_url": "https://www.solidot.org/index.rss",
+    "id": 110021,
+    "feed_name": "极客公园",
+    "feed_url": "https://www.geekpark.net/rss",
     "category": "科技",
-    "title": "加州圣迭戈警告新生学术准备能力急剧下降",
-    "link": "https://www.solidot.org/story?sid=82800",
-    "pub_date": "2025-11-13 23:14:15",
+    "title": "\n        2025，中国科技圈进入全面「大乱斗」时代\n      ",
+    "link": "http://www.geekpark.net/news/356518",
+    "pub_date": "2025-11-17 16:07:59",
     "author": null
   },
   {
-    "id": 99825,
-    "feed_name": "Solidot",
-    "feed_url": "https://www.solidot.org/index.rss",
+    "id": 110022,
+    "feed_name": "极客公园",
+    "feed_url": "https://www.geekpark.net/rss",
     "category": "科技",
-    "title": "Google 表示将允许侧载 Android 应用",
-    "link": "https://www.solidot.org/story?sid=82799",
-    "pub_date": "2025-11-13 18:21:35",
+    "title": "\n        当 AI 开始分「左右」 \n      ",
+    "link": "http://www.geekpark.net/news/356514",
+    "pub_date": "2025-11-17 15:59:09",
     "author": null
   },
   {
-    "id": 99826,
-    "feed_name": "Solidot",
-    "feed_url": "https://www.solidot.org/index.rss",
+    "id": 110023,
+    "feed_name": "极客公园",
+    "feed_url": "https://www.geekpark.net/rss",
     "category": "科技",
-    "title": "旅行者1号距离地球即将达到一光日",
-    "link": "https://www.solidot.org/story?sid=82798",
-    "pub_date": "2025-11-13 18:02:46",
-    "author": null
-  },
-  {
-    "id": 99827,
-    "feed_name": "Solidot",
-    "feed_url": "https://www.solidot.org/index.rss",
-    "category": "科技",
-    "title": "2024 年中国专利申请量继续遥遥领先",
-    "link": "https://www.solidot.org/story?sid=82797",
-    "pub_date": "2025-11-13 17:42:06",
+    "title": "\n        阿里云，用全栈 AI 刷新第十七个双十一\n      ",
+    "link": "http://www.geekpark.net/news/356513",
+    "pub_date": "2025-11-17 15:55:26",
     "author": null
   },
   {
@@ -2537,666 +3197,6 @@
     "title": "\n        对话元理智能张帆：为什么「商业强化学习」，才是 AI To B 的新出路\n      ",
     "link": "http://www.geekpark.net/news/356333",
     "pub_date": "2025-11-12 16:45:53",
-    "author": null
-  },
-  {
-    "id": 95425,
-    "feed_name": "极客公园",
-    "feed_url": "https://www.geekpark.net/rss",
-    "category": "科技",
-    "title": "\n        深度复盘：大疆是如何成为影像领域新巨头的？\n      ",
-    "link": "http://www.geekpark.net/news/356310",
-    "pub_date": "2025-11-12 12:49:11",
-    "author": null
-  },
-  {
-    "id": 93960,
-    "feed_name": "极客公园",
-    "feed_url": "https://www.geekpark.net/rss",
-    "category": "科技",
-    "title": "\n        传李想亲抓人事，华为系高管退出理想；Meta 首席 AI 科学家杨乐昆离职创业；AI 减肥或致饮食失调\n      ",
-    "link": "http://www.geekpark.net/news/356295",
-    "pub_date": "2025-11-12 08:27:12",
-    "author": null
-  },
-  {
-    "id": 92497,
-    "feed_name": "极客公园",
-    "feed_url": "https://www.geekpark.net/rss",
-    "category": "科技",
-    "title": "\n        年产值突破 150 亿，刚毕业的俊男美女涌入「团播」工厂\n      ",
-    "link": "http://www.geekpark.net/news/356282",
-    "pub_date": "2025-11-11 16:35:14",
-    "author": null
-  },
-  {
-    "id": 92498,
-    "feed_name": "极客公园",
-    "feed_url": "https://www.geekpark.net/rss",
-    "category": "科技",
-    "title": "\n        马斯克想要 1 万亿，何小鹏只想等一句「牛 P」 \n      ",
-    "link": "http://www.geekpark.net/news/356276",
-    "pub_date": "2025-11-11 16:08:23",
-    "author": null
-  },
-  {
-    "id": 91048,
-    "feed_name": "极客公园",
-    "feed_url": "https://www.geekpark.net/rss",
-    "category": "科技",
-    "title": "\n        小米汽车 10 月销量近 5 万，YU7 超 Model Y；美团 AI 编程工具开启公测；马化腾王传福成智元机器人受益股东\n      ",
-    "link": "http://www.geekpark.net/news/356231",
-    "pub_date": "2025-11-11 08:49:13",
-    "author": null
-  },
-  {
-    "id": 89591,
-    "feed_name": "极客公园",
-    "feed_url": "https://www.geekpark.net/rss",
-    "category": "科技",
-    "title": "\n        「传统教育」的船快沉了，人们却还在挤「头等舱」\n      ",
-    "link": "http://www.geekpark.net/news/356233",
-    "pub_date": "2025-11-10 21:34:51",
-    "author": null
-  },
-  {
-    "id": 107857,
-    "feed_name": "快科技",
-    "feed_url": "https://plink.anyfeeder.com/mydrivers",
-    "category": "科技",
-    "title": "三星宣布内存涨价60%！板卡厂商暂缓出货：没人买了 若滞销卖一块亏一块",
-    "link": "https://news.mydrivers.com/1/1086/1086989.htm",
-    "pub_date": "2025-11-17 12:37:24",
-    "author": null
-  },
-  {
-    "id": 107860,
-    "feed_name": "快科技",
-    "feed_url": "https://plink.anyfeeder.com/mydrivers",
-    "category": "科技",
-    "title": "“WPS崩了”引热议 网友调侃：周一不适合上班",
-    "link": "https://news.mydrivers.com/1/1086/1086988.htm",
-    "pub_date": "2025-11-17 12:33:53",
-    "author": null
-  },
-  {
-    "id": 107864,
-    "feed_name": "快科技",
-    "feed_url": "https://plink.anyfeeder.com/mydrivers",
-    "category": "科技",
-    "title": "Epic CEO怒批Win11：任务栏不能动、账户强制登！马斯克下场力挺",
-    "link": "https://news.mydrivers.com/1/1086/1086987.htm",
-    "pub_date": "2025-11-17 12:27:14",
-    "author": null
-  },
-  {
-    "id": 107869,
-    "feed_name": "快科技",
-    "feed_url": "https://plink.anyfeeder.com/mydrivers",
-    "category": "科技",
-    "title": "宁德时代市值蒸发近千亿！联合创始人拟百亿级减持",
-    "link": "https://news.mydrivers.com/1/1086/1086986.htm",
-    "pub_date": "2025-11-17 12:23:06",
-    "author": null
-  },
-  {
-    "id": 107875,
-    "feed_name": "快科技",
-    "feed_url": "https://plink.anyfeeder.com/mydrivers",
-    "category": "科技",
-    "title": "首发麒麟9030！华为Mate 80/Pro/Pro Max/RS开启预约：全配色、存储方案公布",
-    "link": "https://news.mydrivers.com/1/1086/1086985.htm",
-    "pub_date": "2025-11-17 12:20:20",
-    "author": null
-  },
-  {
-    "id": 106699,
-    "feed_name": "快科技",
-    "feed_url": "https://plink.anyfeeder.com/mydrivers",
-    "category": "科技",
-    "title": "虚幻6引擎预计2028年推出！Epic CEO：两年半内完成整合",
-    "link": "https://news.mydrivers.com/1/1086/1086897.htm",
-    "pub_date": "2025-11-16 23:48:24",
-    "author": null
-  },
-  {
-    "id": 106701,
-    "feed_name": "快科技",
-    "feed_url": "https://plink.anyfeeder.com/mydrivers",
-    "category": "科技",
-    "title": "宏碁宙斯智幕AirL机箱首发299元：曲面海景房 配6.2寸大屏",
-    "link": "https://news.mydrivers.com/1/1086/1086896.htm",
-    "pub_date": "2025-11-16 23:30:15",
-    "author": null
-  },
-  {
-    "id": 106703,
-    "feed_name": "快科技",
-    "feed_url": "https://plink.anyfeeder.com/mydrivers",
-    "category": "科技",
-    "title": "十余年不见续作！育碧曾秘密开发《细胞分裂》新作：但最终演变成《不羁联盟》",
-    "link": "https://news.mydrivers.com/1/1086/1086895.htm",
-    "pub_date": "2025-11-16 23:26:51",
-    "author": null
-  },
-  {
-    "id": 106705,
-    "feed_name": "快科技",
-    "feed_url": "https://plink.anyfeeder.com/mydrivers",
-    "category": "科技",
-    "title": "新成果！我国首台高能非弹性中子散射谱仪交付使用",
-    "link": "https://news.mydrivers.com/1/1086/1086894.htm",
-    "pub_date": "2025-11-16 23:16:15",
-    "author": null
-  },
-  {
-    "id": 106707,
-    "feed_name": "快科技",
-    "feed_url": "https://plink.anyfeeder.com/mydrivers",
-    "category": "科技",
-    "title": "翻车现场！微软发视频宣传Win11 Copilot：反完美展示有多“无用”",
-    "link": "https://news.mydrivers.com/1/1086/1086893.htm",
-    "pub_date": "2025-11-16 22:59:02",
-    "author": null
-  },
-  {
-    "id": 105084,
-    "feed_name": "快科技",
-    "feed_url": "https://plink.anyfeeder.com/mydrivers",
-    "category": "科技",
-    "title": "1万美刀的RTX RPO 6000专业显卡PCIe接口损坏变砖！维修几率为零",
-    "link": "https://news.mydrivers.com/1/1086/1086843.htm",
-    "pub_date": "2025-11-16 12:43:20",
-    "author": null
-  },
-  {
-    "id": 105086,
-    "feed_name": "快科技",
-    "feed_url": "https://plink.anyfeeder.com/mydrivers",
-    "category": "科技",
-    "title": "华味亨坚果琥珀核桃仁450g16.9元",
-    "link": "https://news.mydrivers.com/1/1086/1086842.htm",
-    "pub_date": "2025-11-16 12:39:46",
-    "author": null
-  },
-  {
-    "id": 105090,
-    "feed_name": "快科技",
-    "feed_url": "https://plink.anyfeeder.com/mydrivers",
-    "category": "科技",
-    "title": "深圳首班骑行地铁“专列”发车：4条线路试点 票价35元",
-    "link": "https://news.mydrivers.com/1/1086/1086841.htm",
-    "pub_date": "2025-11-16 12:39:05",
-    "author": null
-  },
-  {
-    "id": 105093,
-    "feed_name": "快科技",
-    "feed_url": "https://plink.anyfeeder.com/mydrivers",
-    "category": "科技",
-    "title": "保暖轻盈！大嘴猴10A秋衣套装大促：14元券 39.1到手",
-    "link": "https://news.mydrivers.com/1/1086/1086840.htm",
-    "pub_date": "2025-11-16 12:38:38",
-    "author": null
-  },
-  {
-    "id": 105096,
-    "feed_name": "快科技",
-    "feed_url": "https://plink.anyfeeder.com/mydrivers",
-    "category": "科技",
-    "title": "橘珍堂十年陈藏橘红切片大促 100克9.9元",
-    "link": "https://news.mydrivers.com/1/1086/1086839.htm",
-    "pub_date": "2025-11-16 12:35:20",
-    "author": null
-  },
-  {
-    "id": 103569,
-    "feed_name": "快科技",
-    "feed_url": "https://plink.anyfeeder.com/mydrivers",
-    "category": "科技",
-    "title": "淄博苹果哥火了：各地商贩纷纷模仿摆苹果",
-    "link": "https://news.mydrivers.com/1/1086/1086807.htm",
-    "pub_date": "2025-11-16 00:02:00",
-    "author": null
-  },
-  {
-    "id": 103572,
-    "feed_name": "快科技",
-    "feed_url": "https://plink.anyfeeder.com/mydrivers",
-    "category": "科技",
-    "title": "注意：这些“藏盐大户”你可能每天都在吃",
-    "link": "https://news.mydrivers.com/1/1086/1086806.htm",
-    "pub_date": "2025-11-15 23:41:42",
-    "author": null
-  },
-  {
-    "id": 103576,
-    "feed_name": "快科技",
-    "feed_url": "https://plink.anyfeeder.com/mydrivers",
-    "category": "科技",
-    "title": "女子爆改公摊电梯厅涮火锅引争议 网友认为有安全隐患",
-    "link": "https://news.mydrivers.com/1/1086/1086805.htm",
-    "pub_date": "2025-11-15 23:14:06",
-    "author": null
-  },
-  {
-    "id": 103580,
-    "feed_name": "快科技",
-    "feed_url": "https://plink.anyfeeder.com/mydrivers",
-    "category": "科技",
-    "title": "00后女子每月花5千买“秒回师”服务：母亲不知该不该劝阻",
-    "link": "https://news.mydrivers.com/1/1086/1086804.htm",
-    "pub_date": "2025-11-15 22:55:32",
-    "author": null
-  },
-  {
-    "id": 103584,
-    "feed_name": "快科技",
-    "feed_url": "https://plink.anyfeeder.com/mydrivers",
-    "category": "科技",
-    "title": "宋佳获金鸡奖最佳女主角奖 网友：实至名归",
-    "link": "https://news.mydrivers.com/1/1086/1086803.htm",
-    "pub_date": "2025-11-15 22:39:15",
-    "author": null
-  },
-  {
-    "id": 106642,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "“交费后不退不赔”，网安培训“私下交易”维权之路",
-    "link": "https://www.freebuf.com/news/457446.html",
-    "pub_date": "2025-11-16 16:27:42",
-    "author": null
-  },
-  {
-    "id": 105108,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "SilentButDeadly：一款可阻断EDR/AV网络通信的新型工具",
-    "link": "https://www.freebuf.com/articles/endpoint/457441.html",
-    "pub_date": "2025-11-16 04:34:43",
-    "author": null
-  },
-  {
-    "id": 107908,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "高度复杂的macOS DigitStealer采用多阶段攻击逃避检测",
-    "link": "https://www.freebuf.com/articles/endpoint/457419.html",
-    "pub_date": "2025-11-15 10:02:57",
-    "author": null
-  },
-  {
-    "id": 100730,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "研究人员发现严重AI漏洞影响Meta、Nvidia及微软推理框架",
-    "link": "https://www.freebuf.com/articles/ai-security/457328.html",
-    "pub_date": "2025-11-14 20:50:00",
-    "author": null
-  },
-  {
-    "id": 107916,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "FreeBuf早报 | GitLab漏洞可致攻击者窃取敏感数据；恶意MCP服务器可劫持Cursor内置浏览器",
-    "link": "https://www.freebuf.com/news/457310.html",
-    "pub_date": "2025-11-14 19:29:18",
-    "author": null
-  },
-  {
-    "id": 100732,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "【AI安全论文】ESWA25评估大模型在真实攻击活动中的恶意代码解混淆能力",
-    "link": "https://www.freebuf.com/articles/457238.html",
-    "pub_date": "2025-11-14 18:41:40",
-    "author": null
-  },
-  {
-    "id": 100734,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "公安部公布“护网—2025”专项工作6起行政执法典型案例",
-    "link": "https://www.freebuf.com/articles/457304.html",
-    "pub_date": "2025-11-14 12:47:25",
-    "author": null
-  },
-  {
-    "id": 100737,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "BabyStream - 从LFSR到LPN的完整攻击复现",
-    "link": "https://www.freebuf.com/articles/others-articles/457143.html",
-    "pub_date": "2025-11-14 12:35:06",
-    "author": null
-  },
-  {
-    "id": 106654,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "AI大模型+N8N工作流的自动化安全测试流程初探",
-    "link": "https://www.freebuf.com/articles/web/457389.html",
-    "pub_date": "2025-11-14 12:08:00",
-    "author": null
-  },
-  {
-    "id": 100740,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "专访国外爆火的AI渗透机器人XBOW：对抗性机器人与自主威胁猎手的较量",
-    "link": "https://www.freebuf.com/articles/ai-security/457314.html",
-    "pub_date": "2025-11-14 11:10:00",
-    "author": null
-  },
-  {
-    "id": 100742,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "AI 越智能，数据越危险？",
-    "link": "https://www.freebuf.com/articles/457118.html",
-    "pub_date": "2025-11-14 10:55:28",
-    "author": null
-  },
-  {
-    "id": 107959,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "Fastjson反序列化Groovy+Commons-io文件写入",
-    "link": "https://www.freebuf.com/articles/vuls/457013.html",
-    "pub_date": "2025-11-14 10:49:55",
-    "author": null
-  },
-  {
-    "id": 100744,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "入侵检测 | Snort基础环境安装配置",
-    "link": "https://www.freebuf.com/articles/es/457105.html",
-    "pub_date": "2025-11-14 09:28:04",
-    "author": null
-  },
-  {
-    "id": 100747,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "谷歌推出统一安全推荐计划，扩展安全生态系统",
-    "link": "https://www.freebuf.com/articles/es/457172.html",
-    "pub_date": "2025-11-13 23:11:33",
-    "author": null
-  },
-  {
-    "id": 99182,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "FreeBuf早报 | 恶意npm包利用CI/CD管道漏洞获取高权限；攻击者利用思科与Citrix 0Day漏洞部署后门",
-    "link": "https://www.freebuf.com/news/457018.html",
-    "pub_date": "2025-11-13 18:08:30",
-    "author": null
-  },
-  {
-    "id": 97753,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "当攻击快过补丁：为何2026年将成为机器速度安全元年",
-    "link": "https://www.freebuf.com/articles/es/457051.html",
-    "pub_date": "2025-11-13 17:00:00",
-    "author": null
-  },
-  {
-    "id": 102174,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "FreeBuf周报 | ChatGPT 被诱导自我注入攻击；Windows内核0Day漏洞遭野外利用提权",
-    "link": "https://www.freebuf.com/articles/456991.html",
-    "pub_date": "2025-11-13 15:22:09",
-    "author": null
-  },
-  {
-    "id": 107987,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "记一次记代码审计通用漏洞突破内网管理员权限的过程",
-    "link": "https://www.freebuf.com/articles/sectool/456982.html",
-    "pub_date": "2025-11-13 14:43:05",
-    "author": null
-  },
-  {
-    "id": 99185,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "恶意MCP服务器可劫持Cursor内置浏览器",
-    "link": "https://www.freebuf.com/articles/ai-security/457077.html",
-    "pub_date": "2025-11-13 14:05:00",
-    "author": null
-  },
-  {
-    "id": 99186,
-    "feed_name": "FreeBuf 关注黑客",
-    "feed_url": "https://plink.anyfeeder.com/freebuf",
-    "category": "科技",
-    "title": "SAP紧急修复9.9分高危漏洞，攻击者可完全接管系统",
-    "link": "https://www.freebuf.com/articles/es/457068.html",
-    "pub_date": "2025-11-13 13:10:24",
-    "author": null
-  },
-  {
-    "id": 107885,
-    "feed_name": "软餐 - 新鲜软件资讯",
-    "feed_url": "https://plink.anyfeeder.com/ruancan",
-    "category": "科技",
-    "title": "经过一年半延迟，支持 Exchange 的 Thunderbird 正式发布",
-    "link": "https://www.ruancan.com/p/253478.html",
-    "pub_date": "2025-11-17 09:15:51",
-    "author": null
-  },
-  {
-    "id": 107889,
-    "feed_name": "软餐 - 新鲜软件资讯",
-    "feed_url": "https://plink.anyfeeder.com/ruancan",
-    "category": "科技",
-    "title": "Android 17 或支持按键自定义及虚拟游戏手柄",
-    "link": "https://www.ruancan.com/p/253477.html",
-    "pub_date": "2025-11-17 09:05:57",
-    "author": null
-  },
-  {
-    "id": 103566,
-    "feed_name": "软餐 - 新鲜软件资讯",
-    "feed_url": "https://plink.anyfeeder.com/ruancan",
-    "category": "科技",
-    "title": "WhatsApp 首次实现与两款第三方应用的聊天互通",
-    "link": "https://www.ruancan.com/p/253474.html",
-    "pub_date": "2025-11-15 18:58:48",
-    "author": null
-  },
-  {
-    "id": 103567,
-    "feed_name": "软餐 - 新鲜软件资讯",
-    "feed_url": "https://plink.anyfeeder.com/ruancan",
-    "category": "科技",
-    "title": "X 正式推出端到端加密聊天服务 “Chat”",
-    "link": "https://www.ruancan.com/p/253471.html",
-    "pub_date": "2025-11-15 18:54:38",
-    "author": null
-  },
-  {
-    "id": 103570,
-    "feed_name": "软餐 - 新鲜软件资讯",
-    "feed_url": "https://plink.anyfeeder.com/ruancan",
-    "category": "科技",
-    "title": "蒂姆·库克可能于明年卸任苹果首席执行官",
-    "link": "https://www.ruancan.com/p/253469.html",
-    "pub_date": "2025-11-15 18:50:20",
-    "author": null
-  },
-  {
-    "id": 103583,
-    "feed_name": "软餐 - 新鲜软件资讯",
-    "feed_url": "https://plink.anyfeeder.com/ruancan",
-    "category": "科技",
-    "title": "德国总理称不允许在 6G 网络中使用中国部件",
-    "link": "https://www.ruancan.com/p/253467.html",
-    "pub_date": "2025-11-15 00:00:38",
-    "author": null
-  },
-  {
-    "id": 100670,
-    "feed_name": "软餐 - 新鲜软件资讯",
-    "feed_url": "https://plink.anyfeeder.com/ruancan",
-    "category": "科技",
-    "title": "Firefox 将新增 “AI 窗口”：常规窗口和无痕浏览之外的第三种浏览模式",
-    "link": "https://www.ruancan.com/p/253463.html",
-    "pub_date": "2025-11-14 09:36:52",
-    "author": null
-  },
-  {
-    "id": 100671,
-    "feed_name": "软餐 - 新鲜软件资讯",
-    "feed_url": "https://plink.anyfeeder.com/ruancan",
-    "category": "科技",
-    "title": "荷兰代表团下周就安世半导体危机与中国磋商",
-    "link": "https://www.ruancan.com/p/253458.html",
-    "pub_date": "2025-11-14 00:19:36",
-    "author": null
-  },
-  {
-    "id": 100672,
-    "feed_name": "软餐 - 新鲜软件资讯",
-    "feed_url": "https://plink.anyfeeder.com/ruancan",
-    "category": "科技",
-    "title": "Meta 人工智能部门负责人杨立昆离职创办 AI 企业",
-    "link": "https://www.ruancan.com/p/253412.html",
-    "pub_date": "2025-11-13 14:54:30",
-    "author": null
-  },
-  {
-    "id": 100673,
-    "feed_name": "软餐 - 新鲜软件资讯",
-    "feed_url": "https://plink.anyfeeder.com/ruancan",
-    "category": "科技",
-    "title": "微软发布．NET 10 与 Visual Studio 2026",
-    "link": "https://www.ruancan.com/p/253407.html",
-    "pub_date": "2025-11-13 14:47:54",
-    "author": null
-  },
-  {
-    "id": 100675,
-    "feed_name": "软餐 - 新鲜软件资讯",
-    "feed_url": "https://plink.anyfeeder.com/ruancan",
-    "category": "科技",
-    "title": "OpenAI 发布 GPT-5.1 即时版与思考版模型",
-    "link": "https://www.ruancan.com/p/253404.html",
-    "pub_date": "2025-11-13 14:45:46",
-    "author": null
-  },
-  {
-    "id": 97768,
-    "feed_name": "软餐 - 新鲜软件资讯",
-    "feed_url": "https://plink.anyfeeder.com/ruancan",
-    "category": "科技",
-    "title": "Win11 现已支持 1Password 与 Bitwarden 通行密钥",
-    "link": "https://www.ruancan.com/p/253396.html",
-    "pub_date": "2025-11-12 23:48:22",
-    "author": null
-  },
-  {
-    "id": 97770,
-    "feed_name": "软餐 - 新鲜软件资讯",
-    "feed_url": "https://plink.anyfeeder.com/ruancan",
-    "category": "科技",
-    "title": "谷歌时隔两月公开安卓 16 QPR1 源代码",
-    "link": "https://www.ruancan.com/p/253394.html",
-    "pub_date": "2025-11-12 23:44:28",
-    "author": null
-  },
-  {
-    "id": 94807,
-    "feed_name": "软餐 - 新鲜软件资讯",
-    "feed_url": "https://plink.anyfeeder.com/ruancan",
-    "category": "科技",
-    "title": "[全文] 火绒曝鲁大师等软件流量劫持黑幕",
-    "link": "https://www.ruancan.com/p/253235.html",
-    "pub_date": "2025-11-12 16:09:10",
-    "author": null
-  },
-  {
-    "id": 96255,
-    "feed_name": "软餐 - 新鲜软件资讯",
-    "feed_url": "https://plink.anyfeeder.com/ruancan",
-    "category": "科技",
-    "title": "[清单] 微软发布 2025 年 11 月星期二补丁日 Windows 安全更新",
-    "link": "https://www.ruancan.com/p/253233.html",
-    "pub_date": "2025-11-12 15:34:52",
-    "author": null
-  },
-  {
-    "id": 96258,
-    "feed_name": "软餐 - 新鲜软件资讯",
-    "feed_url": "https://plink.anyfeeder.com/ruancan",
-    "category": "科技",
-    "title": "Windows 版 WhatsApp 更新，内存占用飙升 10 倍",
-    "link": "https://www.ruancan.com/p/253231.html",
-    "pub_date": "2025-11-12 15:22:14",
-    "author": null
-  },
-  {
-    "id": 94810,
-    "feed_name": "软餐 - 新鲜软件资讯",
-    "feed_url": "https://plink.anyfeeder.com/ruancan",
-    "category": "科技",
-    "title": "刘乐飞控制的 CPE 源峰入主「汉堡王中国」",
-    "link": "https://www.ruancan.com/p/253224.html",
-    "pub_date": "2025-11-11 15:36:17",
-    "author": null
-  },
-  {
-    "id": 94813,
-    "feed_name": "软餐 - 新鲜软件资讯",
-    "feed_url": "https://plink.anyfeeder.com/ruancan",
-    "category": "科技",
-    "title": "传欧盟拟禁止成员国使用华为电信设备",
-    "link": "https://www.ruancan.com/p/253220.html",
-    "pub_date": "2025-11-11 14:55:23",
-    "author": null
-  },
-  {
-    "id": 94816,
-    "feed_name": "软餐 - 新鲜软件资讯",
-    "feed_url": "https://plink.anyfeeder.com/ruancan",
-    "category": "科技",
-    "title": "Firefox 145 发布：反追踪能力增强、停止支持 32 位 Linux",
-    "link": "https://www.ruancan.com/p/253218.html",
-    "pub_date": "2025-11-11 14:51:42",
-    "author": null
-  },
-  {
-    "id": 91878,
-    "feed_name": "软餐 - 新鲜软件资讯",
-    "feed_url": "https://plink.anyfeeder.com/ruancan",
-    "category": "科技",
-    "title": "苹果应中国国家互联网信息办公室要求下架同性社交软件 Blued",
-    "link": "https://www.ruancan.com/p/253213.html",
-    "pub_date": "2025-11-11 14:37:41",
     "author": null
   }
 ]
