@@ -200,6 +200,16 @@
     "author": null
   },
   {
+    "id": 115518,
+    "feed_name": "喷嚏图卦",
+    "feed_url": "https://plink.anyfeeder.com/pentitugua",
+    "category": "娱乐",
+    "title": "【喷嚏图卦20251119】冰山的后面是什么",
+    "link": "https://www.dapenti.com/blog/more.asp?name=xilei&id=189536",
+    "pub_date": "2025-11-19 15:08:00",
+    "author": "xilei"
+  },
+  {
     "id": 112682,
     "feed_name": "喷嚏图卦",
     "feed_url": "https://plink.anyfeeder.com/pentitugua",
@@ -390,14 +400,24 @@
     "author": "xilei"
   },
   {
-    "id": 57362,
-    "feed_name": "喷嚏图卦",
-    "feed_url": "https://plink.anyfeeder.com/pentitugua",
+    "id": 115529,
+    "feed_name": "豆瓣最受欢迎的影评",
+    "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
     "category": "娱乐",
-    "title": "【喷嚏图卦20251030】G2",
-    "link": "https://www.dapenti.com/blog/more.asp?name=xilei&id=189144",
-    "pub_date": "2025-10-30 15:49:00",
-    "author": "xilei"
+    "title": "《三滴血》是一场阴湿雪夜中的人性围猎 (评论: 三滴血)",
+    "link": "https://movie.douban.com/review/17208092/",
+    "pub_date": "2025-11-19 17:06:26",
+    "author": null
+  },
+  {
+    "id": 115536,
+    "feed_name": "豆瓣最受欢迎的影评",
+    "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
+    "category": "娱乐",
+    "title": "日式青春：躁动与迷茫，玩乐与无聊 (评论: 就这样，我们把金鱼放入了泳池)",
+    "link": "https://movie.douban.com/review/17207948/",
+    "pub_date": "2025-11-19 15:32:44",
+    "author": null
   },
   {
     "id": 112600,
@@ -580,24 +600,14 @@
     "author": null
   },
   {
-    "id": 95176,
-    "feed_name": "豆瓣最受欢迎的影评",
-    "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
+    "id": 115505,
+    "feed_name": "简书 / 首页",
+    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
     "category": "娱乐",
-    "title": "影评｜韩国怪兽电影的流变与东亚导演的现实焦虑投射 (评论: 遗鳍)",
-    "link": "https://movie.douban.com/review/17196858/",
-    "pub_date": "2025-11-12 17:24:31",
-    "author": null
-  },
-  {
-    "id": 96472,
-    "feed_name": "豆瓣最受欢迎的影评",
-    "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
-    "category": "娱乐",
-    "title": "Ready Or Not——春天的放牛班第102期周限定 (评论: 一战再战)",
-    "link": "https://movie.douban.com/review/17196640/",
-    "pub_date": "2025-11-12 15:19:03",
-    "author": null
+    "title": "2359",
+    "link": "https://www.jianshu.com/p/fd32a582ab0e",
+    "pub_date": "2025-11-20 06:38:34",
+    "author": "L玲珑剔透"
   },
   {
     "id": 114197,
@@ -618,6 +628,16 @@
     "link": "https://www.jianshu.com/p/5424ac028aa8",
     "pub_date": "2025-11-19 13:16:17",
     "author": "王忘杰"
+  },
+  {
+    "id": 115507,
+    "feed_name": "简书 / 首页",
+    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
+    "category": "娱乐",
+    "title": "王楚钦在多哈世乒赛会夺冠吗？",
+    "link": "https://www.jianshu.com/p/d8834edddce8",
+    "pub_date": "2025-11-19 08:39:56",
+    "author": "正义还在公众号"
   },
   {
     "id": 112685,
@@ -648,6 +668,16 @@
     "link": "https://www.jianshu.com/p/f00136de3dd3",
     "pub_date": "2025-11-19 07:12:14",
     "author": "追梦人在路上不断追寻"
+  },
+  {
+    "id": 115509,
+    "feed_name": "简书 / 首页",
+    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
+    "category": "娱乐",
+    "title": "喝茶",
+    "link": "https://www.jianshu.com/p/aa78549d3d27",
+    "pub_date": "2025-11-18 20:52:02",
+    "author": "迟到的光辉"
   },
   {
     "id": 111050,
@@ -768,35 +798,5 @@
     "link": "https://www.jianshu.com/p/2e64e9dd52ed",
     "pub_date": "2025-11-16 14:10:36",
     "author": "锦绣绣"
-  },
-  {
-    "id": 105329,
-    "feed_name": "简书 / 首页",
-    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
-    "category": "娱乐",
-    "title": "开读/《中国文化之美》",
-    "link": "https://www.jianshu.com/p/54887de4d4fb",
-    "pub_date": "2025-11-16 14:10:36",
-    "author": "七山人"
-  },
-  {
-    "id": 105331,
-    "feed_name": "简书 / 首页",
-    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
-    "category": "娱乐",
-    "title": "这短短的一生，我们终将会逝去",
-    "link": "https://www.jianshu.com/p/ab41cf3276c9",
-    "pub_date": "2025-11-16 14:10:36",
-    "author": "觉刃"
-  },
-  {
-    "id": 105333,
-    "feed_name": "简书 / 首页",
-    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
-    "category": "娱乐",
-    "title": "2022最新常问iOS面试题",
-    "link": "https://www.jianshu.com/p/c8ea88985fdd",
-    "pub_date": "2025-11-16 14:10:36",
-    "author": "梦妍都很好"
   }
 ]
