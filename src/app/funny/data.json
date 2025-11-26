@@ -400,6 +400,16 @@
     "author": "xilei"
   },
   {
+    "id": 133838,
+    "feed_name": "豆瓣最受欢迎的影评",
+    "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
+    "category": "娱乐",
+    "title": "疯狂动物城2——期望过高，难免失望 (评论: 疯狂动物城2)",
+    "link": "https://movie.douban.com/review/17225473/",
+    "pub_date": "2025-11-26 11:03:06",
+    "author": null
+  },
+  {
     "id": 132384,
     "feed_name": "豆瓣最受欢迎的影评",
     "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
@@ -590,14 +600,24 @@
     "author": null
   },
   {
-    "id": 112600,
-    "feed_name": "豆瓣最受欢迎的影评",
-    "feed_url": "https://plink.anyfeeder.com/douban/review/movie",
+    "id": 133736,
+    "feed_name": "简书 / 首页",
+    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
     "category": "娱乐",
-    "title": "暗河传苏暮雨：一款探索年轻人迷茫，能给这迷茫注入活力的主角 (评论: 暗河传)",
-    "link": "https://movie.douban.com/review/17206070/",
-    "pub_date": "2025-11-18 12:31:03",
-    "author": null
+    "title": "剑19T4P1文章提纲与雅思词汇",
+    "link": "https://www.jianshu.com/p/503c52bda449",
+    "pub_date": "2025-11-26 13:24:15",
+    "author": "小美Prisca"
+  },
+  {
+    "id": 133738,
+    "feed_name": "简书 / 首页",
+    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
+    "category": "娱乐",
+    "title": "青蓝｜技术试验田的新答卷：AI如何重塑游戏产业全链条",
+    "link": "https://www.jianshu.com/p/91c25dc9c90a",
+    "pub_date": "2025-11-26 13:24:14",
+    "author": "青蓝app"
   },
   {
     "id": 132362,
@@ -778,25 +798,5 @@
     "link": "https://www.jianshu.com/p/92cd0078951a",
     "pub_date": "2025-11-23 06:03:40",
     "author": "紫嫣sophia"
-  },
-  {
-    "id": 123794,
-    "feed_name": "简书 / 首页",
-    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
-    "category": "娱乐",
-    "title": "看画展",
-    "link": "https://www.jianshu.com/p/698763e4cc49",
-    "pub_date": "2025-11-23 06:03:40",
-    "author": "时光机之旅"
-  },
-  {
-    "id": 122370,
-    "feed_name": "简书 / 首页",
-    "feed_url": "https://plink.anyfeeder.com/jianshu/home",
-    "category": "娱乐",
-    "title": "Xena - TCGA数据下载",
-    "link": "https://www.jianshu.com/p/91868ec7cd23",
-    "pub_date": "2025-11-22 13:13:36",
-    "author": "Li_bioinfo"
   }
 ]
