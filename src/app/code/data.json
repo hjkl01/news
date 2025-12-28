@@ -200,6 +200,26 @@
     "author": null
   },
   {
+    "id": 220250,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "category": "技术",
+    "title": "parcoil/sparkle",
+    "link": "https://github.com/parcoil/sparkle",
+    "pub_date": "2025-12-28 14:22:38",
+    "author": null
+  },
+  {
+    "id": 220270,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "category": "技术",
+    "title": "maboloshi/github-chinese",
+    "link": "https://github.com/maboloshi/github-chinese",
+    "pub_date": "2025-12-28 14:22:38",
+    "author": null
+  },
+  {
     "id": 217598,
     "feed_name": "github javascript",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
@@ -380,23 +400,13 @@
     "author": null
   },
   {
-    "id": 176892,
-    "feed_name": "github javascript",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "id": 220215,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
     "category": "技术",
-    "title": "agalwood/Motrix",
-    "link": "https://github.com/agalwood/Motrix",
-    "pub_date": "2025-12-12 14:23:46",
-    "author": null
-  },
-  {
-    "id": 174223,
-    "feed_name": "github javascript",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
-    "category": "技术",
-    "title": "basecamp/lexxy",
-    "link": "https://github.com/basecamp/lexxy",
-    "pub_date": "2025-12-11 14:24:43",
+    "title": "YouROK/TorrServer",
+    "link": "https://github.com/YouROK/TorrServer",
+    "pub_date": "2025-12-28 14:22:38",
     "author": null
   },
   {
@@ -590,16 +600,6 @@
     "author": null
   },
   {
-    "id": 190464,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "kgretzky/evilginx2",
-    "link": "https://github.com/kgretzky/evilginx2",
-    "pub_date": "2025-12-17 14:23:43",
-    "author": null
-  },
-  {
     "id": 215886,
     "feed_name": "HelloGitHub 月刊",
     "feed_url": "http://hellogithub.com/rss",
@@ -630,13 +630,13 @@
     "author": null
   },
   {
-    "id": 1257,
-    "feed_name": "HelloGitHub 月刊",
-    "feed_url": "http://hellogithub.com/rss",
+    "id": 220145,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
     "category": "技术",
-    "title": "HelloGitHub 第 114 期",
-    "link": "https://hellogithub.com/periodical/volume/114",
-    "pub_date": "2025-09-28 07:49:05",
+    "title": "agrinman/tunnelto",
+    "link": "https://github.com/agrinman/tunnelto",
+    "pub_date": "2025-12-28 14:22:38",
     "author": null
   },
   {
@@ -830,13 +830,13 @@
     "author": null
   },
   {
-    "id": 198810,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "id": 220342,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
     "category": "技术",
-    "title": "sgl-project/mini-sglang",
-    "link": "https://github.com/sgl-project/mini-sglang",
-    "pub_date": "2025-12-20 14:22:32",
+    "title": "bol-van/zapret-win-bundle",
+    "link": "https://github.com/bol-van/zapret-win-bundle",
+    "pub_date": "2025-12-28 14:22:38",
     "author": null
   },
   {
@@ -1030,13 +1030,13 @@
     "author": null
   },
   {
-    "id": 157915,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "id": 220260,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
     "category": "技术",
-    "title": "Sjj1024/PakePlus-Android",
-    "link": "https://github.com/Sjj1024/PakePlus-Android",
-    "pub_date": "2025-12-05 14:23:17",
+    "title": "denoland/deno",
+    "link": "https://github.com/denoland/deno",
+    "pub_date": "2025-12-28 14:22:38",
     "author": null
   },
   {
@@ -1227,16 +1227,6 @@
     "title": "ajeetdsouza/zoxide",
     "link": "https://github.com/ajeetdsouza/zoxide",
     "pub_date": "2025-12-17 14:23:43",
-    "author": null
-  },
-  {
-    "id": 187955,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "qarmin/czkawka",
-    "link": "https://github.com/qarmin/czkawka",
-    "pub_date": "2025-12-16 14:24:01",
     "author": null
   }
 ]
