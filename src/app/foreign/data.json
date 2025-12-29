@@ -1,5 +1,15 @@
 [
   {
+    "id": 222884,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "向斯大林毛泽东看齐？特朗普的“冠名癖”",
+    "link": "https://cn.nytimes.com/usa/20251229/trump-renaming/dual",
+    "pub_date": "2025-12-29 09:36:02",
+    "author": null
+  },
+  {
     "id": 216261,
     "feed_name": "纽约时报双语版",
     "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
@@ -190,13 +200,13 @@
     "author": null
   },
   {
-    "id": 196065,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "id": 222811,
+    "feed_name": "RFI 法国国际广播电台",
+    "feed_url": "https://plink.anyfeeder.com/rfi/cn",
     "category": "国外",
-    "title": "特朗普政府宣布超110亿美元对台军售",
-    "link": "https://cn.nytimes.com/usa/20251219/trump-taiwan-weapons-sale/dual",
-    "pub_date": "2025-12-19 08:36:02",
+    "title": "官媒新论调 ： “美国再次伟大”与“中国梦”并行不悖 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251228-%E5%AE%98%E5%AA%92%E6%96%B0%E8%AE%BA%E8%B0%83-%E7%BE%8E%E5%9B%BD%E5%86%8D%E6%AC%A1%E4%BC%9F%E5%A4%A7-%E4%B8%8E-%E4%B8%AD%E5%9B%BD%E6%A2%A6-%E5%B9%B6%E8%A1%8C%E4%B8%8D%E6%82%96",
+    "pub_date": "2025-12-29 06:45:02",
     "author": null
   },
   {
@@ -390,13 +400,23 @@
     "author": null
   },
   {
-    "id": 218815,
-    "feed_name": "RFI 法国国际广播电台",
-    "feed_url": "https://plink.anyfeeder.com/rfi/cn",
+    "id": 222799,
+    "feed_name": "ABC 澳大利亚广播公司",
+    "feed_url": "https://plink.anyfeeder.com/abc/cn",
     "category": "国外",
-    "title": "泰国和柬埔寨同意“立即”停火， 美国要他们双方立即付诸行动 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251227-%E6%B3%B0%E5%9B%BD%E5%92%8C%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%90%8C%E6%84%8F-%E7%AB%8B%E5%8D%B3-%E5%81%9C%E7%81%AB%EF%BC%8C-%E7%BE%8E%E5%9B%BD%E8%A6%81%E4%BB%96%E4%BB%AC%E5%8F%8C%E6%96%B9%E7%AB%8B%E5%8D%B3%E4%BB%98%E8%AF%B8%E8%A1%8C%E5%8A%A8",
-    "pub_date": "2025-12-28 05:15:03",
+    "title": "“可以替我盯着他” 中国家长如何用AI监督孩子写作业",
+    "link": "https://newsapp.abc.net.au/newsapp/chinese/2025-12-29/parents-in-china-using-ai-monitor-children-homework-social-media/106183906",
+    "pub_date": "2025-12-29 12:49:02",
+    "author": null
+  },
+  {
+    "id": 222805,
+    "feed_name": "ABC 澳大利亚广播公司",
+    "feed_url": "https://plink.anyfeeder.com/abc/cn",
+    "category": "国外",
+    "title": "特朗普与泽连斯基会晤 领土问题仍十分“棘手”",
+    "link": "https://newsapp.abc.net.au/newsapp/chinese/2025-12-29/trump-mees-zelensky-to-discuss-peace-plan/106183860",
+    "pub_date": "2025-12-29 07:49:03",
     "author": null
   },
   {
@@ -577,26 +597,6 @@
     "title": "美国拟要求40余国签证申请人提供社媒记录 澳新英法等国在列",
     "link": "https://newsapp.abc.net.au/newsapp/chinese/2025-12-11/united-states-plans-social-media-requirement-visa-exempt/106129248",
     "pub_date": "2025-12-11 10:49:02",
-    "author": null
-  },
-  {
-    "id": 171403,
-    "feed_name": "ABC 澳大利亚广播公司",
-    "feed_url": "https://plink.anyfeeder.com/abc/cn",
-    "category": "国外",
-    "title": "澳大利亚对16岁以下人群的社媒禁令生效",
-    "link": "https://newsapp.abc.net.au/newsapp/chinese/2025-12-10/when-is-the-teen-social-media-ban-what-apps-are-banned/106123666",
-    "pub_date": "2025-12-10 07:49:02",
-    "author": null
-  },
-  {
-    "id": 168863,
-    "feed_name": "ABC 澳大利亚广播公司",
-    "feed_url": "https://plink.anyfeeder.com/abc/cn",
-    "category": "国外",
-    "title": "澳洲国防部长表示美国将在澳部署更大规模军事资产",
-    "link": "https://newsapp.abc.net.au/newsapp/chinese/2025-12-09/marles-wong-hegseth-rubio-hold-ausmin-talks-aukus-defence/106118928",
-    "pub_date": "2025-12-09 09:19:03",
     "author": null
   },
   {
