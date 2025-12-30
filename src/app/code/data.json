@@ -200,6 +200,46 @@
     "author": null
   },
   {
+    "id": 225418,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "gitroomhq/postiz-app",
+    "link": "https://github.com/gitroomhq/postiz-app",
+    "pub_date": "2025-12-30 14:23:52",
+    "author": null
+  },
+  {
+    "id": 225446,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "Stirling-Tools/Stirling-PDF",
+    "link": "https://github.com/Stirling-Tools/Stirling-PDF",
+    "pub_date": "2025-12-30 14:23:52",
+    "author": null
+  },
+  {
+    "id": 225458,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "jellyfin/jellyfin",
+    "link": "https://github.com/jellyfin/jellyfin",
+    "pub_date": "2025-12-30 14:23:52",
+    "author": null
+  },
+  {
+    "id": 225462,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "vanilla-wiiu/vanilla",
+    "link": "https://github.com/vanilla-wiiu/vanilla",
+    "pub_date": "2025-12-30 14:23:52",
+    "author": null
+  },
+  {
     "id": 222856,
     "feed_name": "github all",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
@@ -356,46 +396,6 @@
     "category": "技术",
     "title": "anthropics/skills",
     "link": "https://github.com/anthropics/skills",
-    "pub_date": "2025-12-23 14:24:20",
-    "author": null
-  },
-  {
-    "id": 206863,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "rendercv/rendercv",
-    "link": "https://github.com/rendercv/rendercv",
-    "pub_date": "2025-12-23 14:24:20",
-    "author": null
-  },
-  {
-    "id": 206902,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "tensorflow/tensorflow",
-    "link": "https://github.com/tensorflow/tensorflow",
-    "pub_date": "2025-12-23 14:24:20",
-    "author": null
-  },
-  {
-    "id": 206905,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "Semperis/EntraGoat",
-    "link": "https://github.com/Semperis/EntraGoat",
-    "pub_date": "2025-12-23 14:24:20",
-    "author": null
-  },
-  {
-    "id": 206911,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "home-assistant/core",
-    "link": "https://github.com/home-assistant/core",
     "pub_date": "2025-12-23 14:24:20",
     "author": null
   },
@@ -600,6 +600,16 @@
     "author": null
   },
   {
+    "id": 225534,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "tree-sitter/tree-sitter",
+    "link": "https://github.com/tree-sitter/tree-sitter",
+    "pub_date": "2025-12-30 14:23:52",
+    "author": null
+  },
+  {
     "id": 222985,
     "feed_name": "github rust",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
@@ -790,13 +800,13 @@
     "author": null
   },
   {
-    "id": 190415,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "id": 225510,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
     "category": "技术",
-    "title": "trailbaseio/trailbase",
-    "link": "https://github.com/trailbaseio/trailbase",
-    "pub_date": "2025-12-17 14:23:43",
+    "title": "songquanpeng/one-api",
+    "link": "https://github.com/songquanpeng/one-api",
+    "pub_date": "2025-12-30 14:23:52",
     "author": null
   },
   {
@@ -990,13 +1000,13 @@
     "author": null
   },
   {
-    "id": 179778,
-    "feed_name": "github javascript",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "id": 225522,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
     "category": "技术",
-    "title": "HabitRPG/habitica",
-    "link": "https://github.com/HabitRPG/habitica",
-    "pub_date": "2025-12-13 14:21:26",
+    "title": "FiloSottile/age",
+    "link": "https://github.com/FiloSottile/age",
+    "pub_date": "2025-12-30 14:23:52",
     "author": null
   },
   {
@@ -1186,16 +1196,6 @@
     "category": "技术",
     "title": "vllm-project/semantic-router",
     "link": "https://github.com/vllm-project/semantic-router",
-    "pub_date": "2025-12-19 14:22:54",
-    "author": null
-  },
-  {
-    "id": 196139,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "coder/coder",
-    "link": "https://github.com/coder/coder",
     "pub_date": "2025-12-19 14:22:54",
     "author": null
   },
