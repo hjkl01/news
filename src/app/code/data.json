@@ -1,5 +1,205 @@
 [
   {
+    "id": 233479,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "OpenDCAI/DataFlow",
+    "link": "https://github.com/OpenDCAI/DataFlow",
+    "pub_date": "2026-01-02 14:29:25",
+    "author": null
+  },
+  {
+    "id": 230939,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "Polymarket/agents",
+    "link": "https://github.com/Polymarket/agents",
+    "pub_date": "2026-01-01 14:24:07",
+    "author": null
+  },
+  {
+    "id": 228265,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "Polymarket/py-clob-client",
+    "link": "https://github.com/Polymarket/py-clob-client",
+    "pub_date": "2025-12-31 14:24:11",
+    "author": null
+  },
+  {
+    "id": 212223,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "pytorch/executorch",
+    "link": "https://github.com/pytorch/executorch",
+    "pub_date": "2025-12-25 14:23:59",
+    "author": null
+  },
+  {
+    "id": 204325,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "FunAudioLLM/CosyVoice",
+    "link": "https://github.com/FunAudioLLM/CosyVoice",
+    "pub_date": "2025-12-22 14:25:54",
+    "author": null
+  },
+  {
+    "id": 201535,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "google/langextract",
+    "link": "https://github.com/google/langextract",
+    "pub_date": "2025-12-21 14:22:05",
+    "author": null
+  },
+  {
+    "id": 196220,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "KurtBestor/Hitomi-Downloader",
+    "link": "https://github.com/KurtBestor/Hitomi-Downloader",
+    "pub_date": "2025-12-19 14:22:55",
+    "author": null
+  },
+  {
+    "id": 193339,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "Free-TV/IPTV",
+    "link": "https://github.com/Free-TV/IPTV",
+    "pub_date": "2025-12-18 14:24:34",
+    "author": null
+  },
+  {
+    "id": 193394,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "DevilXD/TwitchDropsMiner",
+    "link": "https://github.com/DevilXD/TwitchDropsMiner",
+    "pub_date": "2025-12-18 14:24:34",
+    "author": null
+  },
+  {
+    "id": 190572,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "OpenBMB/VoxCPM",
+    "link": "https://github.com/OpenBMB/VoxCPM",
+    "pub_date": "2025-12-17 14:23:43",
+    "author": null
+  },
+  {
+    "id": 190580,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "zhaochenyang20/Awesome-ML-SYS-Tutorial",
+    "link": "https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial",
+    "pub_date": "2025-12-17 14:23:43",
+    "author": null
+  },
+  {
+    "id": 185116,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "cheahjs/free-llm-api-resources",
+    "link": "https://github.com/cheahjs/free-llm-api-resources",
+    "pub_date": "2025-12-15 14:27:59",
+    "author": null
+  },
+  {
+    "id": 182383,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "SkyworkAI/SkyReels-V2",
+    "link": "https://github.com/SkyworkAI/SkyReels-V2",
+    "pub_date": "2025-12-14 14:21:48",
+    "author": null
+  },
+  {
+    "id": 176818,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "streamlit/streamlit",
+    "link": "https://github.com/streamlit/streamlit",
+    "pub_date": "2025-12-12 14:23:45",
+    "author": null
+  },
+  {
+    "id": 176825,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "strands-agents/sdk-python",
+    "link": "https://github.com/strands-agents/sdk-python",
+    "pub_date": "2025-12-12 14:23:45",
+    "author": null
+  },
+  {
+    "id": 176861,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "modelscope/DiffSynth-Studio",
+    "link": "https://github.com/modelscope/DiffSynth-Studio",
+    "pub_date": "2025-12-12 14:23:45",
+    "author": null
+  },
+  {
+    "id": 174179,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "vllm-project/vllm-omni",
+    "link": "https://github.com/vllm-project/vllm-omni",
+    "pub_date": "2025-12-11 14:24:43",
+    "author": null
+  },
+  {
+    "id": 174219,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "CVHub520/X-AnyLabeling",
+    "link": "https://github.com/CVHub520/X-AnyLabeling",
+    "pub_date": "2025-12-11 14:24:43",
+    "author": null
+  },
+  {
+    "id": 171515,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "gboeing/osmnx",
+    "link": "https://github.com/gboeing/osmnx",
+    "pub_date": "2025-12-10 14:23:43",
+    "author": null
+  },
+  {
+    "id": 166444,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "BlackTechX011/Hacx-GPT",
+    "link": "https://github.com/BlackTechX011/Hacx-GPT",
+    "pub_date": "2025-12-08 14:25:20",
+    "author": null
+  },
+  {
     "id": 233588,
     "feed_name": "github all",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
@@ -1027,206 +1227,6 @@
     "title": "alvr-org/ALVR",
     "link": "https://github.com/alvr-org/ALVR",
     "pub_date": "2025-12-20 14:22:32",
-    "author": null
-  },
-  {
-    "id": 233479,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-    "category": "技术",
-    "title": "OpenDCAI/DataFlow",
-    "link": "https://github.com/OpenDCAI/DataFlow",
-    "pub_date": "2026-01-02 14:29:25",
-    "author": null
-  },
-  {
-    "id": 230939,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-    "category": "技术",
-    "title": "Polymarket/agents",
-    "link": "https://github.com/Polymarket/agents",
-    "pub_date": "2026-01-01 14:24:07",
-    "author": null
-  },
-  {
-    "id": 228265,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-    "category": "技术",
-    "title": "Polymarket/py-clob-client",
-    "link": "https://github.com/Polymarket/py-clob-client",
-    "pub_date": "2025-12-31 14:24:11",
-    "author": null
-  },
-  {
-    "id": 212223,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-    "category": "技术",
-    "title": "pytorch/executorch",
-    "link": "https://github.com/pytorch/executorch",
-    "pub_date": "2025-12-25 14:23:59",
-    "author": null
-  },
-  {
-    "id": 204325,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-    "category": "技术",
-    "title": "FunAudioLLM/CosyVoice",
-    "link": "https://github.com/FunAudioLLM/CosyVoice",
-    "pub_date": "2025-12-22 14:25:54",
-    "author": null
-  },
-  {
-    "id": 201535,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-    "category": "技术",
-    "title": "google/langextract",
-    "link": "https://github.com/google/langextract",
-    "pub_date": "2025-12-21 14:22:05",
-    "author": null
-  },
-  {
-    "id": 196220,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-    "category": "技术",
-    "title": "KurtBestor/Hitomi-Downloader",
-    "link": "https://github.com/KurtBestor/Hitomi-Downloader",
-    "pub_date": "2025-12-19 14:22:55",
-    "author": null
-  },
-  {
-    "id": 193339,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-    "category": "技术",
-    "title": "Free-TV/IPTV",
-    "link": "https://github.com/Free-TV/IPTV",
-    "pub_date": "2025-12-18 14:24:34",
-    "author": null
-  },
-  {
-    "id": 193394,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-    "category": "技术",
-    "title": "DevilXD/TwitchDropsMiner",
-    "link": "https://github.com/DevilXD/TwitchDropsMiner",
-    "pub_date": "2025-12-18 14:24:34",
-    "author": null
-  },
-  {
-    "id": 190572,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-    "category": "技术",
-    "title": "OpenBMB/VoxCPM",
-    "link": "https://github.com/OpenBMB/VoxCPM",
-    "pub_date": "2025-12-17 14:23:43",
-    "author": null
-  },
-  {
-    "id": 190580,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-    "category": "技术",
-    "title": "zhaochenyang20/Awesome-ML-SYS-Tutorial",
-    "link": "https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial",
-    "pub_date": "2025-12-17 14:23:43",
-    "author": null
-  },
-  {
-    "id": 185116,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-    "category": "技术",
-    "title": "cheahjs/free-llm-api-resources",
-    "link": "https://github.com/cheahjs/free-llm-api-resources",
-    "pub_date": "2025-12-15 14:27:59",
-    "author": null
-  },
-  {
-    "id": 182383,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-    "category": "技术",
-    "title": "SkyworkAI/SkyReels-V2",
-    "link": "https://github.com/SkyworkAI/SkyReels-V2",
-    "pub_date": "2025-12-14 14:21:48",
-    "author": null
-  },
-  {
-    "id": 176818,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-    "category": "技术",
-    "title": "streamlit/streamlit",
-    "link": "https://github.com/streamlit/streamlit",
-    "pub_date": "2025-12-12 14:23:45",
-    "author": null
-  },
-  {
-    "id": 176825,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-    "category": "技术",
-    "title": "strands-agents/sdk-python",
-    "link": "https://github.com/strands-agents/sdk-python",
-    "pub_date": "2025-12-12 14:23:45",
-    "author": null
-  },
-  {
-    "id": 176861,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-    "category": "技术",
-    "title": "modelscope/DiffSynth-Studio",
-    "link": "https://github.com/modelscope/DiffSynth-Studio",
-    "pub_date": "2025-12-12 14:23:45",
-    "author": null
-  },
-  {
-    "id": 174179,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-    "category": "技术",
-    "title": "vllm-project/vllm-omni",
-    "link": "https://github.com/vllm-project/vllm-omni",
-    "pub_date": "2025-12-11 14:24:43",
-    "author": null
-  },
-  {
-    "id": 174219,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-    "category": "技术",
-    "title": "CVHub520/X-AnyLabeling",
-    "link": "https://github.com/CVHub520/X-AnyLabeling",
-    "pub_date": "2025-12-11 14:24:43",
-    "author": null
-  },
-  {
-    "id": 171515,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-    "category": "技术",
-    "title": "gboeing/osmnx",
-    "link": "https://github.com/gboeing/osmnx",
-    "pub_date": "2025-12-10 14:23:43",
-    "author": null
-  },
-  {
-    "id": 166444,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-    "category": "技术",
-    "title": "BlackTechX011/Hacx-GPT",
-    "link": "https://github.com/BlackTechX011/Hacx-GPT",
-    "pub_date": "2025-12-08 14:25:20",
     "author": null
   }
 ]
