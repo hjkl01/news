@@ -1,5 +1,15 @@
 [
   {
+    "id": 244233,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "sherlock-project/sherlock",
+    "link": "https://github.com/sherlock-project/sherlock",
+    "pub_date": "2026-01-06 14:24:26",
+    "author": null
+  },
+  {
     "id": 241463,
     "feed_name": "github python",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
@@ -190,13 +200,13 @@
     "author": null
   },
   {
-    "id": 174219,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "id": 244124,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
     "category": "技术",
-    "title": "CVHub520/X-AnyLabeling",
-    "link": "https://github.com/CVHub520/X-AnyLabeling",
-    "pub_date": "2025-12-11 14:24:43",
+    "title": "viarotel-org/escrcpy",
+    "link": "https://github.com/viarotel-org/escrcpy",
+    "pub_date": "2026-01-06 14:24:26",
     "author": null
   },
   {
@@ -390,13 +400,33 @@
     "author": null
   },
   {
-    "id": 206861,
-    "feed_name": "github javascript",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "id": 244447,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
     "category": "技术",
-    "title": "lovell/sharp",
-    "link": "https://github.com/lovell/sharp",
-    "pub_date": "2025-12-23 14:24:20",
+    "title": "AlistGo/alist",
+    "link": "https://github.com/AlistGo/alist",
+    "pub_date": "2026-01-06 14:24:26",
+    "author": null
+  },
+  {
+    "id": 244461,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "v2fly/v2ray-core",
+    "link": "https://github.com/v2fly/v2ray-core",
+    "pub_date": "2026-01-06 14:24:26",
+    "author": null
+  },
+  {
+    "id": 244475,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "TwiN/gatus",
+    "link": "https://github.com/TwiN/gatus",
+    "pub_date": "2026-01-06 14:24:26",
     "author": null
   },
   {
@@ -570,36 +600,6 @@
     "author": null
   },
   {
-    "id": 212430,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "bluenviron/mediamtx",
-    "link": "https://github.com/bluenviron/mediamtx",
-    "pub_date": "2025-12-25 14:23:59",
-    "author": null
-  },
-  {
-    "id": 212450,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "qdm12/gluetun",
-    "link": "https://github.com/qdm12/gluetun",
-    "pub_date": "2025-12-25 14:23:59",
-    "author": null
-  },
-  {
-    "id": 212490,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "open-telemetry/opentelemetry-go",
-    "link": "https://github.com/open-telemetry/opentelemetry-go",
-    "pub_date": "2025-12-25 14:23:59",
-    "author": null
-  },
-  {
     "id": 215886,
     "feed_name": "HelloGitHub 月刊",
     "feed_url": "http://hellogithub.com/rss",
@@ -627,6 +627,16 @@
     "title": "HelloGitHub 第 115 期",
     "link": "https://hellogithub.com/periodical/volume/115",
     "pub_date": "2025-10-28 08:04:46",
+    "author": null
+  },
+  {
+    "id": 244140,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "3b1b/manim",
+    "link": "https://github.com/3b1b/manim",
+    "pub_date": "2026-01-06 14:24:26",
     "author": null
   },
   {
@@ -820,13 +830,13 @@
     "author": null
   },
   {
-    "id": 228180,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "id": 244304,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
     "category": "技术",
-    "title": "jrouwe/JoltPhysics",
-    "link": "https://github.com/jrouwe/JoltPhysics",
-    "pub_date": "2025-12-31 14:24:11",
+    "title": "public-transport/transitous",
+    "link": "https://github.com/public-transport/transitous",
+    "pub_date": "2026-01-06 14:24:26",
     "author": null
   },
   {
@@ -1017,16 +1027,6 @@
     "title": "ravitemer/mcphub.nvim",
     "link": "https://github.com/ravitemer/mcphub.nvim",
     "pub_date": "2025-12-18 14:24:34",
-    "author": null
-  },
-  {
-    "id": 190651,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "AvarianKnight/pma-voice",
-    "link": "https://github.com/AvarianKnight/pma-voice",
-    "pub_date": "2025-12-17 14:23:43",
     "author": null
   },
   {
