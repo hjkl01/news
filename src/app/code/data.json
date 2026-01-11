@@ -1,5 +1,25 @@
 [
   {
+    "id": 257716,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "EveryInc/compound-engineering-plugin",
+    "link": "https://github.com/EveryInc/compound-engineering-plugin",
+    "pub_date": "2026-01-11 14:23:07",
+    "author": null
+  },
+  {
+    "id": 257750,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "Significant-Gravitas/AutoGPT",
+    "link": "https://github.com/Significant-Gravitas/AutoGPT",
+    "pub_date": "2026-01-11 14:23:07",
+    "author": null
+  },
+  {
     "id": 255073,
     "feed_name": "github python",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
@@ -180,23 +200,23 @@
     "author": null
   },
   {
-    "id": 196220,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "id": 257656,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
     "category": "技术",
-    "title": "KurtBestor/Hitomi-Downloader",
-    "link": "https://github.com/KurtBestor/Hitomi-Downloader",
-    "pub_date": "2025-12-19 14:22:55",
+    "title": "opf/openproject",
+    "link": "https://github.com/opf/openproject",
+    "pub_date": "2026-01-11 14:23:07",
     "author": null
   },
   {
-    "id": 193339,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "id": 257688,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
     "category": "技术",
-    "title": "Free-TV/IPTV",
-    "link": "https://github.com/Free-TV/IPTV",
-    "pub_date": "2025-12-18 14:24:34",
+    "title": "twentyhq/twenty",
+    "link": "https://github.com/twentyhq/twenty",
+    "pub_date": "2026-01-11 14:23:07",
     "author": null
   },
   {
@@ -377,26 +397,6 @@
     "title": "Lissy93/web-check",
     "link": "https://github.com/Lissy93/web-check",
     "pub_date": "2026-01-07 14:24:58",
-    "author": null
-  },
-  {
-    "id": 244140,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "3b1b/manim",
-    "link": "https://github.com/3b1b/manim",
-    "pub_date": "2026-01-06 14:24:26",
-    "author": null
-  },
-  {
-    "id": 241442,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "5rahim/seanime",
-    "link": "https://github.com/5rahim/seanime",
-    "pub_date": "2026-01-05 14:29:31",
     "author": null
   },
   {
@@ -800,6 +800,16 @@
     "author": null
   },
   {
+    "id": 258110,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "category": "技术",
+    "title": "mickael-kerjean/filestash",
+    "link": "https://github.com/mickael-kerjean/filestash",
+    "pub_date": "2026-01-11 14:23:07",
+    "author": null
+  },
+  {
     "id": 255161,
     "feed_name": "github javascript",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
@@ -990,13 +1000,13 @@
     "author": null
   },
   {
-    "id": 220270,
-    "feed_name": "github javascript",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "id": 258027,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
     "category": "技术",
-    "title": "maboloshi/github-chinese",
-    "link": "https://github.com/maboloshi/github-chinese",
-    "pub_date": "2025-12-28 14:22:38",
+    "title": "Project-HAMi/HAMi",
+    "link": "https://github.com/Project-HAMi/HAMi",
+    "pub_date": "2026-01-11 14:23:07",
     "author": null
   },
   {
@@ -1187,16 +1197,6 @@
     "title": "syncthing/syncthing",
     "link": "https://github.com/syncthing/syncthing",
     "pub_date": "2026-01-02 14:29:25",
-    "author": null
-  },
-  {
-    "id": 228361,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "looplj/axonhub",
-    "link": "https://github.com/looplj/axonhub",
-    "pub_date": "2025-12-31 14:24:11",
     "author": null
   },
   {
