@@ -1,5 +1,15 @@
 [
   {
+    "id": 266930,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "dani-garcia/vaultwarden",
+    "link": "https://github.com/dani-garcia/vaultwarden",
+    "pub_date": "2026-01-15 07:16:10",
+    "author": null
+  },
+  {
     "id": 265680,
     "feed_name": "github rust",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
@@ -190,13 +200,23 @@
     "author": null
   },
   {
-    "id": 217621,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "id": 267150,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
     "category": "技术",
-    "title": "eclipse-iceoryx/iceoryx2",
-    "link": "https://github.com/eclipse-iceoryx/iceoryx2",
-    "pub_date": "2025-12-27 14:22:36",
+    "title": "neovim/nvim-lspconfig",
+    "link": "https://github.com/neovim/nvim-lspconfig",
+    "pub_date": "2026-01-15 07:16:10",
+    "author": null
+  },
+  {
+    "id": 267178,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "coder/claudecode.nvim",
+    "link": "https://github.com/coder/claudecode.nvim",
+    "pub_date": "2026-01-15 07:16:10",
     "author": null
   },
   {
@@ -377,26 +397,6 @@
     "title": "Footagesus/WindUI",
     "link": "https://github.com/Footagesus/WindUI",
     "pub_date": "2026-01-01 14:24:07",
-    "author": null
-  },
-  {
-    "id": 228364,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "Mintimate/oh-my-rime",
-    "link": "https://github.com/Mintimate/oh-my-rime",
-    "pub_date": "2025-12-31 14:24:11",
-    "author": null
-  },
-  {
-    "id": 228372,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "chomosuke/typst-preview.nvim",
-    "link": "https://github.com/chomosuke/typst-preview.nvim",
-    "pub_date": "2025-12-31 14:24:11",
     "author": null
   },
   {
@@ -830,6 +830,16 @@
     "author": null
   },
   {
+    "id": 267027,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "junegunn/fzf",
+    "link": "https://github.com/junegunn/fzf",
+    "pub_date": "2026-01-15 07:16:10",
+    "author": null
+  },
+  {
     "id": 265709,
     "feed_name": "github go",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
@@ -1016,16 +1026,6 @@
     "category": "技术",
     "title": "maximhq/bifrost",
     "link": "https://github.com/maximhq/bifrost",
-    "pub_date": "2026-01-07 14:24:58",
-    "author": null
-  },
-  {
-    "id": 247221,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "cadence-workflow/cadence",
-    "link": "https://github.com/cadence-workflow/cadence",
     "pub_date": "2026-01-07 14:24:58",
     "author": null
   },
