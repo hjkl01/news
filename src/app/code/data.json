@@ -200,6 +200,16 @@
     "author": null
   },
   {
+    "id": 269633,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "EFForg/rayhunter",
+    "link": "https://github.com/EFForg/rayhunter",
+    "pub_date": "2026-01-16 07:17:58",
+    "author": null
+  },
+  {
     "id": 268335,
     "feed_name": "github rust",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
@@ -387,16 +397,6 @@
     "title": "tree-sitter/tree-sitter",
     "link": "https://github.com/tree-sitter/tree-sitter",
     "pub_date": "2025-12-30 14:23:52",
-    "author": null
-  },
-  {
-    "id": 222985,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "gfx-rs/wgpu",
-    "link": "https://github.com/gfx-rs/wgpu",
-    "pub_date": "2025-12-29 14:26:24",
     "author": null
   },
   {
@@ -800,6 +800,16 @@
     "author": null
   },
   {
+    "id": 269829,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "CopilotC-Nvim/CopilotChat.nvim",
+    "link": "https://github.com/CopilotC-Nvim/CopilotChat.nvim",
+    "pub_date": "2026-01-16 07:17:58",
+    "author": null
+  },
+  {
     "id": 268434,
     "feed_name": "github lua",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
@@ -987,16 +997,6 @@
     "title": "ThePrimeagen/init.lua",
     "link": "https://github.com/ThePrimeagen/init.lua",
     "pub_date": "2026-01-05 14:29:31",
-    "author": null
-  },
-  {
-    "id": 239024,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "LunarVim/LunarVim",
-    "link": "https://github.com/LunarVim/LunarVim",
-    "pub_date": "2026-01-04 14:23:00",
     "author": null
   },
   {
