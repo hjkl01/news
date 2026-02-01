@@ -200,6 +200,436 @@
     "author": null
   },
   {
+    "id": 313339,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "tokio-rs/tokio",
+    "link": "https://github.com/tokio-rs/tokio",
+    "pub_date": "2026-02-01 14:41:45",
+    "author": null
+  },
+  {
+    "id": 313386,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "tracel-ai/burn",
+    "link": "https://github.com/tracel-ai/burn",
+    "pub_date": "2026-02-01 14:41:45",
+    "author": null
+  },
+  {
+    "id": 313391,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "aptos-labs/aptos-core",
+    "link": "https://github.com/aptos-labs/aptos-core",
+    "pub_date": "2026-02-01 14:41:45",
+    "author": null
+  },
+  {
+    "id": 313406,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "pola-rs/polars",
+    "link": "https://github.com/pola-rs/polars",
+    "pub_date": "2026-02-01 14:41:45",
+    "author": null
+  },
+  {
+    "id": 313421,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "EricLBuehler/mistral.rs",
+    "link": "https://github.com/EricLBuehler/mistral.rs",
+    "pub_date": "2026-02-01 14:41:45",
+    "author": null
+  },
+  {
+    "id": 308065,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "signalapp/libsignal",
+    "link": "https://github.com/signalapp/libsignal",
+    "pub_date": "2026-01-30 14:39:29",
+    "author": null
+  },
+  {
+    "id": 308083,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "Moulberry/PandoraLauncher",
+    "link": "https://github.com/Moulberry/PandoraLauncher",
+    "pub_date": "2026-01-30 14:39:29",
+    "author": null
+  },
+  {
+    "id": 308135,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "ilya-zlobintsev/LACT",
+    "link": "https://github.com/ilya-zlobintsev/LACT",
+    "pub_date": "2026-01-30 14:39:29",
+    "author": null
+  },
+  {
+    "id": 308145,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "Zackriya-Solutions/meeting-minutes",
+    "link": "https://github.com/Zackriya-Solutions/meeting-minutes",
+    "pub_date": "2026-01-30 14:39:29",
+    "author": null
+  },
+  {
+    "id": 308165,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "casey/just",
+    "link": "https://github.com/casey/just",
+    "pub_date": "2026-01-30 14:39:29",
+    "author": null
+  },
+  {
+    "id": 306273,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "servo/servo",
+    "link": "https://github.com/servo/servo",
+    "pub_date": "2026-01-29 14:38:21",
+    "author": null
+  },
+  {
+    "id": 306286,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "skim-rs/skim",
+    "link": "https://github.com/skim-rs/skim",
+    "pub_date": "2026-01-29 14:38:21",
+    "author": null
+  },
+  {
+    "id": 306292,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "tokio-rs/tracing",
+    "link": "https://github.com/tokio-rs/tracing",
+    "pub_date": "2026-01-29 14:38:21",
+    "author": null
+  },
+  {
+    "id": 304763,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "block/goose",
+    "link": "https://github.com/block/goose",
+    "pub_date": "2026-01-29 07:23:51",
+    "author": null
+  },
+  {
+    "id": 300762,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "storytold/artcraft",
+    "link": "https://github.com/storytold/artcraft",
+    "pub_date": "2026-01-27 14:26:17",
+    "author": null
+  },
+  {
+    "id": 300790,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "git-ai-project/git-ai",
+    "link": "https://github.com/git-ai-project/git-ai",
+    "pub_date": "2026-01-27 14:26:17",
+    "author": null
+  },
+  {
+    "id": 300846,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "tursodatabase/turso",
+    "link": "https://github.com/tursodatabase/turso",
+    "pub_date": "2026-01-27 14:26:17",
+    "author": null
+  },
+  {
+    "id": 298131,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "khcrysalis/Impactor",
+    "link": "https://github.com/khcrysalis/Impactor",
+    "pub_date": "2026-01-26 14:28:44",
+    "author": null
+  },
+  {
+    "id": 295314,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "davidlattimore/wild",
+    "link": "https://github.com/davidlattimore/wild",
+    "pub_date": "2026-01-25 14:23:22",
+    "author": null
+  },
+  {
+    "id": 295331,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "meilisearch/meilisearch",
+    "link": "https://github.com/meilisearch/meilisearch",
+    "pub_date": "2026-01-25 14:23:22",
+    "author": null
+  },
+  {
+    "id": 313311,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "category": "技术",
+    "title": "WhiskeySockets/Baileys",
+    "link": "https://github.com/WhiskeySockets/Baileys",
+    "pub_date": "2026-02-01 14:41:45",
+    "author": null
+  },
+  {
+    "id": 313329,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "category": "技术",
+    "title": "swagger-api/swagger-ui",
+    "link": "https://github.com/swagger-api/swagger-ui",
+    "pub_date": "2026-02-01 14:41:45",
+    "author": null
+  },
+  {
+    "id": 313335,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "category": "技术",
+    "title": "sveltejs/svelte",
+    "link": "https://github.com/sveltejs/svelte",
+    "pub_date": "2026-02-01 14:41:45",
+    "author": null
+  },
+  {
+    "id": 308035,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "category": "技术",
+    "title": "clusterzx/paperless-ai",
+    "link": "https://github.com/clusterzx/paperless-ai",
+    "pub_date": "2026-01-30 14:39:29",
+    "author": null
+  },
+  {
+    "id": 306189,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "category": "技术",
+    "title": "npm/cli",
+    "link": "https://github.com/npm/cli",
+    "pub_date": "2026-01-29 14:38:21",
+    "author": null
+  },
+  {
+    "id": 306210,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "category": "技术",
+    "title": "quasarframework/quasar",
+    "link": "https://github.com/quasarframework/quasar",
+    "pub_date": "2026-01-29 14:38:21",
+    "author": null
+  },
+  {
+    "id": 302042,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "category": "技术",
+    "title": "qeeqbox/social-analyzer",
+    "link": "https://github.com/qeeqbox/social-analyzer",
+    "pub_date": "2026-01-28 07:19:07",
+    "author": null
+  },
+  {
+    "id": 298082,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "category": "技术",
+    "title": "Coding-Solo/godot-mcp",
+    "link": "https://github.com/Coding-Solo/godot-mcp",
+    "pub_date": "2026-01-26 14:28:44",
+    "author": null
+  },
+  {
+    "id": 298088,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "category": "技术",
+    "title": "fleetbase/fleetbase",
+    "link": "https://github.com/fleetbase/fleetbase",
+    "pub_date": "2026-01-26 14:28:44",
+    "author": null
+  },
+  {
+    "id": 298112,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "category": "技术",
+    "title": "preactjs/preact",
+    "link": "https://github.com/preactjs/preact",
+    "pub_date": "2026-01-26 14:28:44",
+    "author": null
+  },
+  {
+    "id": 292600,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "category": "技术",
+    "title": "kagisearch/smallweb",
+    "link": "https://github.com/kagisearch/smallweb",
+    "pub_date": "2026-01-24 14:22:57",
+    "author": null
+  },
+  {
+    "id": 292608,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "category": "技术",
+    "title": "sveltejs/kit",
+    "link": "https://github.com/sveltejs/kit",
+    "pub_date": "2026-01-24 14:22:57",
+    "author": null
+  },
+  {
+    "id": 292612,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "category": "技术",
+    "title": "serverless/serverless",
+    "link": "https://github.com/serverless/serverless",
+    "pub_date": "2026-01-24 14:22:57",
+    "author": null
+  },
+  {
+    "id": 288425,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "category": "技术",
+    "title": "jquery/jquery",
+    "link": "https://github.com/jquery/jquery",
+    "pub_date": "2026-01-23 07:18:16",
+    "author": null
+  },
+  {
+    "id": 287270,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "category": "技术",
+    "title": "pedroslopez/whatsapp-web.js",
+    "link": "https://github.com/pedroslopez/whatsapp-web.js",
+    "pub_date": "2026-01-22 14:26:31",
+    "author": null
+  },
+  {
+    "id": 284421,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "category": "技术",
+    "title": "liyupi/ai-guide",
+    "link": "https://github.com/liyupi/ai-guide",
+    "pub_date": "2026-01-21 14:27:26",
+    "author": null
+  },
+  {
+    "id": 279174,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "category": "技术",
+    "title": "TryGhost/Ghost",
+    "link": "https://github.com/TryGhost/Ghost",
+    "pub_date": "2026-01-19 14:29:49",
+    "author": null
+  },
+  {
+    "id": 279187,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "category": "技术",
+    "title": "Leaflet/Leaflet",
+    "link": "https://github.com/Leaflet/Leaflet",
+    "pub_date": "2026-01-19 14:29:49",
+    "author": null
+  },
+  {
+    "id": 276409,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "category": "技术",
+    "title": "anomalyco/opencode-anthropic-auth",
+    "link": "https://github.com/anomalyco/opencode-anthropic-auth",
+    "pub_date": "2026-01-18 14:22:52",
+    "author": null
+  },
+  {
+    "id": 276419,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "category": "技术",
+    "title": "eslint/eslint",
+    "link": "https://github.com/eslint/eslint",
+    "pub_date": "2026-01-18 14:22:52",
+    "author": null
+  },
+  {
+    "id": 304371,
+    "feed_name": "HelloGitHub 月刊",
+    "feed_url": "http://hellogithub.com/rss",
+    "category": "技术",
+    "title": "HelloGitHub 第 118 期",
+    "link": "https://hellogithub.com/periodical/volume/118",
+    "pub_date": "2026-01-28 08:10:57",
+    "author": null
+  },
+  {
+    "id": 215886,
+    "feed_name": "HelloGitHub 月刊",
+    "feed_url": "http://hellogithub.com/rss",
+    "category": "技术",
+    "title": "HelloGitHub 第 117 期",
+    "link": "https://hellogithub.com/periodical/volume/117",
+    "pub_date": "2025-12-26 08:03:43",
+    "author": null
+  },
+  {
+    "id": 139476,
+    "feed_name": "HelloGitHub 月刊",
+    "feed_url": "http://hellogithub.com/rss",
+    "category": "技术",
+    "title": "HelloGitHub 第 116 期",
+    "link": "https://hellogithub.com/periodical/volume/116",
+    "pub_date": "2025-11-28 08:02:57",
+    "author": null
+  },
+  {
     "id": 313444,
     "feed_name": "github lua",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
@@ -797,436 +1227,6 @@
     "title": "putyy/res-downloader",
     "link": "https://github.com/putyy/res-downloader",
     "pub_date": "2026-01-25 07:17:05",
-    "author": null
-  },
-  {
-    "id": 313339,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "tokio-rs/tokio",
-    "link": "https://github.com/tokio-rs/tokio",
-    "pub_date": "2026-02-01 14:41:45",
-    "author": null
-  },
-  {
-    "id": 313386,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "tracel-ai/burn",
-    "link": "https://github.com/tracel-ai/burn",
-    "pub_date": "2026-02-01 14:41:45",
-    "author": null
-  },
-  {
-    "id": 313391,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "aptos-labs/aptos-core",
-    "link": "https://github.com/aptos-labs/aptos-core",
-    "pub_date": "2026-02-01 14:41:45",
-    "author": null
-  },
-  {
-    "id": 313406,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "pola-rs/polars",
-    "link": "https://github.com/pola-rs/polars",
-    "pub_date": "2026-02-01 14:41:45",
-    "author": null
-  },
-  {
-    "id": 313421,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "EricLBuehler/mistral.rs",
-    "link": "https://github.com/EricLBuehler/mistral.rs",
-    "pub_date": "2026-02-01 14:41:45",
-    "author": null
-  },
-  {
-    "id": 308065,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "signalapp/libsignal",
-    "link": "https://github.com/signalapp/libsignal",
-    "pub_date": "2026-01-30 14:39:29",
-    "author": null
-  },
-  {
-    "id": 308083,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "Moulberry/PandoraLauncher",
-    "link": "https://github.com/Moulberry/PandoraLauncher",
-    "pub_date": "2026-01-30 14:39:29",
-    "author": null
-  },
-  {
-    "id": 308135,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "ilya-zlobintsev/LACT",
-    "link": "https://github.com/ilya-zlobintsev/LACT",
-    "pub_date": "2026-01-30 14:39:29",
-    "author": null
-  },
-  {
-    "id": 308145,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "Zackriya-Solutions/meeting-minutes",
-    "link": "https://github.com/Zackriya-Solutions/meeting-minutes",
-    "pub_date": "2026-01-30 14:39:29",
-    "author": null
-  },
-  {
-    "id": 308165,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "casey/just",
-    "link": "https://github.com/casey/just",
-    "pub_date": "2026-01-30 14:39:29",
-    "author": null
-  },
-  {
-    "id": 306273,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "servo/servo",
-    "link": "https://github.com/servo/servo",
-    "pub_date": "2026-01-29 14:38:21",
-    "author": null
-  },
-  {
-    "id": 306286,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "skim-rs/skim",
-    "link": "https://github.com/skim-rs/skim",
-    "pub_date": "2026-01-29 14:38:21",
-    "author": null
-  },
-  {
-    "id": 306292,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "tokio-rs/tracing",
-    "link": "https://github.com/tokio-rs/tracing",
-    "pub_date": "2026-01-29 14:38:21",
-    "author": null
-  },
-  {
-    "id": 304763,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "block/goose",
-    "link": "https://github.com/block/goose",
-    "pub_date": "2026-01-29 07:23:51",
-    "author": null
-  },
-  {
-    "id": 300762,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "storytold/artcraft",
-    "link": "https://github.com/storytold/artcraft",
-    "pub_date": "2026-01-27 14:26:17",
-    "author": null
-  },
-  {
-    "id": 300790,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "git-ai-project/git-ai",
-    "link": "https://github.com/git-ai-project/git-ai",
-    "pub_date": "2026-01-27 14:26:17",
-    "author": null
-  },
-  {
-    "id": 300846,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "tursodatabase/turso",
-    "link": "https://github.com/tursodatabase/turso",
-    "pub_date": "2026-01-27 14:26:17",
-    "author": null
-  },
-  {
-    "id": 298131,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "khcrysalis/Impactor",
-    "link": "https://github.com/khcrysalis/Impactor",
-    "pub_date": "2026-01-26 14:28:44",
-    "author": null
-  },
-  {
-    "id": 295314,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "davidlattimore/wild",
-    "link": "https://github.com/davidlattimore/wild",
-    "pub_date": "2026-01-25 14:23:22",
-    "author": null
-  },
-  {
-    "id": 295331,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "meilisearch/meilisearch",
-    "link": "https://github.com/meilisearch/meilisearch",
-    "pub_date": "2026-01-25 14:23:22",
-    "author": null
-  },
-  {
-    "id": 313311,
-    "feed_name": "github javascript",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
-    "category": "技术",
-    "title": "WhiskeySockets/Baileys",
-    "link": "https://github.com/WhiskeySockets/Baileys",
-    "pub_date": "2026-02-01 14:41:45",
-    "author": null
-  },
-  {
-    "id": 313329,
-    "feed_name": "github javascript",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
-    "category": "技术",
-    "title": "swagger-api/swagger-ui",
-    "link": "https://github.com/swagger-api/swagger-ui",
-    "pub_date": "2026-02-01 14:41:45",
-    "author": null
-  },
-  {
-    "id": 313335,
-    "feed_name": "github javascript",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
-    "category": "技术",
-    "title": "sveltejs/svelte",
-    "link": "https://github.com/sveltejs/svelte",
-    "pub_date": "2026-02-01 14:41:45",
-    "author": null
-  },
-  {
-    "id": 308035,
-    "feed_name": "github javascript",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
-    "category": "技术",
-    "title": "clusterzx/paperless-ai",
-    "link": "https://github.com/clusterzx/paperless-ai",
-    "pub_date": "2026-01-30 14:39:29",
-    "author": null
-  },
-  {
-    "id": 306189,
-    "feed_name": "github javascript",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
-    "category": "技术",
-    "title": "npm/cli",
-    "link": "https://github.com/npm/cli",
-    "pub_date": "2026-01-29 14:38:21",
-    "author": null
-  },
-  {
-    "id": 306210,
-    "feed_name": "github javascript",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
-    "category": "技术",
-    "title": "quasarframework/quasar",
-    "link": "https://github.com/quasarframework/quasar",
-    "pub_date": "2026-01-29 14:38:21",
-    "author": null
-  },
-  {
-    "id": 302042,
-    "feed_name": "github javascript",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
-    "category": "技术",
-    "title": "qeeqbox/social-analyzer",
-    "link": "https://github.com/qeeqbox/social-analyzer",
-    "pub_date": "2026-01-28 07:19:07",
-    "author": null
-  },
-  {
-    "id": 298082,
-    "feed_name": "github javascript",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
-    "category": "技术",
-    "title": "Coding-Solo/godot-mcp",
-    "link": "https://github.com/Coding-Solo/godot-mcp",
-    "pub_date": "2026-01-26 14:28:44",
-    "author": null
-  },
-  {
-    "id": 298088,
-    "feed_name": "github javascript",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
-    "category": "技术",
-    "title": "fleetbase/fleetbase",
-    "link": "https://github.com/fleetbase/fleetbase",
-    "pub_date": "2026-01-26 14:28:44",
-    "author": null
-  },
-  {
-    "id": 298112,
-    "feed_name": "github javascript",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
-    "category": "技术",
-    "title": "preactjs/preact",
-    "link": "https://github.com/preactjs/preact",
-    "pub_date": "2026-01-26 14:28:44",
-    "author": null
-  },
-  {
-    "id": 292600,
-    "feed_name": "github javascript",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
-    "category": "技术",
-    "title": "kagisearch/smallweb",
-    "link": "https://github.com/kagisearch/smallweb",
-    "pub_date": "2026-01-24 14:22:57",
-    "author": null
-  },
-  {
-    "id": 292608,
-    "feed_name": "github javascript",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
-    "category": "技术",
-    "title": "sveltejs/kit",
-    "link": "https://github.com/sveltejs/kit",
-    "pub_date": "2026-01-24 14:22:57",
-    "author": null
-  },
-  {
-    "id": 292612,
-    "feed_name": "github javascript",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
-    "category": "技术",
-    "title": "serverless/serverless",
-    "link": "https://github.com/serverless/serverless",
-    "pub_date": "2026-01-24 14:22:57",
-    "author": null
-  },
-  {
-    "id": 288425,
-    "feed_name": "github javascript",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
-    "category": "技术",
-    "title": "jquery/jquery",
-    "link": "https://github.com/jquery/jquery",
-    "pub_date": "2026-01-23 07:18:16",
-    "author": null
-  },
-  {
-    "id": 287270,
-    "feed_name": "github javascript",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
-    "category": "技术",
-    "title": "pedroslopez/whatsapp-web.js",
-    "link": "https://github.com/pedroslopez/whatsapp-web.js",
-    "pub_date": "2026-01-22 14:26:31",
-    "author": null
-  },
-  {
-    "id": 284421,
-    "feed_name": "github javascript",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
-    "category": "技术",
-    "title": "liyupi/ai-guide",
-    "link": "https://github.com/liyupi/ai-guide",
-    "pub_date": "2026-01-21 14:27:26",
-    "author": null
-  },
-  {
-    "id": 279174,
-    "feed_name": "github javascript",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
-    "category": "技术",
-    "title": "TryGhost/Ghost",
-    "link": "https://github.com/TryGhost/Ghost",
-    "pub_date": "2026-01-19 14:29:49",
-    "author": null
-  },
-  {
-    "id": 279187,
-    "feed_name": "github javascript",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
-    "category": "技术",
-    "title": "Leaflet/Leaflet",
-    "link": "https://github.com/Leaflet/Leaflet",
-    "pub_date": "2026-01-19 14:29:49",
-    "author": null
-  },
-  {
-    "id": 276409,
-    "feed_name": "github javascript",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
-    "category": "技术",
-    "title": "anomalyco/opencode-anthropic-auth",
-    "link": "https://github.com/anomalyco/opencode-anthropic-auth",
-    "pub_date": "2026-01-18 14:22:52",
-    "author": null
-  },
-  {
-    "id": 276419,
-    "feed_name": "github javascript",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
-    "category": "技术",
-    "title": "eslint/eslint",
-    "link": "https://github.com/eslint/eslint",
-    "pub_date": "2026-01-18 14:22:52",
-    "author": null
-  },
-  {
-    "id": 304371,
-    "feed_name": "HelloGitHub 月刊",
-    "feed_url": "http://hellogithub.com/rss",
-    "category": "技术",
-    "title": "HelloGitHub 第 118 期",
-    "link": "https://hellogithub.com/periodical/volume/118",
-    "pub_date": "2026-01-28 08:10:57",
-    "author": null
-  },
-  {
-    "id": 215886,
-    "feed_name": "HelloGitHub 月刊",
-    "feed_url": "http://hellogithub.com/rss",
-    "category": "技术",
-    "title": "HelloGitHub 第 117 期",
-    "link": "https://hellogithub.com/periodical/volume/117",
-    "pub_date": "2025-12-26 08:03:43",
-    "author": null
-  },
-  {
-    "id": 139476,
-    "feed_name": "HelloGitHub 月刊",
-    "feed_url": "http://hellogithub.com/rss",
-    "category": "技术",
-    "title": "HelloGitHub 第 116 期",
-    "link": "https://hellogithub.com/periodical/volume/116",
-    "pub_date": "2025-11-28 08:02:57",
     "author": null
   }
 ]
