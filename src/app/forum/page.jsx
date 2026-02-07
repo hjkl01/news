@@ -5,7 +5,7 @@ import NewsList from '../components/NewsList';
 
 const App = () => {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-indigo-50 via-white to-blue-100 flex flex-col">
+    <div className="min-h-screen bg-[#faf8f5]">
       <main className="flex-1 w-full">
         <NewsList data={jsonData} />
       </main>

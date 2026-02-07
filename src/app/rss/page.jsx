@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars,react-hooks/exhaustive-deps */
 'use client';
 
 import React, { useState, useEffect, useCallback, useMemo } from 'react';
@@ -10,7 +11,6 @@ import {
   AlertCircleIcon,
   ChevronDownIcon,
   ChevronRightIcon,
-  ClockIcon,
   CheckCircleIcon
 } from 'lucide-react';
 
@@ -531,127 +531,52 @@ export default function RSSPage() {
   const isLoading = configLoading || loadingFeeds.size > 0;
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-50 to-blue-50">
+    <div className="min-h-screen bg-[#faf8f5]">
       {/* Header */}
-      <header className="bg-white shadow-sm border-b">
+      <header className="bg-white border-b sticky top-0 z-40">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex items-center justify-between h-16">
+          <div className="flex items-center justify-between h-14">
             <div className="flex items-center space-x-3">
-              <div className="bg-gradient-to-r from-blue-500 to-purple-600 p-2 rounded-lg">
-                <RssIcon className="w-6 h-6 text-white" />
+              <div className="bg-amber-500 p-2 rounded-lg">
+                <RssIcon className="w-5 h-5 text-white" />
               </div>
-              <h1 className="text-xl font-bold text-gray-900">RSS订阅阅读器</h1>
+              <h1 className="text-lg font-semibold text-stone-800">RSS订阅阅读器</h1>
             </div>
-            <div className="flex items-center space-x-3">
-              <button
-                onClick={toggleAllSources}
-                disabled={selectedCategory === null}
-                className={`px-4 py-2 rounded-lg flex items-center space-x-2 transition-all duration-200 shadow-sm hover:shadow-md border ${selectedCategory === null
-                  ? 'bg-gray-100 border-gray-200 text-gray-500 cursor-not-allowed'
-                  : 'bg-white hover:bg-gray-50 text-gray-700 border-gray-200'
-                  }`}
-              >
-                <span>{expandedSources.size === Object.keys(groupedFeeds).length ? '收起全部' : '展开全部'}</span>
-              </button>
-              {selectedCategory !== null && Object.keys(groupedFeeds).length > 0 && (
-                <button
-                  onClick={handleSortByTime}
-                  disabled={isSorted}
-                  className={`px-4 py-2 rounded-lg flex items-center space-x-2 transition-all duration-200 shadow-sm hover:shadow-md border ${isSorted
-                    ? 'bg-green-50 border-green-200 text-green-700 cursor-not-allowed'
-                    : 'bg-white hover:bg-gray-50 border-gray-200 text-gray-700'
-                    }`}
-                >
-                  <ClockIcon className="w-4 h-4" />
-                  <span>{isSorted ? '已按时间排序' : '按时间排序'}</span>
-                </button>
-              )}
+            <div className="flex items-center space-x-2">
               <button
                 onClick={handleRefresh}
                 disabled={isLoading || selectedCategory === null}
-                className={`px-4 py-2 rounded-lg flex items-center space-x-2 transition-all duration-200 transform hover:scale-105 shadow-sm hover:shadow-md border ${isLoading || selectedCategory === null
-                  ? 'bg-gray-100 border-gray-200 text-gray-500 cursor-not-allowed'
-                  : 'bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 text-white border-transparent'
+                className={`px-3 py-1.5 rounded-lg text-sm transition-all duration-200 ${isLoading || selectedCategory === null
+                  ? 'bg-stone-100 text-stone-400 cursor-not-allowed'
+                  : 'bg-amber-500 text-white hover:bg-amber-600'
                   }`}
               >
-                <RefreshCwIcon className={`w-4 h-4 ${isLoading ? 'animate-spin' : ''}`} />
-                <span>刷新内容</span>
+                <RefreshCwIcon className={`w-4 h-4 ${isLoading ? 'animate-spin' : ''} mr-1 inline`} />
+                刷新
               </button>
             </div>
           </div>
         </div>
       </header>
 
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+        <div className="grid grid-cols-1 lg:grid-cols-5 gap-6">
           {/* 侧边栏 - 分类 */}
           <div className="lg:col-span-1">
-            <div className="bg-white rounded-xl shadow-lg p-6 sticky top-8">
-              <div className="space-y-4">
-                {/* 自定义RSS输入框 */}
-                <div className="mb-6">
-                  <h3 className="text-md font-semibold text-gray-900 mb-3 flex items-center">
-                    <RssIcon className="w-4 h-4 mr-2 text-blue-500" />
-                    添加自定义RSS源
-                  </h3>
-                  <div className="flex space-x-2">
-                    <input
-                      type="text"
-                      value={customRssUrl}
-                      onChange={(e) => setCustomRssUrl(e.target.value)}
-                      onKeyPress={(e) => {
-                        if (e.key === 'Enter' && !isAddingCustomFeed && customRssUrl.trim()) {
-                          handleAddCustomFeed();
-                        }
-                      }}
-                      placeholder="https://example.com/rss"
-                      className="w-4/5 px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent shadow-sm transition-all duration-200"
-                    />
-                    <button
-                      onClick={handleAddCustomFeed}
-                      disabled={isAddingCustomFeed || !customRssUrl.trim()}
-                      className={`px-4 py-2 rounded-lg transition-all duration-200 flex items-center shadow-sm whitespace-nowrap ${isAddingCustomFeed || !customRssUrl.trim()
-                        ? 'bg-gray-300 text-gray-500 cursor-not-allowed'
-                        : 'bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 text-white transform hover:scale-105'
-                        }`}
-                    >
-                      {isAddingCustomFeed ? (
-                        <RefreshCwIcon className="w-4 h-4 animate-spin" />
-                      ) : (
-                        <span>添加</span>
-                      )}
-                    </button>
-                  </div>
-                </div>
-
-                <div className="border-t border-gray-200 pt-4">
-                  <h3 className="text-md font-semibold text-gray-900 mb-3 flex items-center">
-                    <FolderIcon className="w-4 h-4 mr-2 text-blue-500" />
-                    分类
-                  </h3>
-                </div>
+            <div className="bg-white rounded-lg shadow-sm border border-stone-200 p-4 sticky top-20">
+              <h3 className="text-sm font-medium text-stone-600 mb-3 px-2">分类</h3>
+              <div className="space-y-1">
                 {allCategories.map(category => (
                   <button
                     key={category.id}
                     onClick={() => handleCategoryClick(category.id)}
-                    className={`w-full text-left px-4 py-3 rounded-lg transition-all duration-200 flex items-center justify-between shadow-sm hover:shadow-md ${selectedCategory === category.id
-                      ? 'text-white shadow-md'
-                      : 'text-gray-700 hover:bg-gray-50'
+                    className={`w-full text-left px-3 py-2 rounded-lg text-sm transition-all duration-200 flex items-center justify-between ${selectedCategory === category.id
+                      ? 'bg-amber-100 text-amber-800'
+                      : 'text-stone-600 hover:bg-stone-100'
                       }`}
-                    style={{
-                      backgroundColor: selectedCategory === category.id ? category.color : 'transparent'
-                    }}
                   >
-                    <span className="font-medium">{category.name}</span>
-                    <span
-                      className="text-sm px-2 py-1 rounded-full font-medium"
-                      style={{
-                        backgroundColor: selectedCategory === category.id
-                          ? 'rgba(255, 255, 255, 0.2)'
-                          : category.color + '20',
-                        color: selectedCategory === category.id ? 'white' : category.color
-                      }}
-                    >
+                    <span className="truncate">{category.name}</span>
+                    <span className="text-xs text-stone-400 ml-2">
                       {(feedsByCategory[category.id]?.length) || 0}
                     </span>
                   </button>
@@ -663,7 +588,7 @@ export default function RSSPage() {
           {/* 主内容区 */}
           <div className="lg:col-span-3">
             {error && (
-              <div className="bg-red-50 border border-red-200 rounded-xl p-4 mb-6 flex items-center space-x-3 shadow-sm">
+              <div className="bg-red-50/90 backdrop-blur-sm border border-red-200 rounded-xl p-4 mb-6 flex items-center space-x-3 shadow-sm">
                 <AlertCircleIcon className="w-5 h-5 text-red-500 flex-shrink-0" />
                 <div>
                   <p className="text-red-800 font-medium">加载错误</p>
@@ -673,7 +598,7 @@ export default function RSSPage() {
             )}
 
             {failedFeeds.length > 0 && (
-              <div className="bg-yellow-50 border border-yellow-200 rounded-xl p-4 mb-6 shadow-sm">
+              <div className="bg-yellow-50/90 backdrop-blur-sm border border-yellow-200 rounded-xl p-4 mb-6 shadow-sm">
                 <div className="flex items-center space-x-3 mb-2">
                   <AlertCircleIcon className="w-5 h-5 text-yellow-600 flex-shrink-0" />
                   <p className="text-yellow-800 font-medium">部分RSS源加载失败</p>
@@ -695,12 +620,12 @@ export default function RSSPage() {
             )}
 
             {isLoading ? (
-              <div className="bg-white rounded-xl shadow-lg p-8">
+              <div className="bg-white/90 backdrop-blur-sm rounded-2xl shadow-xl p-8">
                 <div className="text-center mb-6">
-                  <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-500 mx-auto mb-4"></div>
-                  <p className="text-gray-600">正在动态加载RSS内容...</p>
+                  <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-slate-700 mx-auto mb-4"></div>
+                  <p className="text-slate-600">正在动态加载RSS内容...</p>
                   {loadedFeedsCount > 0 && (
-                    <p className="text-sm text-green-600 mt-2 flex items-center justify-center">
+                    <p className="text-sm text-slate-600 mt-2 flex items-center justify-center">
                       <CheckCircleIcon className="w-4 h-4 mr-1" />
                       已成功加载 {loadedFeedsCount} 个RSS源
                     </p>
@@ -708,21 +633,122 @@ export default function RSSPage() {
                 </div>
 
                 {loadingFeeds.size > 0 && (
-                  <div className="border-t border-gray-200 pt-4">
-                    <p className="text-sm text-gray-500 mb-3">正在动态加载RSS源：</p>
+                  <div className="border-t border-slate-200/60 pt-4">
+                    <p className="text-sm text-slate-500 mb-3">正在动态加载RSS源：</p>
                     <div className="flex flex-wrap gap-2">
                       {Array.from(loadingFeeds).map((feedName, index) => (
-                        <div key={index} className="flex items-center space-x-2 px-3 py-1 bg-blue-50 text-blue-700 rounded-full text-sm shadow-sm">
-                          <div className="animate-spin rounded-full h-3 w-3 border-b border-blue-500"></div>
+                        <div key={index} className="flex items-center space-x-2 px-3 py-1 bg-slate-100 text-slate-700 rounded-full text-sm shadow-sm">
+                          <div className="animate-spin rounded-full h-3 w-3 border-b border-slate-600"></div>
                           <span>{feedName}</span>
                         </div>
                       ))}
                     </div>
-                    <p className="text-xs text-gray-400 mt-3">
+                    <p className="text-xs text-slate-400 mt-3">
                       内容将实时显示，无需等待所有加载完成。新内容会追加到列表末尾，不影响已有内容的查看。
                     </p>
                   </div>
                 )}
+              </div>
+            ) : selectedCategory === null ? (
+              <div className="bg-white rounded-lg shadow-sm border border-stone-200 p-12 text-center">
+                <FolderIcon className="w-12 h-12 text-stone-400 mx-auto mb-3" />
+                <h3 className="text-base font-medium text-stone-700 mb-1">请选择一个分类</h3>
+                <p className="text-sm text-stone-500">从左侧选择分类查看内容</p>
+              </div>
+            ) : (
+              <div className="space-y-5">
+                {Object.entries(groupedFeeds).length === 0 ? (
+                  <div className="bg-white rounded-lg shadow-sm border border-stone-200 p-12 text-center">
+                    <RssIcon className="w-12 h-12 text-stone-400 mx-auto mb-3" />
+                    <h3 className="text-base font-medium text-stone-700 mb-1">暂无RSS内容</h3>
+                    <p className="text-sm text-stone-500">该分类下暂无内容</p>
+                  </div>
+                ) : (
+                  Object.entries(groupedFeeds).map(([sourceName, sourceFeeds], idx, arr) => {
+                    const isExpanded = expandedSources.has(sourceName);
+                    const categoryColor = sourceFeeds[0]?.category.color || '#3B82F6';
+                    const sourceHeaderId = `rss-source-header-${sourceName.replace(/[^a-zA-Z0-9]/g, '')}`;
+                    return (
+                      <div key={sourceName} className="bg-white rounded-lg shadow-sm border border-stone-200 overflow-hidden">
+                        <div
+                          id={sourceHeaderId}
+                          className="px-5 py-3.5 cursor-pointer hover:bg-stone-50 transition-colors sticky top-14 z-10 bg-white border-b border-stone-100"
+                          onClick={() => toggleSourceWithScroll(sourceName, idx, arr)}
+                        >
+                          <div className="flex items-center justify-between">
+                            <div className="flex items-center gap-3">
+                              <div
+                                className="w-8 h-8 rounded-lg flex items-center justify-center text-white font-bold text-sm"
+                                style={{ backgroundColor: categoryColor }}
+                              >
+                                {sourceName.charAt(0).toUpperCase()}
+                              </div>
+                              <div>
+                                <h3 className="text-sm font-medium text-stone-800">{sourceName}</h3>
+                                <p className="text-xs text-stone-500">{sourceFeeds.length} 篇</p>
+                              </div>
+                            </div>
+                            {isExpanded ? (
+                              <ChevronDownIcon className="w-4 h-4 text-stone-400" />
+                            ) : (
+                              <ChevronRightIcon className="w-4 h-4 text-stone-400" />
+                            )}
+                          </div>
+                        </div>
+                        {isExpanded && (
+                          <div className="divide-y divide-stone-100">
+                            {sourceFeeds.map((feed) => (
+                              <div
+                                key={feed.id}
+                                id={`rss-feed-item-${feed.id}`}
+                                className="p-4 hover:bg-stone-50 transition-colors duration-150"
+                              >
+                                <div className="flex gap-4">
+                                  <div
+                                    className="w-1 h-12 rounded-full flex-shrink-0 mt-1"
+                                    style={{ backgroundColor: categoryColor }}
+                                  />
+                                  <div className="flex-1 min-w-0">
+                                    <a
+                                      href={feed.link}
+                                      target="_blank"
+                                      rel="noopener noreferrer"
+                                      className="text-sm text-stone-800 font-medium line-clamp-2 hover:text-amber-700 transition-colors block"
+                                    >
+                                      {feed.title}
+                                    </a>
+                                    <p className="text-xs text-stone-500 mt-2 line-clamp-2">
+                                      {utils.truncateText(feed.description)}
+                                    </p>
+                                    <div className="flex items-center gap-3 mt-2 text-xs text-stone-400">
+                                      <span>{feed.author}</span>
+                                      <span>{utils.formatDate(feed.pubDate)}</span>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            ))}
+                          </div>
+                        )}
+                      </div>
+                    );
+                  })
+                )}
+              </div>
+            )}
+
+            {failedFeeds.length > 0 && (
+              <div className="bg-amber-50 border border-amber-200 rounded-lg p-4 mb-4">
+                <p className="text-sm text-amber-800">部分RSS源加载失败</p>
+              </div>
+            )}
+
+            {isLoading ? (
+              <div className="bg-white rounded-lg shadow-sm border border-stone-200 p-8">
+                <div className="flex justify-center items-center h-20">
+                  <div className="animate-spin rounded-full h-8 w-8 border-t-2 border-b-2 border-amber-500"></div>
+                </div>
+                <p className="text-center text-stone-500 text-sm mt-4">正在加载...</p>
               </div>
             ) : selectedCategory === null ? (
               <div className="bg-white rounded-xl shadow-lg p-12 text-center">

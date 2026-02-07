@@ -1,69 +1,27 @@
-import React, { useState, useEffect, useMemo, useCallback } from 'react';
+import React, { useState, useEffect, useMemo, memo } from 'react';
 
-// 常量配置
-const CONFIG = {
-  MAX_ITEMS_PER_FEED: 10,
-  BUBBLE_CONFIG: {
-    SIZES: ["text-xs", "text-sm", "text-base", "text-lg", "text-xl"],
-    COLORS: [
-      "bg-indigo-50 text-indigo-700",
-      "bg-blue-50 text-blue-700",
-      "bg-indigo-100 text-indigo-800",
-      "bg-blue-100 text-blue-800",
-      "bg-indigo-200 text-indigo-900"
-    ],
-    PADDING_X: ["px-2", "px-3", "px-4"],
-    PADDING_Y: ["py-1", "py-1.5", "py-2"],
-    MAX_ROTATION: 4,
-    MAX_TITLE_LENGTH: 20
-  },
-  DATE_FORMAT_OPTIONS: {
-    year: '2-digit',
-    month: '2-digit',
-    day: '2-digit'
-  }
-};
-
-// 工具函数
 const utils = {
-  // 生成哈希值
-  hashCode: (str) => {
-    let hash = 0;
-    for (let i = 0; i < str.length; i++) {
-      hash = ((hash << 5) - hash) + str.charCodeAt(i);
-      hash |= 0;
-    }
-    return Math.abs(hash);
-  },
-
-  // 格式化日期
   formatDate: (dateString) => {
     if (!dateString) return '';
-    return new Date(dateString).toLocaleDateString('zh-CN', CONFIG.DATE_FORMAT_OPTIONS);
-  },
+    const date = new Date(dateString);
+    const now = new Date();
+    const diffMs = now - date;
+    const diffMins = Math.floor(diffMs / 60000);
+    const diffHours = Math.floor(diffMs / 3600000);
+    const diffDays = Math.floor(diffMs / 86400000);
 
-  // 截断文本
-  truncateText: (text, maxLength = CONFIG.BUBBLE_CONFIG.MAX_TITLE_LENGTH) => {
-    if (!text || text.length <= maxLength) return text;
-    return text.substring(0, maxLength - 2) + '…';
-  },
+    if (diffMins < 1) return '刚刚';
+    if (diffMins < 60) return `${diffMins} 分钟前`;
+    if (diffHours < 24) return `${diffHours} 小时前`;
+    if (diffDays < 7) return `${diffDays} 天前`;
 
-  // 生成气泡样式
-  getBubbleStyle: (id) => {
-    const hash = utils.hashCode(id.toString());
-    const { SIZES, COLORS, PADDING_X, PADDING_Y, MAX_ROTATION } = CONFIG.BUBBLE_CONFIG;
-
-    return {
-      size: SIZES[hash % SIZES.length],
-      color: COLORS[hash % COLORS.length],
-      px: PADDING_X[hash % PADDING_X.length],
-      py: PADDING_Y[hash % PADDING_Y.length],
-      rotate: (hash % (MAX_ROTATION * 2 + 1)) - MAX_ROTATION
-    };
+    return date.toLocaleDateString('zh-CN', {
+      month: 'short',
+      day: 'numeric'
+    });
   }
 };
 
-// 自定义Hook：数据分组管理
 const useGroupedData = (data) => {
   const [groupedData, setGroupedData] = useState({});
 
@@ -87,115 +45,97 @@ const useGroupedData = (data) => {
   return groupedData;
 };
 
-// 自定义Hook：悬停状态管理
-const useHoverState = () => {
-  const [hoveredCard, setHoveredCard] = useState(null);
+const FeedCard = memo(({ feedName, feedItems, index }) => {
+  const colors = [
+    'from-indigo-500 to-purple-500',
+    'from-blue-500 to-cyan-500',
+    'from-emerald-500 to-teal-500',
+    'from-amber-500 to-orange-500',
+    'from-rose-500 to-pink-500',
+    'from-violet-500 to-fuchsia-500'
+  ];
+  const colorClass = colors[index % colors.length];
 
-  const handleMouseEnter = useCallback((feedName) => {
-    setHoveredCard(feedName);
-  }, []);
-
-  const handleMouseLeave = useCallback(() => {
-    setHoveredCard(null);
-  }, []);
-
-  return {
-    hoveredCard,
-    handleMouseEnter,
-    handleMouseLeave
-  };
-};
-
-// 气泡组件
-const Bubble = ({ item, style }) => (
-  <a
-    href={item.link}
-    target="_blank"
-    rel="noopener noreferrer"
-    className={`relative rounded-full font-semibold shadow transition-all duration-200 hover:ring-2 hover:ring-indigo-300 hover:shadow-lg cursor-pointer ${style.size} ${style.color} ${style.px} ${style.py} whitespace-nowrap flex items-center hover:scale-105`}
-    title={item.title}
-    style={{
-      transform: `rotate(${style.rotate}deg)`
-    }}
-  >
-    <span>{utils.truncateText(item.title)}</span>
-    <span className="ml-2 text-[10px] text-gray-400 bg-white/60 rounded px-1.5 py-0.5 shadow-sm border border-gray-100 font-normal hidden md:inline-block">
-      {utils.formatDate(item.pub_date)}
-    </span>
-  </a>
-);
-
-// 云图卡片组件
-const CloudCard = ({ feedName, feedItems, isHovered, onMouseEnter, onMouseLeave }) => (
-  <div
-    className={`bg-white/70 border border-indigo-100 rounded-3xl shadow-md overflow-hidden transform transition-all duration-300 hover:shadow-xl hover:-translate-y-1 hover:ring-2 hover:ring-indigo-200/60 ${isHovered ? 'scale-[1.03] ring-2 ring-indigo-300/40' : ''
-      }`}
-    onMouseEnter={() => onMouseEnter(feedName)}
-    onMouseLeave={onMouseLeave}
-  >
-    {/* Feed名称区域 */}
-    <div className="bg-gradient-to-r from-indigo-500 to-blue-400 px-7 py-5 flex items-center justify-between">
-      <h2 className="text-xl font-extrabold text-white truncate tracking-wide drop-shadow-lg">
-        {feedName}
-      </h2>
-      <span className="text-xs text-blue-100 bg-blue-600/30 px-2 py-1 rounded-full shadow-sm ml-2">
-        {feedItems.length} 篇
-      </span>
-    </div>
-
-    {/* 云图气泡区域 */}
-    <div className="flex flex-wrap gap-3 px-7 py-7 min-h-[200px] items-start justify-start bg-gradient-to-br from-indigo-50/80 to-blue-50/60 relative">
-      {feedItems.slice(0, CONFIG.MAX_ITEMS_PER_FEED).map((item) => {
-        const bubbleStyle = utils.getBubbleStyle(item.id);
-        return (
-          <Bubble
+  return (
+    <div className="bg-white rounded-2xl shadow-sm border border-slate-200 overflow-hidden hover:shadow-xl transition-all duration-300 hover:-translate-y-1">
+      <div className="px-5 py-4 bg-gradient-to-r border-b border-slate-100 flex items-center justify-between">
+        <div className="flex items-center gap-3">
+          <div className={`w-10 h-10 rounded-xl bg-gradient-to-br ${colorClass} flex items-center justify-center text-white font-bold shadow-lg`}>
+            {feedName.charAt(0).toUpperCase()}
+          </div>
+          <div>
+            <h3 className="font-semibold text-slate-800 truncate pr-3">{feedName}</h3>
+            <p className="text-xs text-slate-400 mt-0.5">最新动态</p>
+          </div>
+        </div>
+        <span className="text-xs text-slate-500 bg-slate-100 px-3 py-1.5 rounded-full font-medium">
+          {feedItems.length} 篇
+        </span>
+      </div>
+      <div className="divide-y divide-slate-100">
+        {feedItems.slice(0, 6).map((item) => (
+          <a
             key={item.id}
-            item={item}
-            style={bubbleStyle}
-          />
-        );
-      })}
+            href={item.link}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="block px-5 py-3.5 hover:bg-gradient-to-r hover:from-indigo-50 hover:to-transparent transition-all duration-200 group"
+          >
+            <div className="flex items-start gap-3">
+              <div className="w-1 h-1 rounded-full bg-gradient-to-r from-indigo-400 to-purple-400 mt-2.5 flex-shrink-0 group-hover:from-indigo-500 group-hover:to-purple-500 transition-colors" />
+              <div className="flex-1 min-w-0">
+                <h4 className="text-sm text-slate-700 font-medium line-clamp-2 group-hover:text-indigo-600 transition-colors leading-relaxed">
+                  {item.title}
+                </h4>
+                <div className="flex items-center gap-2 mt-1.5">
+                  <span className="text-xs text-slate-400">
+                    {utils.formatDate(item.pub_date)}
+                  </span>
+                </div>
+              </div>
+            </div>
+          </a>
+        ))}
+      </div>
     </div>
+  );
+});
+
+FeedCard.displayName = 'FeedCard';
+
+const EmptyState = () => (
+  <div className="max-w-md mx-auto py-20 text-center">
+    <div className="w-20 h-20 mx-auto mb-5 bg-gradient-to-br from-indigo-100 to-purple-100 rounded-full flex items-center justify-center">
+      <span className="text-4xl">📰</span>
+    </div>
+    <h3 className="text-xl font-semibold text-slate-700 mb-2">暂无内容</h3>
+    <p className="text-slate-500">请检查数据源或网络连接</p>
   </div>
 );
 
-// 主NewsCloud组件
 const NewsCloud = ({ data }) => {
-  // 使用自定义Hook管理数据分组
   const groupedData = useGroupedData(data);
-
-  // 使用自定义Hook管理悬停状态
-  const { hoveredCard, handleMouseEnter, handleMouseLeave } = useHoverState();
-
-  // 使用useMemo优化feed名称列表
   const feedNames = useMemo(() => Object.keys(groupedData), [groupedData]);
 
-  // 空状态检查
   if (!data || data.length === 0) {
-    return (
-      <div className="max-w-6xl mx-auto px-2 sm:px-4 py-10">
-        <div className="bg-white/70 border border-indigo-100 rounded-3xl shadow-md p-12 text-center">
-          <div className="w-16 h-16 mx-auto mb-4 bg-gradient-to-r from-indigo-400 to-blue-400 rounded-full flex items-center justify-center text-white text-3xl font-bold">
-            N
-          </div>
-          <h3 className="text-lg font-semibold text-gray-900 mb-2">暂无内容</h3>
-          <p className="text-gray-600">请检查数据源或网络连接</p>
-        </div>
-      </div>
-    );
+    return <EmptyState />;
   }
 
   return (
-    <div className="max-w-6xl mx-auto px-2 sm:px-4 py-10">
-      <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 md:gap-8">
-        {feedNames.map(feedName => (
-          <CloudCard
+    <div className="max-w-7xl mx-auto">
+      <div className="mb-8 text-center">
+        <h1 className="text-3xl md:text-4xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent mb-2">
+          今日新闻
+        </h1>
+        <p className="text-slate-500">聚合全球优质资讯，助您洞察世界</p>
+      </div>
+      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
+        {feedNames.map((feedName, index) => (
+          <FeedCard
             key={feedName}
             feedName={feedName}
             feedItems={groupedData[feedName]}
-            isHovered={hoveredCard === feedName}
-            onMouseEnter={handleMouseEnter}
-            onMouseLeave={handleMouseLeave}
+            index={index}
           />
         ))}
       </div>

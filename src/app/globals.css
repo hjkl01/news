@@ -3,25 +3,53 @@
 @tailwind utilities;
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #fafafa;
+  --foreground: #1a1a2e;
+  --card-bg: #ffffff;
+  --card-border: #e8e8e8;
+  --accent: #6366f1;
+  --accent-light: #818cf8;
+  --accent-bg: #eef2ff;
+  --text-secondary: #64748b;
+  --text-muted: #94a3b8;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #0f0f1a;
+    --foreground: #e2e8f0;
+    --card-bg: #1e1e2e;
+    --card-border: #2d2d3d;
+    --accent: #818cf8;
+    --accent-light: #a5b4fc;
+    --accent-bg: #1e1e2e;
+    --text-secondary: #94a3b8;
+    --text-muted: #64748b;
   }
 }
 
 body {
   color: var(--foreground);
   background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 }
 
 @layer utilities {
   .text-balance {
     text-wrap: balance;
+  }
+}
+
+@layer components {
+  .card {
+    @apply bg-[var(--card-bg)] border border-[var(--card-border)] rounded-2xl transition-all duration-300;
+  }
+  
+  .card:hover {
+    @apply shadow-lg transform -translate-y-1;
+  }
+  
+  .btn-primary {
+    @apply px-4 py-2 bg-[var(--accent)] text-white rounded-lg font-medium transition-all duration-200 hover:bg-[var(--accent-light)];
   }
 }

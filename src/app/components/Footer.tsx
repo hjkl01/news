@@ -1,6 +1,5 @@
 import { useMemo } from 'react';
 
-// 常量配置
 const CONFIG = {
   CURRENT_YEAR: new Date().getFullYear(),
   LINKS: [
@@ -20,20 +19,16 @@ const CONFIG = {
   ]
 };
 
-// 工具函数
 const utils = {
-  // 生成外部链接样式
   getExternalLinkStyle: () => {
-    return 'hover:text-indigo-600 transition-colors duration-200';
+    return 'text-indigo-600 hover:text-indigo-800 underline decoration-indigo-200 underline-offset-2 transition-all duration-200';
   },
 
-  // 生成社交链接样式
   getSocialLinkStyle: () => {
-    return 'text-gray-400 hover:text-gray-600 transition-colors duration-200';
+    return 'text-slate-400 hover:text-indigo-500 transition-all duration-200';
   }
 };
 
-// 外部链接组件
 const ExternalLink = ({ href, children, className }: { href: string; children: React.ReactNode; className?: string }) => {
   return (
     <a
@@ -47,7 +42,6 @@ const ExternalLink = ({ href, children, className }: { href: string; children: R
   );
 };
 
-// 技术链接组件
 const TechLinks = () => {
   const techLinks = useMemo(() => CONFIG.TECH_LINKS, []);
 
@@ -69,30 +63,26 @@ const TechLinks = () => {
   );
 };
 
-// 主Footer组件
 export default function Footer() {
   const socialLinks = useMemo(() => CONFIG.LINKS, []);
 
   return (
-    <footer className="w-full bg-white border-t border-gray-200/80 mt-16">
-      <div className="max-w-7xl mx-auto py-8 px-4 sm:px-6 lg:px-8">
-        <div className="flex flex-col items-center gap-4">
-          {/* Logo区域 */}
+    <footer className="w-full bg-white border-t mt-16">
+      <div className="max-w-7xl mx-auto py-10 px-4 sm:px-6 lg:px-8">
+        <div className="flex flex-col items-center gap-5">
           <div className="flex items-center gap-2">
-            <span className="w-8 h-8 rounded-full bg-gradient-to-br from-indigo-500 to-blue-500 flex items-center justify-center text-white font-bold text-xl">
+            <span className="w-8 h-8 rounded-lg bg-gradient-to-br from-indigo-500 to-violet-500 flex items-center justify-center text-white font-bold text-lg">
               N
             </span>
-            <span className="text-lg font-semibold text-gray-700">
-              News Hub
+            <span className="text-lg font-semibold bg-gradient-to-r from-indigo-600 to-violet-600 bg-clip-text text-transparent">
+              NewsHub
             </span>
           </div>
 
-          {/* 描述文本 */}
-          <p className="text-center text-sm text-gray-500">
-            聚合最新资讯，洞察世界动态。
+          <p className="text-center text-sm text-slate-500 max-w-md">
+            聚合全球资讯，洞察世界动态。精选优质内容，助您随时掌握最新信息。
           </p>
 
-          {/* 社交链接 */}
           <div className="flex justify-center space-x-6">
             {socialLinks.map((link) => (
               <ExternalLink
@@ -106,9 +96,8 @@ export default function Footer() {
             ))}
           </div>
 
-          {/* 版权和技术信息 */}
-          <div className="text-center text-sm text-gray-500 border-t border-gray-200/80 w-full pt-4 mt-4">
-            <p>© {CONFIG.CURRENT_YEAR} News Hub. All Rights Reserved.</p>
+          <div className="text-center text-sm text-slate-400 border-t border-slate-100 w-full pt-5 mt-2">
+            <p>© {CONFIG.CURRENT_YEAR} NewsHub. All Rights Reserved.</p>
             <TechLinks />
           </div>
         </div>

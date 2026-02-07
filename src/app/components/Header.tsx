@@ -4,7 +4,6 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useState, useMemo } from "react";
 
-// 常量配置
 const CONFIG = {
   NAV_LINKS: [
     ['首页', '/'],
@@ -15,51 +14,44 @@ const CONFIG = {
     ['论坛', '/forum'],
     ['娱乐', '/funny'],
     ['RSS', '/rss']
-  ],
-  DATE_FORMAT_OPTIONS: {
-    year: 'numeric' as const,
-    month: 'long' as const,
-    day: 'numeric' as const
-  }
+  ]
 };
 
-// 工具函数
 const utils = {
-  // 格式化日期
-  formatDate: (date: Date) => {
-    return date.toLocaleDateString('zh-CN', CONFIG.DATE_FORMAT_OPTIONS);
-  },
-
-  // 检查是否为当前路径
   isActivePath: (path: string, currentPath: string) => {
     return path === currentPath;
   },
 
-  // 生成导航链接样式
   getNavLinkStyle: (isActive: boolean) => {
-    return `px-3 py-2 rounded-md text-sm font-medium transition-colors duration-200 whitespace-nowrap ${isActive
-        ? 'bg-indigo-100 text-indigo-700 shadow-inner'
-        : 'text-gray-600 hover:bg-indigo-50 hover:text-indigo-600'
-      }`;
+    return `px-4 py-2 rounded-full text-sm font-medium transition-all duration-300 whitespace-nowrap ${
+      isActive
+        ? 'bg-indigo-500 text-white shadow-lg shadow-indigo-200'
+        : 'text-slate-600 hover:bg-slate-100 hover:text-indigo-600'
+    }`;
   }
 };
 
-// 动态日期组件
 const DynamicDate = () => {
   const [date, setDate] = useState('');
 
   useEffect(() => {
-    setDate(utils.formatDate(new Date()));
+    const formatDate = () => {
+      return new Date().toLocaleDateString('zh-CN', {
+        year: 'numeric',
+        month: 'long',
+        day: 'numeric'
+      });
+    };
+    setDate(formatDate());
   }, []);
 
   return (
-    <span className="text-sm text-gray-500 hidden md:inline whitespace-nowrap">
+    <span className="text-sm text-slate-500 hidden md:inline whitespace-nowrap font-medium bg-slate-100 px-3 py-1.5 rounded-full">
       {date}
     </span>
   );
 };
 
-// 导航链接组件
 const NavLink = ({ label, path, isActive }: { label: string; path: string; isActive: boolean }) => {
   return (
     <li>
@@ -73,11 +65,9 @@ const NavLink = ({ label, path, isActive }: { label: string; path: string; isAct
   );
 };
 
-// 主Header组件
 export default function Header() {
   const pathname = usePathname();
 
-  // 使用useMemo优化导航链接渲染
   const navLinks = useMemo(() => {
     return CONFIG.NAV_LINKS.map(([label, path]) => ({
       label,
@@ -87,22 +77,20 @@ export default function Header() {
   }, [pathname]);
 
   return (
-    <header className="w-full bg-white/80 shadow-sm sticky top-0 z-30 backdrop-blur-lg border-b border-gray-200/80">
+    <header className="w-full bg-white/90 backdrop-blur-md shadow-sm border-b sticky top-0 z-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col md:flex-row items-center justify-between py-4 gap-4">
-          {/* Logo区域 */}
           <div className="flex items-center gap-3 self-start md:self-center">
             <Link href="/" className="flex items-center gap-3 group">
-              <span className="inline-flex items-center justify-center w-10 h-10 rounded-full bg-gradient-to-br from-indigo-500 to-blue-500 group-hover:from-indigo-600 group-hover:to-blue-600 transition-all duration-300 ease-in-out transform group-hover:scale-110 group-hover:shadow-lg text-white font-bold text-2xl shadow-md">
+              <span className="inline-flex items-center justify-center w-10 h-10 rounded-xl bg-gradient-to-br from-indigo-500 to-violet-500 group-hover:from-indigo-600 group-hover:to-violet-600 transition-all duration-300 shadow-lg shadow-indigo-200 text-white font-bold text-xl">
                 N
               </span>
-              <span className="text-2xl font-bold text-gray-800 group-hover:text-indigo-600 tracking-tight transition-colors duration-300">
-                News
+              <span className="text-2xl font-bold bg-gradient-to-r from-indigo-600 to-violet-600 bg-clip-text text-transparent">
+                NewsHub
               </span>
             </Link>
           </div>
 
-          {/* 导航区域 */}
           <nav className="w-full md:w-auto">
             <ul className="flex flex-wrap justify-center md:justify-start gap-x-2 gap-y-2 md:gap-x-1 lg:gap-x-2">
               {navLinks.map(({ label, path, isActive }) => (
@@ -116,7 +104,6 @@ export default function Header() {
             </ul>
           </nav>
 
-          {/* 日期显示区域 */}
           <div className="hidden md:flex items-center">
             <DynamicDate />
           </div>
