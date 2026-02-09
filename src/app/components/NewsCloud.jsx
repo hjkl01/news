@@ -125,7 +125,6 @@ const NewsCloud = ({ data }) => {
     <div className="max-w-7xl mx-auto">
       <div className="mb-8 text-center">
         <h1 className="text-3xl md:text-4xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent mb-2">
-          今日新闻
         </h1>
         <p className="text-slate-500">聚合全球优质资讯，助您洞察世界</p>
       </div>
