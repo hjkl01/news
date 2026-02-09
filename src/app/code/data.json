@@ -600,6 +600,16 @@
     "author": null
   },
   {
+    "id": 332564,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "crossplane/crossplane",
+    "link": "https://github.com/crossplane/crossplane",
+    "pub_date": "2026-02-10 07:32:18",
+    "author": null
+  },
+  {
     "id": 331190,
     "feed_name": "github go",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
@@ -786,16 +796,6 @@
     "category": "技术",
     "title": "bytedance/sonic",
     "link": "https://github.com/bytedance/sonic",
-    "pub_date": "2026-02-03 14:41:53",
-    "author": null
-  },
-  {
-    "id": 318637,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "go-chi/chi",
-    "link": "https://github.com/go-chi/chi",
     "pub_date": "2026-02-03 14:41:53",
     "author": null
   },
