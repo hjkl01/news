@@ -1,39 +1,33 @@
-const sqlite3 = require('sqlite3').verbose();
+const Database = require('better-sqlite3');
 const fs = require('fs');
 const path = require('path');
 const moment = require('moment');
 
-// 连接到 SQLite 数据库
 function connectDb(dbName) {
-  return new sqlite3.Database(dbName, (err) => {
-    if (err) {
-      console.error(err.message);
-    }
-    console.log('Connected to the database.');
-  });
+  const db = new Database(dbName);
+  console.log('Connected to the database.');
+  return db;
 }
 
-// 查询当天更新的内容
-function queryTodayUpdates(db, callback) {
+function queryTodayUpdates(db) {
   const startOfDay = moment().subtract(1, 'days').startOf('day').format('YYYY-MM-DD HH:mm:ss');
   const endOfDay = moment().endOf('day').format('YYYY-MM-DD HH:mm:ss');
   console.log(`Querying updates from ${startOfDay} to ${endOfDay}`);
-  db.all(`
-    SELECT * FROM rss_items
-    WHERE pub_date BETWEEN ? AND ? order by pub_date desc
-  `, [startOfDay, endOfDay], (err, rows) => {
-    if (err) {
-      console.error(err.message);
-      callback([]);
-    } else {
-      callback(rows);
-    }
-  });
+  try {
+    return db.prepare(`
+      SELECT * FROM rss_items
+      WHERE pub_date BETWEEN ? AND ? order by pub_date desc
+    `).all(startOfDay, endOfDay);
+  } catch (err) {
+    console.error(err.message);
+    return [];
+  }
 }
 
 function generate_today() {
   const db = connectDb('rss.db');
-  queryTodayUpdates(db, (rows) => {
+  try {
+    const rows = queryTodayUpdates(db);
     const todayUpdates = rows.map(row => ({
       id: row.id,
       feed_name: row.feed_name,
@@ -45,17 +39,13 @@ function generate_today() {
 
     fs.writeFileSync('src/app/data.json', JSON.stringify(todayUpdates, null, 2));
     console.log('Today updates saved');
-    db.close((err) => {
-      if (err) {
-        console.error(`Error closing the database: ${err.message}`);
-      }
-      console.log('Database closed.');
-    });
-  });
+  } finally {
+    db.close();
+    console.log('Database closed.');
+  }
 }
 
 function generate_title() {
-  // 分类名称映射
   const categoryMap = {
     '新闻': 'news',
     '国外': 'foreign',
@@ -65,78 +55,43 @@ function generate_title() {
     '娱乐': 'funny',
   };
   const db = connectDb('rss.db');
-  // 查询所有分类下每个feed_name最新20条
   const categories = Object.keys(categoryMap);
-  let finished = 0;
+
   categories.forEach((cat) => {
     const categoryKey = categoryMap[cat];
-    // 先查出该分类下所有feed_name
-    db.all(
-      `SELECT DISTINCT feed_name FROM rss_items WHERE category = ?`,
-      [cat],
-      (err, feeds) => {
-        if (err) {
-          console.error(`Failed to fetch feeds for category ${cat}:`, err.message);
-          finished++;
-          if (finished === categories.length) {
-            db.close();
-          }
-          return;
-        }
-        let allRows = [];
-        let feedFinished = 0;
-        if (feeds.length === 0) {
-          // 没有源也要写空文件
-          const folderPath = path.join(__dirname, `src/app/${categoryKey}`);
-          if (!fs.existsSync(folderPath)) {
-            fs.mkdirSync(folderPath, { recursive: true });
-          }
-          const filePath = path.join(folderPath, 'data.json');
-          fs.writeFileSync(filePath, JSON.stringify([], null, 2));
-          finished++;
-          if (finished === categories.length) {
-            db.close();
-          }
-          return;
-        }
-        feeds.forEach(feed => {
-          db.all(
-            `SELECT * FROM rss_items WHERE category = ? AND feed_name = ? ORDER BY pub_date DESC LIMIT 20`,
-            [cat, feed.feed_name],
-            (err2, rows) => {
-              if (!err2 && rows && rows.length > 0) {
-                allRows = allRows.concat(rows);
-              }
-              feedFinished++;
-              if (feedFinished === feeds.length) {
-                // 合并写入
-                const folderPath = path.join(__dirname, `src/app/${categoryKey}`);
-                if (!fs.existsSync(folderPath)) {
-                  fs.mkdirSync(folderPath, { recursive: true });
-                }
-                const filePath = path.join(folderPath, 'data.json');
-                fs.writeFileSync(filePath, JSON.stringify(allRows, null, 2));
-                console.log(`Data for category ${categoryKey} has been written to ${filePath}`);
-                finished++;
-                if (finished === categories.length) {
-                  db.close((err) => {
-                    if (err) {
-                      console.error('Failed to close the database:', err.message);
-                    } else {
-                      console.log('Database connection closed.');
-                    }
-                  });
-                }
-              }
-            }
-          );
-        });
+    const feeds = db.prepare(`SELECT DISTINCT feed_name FROM rss_items WHERE category = ?`).all(cat);
+
+    if (feeds.length === 0) {
+      const folderPath = path.join(__dirname, `src/app/${categoryKey}`);
+      if (!fs.existsSync(folderPath)) {
+        fs.mkdirSync(folderPath, { recursive: true });
       }
-    );
+      const filePath = path.join(folderPath, 'data.json');
+      fs.writeFileSync(filePath, JSON.stringify([], null, 2));
+      return;
+    }
+
+    let allRows = [];
+    feeds.forEach(feed => {
+      const rows = db.prepare(`SELECT * FROM rss_items WHERE category = ? AND feed_name = ? ORDER BY pub_date DESC LIMIT 20`).all(cat, feed.feed_name);
+      if (rows && rows.length > 0) {
+        allRows = allRows.concat(rows);
+      }
+    });
+
+    const folderPath = path.join(__dirname, `src/app/${categoryKey}`);
+    if (!fs.existsSync(folderPath)) {
+      fs.mkdirSync(folderPath, { recursive: true });
+    }
+    const filePath = path.join(folderPath, 'data.json');
+    fs.writeFileSync(filePath, JSON.stringify(allRows, null, 2));
+    console.log(`Data for category ${categoryKey} has been written to ${filePath}`);
   });
+
+  db.close();
+  console.log('Database closed.');
 }
 
-// 主函数
 function main() {
   generate_today();
   generate_title();

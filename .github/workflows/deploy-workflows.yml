@@ -35,7 +35,6 @@ jobs:
 
       - name: Install Packages
         run: |
-          npm install sqlite3 --build-from-source
           npm install -g yarn
           yarn install
 
