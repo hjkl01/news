@@ -46,6 +46,9 @@ const useGroupedData = (data) => {
 };
 
 const FeedCard = memo(({ feedName, feedItems, index }) => {
+  const [isExpanded, setIsExpanded] = useState(false);
+  const displayLimit = 6;
+
   const colors = [
     'from-indigo-500 to-purple-500',
     'from-blue-500 to-cyan-500',
@@ -55,6 +58,9 @@ const FeedCard = memo(({ feedName, feedItems, index }) => {
     'from-violet-500 to-fuchsia-500'
   ];
   const colorClass = colors[index % colors.length];
+
+  const visibleItems = isExpanded ? feedItems : feedItems.slice(0, displayLimit);
+  const remainingCount = feedItems.length - displayLimit;
 
   return (
     <div className="bg-white rounded-2xl shadow-sm border border-slate-200 overflow-hidden hover:shadow-xl transition-all duration-300 hover:-translate-y-1">
@@ -73,7 +79,7 @@ const FeedCard = memo(({ feedName, feedItems, index }) => {
         </span>
       </div>
       <div className="divide-y divide-slate-100">
-        {feedItems.slice(0, 6).map((item) => (
+        {visibleItems.map((item) => (
           <a
             key={item.id}
             href={item.link}
@@ -97,6 +103,14 @@ const FeedCard = memo(({ feedName, feedItems, index }) => {
           </a>
         ))}
       </div>
+      {feedItems.length > displayLimit && (
+        <button
+          onClick={() => setIsExpanded(!isExpanded)}
+          className="w-full px-5 py-3 text-sm font-medium text-indigo-600 hover:text-indigo-700 hover:bg-indigo-50 transition-colors border-t border-slate-100"
+        >
+          {isExpanded ? `收起` : `显示更多 (${remainingCount} 条)`}
+        </button>
+      )}
     </div>
   );
 });
