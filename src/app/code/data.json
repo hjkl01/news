@@ -1,5 +1,15 @@
 [
   {
+    "id": 333828,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "hsliuping/TradingAgents-CN",
+    "link": "https://github.com/hsliuping/TradingAgents-CN",
+    "pub_date": "2026-02-10 14:56:05",
+    "author": null
+  },
+  {
     "id": 331167,
     "feed_name": "github all",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
@@ -190,13 +200,403 @@
     "author": null
   },
   {
-    "id": 315832,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "id": 333854,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
     "category": "技术",
-    "title": "amantus-ai/vibetunnel",
-    "link": "https://github.com/amantus-ai/vibetunnel",
-    "pub_date": "2026-02-02 14:56:06",
+    "title": "seaweedfs/seaweedfs",
+    "link": "https://github.com/seaweedfs/seaweedfs",
+    "pub_date": "2026-02-10 14:56:05",
+    "author": null
+  },
+  {
+    "id": 332564,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "crossplane/crossplane",
+    "link": "https://github.com/crossplane/crossplane",
+    "pub_date": "2026-02-10 07:32:18",
+    "author": null
+  },
+  {
+    "id": 331190,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "gofiber/fiber",
+    "link": "https://github.com/gofiber/fiber",
+    "pub_date": "2026-02-09 14:56:27",
+    "author": null
+  },
+  {
+    "id": 331194,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "projectdiscovery/subfinder",
+    "link": "https://github.com/projectdiscovery/subfinder",
+    "pub_date": "2026-02-09 14:56:27",
+    "author": null
+  },
+  {
+    "id": 331199,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "github/gh-aw",
+    "link": "https://github.com/github/gh-aw",
+    "pub_date": "2026-02-09 14:56:27",
+    "author": null
+  },
+  {
+    "id": 329885,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "avelino/awesome-go",
+    "link": "https://github.com/avelino/awesome-go",
+    "pub_date": "2026-02-09 09:12:22",
+    "author": null
+  },
+  {
+    "id": 329888,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "ariga/atlas",
+    "link": "https://github.com/ariga/atlas",
+    "pub_date": "2026-02-09 09:12:22",
+    "author": null
+  },
+  {
+    "id": 329889,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "livekit/livekit",
+    "link": "https://github.com/livekit/livekit",
+    "pub_date": "2026-02-09 09:12:22",
+    "author": null
+  },
+  {
+    "id": 329892,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "sundowndev/phoneinfoga",
+    "link": "https://github.com/sundowndev/phoneinfoga",
+    "pub_date": "2026-02-09 09:12:22",
+    "author": null
+  },
+  {
+    "id": 329898,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "trufflesecurity/trufflehog",
+    "link": "https://github.com/trufflesecurity/trufflehog",
+    "pub_date": "2026-02-09 09:12:22",
+    "author": null
+  },
+  {
+    "id": 328197,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "open-telemetry/opentelemetry-collector-contrib",
+    "link": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+    "pub_date": "2026-02-07 07:21:47",
+    "author": null
+  },
+  {
+    "id": 326580,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "mostlygeek/llama-swap",
+    "link": "https://github.com/mostlygeek/llama-swap",
+    "pub_date": "2026-02-06 14:44:43",
+    "author": null
+  },
+  {
+    "id": 326624,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "quic-go/quic-go",
+    "link": "https://github.com/quic-go/quic-go",
+    "pub_date": "2026-02-06 14:44:43",
+    "author": null
+  },
+  {
+    "id": 323906,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "aquasecurity/trivy",
+    "link": "https://github.com/aquasecurity/trivy",
+    "pub_date": "2026-02-05 14:49:13",
+    "author": null
+  },
+  {
+    "id": 323935,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "gdy666/lucky",
+    "link": "https://github.com/gdy666/lucky",
+    "pub_date": "2026-02-05 14:49:13",
+    "author": null
+  },
+  {
+    "id": 323977,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "rclone/rclone",
+    "link": "https://github.com/rclone/rclone",
+    "pub_date": "2026-02-05 14:49:13",
+    "author": null
+  },
+  {
+    "id": 321309,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "projectdiscovery/naabu",
+    "link": "https://github.com/projectdiscovery/naabu",
+    "pub_date": "2026-02-04 14:42:06",
+    "author": null
+  },
+  {
+    "id": 321336,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "chaitin/SafeLine",
+    "link": "https://github.com/chaitin/SafeLine",
+    "pub_date": "2026-02-04 14:42:06",
+    "author": null
+  },
+  {
+    "id": 321431,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "mikefarah/yq",
+    "link": "https://github.com/mikefarah/yq",
+    "pub_date": "2026-02-04 14:42:06",
+    "author": null
+  },
+  {
+    "id": 318616,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "projectcalico/calico",
+    "link": "https://github.com/projectcalico/calico",
+    "pub_date": "2026-02-03 14:41:53",
+    "author": null
+  },
+  {
+    "id": 333906,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "iDvel/rime-ice",
+    "link": "https://github.com/iDvel/rime-ice",
+    "pub_date": "2026-02-10 14:56:05",
+    "author": null
+  },
+  {
+    "id": 331257,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "nvim-lualine/lualine.nvim",
+    "link": "https://github.com/nvim-lualine/lualine.nvim",
+    "pub_date": "2026-02-09 14:56:27",
+    "author": null
+  },
+  {
+    "id": 331262,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "beyond-all-reason/Beyond-All-Reason",
+    "link": "https://github.com/beyond-all-reason/Beyond-All-Reason",
+    "pub_date": "2026-02-09 14:56:27",
+    "author": null
+  },
+  {
+    "id": 329942,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "folke/lazy.nvim",
+    "link": "https://github.com/folke/lazy.nvim",
+    "pub_date": "2026-02-09 09:12:23",
+    "author": null
+  },
+  {
+    "id": 329950,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "hrsh7th/nvim-cmp",
+    "link": "https://github.com/hrsh7th/nvim-cmp",
+    "pub_date": "2026-02-09 09:12:23",
+    "author": null
+  },
+  {
+    "id": 329956,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "LazyVim/LazyVim",
+    "link": "https://github.com/LazyVim/LazyVim",
+    "pub_date": "2026-02-09 09:12:23",
+    "author": null
+  },
+  {
+    "id": 318654,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "LuaLS/lua-language-server",
+    "link": "https://github.com/LuaLS/lua-language-server",
+    "pub_date": "2026-02-03 14:41:53",
+    "author": null
+  },
+  {
+    "id": 316108,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "carlos-algms/agentic.nvim",
+    "link": "https://github.com/carlos-algms/agentic.nvim",
+    "pub_date": "2026-02-02 14:56:07",
+    "author": null
+  },
+  {
+    "id": 313444,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "PathOfBuildingCommunity/PathOfBuilding",
+    "link": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+    "pub_date": "2026-02-01 14:41:45",
+    "author": null
+  },
+  {
+    "id": 313449,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "esmuellert/codediff.nvim",
+    "link": "https://github.com/esmuellert/codediff.nvim",
+    "pub_date": "2026-02-01 14:41:45",
+    "author": null
+  },
+  {
+    "id": 308088,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "AstroNvim/astrocommunity",
+    "link": "https://github.com/AstroNvim/astrocommunity",
+    "pub_date": "2026-01-30 14:39:29",
+    "author": null
+  },
+  {
+    "id": 306201,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "NeogitOrg/neogit",
+    "link": "https://github.com/NeogitOrg/neogit",
+    "pub_date": "2026-01-29 14:38:21",
+    "author": null
+  },
+  {
+    "id": 306229,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "b0o/SchemaStore.nvim",
+    "link": "https://github.com/b0o/SchemaStore.nvim",
+    "pub_date": "2026-01-29 14:38:21",
+    "author": null
+  },
+  {
+    "id": 306264,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "m00qek/baleia.nvim",
+    "link": "https://github.com/m00qek/baleia.nvim",
+    "pub_date": "2026-01-29 14:38:21",
+    "author": null
+  },
+  {
+    "id": 303590,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "WhoIsSethDaniel/mason-tool-installer.nvim",
+    "link": "https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim",
+    "pub_date": "2026-01-28 14:27:57",
+    "author": null
+  },
+  {
+    "id": 303621,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "Civitasv/cmake-tools.nvim",
+    "link": "https://github.com/Civitasv/cmake-tools.nvim",
+    "pub_date": "2026-01-28 14:27:57",
+    "author": null
+  },
+  {
+    "id": 300656,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "lewis6991/gitsigns.nvim",
+    "link": "https://github.com/lewis6991/gitsigns.nvim",
+    "pub_date": "2026-01-27 14:26:17",
+    "author": null
+  },
+  {
+    "id": 300705,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "folke/snacks.nvim",
+    "link": "https://github.com/folke/snacks.nvim",
+    "pub_date": "2026-01-27 14:26:17",
+    "author": null
+  },
+  {
+    "id": 298068,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "igorlfs/nvim-dap-view",
+    "link": "https://github.com/igorlfs/nvim-dap-view",
+    "pub_date": "2026-01-26 14:28:44",
+    "author": null
+  },
+  {
+    "id": 298133,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "tukui-org/ElvUI",
+    "link": "https://github.com/tukui-org/ElvUI",
+    "pub_date": "2026-01-26 14:28:44",
     "author": null
   },
   {
@@ -400,6 +800,16 @@
     "author": null
   },
   {
+    "id": 333903,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "category": "技术",
+    "title": "koosoli/ESPHomeDesigner",
+    "link": "https://github.com/koosoli/ESPHomeDesigner",
+    "pub_date": "2026-02-10 14:56:05",
+    "author": null
+  },
+  {
     "id": 331228,
     "feed_name": "github javascript",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
@@ -587,416 +997,6 @@
     "title": "WhiskeySockets/Baileys",
     "link": "https://github.com/WhiskeySockets/Baileys",
     "pub_date": "2026-02-01 14:41:45",
-    "author": null
-  },
-  {
-    "id": 313329,
-    "feed_name": "github javascript",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
-    "category": "技术",
-    "title": "swagger-api/swagger-ui",
-    "link": "https://github.com/swagger-api/swagger-ui",
-    "pub_date": "2026-02-01 14:41:45",
-    "author": null
-  },
-  {
-    "id": 332564,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "crossplane/crossplane",
-    "link": "https://github.com/crossplane/crossplane",
-    "pub_date": "2026-02-10 07:32:18",
-    "author": null
-  },
-  {
-    "id": 331190,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "gofiber/fiber",
-    "link": "https://github.com/gofiber/fiber",
-    "pub_date": "2026-02-09 14:56:27",
-    "author": null
-  },
-  {
-    "id": 331194,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "projectdiscovery/subfinder",
-    "link": "https://github.com/projectdiscovery/subfinder",
-    "pub_date": "2026-02-09 14:56:27",
-    "author": null
-  },
-  {
-    "id": 331199,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "github/gh-aw",
-    "link": "https://github.com/github/gh-aw",
-    "pub_date": "2026-02-09 14:56:27",
-    "author": null
-  },
-  {
-    "id": 329885,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "avelino/awesome-go",
-    "link": "https://github.com/avelino/awesome-go",
-    "pub_date": "2026-02-09 09:12:22",
-    "author": null
-  },
-  {
-    "id": 329888,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "ariga/atlas",
-    "link": "https://github.com/ariga/atlas",
-    "pub_date": "2026-02-09 09:12:22",
-    "author": null
-  },
-  {
-    "id": 329889,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "livekit/livekit",
-    "link": "https://github.com/livekit/livekit",
-    "pub_date": "2026-02-09 09:12:22",
-    "author": null
-  },
-  {
-    "id": 329892,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "sundowndev/phoneinfoga",
-    "link": "https://github.com/sundowndev/phoneinfoga",
-    "pub_date": "2026-02-09 09:12:22",
-    "author": null
-  },
-  {
-    "id": 329898,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "trufflesecurity/trufflehog",
-    "link": "https://github.com/trufflesecurity/trufflehog",
-    "pub_date": "2026-02-09 09:12:22",
-    "author": null
-  },
-  {
-    "id": 328197,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "open-telemetry/opentelemetry-collector-contrib",
-    "link": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
-    "pub_date": "2026-02-07 07:21:47",
-    "author": null
-  },
-  {
-    "id": 326580,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "mostlygeek/llama-swap",
-    "link": "https://github.com/mostlygeek/llama-swap",
-    "pub_date": "2026-02-06 14:44:43",
-    "author": null
-  },
-  {
-    "id": 326624,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "quic-go/quic-go",
-    "link": "https://github.com/quic-go/quic-go",
-    "pub_date": "2026-02-06 14:44:43",
-    "author": null
-  },
-  {
-    "id": 323906,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "aquasecurity/trivy",
-    "link": "https://github.com/aquasecurity/trivy",
-    "pub_date": "2026-02-05 14:49:13",
-    "author": null
-  },
-  {
-    "id": 323935,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "gdy666/lucky",
-    "link": "https://github.com/gdy666/lucky",
-    "pub_date": "2026-02-05 14:49:13",
-    "author": null
-  },
-  {
-    "id": 323977,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "rclone/rclone",
-    "link": "https://github.com/rclone/rclone",
-    "pub_date": "2026-02-05 14:49:13",
-    "author": null
-  },
-  {
-    "id": 321309,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "projectdiscovery/naabu",
-    "link": "https://github.com/projectdiscovery/naabu",
-    "pub_date": "2026-02-04 14:42:06",
-    "author": null
-  },
-  {
-    "id": 321336,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "chaitin/SafeLine",
-    "link": "https://github.com/chaitin/SafeLine",
-    "pub_date": "2026-02-04 14:42:06",
-    "author": null
-  },
-  {
-    "id": 321431,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "mikefarah/yq",
-    "link": "https://github.com/mikefarah/yq",
-    "pub_date": "2026-02-04 14:42:06",
-    "author": null
-  },
-  {
-    "id": 318616,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "projectcalico/calico",
-    "link": "https://github.com/projectcalico/calico",
-    "pub_date": "2026-02-03 14:41:53",
-    "author": null
-  },
-  {
-    "id": 318629,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "bytedance/sonic",
-    "link": "https://github.com/bytedance/sonic",
-    "pub_date": "2026-02-03 14:41:53",
-    "author": null
-  },
-  {
-    "id": 331257,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "nvim-lualine/lualine.nvim",
-    "link": "https://github.com/nvim-lualine/lualine.nvim",
-    "pub_date": "2026-02-09 14:56:27",
-    "author": null
-  },
-  {
-    "id": 331262,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "beyond-all-reason/Beyond-All-Reason",
-    "link": "https://github.com/beyond-all-reason/Beyond-All-Reason",
-    "pub_date": "2026-02-09 14:56:27",
-    "author": null
-  },
-  {
-    "id": 329942,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "folke/lazy.nvim",
-    "link": "https://github.com/folke/lazy.nvim",
-    "pub_date": "2026-02-09 09:12:23",
-    "author": null
-  },
-  {
-    "id": 329950,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "hrsh7th/nvim-cmp",
-    "link": "https://github.com/hrsh7th/nvim-cmp",
-    "pub_date": "2026-02-09 09:12:23",
-    "author": null
-  },
-  {
-    "id": 329956,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "LazyVim/LazyVim",
-    "link": "https://github.com/LazyVim/LazyVim",
-    "pub_date": "2026-02-09 09:12:23",
-    "author": null
-  },
-  {
-    "id": 318654,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "LuaLS/lua-language-server",
-    "link": "https://github.com/LuaLS/lua-language-server",
-    "pub_date": "2026-02-03 14:41:53",
-    "author": null
-  },
-  {
-    "id": 316108,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "carlos-algms/agentic.nvim",
-    "link": "https://github.com/carlos-algms/agentic.nvim",
-    "pub_date": "2026-02-02 14:56:07",
-    "author": null
-  },
-  {
-    "id": 313444,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "PathOfBuildingCommunity/PathOfBuilding",
-    "link": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
-    "pub_date": "2026-02-01 14:41:45",
-    "author": null
-  },
-  {
-    "id": 313449,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "esmuellert/codediff.nvim",
-    "link": "https://github.com/esmuellert/codediff.nvim",
-    "pub_date": "2026-02-01 14:41:45",
-    "author": null
-  },
-  {
-    "id": 308088,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "AstroNvim/astrocommunity",
-    "link": "https://github.com/AstroNvim/astrocommunity",
-    "pub_date": "2026-01-30 14:39:29",
-    "author": null
-  },
-  {
-    "id": 306201,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "NeogitOrg/neogit",
-    "link": "https://github.com/NeogitOrg/neogit",
-    "pub_date": "2026-01-29 14:38:21",
-    "author": null
-  },
-  {
-    "id": 306229,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "b0o/SchemaStore.nvim",
-    "link": "https://github.com/b0o/SchemaStore.nvim",
-    "pub_date": "2026-01-29 14:38:21",
-    "author": null
-  },
-  {
-    "id": 306264,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "m00qek/baleia.nvim",
-    "link": "https://github.com/m00qek/baleia.nvim",
-    "pub_date": "2026-01-29 14:38:21",
-    "author": null
-  },
-  {
-    "id": 303590,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "WhoIsSethDaniel/mason-tool-installer.nvim",
-    "link": "https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim",
-    "pub_date": "2026-01-28 14:27:57",
-    "author": null
-  },
-  {
-    "id": 303621,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "Civitasv/cmake-tools.nvim",
-    "link": "https://github.com/Civitasv/cmake-tools.nvim",
-    "pub_date": "2026-01-28 14:27:57",
-    "author": null
-  },
-  {
-    "id": 300656,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "lewis6991/gitsigns.nvim",
-    "link": "https://github.com/lewis6991/gitsigns.nvim",
-    "pub_date": "2026-01-27 14:26:17",
-    "author": null
-  },
-  {
-    "id": 300705,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "folke/snacks.nvim",
-    "link": "https://github.com/folke/snacks.nvim",
-    "pub_date": "2026-01-27 14:26:17",
-    "author": null
-  },
-  {
-    "id": 298068,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "igorlfs/nvim-dap-view",
-    "link": "https://github.com/igorlfs/nvim-dap-view",
-    "pub_date": "2026-01-26 14:28:44",
-    "author": null
-  },
-  {
-    "id": 298133,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "tukui-org/ElvUI",
-    "link": "https://github.com/tukui-org/ElvUI",
-    "pub_date": "2026-01-26 14:28:44",
-    "author": null
-  },
-  {
-    "id": 295523,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "L3MON4D3/LuaSnip",
-    "link": "https://github.com/L3MON4D3/LuaSnip",
-    "pub_date": "2026-01-25 14:23:23",
     "author": null
   },
   {
