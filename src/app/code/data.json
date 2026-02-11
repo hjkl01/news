@@ -1,5 +1,15 @@
 [
   {
+    "id": 337885,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "navidrome/navidrome",
+    "link": "https://github.com/navidrome/navidrome",
+    "pub_date": "2026-02-12 07:26:53",
+    "author": null
+  },
+  {
     "id": 336531,
     "feed_name": "github go",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
@@ -186,16 +196,6 @@
     "category": "技术",
     "title": "aquasecurity/trivy",
     "link": "https://github.com/aquasecurity/trivy",
-    "pub_date": "2026-02-05 14:49:13",
-    "author": null
-  },
-  {
-    "id": 323935,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "gdy666/lucky",
-    "link": "https://github.com/gdy666/lucky",
     "pub_date": "2026-02-05 14:49:13",
     "author": null
   },
