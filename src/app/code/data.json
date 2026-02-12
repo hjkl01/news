@@ -600,6 +600,16 @@
     "author": null
   },
   {
+    "id": 340603,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "MeanderingProgrammer/render-markdown.nvim",
+    "link": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
+    "pub_date": "2026-02-13 07:23:40",
+    "author": null
+  },
+  {
     "id": 339294,
     "feed_name": "github lua",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
@@ -787,16 +797,6 @@
     "title": "Civitasv/cmake-tools.nvim",
     "link": "https://github.com/Civitasv/cmake-tools.nvim",
     "pub_date": "2026-01-28 14:27:57",
-    "author": null
-  },
-  {
-    "id": 300656,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "lewis6991/gitsigns.nvim",
-    "link": "https://github.com/lewis6991/gitsigns.nvim",
-    "pub_date": "2026-01-27 14:26:17",
     "author": null
   },
   {
