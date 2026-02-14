@@ -30,6 +30,56 @@
     "author": null
   },
   {
+    "id": 344512,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "SynkraAI/aios-core",
+    "link": "https://github.com/SynkraAI/aios-core",
+    "pub_date": "2026-02-14 14:35:23",
+    "author": null
+  },
+  {
+    "id": 344513,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "THUDM/slime",
+    "link": "https://github.com/THUDM/slime",
+    "pub_date": "2026-02-14 14:35:23",
+    "author": null
+  },
+  {
+    "id": 344514,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "google-deepmind/superhuman",
+    "link": "https://github.com/google-deepmind/superhuman",
+    "pub_date": "2026-02-14 14:35:23",
+    "author": null
+  },
+  {
+    "id": 344519,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "TelegramMessenger/MTProxy",
+    "link": "https://github.com/TelegramMessenger/MTProxy",
+    "pub_date": "2026-02-14 14:35:23",
+    "author": null
+  },
+  {
+    "id": 344520,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "DebugSwift/DebugSwift",
+    "link": "https://github.com/DebugSwift/DebugSwift",
+    "pub_date": "2026-02-14 14:35:23",
+    "author": null
+  },
+  {
     "id": 341882,
     "feed_name": "github all",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
@@ -180,53 +230,43 @@
     "author": null
   },
   {
-    "id": 326623,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "id": 344546,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
     "category": "技术",
-    "title": "linshenkx/prompt-optimizer",
-    "link": "https://github.com/linshenkx/prompt-optimizer",
-    "pub_date": "2026-02-06 14:44:43",
+    "title": "traefik/traefik",
+    "link": "https://github.com/traefik/traefik",
+    "pub_date": "2026-02-14 14:35:23",
     "author": null
   },
   {
-    "id": 326627,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "id": 344547,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
     "category": "技术",
-    "title": "ZeroTworu/anet",
-    "link": "https://github.com/ZeroTworu/anet",
-    "pub_date": "2026-02-06 14:44:43",
+    "title": "gitleaks/gitleaks",
+    "link": "https://github.com/gitleaks/gitleaks",
+    "pub_date": "2026-02-14 14:35:23",
     "author": null
   },
   {
-    "id": 323879,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "id": 344549,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
     "category": "技术",
-    "title": "likec4/likec4",
-    "link": "https://github.com/likec4/likec4",
-    "pub_date": "2026-02-05 14:49:13",
+    "title": "1Panel-dev/1Panel",
+    "link": "https://github.com/1Panel-dev/1Panel",
+    "pub_date": "2026-02-14 14:35:23",
     "author": null
   },
   {
-    "id": 323883,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "id": 344555,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
     "category": "技术",
-    "title": "LadybirdBrowser/ladybird",
-    "link": "https://github.com/LadybirdBrowser/ladybird",
-    "pub_date": "2026-02-05 14:49:13",
-    "author": null
-  },
-  {
-    "id": 323916,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "Canner/WrenAI",
-    "link": "https://github.com/Canner/WrenAI",
-    "pub_date": "2026-02-05 14:49:13",
+    "title": "hashicorp/terraform",
+    "link": "https://github.com/hashicorp/terraform",
+    "pub_date": "2026-02-14 14:35:23",
     "author": null
   },
   {
@@ -387,46 +427,6 @@
     "title": "gofiber/fiber",
     "link": "https://github.com/gofiber/fiber",
     "pub_date": "2026-02-09 14:56:27",
-    "author": null
-  },
-  {
-    "id": 331194,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "projectdiscovery/subfinder",
-    "link": "https://github.com/projectdiscovery/subfinder",
-    "pub_date": "2026-02-09 14:56:27",
-    "author": null
-  },
-  {
-    "id": 331199,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "github/gh-aw",
-    "link": "https://github.com/github/gh-aw",
-    "pub_date": "2026-02-09 14:56:27",
-    "author": null
-  },
-  {
-    "id": 329885,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "avelino/awesome-go",
-    "link": "https://github.com/avelino/awesome-go",
-    "pub_date": "2026-02-09 09:12:22",
-    "author": null
-  },
-  {
-    "id": 329888,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "ariga/atlas",
-    "link": "https://github.com/ariga/atlas",
-    "pub_date": "2026-02-09 09:12:22",
     "author": null
   },
   {
@@ -630,6 +630,16 @@
     "author": null
   },
   {
+    "id": 344605,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "ThePrimeagen/harpoon",
+    "link": "https://github.com/ThePrimeagen/harpoon",
+    "pub_date": "2026-02-14 14:35:24",
+    "author": null
+  },
+  {
     "id": 340603,
     "feed_name": "github lua",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
@@ -820,13 +830,23 @@
     "author": null
   },
   {
-    "id": 303621,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "id": 344531,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
     "category": "技术",
-    "title": "Civitasv/cmake-tools.nvim",
-    "link": "https://github.com/Civitasv/cmake-tools.nvim",
-    "pub_date": "2026-01-28 14:27:57",
+    "title": "element-hq/synapse",
+    "link": "https://github.com/element-hq/synapse",
+    "pub_date": "2026-02-14 14:35:23",
+    "author": null
+  },
+  {
+    "id": 344532,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "pydantic/pydantic",
+    "link": "https://github.com/pydantic/pydantic",
+    "pub_date": "2026-02-14 14:35:23",
     "author": null
   },
   {
@@ -1007,26 +1027,6 @@
     "title": "thu-ml/tianshou",
     "link": "https://github.com/thu-ml/tianshou",
     "pub_date": "2026-01-26 14:28:44",
-    "author": null
-  },
-  {
-    "id": 295488,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-    "category": "技术",
-    "title": "public-apis/public-apis",
-    "link": "https://github.com/public-apis/public-apis",
-    "pub_date": "2026-01-25 14:23:23",
-    "author": null
-  },
-  {
-    "id": 292657,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-    "category": "技术",
-    "title": "ManimCommunity/manim",
-    "link": "https://github.com/ManimCommunity/manim",
-    "pub_date": "2026-01-24 14:22:57",
     "author": null
   },
   {
