@@ -30,6 +30,26 @@
     "author": null
   },
   {
+    "id": 352466,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "hummingbot/hummingbot",
+    "link": "https://github.com/hummingbot/hummingbot",
+    "pub_date": "2026-02-17 14:48:59",
+    "author": null
+  },
+  {
+    "id": 352473,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "seerr-team/seerr",
+    "link": "https://github.com/seerr-team/seerr",
+    "pub_date": "2026-02-17 14:48:59",
+    "author": null
+  },
+  {
     "id": 349788,
     "feed_name": "github all",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
@@ -210,23 +230,33 @@
     "author": null
   },
   {
-    "id": 341890,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "id": 352508,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
     "category": "技术",
-    "title": "cinnyapp/cinny",
-    "link": "https://github.com/cinnyapp/cinny",
-    "pub_date": "2026-02-13 14:50:34",
+    "title": "ViRb3/wgcf",
+    "link": "https://github.com/ViRb3/wgcf",
+    "pub_date": "2026-02-17 14:48:59",
     "author": null
   },
   {
-    "id": 341893,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "id": 352513,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
     "category": "技术",
-    "title": "danielmiessler/Personal_AI_Infrastructure",
-    "link": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-    "pub_date": "2026-02-13 14:50:34",
+    "title": "charmbracelet/lipgloss",
+    "link": "https://github.com/charmbracelet/lipgloss",
+    "pub_date": "2026-02-17 14:48:59",
+    "author": null
+  },
+  {
+    "id": 352514,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "gosom/google-maps-scraper",
+    "link": "https://github.com/gosom/google-maps-scraper",
+    "pub_date": "2026-02-17 14:48:59",
     "author": null
   },
   {
@@ -400,33 +430,13 @@
     "author": null
   },
   {
-    "id": 339252,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "id": 352532,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
     "category": "技术",
-    "title": "infracost/infracost",
-    "link": "https://github.com/infracost/infracost",
-    "pub_date": "2026-02-12 14:53:03",
-    "author": null
-  },
-  {
-    "id": 339253,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "TecharoHQ/anubis",
-    "link": "https://github.com/TecharoHQ/anubis",
-    "pub_date": "2026-02-12 14:53:03",
-    "author": null
-  },
-  {
-    "id": 337885,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "navidrome/navidrome",
-    "link": "https://github.com/navidrome/navidrome",
-    "pub_date": "2026-02-12 07:26:53",
+    "title": "facebook/pyrefly",
+    "link": "https://github.com/facebook/pyrefly",
+    "pub_date": "2026-02-17 14:48:59",
     "author": null
   },
   {
@@ -620,13 +630,13 @@
     "author": null
   },
   {
-    "id": 329914,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "id": 352556,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
     "category": "技术",
-    "title": "GyulyVGC/sniffnet",
-    "link": "https://github.com/GyulyVGC/sniffnet",
-    "pub_date": "2026-02-09 09:12:23",
+    "title": "folke/which-key.nvim",
+    "link": "https://github.com/folke/which-key.nvim",
+    "pub_date": "2026-02-17 14:48:59",
     "author": null
   },
   {
@@ -820,13 +830,23 @@
     "author": null
   },
   {
-    "id": 306201,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "id": 352479,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
     "category": "技术",
-    "title": "NeogitOrg/neogit",
-    "link": "https://github.com/NeogitOrg/neogit",
-    "pub_date": "2026-01-29 14:38:21",
+    "title": "openai/whisper",
+    "link": "https://github.com/openai/whisper",
+    "pub_date": "2026-02-17 14:48:59",
+    "author": null
+  },
+  {
+    "id": 352494,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "databricks-solutions/ai-dev-kit",
+    "link": "https://github.com/databricks-solutions/ai-dev-kit",
+    "pub_date": "2026-02-17 14:48:59",
     "author": null
   },
   {
@@ -1010,23 +1030,13 @@
     "author": null
   },
   {
-    "id": 321344,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "id": 352537,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
     "category": "技术",
-    "title": "Jeffallan/claude-skills",
-    "link": "https://github.com/Jeffallan/claude-skills",
-    "pub_date": "2026-02-04 14:42:05",
-    "author": null
-  },
-  {
-    "id": 313218,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-    "category": "技术",
-    "title": "frappe/hrms",
-    "link": "https://github.com/frappe/hrms",
-    "pub_date": "2026-02-01 14:41:44",
+    "title": "pshenok/server-survival",
+    "link": "https://github.com/pshenok/server-survival",
+    "pub_date": "2026-02-17 14:48:59",
     "author": null
   },
   {
@@ -1216,16 +1226,6 @@
     "category": "技术",
     "title": "Superalgos/Superalgos",
     "link": "https://github.com/Superalgos/Superalgos",
-    "pub_date": "2026-02-06 14:44:43",
-    "author": null
-  },
-  {
-    "id": 326793,
-    "feed_name": "github javascript",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
-    "category": "技术",
-    "title": "mediacms-io/mediacms",
-    "link": "https://github.com/mediacms-io/mediacms",
     "pub_date": "2026-02-06 14:44:43",
     "author": null
   }
