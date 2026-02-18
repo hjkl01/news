@@ -30,6 +30,36 @@
     "author": null
   },
   {
+    "id": 355135,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "ashishps1/awesome-system-design-resources",
+    "link": "https://github.com/ashishps1/awesome-system-design-resources",
+    "pub_date": "2026-02-18 14:52:55",
+    "author": null
+  },
+  {
+    "id": 355140,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "OpenCTI-Platform/opencti",
+    "link": "https://github.com/OpenCTI-Platform/opencti",
+    "pub_date": "2026-02-18 14:52:55",
+    "author": null
+  },
+  {
+    "id": 355144,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "steipete/summarize",
+    "link": "https://github.com/steipete/summarize",
+    "pub_date": "2026-02-18 14:52:55",
+    "author": null
+  },
+  {
     "id": 352466,
     "feed_name": "github all",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
@@ -200,33 +230,33 @@
     "author": null
   },
   {
-    "id": 341882,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "id": 355164,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
     "category": "技术",
-    "title": "HandsOnLLM/Hands-On-Large-Language-Models",
-    "link": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
-    "pub_date": "2026-02-13 14:50:34",
+    "title": "bia-pain-bache/BPB-Wizard",
+    "link": "https://github.com/bia-pain-bache/BPB-Wizard",
+    "pub_date": "2026-02-18 14:52:55",
     "author": null
   },
   {
-    "id": 341883,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "id": 355178,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
     "category": "技术",
-    "title": "unslothai/unsloth",
-    "link": "https://github.com/unslothai/unsloth",
-    "pub_date": "2026-02-13 14:50:34",
+    "title": "jackc/pgx",
+    "link": "https://github.com/jackc/pgx",
+    "pub_date": "2026-02-18 14:52:55",
     "author": null
   },
   {
-    "id": 341884,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "id": 355179,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
     "category": "技术",
-    "title": "rowboatlabs/rowboat",
-    "link": "https://github.com/rowboatlabs/rowboat",
-    "pub_date": "2026-02-13 14:50:34",
+    "title": "dolthub/dolt",
+    "link": "https://github.com/dolthub/dolt",
+    "pub_date": "2026-02-18 14:52:55",
     "author": null
   },
   {
@@ -397,36 +427,6 @@
     "title": "prometheus/node_exporter",
     "link": "https://github.com/prometheus/node_exporter",
     "pub_date": "2026-02-13 14:50:34",
-    "author": null
-  },
-  {
-    "id": 341929,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "binwiederhier/ntfy",
-    "link": "https://github.com/binwiederhier/ntfy",
-    "pub_date": "2026-02-13 14:50:34",
-    "author": null
-  },
-  {
-    "id": 339244,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "jesseduffield/lazygit",
-    "link": "https://github.com/jesseduffield/lazygit",
-    "pub_date": "2026-02-12 14:53:03",
-    "author": null
-  },
-  {
-    "id": 339245,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "kagent-dev/kagent",
-    "link": "https://github.com/kagent-dev/kagent",
-    "pub_date": "2026-02-12 14:53:03",
     "author": null
   },
   {
@@ -830,6 +830,16 @@
     "author": null
   },
   {
+    "id": 355159,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "TEN-framework/ten-framework",
+    "link": "https://github.com/TEN-framework/ten-framework",
+    "pub_date": "2026-02-18 14:52:55",
+    "author": null
+  },
+  {
     "id": 352479,
     "feed_name": "github python",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
@@ -1020,13 +1030,23 @@
     "author": null
   },
   {
-    "id": 321315,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "id": 355211,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
     "category": "技术",
-    "title": "disler/claude-code-hooks-mastery",
-    "link": "https://github.com/disler/claude-code-hooks-mastery",
-    "pub_date": "2026-02-04 14:42:05",
+    "title": "louislam/uptime-kuma",
+    "link": "https://github.com/louislam/uptime-kuma",
+    "pub_date": "2026-02-18 14:52:55",
+    "author": null
+  },
+  {
+    "id": 355213,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "category": "技术",
+    "title": "processing/p5.js",
+    "link": "https://github.com/processing/p5.js",
+    "pub_date": "2026-02-18 14:52:55",
     "author": null
   },
   {
@@ -1206,26 +1226,6 @@
     "category": "技术",
     "title": "copy/v86",
     "link": "https://github.com/copy/v86",
-    "pub_date": "2026-02-06 14:44:43",
-    "author": null
-  },
-  {
-    "id": 326750,
-    "feed_name": "github javascript",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
-    "category": "技术",
-    "title": "dgreenheck/ez-tree",
-    "link": "https://github.com/dgreenheck/ez-tree",
-    "pub_date": "2026-02-06 14:44:43",
-    "author": null
-  },
-  {
-    "id": 326785,
-    "feed_name": "github javascript",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
-    "category": "技术",
-    "title": "Superalgos/Superalgos",
-    "link": "https://github.com/Superalgos/Superalgos",
     "pub_date": "2026-02-06 14:44:43",
     "author": null
   }
