@@ -30,6 +30,56 @@
     "author": null
   },
   {
+    "id": 365571,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "PowerShell/PowerShell",
+    "link": "https://github.com/PowerShell/PowerShell",
+    "pub_date": "2026-02-22 14:37:35",
+    "author": null
+  },
+  {
+    "id": 365574,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "cloudflare/agents",
+    "link": "https://github.com/cloudflare/agents",
+    "pub_date": "2026-02-22 14:37:35",
+    "author": null
+  },
+  {
+    "id": 365575,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "abhigyanpatwari/GitNexus",
+    "link": "https://github.com/abhigyanpatwari/GitNexus",
+    "pub_date": "2026-02-22 14:37:35",
+    "author": null
+  },
+  {
+    "id": 365579,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "ggml-org/ggml",
+    "link": "https://github.com/ggml-org/ggml",
+    "pub_date": "2026-02-22 14:37:35",
+    "author": null
+  },
+  {
+    "id": 365581,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "hiddify/hiddify-app",
+    "link": "https://github.com/hiddify/hiddify-app",
+    "pub_date": "2026-02-22 14:37:35",
+    "author": null
+  },
+  {
     "id": 362928,
     "feed_name": "github all",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
@@ -180,53 +230,13 @@
     "author": null
   },
   {
-    "id": 355135,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "id": 365609,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
     "category": "技术",
-    "title": "ashishps1/awesome-system-design-resources",
-    "link": "https://github.com/ashishps1/awesome-system-design-resources",
-    "pub_date": "2026-02-18 14:52:55",
-    "author": null
-  },
-  {
-    "id": 355140,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "OpenCTI-Platform/opencti",
-    "link": "https://github.com/OpenCTI-Platform/opencti",
-    "pub_date": "2026-02-18 14:52:55",
-    "author": null
-  },
-  {
-    "id": 355144,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "steipete/summarize",
-    "link": "https://github.com/steipete/summarize",
-    "pub_date": "2026-02-18 14:52:55",
-    "author": null
-  },
-  {
-    "id": 352466,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "hummingbot/hummingbot",
-    "link": "https://github.com/hummingbot/hummingbot",
-    "pub_date": "2026-02-17 14:48:59",
-    "author": null
-  },
-  {
-    "id": 352473,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "seerr-team/seerr",
-    "link": "https://github.com/seerr-team/seerr",
-    "pub_date": "2026-02-17 14:48:59",
+    "title": "zitadel/zitadel",
+    "link": "https://github.com/zitadel/zitadel",
+    "pub_date": "2026-02-22 14:37:35",
     "author": null
   },
   {
@@ -420,13 +430,23 @@
     "author": null
   },
   {
-    "id": 347166,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "id": 365621,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
     "category": "技术",
-    "title": "grafana/mcp-grafana",
-    "link": "https://github.com/grafana/mcp-grafana",
-    "pub_date": "2026-02-15 14:41:11",
+    "title": "qdrant/qdrant",
+    "link": "https://github.com/qdrant/qdrant",
+    "pub_date": "2026-02-22 14:37:36",
+    "author": null
+  },
+  {
+    "id": 365628,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "raphaelmansuy/edgequake",
+    "link": "https://github.com/raphaelmansuy/edgequake",
+    "pub_date": "2026-02-22 14:37:36",
     "author": null
   },
   {
@@ -607,26 +627,6 @@
     "title": "leptos-rs/leptos",
     "link": "https://github.com/leptos-rs/leptos",
     "pub_date": "2026-02-11 14:53:21",
-    "author": null
-  },
-  {
-    "id": 336558,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "katanemo/plano",
-    "link": "https://github.com/katanemo/plano",
-    "pub_date": "2026-02-11 14:53:21",
-    "author": null
-  },
-  {
-    "id": 331218,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "microsoft/edit",
-    "link": "https://github.com/microsoft/edit",
-    "pub_date": "2026-02-09 14:56:27",
     "author": null
   },
   {
