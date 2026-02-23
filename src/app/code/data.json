@@ -30,6 +30,16 @@
     "author": null
   },
   {
+    "id": 368159,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "pub_date": "2026-02-23 14:55:57",
+    "author": null
+  },
+  {
     "id": 365571,
     "feed_name": "github all",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
@@ -220,13 +230,23 @@
     "author": null
   },
   {
-    "id": 357721,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "id": 368190,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
     "category": "技术",
-    "title": "p2r3/convert",
-    "link": "https://github.com/p2r3/convert",
-    "pub_date": "2026-02-19 14:51:22",
+    "title": "charmbracelet/gum",
+    "link": "https://github.com/charmbracelet/gum",
+    "pub_date": "2026-02-23 14:55:57",
+    "author": null
+  },
+  {
+    "id": 368192,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "vitessio/vitess",
+    "link": "https://github.com/vitessio/vitess",
+    "pub_date": "2026-02-23 14:55:57",
     "author": null
   },
   {
@@ -410,23 +430,13 @@
     "author": null
   },
   {
-    "id": 347157,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "id": 368206,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
     "category": "技术",
-    "title": "go-vikunja/vikunja",
-    "link": "https://github.com/go-vikunja/vikunja",
-    "pub_date": "2026-02-15 14:41:11",
-    "author": null
-  },
-  {
-    "id": 347161,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "modelcontextprotocol/go-sdk",
-    "link": "https://github.com/modelcontextprotocol/go-sdk",
-    "pub_date": "2026-02-15 14:41:11",
+    "title": "Roblox/studio-rust-mcp-server",
+    "link": "https://github.com/Roblox/studio-rust-mcp-server",
+    "pub_date": "2026-02-23 14:55:57",
     "author": null
   },
   {
@@ -616,16 +626,6 @@
     "category": "技术",
     "title": "slint-ui/slint",
     "link": "https://github.com/slint-ui/slint",
-    "pub_date": "2026-02-11 14:53:21",
-    "author": null
-  },
-  {
-    "id": 336548,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "leptos-rs/leptos",
-    "link": "https://github.com/leptos-rs/leptos",
     "pub_date": "2026-02-11 14:53:21",
     "author": null
   },
@@ -830,6 +830,26 @@
     "author": null
   },
   {
+    "id": 368168,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "mihail911/modern-software-dev-assignments",
+    "link": "https://github.com/mihail911/modern-software-dev-assignments",
+    "pub_date": "2026-02-23 14:55:57",
+    "author": null
+  },
+  {
+    "id": 368174,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "kaifcodec/user-scanner",
+    "link": "https://github.com/kaifcodec/user-scanner",
+    "pub_date": "2026-02-23 14:55:57",
+    "author": null
+  },
+  {
     "id": 362952,
     "feed_name": "github python",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
@@ -1007,26 +1027,6 @@
     "title": "taylorwilsdon/google_workspace_mcp",
     "link": "https://github.com/taylorwilsdon/google_workspace_mcp",
     "pub_date": "2026-02-11 14:53:21",
-    "author": null
-  },
-  {
-    "id": 331182,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-    "category": "技术",
-    "title": "topoteretes/cognee",
-    "link": "https://github.com/topoteretes/cognee",
-    "pub_date": "2026-02-09 14:56:27",
-    "author": null
-  },
-  {
-    "id": 329864,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-    "category": "技术",
-    "title": "bytedance/UI-TARS",
-    "link": "https://github.com/bytedance/UI-TARS",
-    "pub_date": "2026-02-09 09:12:22",
     "author": null
   },
   {
