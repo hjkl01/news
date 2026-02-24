@@ -30,6 +30,46 @@
     "author": null
   },
   {
+    "id": 370793,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "f/prompts.chat",
+    "link": "https://github.com/f/prompts.chat",
+    "pub_date": "2026-02-24 14:51:30",
+    "author": null
+  },
+  {
+    "id": 370794,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "clash-verge-rev/clash-verge-rev",
+    "link": "https://github.com/clash-verge-rev/clash-verge-rev",
+    "pub_date": "2026-02-24 14:51:30",
+    "author": null
+  },
+  {
+    "id": 370797,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "link": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "pub_date": "2026-02-24 14:51:30",
+    "author": null
+  },
+  {
+    "id": 370799,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "CompVis/stable-diffusion",
+    "link": "https://github.com/CompVis/stable-diffusion",
+    "pub_date": "2026-02-24 14:51:30",
+    "author": null
+  },
+  {
     "id": 368159,
     "feed_name": "github all",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
@@ -187,46 +227,6 @@
     "title": "open-mercato/open-mercato",
     "link": "https://github.com/open-mercato/open-mercato",
     "pub_date": "2026-02-20 14:44:32",
-    "author": null
-  },
-  {
-    "id": 357714,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "HailToDodongo/pyrite64",
-    "link": "https://github.com/HailToDodongo/pyrite64",
-    "pub_date": "2026-02-19 14:51:22",
-    "author": null
-  },
-  {
-    "id": 357716,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "QwenLM/qwen-code",
-    "link": "https://github.com/QwenLM/qwen-code",
-    "pub_date": "2026-02-19 14:51:22",
-    "author": null
-  },
-  {
-    "id": 357717,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "ComposioHQ/composio",
-    "link": "https://github.com/ComposioHQ/composio",
-    "pub_date": "2026-02-19 14:51:22",
-    "author": null
-  },
-  {
-    "id": 357718,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "NirDiamant/RAG_Techniques",
-    "link": "https://github.com/NirDiamant/RAG_Techniques",
-    "pub_date": "2026-02-19 14:51:22",
     "author": null
   },
   {
@@ -430,6 +430,46 @@
     "author": null
   },
   {
+    "id": 370839,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "deuxfleurs-org/garage",
+    "link": "https://github.com/deuxfleurs-org/garage",
+    "pub_date": "2026-02-24 14:51:31",
+    "author": null
+  },
+  {
+    "id": 370848,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "rust-lang/rust",
+    "link": "https://github.com/rust-lang/rust",
+    "pub_date": "2026-02-24 14:51:31",
+    "author": null
+  },
+  {
+    "id": 370849,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "alacritty/alacritty",
+    "link": "https://github.com/alacritty/alacritty",
+    "pub_date": "2026-02-24 14:51:31",
+    "author": null
+  },
+  {
+    "id": 370850,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "GraphiteEditor/Graphite",
+    "link": "https://github.com/GraphiteEditor/Graphite",
+    "pub_date": "2026-02-24 14:51:31",
+    "author": null
+  },
+  {
     "id": 368206,
     "feed_name": "github rust",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
@@ -590,43 +630,13 @@
     "author": null
   },
   {
-    "id": 341940,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "id": 370886,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
     "category": "技术",
-    "title": "screenpipe/screenpipe",
-    "link": "https://github.com/screenpipe/screenpipe",
-    "pub_date": "2026-02-13 14:50:34",
-    "author": null
-  },
-  {
-    "id": 339269,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "feschber/lan-mouse",
-    "link": "https://github.com/feschber/lan-mouse",
-    "pub_date": "2026-02-12 14:53:03",
-    "author": null
-  },
-  {
-    "id": 339275,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "quickwit-oss/quickwit",
-    "link": "https://github.com/quickwit-oss/quickwit",
-    "pub_date": "2026-02-12 14:53:03",
-    "author": null
-  },
-  {
-    "id": 336545,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "slint-ui/slint",
-    "link": "https://github.com/slint-ui/slint",
-    "pub_date": "2026-02-11 14:53:21",
+    "title": "nickjvandyke/opencode.nvim",
+    "link": "https://github.com/nickjvandyke/opencode.nvim",
+    "pub_date": "2026-02-24 14:51:31",
     "author": null
   },
   {
@@ -820,13 +830,23 @@
     "author": null
   },
   {
-    "id": 318654,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "id": 370815,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
     "category": "技术",
-    "title": "LuaLS/lua-language-server",
-    "link": "https://github.com/LuaLS/lua-language-server",
-    "pub_date": "2026-02-03 14:41:53",
+    "title": "Netflix/metaflow",
+    "link": "https://github.com/Netflix/metaflow",
+    "pub_date": "2026-02-24 14:51:30",
+    "author": null
+  },
+  {
+    "id": 370818,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "oppia/oppia",
+    "link": "https://github.com/oppia/oppia",
+    "pub_date": "2026-02-24 14:51:30",
     "author": null
   },
   {
@@ -1007,26 +1027,6 @@
     "title": "chenyme/grok2api",
     "link": "https://github.com/chenyme/grok2api",
     "pub_date": "2026-02-13 14:50:34",
-    "author": null
-  },
-  {
-    "id": 339238,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-    "category": "技术",
-    "title": "4thfever/cultivation-world-simulator",
-    "link": "https://github.com/4thfever/cultivation-world-simulator",
-    "pub_date": "2026-02-12 14:53:03",
-    "author": null
-  },
-  {
-    "id": 336516,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-    "category": "技术",
-    "title": "taylorwilsdon/google_workspace_mcp",
-    "link": "https://github.com/taylorwilsdon/google_workspace_mcp",
-    "pub_date": "2026-02-11 14:53:21",
     "author": null
   },
   {
