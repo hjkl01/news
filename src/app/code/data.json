@@ -30,6 +30,36 @@
     "author": null
   },
   {
+    "id": 373500,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "D4Vinci/Scrapling",
+    "link": "https://github.com/D4Vinci/Scrapling",
+    "pub_date": "2026-02-25 14:53:58",
+    "author": null
+  },
+  {
+    "id": 373503,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "GVCLab/PersonaLive",
+    "link": "https://github.com/GVCLab/PersonaLive",
+    "pub_date": "2026-02-25 14:53:58",
+    "author": null
+  },
+  {
+    "id": 373507,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "openemr/openemr",
+    "link": "https://github.com/openemr/openemr",
+    "pub_date": "2026-02-25 14:53:58",
+    "author": null
+  },
+  {
     "id": 370793,
     "feed_name": "github all",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
@@ -200,33 +230,13 @@
     "author": null
   },
   {
-    "id": 360298,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "id": 373526,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
     "category": "技术",
-    "title": "RichardAtCT/claude-code-telegram",
-    "link": "https://github.com/RichardAtCT/claude-code-telegram",
-    "pub_date": "2026-02-20 14:44:32",
-    "author": null
-  },
-  {
-    "id": 360302,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "freemocap/freemocap",
-    "link": "https://github.com/freemocap/freemocap",
-    "pub_date": "2026-02-20 14:44:32",
-    "author": null
-  },
-  {
-    "id": 360303,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "open-mercato/open-mercato",
-    "link": "https://github.com/open-mercato/open-mercato",
-    "pub_date": "2026-02-20 14:44:32",
+    "title": "keploy/keploy",
+    "link": "https://github.com/keploy/keploy",
+    "pub_date": "2026-02-25 14:53:58",
     "author": null
   },
   {
@@ -420,13 +430,13 @@
     "author": null
   },
   {
-    "id": 347150,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "id": 373541,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
     "category": "技术",
-    "title": "aws/aws-sdk-go-v2",
-    "link": "https://github.com/aws/aws-sdk-go-v2",
-    "pub_date": "2026-02-15 14:41:11",
+    "title": "0xPlaygrounds/rig",
+    "link": "https://github.com/0xPlaygrounds/rig",
+    "pub_date": "2026-02-25 14:53:58",
     "author": null
   },
   {
@@ -620,13 +630,33 @@
     "author": null
   },
   {
-    "id": 341935,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "id": 373565,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
     "category": "技术",
-    "title": "zellij-org/zellij",
-    "link": "https://github.com/zellij-org/zellij",
-    "pub_date": "2026-02-13 14:50:34",
+    "title": "miscusi-peek/cheatengine-mcp-bridge",
+    "link": "https://github.com/miscusi-peek/cheatengine-mcp-bridge",
+    "pub_date": "2026-02-25 14:53:58",
+    "author": null
+  },
+  {
+    "id": 373571,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "opentibiabr/otclient",
+    "link": "https://github.com/opentibiabr/otclient",
+    "pub_date": "2026-02-25 14:53:58",
+    "author": null
+  },
+  {
+    "id": 373576,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "kylechui/nvim-surround",
+    "link": "https://github.com/kylechui/nvim-surround",
+    "pub_date": "2026-02-25 14:53:58",
     "author": null
   },
   {
@@ -797,36 +827,6 @@
     "title": "beyond-all-reason/Beyond-All-Reason",
     "link": "https://github.com/beyond-all-reason/Beyond-All-Reason",
     "pub_date": "2026-02-09 14:56:27",
-    "author": null
-  },
-  {
-    "id": 329942,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "folke/lazy.nvim",
-    "link": "https://github.com/folke/lazy.nvim",
-    "pub_date": "2026-02-09 09:12:23",
-    "author": null
-  },
-  {
-    "id": 329950,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "hrsh7th/nvim-cmp",
-    "link": "https://github.com/hrsh7th/nvim-cmp",
-    "pub_date": "2026-02-09 09:12:23",
-    "author": null
-  },
-  {
-    "id": 329956,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "LazyVim/LazyVim",
-    "link": "https://github.com/LazyVim/LazyVim",
-    "pub_date": "2026-02-09 09:12:23",
     "author": null
   },
   {
@@ -1030,6 +1030,16 @@
     "author": null
   },
   {
+    "id": 373552,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "category": "技术",
+    "title": "axios/axios",
+    "link": "https://github.com/axios/axios",
+    "pub_date": "2026-02-25 14:53:58",
+    "author": null
+  },
+  {
     "id": 362990,
     "feed_name": "github javascript",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
@@ -1217,16 +1227,6 @@
     "title": "qist/tvbox",
     "link": "https://github.com/qist/tvbox",
     "pub_date": "2026-02-11 14:53:21",
-    "author": null
-  },
-  {
-    "id": 333903,
-    "feed_name": "github javascript",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
-    "category": "技术",
-    "title": "koosoli/ESPHomeDesigner",
-    "link": "https://github.com/koosoli/ESPHomeDesigner",
-    "pub_date": "2026-02-10 14:56:05",
     "author": null
   }
 ]
