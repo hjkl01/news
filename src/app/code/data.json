@@ -30,6 +30,36 @@
     "author": null
   },
   {
+    "id": 375964,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "bytedance/deer-flow",
+    "link": "https://github.com/bytedance/deer-flow",
+    "pub_date": "2026-02-26 14:50:47",
+    "author": null
+  },
+  {
+    "id": 375966,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "shareAI-lab/learn-claude-code",
+    "link": "https://github.com/shareAI-lab/learn-claude-code",
+    "pub_date": "2026-02-26 14:50:47",
+    "author": null
+  },
+  {
+    "id": 375974,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "NVIDIA/Megatron-LM",
+    "link": "https://github.com/NVIDIA/Megatron-LM",
+    "pub_date": "2026-02-26 14:50:47",
+    "author": null
+  },
+  {
     "id": 373500,
     "feed_name": "github all",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
@@ -200,33 +230,23 @@
     "author": null
   },
   {
-    "id": 362935,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "id": 375984,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
     "category": "技术",
-    "title": "blackboardsh/electrobun",
-    "link": "https://github.com/blackboardsh/electrobun",
-    "pub_date": "2026-02-21 14:32:42",
+    "title": "cert-manager/cert-manager",
+    "link": "https://github.com/cert-manager/cert-manager",
+    "pub_date": "2026-02-26 14:50:47",
     "author": null
   },
   {
-    "id": 362937,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "id": 375993,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
     "category": "技术",
-    "title": "roboflow/trackers",
-    "link": "https://github.com/roboflow/trackers",
-    "pub_date": "2026-02-21 14:32:42",
-    "author": null
-  },
-  {
-    "id": 362938,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "PostHog/posthog",
-    "link": "https://github.com/PostHog/posthog",
-    "pub_date": "2026-02-21 14:32:42",
+    "title": "weaviate/weaviate",
+    "link": "https://github.com/weaviate/weaviate",
+    "pub_date": "2026-02-26 14:50:47",
     "author": null
   },
   {
@@ -410,23 +430,13 @@
     "author": null
   },
   {
-    "id": 349836,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "id": 375999,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
     "category": "技术",
-    "title": "googleapis/genai-toolbox",
-    "link": "https://github.com/googleapis/genai-toolbox",
-    "pub_date": "2026-02-16 14:55:04",
-    "author": null
-  },
-  {
-    "id": 347149,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "containers/podman",
-    "link": "https://github.com/containers/podman",
-    "pub_date": "2026-02-15 14:41:11",
+    "title": "claration/Impactor",
+    "link": "https://github.com/claration/Impactor",
+    "pub_date": "2026-02-26 14:50:47",
     "author": null
   },
   {
@@ -620,13 +630,23 @@
     "author": null
   },
   {
-    "id": 349856,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "id": 376021,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
     "category": "技术",
-    "title": "solana-labs/solana",
-    "link": "https://github.com/solana-labs/solana",
-    "pub_date": "2026-02-16 14:55:04",
+    "title": "craftzdog/dotfiles-public",
+    "link": "https://github.com/craftzdog/dotfiles-public",
+    "pub_date": "2026-02-26 14:50:48",
+    "author": null
+  },
+  {
+    "id": 376037,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "yetone/avante.nvim",
+    "link": "https://github.com/yetone/avante.nvim",
+    "pub_date": "2026-02-26 14:50:48",
     "author": null
   },
   {
@@ -807,26 +827,6 @@
     "title": "iDvel/rime-ice",
     "link": "https://github.com/iDvel/rime-ice",
     "pub_date": "2026-02-10 14:56:05",
-    "author": null
-  },
-  {
-    "id": 331257,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "nvim-lualine/lualine.nvim",
-    "link": "https://github.com/nvim-lualine/lualine.nvim",
-    "pub_date": "2026-02-09 14:56:27",
-    "author": null
-  },
-  {
-    "id": 331262,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "beyond-all-reason/Beyond-All-Reason",
-    "link": "https://github.com/beyond-all-reason/Beyond-All-Reason",
-    "pub_date": "2026-02-09 14:56:27",
     "author": null
   },
   {
@@ -1030,6 +1030,16 @@
     "author": null
   },
   {
+    "id": 376014,
+    "feed_name": "github javascript",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
+    "category": "技术",
+    "title": "Mintplex-Labs/anything-llm",
+    "link": "https://github.com/Mintplex-Labs/anything-llm",
+    "pub_date": "2026-02-26 14:50:48",
+    "author": null
+  },
+  {
     "id": 373552,
     "feed_name": "github javascript",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
@@ -1216,16 +1226,6 @@
     "category": "技术",
     "title": "maxandrews/Epstein-doc-explorer",
     "link": "https://github.com/maxandrews/Epstein-doc-explorer",
-    "pub_date": "2026-02-11 14:53:21",
-    "author": null
-  },
-  {
-    "id": 336567,
-    "feed_name": "github javascript",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
-    "category": "技术",
-    "title": "qist/tvbox",
-    "link": "https://github.com/qist/tvbox",
     "pub_date": "2026-02-11 14:53:21",
     "author": null
   }
