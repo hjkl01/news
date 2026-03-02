@@ -1,5 +1,35 @@
 [
   {
+    "id": 386441,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "basecamp/omarchy",
+    "link": "https://github.com/basecamp/omarchy",
+    "pub_date": "2026-03-02 14:46:50",
+    "author": null
+  },
+  {
+    "id": 386445,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "K-Dense-AI/claude-scientific-skills",
+    "link": "https://github.com/K-Dense-AI/claude-scientific-skills",
+    "pub_date": "2026-03-02 14:46:50",
+    "author": null
+  },
+  {
+    "id": 386447,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "microsoft/markitdown",
+    "link": "https://github.com/microsoft/markitdown",
+    "pub_date": "2026-03-02 14:46:50",
+    "author": null
+  },
+  {
     "id": 383767,
     "feed_name": "github all",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
@@ -170,33 +200,23 @@
     "author": null
   },
   {
-    "id": 370794,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "id": 386473,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
     "category": "技术",
-    "title": "clash-verge-rev/clash-verge-rev",
-    "link": "https://github.com/clash-verge-rev/clash-verge-rev",
-    "pub_date": "2026-02-24 14:51:30",
+    "title": "mark3labs/mcp-go",
+    "link": "https://github.com/mark3labs/mcp-go",
+    "pub_date": "2026-03-02 14:46:51",
     "author": null
   },
   {
-    "id": 370797,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "id": 386486,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
     "category": "技术",
-    "title": "muratcankoylan/Agent-Skills-for-Context-Engineering",
-    "link": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
-    "pub_date": "2026-02-24 14:51:30",
-    "author": null
-  },
-  {
-    "id": 370799,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "CompVis/stable-diffusion",
-    "link": "https://github.com/CompVis/stable-diffusion",
-    "pub_date": "2026-02-24 14:51:30",
+    "title": "moby/moby",
+    "link": "https://github.com/moby/moby",
+    "pub_date": "2026-03-02 14:46:51",
     "author": null
   },
   {
@@ -380,23 +400,13 @@
     "author": null
   },
   {
-    "id": 357742,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "id": 386493,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
     "category": "技术",
-    "title": "asheshgoplani/agent-deck",
-    "link": "https://github.com/asheshgoplani/agent-deck",
-    "pub_date": "2026-02-19 14:51:22",
-    "author": null
-  },
-  {
-    "id": 357744,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "donetick/donetick",
-    "link": "https://github.com/donetick/donetick",
-    "pub_date": "2026-02-19 14:51:22",
+    "title": "boa-dev/boa",
+    "link": "https://github.com/boa-dev/boa",
+    "pub_date": "2026-03-02 14:46:51",
     "author": null
   },
   {
@@ -590,13 +600,13 @@
     "author": null
   },
   {
-    "id": 352532,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "id": 386524,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
     "category": "技术",
-    "title": "facebook/pyrefly",
-    "link": "https://github.com/facebook/pyrefly",
-    "pub_date": "2026-02-17 14:48:59",
+    "title": "enderneko/Cell",
+    "link": "https://github.com/enderneko/Cell",
+    "pub_date": "2026-03-02 14:46:51",
     "author": null
   },
   {
@@ -790,13 +800,13 @@
     "author": null
   },
   {
-    "id": 339303,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "id": 386469,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
     "category": "技术",
-    "title": "opentibiabr/canary",
-    "link": "https://github.com/opentibiabr/canary",
-    "pub_date": "2026-02-12 14:53:03",
+    "title": "jamwithai/production-agentic-rag-course",
+    "link": "https://github.com/jamwithai/production-agentic-rag-course",
+    "pub_date": "2026-03-02 14:46:51",
     "author": null
   },
   {
@@ -987,16 +997,6 @@
     "title": "bregman-arie/devops-exercises",
     "link": "https://github.com/bregman-arie/devops-exercises",
     "pub_date": "2026-02-16 14:55:04",
-    "author": null
-  },
-  {
-    "id": 347137,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-    "category": "技术",
-    "title": "baserow/baserow",
-    "link": "https://github.com/baserow/baserow",
-    "pub_date": "2026-02-15 14:41:11",
     "author": null
   },
   {
