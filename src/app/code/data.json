@@ -1,205 +1,5 @@
 [
   {
-    "id": 386441,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "basecamp/omarchy",
-    "link": "https://github.com/basecamp/omarchy",
-    "pub_date": "2026-03-02 14:46:50",
-    "author": null
-  },
-  {
-    "id": 386445,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "K-Dense-AI/claude-scientific-skills",
-    "link": "https://github.com/K-Dense-AI/claude-scientific-skills",
-    "pub_date": "2026-03-02 14:46:50",
-    "author": null
-  },
-  {
-    "id": 386447,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "microsoft/markitdown",
-    "link": "https://github.com/microsoft/markitdown",
-    "pub_date": "2026-03-02 14:46:50",
-    "author": null
-  },
-  {
-    "id": 383767,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "X-PLUG/MobileAgent",
-    "link": "https://github.com/X-PLUG/MobileAgent",
-    "pub_date": "2026-03-01 14:36:33",
-    "author": null
-  },
-  {
-    "id": 383768,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "NousResearch/hermes-agent",
-    "link": "https://github.com/NousResearch/hermes-agent",
-    "pub_date": "2026-03-01 14:36:33",
-    "author": null
-  },
-  {
-    "id": 383769,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "superset-sh/superset",
-    "link": "https://github.com/superset-sh/superset",
-    "pub_date": "2026-03-01 14:36:33",
-    "author": null
-  },
-  {
-    "id": 383772,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "Wei-Shaw/sub2api",
-    "link": "https://github.com/Wei-Shaw/sub2api",
-    "pub_date": "2026-03-01 14:36:33",
-    "author": null
-  },
-  {
-    "id": 383776,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "datagouv/datagouv-mcp",
-    "link": "https://github.com/datagouv/datagouv-mcp",
-    "pub_date": "2026-03-01 14:36:33",
-    "author": null
-  },
-  {
-    "id": 383779,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "PaddlePaddle/Paddle",
-    "link": "https://github.com/PaddlePaddle/Paddle",
-    "pub_date": "2026-03-01 14:36:33",
-    "author": null
-  },
-  {
-    "id": 381177,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "tukaani-project/xz",
-    "link": "https://github.com/tukaani-project/xz",
-    "pub_date": "2026-02-28 14:28:31",
-    "author": null
-  },
-  {
-    "id": 381178,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "alibaba/OpenSandbox",
-    "link": "https://github.com/alibaba/OpenSandbox",
-    "pub_date": "2026-02-28 14:28:31",
-    "author": null
-  },
-  {
-    "id": 381179,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "moeru-ai/airi",
-    "link": "https://github.com/moeru-ai/airi",
-    "pub_date": "2026-02-28 14:28:31",
-    "author": null
-  },
-  {
-    "id": 381190,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "ruvnet/ruflo",
-    "link": "https://github.com/ruvnet/ruflo",
-    "pub_date": "2026-02-28 14:28:31",
-    "author": null
-  },
-  {
-    "id": 375964,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "bytedance/deer-flow",
-    "link": "https://github.com/bytedance/deer-flow",
-    "pub_date": "2026-02-26 14:50:47",
-    "author": null
-  },
-  {
-    "id": 375966,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "shareAI-lab/learn-claude-code",
-    "link": "https://github.com/shareAI-lab/learn-claude-code",
-    "pub_date": "2026-02-26 14:50:47",
-    "author": null
-  },
-  {
-    "id": 375974,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "NVIDIA/Megatron-LM",
-    "link": "https://github.com/NVIDIA/Megatron-LM",
-    "pub_date": "2026-02-26 14:50:47",
-    "author": null
-  },
-  {
-    "id": 373500,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "D4Vinci/Scrapling",
-    "link": "https://github.com/D4Vinci/Scrapling",
-    "pub_date": "2026-02-25 14:53:58",
-    "author": null
-  },
-  {
-    "id": 373503,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "GVCLab/PersonaLive",
-    "link": "https://github.com/GVCLab/PersonaLive",
-    "pub_date": "2026-02-25 14:53:58",
-    "author": null
-  },
-  {
-    "id": 373507,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "openemr/openemr",
-    "link": "https://github.com/openemr/openemr",
-    "pub_date": "2026-02-25 14:53:58",
-    "author": null
-  },
-  {
-    "id": 370793,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "f/prompts.chat",
-    "link": "https://github.com/f/prompts.chat",
-    "pub_date": "2026-02-24 14:51:30",
-    "author": null
-  },
-  {
     "id": 386473,
     "feed_name": "github go",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
@@ -400,6 +200,216 @@
     "author": null
   },
   {
+    "id": 389082,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "anthropics/prompt-eng-interactive-tutorial",
+    "link": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+    "pub_date": "2026-03-03 14:42:08",
+    "author": null
+  },
+  {
+    "id": 386441,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "basecamp/omarchy",
+    "link": "https://github.com/basecamp/omarchy",
+    "pub_date": "2026-03-02 14:46:50",
+    "author": null
+  },
+  {
+    "id": 386445,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "K-Dense-AI/claude-scientific-skills",
+    "link": "https://github.com/K-Dense-AI/claude-scientific-skills",
+    "pub_date": "2026-03-02 14:46:50",
+    "author": null
+  },
+  {
+    "id": 386447,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "microsoft/markitdown",
+    "link": "https://github.com/microsoft/markitdown",
+    "pub_date": "2026-03-02 14:46:50",
+    "author": null
+  },
+  {
+    "id": 383767,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "X-PLUG/MobileAgent",
+    "link": "https://github.com/X-PLUG/MobileAgent",
+    "pub_date": "2026-03-01 14:36:33",
+    "author": null
+  },
+  {
+    "id": 383768,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "NousResearch/hermes-agent",
+    "link": "https://github.com/NousResearch/hermes-agent",
+    "pub_date": "2026-03-01 14:36:33",
+    "author": null
+  },
+  {
+    "id": 383769,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "superset-sh/superset",
+    "link": "https://github.com/superset-sh/superset",
+    "pub_date": "2026-03-01 14:36:33",
+    "author": null
+  },
+  {
+    "id": 383772,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "Wei-Shaw/sub2api",
+    "link": "https://github.com/Wei-Shaw/sub2api",
+    "pub_date": "2026-03-01 14:36:33",
+    "author": null
+  },
+  {
+    "id": 383776,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "datagouv/datagouv-mcp",
+    "link": "https://github.com/datagouv/datagouv-mcp",
+    "pub_date": "2026-03-01 14:36:33",
+    "author": null
+  },
+  {
+    "id": 383779,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "PaddlePaddle/Paddle",
+    "link": "https://github.com/PaddlePaddle/Paddle",
+    "pub_date": "2026-03-01 14:36:33",
+    "author": null
+  },
+  {
+    "id": 381177,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "tukaani-project/xz",
+    "link": "https://github.com/tukaani-project/xz",
+    "pub_date": "2026-02-28 14:28:31",
+    "author": null
+  },
+  {
+    "id": 381178,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "alibaba/OpenSandbox",
+    "link": "https://github.com/alibaba/OpenSandbox",
+    "pub_date": "2026-02-28 14:28:31",
+    "author": null
+  },
+  {
+    "id": 381179,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "moeru-ai/airi",
+    "link": "https://github.com/moeru-ai/airi",
+    "pub_date": "2026-02-28 14:28:31",
+    "author": null
+  },
+  {
+    "id": 381190,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "ruvnet/ruflo",
+    "link": "https://github.com/ruvnet/ruflo",
+    "pub_date": "2026-02-28 14:28:31",
+    "author": null
+  },
+  {
+    "id": 375964,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "bytedance/deer-flow",
+    "link": "https://github.com/bytedance/deer-flow",
+    "pub_date": "2026-02-26 14:50:47",
+    "author": null
+  },
+  {
+    "id": 375966,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "shareAI-lab/learn-claude-code",
+    "link": "https://github.com/shareAI-lab/learn-claude-code",
+    "pub_date": "2026-02-26 14:50:47",
+    "author": null
+  },
+  {
+    "id": 375974,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "NVIDIA/Megatron-LM",
+    "link": "https://github.com/NVIDIA/Megatron-LM",
+    "pub_date": "2026-02-26 14:50:47",
+    "author": null
+  },
+  {
+    "id": 373500,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "D4Vinci/Scrapling",
+    "link": "https://github.com/D4Vinci/Scrapling",
+    "pub_date": "2026-02-25 14:53:58",
+    "author": null
+  },
+  {
+    "id": 373503,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "GVCLab/PersonaLive",
+    "link": "https://github.com/GVCLab/PersonaLive",
+    "pub_date": "2026-02-25 14:53:58",
+    "author": null
+  },
+  {
+    "id": 373507,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "openemr/openemr",
+    "link": "https://github.com/openemr/openemr",
+    "pub_date": "2026-02-25 14:53:58",
+    "author": null
+  },
+  {
+    "id": 389141,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "lance-format/lance",
+    "link": "https://github.com/lance-format/lance",
+    "pub_date": "2026-03-03 14:42:09",
+    "author": null
+  },
+  {
     "id": 386493,
     "feed_name": "github rust",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
@@ -590,13 +600,23 @@
     "author": null
   },
   {
-    "id": 357772,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "id": 389163,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
     "category": "技术",
-    "title": "ruvnet/ruvector",
-    "link": "https://github.com/ruvnet/ruvector",
-    "pub_date": "2026-02-19 14:51:22",
+    "title": "marko-cerovac/material.nvim",
+    "link": "https://github.com/marko-cerovac/material.nvim",
+    "pub_date": "2026-03-03 14:42:09",
+    "author": null
+  },
+  {
+    "id": 389165,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "stevearc/quicker.nvim",
+    "link": "https://github.com/stevearc/quicker.nvim",
+    "pub_date": "2026-03-03 14:42:09",
     "author": null
   },
   {
@@ -780,23 +800,23 @@
     "author": null
   },
   {
-    "id": 340603,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "id": 389102,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
     "category": "技术",
-    "title": "MeanderingProgrammer/render-markdown.nvim",
-    "link": "https://github.com/MeanderingProgrammer/render-markdown.nvim",
-    "pub_date": "2026-02-13 07:23:40",
+    "title": "harry0703/MoneyPrinterTurbo",
+    "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "pub_date": "2026-03-03 14:42:08",
     "author": null
   },
   {
-    "id": 339294,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "id": 389105,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
     "category": "技术",
-    "title": "LandSandBoat/server",
-    "link": "https://github.com/LandSandBoat/server",
-    "pub_date": "2026-02-12 14:53:03",
+    "title": "BerriAI/litellm",
+    "link": "https://github.com/BerriAI/litellm",
+    "pub_date": "2026-03-03 14:42:08",
     "author": null
   },
   {
@@ -976,26 +996,6 @@
     "category": "技术",
     "title": "bytedance/Protenix",
     "link": "https://github.com/bytedance/Protenix",
-    "pub_date": "2026-02-16 14:55:04",
-    "author": null
-  },
-  {
-    "id": 349815,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-    "category": "技术",
-    "title": "unclecode/crawl4ai",
-    "link": "https://github.com/unclecode/crawl4ai",
-    "pub_date": "2026-02-16 14:55:04",
-    "author": null
-  },
-  {
-    "id": 349816,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-    "category": "技术",
-    "title": "bregman-arie/devops-exercises",
-    "link": "https://github.com/bregman-arie/devops-exercises",
     "pub_date": "2026-02-16 14:55:04",
     "author": null
   },
