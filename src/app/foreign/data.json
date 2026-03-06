@@ -1,5 +1,15 @@
 [
   {
+    "id": 396830,
+    "feed_name": "RFI 法国国际广播电台",
+    "feed_url": "https://plink.anyfeeder.com/rfi/cn",
+    "category": "国外",
+    "title": "马克龙：法国将向黎巴嫩提供装甲车辆和行动支持 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260305-%E9%A9%AC%E5%85%8B%E9%BE%99-%E6%B3%95%E5%9B%BD%E5%B0%86%E5%90%91%E9%BB%8E%E5%B7%B4%E5%AB%A9%E6%8F%90%E4%BE%9B%E8%A3%85%E7%94%B2%E8%BD%A6%E8%BE%86%E5%92%8C%E8%A1%8C%E5%8A%A8%E6%94%AF%E6%8C%81",
+    "pub_date": "2026-03-06 08:15:02",
+    "author": null
+  },
+  {
     "id": 395532,
     "feed_name": "RFI 法国国际广播电台",
     "feed_url": "https://plink.anyfeeder.com/rfi/cn",
@@ -186,16 +196,6 @@
     "category": "国外",
     "title": "金正恩视察海军舰艇测试，推动海军装备核武器 - RFI - 法国国际广播电台",
     "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260305-%E9%87%91%E6%AD%A3%E6%81%A9%E8%A7%86%E5%AF%9F%E6%B5%B7%E5%86%9B%E8%88%B0%E8%89%87%E6%B5%8B%E8%AF%95%EF%BC%8C%E6%8E%A8%E5%8A%A8%E6%B5%B7%E5%86%9B%E8%A3%85%E5%A4%87%E6%A0%B8%E6%AD%A6%E5%99%A8",
-    "pub_date": "2026-03-05 20:15:04",
-    "author": null
-  },
-  {
-    "id": 395551,
-    "feed_name": "RFI 法国国际广播电台",
-    "feed_url": "https://plink.anyfeeder.com/rfi/cn",
-    "category": "国外",
-    "title": "尼泊尔举行大选 年轻选民与新政党或重塑政治格局 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260305-%E5%B0%BC%E6%B3%8A%E5%B0%94%E4%B8%BE%E8%A1%8C%E5%A4%A7%E9%80%89-%E5%B9%B4%E8%BD%BB%E9%80%89%E6%B0%91%E4%B8%8E%E6%96%B0%E6%94%BF%E5%85%9A%E6%88%96%E9%87%8D%E5%A1%91%E6%94%BF%E6%B2%BB%E6%A0%BC%E5%B1%80",
     "pub_date": "2026-03-05 20:15:04",
     "author": null
   },
@@ -400,6 +400,46 @@
     "author": null
   },
   {
+    "id": 396858,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "调查显示，伊朗小学遭袭时美军正打击邻近海军基地",
+    "link": "https://cn.nytimes.com/world/20260306/iran-school-us-strikes-naval-base/dual",
+    "pub_date": "2026-03-06 13:36:02",
+    "author": null
+  },
+  {
+    "id": 396859,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "特朗普确立先例，美国总统发动战争不再受约束？",
+    "link": "https://cn.nytimes.com/usa/20260306/trump-iran-war-presidential-power/dual",
+    "pub_date": "2026-03-06 13:36:02",
+    "author": null
+  },
+  {
+    "id": 396860,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "中国、朝鲜、俄罗斯，伊朗“友邦”为何无人出手相助？",
+    "link": "https://cn.nytimes.com/world/20260306/iran-turkey-india-russia/dual",
+    "pub_date": "2026-03-06 11:06:02",
+    "author": null
+  },
+  {
+    "id": 396861,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "亚洲股市波动，中东局势带来连锁反应",
+    "link": "https://cn.nytimes.com/business/20260306/stocks-asia-iran-energy/dual",
+    "pub_date": "2026-03-06 09:06:02",
+    "author": null
+  },
+  {
     "id": 395560,
     "feed_name": "纽约时报双语版",
     "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
@@ -557,46 +597,6 @@
     "title": "混乱、困惑和等待：大量国际旅客滞留阿联酋",
     "link": "https://cn.nytimes.com/mideast/20260303/dubai-travelers-stuck-iran-war/dual",
     "pub_date": "2026-03-03 16:06:31",
-    "author": null
-  },
-  {
-    "id": 390371,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
-    "category": "国外",
-    "title": "击毙哈梅内伊，特朗普的行为合法吗？",
-    "link": "https://cn.nytimes.com/usa/20260303/iran-khamenei-dead-trump-legal/dual",
-    "pub_date": "2026-03-03 14:06:02",
-    "author": null
-  },
-  {
-    "id": 389072,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
-    "category": "国外",
-    "title": "从马杜罗到哈梅内伊，在美国监控下无所遁形的外国政要",
-    "link": "https://cn.nytimes.com/world/20260303/maduro-khamenei-trump-surveillance/dual",
-    "pub_date": "2026-03-03 11:36:02",
-    "author": null
-  },
-  {
-    "id": 389073,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
-    "category": "国外",
-    "title": "中东局势冲击亚洲各国经济，中国能源安全面临考验",
-    "link": "https://cn.nytimes.com/business/20260303/us-iran-china-japan-energy/dual",
-    "pub_date": "2026-03-03 09:36:02",
-    "author": null
-  },
-  {
-    "id": 387717,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
-    "category": "国外",
-    "title": "堪比苏联解体：一个衰落的伊朗将对中东意味着什么",
-    "link": "https://cn.nytimes.com/world/20260302/iran-regime-middle-east-khamenei/dual",
-    "pub_date": "2026-03-02 16:06:02",
     "author": null
   }
 ]
