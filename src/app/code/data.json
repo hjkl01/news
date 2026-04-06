@@ -1,5 +1,15 @@
 [
   {
+    "id": 478648,
+    "feed_name": "github python",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+    "category": "技术",
+    "title": "sherlock-project/sherlock",
+    "link": "https://github.com/sherlock-project/sherlock",
+    "pub_date": "2026-04-07 07:30:12",
+    "author": null
+  },
+  {
     "id": 474739,
     "feed_name": "github python",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
@@ -186,16 +196,6 @@
     "category": "技术",
     "title": "sktime/sktime",
     "link": "https://github.com/sktime/sktime",
-    "pub_date": "2026-03-01 14:36:33",
-    "author": null
-  },
-  {
-    "id": 383794,
-    "feed_name": "github python",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-    "category": "技术",
-    "title": "sympy/sympy",
-    "link": "https://github.com/sympy/sympy",
     "pub_date": "2026-03-01 14:36:33",
     "author": null
   },
