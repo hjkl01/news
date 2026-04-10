@@ -1,5 +1,15 @@
 [
   {
+    "id": 488939,
+    "feed_name": "github all",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+    "category": "技术",
+    "title": "obra/superpowers",
+    "link": "https://github.com/obra/superpowers",
+    "pub_date": "2026-04-11 07:29:54",
+    "author": null
+  },
+  {
     "id": 487608,
     "feed_name": "github all",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
@@ -186,16 +196,6 @@
     "category": "技术",
     "title": "Dimillian/Skills",
     "link": "https://github.com/Dimillian/Skills",
-    "pub_date": "2026-04-01 15:10:20",
-    "author": null
-  },
-  {
-    "id": 464498,
-    "feed_name": "github all",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
-    "category": "技术",
-    "title": "neovim/neovim",
-    "link": "https://github.com/neovim/neovim",
     "pub_date": "2026-04-01 15:10:20",
     "author": null
   },
