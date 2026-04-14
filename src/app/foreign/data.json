@@ -200,13 +200,73 @@
     "author": null
   },
   {
-    "id": 265558,
-    "feed_name": "ABC 澳大利亚广播公司",
-    "feed_url": "https://plink.anyfeeder.com/abc/cn",
+    "id": 497970,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
     "category": "国外",
-    "title": "头条：伊朗抗议活动据报已致约2000人死亡 特朗普鼓励抗议者继续",
-    "link": "https://newsapp.abc.net.au/newsapp/chinese/2026-01-14/1%E6%9C%8814%E6%97%A5%E5%A4%B4%E6%9D%A1/106227614",
-    "pub_date": "2026-01-14 07:49:03",
+    "title": "重回世界大战时代",
+    "link": "https://cn.nytimes.com/opinion/20260414/iran-ukraine-world-war/dual",
+    "pub_date": "2026-04-14 14:06:02",
+    "author": null
+  },
+  {
+    "id": 497971,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "言行反复无常、激烈极端：特朗普“疯”了吗？",
+    "link": "https://cn.nytimes.com/usa/20260414/trump-mental-fitness-25th-amendment/dual",
+    "pub_date": "2026-04-14 13:36:02",
+    "author": null
+  },
+  {
+    "id": 497972,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "民粹主义“巫师”奥尔班是如何失去魔力的",
+    "link": "https://cn.nytimes.com/world/20260414/orban-hungary-election-magyar-populism/dual",
+    "pub_date": "2026-04-14 12:36:02",
+    "author": null
+  },
+  {
+    "id": 497973,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "封锁伊朗船只：特朗普与德黑兰谁更能承受经济痛苦？",
+    "link": "https://cn.nytimes.com/world/20260414/iran-war-strait-of-hormuz-blockade-economy/dual",
+    "pub_date": "2026-04-14 11:06:02",
+    "author": null
+  },
+  {
+    "id": 497974,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "马来西亚推出电动汽车新规，中国车企受影响",
+    "link": "https://cn.nytimes.com/asia-pacific/20260414/malaysia-electric-cars-china/dual",
+    "pub_date": "2026-04-14 10:36:01",
+    "author": null
+  },
+  {
+    "id": 497975,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "中东战争催化电网转型：能源危机中世界愈发依赖中国",
+    "link": "https://cn.nytimes.com/business/20260414/china-energy-battery-grid/dual",
+    "pub_date": "2026-04-14 10:06:02",
+    "author": null
+  },
+  {
+    "id": 497976,
+    "feed_name": "纽约时报双语版",
+    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
+    "category": "国外",
+    "title": "美伊谈判：伊朗提议暂停核活动最长五年",
+    "link": "https://cn.nytimes.com/world/20260414/iran-war-trump-news/dual",
+    "pub_date": "2026-04-14 09:36:02",
     "author": null
   },
   {
@@ -337,76 +397,6 @@
     "title": "美伊停火协议后，霍尔木兹海峡航运为何仍未恢复？",
     "link": "https://cn.nytimes.com/world/20260410/iran-strait-of-hormuz-what-to-know/dual",
     "pub_date": "2026-04-10 10:06:02",
-    "author": null
-  },
-  {
-    "id": 484999,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
-    "category": "国外",
-    "title": "陷入停摆的水稻大国：中东战争冲击全球粮食供应",
-    "link": "https://cn.nytimes.com/asia-pacific/20260409/vietnam-rice-food-shortage-iran-war/dual",
-    "pub_date": "2026-04-09 13:36:02",
-    "author": null
-  },
-  {
-    "id": 485000,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
-    "category": "国外",
-    "title": "伊朗战争对经济的损害比你想象的更严重",
-    "link": "https://cn.nytimes.com/opinion/20260409/war-iran-economy-world/dual",
-    "pub_date": "2026-04-09 13:06:01",
-    "author": null
-  },
-  {
-    "id": 485001,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
-    "category": "国外",
-    "title": "美伊达成临时停火，特朗普的战争目标实现了吗？",
-    "link": "https://cn.nytimes.com/usa/20260409/trump-war-goals/dual",
-    "pub_date": "2026-04-09 11:36:02",
-    "author": null
-  },
-  {
-    "id": 485002,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
-    "category": "国外",
-    "title": "美伊停火协议前景不明，黎巴嫩和海湾国家遭受攻击",
-    "link": "https://cn.nytimes.com/world/20260409/iran-ceasefire-hormuz-lebanon/dual",
-    "pub_date": "2026-04-09 11:36:02",
-    "author": null
-  },
-  {
-    "id": 485003,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
-    "category": "国外",
-    "title": "中国如何建立起规模庞大的天然气储备",
-    "link": "https://cn.nytimes.com/business/20260409/china-natural-gas-reserves-iran-war/dual",
-    "pub_date": "2026-04-09 11:06:02",
-    "author": null
-  },
-  {
-    "id": 485004,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
-    "category": "国外",
-    "title": "伊朗官员称北京施压伊朗接受与美国停火协议",
-    "link": "https://cn.nytimes.com/world/20260409/china-iran-cease-fire/dual",
-    "pub_date": "2026-04-09 09:06:02",
-    "author": null
-  },
-  {
-    "id": 482439,
-    "feed_name": "纽约时报双语版",
-    "feed_url": "https://plink.anyfeeder.com/nytimes/dual",
-    "category": "国外",
-    "title": "金正恩女儿驾驶坦克影像曝光，为“接班”铺路？",
-    "link": "https://cn.nytimes.com/asia-pacific/20260408/north-korea-kim-jong-un-daughter-tank/dual",
-    "pub_date": "2026-04-08 13:06:02",
     "author": null
   }
 ]
