@@ -1,205 +1,5 @@
 [
   {
-    "id": 500680,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "paradigmxyz/reth",
-    "link": "https://github.com/paradigmxyz/reth",
-    "pub_date": "2026-04-15 15:20:35",
-    "author": null
-  },
-  {
-    "id": 498043,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "gitbutlerapp/gitbutler",
-    "link": "https://github.com/gitbutlerapp/gitbutler",
-    "pub_date": "2026-04-14 15:20:09",
-    "author": null
-  },
-  {
-    "id": 495429,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "qufei1993/skills-hub",
-    "link": "https://github.com/qufei1993/skills-hub",
-    "pub_date": "2026-04-13 15:50:25",
-    "author": null
-  },
-  {
-    "id": 495431,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "Ataraxy-Labs/sem",
-    "link": "https://github.com/Ataraxy-Labs/sem",
-    "pub_date": "2026-04-13 15:50:25",
-    "author": null
-  },
-  {
-    "id": 492842,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "michaelneale/mesh-llm",
-    "link": "https://github.com/michaelneale/mesh-llm",
-    "pub_date": "2026-04-12 15:05:16",
-    "author": null
-  },
-  {
-    "id": 492848,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "rustfs/rustfs",
-    "link": "https://github.com/rustfs/rustfs",
-    "pub_date": "2026-04-12 15:05:16",
-    "author": null
-  },
-  {
-    "id": 492850,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "chroma-core/chroma",
-    "link": "https://github.com/chroma-core/chroma",
-    "pub_date": "2026-04-12 15:05:16",
-    "author": null
-  },
-  {
-    "id": 490256,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "tailcallhq/forgecode",
-    "link": "https://github.com/tailcallhq/forgecode",
-    "pub_date": "2026-04-11 14:52:50",
-    "author": null
-  },
-  {
-    "id": 487659,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "tree-sitter/tree-sitter",
-    "link": "https://github.com/tree-sitter/tree-sitter",
-    "pub_date": "2026-04-10 15:17:18",
-    "author": null
-  },
-  {
-    "id": 487660,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "rivet-dev/agent-os",
-    "link": "https://github.com/rivet-dev/agent-os",
-    "pub_date": "2026-04-10 15:17:18",
-    "author": null
-  },
-  {
-    "id": 482495,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "aaif-goose/goose",
-    "link": "https://github.com/aaif-goose/goose",
-    "pub_date": "2026-04-08 15:08:55",
-    "author": null
-  },
-  {
-    "id": 482501,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "solana-foundation/anchor",
-    "link": "https://github.com/solana-foundation/anchor",
-    "pub_date": "2026-04-08 15:08:55",
-    "author": null
-  },
-  {
-    "id": 481228,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "memvid/memvid",
-    "link": "https://github.com/memvid/memvid",
-    "pub_date": "2026-04-08 07:32:36",
-    "author": null
-  },
-  {
-    "id": 479960,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "aome510/spotify-player",
-    "link": "https://github.com/aome510/spotify-player",
-    "pub_date": "2026-04-07 15:06:08",
-    "author": null
-  },
-  {
-    "id": 477353,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "Eventual-Inc/Daft",
-    "link": "https://github.com/Eventual-Inc/Daft",
-    "pub_date": "2026-04-06 15:20:47",
-    "author": null
-  },
-  {
-    "id": 477355,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "a2x/cs2-dumper",
-    "link": "https://github.com/a2x/cs2-dumper",
-    "pub_date": "2026-04-06 15:20:47",
-    "author": null
-  },
-  {
-    "id": 477359,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "BurntSushi/ripgrep",
-    "link": "https://github.com/BurntSushi/ripgrep",
-    "pub_date": "2026-04-06 15:20:47",
-    "author": null
-  },
-  {
-    "id": 474763,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "junhoyeo/tokscale",
-    "link": "https://github.com/junhoyeo/tokscale",
-    "pub_date": "2026-04-05 14:56:35",
-    "author": null
-  },
-  {
-    "id": 472233,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "spacedriveapp/spacedrive",
-    "link": "https://github.com/spacedriveapp/spacedrive",
-    "pub_date": "2026-04-04 14:51:07",
-    "author": null
-  },
-  {
-    "id": 469697,
-    "feed_name": "github rust",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
-    "category": "技术",
-    "title": "fathyb/carbonyl",
-    "link": "https://github.com/fathyb/carbonyl",
-    "pub_date": "2026-04-03 14:59:39",
-    "author": null
-  },
-  {
     "id": 505913,
     "feed_name": "github python",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
@@ -597,6 +397,206 @@
     "title": "phaserjs/phaser",
     "link": "https://github.com/phaserjs/phaser",
     "pub_date": "2026-04-08 15:08:56",
+    "author": null
+  },
+  {
+    "id": 507235,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "rustdesk/rustdesk",
+    "link": "https://github.com/rustdesk/rustdesk",
+    "pub_date": "2026-04-18 07:34:25",
+    "author": null
+  },
+  {
+    "id": 500680,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "paradigmxyz/reth",
+    "link": "https://github.com/paradigmxyz/reth",
+    "pub_date": "2026-04-15 15:20:35",
+    "author": null
+  },
+  {
+    "id": 498043,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "gitbutlerapp/gitbutler",
+    "link": "https://github.com/gitbutlerapp/gitbutler",
+    "pub_date": "2026-04-14 15:20:09",
+    "author": null
+  },
+  {
+    "id": 495429,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "qufei1993/skills-hub",
+    "link": "https://github.com/qufei1993/skills-hub",
+    "pub_date": "2026-04-13 15:50:25",
+    "author": null
+  },
+  {
+    "id": 495431,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "Ataraxy-Labs/sem",
+    "link": "https://github.com/Ataraxy-Labs/sem",
+    "pub_date": "2026-04-13 15:50:25",
+    "author": null
+  },
+  {
+    "id": 492842,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "michaelneale/mesh-llm",
+    "link": "https://github.com/michaelneale/mesh-llm",
+    "pub_date": "2026-04-12 15:05:16",
+    "author": null
+  },
+  {
+    "id": 492848,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "rustfs/rustfs",
+    "link": "https://github.com/rustfs/rustfs",
+    "pub_date": "2026-04-12 15:05:16",
+    "author": null
+  },
+  {
+    "id": 492850,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "chroma-core/chroma",
+    "link": "https://github.com/chroma-core/chroma",
+    "pub_date": "2026-04-12 15:05:16",
+    "author": null
+  },
+  {
+    "id": 490256,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "tailcallhq/forgecode",
+    "link": "https://github.com/tailcallhq/forgecode",
+    "pub_date": "2026-04-11 14:52:50",
+    "author": null
+  },
+  {
+    "id": 487659,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "tree-sitter/tree-sitter",
+    "link": "https://github.com/tree-sitter/tree-sitter",
+    "pub_date": "2026-04-10 15:17:18",
+    "author": null
+  },
+  {
+    "id": 487660,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "rivet-dev/agent-os",
+    "link": "https://github.com/rivet-dev/agent-os",
+    "pub_date": "2026-04-10 15:17:18",
+    "author": null
+  },
+  {
+    "id": 482495,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "aaif-goose/goose",
+    "link": "https://github.com/aaif-goose/goose",
+    "pub_date": "2026-04-08 15:08:55",
+    "author": null
+  },
+  {
+    "id": 482501,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "solana-foundation/anchor",
+    "link": "https://github.com/solana-foundation/anchor",
+    "pub_date": "2026-04-08 15:08:55",
+    "author": null
+  },
+  {
+    "id": 481228,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "memvid/memvid",
+    "link": "https://github.com/memvid/memvid",
+    "pub_date": "2026-04-08 07:32:36",
+    "author": null
+  },
+  {
+    "id": 479960,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "aome510/spotify-player",
+    "link": "https://github.com/aome510/spotify-player",
+    "pub_date": "2026-04-07 15:06:08",
+    "author": null
+  },
+  {
+    "id": 477353,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "Eventual-Inc/Daft",
+    "link": "https://github.com/Eventual-Inc/Daft",
+    "pub_date": "2026-04-06 15:20:47",
+    "author": null
+  },
+  {
+    "id": 477355,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "a2x/cs2-dumper",
+    "link": "https://github.com/a2x/cs2-dumper",
+    "pub_date": "2026-04-06 15:20:47",
+    "author": null
+  },
+  {
+    "id": 477359,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "BurntSushi/ripgrep",
+    "link": "https://github.com/BurntSushi/ripgrep",
+    "pub_date": "2026-04-06 15:20:47",
+    "author": null
+  },
+  {
+    "id": 474763,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "junhoyeo/tokscale",
+    "link": "https://github.com/junhoyeo/tokscale",
+    "pub_date": "2026-04-05 14:56:35",
+    "author": null
+  },
+  {
+    "id": 472233,
+    "feed_name": "github rust",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/rust.xml",
+    "category": "技术",
+    "title": "spacedriveapp/spacedrive",
+    "link": "https://github.com/spacedriveapp/spacedrive",
+    "pub_date": "2026-04-04 14:51:07",
     "author": null
   },
   {
