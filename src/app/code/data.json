@@ -1000,6 +1000,16 @@
     "author": null
   },
   {
+    "id": 512480,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "mason-org/mason-lspconfig.nvim",
+    "link": "https://github.com/mason-org/mason-lspconfig.nvim",
+    "pub_date": "2026-04-20 07:30:46",
+    "author": null
+  },
+  {
     "id": 511203,
     "feed_name": "github lua",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
@@ -1187,16 +1197,6 @@
     "title": "mrcjkb/haskell-snippets.nvim",
     "link": "https://github.com/mrcjkb/haskell-snippets.nvim",
     "pub_date": "2026-03-27 14:58:29",
-    "author": null
-  },
-  {
-    "id": 449291,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "mikavilpas/yazi.nvim",
-    "link": "https://github.com/mikavilpas/yazi.nvim",
-    "pub_date": "2026-03-26 14:59:36",
     "author": null
   },
   {
