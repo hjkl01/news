@@ -1,205 +1,5 @@
 [
   {
-    "id": 524259,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "usememos/memos",
-    "link": "https://github.com/usememos/memos",
-    "pub_date": "2026-04-24 15:50:37",
-    "author": null
-  },
-  {
-    "id": 521571,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "syncthing/syncthing",
-    "link": "https://github.com/syncthing/syncthing",
-    "pub_date": "2026-04-23 15:24:29",
-    "author": null
-  },
-  {
-    "id": 521574,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "kgretzky/evilginx2",
-    "link": "https://github.com/kgretzky/evilginx2",
-    "pub_date": "2026-04-23 15:24:29",
-    "author": null
-  },
-  {
-    "id": 521578,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "terrastruct/d2",
-    "link": "https://github.com/terrastruct/d2",
-    "pub_date": "2026-04-23 15:24:29",
-    "author": null
-  },
-  {
-    "id": 518860,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "casdoor/casdoor",
-    "link": "https://github.com/casdoor/casdoor",
-    "pub_date": "2026-04-22 15:21:57",
-    "author": null
-  },
-  {
-    "id": 518861,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "HexmosTech/git-lrc",
-    "link": "https://github.com/HexmosTech/git-lrc",
-    "pub_date": "2026-04-22 15:21:57",
-    "author": null
-  },
-  {
-    "id": 518863,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "envoyproxy/ai-gateway",
-    "link": "https://github.com/envoyproxy/ai-gateway",
-    "pub_date": "2026-04-22 15:21:57",
-    "author": null
-  },
-  {
-    "id": 516276,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "juanfont/headscale",
-    "link": "https://github.com/juanfont/headscale",
-    "pub_date": "2026-04-21 15:23:59",
-    "author": null
-  },
-  {
-    "id": 516278,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "cli/cli",
-    "link": "https://github.com/cli/cli",
-    "pub_date": "2026-04-21 15:23:59",
-    "author": null
-  },
-  {
-    "id": 516281,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "github/github-mcp-server",
-    "link": "https://github.com/github/github-mcp-server",
-    "pub_date": "2026-04-21 15:23:59",
-    "author": null
-  },
-  {
-    "id": 516285,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "open-telemetry/opentelemetry-go",
-    "link": "https://github.com/open-telemetry/opentelemetry-go",
-    "pub_date": "2026-04-21 15:23:59",
-    "author": null
-  },
-  {
-    "id": 514994,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "XTLS/Xray-core",
-    "link": "https://github.com/XTLS/Xray-core",
-    "pub_date": "2026-04-21 07:38:19",
-    "author": null
-  },
-  {
-    "id": 511152,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "versity/versitygw",
-    "link": "https://github.com/versity/versitygw",
-    "pub_date": "2026-04-19 15:08:52",
-    "author": null
-  },
-  {
-    "id": 511153,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "anchore/syft",
-    "link": "https://github.com/anchore/syft",
-    "pub_date": "2026-04-19 15:08:52",
-    "author": null
-  },
-  {
-    "id": 511158,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "VictoriaMetrics/VictoriaMetrics",
-    "link": "https://github.com/VictoriaMetrics/VictoriaMetrics",
-    "pub_date": "2026-04-19 15:08:52",
-    "author": null
-  },
-  {
-    "id": 508507,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "anthropics/anthropic-cli",
-    "link": "https://github.com/anthropics/anthropic-cli",
-    "pub_date": "2026-04-18 14:58:27",
-    "author": null
-  },
-  {
-    "id": 508519,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "iawia002/lux",
-    "link": "https://github.com/iawia002/lux",
-    "pub_date": "2026-04-18 14:58:27",
-    "author": null
-  },
-  {
-    "id": 503295,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "rook/rook",
-    "link": "https://github.com/rook/rook",
-    "pub_date": "2026-04-16 15:21:14",
-    "author": null
-  },
-  {
-    "id": 503298,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "pulumi/pulumi",
-    "link": "https://github.com/pulumi/pulumi",
-    "pub_date": "2026-04-16 15:21:14",
-    "author": null
-  },
-  {
-    "id": 500664,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "sivchari/kumo",
-    "link": "https://github.com/sivchari/kumo",
-    "pub_date": "2026-04-15 15:20:35",
-    "author": null
-  },
-  {
     "id": 524208,
     "feed_name": "github all",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
@@ -997,6 +797,206 @@
     "title": "apache/apisix",
     "link": "https://github.com/apache/apisix",
     "pub_date": "2026-04-13 15:50:26",
+    "author": null
+  },
+  {
+    "id": 524259,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "usememos/memos",
+    "link": "https://github.com/usememos/memos",
+    "pub_date": "2026-04-24 15:50:37",
+    "author": null
+  },
+  {
+    "id": 521571,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "syncthing/syncthing",
+    "link": "https://github.com/syncthing/syncthing",
+    "pub_date": "2026-04-23 15:24:29",
+    "author": null
+  },
+  {
+    "id": 521574,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "kgretzky/evilginx2",
+    "link": "https://github.com/kgretzky/evilginx2",
+    "pub_date": "2026-04-23 15:24:29",
+    "author": null
+  },
+  {
+    "id": 521578,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "terrastruct/d2",
+    "link": "https://github.com/terrastruct/d2",
+    "pub_date": "2026-04-23 15:24:29",
+    "author": null
+  },
+  {
+    "id": 518860,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "casdoor/casdoor",
+    "link": "https://github.com/casdoor/casdoor",
+    "pub_date": "2026-04-22 15:21:57",
+    "author": null
+  },
+  {
+    "id": 518861,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "HexmosTech/git-lrc",
+    "link": "https://github.com/HexmosTech/git-lrc",
+    "pub_date": "2026-04-22 15:21:57",
+    "author": null
+  },
+  {
+    "id": 518863,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "envoyproxy/ai-gateway",
+    "link": "https://github.com/envoyproxy/ai-gateway",
+    "pub_date": "2026-04-22 15:21:57",
+    "author": null
+  },
+  {
+    "id": 516276,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "juanfont/headscale",
+    "link": "https://github.com/juanfont/headscale",
+    "pub_date": "2026-04-21 15:23:59",
+    "author": null
+  },
+  {
+    "id": 516278,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "cli/cli",
+    "link": "https://github.com/cli/cli",
+    "pub_date": "2026-04-21 15:23:59",
+    "author": null
+  },
+  {
+    "id": 516281,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "github/github-mcp-server",
+    "link": "https://github.com/github/github-mcp-server",
+    "pub_date": "2026-04-21 15:23:59",
+    "author": null
+  },
+  {
+    "id": 516285,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "open-telemetry/opentelemetry-go",
+    "link": "https://github.com/open-telemetry/opentelemetry-go",
+    "pub_date": "2026-04-21 15:23:59",
+    "author": null
+  },
+  {
+    "id": 514994,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "XTLS/Xray-core",
+    "link": "https://github.com/XTLS/Xray-core",
+    "pub_date": "2026-04-21 07:38:19",
+    "author": null
+  },
+  {
+    "id": 511152,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "versity/versitygw",
+    "link": "https://github.com/versity/versitygw",
+    "pub_date": "2026-04-19 15:08:52",
+    "author": null
+  },
+  {
+    "id": 511153,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "anchore/syft",
+    "link": "https://github.com/anchore/syft",
+    "pub_date": "2026-04-19 15:08:52",
+    "author": null
+  },
+  {
+    "id": 511158,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "VictoriaMetrics/VictoriaMetrics",
+    "link": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+    "pub_date": "2026-04-19 15:08:52",
+    "author": null
+  },
+  {
+    "id": 508507,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "anthropics/anthropic-cli",
+    "link": "https://github.com/anthropics/anthropic-cli",
+    "pub_date": "2026-04-18 14:58:27",
+    "author": null
+  },
+  {
+    "id": 508519,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "iawia002/lux",
+    "link": "https://github.com/iawia002/lux",
+    "pub_date": "2026-04-18 14:58:27",
+    "author": null
+  },
+  {
+    "id": 503295,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "rook/rook",
+    "link": "https://github.com/rook/rook",
+    "pub_date": "2026-04-16 15:21:14",
+    "author": null
+  },
+  {
+    "id": 503298,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "pulumi/pulumi",
+    "link": "https://github.com/pulumi/pulumi",
+    "pub_date": "2026-04-16 15:21:14",
+    "author": null
+  },
+  {
+    "id": 500664,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "sivchari/kumo",
+    "link": "https://github.com/sivchari/kumo",
+    "pub_date": "2026-04-15 15:20:35",
     "author": null
   },
   {
