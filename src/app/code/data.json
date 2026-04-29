@@ -1000,6 +1000,16 @@
     "author": null
   },
   {
+    "id": 539031,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "NeogitOrg/neogit",
+    "link": "https://github.com/NeogitOrg/neogit",
+    "pub_date": "2026-04-30 07:50:14",
+    "author": null
+  },
+  {
     "id": 534936,
     "feed_name": "github lua",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
@@ -1187,16 +1197,6 @@
     "title": "ibhagwan/fzf-lua",
     "link": "https://github.com/ibhagwan/fzf-lua",
     "pub_date": "2026-04-16 07:37:41",
-    "author": null
-  },
-  {
-    "id": 500708,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "neovim/nvim-lspconfig",
-    "link": "https://github.com/neovim/nvim-lspconfig",
-    "pub_date": "2026-04-15 15:20:35",
     "author": null
   },
   {
