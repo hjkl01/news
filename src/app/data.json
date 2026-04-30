@@ -1,5 +1,2701 @@
 [
   {
+    "id": 540201,
+    "feed_name": "界面新闻: 新闻",
+    "category": "新闻",
+    "title": "社会救助法获表决通过，将于2026年7月1日起施行",
+    "link": "https://www.jiemian.com/article/14367527.html",
+    "pub_date": "2026-04-30 16:07:09"
+  },
+  {
+    "id": 540202,
+    "feed_name": "界面新闻: 新闻",
+    "category": "新闻",
+    "title": "界面早报 | 深圳进一步优化调整房地产相关政策；美联储今年连续第三次宣布维持利率不变",
+    "link": "https://www.jiemian.com/article/14362557.html",
+    "pub_date": "2026-04-30 16:07:09"
+  },
+  {
+    "id": 539888,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "截至3月底我国境内公募基金规模为37.53万亿元",
+    "link": "http://www.news.cn/20260430/f38f4443ebb94091abb9ace9ea0109ea/c.html",
+    "pub_date": "2026-04-30 16:06:32"
+  },
+  {
+    "id": 539618,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "一季度南沙出口船舶货值约80.7亿元  同比增超2.8倍",
+    "link": "https://www.chinanews.com.cn/dwq/2026/04-30/10613766.shtml",
+    "pub_date": "2026-04-30 16:04:35"
+  },
+  {
+    "id": 540957,
+    "feed_name": "简书 / 首页",
+    "category": "娱乐",
+    "title": "2026.4.28",
+    "link": "https://www.jianshu.com/p/851be89755ad",
+    "pub_date": "2026-04-30 16:04:08"
+  },
+  {
+    "id": 540958,
+    "feed_name": "简书 / 首页",
+    "category": "娱乐",
+    "title": "当茶茶喝茶的时候......",
+    "link": "https://www.jianshu.com/p/9954cb2225da",
+    "pub_date": "2026-04-30 16:04:07"
+  },
+  {
+    "id": 540959,
+    "feed_name": "简书 / 首页",
+    "category": "娱乐",
+    "title": "老朋友",
+    "link": "https://www.jianshu.com/p/8e4b1539ad44",
+    "pub_date": "2026-04-30 16:04:07"
+  },
+  {
+    "id": 539619,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "公安机关发布无人机飞行活动安全提示",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613796.shtml",
+    "pub_date": "2026-04-30 16:03:53"
+  },
+  {
+    "id": 539620,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "北京西城区侨联与邢台市侨联缔结友好合作关系",
+    "link": "https://www.chinanews.com.cn/txy/2026/04-30/10613793.shtml",
+    "pub_date": "2026-04-30 16:02:05"
+  },
+  {
+    "id": 539889,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "公安机关发布无人机飞行活动安全提示",
+    "link": "http://www.news.cn/20260430/e59e9982313f4c86b60255de54aea272/c.html",
+    "pub_date": "2026-04-30 16:01:31"
+  },
+  {
+    "id": 539890,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "聚焦服务业扩能提质丨杭州生产性服务业高质量赋能千行百业",
+    "link": "http://www.news.cn/20260430/0b4d78a5cd0940bab65fc10b55ca89a7/c.html",
+    "pub_date": "2026-04-30 16:00:37"
+  },
+  {
+    "id": 539621,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "伊朗总统：美国实施海上封锁“注定失败”",
+    "link": "https://www.chinanews.com.cn/gj/2026/04-30/10613791.shtml",
+    "pub_date": "2026-04-30 16:00:19"
+  },
+  {
+    "id": 539891,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "中国人民解放军南部战区位中国黄岩岛领海领空及周边区域组织战备警巡",
+    "link": "http://www.news.cn/20260430/fab2c77e170f463dacdb2423757b068d/c.html",
+    "pub_date": "2026-04-30 15:59:41"
+  },
+  {
+    "id": 539622,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "河北大名举办万人共舞活动迎“五一”",
+    "link": "https://www.chinanews.com.cn/tp/2026/04-30/10613776.shtml",
+    "pub_date": "2026-04-30 15:59:04"
+  },
+  {
+    "id": 539623,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "现货黄金重回4600美元关口",
+    "link": "https://www.chinanews.com.cn/cj/2026/04-30/10613785.shtml",
+    "pub_date": "2026-04-30 15:58:48"
+  },
+  {
+    "id": 539624,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "清理违规视频11000余条 4月“AI魔改”视频治理成果公布",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613788.shtml",
+    "pub_date": "2026-04-30 15:58:24"
+  },
+  {
+    "id": 539625,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "“遇见吴哥窟”——柬埔寨国家博物馆文物特展在北京开幕",
+    "link": "http://www.chinanews.com.cn/tp/hd2011/2026/04-30/1190066.shtml",
+    "pub_date": "2026-04-30 15:58:08"
+  },
+  {
+    "id": 539718,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "S佳通：因涉嫌信息披露违法违规，证监会决定对公司立案",
+    "link": "https://36kr.com/newsflashes/3789027235273989?f=rss",
+    "pub_date": "2026-04-30 15:57:49"
+  },
+  {
+    "id": 539626,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "国防部：民进党当局不管怎么阻挠都是枉费心机",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613794.shtml",
+    "pub_date": "2026-04-30 15:56:24"
+  },
+  {
+    "id": 539627,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "中国铁塔精彩亮相第九届数字中国建设峰会",
+    "link": "https://www.chinanews.com.cn/cj/2026/04-30/10613789.shtml",
+    "pub_date": "2026-04-30 15:56:22"
+  },
+  {
+    "id": 539628,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "“多彩贵州号”主题旅游列车首发启航",
+    "link": "https://www.chinanews.com.cn/cj/2026/04-30/10613762.shtml",
+    "pub_date": "2026-04-30 15:55:52"
+  },
+  {
+    "id": 539629,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "香港浸大举办音乐会庆祝创校70周年  机器人歌手、“悟空”齐加盟",
+    "link": "https://www.chinanews.com.cn/dwq/2026/04-30/10613763.shtml",
+    "pub_date": "2026-04-30 15:55:50"
+  },
+  {
+    "id": 539630,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "记者手记：亚沙会沙滩之上，文旅体融合发展",
+    "link": "https://www.chinanews.com.cn/sh/2026/04-30/10613760.shtml",
+    "pub_date": "2026-04-30 15:54:58"
+  },
+  {
+    "id": 539631,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "广东阳江边检一季度保障进口铁矿超200万吨",
+    "link": "https://www.chinanews.com.cn/dwq/2026/04-30/10613758.shtml",
+    "pub_date": "2026-04-30 15:54:36"
+  },
+  {
+    "id": 539632,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "北京京剧院赴广西“学艺” 南北院团共续梨园薪火",
+    "link": "https://www.chinanews.com.cn/cul/2026/04-30/10613756.shtml",
+    "pub_date": "2026-04-30 15:54:18"
+  },
+  {
+    "id": 539633,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "昆明海关所属孟连海关涉案财物拍卖公告（第二次）",
+    "link": "https://www.chinanews.com.cn/aseaninfo/2026/04-30/10613781.shtml",
+    "pub_date": "2026-04-30 15:53:54"
+  },
+  {
+    "id": 539634,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "聚焦数字新业态发展  各界共话数字中国建设",
+    "link": "https://www.chinanews.com.cn/cj/2026/04-30/10613753.shtml",
+    "pub_date": "2026-04-30 15:53:38"
+  },
+  {
+    "id": 539635,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "中国人民解放军南部战区位中国黄岩岛领海领空及周边区域组织战备警巡",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613779.shtml",
+    "pub_date": "2026-04-30 15:53:22"
+  },
+  {
+    "id": 539719,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "现货黄金向上触及4600美元/盎司",
+    "link": "https://36kr.com/newsflashes/3789022199930121?f=rss",
+    "pub_date": "2026-04-30 15:52:42"
+  },
+  {
+    "id": 539892,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "韩国特检组就尹锡悦涉嫌妨碍逮捕案二审结果提出抗诉",
+    "link": "http://www.news.cn/20260430/ef46bac098f84324b44f3aa97e4aa496/c.html",
+    "pub_date": "2026-04-30 15:52:12"
+  },
+  {
+    "id": 539893,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "黎巴嫩超100万民众将面临严重粮食不安全状况",
+    "link": "http://www.news.cn/20260430/189aa97a4cdc4e3ca92484744c96c148/c.html",
+    "pub_date": "2026-04-30 15:52:07"
+  },
+  {
+    "id": 539636,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "湖南电影首次亮相东非最大电影节",
+    "link": "https://www.chinanews.com.cn/cul/2026/04-30/10613751.shtml",
+    "pub_date": "2026-04-30 15:51:16"
+  },
+  {
+    "id": 539637,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "国防部：中方愿继续为实现“无雷世界”作出贡献",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613774.shtml",
+    "pub_date": "2026-04-30 15:50:56"
+  },
+  {
+    "id": 539894,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "列国鉴丨记者观察：“提神与修复并行”——韩国MZ世代的生活方式",
+    "link": "http://www.news.cn/20260430/43a7bf37273641aaaa5d755e81c98e1f/c.html",
+    "pub_date": "2026-04-30 15:50:44"
+  },
+  {
+    "id": 539638,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "海口海关玉沙食堂凉菜间改造项目比选公告",
+    "link": "https://www.chinanews.com.cn/aseaninfo/2026/04-30/10613777.shtml",
+    "pub_date": "2026-04-30 15:50:38"
+  },
+  {
+    "id": 539895,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "直击2026北京车展：京津冀三地推动汽车产业协同发展",
+    "link": "http://www.news.cn/20260430/be3be86e3ae64c64855a3dd4c201c1ec/c.html",
+    "pub_date": "2026-04-30 15:48:34"
+  },
+  {
+    "id": 540676,
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "无人机实名登记和激活要求将于 5 月 1 日起全国实施",
+    "link": "https://www.ithome.com/0/945/476.htm",
+    "pub_date": "2026-04-30 15:48:18"
+  },
+  {
+    "id": 539639,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "《习近平谈治国理政》第五卷英文版中马读者会在吉隆坡举行",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613773.shtml",
+    "pub_date": "2026-04-30 15:47:20"
+  },
+  {
+    "id": 539640,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "中国电信董事长：AI技术迭代提速  产业呈三大新变化",
+    "link": "https://www.chinanews.com.cn/cj/2026/04-30/10613749.shtml",
+    "pub_date": "2026-04-30 15:47:10"
+  },
+  {
+    "id": 539641,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "浙江省欧美同学会工作座谈交流会在杭州召开",
+    "link": "https://www.chinanews.com.cn/txy/2026/04-30/10613772.shtml",
+    "pub_date": "2026-04-30 15:46:30"
+  },
+  {
+    "id": 539642,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "拉萨首批24小时车驾管自助站正式投用",
+    "link": "https://www.chinanews.com.cn/sh/2026/04-30/10613735.shtml",
+    "pub_date": "2026-04-30 15:45:56"
+  },
+  {
+    "id": 539720,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "亚马逊云科技推出桌面AI助手Amazon Quick",
+    "link": "https://36kr.com/newsflashes/3789015541439491?f=rss",
+    "pub_date": "2026-04-30 15:45:55"
+  },
+  {
+    "id": 539643,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "哈铁“五一”小长假预计运送旅客312万人次",
+    "link": "https://www.chinanews.com.cn/cj/2026/04-30/10613732.shtml",
+    "pub_date": "2026-04-30 15:45:34"
+  },
+  {
+    "id": 539644,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "第三届青超联赛5月10日启幕 8支劲旅参与14轮56场角逐",
+    "link": "https://www.chinanews.com.cn/ty/2026/04-30/10613731.shtml",
+    "pub_date": "2026-04-30 15:45:14"
+  },
+  {
+    "id": 539721,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "国调基金二期入股海古德",
+    "link": "https://36kr.com/newsflashes/3789014801194248?f=rss",
+    "pub_date": "2026-04-30 15:45:10"
+  },
+  {
+    "id": 539645,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "第二届西藏高校青年歌手大赛总决赛落幕 西藏大学学子夺魁",
+    "link": "https://www.chinanews.com.cn/edu/2026/04-30/10613728.shtml",
+    "pub_date": "2026-04-30 15:44:50"
+  },
+  {
+    "id": 540693,
+    "feed_name": "爱范儿",
+    "category": "科技",
+    "title": "19.98 万元起，充满电仅需 9 分钟的方程豹钛 7 EV 闪充版上市，天神之眼 B 需额外付费",
+    "link": "https://www.ifanr.com/1664606?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "pub_date": "2026-04-30 15:44:34"
+  },
+  {
+    "id": 539646,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "习近平：在省部级主要领导干部学习贯彻党的二十届四中全会精神专题研讨班上的讲话",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613770.shtml",
+    "pub_date": "2026-04-30 15:44:17"
+  },
+  {
+    "id": 539647,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "《放开那个女巫》动画全球播放 被海外观众联名催更",
+    "link": "https://www.chinanews.com.cn/cul/2026/04-30/10613727.shtml",
+    "pub_date": "2026-04-30 15:44:07"
+  },
+  {
+    "id": 539896,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "芬兰近25年气温上升速度翻倍",
+    "link": "http://www.news.cn/20260430/cca22ddbcc5340f38c1e61a1d0fb5c7d/c.html",
+    "pub_date": "2026-04-30 15:44:06"
+  },
+  {
+    "id": 539685,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "缅甸总统敏昂莱会见王毅是否讨论了昂山素季？外交部回应",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613764.shtml",
+    "pub_date": "2026-04-30 15:42:01"
+  },
+  {
+    "id": 539897,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "美政府解聘国家科学委员会成员引批评",
+    "link": "http://www.news.cn/20260430/7c8de79f86224bc2be7eff4aec5d9135/c.html",
+    "pub_date": "2026-04-30 15:41:49"
+  },
+  {
+    "id": 539898,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "外交部批一些日本政客：对历史遗留问题噤若寒蝉 却对中国台湾说三道四",
+    "link": "http://www.news.cn/20260430/3032d00f911742739734e278292fda4d/c.html",
+    "pub_date": "2026-04-30 15:41:35"
+  },
+  {
+    "id": 539899,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "我在现场丨我在伊斯兰堡“时刻准备着”见证美伊第二轮谈判",
+    "link": "http://www.news.cn/20260430/86f388d8f14e42fc996a3998e3304265/c.html",
+    "pub_date": "2026-04-30 15:41:21"
+  },
+  {
+    "id": 539686,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "王毅同比利时副首相兼外交大臣普雷沃会谈",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613748.shtml",
+    "pub_date": "2026-04-30 15:40:43"
+  },
+  {
+    "id": 539900,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "2025年我国低空经济发展总体稳中向好",
+    "link": "http://www.news.cn/20260430/f8eff8bdbc36478aa691b719e9c7fb1d/c.html",
+    "pub_date": "2026-04-30 15:40:24"
+  },
+  {
+    "id": 539901,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "《习近平谈治国理政》第五卷英文版中马读者会在吉隆坡举行",
+    "link": "http://www.news.cn/20260430/b7d513b9a9374cf1a2b75beba572cd64/c.html",
+    "pub_date": "2026-04-30 15:40:17"
+  },
+  {
+    "id": 539687,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "中国将担任联合国安理会5月轮值主席 外交部：期待共同践行真正的多边主义",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613759.shtml",
+    "pub_date": "2026-04-30 15:39:47"
+  },
+  {
+    "id": 539902,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "【双语】国防部：中方愿继续为实现“无雷世界”作出贡献",
+    "link": "http://www.news.cn/20260430/533b2770cf1b4a51a85419f7fdce2df7/c.html",
+    "pub_date": "2026-04-30 15:39:32"
+  },
+  {
+    "id": 540677,
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "开发者恢复拓竹 3D 打印机受限功能，遭法务威胁后关停项目",
+    "link": "https://www.ithome.com/0/945/471.htm",
+    "pub_date": "2026-04-30 15:39:22"
+  },
+  {
+    "id": 539688,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "王毅会见老挝副总理兼外长：愿深化在东盟等多边框架内合作",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613745.shtml",
+    "pub_date": "2026-04-30 15:38:39"
+  },
+  {
+    "id": 540678,
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "SEMI：AI 数据中心相关的硅晶圆需求已延伸至电源管理组件",
+    "link": "https://www.ithome.com/0/945/469.htm",
+    "pub_date": "2026-04-30 15:38:22"
+  },
+  {
+    "id": 539689,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "日方谋求恢复二战时军衔称谓 中方：这是在受害国人民伤口上撒盐",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613757.shtml",
+    "pub_date": "2026-04-30 15:37:57"
+  },
+  {
+    "id": 539690,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "日本政客操弄所谓赖清德窜访非洲受阻问题 中方回应",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613755.shtml",
+    "pub_date": "2026-04-30 15:37:13"
+  },
+  {
+    "id": 540679,
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "俞敏洪回应获 180 万股授予：没领过东方甄选一分钱工资，股权兑现后全部用于设立基金和捐献",
+    "link": "https://www.ithome.com/0/945/467.htm",
+    "pub_date": "2026-04-30 15:36:17"
+  },
+  {
+    "id": 539691,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "重庆市政协开展界别协商 完善横向生态补偿机制",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613725.shtml",
+    "pub_date": "2026-04-30 15:35:57"
+  },
+  {
+    "id": 539722,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "沧州大化：聚海分公司生产装置计划停产检修20天",
+    "link": "https://36kr.com/newsflashes/3789005694983177?f=rss",
+    "pub_date": "2026-04-30 15:35:54"
+  },
+  {
+    "id": 539692,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "九三学社山东省宣传思想工作培训班在济南举办",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613719.shtml",
+    "pub_date": "2026-04-30 15:34:01"
+  },
+  {
+    "id": 539693,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "2026年北京香山论坛先导会将在北京举办",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613741.shtml",
+    "pub_date": "2026-04-30 15:33:35"
+  },
+  {
+    "id": 539903,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "健康我来说丨孩子意外皮肤受伤，也有黄金救治时间",
+    "link": "http://www.news.cn/20260430/c02edddd673049a79308e65c94ec9f6a/c.html",
+    "pub_date": "2026-04-30 15:33:17"
+  },
+  {
+    "id": 539694,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "外交部：中方支持缅甸各方实现更广泛、更牢固、更持久的和平和解",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613744.shtml",
+    "pub_date": "2026-04-30 15:32:39"
+  },
+  {
+    "id": 539723,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "联发科一季度毛利率为46.3%，同比下滑1.8个百分点",
+    "link": "https://36kr.com/newsflashes/3789001675398403?f=rss",
+    "pub_date": "2026-04-30 15:31:49"
+  },
+  {
+    "id": 539904,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "外交部评日本计划恢复“大佐”等称谓：这是在受害国人民的伤口上撒盐",
+    "link": "http://www.news.cn/20260430/93a37934a35a4d0db2cdbbf90bae4cbf/c.html",
+    "pub_date": "2026-04-30 15:31:44"
+  },
+  {
+    "id": 539905,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "国防部：欢迎台湾同胞常回家看看",
+    "link": "http://www.news.cn/20260430/8f71a09264c0473fa971293c8ade1b5b/c.html",
+    "pub_date": "2026-04-30 15:31:34"
+  },
+  {
+    "id": 539695,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "外交部批一些日本政客：对历史遗留问题噤若寒蝉 却对中国台湾说三道四",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613742.shtml",
+    "pub_date": "2026-04-30 15:31:25"
+  },
+  {
+    "id": 539906,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "外交部：中方支持缅甸各方实现更广泛、更牢固、更持久的和平和解",
+    "link": "http://www.news.cn/20260430/eb610a8233c14d0b9524a3ed77a3415c/c.html",
+    "pub_date": "2026-04-30 15:31:21"
+  },
+  {
+    "id": 539696,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "首都民营经济政策宣讲服务团走进朝阳",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613718.shtml",
+    "pub_date": "2026-04-30 15:30:37"
+  },
+  {
+    "id": 540680,
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "微软预计未来裁员规模将继续扩大，CFO 胡德称将打造“小而精”团队",
+    "link": "https://www.ithome.com/0/945/463.htm",
+    "pub_date": "2026-04-30 15:30:30"
+  },
+  {
+    "id": 540748,
+    "feed_name": "新浪专栏 / 创事记",
+    "category": "科技",
+    "title": "火星人口100万！马斯克被定了人类有史以来最伟大KPI",
+    "link": "https://finance.sina.com.cn/tech/csj/2026-04-30/doc-inhwhktz0286736.shtml",
+    "pub_date": "2026-04-30 15:29:44"
+  },
+  {
+    "id": 539697,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "国防部：欢迎台湾同胞常回家看看",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613738.shtml",
+    "pub_date": "2026-04-30 15:28:17"
+  },
+  {
+    "id": 539708,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "不谈空话，谈合作丨这场AI+产业对接会只聊落地",
+    "link": "https://36kr.com/p/3788996733803782?f=rss",
+    "pub_date": "2026-04-30 15:28:06"
+  },
+  {
+    "id": 539907,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "怕“分心”？特朗普再施压以总统赦免内塔尼亚胡",
+    "link": "http://www.news.cn/20260430/82144430297e4c15a12ead571d8359dd/c.html",
+    "pub_date": "2026-04-30 15:27:44"
+  },
+  {
+    "id": 539648,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "工信部：一季度我国软件和信息技术服务业运行态势良好",
+    "link": "https://www.chinanews.com.cn/cj/2026/04-30/10613734.shtml",
+    "pub_date": "2026-04-30 15:27:21"
+  },
+  {
+    "id": 539698,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "外交部评日本计划恢复“大佐”等称谓：这是在受害国人民的伤口上撒盐",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613736.shtml",
+    "pub_date": "2026-04-30 15:26:37"
+  },
+  {
+    "id": 539699,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "中国出台社会救助法  健全社会救助体系兜牢民生底线",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613703.shtml",
+    "pub_date": "2026-04-30 15:26:25"
+  },
+  {
+    "id": 539700,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "俄罗斯海军舰艇编队结束技术停靠离开山东青岛",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613733.shtml",
+    "pub_date": "2026-04-30 15:25:57"
+  },
+  {
+    "id": 540681,
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "邮政、顺丰等 9 家企业签下上海首份行业协商协议：面对投诉，不得未经核实就处罚快递员",
+    "link": "https://www.ithome.com/0/945/457.htm",
+    "pub_date": "2026-04-30 15:21:58"
+  },
+  {
+    "id": 539701,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "上海保险交易所股份有限公司原党委书记、董事长任春生受贿案一审宣判",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613729.shtml",
+    "pub_date": "2026-04-30 15:21:36"
+  },
+  {
+    "id": 539908,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "无人机实名登记和激活要求将于5月1日起全国实施",
+    "link": "http://www.news.cn/20260430/7a218bcbceaf4a9f8bd2dc2650992883/c.html",
+    "pub_date": "2026-04-30 15:20:23"
+  },
+  {
+    "id": 539702,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "中国科技馆“五一”推出系列科普活动 提供丰富多元科技文化体验",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613687.shtml",
+    "pub_date": "2026-04-30 15:19:02"
+  },
+  {
+    "id": 539724,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "工信部：一季度我国软件业务收入34920亿元，同比增长11.6%",
+    "link": "https://36kr.com/newsflashes/3788987764972807?f=rss",
+    "pub_date": "2026-04-30 15:17:40"
+  },
+  {
+    "id": 539909,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "上海保险交易所股份有限公司原党委书记、董事长任春生受贿案一审宣判",
+    "link": "http://www.news.cn/20260430/dc8d975dcec94e13934df366d540e43c/c.html",
+    "pub_date": "2026-04-30 15:17:18"
+  },
+  {
+    "id": 540682,
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "腾讯应用宝 Mac 版开启内测：支持 EXE 游戏上传与运行、APK 软件独家适配",
+    "link": "https://www.ithome.com/0/945/448.htm",
+    "pub_date": "2026-04-30 15:17:03"
+  },
+  {
+    "id": 540022,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "习近平：在省部级主要领导干部学习贯彻党的二十届四中全会精神专题研讨班上的讲话",
+    "link": "https://m.thepaper.cn/detail/33083726",
+    "pub_date": "2026-04-30 15:11:49"
+  },
+  {
+    "id": 539988,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "台民航局反驳指控 指大陆片面中止协商才是根源所在",
+    "link": "https://www.zaobao.com/news/china/story20260430-8978193",
+    "pub_date": "2026-04-30 15:10:23"
+  },
+  {
+    "id": 539910,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "追光丨潮涌亚沙 情聚天涯：这N个瞬间值得铭记",
+    "link": "http://www.news.cn/20260430/a889306d701140cbae0c0861f39b6eeb/c.html",
+    "pub_date": "2026-04-30 15:10:20"
+  },
+  {
+    "id": 540816,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "OpenAI公告正经解释：为什么GPT-5.5爱说“哥布林”",
+    "link": "https://www.woshipm.com/ai/6387151.html",
+    "pub_date": "2026-04-30 15:10:19"
+  },
+  {
+    "id": 540023,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "A股三大股指涨跌互现：算力芯片产业链爆发，两市成交27409亿元",
+    "link": "https://m.thepaper.cn/detail/33083715",
+    "pub_date": "2026-04-30 15:09:27"
+  },
+  {
+    "id": 539989,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "台东引海缆断裂启用备援通信 疑船骸移位压损电缆",
+    "link": "https://www.zaobao.com/news/china/story20260430-8978206",
+    "pub_date": "2026-04-30 15:09:15"
+  },
+  {
+    "id": 540024,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "温度适宜，还给马准备玩具！澎湃新闻带你探访顶级赛马的马厩",
+    "link": "https://m.thepaper.cn/detail/33083680",
+    "pub_date": "2026-04-30 15:08:32"
+  },
+  {
+    "id": 539703,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "中国三部门启动“亮剑2026”海洋伏季休渔执法行动",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613673.shtml",
+    "pub_date": "2026-04-30 15:06:33"
+  },
+  {
+    "id": 540025,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "湃用场｜游客提前4天退订“五一”客房被拒，酒店：代卖成功可退款",
+    "link": "https://m.thepaper.cn/detail/33081880",
+    "pub_date": "2026-04-30 15:06:18"
+  },
+  {
+    "id": 540916,
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "Meta 收购 Manus 这事儿泡汤了",
+    "link": "https://www.infoq.cn/article/OYx1rWyzd6A0ZMzkghZT",
+    "pub_date": "2026-04-30 15:05:52"
+  },
+  {
+    "id": 540026,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "全国首部具身智能机器人地方性法规5月起在杭州施行，明确从业者“红线”",
+    "link": "https://m.thepaper.cn/detail/33083043",
+    "pub_date": "2026-04-30 15:04:11"
+  },
+  {
+    "id": 540027,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "上海快递行业劳动规则协议发布：面对投诉，不得未经核实就处罚快递员",
+    "link": "https://m.thepaper.cn/detail/33083077",
+    "pub_date": "2026-04-30 15:03:26"
+  },
+  {
+    "id": 540028,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "《求是》杂志发表习近平总书记重要文章《在省部级主要领导干部学习贯彻党的二十届四中全会精神专题研讨班上的讲话》",
+    "link": "https://m.thepaper.cn/detail/33083710",
+    "pub_date": "2026-04-30 15:03:04"
+  },
+  {
+    "id": 539704,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "《求是》杂志发表习近平总书记重要文章《在省部级主要领导干部学习贯彻党的二十届四中全会精神专题研讨班上的讲话》",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613712.shtml",
+    "pub_date": "2026-04-30 15:01:15"
+  },
+  {
+    "id": 539725,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "A股三大指数收盘涨跌不一，寒武纪涨停",
+    "link": "https://36kr.com/newsflashes/3788971444804615?f=rss",
+    "pub_date": "2026-04-30 15:01:04"
+  },
+  {
+    "id": 539911,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "《求是》杂志发表习近平总书记重要文章《在省部级主要领导干部学习贯彻党的二十届四中全会精神专题研讨班上的讲话》",
+    "link": "http://www.news.cn/20260430/b1845c05c87d47ce83fdc1538db8ffb5/c.html",
+    "pub_date": "2026-04-30 15:00:35"
+  },
+  {
+    "id": 539912,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "专访丨“中文热是中国发展成就最好的印证”——访俄罗斯伊尔库茨克国立大学孔院俄方院长拜拉莫娃",
+    "link": "http://www.news.cn/20260430/d0eb46f285bf4b239f0987f607215293/c.html",
+    "pub_date": "2026-04-30 15:00:14"
+  },
+  {
+    "id": 540917,
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "5.5万 Star 开源项目 Ghostty 被迫出走，GitHub 正在终结一代技术人的乌托邦",
+    "link": "https://www.infoq.cn/article/mOXNlB1fzANrPZIrNfsK",
+    "pub_date": "2026-04-30 15:00:00"
+  },
+  {
+    "id": 539705,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "中央党校（国家行政学院）举行2026年春季学期第一批进修班毕业典礼 陈希出席并为学员颁发毕业证书",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613710.shtml",
+    "pub_date": "2026-04-30 14:59:09"
+  },
+  {
+    "id": 540029,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "云南预计今年五一高速公路车流量创新高，易拥堵路段发布",
+    "link": "https://m.thepaper.cn/detail/33083081",
+    "pub_date": "2026-04-30 14:56:19"
+  },
+  {
+    "id": 539913,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "新华视点丨数字福建启新程 智“绘”八闽新图景",
+    "link": "http://www.news.cn/20260430/d9587e85fed64971bdfdb1f2c34fa0ef/c.html",
+    "pub_date": "2026-04-30 14:55:58"
+  },
+  {
+    "id": 540030,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "今年的大乐透派奖活动有何不同",
+    "link": "https://m.thepaper.cn/detail/33083449",
+    "pub_date": "2026-04-30 14:55:43"
+  },
+  {
+    "id": 540031,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "国家统计局：去年农民工月均收入5075元，比上年增加114元",
+    "link": "https://m.thepaper.cn/detail/33083694",
+    "pub_date": "2026-04-30 14:54:31"
+  },
+  {
+    "id": 540032,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "假日经济升温，线下餐饮体验正成为新的城市流量入口",
+    "link": "https://m.thepaper.cn/detail/33083376",
+    "pub_date": "2026-04-30 14:54:30"
+  },
+  {
+    "id": 539990,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "柯文哲一审判17年 检方上诉：工作簿为补强证据",
+    "link": "https://www.zaobao.com/news/china/story20260430-8977950",
+    "pub_date": "2026-04-30 14:54:18"
+  },
+  {
+    "id": 539914,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "2025年我国农民工收入保持增长",
+    "link": "http://www.news.cn/20260430/683caeee96c445a4b5fe9afed60d5dac/c.html",
+    "pub_date": "2026-04-30 14:53:02"
+  },
+  {
+    "id": 539726,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "沪深两市成交额突破2.5万亿元",
+    "link": "https://36kr.com/newsflashes/3788963252689925?f=rss",
+    "pub_date": "2026-04-30 14:52:44"
+  },
+  {
+    "id": 539915,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "共话中国经济新机遇丨记者手记：喀麦隆可可林里的新曙光",
+    "link": "http://www.news.cn/20260430/399c93bab5d141739bf575722a63a995/c.html",
+    "pub_date": "2026-04-30 14:51:42"
+  },
+  {
+    "id": 539916,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "新发现：沙尘天气或对全球水循环有关键调控作用",
+    "link": "http://www.news.cn/20260430/a970823de16749ea80bbc9f81c44af77/c.html",
+    "pub_date": "2026-04-30 14:51:24"
+  },
+  {
+    "id": 539917,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "12年，一个包裹的“升级之旅”",
+    "link": "http://www.news.cn/20260430/4cb2e1f9e54a4ab483e4387f37428da8/c.html",
+    "pub_date": "2026-04-30 14:50:30"
+  },
+  {
+    "id": 540817,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "AI没有掏空谷歌，反而把它抬回了王座",
+    "link": "https://www.woshipm.com/ai/6387041.html",
+    "pub_date": "2026-04-30 14:48:40"
+  },
+  {
+    "id": 539991,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "孙杨工作室辟谣私生子传闻",
+    "link": "https://www.zaobao.com/news/china/story20260430-8978040",
+    "pub_date": "2026-04-30 14:48:06"
+  },
+  {
+    "id": 540818,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "批量“透支”后，AI创业更累了",
+    "link": "https://www.woshipm.com/ai/6387026.html",
+    "pub_date": "2026-04-30 14:47:12"
+  },
+  {
+    "id": 540819,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "提示词越长越专业？GPT-5.5 说不是",
+    "link": "https://www.woshipm.com/ai/6387000.html",
+    "pub_date": "2026-04-30 14:47:00"
+  },
+  {
+    "id": 539727,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "南向资金净买入额达100亿港元",
+    "link": "https://36kr.com/newsflashes/3788956459490308?f=rss",
+    "pub_date": "2026-04-30 14:45:49"
+  },
+  {
+    "id": 539728,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "阿里云等在广东横琴成立数梦时空智联科技公司",
+    "link": "https://36kr.com/newsflashes/3788955450400001?f=rss",
+    "pub_date": "2026-04-30 14:44:47"
+  },
+  {
+    "id": 539729,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "沪深两市成交额连续第8个交易日突破2.5万亿",
+    "link": "https://36kr.com/newsflashes/3788953228991747?f=rss",
+    "pub_date": "2026-04-30 14:42:32"
+  },
+  {
+    "id": 540820,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "从 0 到 1 做 AI 原生基础软件产品：我带2个开发踩过的 6 个坑",
+    "link": "https://www.woshipm.com/pd/6386981.html",
+    "pub_date": "2026-04-30 14:41:08"
+  },
+  {
+    "id": 539706,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "柯文哲一审获刑17年 台北地检署今日提起上诉",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613691.shtml",
+    "pub_date": "2026-04-30 14:39:27"
+  },
+  {
+    "id": 539707,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "中国代表出席《不扩散核武器条约》第十一次审议大会阐述中方主张",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613690.shtml",
+    "pub_date": "2026-04-30 14:38:43"
+  },
+  {
+    "id": 540798,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "Vibe coding，撕裂程序员旧世界",
+    "link": "https://www.tmtpost.com/7973604.html",
+    "pub_date": "2026-04-30 14:36:35"
+  },
+  {
+    "id": 540799,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "一张68亿采购清单，具身智能第一次被写进“现实账本”",
+    "link": "https://www.tmtpost.com/7973422.html",
+    "pub_date": "2026-04-30 14:36:00"
+  },
+  {
+    "id": 539838,
+    "feed_name": "求是网",
+    "category": "新闻",
+    "title": "习近平在加强基础研究座谈会上强调以更大力度更实举措加强基础研究 进一步打牢科技强国建设根基",
+    "link": "https://www.qstheory.cn/20260430/f1f6f159be6748e7832146eb8ed0e9dc/c.html",
+    "pub_date": "2026-04-30 14:34:42"
+  },
+  {
+    "id": 540821,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "别再只盯着大模型发布了，AI 产品经理真正的机会在行业 Agent",
+    "link": "https://www.woshipm.com/ai/6386901.html",
+    "pub_date": "2026-04-30 14:34:24"
+  },
+  {
+    "id": 539992,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "德国和捷克据报拒绝赖清德过境请求",
+    "link": "https://www.zaobao.com/news/china/story20260430-8977913",
+    "pub_date": "2026-04-30 14:33:50"
+  },
+  {
+    "id": 540723,
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "《巫师3》总监新作定档9月3日：4K/60帧极致画质需RTX 5090",
+    "link": "https://news.mydrivers.com/1/1119/1119554.htm",
+    "pub_date": "2026-04-30 14:32:41"
+  },
+  {
+    "id": 540724,
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "RTX 5070 12GB移动版跑分出炉：和8GB版完全一样！",
+    "link": "https://news.mydrivers.com/1/1119/1119553.htm",
+    "pub_date": "2026-04-30 14:32:30"
+  },
+  {
+    "id": 540725,
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "追觅俞浩：骂我的人都是傻B 一定会被法务部追查！",
+    "link": "https://news.mydrivers.com/1/1119/1119552.htm",
+    "pub_date": "2026-04-30 14:31:58"
+  },
+  {
+    "id": 540822,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "AI越来越便宜，为什么AI产品不一定降价？从Copilot按量计费看AI定价重构",
+    "link": "https://www.woshipm.com/ai/6386886.html",
+    "pub_date": "2026-04-30 14:31:47"
+  },
+  {
+    "id": 540800,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "俞浩大战小红书，谁有理？",
+    "link": "https://www.tmtpost.com/7973401.html",
+    "pub_date": "2026-04-30 14:31:00"
+  },
+  {
+    "id": 540726,
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "13999元！华硕三款骁龙X2笔记本齐发：6700+应用、2600+游戏",
+    "link": "https://news.mydrivers.com/1/1119/1119551.htm",
+    "pub_date": "2026-04-30 14:29:49"
+  },
+  {
+    "id": 539918,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "文化中国行丨崇德向善润街巷",
+    "link": "http://www.news.cn/20260430/d083d1caf69849c8b829763e20af31d1/c.html",
+    "pub_date": "2026-04-30 14:29:46"
+  },
+  {
+    "id": 539730,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "阿里云域名产品将于5月12日调价",
+    "link": "https://36kr.com/newsflashes/3788940293692422?f=rss",
+    "pub_date": "2026-04-30 14:29:22"
+  },
+  {
+    "id": 540626,
+    "feed_name": "Solidot",
+    "category": "科技",
+    "title": "基因组学先驱 Craig Venter 去世，享年 79 岁",
+    "link": "https://www.solidot.org/story?sid=84189",
+    "pub_date": "2026-04-30 14:29:16"
+  },
+  {
+    "id": 540033,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "马上评｜谁在纵容院长儿子“吃空饷”",
+    "link": "https://m.thepaper.cn/detail/33083022",
+    "pub_date": "2026-04-30 14:29:03"
+  },
+  {
+    "id": 539919,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "“北大仓”春耕：见辽阔，见生机，见智慧",
+    "link": "http://www.news.cn/20260430/64c4e50855404bf7a99b2190d47985a3/c.html",
+    "pub_date": "2026-04-30 14:28:13"
+  },
+  {
+    "id": 540801,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "AI时代的汽车，我们可能低估了这件事",
+    "link": "https://www.tmtpost.com/7973271.html",
+    "pub_date": "2026-04-30 14:26:53"
+  },
+  {
+    "id": 540802,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "Kimi掉队：C端失血，出海是最现实的主战略",
+    "link": "https://www.tmtpost.com/7973385.html",
+    "pub_date": "2026-04-30 14:26:00"
+  },
+  {
+    "id": 539993,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "习近平：全球科技竞争聚焦基础前沿领域 中国要抓住机遇",
+    "link": "https://www.zaobao.com/news/china/story20260430-8977856",
+    "pub_date": "2026-04-30 14:25:03"
+  },
+  {
+    "id": 540918,
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "谷歌开源“Agent Skill 超级工具箱”，云、库、引擎、AI全线打通，开发者狂喜",
+    "link": "https://www.infoq.cn/article/ihRlIjt3N5seuQN27OQe",
+    "pub_date": "2026-04-30 14:25:01"
+  },
+  {
+    "id": 539649,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "从火塘到云端：景颇族经典老歌怎么突然火了",
+    "link": "https://www.chinanews.com.cn/mz/2026/04-30/10613661.shtml",
+    "pub_date": "2026-04-30 14:24:15"
+  },
+  {
+    "id": 540034,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "长三角铁路今日预计发送旅客395万人次，午后起迎节前出行最高峰",
+    "link": "https://m.thepaper.cn/detail/33083083",
+    "pub_date": "2026-04-30 14:23:37"
+  },
+  {
+    "id": 540823,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "企业争夺“好用的人”：2026年，用人逻辑已经变天了",
+    "link": "https://www.woshipm.com/zhichang/6386881.html",
+    "pub_date": "2026-04-30 14:22:39"
+  },
+  {
+    "id": 539731,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "Alphabet CFO：将2026年资本支出指引区间上调至1800亿-1900亿美元",
+    "link": "https://36kr.com/newsflashes/3788932325235716?f=rss",
+    "pub_date": "2026-04-30 14:21:16"
+  },
+  {
+    "id": 540803,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "县城游的好日子，来了？",
+    "link": "https://www.tmtpost.com/7973272.html",
+    "pub_date": "2026-04-30 14:21:00"
+  },
+  {
+    "id": 539732,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "“大航跃迁”完成5亿元融资",
+    "link": "https://36kr.com/newsflashes/3788931059670019?f=rss",
+    "pub_date": "2026-04-30 14:19:59"
+  },
+  {
+    "id": 540694,
+    "feed_name": "爱范儿",
+    "category": "科技",
+    "title": "小米最新人形机器人的手，会「出汗」了",
+    "link": "https://www.ifanr.com/1664575?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "pub_date": "2026-04-30 14:15:34"
+  },
+  {
+    "id": 539920,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "中央党校（国家行政学院）举行2026年春季学期第一批进修班毕业典礼 陈希出席并为学员颁发毕业证书",
+    "link": "http://www.news.cn/20260430/b09d97e49fdc444a85ded137b7231298/c.html",
+    "pub_date": "2026-04-30 14:14:14"
+  },
+  {
+    "id": 539733,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "Stellantis第一季度净利润为3.77亿欧元",
+    "link": "https://36kr.com/newsflashes/3788923009735940?f=rss",
+    "pub_date": "2026-04-30 14:11:47"
+  },
+  {
+    "id": 539734,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "我国最大750千伏超高压环网工程完成首次带电作业",
+    "link": "https://36kr.com/newsflashes/3788922542824457?f=rss",
+    "pub_date": "2026-04-30 14:11:19"
+  },
+  {
+    "id": 539994,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "中国警告欧盟若禁用华为设备将反制",
+    "link": "https://www.zaobao.com/news/china/story20260430-8977632",
+    "pub_date": "2026-04-30 14:11:00"
+  },
+  {
+    "id": 540035,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "外交部发布中方关于日本拥核问题的工作文件",
+    "link": "https://m.thepaper.cn/detail/33083386",
+    "pub_date": "2026-04-30 14:10:57"
+  },
+  {
+    "id": 540804,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "赵永坡的\"舒适区\"，魏建军的\"边界线\"",
+    "link": "https://www.tmtpost.com/7972565.html",
+    "pub_date": "2026-04-30 14:09:00"
+  },
+  {
+    "id": 539921,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "中国代表出席《不扩散核武器条约》第十一次审议大会阐述中方主张",
+    "link": "http://www.news.cn/20260430/f55a9aff7b9e4aeda0b07b1c225ac1e9/c.html",
+    "pub_date": "2026-04-30 14:08:33"
+  },
+  {
+    "id": 539922,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "新华社消息丨习近平在加强基础研究座谈会上强调 以更大力度更实举措加强基础研究 进一步打牢科技强国建设根基",
+    "link": "http://www.news.cn/20260430/fef76d188fd141c886411d68650bea5d/c.html",
+    "pub_date": "2026-04-30 14:05:18"
+  },
+  {
+    "id": 540805,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "阳光电源一季度利润骤降40%，储能行业“变天”了？",
+    "link": "https://www.tmtpost.com/7972336.html",
+    "pub_date": "2026-04-30 14:05:00"
+  },
+  {
+    "id": 539735,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "追觅AURORA手机全球亮相，最新估值近百亿美元",
+    "link": "https://36kr.com/newsflashes/3788915767074051?f=rss",
+    "pub_date": "2026-04-30 14:04:25"
+  },
+  {
+    "id": 540727,
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "后街男孩带动罪恶之城",
+    "link": "https://news.mydrivers.com/1/1119/1119546.htm",
+    "pub_date": "2026-04-30 14:03:53"
+  },
+  {
+    "id": 539736,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "中国汽车流通协会：4月中国汽车经销商库存预警指数为62.1%",
+    "link": "https://36kr.com/newsflashes/3788914980625416?f=rss",
+    "pub_date": "2026-04-30 14:03:37"
+  },
+  {
+    "id": 540806,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "诺基亚：一部自救史，和一个行业的退潮",
+    "link": "https://www.tmtpost.com/7973150.html",
+    "pub_date": "2026-04-30 14:00:00"
+  },
+  {
+    "id": 540919,
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "Claude Code发现了Linux内核中隐藏23年的可远程利用漏洞",
+    "link": "https://www.infoq.cn/article/5RYdZtLgisqRJ65zJBpo",
+    "pub_date": "2026-04-30 14:00:00"
+  },
+  {
+    "id": 540036,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "习近平在加强基础研究座谈会上强调，以更大力度更实举措加强基础研究，进一步打牢科技强国建设根基",
+    "link": "https://m.thepaper.cn/detail/33083360",
+    "pub_date": "2026-04-30 13:58:30"
+  },
+  {
+    "id": 539923,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "习近平在加强基础研究座谈会上强调 以更大力度更实举措加强基础研究 进一步打牢科技强国建设根基",
+    "link": "http://www.news.cn/20260430/6bcf5d4a74e44545867b7218f445d496/c.html",
+    "pub_date": "2026-04-30 13:57:03"
+  },
+  {
+    "id": 540627,
+    "feed_name": "Solidot",
+    "category": "科技",
+    "title": "GCC 17 加入对海光 C86-4G CPU 的支持",
+    "link": "https://www.solidot.org/story?sid=84188",
+    "pub_date": "2026-04-30 13:54:41"
+  },
+  {
+    "id": 539737,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "友达第一季度营收690.3亿元台币，预估675.9亿元台币",
+    "link": "https://36kr.com/newsflashes/3788903241424137?f=rss",
+    "pub_date": "2026-04-30 13:51:41"
+  },
+  {
+    "id": 539924,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "布伦特原油期价创近4年来新高",
+    "link": "http://www.news.cn/20260430/9b23df5c53624c0d8a5c5d37b89d4c78/c.html",
+    "pub_date": "2026-04-30 13:50:39"
+  },
+  {
+    "id": 540807,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "深交所最大IPO刚刚诞生",
+    "link": "https://www.tmtpost.com/7973373.html",
+    "pub_date": "2026-04-30 13:49:00"
+  },
+  {
+    "id": 539925,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "现场直击丨伊朗首都大规模集会展示国家团结",
+    "link": "http://www.news.cn/20260430/431568cd674d4df99314ce6032c7f0de/c.html",
+    "pub_date": "2026-04-30 13:45:54"
+  },
+  {
+    "id": 539926,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "云南省自然资源厅原副厅长吴乔峰接受纪律审查和监察调查",
+    "link": "http://www.news.cn/20260430/09ab13877b6b44d2a7fdfe6344d02e88/c.html",
+    "pub_date": "2026-04-30 13:45:29"
+  },
+  {
+    "id": 539927,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "受权发布丨中华人民共和国主席令（第七十六号）",
+    "link": "http://www.news.cn/20260430/2f6e14ff8cec423ca1a362d6bfd6b5d3/c.html",
+    "pub_date": "2026-04-30 13:44:22"
+  },
+  {
+    "id": 539928,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "受权发布丨中华人民共和国主席令（第七十五号）",
+    "link": "http://www.news.cn/20260430/5c12ed671c3648aeb78b56de74032cc1/c.html",
+    "pub_date": "2026-04-30 13:42:42"
+  },
+  {
+    "id": 539929,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "受权发布丨中华人民共和国主席令（第七十四号）",
+    "link": "http://www.news.cn/20260430/2fa02947728040d99da0d1ed10ddd840/c.html",
+    "pub_date": "2026-04-30 13:41:24"
+  },
+  {
+    "id": 539930,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "中国代表团：日本拥核对核不扩散体系构成严重挑战",
+    "link": "http://www.news.cn/20260430/0b0edee4daf549dcb111915b87f28892/c.html",
+    "pub_date": "2026-04-30 13:40:12"
+  },
+  {
+    "id": 540808,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "谁能成为中国火箭回收第一人",
+    "link": "https://www.tmtpost.com/7973346.html",
+    "pub_date": "2026-04-30 13:40:00"
+  },
+  {
+    "id": 539931,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "记者手记：探索一粒种子里的粮食安全密码",
+    "link": "http://www.news.cn/20260430/e2d3cc584c2544d58fe6db4327e0f7b8/c.html",
+    "pub_date": "2026-04-30 13:34:47"
+  },
+  {
+    "id": 539932,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "缅甸宣布特赦1500余名囚犯",
+    "link": "http://www.news.cn/20260430/55f1698cc11c4aab867f7adeba8244d5/c.html",
+    "pub_date": "2026-04-30 13:34:20"
+  },
+  {
+    "id": 540809,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "AI短剧的第一批爆款，正在集体经历“消失测试”",
+    "link": "https://www.tmtpost.com/7973345.html",
+    "pub_date": "2026-04-30 13:32:00"
+  },
+  {
+    "id": 539995,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "路透：北京将台湾问题列为习特会首要议题",
+    "link": "https://www.zaobao.com/news/china/story20260430-8976980",
+    "pub_date": "2026-04-30 13:31:00"
+  },
+  {
+    "id": 539933,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "记者手记：一滴水的“身价”之变",
+    "link": "http://www.news.cn/20260430/c6fea55d40b34b52a3af555bf8ab0537/c.html",
+    "pub_date": "2026-04-30 13:29:04"
+  },
+  {
+    "id": 539934,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "共话中国经济新机遇丨通讯：“日子像辣椒一样红火”",
+    "link": "http://www.news.cn/20260430/99092181f71c4085b8c2c4241908e9a0/c.html",
+    "pub_date": "2026-04-30 13:28:46"
+  },
+  {
+    "id": 540206,
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "三星繼承權之爭內幕：被忽視的長子和身陷囹圄的巨頭",
+    "link": "https://www.bbc.com/zhongwen/articles/cvgzd1861pxo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-04-30 13:27:14"
+  },
+  {
+    "id": 540207,
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "這11種癌症在年輕人中增加，科學家首次找到原因線索",
+    "link": "https://www.bbc.com/zhongwen/articles/cze2gyx31k9o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-04-30 13:25:28"
+  },
+  {
+    "id": 540810,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "2026年Q1餐饮行业季度观察",
+    "link": "https://www.tmtpost.com/7973269.html",
+    "pub_date": "2026-04-30 13:25:00"
+  },
+  {
+    "id": 540037,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "经纬度：对非零关税，中国用制度型开放捍卫全球化",
+    "link": "https://m.thepaper.cn/detail/33082932",
+    "pub_date": "2026-04-30 13:21:44"
+  },
+  {
+    "id": 540038,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "招商银行“换帅”：王小青任党委书记，王良到龄退休",
+    "link": "https://m.thepaper.cn/detail/33083055",
+    "pub_date": "2026-04-30 13:20:39"
+  },
+  {
+    "id": 539650,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "全国人大常委会举行宪法宣誓仪式",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613640.shtml",
+    "pub_date": "2026-04-30 13:19:09"
+  },
+  {
+    "id": 540811,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "“AI”谷歌：没有鬼故事，只有大丰收",
+    "link": "https://www.tmtpost.com/7973112.html",
+    "pub_date": "2026-04-30 13:19:00"
+  },
+  {
+    "id": 539996,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "海南大力发展航天旅游 提出做强文昌“航天旅游之都”",
+    "link": "https://www.zaobao.com/news/china/story20260430-8976773",
+    "pub_date": "2026-04-30 13:18:00"
+  },
+  {
+    "id": 540812,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "财报虽亮眼，但Meta还在“待定区”",
+    "link": "https://www.tmtpost.com/7973084.html",
+    "pub_date": "2026-04-30 13:14:00"
+  },
+  {
+    "id": 539935,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "中国代表团：美国是核军控和战略稳定领域的最大乱源",
+    "link": "http://www.news.cn/20260430/54ac4e7d33444200ba9c2a2fc6df86a7/c.html",
+    "pub_date": "2026-04-30 13:12:38"
+  },
+  {
+    "id": 540813,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "现金流拐点确认！水井坊Q1环比修复114%，\"以质为先\"策略见效 | 看财报",
+    "link": "https://www.tmtpost.com/7973255.html",
+    "pub_date": "2026-04-30 13:11:48"
+  },
+  {
+    "id": 540814,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "隆基703亿营收、减亏22亿：钟宝申致股东信里的“隧道尽头”",
+    "link": "https://www.tmtpost.com/7972974.html",
+    "pub_date": "2026-04-30 13:10:31"
+  },
+  {
+    "id": 540815,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "游戏公司，在大模型赛道赚疯了",
+    "link": "https://www.tmtpost.com/7972852.html",
+    "pub_date": "2026-04-30 13:10:26"
+  },
+  {
+    "id": 540646,
+    "feed_name": "极客公园",
+    "category": "科技",
+    "title": "\n        AI 走出屏幕，家电变成「机器人」\n      ",
+    "link": "http://www.geekpark.net/news/363602",
+    "pub_date": "2026-04-30 13:08:01"
+  },
+  {
+    "id": 539936,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "向百年·军事记者走边关丨四月，行走在白雪皑皑的春天里",
+    "link": "http://www.news.cn/20260430/2989066f831e48dea5c28b9251f62996/c.html",
+    "pub_date": "2026-04-30 13:04:29"
+  },
+  {
+    "id": 539937,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "新华社消息丨暗物质卫星“悟空”发布最新成果 地球附近存在“超级加速器”",
+    "link": "http://www.news.cn/20260430/7cbed43358bf4d66939278681de06c0e/c.html",
+    "pub_date": "2026-04-30 13:00:52"
+  },
+  {
+    "id": 540920,
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "Slack 长时运行多智能体系统的上下文管理方案",
+    "link": "https://www.infoq.cn/article/v51PWObFB4xuqM2lkMpg",
+    "pub_date": "2026-04-30 13:00:00"
+  },
+  {
+    "id": 540039,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "57国齐聚哥伦比亚聊“退煤”，主要化石能源消费国与产油国未参会",
+    "link": "https://m.thepaper.cn/detail/33069447",
+    "pub_date": "2026-04-30 12:58:26"
+  },
+  {
+    "id": 539651,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "涉嫌违法违规收集使用个人信息 67款移动应用被通报",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613630.shtml",
+    "pub_date": "2026-04-30 12:56:15"
+  },
+  {
+    "id": 539938,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "全国人大常委会举行宪法宣誓仪式",
+    "link": "http://www.news.cn/20260430/38cce8e89b7645488b49dc9a30c8d05a/c.html",
+    "pub_date": "2026-04-30 12:56:02"
+  },
+  {
+    "id": 539997,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "上海咖啡门店数量首破万家",
+    "link": "https://www.zaobao.com/news/china/story20260430-8977318",
+    "pub_date": "2026-04-30 12:55:25"
+  },
+  {
+    "id": 539998,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "寒武纪再次成为A股第一高价股",
+    "link": "https://www.zaobao.com/news/china/story20260430-8977292",
+    "pub_date": "2026-04-30 12:50:37"
+  },
+  {
+    "id": 540040,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "湃用场｜预定酒店“30分钟后不可取消”属霸王条款，律师支招如何维权",
+    "link": "https://m.thepaper.cn/detail/33082316",
+    "pub_date": "2026-04-30 12:44:05"
+  },
+  {
+    "id": 539939,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "特朗普将听取对伊朗军事行动新方案汇报",
+    "link": "http://www.news.cn/20260430/43687d15da6a4fa29e1bdeff41e38576/c.html",
+    "pub_date": "2026-04-30 12:36:57"
+  },
+  {
+    "id": 539940,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "辽宁锦州凌海市发生一起交通事故造成4人死亡",
+    "link": "http://www.news.cn/20260430/8c13c7ac94204f5ebad803222277488b/c.html",
+    "pub_date": "2026-04-30 12:33:25"
+  },
+  {
+    "id": 539941,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "布伦特原油期货价格盘中一度突破每桶125美元",
+    "link": "http://www.news.cn/20260430/e5ffd943e4b84b0486dae1c0131d4755/c.html",
+    "pub_date": "2026-04-30 12:26:12"
+  },
+  {
+    "id": 539999,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "贵州四名女厅官一个多月内接连落马",
+    "link": "https://www.zaobao.com/news/china/story20260430-8977070",
+    "pub_date": "2026-04-30 12:19:42"
+  },
+  {
+    "id": 539942,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "美军拟以高超音速导弹打击伊朗 系首次实战部署",
+    "link": "http://www.news.cn/20260430/482b1d51ad1f4a879c28d8ad177e19a8/c.html",
+    "pub_date": "2026-04-30 12:16:10"
+  },
+  {
+    "id": 540000,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "韩国现代掌门人时隔八年再亮相北京车展",
+    "link": "https://www.zaobao.com/news/china/story20260430-8976424",
+    "pub_date": "2026-04-30 12:15:00"
+  },
+  {
+    "id": 540208,
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "美國前FBI局長科米的貼文讓其遭起訴，但專家懷疑政府能否勝訴",
+    "link": "https://www.bbc.com/zhongwen/articles/cq8pxz24l4zo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-04-30 12:12:13"
+  },
+  {
+    "id": 539943,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "匈牙利罗兰大学孔子学院举行成立20周年庆典",
+    "link": "http://www.news.cn/20260430/859a2fe5bfe444e9aacd4a9628c76728/c.html",
+    "pub_date": "2026-04-30 12:11:56"
+  },
+  {
+    "id": 539944,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "数字技术赋能文旅创新成果亮相第九届数字中国建设峰会",
+    "link": "http://www.news.cn/20260430/1940f0b9f0ca4a35bb7b134c3fdcb237/c.html",
+    "pub_date": "2026-04-30 12:00:20"
+  },
+  {
+    "id": 540824,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "泡泡玛特炒到10万的小冰箱, 谁在买啊？拆解王宁押注小家电背后的叙事逻辑",
+    "link": "https://www.woshipm.com/marketing/6386863.html",
+    "pub_date": "2026-04-30 11:59:58"
+  },
+  {
+    "id": 540001,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "湖南中医药大学要求旗下医院院长儿子退还重复领取奖金",
+    "link": "https://www.zaobao.com/news/china/story20260430-8976889",
+    "pub_date": "2026-04-30 11:57:39"
+  },
+  {
+    "id": 540728,
+    "feed_name": "雷峰网",
+    "category": "科技",
+    "title": "正面刚老黄！谷歌TPU 8i的「偷家」战术：不打最贵的仗，只割最肥的肉",
+    "link": "https://www.leiphone.com/category/yanxishe/UXI1dqsiLSXApA5n.html",
+    "pub_date": "2026-04-30 11:52:00"
+  },
+  {
+    "id": 539945,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "中央宣传部、全国总工会联合发布2026年“最美职工”",
+    "link": "http://www.news.cn/20260430/d0f877ad51a3481c965e7d8d93aff81e/c.html",
+    "pub_date": "2026-04-30 11:49:09"
+  },
+  {
+    "id": 540002,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "国民党军购案内部分裂 副主席季麟连喊话开除韩国瑜党籍",
+    "link": "https://www.zaobao.com/news/china/story20260430-8976770",
+    "pub_date": "2026-04-30 11:46:21"
+  },
+  {
+    "id": 540729,
+    "feed_name": "雷峰网",
+    "category": "科技",
+    "title": "给「对手」的钱比给「盟友」多，亚马逊疯了吗？",
+    "link": "https://www.leiphone.com/category/yanxishe/Q134o7fWd7haJUQj.html",
+    "pub_date": "2026-04-30 11:43:00"
+  },
+  {
+    "id": 539946,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "一名重大跨境网络赌博案件主要犯罪嫌疑人从泰国引渡回国",
+    "link": "http://www.news.cn/20260430/3e598ace6ba34a7989aef2bac55d1479/c.html",
+    "pub_date": "2026-04-30 11:42:48"
+  },
+  {
+    "id": 539652,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "中方代表：日本加速再军事化值得高度警惕",
+    "link": "https://www.chinanews.com.cn/gj/2026/04-30/10613604.shtml",
+    "pub_date": "2026-04-30 11:36:24"
+  },
+  {
+    "id": 540921,
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "从 T+1 到分钟级：金城银行基于 Apache Doris 构建高可靠、强一致的实时数据平台",
+    "link": "https://www.infoq.cn/article/C8Hy1d48PvDMERejLuKy",
+    "pub_date": "2026-04-30 11:36:18"
+  },
+  {
+    "id": 539653,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "国家广电总局：进一步改善公共场所和农村地区看电视体验",
+    "link": "https://www.chinanews.com.cn/cj/2026/04-30/10613602.shtml",
+    "pub_date": "2026-04-30 11:34:14"
+  },
+  {
+    "id": 539947,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "国际油价大涨 布伦特原油期货价格盘中突破每桶122美元",
+    "link": "http://www.news.cn/20260430/a329fcde2f394e538e38cf2559f3b65d/c.html",
+    "pub_date": "2026-04-30 11:33:13"
+  },
+  {
+    "id": 540003,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "涉案资金超5亿人民币 中泰联手将跨境网赌案主嫌引渡至中国",
+    "link": "https://www.zaobao.com/news/china/story20260430-8976642",
+    "pub_date": "2026-04-30 11:31:23"
+  },
+  {
+    "id": 540730,
+    "feed_name": "雷峰网",
+    "category": "科技",
+    "title": "驶入物理AI元年：头部玩家集体跃迁，易航智能交出双线落地答卷",
+    "link": "https://www.leiphone.com/category/transportation/1dg0hEW272K29BOs.html",
+    "pub_date": "2026-04-30 11:30:00"
+  },
+  {
+    "id": 539948,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "十四届全国人大常委会举行第六十七次委员长会议 决定将社会救助法草案等交付常委会会议表决 赵乐际主持会议",
+    "link": "http://www.news.cn/20260430/af5935044f59465f91a86dcf3218de76/c.html",
+    "pub_date": "2026-04-30 11:29:53"
+  },
+  {
+    "id": 539949,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "俄新增艾滋病病毒感染人数达到历史最低点",
+    "link": "http://www.news.cn/20260430/2f0d891092854dfa9e0d7d7c15e9d9b9/c.html",
+    "pub_date": "2026-04-30 11:29:13"
+  },
+  {
+    "id": 539950,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "十四届全国人大常委会第二十二次会议在京闭幕",
+    "link": "http://www.news.cn/20260430/2b693816be7745a4940bd79bae02b428/c.html",
+    "pub_date": "2026-04-30 11:23:02"
+  },
+  {
+    "id": 540012,
+    "feed_name": "南方周末 / 新闻",
+    "category": "新闻",
+    "title": "外资收购Manus被叫停：退款易，难在如何撤回交易",
+    "link": "https://www.infzm.com/contents/320533",
+    "pub_date": "2026-04-30 11:22:49"
+  },
+  {
+    "id": 539654,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "马里安全形势严峻 中使馆提醒中国企业和公民撤离危险地区",
+    "link": "https://www.chinanews.com.cn/hr/2026/04-30/10613591.shtml",
+    "pub_date": "2026-04-30 11:17:05"
+  },
+  {
+    "id": 539951,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "今年第二批915亿元超长期特别国债支持设备更新资金已下达",
+    "link": "http://www.news.cn/20260430/5af6a27b08cd4c0a91cd9365631bc4aa/c.html",
+    "pub_date": "2026-04-30 11:15:03"
+  },
+  {
+    "id": 539655,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "狗子腿疾花1.8万没治好，宠物医院的“病”谁来治？",
+    "link": "https://www.chinanews.com.cn/sh/2026/04-30/10613593.shtml",
+    "pub_date": "2026-04-30 11:12:45"
+  },
+  {
+    "id": 540004,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "中国4月非官方制造业PMI增速近六年最快",
+    "link": "https://www.zaobao.com/news/china/story20260430-8976425",
+    "pub_date": "2026-04-30 11:03:40"
+  },
+  {
+    "id": 539952,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "星空有约丨暗物质卫星“悟空”发布最新成果 地球附近存在“超级加速器”",
+    "link": "http://www.news.cn/20260430/2c150c4494734a9ea706e44c369c7d42/c.html",
+    "pub_date": "2026-04-30 11:03:28"
+  },
+  {
+    "id": 539953,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "美“猎鹰重型”运载火箭执行通信卫星发射任务",
+    "link": "http://www.news.cn/20260430/4f511b556ac6434fa0bbb695414333e2/c.html",
+    "pub_date": "2026-04-30 11:01:38"
+  },
+  {
+    "id": 539954,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "通讯丨纪念与勋章——中国医疗队在吉布提的生命守护",
+    "link": "http://www.news.cn/20260430/4e11d562009b4124bad71d00babd199e/c.html",
+    "pub_date": "2026-04-30 11:01:32"
+  },
+  {
+    "id": 539955,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "4月份我国制造业PMI为50.3%",
+    "link": "http://www.news.cn/20260430/975033fdb3e8448790ee66b0ddab44a4/c.html",
+    "pub_date": "2026-04-30 11:00:03"
+  },
+  {
+    "id": 540922,
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "谷歌云推出 Agents CLI，简化 AI 智能体开发全流程",
+    "link": "https://www.infoq.cn/article/O9hWJ1JZYBPF9PZKkY3C",
+    "pub_date": "2026-04-30 11:00:00"
+  },
+  {
+    "id": 539656,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "涉案资金超5亿 一名重大跨境网赌案主要犯罪嫌疑人被引渡回国",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613583.shtml",
+    "pub_date": "2026-04-30 10:59:57"
+  },
+  {
+    "id": 540825,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "Codex、准备接管程序员的一切了！",
+    "link": "https://www.woshipm.com/ai/6386941.html",
+    "pub_date": "2026-04-30 10:57:06"
+  },
+  {
+    "id": 540826,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "被3次监管警示函逼出来的需求分析方法：我做金融合规多智能体审核的踩坑实录",
+    "link": "https://www.woshipm.com/pd/6386824.html",
+    "pub_date": "2026-04-30 10:56:05"
+  },
+  {
+    "id": 539956,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "极端天气气候事件增多 南北极气候变化引关注",
+    "link": "http://www.news.cn/20260430/7af86c1c7c824adcb2775f658f94b4c9/c.html",
+    "pub_date": "2026-04-30 10:54:23"
+  },
+  {
+    "id": 539957,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "机器人化身“古风小生”亮相福州数字中国建设峰会",
+    "link": "http://www.news.cn/20260430/b1e3849055694412af2aa3fc4b36f084/c.html",
+    "pub_date": "2026-04-30 10:53:12"
+  },
+  {
+    "id": 540827,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "DeepSeek正在内测多模态",
+    "link": "https://www.woshipm.com/ai/6386937.html",
+    "pub_date": "2026-04-30 10:52:04"
+  },
+  {
+    "id": 539657,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "今年春夏季，厄尔尼诺处于快速发展期",
+    "link": "https://www.chinanews.com.cn/sh/2026/04-30/10613575.shtml",
+    "pub_date": "2026-04-30 10:52:03"
+  },
+  {
+    "id": 540828,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "宠物赛道的 AI 公司，都在做什么？",
+    "link": "https://www.woshipm.com/ai/6384975.html",
+    "pub_date": "2026-04-30 10:50:47"
+  },
+  {
+    "id": 539658,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "周娅菲担任三亚亚沙会闭幕式中国体育代表团旗手",
+    "link": "https://www.chinanews.com.cn/ty/2026/04-30/10613565.shtml",
+    "pub_date": "2026-04-30 10:50:09"
+  },
+  {
+    "id": 539958,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "世卫组织：美国仍欠着会费 也看不出他们会缴",
+    "link": "http://www.news.cn/20260430/9df70361719943fe973fe7dc3d2e8ca9/c.html",
+    "pub_date": "2026-04-30 10:48:58"
+  },
+  {
+    "id": 540829,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "AI大事件：谷歌、微软、亚马逊、Meta四大科技巨头财报同日公布；9所高校获批开设具身智能本科专业",
+    "link": "https://www.woshipm.com/ai/6386930.html",
+    "pub_date": "2026-04-30 10:47:01"
+  },
+  {
+    "id": 539659,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "915亿元 今年第二批超长期特别国债支持设备更新资金下达",
+    "link": "https://www.chinanews.com.cn/cj/2026/04-30/10613566.shtml",
+    "pub_date": "2026-04-30 10:46:21"
+  },
+  {
+    "id": 540731,
+    "feed_name": "雷峰网",
+    "category": "科技",
+    "title": "对话清华商宇丨从生成视频到支撑行动，世界模型需要新的评测标准",
+    "link": "https://www.leiphone.com/category/ai/x8FfM4rz32hAubG6.html",
+    "pub_date": "2026-04-30 10:46:00"
+  },
+  {
+    "id": 539959,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "2026年一季度国内19.01亿人次出游",
+    "link": "http://www.news.cn/20260430/914b4997d505421eb8abf6615cf6fa47/c.html",
+    "pub_date": "2026-04-30 10:44:24"
+  },
+  {
+    "id": 540830,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "面试官问我“怎么用 AI”，我用一个真实案例拿到了 offer",
+    "link": "https://www.woshipm.com/zhichang/6386813.html",
+    "pub_date": "2026-04-30 10:44:14"
+  },
+  {
+    "id": 539709,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "欧莱雅一季度增长6.7%，中国区再现重大人事变动｜独家",
+    "link": "https://36kr.com/p/3786192457063685?f=rss",
+    "pub_date": "2026-04-30 10:42:06"
+  },
+  {
+    "id": 540732,
+    "feed_name": "雷峰网",
+    "category": "科技",
+    "title": "CVPR 2026 生成式 AI 观察梳理：视觉模型开始重写默认设定",
+    "link": "https://www.leiphone.com/category/ai/z1AQwQ3RWjfvOGZe.html",
+    "pub_date": "2026-04-30 10:42:00"
+  },
+  {
+    "id": 539660,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "伊朗战事已烧250亿美元？美国国会听证会大打“口水仗”",
+    "link": "https://www.chinanews.com.cn/gj/2026/04-30/10613558.shtml",
+    "pub_date": "2026-04-30 10:37:08"
+  },
+  {
+    "id": 540733,
+    "feed_name": "雷峰网",
+    "category": "科技",
+    "title": "CVPR 2026 多模态视觉智能全景梳理：从感知到推理的范式重写",
+    "link": "https://www.leiphone.com/category/ai/SvE2BMZTXBVCKszD.html",
+    "pub_date": "2026-04-30 10:37:00"
+  },
+  {
+    "id": 539661,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "国务院任免国家工作人员",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613555.shtml",
+    "pub_date": "2026-04-30 10:36:28"
+  },
+  {
+    "id": 539960,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "财经聚焦丨广交会“上新”传递外贸新动向",
+    "link": "http://www.news.cn/20260430/32a047eecaf042a7b2a480e3f120db88/c.html",
+    "pub_date": "2026-04-30 10:32:52"
+  },
+  {
+    "id": 539961,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "唠科丨冥王星降级20年 为何美国有人想“翻案”",
+    "link": "http://www.news.cn/20260430/d4809e59c49a486ea1edad169f441551/c.html",
+    "pub_date": "2026-04-30 10:29:42"
+  },
+  {
+    "id": 539962,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "青春，在西部陆海新通道上绽放",
+    "link": "http://www.news.cn/20260430/f0021a4f853d434c9d3f9b5d28d173ec/c.html",
+    "pub_date": "2026-04-30 10:28:50"
+  },
+  {
+    "id": 539963,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "新华社消息丨更好为困难群众“兜底” 社会救助法表决通过",
+    "link": "http://www.news.cn/20260430/cbb61d0bc640485c8ded99b60af8632f/c.html",
+    "pub_date": "2026-04-30 10:28:35"
+  },
+  {
+    "id": 539964,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "美国关税首批退款将于5月11日前后发放",
+    "link": "http://www.news.cn/20260430/7f62c934f3254c24b1dc6e236a7fa024/c.html",
+    "pub_date": "2026-04-30 10:27:54"
+  },
+  {
+    "id": 539965,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "巴西央行下调基准利率至14.5%",
+    "link": "http://www.news.cn/20260430/182efd7d22d1456c8207442a0b730221/c.html",
+    "pub_date": "2026-04-30 10:27:50"
+  },
+  {
+    "id": 539966,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "国务院任免国家工作人员",
+    "link": "http://www.news.cn/20260430/2e25fbf6840f4f7b8a6fbaec3ff8790c/c.html",
+    "pub_date": "2026-04-30 10:24:15"
+  },
+  {
+    "id": 540743,
+    "feed_name": "少数派",
+    "category": "科技",
+    "title": "关于中年和中年危机的一些思考",
+    "link": "https://sspai.com/post/108451",
+    "pub_date": "2026-04-30 10:17:59"
+  },
+  {
+    "id": 539662,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "湖南一医院院长儿子被曝涉嫌“吃空饷” 湖南中医药大学回应已介入调查",
+    "link": "https://www.chinanews.com.cn/sh/2026/04-30/10613536.shtml",
+    "pub_date": "2026-04-30 10:13:47"
+  },
+  {
+    "id": 539967,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "湖南一医院院长儿子被曝涉嫌“吃空饷” 湖南中医药大学回应已介入调查",
+    "link": "http://www.news.cn/20260430/782329ca1b20469ea4f57509127c3250/c.html",
+    "pub_date": "2026-04-30 10:13:31"
+  },
+  {
+    "id": 539710,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "「优时科技」完成数亿元B2轮融资，从L4视觉自动驾驶延展至人形机器人，打造数据飞轮｜36氪首发",
+    "link": "https://36kr.com/p/3788687934249989?f=rss",
+    "pub_date": "2026-04-30 10:13:18"
+  },
+  {
+    "id": 540005,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "张成中获任中国应急管理部长",
+    "link": "https://www.zaobao.com/news/china/story20260430-8976001",
+    "pub_date": "2026-04-30 10:12:40"
+  },
+  {
+    "id": 540831,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "从“百模大战”到“百镜大战”：AI 的下一场战争，将在你的眼前打响",
+    "link": "https://www.woshipm.com/ai/6386826.html",
+    "pub_date": "2026-04-30 10:10:24"
+  },
+  {
+    "id": 539968,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "阿根廷内阁首席部长否认非法敛财",
+    "link": "http://www.news.cn/20260430/7fc60546174c4b57a41bd8ddec29bff9/c.html",
+    "pub_date": "2026-04-30 10:10:09"
+  },
+  {
+    "id": 539663,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "国家统计局：4月份制造业采购经理指数保持扩张",
+    "link": "https://www.chinanews.com.cn/cj/2026/04-30/10613517.shtml",
+    "pub_date": "2026-04-30 10:06:25"
+  },
+  {
+    "id": 540923,
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "Claude官方击穿高薪、高学历的安全防线！Anthropic点名10大高危职业，但有群人暂时稳了",
+    "link": "https://www.infoq.cn/article/IICj9OxXvZuDj8M6qRN5",
+    "pub_date": "2026-04-30 10:02:01"
+  },
+  {
+    "id": 540695,
+    "feed_name": "爱范儿",
+    "category": "科技",
+    "title": "我测 SBTI，但我不是 SB.skill",
+    "link": "https://www.ifanr.com/1664362?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "pub_date": "2026-04-30 10:00:22"
+  },
+  {
+    "id": 540924,
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "亚马逊云科技终止 WorkMail 服务，并将 App Runner 转入维护模式",
+    "link": "https://www.infoq.cn/article/FjThiiwEJaFUxADp3rUx",
+    "pub_date": "2026-04-30 10:00:00"
+  },
+  {
+    "id": 540925,
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "OPPO小布记忆：全模态碎片化内容的理解与智能整理实践｜AICon上海",
+    "link": "https://www.infoq.cn/article/zIEkfmCaYdqpCfwheuqs",
+    "pub_date": "2026-04-30 10:00:00"
+  },
+  {
+    "id": 539969,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "我国启动研究项目聚焦高原重大心肺脑疾病",
+    "link": "http://www.news.cn/20260430/36055a110cb8444e8376709bfb581897/c.html",
+    "pub_date": "2026-04-30 09:58:08"
+  },
+  {
+    "id": 539664,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "事关网售食品、无人机激活等 一批新规下月起施行",
+    "link": "https://www.chinanews.com.cn/sh/2026/04-30/10613515.shtml",
+    "pub_date": "2026-04-30 09:56:36"
+  },
+  {
+    "id": 540926,
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "模力工场038周AI应用周榜：工具在消失，工作流在出现",
+    "link": "https://www.infoq.cn/article/qUMVgFNMYqXMFx8CawJ1",
+    "pub_date": "2026-04-30 09:48:56"
+  },
+  {
+    "id": 539970,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "人民币市场汇价（4月30日）",
+    "link": "http://www.news.cn/20260430/3b1d06279ee146ce9cc1f9614a0da276/c.html",
+    "pub_date": "2026-04-30 09:47:26"
+  },
+  {
+    "id": 540832,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "AI伴侣，还在“勾引”青少年？",
+    "link": "https://www.woshipm.com/ai/6386887.html",
+    "pub_date": "2026-04-30 09:38:26"
+  },
+  {
+    "id": 540833,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "你在用AI，还是在围观AI？",
+    "link": "https://www.woshipm.com/ai/6386844.html",
+    "pub_date": "2026-04-30 09:36:41"
+  },
+  {
+    "id": 540006,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "韩正：中国愿同澳洲加强战略对接、增进对话交流",
+    "link": "https://www.zaobao.com/news/china/story20260430-8975819",
+    "pub_date": "2026-04-30 09:28:55"
+  },
+  {
+    "id": 540007,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "中国人大常委会会议任命张柱为农业农村部长",
+    "link": "https://www.zaobao.com/news/china/story20260430-8975810",
+    "pub_date": "2026-04-30 09:25:02"
+  },
+  {
+    "id": 540834,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "公益广告“杀回来了”？这波AI短片，凭什么让网友哭着点赞",
+    "link": "https://www.woshipm.com/ai/6386874.html",
+    "pub_date": "2026-04-30 09:22:02"
+  },
+  {
+    "id": 539971,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "伊朗外长：美以侵略是地区动荡根源",
+    "link": "http://www.news.cn/20260430/7d4a212996a44b2581226ad3dcf9988d/c.html",
+    "pub_date": "2026-04-30 09:19:34"
+  },
+  {
+    "id": 539972,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "千笔楼丨看人下菜碟！“AB货”为啥如此猖獗？",
+    "link": "http://www.news.cn/20260430/1cbd4bb82cfb4cbca3c2a797fad3be98/c.html",
+    "pub_date": "2026-04-30 09:17:56"
+  },
+  {
+    "id": 540744,
+    "feed_name": "少数派",
+    "category": "科技",
+    "title": "派早报：Claude AI 接入多个创意软件生态、FILCO 生产方接手品牌等",
+    "link": "https://sspai.com/post/109235",
+    "pub_date": "2026-04-30 09:16:28"
+  },
+  {
+    "id": 539973,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "央秀白玛说青海丨青海乐都：藏在河湟谷地的高原之城",
+    "link": "http://www.news.cn/20260430/1c71489811ad4d1dad577e660280e0b6/c.html",
+    "pub_date": "2026-04-30 09:14:05"
+  },
+  {
+    "id": 540835,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "AI重塑DRP：构建新一代企业智能管理平台",
+    "link": "https://www.woshipm.com/pd/6386779.html",
+    "pub_date": "2026-04-30 09:14:05"
+  },
+  {
+    "id": 539974,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "全国人大常委会会议决定任命张柱为农业农村部部长、张成中为应急管理部部长",
+    "link": "http://www.news.cn/20260430/9d99ef057bb74f0dbd8fcf5f46a9e377/c.html",
+    "pub_date": "2026-04-30 09:10:26"
+  },
+  {
+    "id": 539975,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "特朗普称正在研究削减驻德美军可能性",
+    "link": "http://www.news.cn/20260430/036de77df2564842a5462e5b2c746ed6/c.html",
+    "pub_date": "2026-04-30 09:10:17"
+  },
+  {
+    "id": 539976,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "山东省纪委监委公开曝光5起违反中央八项规定精神典型问题",
+    "link": "http://www.news.cn/20260430/afc7e67263d14099aed59d1104926078/c.html",
+    "pub_date": "2026-04-30 09:06:41"
+  },
+  {
+    "id": 539665,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "国家数据集管理服务平台正式发布并启动试运行",
+    "link": "https://www.chinanews.com.cn/cj/2026/04-30/10613474.shtml",
+    "pub_date": "2026-04-30 09:06:29"
+  },
+  {
+    "id": 540836,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "20万字不到1分钱，梁文锋把token价格打骨折了",
+    "link": "https://www.woshipm.com/ai/6386855.html",
+    "pub_date": "2026-04-30 09:04:42"
+  },
+  {
+    "id": 539977,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "新华社权威快报丨社会救助法2026年7月1日起施行",
+    "link": "http://www.news.cn/20260430/7251b606e0dc414ab5b886a15e52a1ab/c.html",
+    "pub_date": "2026-04-30 09:03:58"
+  },
+  {
+    "id": 539978,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "新华社快讯：全国人大常委会会议表决通过新修订的监狱法",
+    "link": "http://www.news.cn/20260430/bbf13611345244b18a5c3cd84c66150e/c.html",
+    "pub_date": "2026-04-30 09:02:56"
+  },
+  {
+    "id": 540008,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "王毅吁澳洲理性看待中国与南太平洋岛国合作",
+    "link": "https://www.zaobao.com/news/china/story20260430-8975689",
+    "pub_date": "2026-04-30 08:55:37"
+  },
+  {
+    "id": 540009,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "中国官媒：禁止Manus收购案不是禁止AI企业出海",
+    "link": "https://www.zaobao.com/news/china/story20260430-8975682",
+    "pub_date": "2026-04-30 08:49:00"
+  },
+  {
+    "id": 539979,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "戏剧人才培养共同体在京成立",
+    "link": "http://www.news.cn/20260430/822483b0e59049cc82ab949432b78810/c.html",
+    "pub_date": "2026-04-30 08:46:51"
+  },
+  {
+    "id": 539980,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "德总理淡化与特朗普分歧 称彼此关系“依然良好”",
+    "link": "http://www.news.cn/20260430/5674cd5dcb42443bbede3041dc99dae5/c.html",
+    "pub_date": "2026-04-30 08:46:18"
+  },
+  {
+    "id": 539711,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "Bug频出，官方致歉：《异环》能跳出《幻塔》的剧本吗？",
+    "link": "https://36kr.com/p/3787956437179395?f=rss",
+    "pub_date": "2026-04-30 08:30:54"
+  },
+  {
+    "id": 539981,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "亚沙会丨踏沙逐浪 闪耀三亚——中国体育代表团亚沙会全景复盘",
+    "link": "http://www.news.cn/20260430/ae74ef67b8cf4568af83f8763fbd8f99/c.html",
+    "pub_date": "2026-04-30 08:28:25"
+  },
+  {
+    "id": 540647,
+    "feed_name": "极客公园",
+    "category": "科技",
+    "title": "\n        马斯克：OpenAI 是我的创意，Altman 是小偷；Claude Code 使用成本翻倍；Image 2 登顶视觉模型榜｜极客早知道\n      ",
+    "link": "http://www.geekpark.net/news/363594",
+    "pub_date": "2026-04-30 08:25:55"
+  },
+  {
+    "id": 539666,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "考古解码何以中国——2025年度全国十大考古新发现亮点扫描",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613466.shtml",
+    "pub_date": "2026-04-30 08:24:56"
+  },
+  {
+    "id": 539667,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "“上门带老人锻炼”走红网络 贴心服务的背后这些问题须注意",
+    "link": "https://www.chinanews.com.cn/sh/2026/04-30/10613464.shtml",
+    "pub_date": "2026-04-30 08:20:28"
+  },
+  {
+    "id": 539712,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "8点1氪丨官方通报“霸王茶姬中喝出水银”；马斯克称创办OpenAI只为拯救人类；三星家族财富一年翻倍至3000亿跃居亚洲第三",
+    "link": "https://36kr.com/p/3788573115735299?f=rss",
+    "pub_date": "2026-04-30 08:19:17"
+  },
+  {
+    "id": 539668,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "新版旅游合同迎“五一”考验 这些新要求助消费者避坑出行",
+    "link": "https://www.chinanews.com.cn/sh/2026/04-30/10613463.shtml",
+    "pub_date": "2026-04-30 08:18:28"
+  },
+  {
+    "id": 539669,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "“五一”假期前期我国大部将有降水过程",
+    "link": "https://www.chinanews.com.cn/sh/2026/04-30/10613460.shtml",
+    "pub_date": "2026-04-30 08:16:48"
+  },
+  {
+    "id": 539670,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "“五一”将至，你会来一场非遗之旅吗",
+    "link": "https://www.chinanews.com.cn/cul/2026/04-30/10613462.shtml",
+    "pub_date": "2026-04-30 08:16:24"
+  },
+  {
+    "id": 539982,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "斯塔默：将有效快速处理伦敦持刀恐袭案",
+    "link": "http://www.news.cn/20260430/3ca85545134344caa6691cc6c67b141a/c.html",
+    "pub_date": "2026-04-30 08:14:08"
+  },
+  {
+    "id": 540209,
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "分析：新一場的金融危機或正在醞釀——但不會重演2008年的景象",
+    "link": "https://www.bbc.com/zhongwen/articles/ckgp5evq70eo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-04-30 08:14:01"
+  },
+  {
+    "id": 540210,
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "AI衝擊教育：中國家長怕孩子成了「科舉被廢後的秀才」",
+    "link": "https://www.bbc.com/zhongwen/articles/clypne023mgo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-04-30 08:11:36"
+  },
+  {
+    "id": 539671,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "网警严查“斗狠”类直播 13人已被行拘",
+    "link": "https://www.chinanews.com.cn/sh/2026/04-30/10613459.shtml",
+    "pub_date": "2026-04-30 08:09:37"
+  },
+  {
+    "id": 540696,
+    "feed_name": "爱范儿",
+    "category": "科技",
+    "title": "早报｜苹果iOS 27或大幅升级照片App/曝一加、realme正式合并/去年我国Token调用量达21100万亿",
+    "link": "https://www.ifanr.com/1664570?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "pub_date": "2026-04-30 08:07:07"
+  },
+  {
+    "id": 539672,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "将人工智能纳入教师资格考试 构建教师AI素养一体化体系",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613458.shtml",
+    "pub_date": "2026-04-30 08:06:15"
+  },
+  {
+    "id": 539673,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "一幼儿园老板闭店跑路 百万元预付费如何追回",
+    "link": "https://www.chinanews.com.cn/cj/2026/04-30/10613457.shtml",
+    "pub_date": "2026-04-30 08:00:21"
+  },
+  {
+    "id": 539713,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "「微滔生物」A轮次融资超5000万美元，LNP路线体内CAR-T已发表初步人体数据",
+    "link": "https://36kr.com/p/3787339522432256?f=rss",
+    "pub_date": "2026-04-30 08:00:00"
+  },
+  {
+    "id": 539674,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "从“生存兜底”迈向“发展赋能” 社会救助将有国家立法",
+    "link": "https://www.chinanews.com.cn/gn/2026/04-30/10613456.shtml",
+    "pub_date": "2026-04-30 07:55:02"
+  },
+  {
+    "id": 539983,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "新就业群体发展观察丨党建引领新就业群体参与社会治理",
+    "link": "http://www.news.cn/20260430/adcecb7dfbc34b8d8355676442721128/c.html",
+    "pub_date": "2026-04-30 07:55:00"
+  },
+  {
+    "id": 539675,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "或将覆盖空天地海 未来6G能力提升集中在这些方面",
+    "link": "https://www.chinanews.com.cn/cj/2026/04-30/10613454.shtml",
+    "pub_date": "2026-04-30 07:52:34"
+  },
+  {
+    "id": 539984,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "亚沙会丨全天综合：亚沙会收官在即 中国队多点开花创佳绩",
+    "link": "http://www.news.cn/20260430/db9442a9b482455b91a21d479046ccc9/c.html",
+    "pub_date": "2026-04-30 07:51:12"
+  },
+  {
+    "id": 539985,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "亚沙会丨小科普：速度不同，为何共享世界纪录？",
+    "link": "http://www.news.cn/20260430/59d1498bb8594a93b1367952fc35cec5/c.html",
+    "pub_date": "2026-04-30 07:51:08"
+  },
+  {
     "id": 538855,
     "feed_name": "界面新闻: 新闻",
     "category": "新闻",
@@ -40,6 +2736,14 @@
     "pub_date": "2026-04-30 07:50:13"
   },
   {
+    "id": 539676,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "人这一辈子，一定要去一趟东方！",
+    "link": "https://www.chinanews.com.cn/sh/2026/04-30/10613453.shtml",
+    "pub_date": "2026-04-30 07:49:50"
+  },
+  {
     "id": 538371,
     "feed_name": "36氪",
     "category": "新闻",
@@ -48,12 +2752,36 @@
     "pub_date": "2026-04-30 07:49:47"
   },
   {
+    "id": 539986,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "美媒：美政府寻求“没收”两艘与伊朗关联油轮",
+    "link": "http://www.news.cn/20260430/cf4c97276e8b4290955cb549e717c076/c.html",
+    "pub_date": "2026-04-30 07:49:42"
+  },
+  {
+    "id": 539987,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "泽连斯基：将打击俄军120至150公里纵深军事和后勤目标",
+    "link": "http://www.news.cn/20260430/df270df614b84b70a20e0a06b7a34d4e/c.html",
+    "pub_date": "2026-04-30 07:48:41"
+  },
+  {
     "id": 538372,
     "feed_name": "36氪",
     "category": "新闻",
     "title": "近2.4万亿元，A股公司年度现金分红创新高",
     "link": "https://36kr.com/newsflashes/3788528204897280?f=rss",
     "pub_date": "2026-04-30 07:47:10"
+  },
+  {
+    "id": 540010,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "中国首个民营资本参股核电项目投产发电",
+    "link": "https://www.zaobao.com/news/china/story20260430-8975490",
+    "pub_date": "2026-04-30 07:47:00"
   },
   {
     "id": 538373,
@@ -5432,6 +8160,14 @@
     "pub_date": "2026-04-29 09:18:55"
   },
   {
+    "id": 540859,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "从报名到激励到账：鸿蒙开发者激励计划2026通关全攻略",
+    "link": "https://www.woshipm.com/ai/6386685.html",
+    "pub_date": "2026-04-29 09:13:59"
+  },
+  {
     "id": 538142,
     "feed_name": "人人都是产品经理",
     "category": "科技",
@@ -5469,6 +8205,14 @@
     "category": "新闻",
     "title": "前米哈游高管创业，AI 原生增长 Agent LeapMind Growth 获 CMC 资本领投",
     "link": "https://36kr.com/p/3786123369094405?f=rss",
+    "pub_date": "2026-04-29 09:00:00"
+  },
+  {
+    "id": 540015,
+    "feed_name": "南方周末 / 新闻",
+    "category": "新闻",
+    "title": "一周狂欢，242人死亡：泰国泼水节的“危险七日”",
+    "link": "https://www.infzm.com/contents/320448",
     "pub_date": "2026-04-29 09:00:00"
   },
   {
