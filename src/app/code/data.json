@@ -800,6 +800,16 @@
     "author": null
   },
   {
+    "id": 544406,
+    "feed_name": "github lua",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
+    "category": "技术",
+    "title": "ThePrimeagen/99",
+    "link": "https://github.com/ThePrimeagen/99",
+    "pub_date": "2026-05-02 07:45:27",
+    "author": null
+  },
+  {
     "id": 540371,
     "feed_name": "github lua",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
@@ -987,16 +997,6 @@
     "title": "mason-org/mason.nvim",
     "link": "https://github.com/mason-org/mason.nvim",
     "pub_date": "2026-04-18 14:58:27",
-    "author": null
-  },
-  {
-    "id": 502044,
-    "feed_name": "github lua",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml",
-    "category": "技术",
-    "title": "nvim-telescope/telescope.nvim",
-    "link": "https://github.com/nvim-telescope/telescope.nvim",
-    "pub_date": "2026-04-16 07:37:41",
     "author": null
   },
   {
