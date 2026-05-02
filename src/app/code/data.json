@@ -1,205 +1,5 @@
 [
   {
-    "id": 545647,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "Tencent/WeKnora",
-    "link": "https://github.com/Tencent/WeKnora",
-    "pub_date": "2026-05-02 15:21:43",
-    "author": null
-  },
-  {
-    "id": 545655,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "matlab/matlab-mcp-core-server",
-    "link": "https://github.com/matlab/matlab-mcp-core-server",
-    "pub_date": "2026-05-02 15:21:43",
-    "author": null
-  },
-  {
-    "id": 543070,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "chenhg5/cc-connect",
-    "link": "https://github.com/chenhg5/cc-connect",
-    "pub_date": "2026-05-01 16:03:43",
-    "author": null
-  },
-  {
-    "id": 540328,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "temporalio/temporal",
-    "link": "https://github.com/temporalio/temporal",
-    "pub_date": "2026-04-30 16:07:10",
-    "author": null
-  },
-  {
-    "id": 540329,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "looplj/axonhub",
-    "link": "https://github.com/looplj/axonhub",
-    "pub_date": "2026-04-30 16:07:10",
-    "author": null
-  },
-  {
-    "id": 537624,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "putyy/res-downloader",
-    "link": "https://github.com/putyy/res-downloader",
-    "pub_date": "2026-04-29 16:03:07",
-    "author": null
-  },
-  {
-    "id": 537628,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "hashicorp/vault",
-    "link": "https://github.com/hashicorp/vault",
-    "pub_date": "2026-04-29 16:03:07",
-    "author": null
-  },
-  {
-    "id": 537631,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "knadh/listmonk",
-    "link": "https://github.com/knadh/listmonk",
-    "pub_date": "2026-04-29 16:03:07",
-    "author": null
-  },
-  {
-    "id": 532260,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "pingcap/tidb",
-    "link": "https://github.com/pingcap/tidb",
-    "pub_date": "2026-04-27 16:08:01",
-    "author": null
-  },
-  {
-    "id": 532266,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "runatlantis/atlantis",
-    "link": "https://github.com/runatlantis/atlantis",
-    "pub_date": "2026-04-27 16:08:01",
-    "author": null
-  },
-  {
-    "id": 529638,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "gastownhall/gascity",
-    "link": "https://github.com/gastownhall/gascity",
-    "pub_date": "2026-04-26 15:18:08",
-    "author": null
-  },
-  {
-    "id": 526987,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "vllm-project/semantic-router",
-    "link": "https://github.com/vllm-project/semantic-router",
-    "pub_date": "2026-04-25 15:04:56",
-    "author": null
-  },
-  {
-    "id": 526989,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "sqlc-dev/sqlc",
-    "link": "https://github.com/sqlc-dev/sqlc",
-    "pub_date": "2026-04-25 15:04:56",
-    "author": null
-  },
-  {
-    "id": 526991,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "pocketbase/pocketbase",
-    "link": "https://github.com/pocketbase/pocketbase",
-    "pub_date": "2026-04-25 15:04:56",
-    "author": null
-  },
-  {
-    "id": 524259,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "usememos/memos",
-    "link": "https://github.com/usememos/memos",
-    "pub_date": "2026-04-24 15:50:37",
-    "author": null
-  },
-  {
-    "id": 521571,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "syncthing/syncthing",
-    "link": "https://github.com/syncthing/syncthing",
-    "pub_date": "2026-04-23 15:24:29",
-    "author": null
-  },
-  {
-    "id": 521574,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "kgretzky/evilginx2",
-    "link": "https://github.com/kgretzky/evilginx2",
-    "pub_date": "2026-04-23 15:24:29",
-    "author": null
-  },
-  {
-    "id": 521578,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "terrastruct/d2",
-    "link": "https://github.com/terrastruct/d2",
-    "pub_date": "2026-04-23 15:24:29",
-    "author": null
-  },
-  {
-    "id": 518860,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "casdoor/casdoor",
-    "link": "https://github.com/casdoor/casdoor",
-    "pub_date": "2026-04-22 15:21:57",
-    "author": null
-  },
-  {
-    "id": 518861,
-    "feed_name": "github go",
-    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
-    "category": "技术",
-    "title": "HexmosTech/git-lrc",
-    "link": "https://github.com/HexmosTech/git-lrc",
-    "pub_date": "2026-04-22 15:21:57",
-    "author": null
-  },
-  {
     "id": 545615,
     "feed_name": "github all",
     "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
@@ -597,6 +397,206 @@
     "title": "songquanpeng/one-api",
     "link": "https://github.com/songquanpeng/one-api",
     "pub_date": "2026-04-15 15:20:35",
+    "author": null
+  },
+  {
+    "id": 545647,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "Tencent/WeKnora",
+    "link": "https://github.com/Tencent/WeKnora",
+    "pub_date": "2026-05-02 15:21:43",
+    "author": null
+  },
+  {
+    "id": 545655,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "matlab/matlab-mcp-core-server",
+    "link": "https://github.com/matlab/matlab-mcp-core-server",
+    "pub_date": "2026-05-02 15:21:43",
+    "author": null
+  },
+  {
+    "id": 543070,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "chenhg5/cc-connect",
+    "link": "https://github.com/chenhg5/cc-connect",
+    "pub_date": "2026-05-01 16:03:43",
+    "author": null
+  },
+  {
+    "id": 540328,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "temporalio/temporal",
+    "link": "https://github.com/temporalio/temporal",
+    "pub_date": "2026-04-30 16:07:10",
+    "author": null
+  },
+  {
+    "id": 540329,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "looplj/axonhub",
+    "link": "https://github.com/looplj/axonhub",
+    "pub_date": "2026-04-30 16:07:10",
+    "author": null
+  },
+  {
+    "id": 537624,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "putyy/res-downloader",
+    "link": "https://github.com/putyy/res-downloader",
+    "pub_date": "2026-04-29 16:03:07",
+    "author": null
+  },
+  {
+    "id": 537628,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "hashicorp/vault",
+    "link": "https://github.com/hashicorp/vault",
+    "pub_date": "2026-04-29 16:03:07",
+    "author": null
+  },
+  {
+    "id": 537631,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "knadh/listmonk",
+    "link": "https://github.com/knadh/listmonk",
+    "pub_date": "2026-04-29 16:03:07",
+    "author": null
+  },
+  {
+    "id": 532260,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "pingcap/tidb",
+    "link": "https://github.com/pingcap/tidb",
+    "pub_date": "2026-04-27 16:08:01",
+    "author": null
+  },
+  {
+    "id": 532266,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "runatlantis/atlantis",
+    "link": "https://github.com/runatlantis/atlantis",
+    "pub_date": "2026-04-27 16:08:01",
+    "author": null
+  },
+  {
+    "id": 529638,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "gastownhall/gascity",
+    "link": "https://github.com/gastownhall/gascity",
+    "pub_date": "2026-04-26 15:18:08",
+    "author": null
+  },
+  {
+    "id": 526987,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "vllm-project/semantic-router",
+    "link": "https://github.com/vllm-project/semantic-router",
+    "pub_date": "2026-04-25 15:04:56",
+    "author": null
+  },
+  {
+    "id": 526989,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "sqlc-dev/sqlc",
+    "link": "https://github.com/sqlc-dev/sqlc",
+    "pub_date": "2026-04-25 15:04:56",
+    "author": null
+  },
+  {
+    "id": 526991,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "pocketbase/pocketbase",
+    "link": "https://github.com/pocketbase/pocketbase",
+    "pub_date": "2026-04-25 15:04:56",
+    "author": null
+  },
+  {
+    "id": 524259,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "usememos/memos",
+    "link": "https://github.com/usememos/memos",
+    "pub_date": "2026-04-24 15:50:37",
+    "author": null
+  },
+  {
+    "id": 521571,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "syncthing/syncthing",
+    "link": "https://github.com/syncthing/syncthing",
+    "pub_date": "2026-04-23 15:24:29",
+    "author": null
+  },
+  {
+    "id": 521574,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "kgretzky/evilginx2",
+    "link": "https://github.com/kgretzky/evilginx2",
+    "pub_date": "2026-04-23 15:24:29",
+    "author": null
+  },
+  {
+    "id": 521578,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "terrastruct/d2",
+    "link": "https://github.com/terrastruct/d2",
+    "pub_date": "2026-04-23 15:24:29",
+    "author": null
+  },
+  {
+    "id": 518860,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "casdoor/casdoor",
+    "link": "https://github.com/casdoor/casdoor",
+    "pub_date": "2026-04-22 15:21:57",
+    "author": null
+  },
+  {
+    "id": 518861,
+    "feed_name": "github go",
+    "feed_url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/go.xml",
+    "category": "技术",
+    "title": "HexmosTech/git-lrc",
+    "link": "https://github.com/HexmosTech/git-lrc",
+    "pub_date": "2026-04-22 15:21:57",
     "author": null
   },
   {
