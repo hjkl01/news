@@ -1,5 +1,1765 @@
 [
   {
+    "id": 550923,
+    "feed_name": "界面新闻: 新闻",
+    "category": "新闻",
+    "title": "配合经济转型，阿联酋石油巨头斥3718亿支持AI等布局",
+    "link": "https://www.jiemian.com/article/14382059.html",
+    "pub_date": "2026-05-04 16:19:49"
+  },
+  {
+    "id": 550924,
+    "feed_name": "界面新闻: 新闻",
+    "category": "新闻",
+    "title": "特朗普回绝伊朗新方案，美军舰机及1.5万人今起疏导霍尔木兹",
+    "link": "https://www.jiemian.com/article/14381791.html",
+    "pub_date": "2026-05-04 16:19:49"
+  },
+  {
+    "id": 550925,
+    "feed_name": "界面新闻: 新闻",
+    "category": "新闻",
+    "title": "阿联酋“退群”后，7个产油国决定6月日均增产原油18.8万桶",
+    "link": "https://www.jiemian.com/article/14381748.html",
+    "pub_date": "2026-05-04 16:19:49"
+  },
+  {
+    "id": 550926,
+    "feed_name": "界面新闻: 新闻",
+    "category": "新闻",
+    "title": "载有超190万桶原油！伊朗一超大型油轮成功“躲过”美海军追踪",
+    "link": "https://www.jiemian.com/article/14381519.html",
+    "pub_date": "2026-05-04 16:19:49"
+  },
+  {
+    "id": 550927,
+    "feed_name": "界面新闻: 新闻",
+    "category": "新闻",
+    "title": "以色列正加紧“双线”备战，以军近日接收大量军事装备，已为战火重燃做好准备",
+    "link": "https://www.jiemian.com/article/14381201.html",
+    "pub_date": "2026-05-04 16:19:49"
+  },
+  {
+    "id": 550343,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "法国友人向侵华日军南京大屠杀遇难同胞纪念馆移交一批资料",
+    "link": "https://www.chinanews.com.cn/sh/2026/05-04/10615461.shtml",
+    "pub_date": "2026-05-04 16:15:19"
+  },
+  {
+    "id": 550443,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "恒指收涨1.24%，恒生科技指数涨2.16%",
+    "link": "https://36kr.com/newsflashes/3794703326616837?f=rss",
+    "pub_date": "2026-05-04 16:11:50"
+  },
+  {
+    "id": 550344,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "一见·从西迁精神感悟总书记的青春箴言",
+    "link": "https://www.chinanews.com.cn/gn/2026/05-04/10615467.shtml",
+    "pub_date": "2026-05-04 16:03:00"
+  },
+  {
+    "id": 550345,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "河南洛阳：户外露营成“五一”假期新选择",
+    "link": "https://www.chinanews.com.cn/tp/2026/05-04/10615457.shtml",
+    "pub_date": "2026-05-04 16:00:46"
+  },
+  {
+    "id": 550346,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "西藏吉隆出入境边防检查站全力保障“五一”假期口岸顺畅通关",
+    "link": "https://www.chinanews.com.cn/sh/2026/05-04/10615459.shtml",
+    "pub_date": "2026-05-04 16:00:36"
+  },
+  {
+    "id": 550347,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "孟加拉国外交部长卡利勒将访华",
+    "link": "https://www.chinanews.com.cn/gn/2026/05-04/10615462.shtml",
+    "pub_date": "2026-05-04 16:00:06"
+  },
+  {
+    "id": 550348,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "成都宽窄巷子景区游人如织",
+    "link": "https://www.chinanews.com.cn/tp/2026/05-04/10615464.shtml",
+    "pub_date": "2026-05-04 15:59:34"
+  },
+  {
+    "id": 550349,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "5月3日全社会跨区域人员流动量30056.4万人次",
+    "link": "https://www.chinanews.com.cn/cj/2026/05-04/10615453.shtml",
+    "pub_date": "2026-05-04 15:58:45"
+  },
+  {
+    "id": 550350,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "甘肃临夏：簪花公交与牡丹仙子同游“五一” 解锁城市浪漫色彩",
+    "link": "https://www.chinanews.com.cn/tp/2026/05-04/10615456.shtml",
+    "pub_date": "2026-05-04 15:58:43"
+  },
+  {
+    "id": 550351,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "天天学习｜36年前的青年节 习近平这样度过",
+    "link": "https://www.chinanews.com.cn/gn/2026/05-04/10615466.shtml",
+    "pub_date": "2026-05-04 15:58:15"
+  },
+  {
+    "id": 550352,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "专家详解汉简“角驼”之谜 从神奇动物入手看丝路文明对话",
+    "link": "https://www.chinanews.com.cn/cul/2026/05-04/10615458.shtml",
+    "pub_date": "2026-05-04 15:57:39"
+  },
+  {
+    "id": 550353,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "兰州铁路局：匠心守一线 温情护旅途",
+    "link": "https://www.chinanews.com.cn/sh/2026/05-04/10615452.shtml",
+    "pub_date": "2026-05-04 15:57:17"
+  },
+  {
+    "id": 550354,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "叙利亚青年胡塞发的十年中国青春",
+    "link": "https://www.chinanews.com.cn/sh/2026/05-04/10615454.shtml",
+    "pub_date": "2026-05-04 15:44:41"
+  },
+  {
+    "id": 551378,
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "目标突破 1000 层：铠侠、闪迪下月展示多层堆叠单元架构 QLC NAND 闪存",
+    "link": "https://www.ithome.com/0/946/257.htm",
+    "pub_date": "2026-05-04 15:36:40"
+  },
+  {
+    "id": 550444,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "“五一”假期第四天，全社会跨区域人员流动量预计超2.9亿人次",
+    "link": "https://36kr.com/newsflashes/3794667784018951?f=rss",
+    "pub_date": "2026-05-04 15:35:41"
+  },
+  {
+    "id": 550613,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "奋斗者之歌丨实干开创未来",
+    "link": "http://www.news.cn/20260504/d2d8a74a42b049c69c78e2efdf395199/c.html",
+    "pub_date": "2026-05-04 15:34:29"
+  },
+  {
+    "id": 551503,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "算力走强，茅台走弱：硅基通胀，碳基通缩｜财经峰评",
+    "link": "https://www.tmtpost.com/7976208.html",
+    "pub_date": "2026-05-04 15:33:39"
+  },
+  {
+    "id": 550614,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "专访丨中国零关税举措助力非洲经济现代化转型——访马达加斯加经济学家于格·拉让松",
+    "link": "http://www.news.cn/20260504/f6a7ad2ab56b45548dcdf9ae41df3665/c.html",
+    "pub_date": "2026-05-04 15:33:32"
+  },
+  {
+    "id": 550355,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "五一宅家刷手机？小心“手机脖”！正确姿势速收藏",
+    "link": "https://www.chinanews.com.cn/jk/2026/05-04/10615451.shtml",
+    "pub_date": "2026-05-04 15:31:08"
+  },
+  {
+    "id": 550356,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "攀岩世界杯（中国柯桥）落幕 “攀岩+”促进文旅体融合",
+    "link": "https://www.chinanews.com.cn/ty/2026/05-04/10615426.shtml",
+    "pub_date": "2026-05-04 15:28:00"
+  },
+  {
+    "id": 551663,
+    "feed_name": "简书 / 首页",
+    "category": "娱乐",
+    "title": "参加第一期线上读书会",
+    "link": "https://www.jianshu.com/p/6d440178622c",
+    "pub_date": "2026-05-04 15:26:51"
+  },
+  {
+    "id": 551664,
+    "feed_name": "简书 / 首页",
+    "category": "娱乐",
+    "title": "辞职后的第1657天，娇妻？",
+    "link": "https://www.jianshu.com/p/cf25067c6e4b",
+    "pub_date": "2026-05-04 15:26:51"
+  },
+  {
+    "id": 550357,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "“五一”假期 北京什刹海景区人气旺",
+    "link": "http://www.chinanews.com.cn/tp/hd2011/2026/05-04/1190382.shtml",
+    "pub_date": "2026-05-04 15:24:34"
+  },
+  {
+    "id": 550358,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "印尼上调非补贴燃油价格 柴油涨幅居前",
+    "link": "https://www.chinanews.com.cn/gj/2026/05-04/10615442.shtml",
+    "pub_date": "2026-05-04 15:23:34"
+  },
+  {
+    "id": 550359,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "（申城风景线）“咖啡节”为上海“五一”假日带来多彩“咖啡+”消费",
+    "link": "https://www.chinanews.com.cn/sh/2026/05-04/10615443.shtml",
+    "pub_date": "2026-05-04 15:23:02"
+  },
+  {
+    "id": 550360,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "外交部发言人就孟加拉国外长卡利勒访华答记者问",
+    "link": "https://www.chinanews.com.cn/gn/2026/05-04/10615449.shtml",
+    "pub_date": "2026-05-04 15:22:50"
+  },
+  {
+    "id": 550361,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "从打卡到“沉浸” 江西古村“质感慢游”受青睐",
+    "link": "https://www.chinanews.com.cn/sh/2026/05-04/10615441.shtml",
+    "pub_date": "2026-05-04 15:21:17"
+  },
+  {
+    "id": 551379,
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "2026 五一假期铁路迎来返程客流高峰，今天预计发送旅客 2030 万人次",
+    "link": "https://www.ithome.com/0/946/250.htm",
+    "pub_date": "2026-05-04 15:13:31"
+  },
+  {
+    "id": 550445,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "2026年五一档电影票房破6亿元",
+    "link": "https://36kr.com/newsflashes/3794645689359363?f=rss",
+    "pub_date": "2026-05-04 15:13:12"
+  },
+  {
+    "id": 550362,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "AI“秒级匹配”成寻根新“钥匙”",
+    "link": "https://www.chinanews.com.cn/sh/2026/05-04/10615440.shtml",
+    "pub_date": "2026-05-04 15:11:51"
+  },
+  {
+    "id": 550747,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "中国奥园：全面暂停境外债兑付，已委聘毕马威、年利达协助制定境外债务重组方案",
+    "link": "https://m.thepaper.cn/detail/33096790",
+    "pub_date": "2026-05-04 15:10:16"
+  },
+  {
+    "id": 550363,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "五一档票房破6亿！“电影+”激活假日经济新活力",
+    "link": "https://www.chinanews.com.cn/cul/2026/05-04/10615447.shtml",
+    "pub_date": "2026-05-04 15:09:41"
+  },
+  {
+    "id": 550748,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "李公明｜一周画记：特朗普发AI持枪图威胁伊朗；零浪费与结构性公共环保",
+    "link": "https://m.thepaper.cn/detail/33095536",
+    "pub_date": "2026-05-04 15:08:55"
+  },
+  {
+    "id": 550749,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "天天学习丨36年前的青年节 习近平这样度过",
+    "link": "https://news.cctv.com/2026/05/03/ARTIkjW9ROmqWdSwJqMCmti5260428.shtml",
+    "pub_date": "2026-05-04 15:08:12"
+  },
+  {
+    "id": 550750,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "全国铁路迎假期返程客流高峰：预计今日发送2030万人次，热门线路增加运力供给",
+    "link": "https://m.thepaper.cn/detail/33096789",
+    "pub_date": "2026-05-04 15:06:48"
+  },
+  {
+    "id": 550364,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "孟加拉国外交部长卡利勒将访华",
+    "link": "https://www.chinanews.com.cn/gn/2026/05-04/10615446.shtml",
+    "pub_date": "2026-05-04 15:05:39"
+  },
+  {
+    "id": 550365,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "当年轻人走进养老院：一场跨越半个世纪的温暖相遇",
+    "link": "https://www.chinanews.com.cn/sh/2026/05-04/10615428.shtml",
+    "pub_date": "2026-05-04 15:02:58"
+  },
+  {
+    "id": 550366,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "全球出行新选择 世界爱上了“中国造”",
+    "link": "https://www.chinanews.com.cn/cj/2026/05-04/10615431.shtml",
+    "pub_date": "2026-05-04 15:01:36"
+  },
+  {
+    "id": 550367,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "“00后”咖啡师遇见银发族：我在老年大学开“潮课”",
+    "link": "https://www.chinanews.com.cn/sh/2026/05-04/10615427.shtml",
+    "pub_date": "2026-05-04 15:01:24"
+  },
+  {
+    "id": 550928,
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "「迷幻蘑菇」可能有助戒煙？",
+    "link": "https://www.bbc.com/zhongwen/articles/cy72k38gm5no/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-05-04 15:00:55"
+  },
+  {
+    "id": 550446,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "比特币一度升破8万美元，触及逾三个月高位",
+    "link": "https://36kr.com/newsflashes/3794632593677316?f=rss",
+    "pub_date": "2026-05-04 14:59:53"
+  },
+  {
+    "id": 550615,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "五台山台顶区域降雪有人员被困 目前未出现伤亡情况 4日天气趋稳",
+    "link": "http://www.news.cn/20260504/a7f7216c1f2047478d6c94d959845a58/c.html",
+    "pub_date": "2026-05-04 14:58:28"
+  },
+  {
+    "id": 550616,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "新华视评丨跳出“攻略式成长”，拥抱火热青春",
+    "link": "http://www.news.cn/20260504/d2164154f06c4a01aafa08a27add428b/c.html",
+    "pub_date": "2026-05-04 14:57:15"
+  },
+  {
+    "id": 550368,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "伊朗警告美军：若试图进入霍尔木兹海峡将遭袭",
+    "link": "https://www.chinanews.com.cn/gj/2026/05-04/10615444.shtml",
+    "pub_date": "2026-05-04 14:56:56"
+  },
+  {
+    "id": 550369,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "【讲习所·追光的你】“我们要用欣赏和赞许的眼光看待青年的创新创造”",
+    "link": "https://www.chinanews.com.cn/gn/2026/05-04/10615445.shtml",
+    "pub_date": "2026-05-04 14:56:00"
+  },
+  {
+    "id": 551380,
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "揭秘华尔街顶级律师威廉 · 萨维特：曾在法庭击败马斯克，如今替奥尔特曼出战",
+    "link": "https://www.ithome.com/0/946/246.htm",
+    "pub_date": "2026-05-04 14:55:31"
+  },
+  {
+    "id": 550617,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "伊朗4车相撞致27人受伤",
+    "link": "http://www.news.cn/20260504/f8723fa9a78e4b57a8509269ddd94592/c.html",
+    "pub_date": "2026-05-04 14:54:41"
+  },
+  {
+    "id": 550618,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "一艘被扣押伊朗货船上的22名船员被转移至巴基斯坦",
+    "link": "http://www.news.cn/20260504/ab99937cf4cc4518aaaf36db6017b59e/c.html",
+    "pub_date": "2026-05-04 14:52:31"
+  },
+  {
+    "id": 550751,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "“花会开，光会来”，一座城市这样回应人们的期待",
+    "link": "https://m.thepaper.cn/detail/33096659",
+    "pub_date": "2026-05-04 14:52:21"
+  },
+  {
+    "id": 551381,
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "简化无人机飞行报备流程，四川“扫码飞”第二批试点空域上线",
+    "link": "https://www.ithome.com/0/946/244.htm",
+    "pub_date": "2026-05-04 14:52:21"
+  },
+  {
+    "id": 550619,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "综述丨美国关税威胁升级 德国经济承压加剧",
+    "link": "http://www.news.cn/20260504/b014c617023f4102829419c293572ccb/c.html",
+    "pub_date": "2026-05-04 14:52:08"
+  },
+  {
+    "id": 550752,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "著名法学家、西南政法大学行政法学科创建人王连昌教授逝世",
+    "link": "https://m.thepaper.cn/detail/33096802",
+    "pub_date": "2026-05-04 14:51:56"
+  },
+  {
+    "id": 550370,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "菲律宾发生6.0级地震",
+    "link": "https://www.chinanews.com.cn/gj/2026/05-04/10615439.shtml",
+    "pub_date": "2026-05-04 14:51:31"
+  },
+  {
+    "id": 550753,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "铁路迎来假期返程客流高峰，这些区间余票充足",
+    "link": "https://m.thepaper.cn/detail/33096800",
+    "pub_date": "2026-05-04 14:50:51"
+  },
+  {
+    "id": 550620,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "严防“节日病” 廉洁过假期——“五一”各地精准纠治“四风”问题观察",
+    "link": "http://www.news.cn/20260504/2605749ef1f140d99d70a908c637919c/c.html",
+    "pub_date": "2026-05-04 14:50:49"
+  },
+  {
+    "id": 550371,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "边城东宁：“五一”假期前3天出入境俄籍游客同比增40%",
+    "link": "https://www.chinanews.com.cn/sh/2026/05-04/10615423.shtml",
+    "pub_date": "2026-05-04 14:48:27"
+  },
+  {
+    "id": 550372,
+    "feed_name": "中国新闻网 即时新闻",
+    "category": "新闻",
+    "title": "浙江全新推出城市网球联赛 激发网球运动全民热潮",
+    "link": "https://www.chinanews.com.cn/ty/2026/05-04/10615424.shtml",
+    "pub_date": "2026-05-04 14:47:59"
+  },
+  {
+    "id": 550409,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "传习录丨奋斗是青春最亮丽的底色",
+    "link": "https://www.chinanews.com.cn/gn/2026/05-04/10615438.shtml",
+    "pub_date": "2026-05-04 14:47:33"
+  },
+  {
+    "id": 550410,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "第一观察 | 28岁的抉择",
+    "link": "https://www.chinanews.com.cn/gn/2026/05-04/10615437.shtml",
+    "pub_date": "2026-05-04 14:45:03"
+  },
+  {
+    "id": 550411,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "习近平总书记关切事｜青春追梦 奋斗圆梦",
+    "link": "https://www.chinanews.com.cn/gn/2026/05-04/10615436.shtml",
+    "pub_date": "2026-05-04 14:39:31"
+  },
+  {
+    "id": 550621,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "伊朗武装部队称将打击接近或进入霍尔木兹海峡的美军",
+    "link": "http://www.news.cn/20260504/aa37fba24d734919a2274906a6605db6/c.html",
+    "pub_date": "2026-05-04 14:39:03"
+  },
+  {
+    "id": 551382,
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "2026 年五四青年节：雷军透露小米公益基金会已资助 1082 名青年教师、16220 名学生",
+    "link": "https://www.ithome.com/0/946/242.htm",
+    "pub_date": "2026-05-04 14:37:58"
+  },
+  {
+    "id": 550622,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "新华社快讯：菲律宾发生6.0级地震",
+    "link": "http://www.news.cn/20260504/e8c11e63878940af9577e4509f8a6e6f/c.html",
+    "pub_date": "2026-05-04 14:36:51"
+  },
+  {
+    "id": 550412,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "实干笃行｜一见·从这份深厚情怀，感悟“为政之道”",
+    "link": "https://www.chinanews.com.cn/gn/2026/05-04/10615433.shtml",
+    "pub_date": "2026-05-04 14:34:10"
+  },
+  {
+    "id": 550447,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "韩国KOSPI指数收盘上涨5.12%，刷新历史新高",
+    "link": "https://36kr.com/newsflashes/3794606254398728?f=rss",
+    "pub_date": "2026-05-04 14:33:05"
+  },
+  {
+    "id": 550623,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "锦州市委大院敞开大门，“五一”免费给游客停车",
+    "link": "http://www.news.cn/20260504/43184fee6b824e56b52af94fa1e36bb0/c.html",
+    "pub_date": "2026-05-04 14:24:38"
+  },
+  {
+    "id": 550448,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "巴克莱预计美联储将在2026年维持利率不变",
+    "link": "https://36kr.com/newsflashes/3794592047013122?f=rss",
+    "pub_date": "2026-05-04 14:18:38"
+  },
+  {
+    "id": 550713,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "中国产胰岛素首次进入美国市场",
+    "link": "https://www.zaobao.com/news/china/story20260504-8994094",
+    "pub_date": "2026-05-04 14:18:10"
+  },
+  {
+    "id": 550714,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "港媒：陕西道教协会会长被举报用庙产买豪车",
+    "link": "https://www.zaobao.com/news/china/story20260504-8994087",
+    "pub_date": "2026-05-04 14:16:15"
+  },
+  {
+    "id": 550715,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "辽宁女子开车手离方向盘探身车外 警方展开核查",
+    "link": "https://www.zaobao.com/news/china/story20260504-8994069",
+    "pub_date": "2026-05-04 14:15:19"
+  },
+  {
+    "id": 550754,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "香港将宽免大埔宏福苑业主及居民应缴税款",
+    "link": "https://m.thepaper.cn/detail/33096670",
+    "pub_date": "2026-05-04 14:03:03"
+  },
+  {
+    "id": 550449,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "SK海力士股价涨幅扩大至12%",
+    "link": "https://36kr.com/newsflashes/3794574058363910?f=rss",
+    "pub_date": "2026-05-04 14:00:20"
+  },
+  {
+    "id": 550624,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "立夏来临，养心护阳正当时",
+    "link": "http://www.news.cn/20260504/41fe95e0ae9741f8923518f937eb1456/c.html",
+    "pub_date": "2026-05-04 14:00:08"
+  },
+  {
+    "id": 550625,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "伊朗武装部队警告美军不要接近或进入霍尔木兹海峡",
+    "link": "http://www.news.cn/20260504/0e21ea0b7a724b98a239ab2400ad8826/c.html",
+    "pub_date": "2026-05-04 13:59:52"
+  },
+  {
+    "id": 550755,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "摆渡车问题被点名后，崂山景区：每隔20分钟发一次车",
+    "link": "https://m.thepaper.cn/detail/33096450",
+    "pub_date": "2026-05-04 13:56:18"
+  },
+  {
+    "id": 550626,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "巴基斯坦外长说对话与外交仍是唯一可行的途径",
+    "link": "http://www.news.cn/20260504/554d111cfcab4feeb6c6d6401d2746fc/c.html",
+    "pub_date": "2026-05-04 13:56:08"
+  },
+  {
+    "id": 550627,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "这就是中国青年！",
+    "link": "http://www.news.cn/20260504/719b3b5227b64949ad33faa9aceef5b3/c.html",
+    "pub_date": "2026-05-04 13:43:20"
+  },
+  {
+    "id": 550376,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "浙江铁路人“五一”坚守：以匠心护归途 用温情暖旅途",
+    "link": "https://www.chinanews.com.cn/sh/2026/05-04/10615413.shtml",
+    "pub_date": "2026-05-04 13:42:35"
+  },
+  {
+    "id": 550450,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "22家公司境外业务收入超过千亿元",
+    "link": "https://36kr.com/newsflashes/3794553076309254?f=rss",
+    "pub_date": "2026-05-04 13:38:59"
+  },
+  {
+    "id": 550756,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "韩国特检组就金建希首案二审结果提出抗诉",
+    "link": "https://m.thepaper.cn/detail/33096635",
+    "pub_date": "2026-05-04 13:38:25"
+  },
+  {
+    "id": 550716,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "陆客香港火石洲捉海胆原地“开餐” 引破坏生态担忧",
+    "link": "https://www.zaobao.com/news/china/story20260504-8993383",
+    "pub_date": "2026-05-04 13:36:00"
+  },
+  {
+    "id": 550717,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "网传中国央视拒付世界杯天价版权费 体育迷忧无缘观赛",
+    "link": "https://www.zaobao.com/news/china/story20260504-8993858",
+    "pub_date": "2026-05-04 13:32:32"
+  },
+  {
+    "id": 550377,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "后排秒变“卧铺”？这个姿势坐车风险极大",
+    "link": "https://www.chinanews.com.cn/sh/2026/05-04/10615419.shtml",
+    "pub_date": "2026-05-04 13:32:00"
+  },
+  {
+    "id": 551383,
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "西门子将向罗马尼亚交付东欧首批氢能动车组，预计 2029 年投运",
+    "link": "https://www.ithome.com/0/946/237.htm",
+    "pub_date": "2026-05-04 13:29:46"
+  },
+  {
+    "id": 550628,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "俄外交部反对美给俄外交官子女强加美国国籍",
+    "link": "http://www.news.cn/20260504/7c60bf12ca704a6484f54d1bf917af58/c.html",
+    "pub_date": "2026-05-04 13:27:26"
+  },
+  {
+    "id": 550629,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "美国俄克拉何马州枪击事件造成至少10人受伤",
+    "link": "http://www.news.cn/20260504/e496153ed9514de4874f4a50bf7c2061/c.html",
+    "pub_date": "2026-05-04 13:27:22"
+  },
+  {
+    "id": 550929,
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "中國人在台灣講脫口秀 「粉紅中配」走進台灣喜劇圈",
+    "link": "https://www.bbc.com/zhongwen/articles/clypnk7dm35o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-05-04 13:26:16"
+  },
+  {
+    "id": 550757,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "著名法学家、西南政法大学行政法学科创建人王连昌教授逝世",
+    "link": "https://m.thepaper.cn/detail/33096627",
+    "pub_date": "2026-05-04 13:25:57"
+  },
+  {
+    "id": 550630,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "专访丨欧中旅游业有望进一步实现互利共赢发展——访欧洲旅游委员会首席执行官桑坦德",
+    "link": "http://www.news.cn/20260504/1504cab4d03c4e06838931c78da4a257/c.html",
+    "pub_date": "2026-05-04 13:23:56"
+  },
+  {
+    "id": 550451,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "韩国3月网购销售额突破25万亿韩元创新高，特斯拉需求激增",
+    "link": "https://36kr.com/newsflashes/3794527211707398?f=rss",
+    "pub_date": "2026-05-04 13:12:41"
+  },
+  {
+    "id": 550631,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "通讯丨从天津到内罗毕——肯尼亚青年把中国科技实践带回家乡",
+    "link": "http://www.news.cn/20260504/6b33627f4471498f8bf27068a93f2c4e/c.html",
+    "pub_date": "2026-05-04 13:10:16"
+  },
+  {
+    "id": 550632,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "韩国特检组就金建希首案二审结果提出抗诉",
+    "link": "http://www.news.cn/20260504/7f74c470e9a846788ad497f0ab163bd6/c.html",
+    "pub_date": "2026-05-04 13:10:11"
+  },
+  {
+    "id": 550718,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "【视频】千余对双胞胎齐聚“双生之城”云南墨江",
+    "link": "https://www.zaobao.com/news/china/story20260504-8993212",
+    "pub_date": "2026-05-04 13:01:00"
+  },
+  {
+    "id": 550633,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "美欲再抡关税大棒 德国批评其“针对全欧洲”",
+    "link": "http://www.news.cn/20260504/e4716683762a41eaaf825b3da6920c1f/c.html",
+    "pub_date": "2026-05-04 12:59:50"
+  },
+  {
+    "id": 550930,
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "美國中期選舉：選民將以經濟表現評判特朗普，目前形勢如何？",
+    "link": "https://www.bbc.com/zhongwen/articles/cn4pxp780z2o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-05-04 12:58:55"
+  },
+  {
+    "id": 551428,
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "一只流浪狗让这座小城收获泼天流量：网友纷纷前往打卡",
+    "link": "https://news.mydrivers.com/1/1120/1120009.htm",
+    "pub_date": "2026-05-04 12:58:29"
+  },
+  {
+    "id": 550378,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "汤尤杯收官 中国男队卫冕夺冠女队获得亚军",
+    "link": "https://www.chinanews.com.cn/ty/2026/05-04/10615400.shtml",
+    "pub_date": "2026-05-04 12:56:26"
+  },
+  {
+    "id": 550634,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "美官员称霍尔木兹海峡护航倡议或不包含美舰直接护航",
+    "link": "http://www.news.cn/20260504/63220cde87434eec87b1b1c353af509a/c.html",
+    "pub_date": "2026-05-04 12:56:25"
+  },
+  {
+    "id": 551429,
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "固态硬盘到底要不要分区：看完秒懂",
+    "link": "https://news.mydrivers.com/1/1120/1120008.htm",
+    "pub_date": "2026-05-04 12:47:45"
+  },
+  {
+    "id": 551430,
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "内存市场冰火两重天：DDR4价格单月暴跌16% DDR5还得涨",
+    "link": "https://news.mydrivers.com/1/1120/1120007.htm",
+    "pub_date": "2026-05-04 12:43:47"
+  },
+  {
+    "id": 550452,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "豆包将在免费模式外新增付费订阅，官方回应",
+    "link": "https://36kr.com/newsflashes/3794495772712195?f=rss",
+    "pub_date": "2026-05-04 12:40:42"
+  },
+  {
+    "id": 551431,
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "OPPO Reno16系列预热：新一代实况神机来了",
+    "link": "https://news.mydrivers.com/1/1120/1120005.htm",
+    "pub_date": "2026-05-04 12:39:47"
+  },
+  {
+    "id": 551384,
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "宫本茂揭秘《超级马力欧银河大电影》快节奏设计：怕孩子坐不住",
+    "link": "https://www.ithome.com/0/946/233.htm",
+    "pub_date": "2026-05-04 12:38:59"
+  },
+  {
+    "id": 550635,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "秀我中国丨“五一”假期到三峡之巅看云海",
+    "link": "http://www.news.cn/20260504/55cb7abf04d043908b434565e3f0c369/c.html",
+    "pub_date": "2026-05-04 12:38:36"
+  },
+  {
+    "id": 550636,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "通讯丨“我绝不希望孩子将来走上战场”——东京5万人集会反对修改和平宪法",
+    "link": "http://www.news.cn/20260504/5adb99d62df34a8187b19d3ba760bc08/c.html",
+    "pub_date": "2026-05-04 12:38:18"
+  },
+  {
+    "id": 550758,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "经纬度：扩大高水平对外开放，何以实现“自主引领”",
+    "link": "https://m.thepaper.cn/detail/33096390",
+    "pub_date": "2026-05-04 12:34:53"
+  },
+  {
+    "id": 550379,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "“AI是否会取代人类工作” 诺奖得主这样说",
+    "link": "https://www.chinanews.com.cn/gn/2026/05-04/10615399.shtml",
+    "pub_date": "2026-05-04 12:33:43"
+  },
+  {
+    "id": 550759,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "观察｜在上海，解锁“咖啡+”的无限可能",
+    "link": "https://m.thepaper.cn/detail/33096299",
+    "pub_date": "2026-05-04 12:33:13"
+  },
+  {
+    "id": 551622,
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "CNCF警告：仅靠Kubernetes不足以保障LLM工作负载的安全性",
+    "link": "https://www.infoq.cn/article/IR1rJFXFZbChzBuKcAVl",
+    "pub_date": "2026-05-04 12:29:37"
+  },
+  {
+    "id": 550414,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "海滩上的贝壳为啥自带小孔？是别人故意扔的吗？",
+    "link": "https://www.chinanews.com.cn/gn/2026/05-04/10615398.shtml",
+    "pub_date": "2026-05-04 12:28:08"
+  },
+  {
+    "id": 550453,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "精锻科技：当前公司机器人业务尚未形成销售收入",
+    "link": "https://36kr.com/newsflashes/3794483360046337?f=rss",
+    "pub_date": "2026-05-04 12:28:04"
+  },
+  {
+    "id": 550637,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "没有手的劳动能手",
+    "link": "http://www.news.cn/20260504/57f27383f43b43eda5f1993ec66b3bf3/c.html",
+    "pub_date": "2026-05-04 12:24:37"
+  },
+  {
+    "id": 551623,
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "Cloudflare 推出 Agent Memory：面向 AI 智能体的持久记忆托管服务",
+    "link": "https://www.infoq.cn/article/TPqCEvSNCh9jzivioLs8",
+    "pub_date": "2026-05-04 12:22:35"
+  },
+  {
+    "id": 551432,
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "美国真为AI赌上国运了：AI投资已占GDP增长75% 决不能停",
+    "link": "https://news.mydrivers.com/1/1120/1120004.htm",
+    "pub_date": "2026-05-04 12:19:43"
+  },
+  {
+    "id": 551418,
+    "feed_name": "果壳网 / 科学人",
+    "category": "科技",
+    "title": "拼好刊？竟有期刊直接把 Nature、Cell、Science 放在一起当名字：取名硬核，内容更“狠”",
+    "link": "https://www.guokr.com/article/469095/",
+    "pub_date": "2026-05-04 12:15:04"
+  },
+  {
+    "id": 550638,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "经济大省调研行丨“黑科技”解锁消费新潮流——从“模速空间”创新活力看上海培育“AI热带雨林”",
+    "link": "http://www.news.cn/20260504/bb9029a47d7d48eb98256111ec3afd78/c.html",
+    "pub_date": "2026-05-04 12:13:23"
+  },
+  {
+    "id": 551624,
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "GitLab 新增采用固定费率的代码审查服务、Free-Tier AI 访问以及支出上限设置",
+    "link": "https://www.infoq.cn/article/6dk4tEWoShjhagRdyPsX",
+    "pub_date": "2026-05-04 12:12:58"
+  },
+  {
+    "id": 550719,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "卢秀燕祝赖清德出访斯威士兰顺利",
+    "link": "https://www.zaobao.com/news/china/story20260504-8993354",
+    "pub_date": "2026-05-04 12:12:45"
+  },
+  {
+    "id": 550760,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "距夜市仅500米！锦州市委大院节假日免费为游客和市民提供335个车位",
+    "link": "https://m.thepaper.cn/detail/33096528",
+    "pub_date": "2026-05-04 12:11:36"
+  },
+  {
+    "id": 550380,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "法国友人移交一批日本侵华资料",
+    "link": "https://www.chinanews.com.cn/gn/2026/05-04/10615393.shtml",
+    "pub_date": "2026-05-04 12:11:30"
+  },
+  {
+    "id": 551625,
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "亚马逊云科技推出S3 Files，为S3 Bucket带来文件系统访问能力",
+    "link": "https://www.infoq.cn/article/KAzBrz8uBPq3g2OxETbw",
+    "pub_date": "2026-05-04 12:11:07"
+  },
+  {
+    "id": 550720,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "贝森特：特朗普没有计划推迟访华行程",
+    "link": "https://www.zaobao.com/news/china/story20260504-8993363",
+    "pub_date": "2026-05-04 12:05:51"
+  },
+  {
+    "id": 550721,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "习近平：今年是十五五开局之年 青年建功正当其时",
+    "link": "https://www.zaobao.com/news/china/story20260504-8992619",
+    "pub_date": "2026-05-04 12:05:00"
+  },
+  {
+    "id": 551385,
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "苹果机器人项目高级工程师离职，跳槽谷歌 DeepMind",
+    "link": "https://www.ithome.com/0/946/231.htm",
+    "pub_date": "2026-05-04 12:04:18"
+  },
+  {
+    "id": 550931,
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "伊朗稱美國已回應最新的和平提案",
+    "link": "https://www.bbc.com/zhongwen/articles/c5y8glgjwq1o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-05-04 12:03:59"
+  },
+  {
+    "id": 550454,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "恒指午间休盘涨1.7%，恒生科技指数涨2.86%",
+    "link": "https://36kr.com/newsflashes/3794457822059523?f=rss",
+    "pub_date": "2026-05-04 12:02:06"
+  },
+  {
+    "id": 550639,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "菲众议院司法委员会决定将副总统弹劾案提交全体会议表决",
+    "link": "http://www.news.cn/20260504/0ec1f4e7de7e44e59b6dbd09452b2b3a/c.html",
+    "pub_date": "2026-05-04 11:58:21"
+  },
+  {
+    "id": 550640,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "阿联酋退出阿拉伯石油输出国组织",
+    "link": "http://www.news.cn/20260504/89b26f5d2e244f209958c4d105438734/c.html",
+    "pub_date": "2026-05-04 11:57:51"
+  },
+  {
+    "id": 550455,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "一季度末股东户数下降公司排行：16家公司降逾40%",
+    "link": "https://36kr.com/newsflashes/3794443672411144?f=rss",
+    "pub_date": "2026-05-04 11:47:42"
+  },
+  {
+    "id": 550932,
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "美國共和黨高層：削減駐德美軍將向俄羅斯發出錯誤訊號",
+    "link": "https://www.bbc.com/zhongwen/articles/cz72q8d39xqo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-05-04 11:43:43"
+  },
+  {
+    "id": 550722,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "中国房企奥园未支付票据利息 触发境外融资交叉违约",
+    "link": "https://www.zaobao.com/news/china/story20260504-8993151",
+    "pub_date": "2026-05-04 11:43:01"
+  },
+  {
+    "id": 550641,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "星空有约丨宝瓶座η流星雨6日迎来极大",
+    "link": "http://www.news.cn/20260504/c2ba4cbcbcb74318ac5eb1b6cb64aa01/c.html",
+    "pub_date": "2026-05-04 11:41:14"
+  },
+  {
+    "id": 550642,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "美国俄克拉何马州发生枪击事件 15人受伤",
+    "link": "http://www.news.cn/20260504/8e45e2d44bbe44228f16b09ecf2eb247/c.html",
+    "pub_date": "2026-05-04 11:41:02"
+  },
+  {
+    "id": 551504,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "豆包将在免费模式外新增付费订阅，主打生产力场景",
+    "link": "https://www.tmtpost.com/7976143.html",
+    "pub_date": "2026-05-04 11:39:04"
+  },
+  {
+    "id": 551626,
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "Meta 开始“抗量子”迁移：一场要持续数年的基础设施重构",
+    "link": "https://www.infoq.cn/article/d0YyfiwCE6QyhoG5MZVP",
+    "pub_date": "2026-05-04 11:36:55"
+  },
+  {
+    "id": 550456,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "恒生科技指数涨近4%，小米集团涨逾10%",
+    "link": "https://36kr.com/newsflashes/3794415662373895?f=rss",
+    "pub_date": "2026-05-04 11:19:12"
+  },
+  {
+    "id": 550457,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "现代起亚4月份美国销量同比下降2.1%，混动车销量创新高",
+    "link": "https://36kr.com/newsflashes/3794415218793737?f=rss",
+    "pub_date": "2026-05-04 11:18:45"
+  },
+  {
+    "id": 550643,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "“绿领”新青年：喂养绿意的“固碳魔法师”",
+    "link": "http://www.news.cn/20260504/9c68bd5725a249c9bbe72e6d4e05ff58/c.html",
+    "pub_date": "2026-05-04 11:16:32"
+  },
+  {
+    "id": 550644,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "一路景如画 “天山地理画廊”迎来最佳观赏期",
+    "link": "http://www.news.cn/20260504/0ee8a76a5bc4473ca931010936b2889f/c.html",
+    "pub_date": "2026-05-04 11:16:21"
+  },
+  {
+    "id": 550723,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "分析：中国罕见抗拒美国制裁 银行业恐卷入中美角力",
+    "link": "https://www.zaobao.com/news/china/story20260504-8993039",
+    "pub_date": "2026-05-04 11:15:09"
+  },
+  {
+    "id": 550724,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "游盈隆称赖清德承诺不干预台湾中选会",
+    "link": "https://www.zaobao.com/news/china/story20260504-8992981",
+    "pub_date": "2026-05-04 11:09:29"
+  },
+  {
+    "id": 551505,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "这只科技行业ETF为投资者提供最优回报性价比",
+    "link": "https://www.tmtpost.com/7976136.html",
+    "pub_date": "2026-05-04 11:07:34"
+  },
+  {
+    "id": 550645,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "新华社消息丨国开行一季度发放专项转贷款285.4亿元支持外贸小微企业发展",
+    "link": "http://www.news.cn/20260504/46dadaa888644170a3878a4e1b6626d8/c.html",
+    "pub_date": "2026-05-04 11:06:18"
+  },
+  {
+    "id": 550381,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "人形机器人“启蒙老师”都干点啥？这个新职业岗位将超百万",
+    "link": "https://www.chinanews.com.cn/gn/2026/05-04/10615383.shtml",
+    "pub_date": "2026-05-04 11:04:59"
+  },
+  {
+    "id": 550382,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "亚行年会开幕 聚焦能源协作及关键矿产稳定供应等议题",
+    "link": "https://www.chinanews.com.cn/cj/2026/05-04/10615382.shtml",
+    "pub_date": "2026-05-04 11:02:35"
+  },
+  {
+    "id": 550761,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "《海日楼文集》底本来源考——兼论王蘧常编校本",
+    "link": "https://m.thepaper.cn/detail/33060363",
+    "pub_date": "2026-05-04 10:59:52"
+  },
+  {
+    "id": 550646,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "哥伦比亚发生车辆表演事故致3人死亡",
+    "link": "http://www.news.cn/20260504/fa14d5b276a14cdb8f93713324203b6f/c.html",
+    "pub_date": "2026-05-04 10:56:27"
+  },
+  {
+    "id": 550647,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "下沉市场向上生长：中国解锁消费升级新蓝海",
+    "link": "http://www.news.cn/20260504/282c295b3ba0448783d4e2eaf0d32cf4/c.html",
+    "pub_date": "2026-05-04 10:54:32"
+  },
+  {
+    "id": 550648,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "第一观察丨28岁的抉择",
+    "link": "http://www.news.cn/20260504/30191ddac975411b8bb2b01a79bdbd05/c.html",
+    "pub_date": "2026-05-04 10:49:41"
+  },
+  {
+    "id": 550383,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "广交会东风赋能 “中国皮具之都”链接全球商机",
+    "link": "https://www.chinanews.com.cn/cj/2026/05-04/10615349.shtml",
+    "pub_date": "2026-05-04 10:46:32"
+  },
+  {
+    "id": 550458,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "国开行一季度发放专项转贷款285.4亿元支持外贸小微企业发展",
+    "link": "https://36kr.com/newsflashes/3794378433830144?f=rss",
+    "pub_date": "2026-05-04 10:41:20"
+  },
+  {
+    "id": 550762,
+    "feed_name": "澎湃新闻",
+    "category": "新闻",
+    "title": "广州楼市“穗八条”落地：售楼处再现排队看房，二手房已连续两个月网签破万套",
+    "link": "https://m.thepaper.cn/detail/33095763",
+    "pub_date": "2026-05-04 10:40:35"
+  },
+  {
+    "id": 550725,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "郑丽文谈赖清德出访：终归要严肃面对台湾外交困境",
+    "link": "https://www.zaobao.com/news/china/story20260504-8992813",
+    "pub_date": "2026-05-04 10:34:25"
+  },
+  {
+    "id": 551522,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "我把B端后台用了10年的表单，换成了AI对话式，结果有点意外",
+    "link": "https://www.woshipm.com/ai/6387915.html",
+    "pub_date": "2026-05-04 10:34:25"
+  },
+  {
+    "id": 550649,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "秀我中国丨重庆再添文旅新地标 朝天门·城里",
+    "link": "http://www.news.cn/20260504/cfa32d8d4b5547649688fcb1ca8d9d35/c.html",
+    "pub_date": "2026-05-04 10:30:13"
+  },
+  {
+    "id": 550650,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "这名电力人，从“门外汉”成长为“大国工匠”",
+    "link": "http://www.news.cn/20260504/7472ee14e47744bb840544ae9cb057a4/c.html",
+    "pub_date": "2026-05-04 10:30:08"
+  },
+  {
+    "id": 550651,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "“汽车”变“气车”？——探秘北京车展",
+    "link": "http://www.news.cn/20260504/4252885623ec4e72b679c385849c7262/c.html",
+    "pub_date": "2026-05-04 10:29:57"
+  },
+  {
+    "id": 550652,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "秀我中国丨雄安新区：“五一”假期人气旺",
+    "link": "http://www.news.cn/20260504/1581c5a01e0e47d6ae7bf0abc7927608/c.html",
+    "pub_date": "2026-05-04 10:29:47"
+  },
+  {
+    "id": 550653,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "广交会赋能 土特产“闯世界”",
+    "link": "http://www.news.cn/20260504/54c08d88f9ce44c882994a3f7375d42c/c.html",
+    "pub_date": "2026-05-04 10:28:31"
+  },
+  {
+    "id": 550654,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "记者手记：跟着唐根根放羊",
+    "link": "http://www.news.cn/20260504/f6d87a28d129449daf19fa5395751062/c.html",
+    "pub_date": "2026-05-04 10:28:23"
+  },
+  {
+    "id": 550655,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "微视频丨不能忘却的审判",
+    "link": "http://www.news.cn/20260504/431fde19e33d4e3f870f348db4af943b/c.html",
+    "pub_date": "2026-05-04 10:28:06"
+  },
+  {
+    "id": 550656,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "他们的青春，闪闪发光！",
+    "link": "http://www.news.cn/20260504/542bf04ee0204a3c92393ef7f0eea70a/c.html",
+    "pub_date": "2026-05-04 10:28:01"
+  },
+  {
+    "id": 550657,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "中广核广东太平岭核电厂2号机组完成首次核燃料装载",
+    "link": "http://www.news.cn/20260504/d24e46e059984a769c3afe344db40664/c.html",
+    "pub_date": "2026-05-04 10:27:53"
+  },
+  {
+    "id": 550459,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "潍柴动力港股涨近14%，股价再创历史新高",
+    "link": "https://36kr.com/newsflashes/3794364928695554?f=rss",
+    "pub_date": "2026-05-04 10:27:36"
+  },
+  {
+    "id": 550658,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "追光丨徒步三十余载，他们荣获五四奖章",
+    "link": "http://www.news.cn/20260504/46d811c0dc6d4a53985d19116db4860e/c.html",
+    "pub_date": "2026-05-04 10:27:20"
+  },
+  {
+    "id": 550726,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "斯威士兰国王和王母热情接待 赖清德：如同回到第二个家",
+    "link": "https://www.zaobao.com/news/china/story20260504-8992779",
+    "pub_date": "2026-05-04 10:27:13"
+  },
+  {
+    "id": 550460,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "高盛据悉将向与Anthropico合资的企业注资约1.5亿美元",
+    "link": "https://36kr.com/newsflashes/3794354869869833?f=rss",
+    "pub_date": "2026-05-04 10:17:22"
+  },
+  {
+    "id": 550417,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "【追光的你】习言道｜回忆青春岁月，这两点让习近平获益终生",
+    "link": "https://www.chinanews.com.cn/gn/2026/05-04/10615366.shtml",
+    "pub_date": "2026-05-04 10:12:16"
+  },
+  {
+    "id": 551386,
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "消息称台积电将重启龙潭晶圆厂建设，投资达 6000 亿新台币",
+    "link": "https://www.ithome.com/0/946/223.htm",
+    "pub_date": "2026-05-04 10:09:08"
+  },
+  {
+    "id": 550461,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "新加坡航空明年起将在部分飞机上部署星链Wi-Fi",
+    "link": "https://36kr.com/newsflashes/3794337428151559?f=rss",
+    "pub_date": "2026-05-04 10:05:40"
+  },
+  {
+    "id": 550384,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "沙漠里的“追光者”：旅拍定制师用镜头为游客定制专属记忆",
+    "link": "https://www.chinanews.com.cn/sh/2026/05-04/10615351.shtml",
+    "pub_date": "2026-05-04 10:01:01"
+  },
+  {
+    "id": 551627,
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "大公司也这样？改完系统：先上线，再看哪儿炸",
+    "link": "https://www.infoq.cn/article/eAlept08lWEOAo1HxGFN",
+    "pub_date": "2026-05-04 10:00:00"
+  },
+  {
+    "id": 550659,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "国开行一季度发放专项转贷款285.4亿元支持外贸小微企业发展",
+    "link": "http://www.news.cn/20260504/2ef6b8611d864b819bb5520d345d6a4a/c.html",
+    "pub_date": "2026-05-04 09:59:16"
+  },
+  {
+    "id": 550385,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "允许青春有“时差”，年轻人才有底气驶向奋斗的“旷野”",
+    "link": "https://www.chinanews.com.cn/ll/2026/05-04/10615363.shtml",
+    "pub_date": "2026-05-04 09:58:23"
+  },
+  {
+    "id": 550727,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "台积电重启龙潭三期扩建 此前因居民抗争放弃",
+    "link": "https://www.zaobao.com/news/china/story20260504-8992607",
+    "pub_date": "2026-05-04 09:58:04"
+  },
+  {
+    "id": 550418,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "实干笃行创伟业 团结奋斗新征程丨在矢志奋斗中谱写新时代的青春之歌",
+    "link": "https://www.chinanews.com.cn/gn/2026/05-04/10615362.shtml",
+    "pub_date": "2026-05-04 09:53:05"
+  },
+  {
+    "id": 550419,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "这群年轻人，出手即“王炸”",
+    "link": "https://www.chinanews.com.cn/gn/2026/05-04/10615359.shtml",
+    "pub_date": "2026-05-04 09:49:42"
+  },
+  {
+    "id": 550660,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "莫斯科一建筑遭无人机撞击",
+    "link": "http://www.news.cn/20260504/b05ec8afc9ff48dcbf8f57de599a4ae1/c.html",
+    "pub_date": "2026-05-04 09:49:41"
+  },
+  {
+    "id": 550420,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "聚焦量子科技展开深度对谈 国家科技传播中心举办专场学术发展讲堂",
+    "link": "https://www.chinanews.com.cn/gn/2026/05-04/10615344.shtml",
+    "pub_date": "2026-05-04 09:48:52"
+  },
+  {
+    "id": 550462,
+    "feed_name": "36氪",
+    "category": "新闻",
+    "title": "今天全国铁路预计发送旅客2030万人次",
+    "link": "https://36kr.com/newsflashes/3794319829670918?f=rss",
+    "pub_date": "2026-05-04 09:48:44"
+  },
+  {
+    "id": 550661,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "向“新”而立：“台二代”拥抱大健康产业“风口”",
+    "link": "http://www.news.cn/20260504/38900e41435a4a27942942493aaaf85c/c.html",
+    "pub_date": "2026-05-04 09:45:28"
+  },
+  {
+    "id": 550662,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "美军称将动用军舰等支持霍尔木兹海峡船只疏导行动",
+    "link": "http://www.news.cn/20260504/3b0f20c1886b42d19490d6e258c39150/c.html",
+    "pub_date": "2026-05-04 09:45:14"
+  },
+  {
+    "id": 550421,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "时政微纪录丨总书记深情寄语 中国青年正当其时",
+    "link": "https://www.chinanews.com.cn/gn/2026/05-04/10615357.shtml",
+    "pub_date": "2026-05-04 09:44:04"
+  },
+  {
+    "id": 551506,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "先涨后降、航班取消，五一机票“背刺”打工人",
+    "link": "https://www.tmtpost.com/7975995.html",
+    "pub_date": "2026-05-04 09:42:58"
+  },
+  {
+    "id": 551507,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "华尔街不再为赚钱鼓掌",
+    "link": "https://www.tmtpost.com/7976001.html",
+    "pub_date": "2026-05-04 09:42:53"
+  },
+  {
+    "id": 550728,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "谢振中获任港府新闻处处长 回归后首位非政务官掌新闻处",
+    "link": "https://www.zaobao.com/news/china/story20260504-8992527",
+    "pub_date": "2026-05-04 09:41:45"
+  },
+  {
+    "id": 550663,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "新华社消息丨伊朗：正“审议”美方对14点提议回应 目前谈判不涉核",
+    "link": "http://www.news.cn/20260504/b70bcb8cf3c44d86b22c1a0b43689e45/c.html",
+    "pub_date": "2026-05-04 09:34:35"
+  },
+  {
+    "id": 550422,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "一次握手 一份惦念",
+    "link": "https://www.chinanews.com.cn/gn/2026/05-04/10615339.shtml",
+    "pub_date": "2026-05-04 09:33:41"
+  },
+  {
+    "id": 551387,
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "窄体机变身空中豪宅，宝马联手汉莎推出 The BOW 飞机内饰概念",
+    "link": "https://www.ithome.com/0/946/219.htm",
+    "pub_date": "2026-05-04 09:31:49"
+  },
+  {
+    "id": 550664,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "新华网财经观察丨释放“青春经济”活力",
+    "link": "http://www.news.cn/20260504/bdf22d0eafb54a6e8403b83416059990/c.html",
+    "pub_date": "2026-05-04 09:31:17"
+  },
+  {
+    "id": 550423,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "与会代表谈贯彻落实加强基础研究座谈会精神之二",
+    "link": "https://www.chinanews.com.cn/gn/2026/05-04/10615336.shtml",
+    "pub_date": "2026-05-04 09:30:01"
+  },
+  {
+    "id": 551523,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "一轮 Agent 竞品分析后，我发现自己以前把 AI Agent 产品看得太简单了",
+    "link": "https://www.woshipm.com/ai/6381717.html",
+    "pub_date": "2026-05-04 09:29:28"
+  },
+  {
+    "id": 550729,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "台湾外交部：元首出访存在“ATA模式” 美国有先例",
+    "link": "https://www.zaobao.com/news/china/story20260504-8992469",
+    "pub_date": "2026-05-04 09:21:19"
+  },
+  {
+    "id": 550730,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "菲律宾指中国进行非法海洋科学研究",
+    "link": "https://www.zaobao.com/news/china/story20260504-8992462",
+    "pub_date": "2026-05-04 09:17:17"
+  },
+  {
+    "id": 551628,
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用",
+    "link": "https://www.infoq.cn/article/KSmLVsumhdf7OiLXYaj3",
+    "pub_date": "2026-05-04 09:00:00"
+  },
+  {
+    "id": 550665,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "英国海事贸易组织说一艘油轮在阿联酋附近被击中",
+    "link": "http://www.news.cn/20260504/c930b2a325fd4238876e383956a60fd5/c.html",
+    "pub_date": "2026-05-04 08:58:10"
+  },
+  {
+    "id": 550424,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "五四 | 今天为青年们喝彩！",
+    "link": "https://www.chinanews.com.cn/gn/2026/05-04/10615329.shtml",
+    "pub_date": "2026-05-04 08:57:35"
+  },
+  {
+    "id": 550731,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "美国赞台湾和斯威士兰关系 称台湾“值得信赖且有能力”伙伴",
+    "link": "https://www.zaobao.com/news/china/story20260504-8992369",
+    "pub_date": "2026-05-04 08:56:12"
+  },
+  {
+    "id": 550666,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "哥伦比亚发生卡车冲入人群事件 至少2人死亡",
+    "link": "http://www.news.cn/20260504/82b3679d267f4e9681b31770bf09c43f/c.html",
+    "pub_date": "2026-05-04 08:46:29"
+  },
+  {
+    "id": 550667,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "记者手记丨消失的巢鸭监狱，被刻意淡化的日本战争罪责",
+    "link": "http://www.news.cn/20260504/af682e7633b2499f84e9ba6ac538e36a/c.html",
+    "pub_date": "2026-05-04 08:46:25"
+  },
+  {
+    "id": 550386,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "假期第三天 全社会跨区域人员流动量预计超2.9亿人次",
+    "link": "https://www.chinanews.com.cn/sh/2026/05-04/10615327.shtml",
+    "pub_date": "2026-05-04 08:41:52"
+  },
+  {
+    "id": 550732,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "中国江西、云南倡议公职人员和党员干部带头缴纳物业费",
+    "link": "https://www.zaobao.com/news/china/story20260504-8992291",
+    "pub_date": "2026-05-04 08:38:21"
+  },
+  {
+    "id": 550733,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "台官方指大陆打压人权会议参与者 以期国际社会无视台民主体制",
+    "link": "https://www.zaobao.com/news/china/story20260504-8992282",
+    "pub_date": "2026-05-04 08:36:44"
+  },
+  {
+    "id": 550387,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "户外救援谁来“埋单”？近年来多地出台有偿救援规定",
+    "link": "https://www.chinanews.com.cn/sh/2026/05-04/10615325.shtml",
+    "pub_date": "2026-05-04 08:32:24"
+  },
+  {
+    "id": 550388,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "6日起南方地区将有新一轮降水天气 青藏高原多雨雪",
+    "link": "https://www.chinanews.com.cn/sh/2026/05-04/10615321.shtml",
+    "pub_date": "2026-05-04 08:24:59"
+  },
+  {
+    "id": 550389,
+    "feed_name": "中国新闻网 要闻导读",
+    "category": "新闻",
+    "title": "实景演艺、草地音乐会……“五一”假期多地解锁文旅新体验",
+    "link": "https://www.chinanews.com.cn/cul/2026/05-04/10615323.shtml",
+    "pub_date": "2026-05-04 08:21:39"
+  },
+  {
+    "id": 550734,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "赖清德：台斯规模最大合作 储油槽与产创园区具战略意义",
+    "link": "https://www.zaobao.com/news/china/story20260504-8992251",
+    "pub_date": "2026-05-04 08:18:00"
+  },
+  {
+    "id": 550668,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "伊朗议会要员：美干涉霍尔木兹海峡“新管理制度”将被视为违反停火协议",
+    "link": "http://www.news.cn/20260504/3c9818ec61b940e78d0290e67756845e/c.html",
+    "pub_date": "2026-05-04 08:14:18"
+  },
+  {
+    "id": 551348,
+    "feed_name": "极客公园",
+    "category": "科技",
+    "title": "\n        传小米新 SU7 锁单突破 7 万；微信输入法测「隔空发图」功能；豆包二代 AI 手机上半年发布\n      ",
+    "link": "http://www.geekpark.net/news/363701",
+    "pub_date": "2026-05-04 08:10:54"
+  },
+  {
+    "id": 551508,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "AI理科碾压人类状元，却被这道“文科题”戳中了死穴...",
+    "link": "https://www.tmtpost.com/7976039.html",
+    "pub_date": "2026-05-04 08:10:19"
+  },
+  {
+    "id": 551629,
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "直播出问题，AI 不一定救得了：Netflix 的新解法",
+    "link": "https://www.infoq.cn/article/I34jAMiF0VAqVcDNxE87",
+    "pub_date": "2026-05-04 08:00:00"
+  },
+  {
+    "id": 550425,
+    "feed_name": "中国新闻网 时政新闻",
+    "category": "新闻",
+    "title": "【追光的你】习言道｜时代的责任赋予青年，时代的光荣属于青年",
+    "link": "https://www.chinanews.com.cn/gn/2026/05-04/10615320.shtml",
+    "pub_date": "2026-05-04 07:55:23"
+  },
+  {
+    "id": 551509,
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "Edge AI Daily 早报（5月4日）",
+    "link": "https://www.tmtpost.com/7976030.html",
+    "pub_date": "2026-05-04 07:55:05"
+  },
+  {
+    "id": 550669,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "美军称将支持霍尔木兹海峡被困船只疏导行动",
+    "link": "http://www.news.cn/20260504/8de7caafa70642119e12ad4c50000b34/c.html",
+    "pub_date": "2026-05-04 07:52:04"
+  },
+  {
+    "id": 550735,
+    "feed_name": "联合早报 / 中国",
+    "category": "新闻",
+    "title": "中国在埃及建立《开罗宣言》纪念碑",
+    "link": "https://www.zaobao.com/news/china/story20260504-8992216",
+    "pub_date": "2026-05-04 07:48:00"
+  },
+  {
     "id": 549547,
     "feed_name": "界面新闻: 新闻",
     "category": "新闻",
@@ -16,12 +1776,84 @@
     "pub_date": "2026-05-04 07:38:47"
   },
   {
+    "id": 550670,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "姜雨荷：没有逆袭的天才 唯有奋斗的青春",
+    "link": "http://www.news.cn/20260504/91eb916eb7d94402b5d804e52a35a640/c.html",
+    "pub_date": "2026-05-04 07:28:21"
+  },
+  {
+    "id": 550671,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "铁路道口工：岗位在变，坚守不变",
+    "link": "http://www.news.cn/20260504/d95fcbb8b99747f8b4b7443ad64dfb3c/c.html",
+    "pub_date": "2026-05-04 07:28:09"
+  },
+  {
+    "id": 550672,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "学习新语丨奋斗是青春最亮丽的底色",
+    "link": "http://www.news.cn/20260504/83029e1431eb46d78ad33cdbc8df45e9/c.html",
+    "pub_date": "2026-05-04 07:26:48"
+  },
+  {
     "id": 550285,
     "feed_name": "简书 / 首页",
     "category": "娱乐",
     "title": "这款工具配合jmeter，会让你的工作效率至少提升80%，强烈推荐给大家",
     "link": "https://www.jianshu.com/p/6a3df380debd",
     "pub_date": "2026-05-04 07:21:57"
+  },
+  {
+    "id": 550673,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "伦敦世乒赛团体赛：中国男队遭两连败 女队迎三连胜",
+    "link": "http://www.news.cn/20260504/37c5db2b0829401d979624b8b746a3e3/c.html",
+    "pub_date": "2026-05-04 07:20:57"
+  },
+  {
+    "id": 550674,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "世界超级摩托车锦标赛匈牙利站：张雪机车车手德比斯第二回合因机械故障退赛",
+    "link": "http://www.news.cn/20260504/d19e2c5ff18d40518596ca8d734244b7/c.html",
+    "pub_date": "2026-05-04 07:20:53"
+  },
+  {
+    "id": 550675,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "特朗普：美国将开展霍尔木兹海峡被困船只疏导行动",
+    "link": "http://www.news.cn/20260504/7d2b91e277754ba6aecfb21b0b5a15ae/c.html",
+    "pub_date": "2026-05-04 07:17:29"
+  },
+  {
+    "id": 550676,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "俄媒：乌无人机袭击致两人死亡多人受伤",
+    "link": "http://www.news.cn/20260504/8805d50898d94ef0be705069448f3f97/c.html",
+    "pub_date": "2026-05-04 07:17:24"
+  },
+  {
+    "id": 550677,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "伊朗议会要员：美干涉霍尔木兹海峡“新管理制度”将被视为违反停火",
+    "link": "http://www.news.cn/20260504/cc8d07e3b02a416fbadf3c0b615d0dd4/c.html",
+    "pub_date": "2026-05-04 07:17:19"
+  },
+  {
+    "id": 550678,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "世卫组织：大西洋一邮轮出现汉坦病毒感染 已致3人死亡",
+    "link": "http://www.news.cn/20260504/5450b722659c44bb8ef625e51c8fdf79/c.html",
+    "pub_date": "2026-05-04 07:17:14"
   },
   {
     "id": 548962,
@@ -38,6 +1870,14 @@
     "title": "5月4日早报",
     "link": "https://www.chinanews.com.cn/iframe/2026/05-04/10615315.shtml",
     "pub_date": "2026-05-04 06:58:22"
+  },
+  {
+    "id": 550679,
+    "feed_name": "新华网 / 新华社新闻",
+    "category": "新闻",
+    "title": "俄罗斯远东地区煤矿山体滑坡造成至少4人死亡",
+    "link": "http://www.news.cn/20260504/f2d2dc91888e451d9d9a1cdb65eb1bb6/c.html",
+    "pub_date": "2026-05-04 06:54:17"
   },
   {
     "id": 548964,
@@ -1584,6 +3424,14 @@
     "pub_date": "2026-05-03 15:52:43"
   },
   {
+    "id": 551526,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "DeepSeek V4最大的遗憾",
+    "link": "https://www.woshipm.com/ai/6387992.html",
+    "pub_date": "2026-05-03 15:52:10"
+  },
+  {
     "id": 549345,
     "feed_name": "联合早报 / 中国",
     "category": "新闻",
@@ -1702,6 +3550,14 @@
     "title": "加沙地带政府媒体办公室：262名媒体工作者在以军行动中遇难",
     "link": "http://www.news.cn/20260503/7f040373df7749b98e5a30a08e5701ab/c.html",
     "pub_date": "2026-05-03 15:44:46"
+  },
+  {
+    "id": 551529,
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "DeepSeek给AI装了根赛博手指，于是它能看见了",
+    "link": "https://www.woshipm.com/ai/6387984.html",
+    "pub_date": "2026-05-03 15:43:57"
   },
   {
     "id": 548035,
