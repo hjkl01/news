@@ -12,7 +12,8 @@ const CONFIG = {
     '#EC4899', '#14B8A6', '#F43F5E', '#A855F7'
   ],
   MAX_TITLE_LENGTH: 25,
-  MAX_DESCRIPTION_LENGTH: 150
+  MAX_DESCRIPTION_LENGTH: 150,
+  HOT_ITEMS_PER_SOURCE: 5
 };
 
 const utils = {
@@ -74,7 +75,7 @@ const useExpandedState = (initialSources) => {
 };
 
 const LoadingState = memo(() => (
-  <div className="bg-white rounded-xl shadow-sm border border-slate-200 p-12 text-center">
+  <div className="card p-8 text-center">
     <div className="flex justify-center items-center h-32">
       <div className="animate-spin rounded-full h-10 w-10 border-t-2 border-b-2 border-indigo-500"></div>
     </div>
@@ -85,7 +86,7 @@ const LoadingState = memo(() => (
 LoadingState.displayName = 'LoadingState';
 
 const EmptyState = memo(() => (
-  <div className="bg-white rounded-xl shadow-sm border border-slate-200 p-12 text-center">
+  <div className="card p-8 text-center">
     <div className="w-14 h-14 mx-auto mb-4 bg-gradient-to-br from-indigo-100 to-purple-100 rounded-full flex items-center justify-center text-2xl">
       📰
     </div>
@@ -97,7 +98,7 @@ const EmptyState = memo(() => (
 EmptyState.displayName = 'EmptyState';
 
 const ErrorState = memo(() => (
-  <div className="bg-white rounded-xl shadow-sm border border-slate-200 p-12 text-center">
+  <div className="card p-8 text-center">
     <div className="w-14 h-14 mx-auto mb-4 bg-red-100 rounded-full flex items-center justify-center text-2xl">
       ⚠️
     </div>
@@ -142,7 +143,7 @@ const SourceHeader = memo(({ sourceName, sourceFeeds, color, isExpanded, onToggl
 SourceHeader.displayName = 'SourceHeader';
 
 const FeedItem = memo(({ feed, color }) => (
-  <div className="px-5 py-4 hover:bg-gradient-to-r hover:from-indigo-50 hover:to-transparent transition-all duration-150 border-b border-slate-50 last:border-0">
+  <div className="px-[var(--density-item-px)] py-[var(--density-item-py)] hover-lite hover:bg-indigo-50/40 border-b border-slate-50 last:border-0">
     <div className="flex gap-4">
       <div
         className="w-1 h-14 rounded-full flex-shrink-0 mt-1"
@@ -153,14 +154,14 @@ const FeedItem = memo(({ feed, color }) => (
           href={feed.link}
           target="_blank"
           rel="noopener noreferrer"
-          className="text-sm text-slate-800 font-medium line-clamp-2 hover:text-indigo-600 transition-colors block leading-relaxed"
+          className="text-[15px] text-slate-800 font-medium line-clamp-2 hover:text-indigo-600 transition-colors block leading-[1.4]"
         >
           {feed.title}
         </a>
-        <p className="text-xs text-slate-500 mt-2 line-clamp-2">
+        <p className="text-xs text-slate-500 mt-1 line-clamp-1">
           {utils.stripHtml(feed.description || feed.content || '')}
         </p>
-        <div className="flex items-center gap-4 mt-2 text-xs text-slate-400">
+        <div className="flex items-center gap-3 mt-1 text-xs text-slate-400">
           <span>{feed.author || feed.feed_name}</span>
           <span>{utils.formatDate(feed.pub_date)}</span>
         </div>
@@ -171,7 +172,64 @@ const FeedItem = memo(({ feed, color }) => (
 
 FeedItem.displayName = 'FeedItem';
 
-const NewsList = ({ data, error, loading = false }) => {
+const HotList = memo(({ groupedFeeds, sourceNames }) => {
+  const hotRows = useMemo(() => {
+    const rows = [];
+
+    sourceNames.forEach((sourceName) => {
+      const items = groupedFeeds[sourceName] || [];
+      items.slice(0, CONFIG.HOT_ITEMS_PER_SOURCE).forEach((item) => {
+        rows.push(item);
+      });
+    });
+
+    return rows
+      .sort((a, b) => new Date(b.pub_date) - new Date(a.pub_date))
+      .slice(0, 30);
+  }, [groupedFeeds, sourceNames]);
+
+  return (
+    <div className="card card-density overflow-hidden">
+      <div className="border-b border-[var(--card-border)] px-3 py-2">
+        <h2 className="text-sm font-semibold text-slate-800">热点快览</h2>
+      </div>
+      <div className="divide-y divide-slate-100">
+        {hotRows.map((feed) => (
+          <a
+            key={feed.id}
+            href={feed.link}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="block px-3 py-2 hover-lite hover:bg-slate-50"
+          >
+            <p className="line-clamp-2 text-[13px] font-medium leading-[1.35] text-slate-800 hover:text-indigo-600">
+              {feed.title}
+            </p>
+            <p className="mt-1 line-clamp-1 text-[11px] text-slate-500">
+              {utils.stripHtml(feed.description || feed.content || '')}
+            </p>
+            <p className="mt-1 text-[11px] text-slate-400">{feed.feed_name} · {utils.formatDate(feed.pub_date)}</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  );
+});
+
+HotList.displayName = 'HotList';
+
+const NewsList = ({
+  data,
+  error,
+  loading = false,
+  mode = 'main',
+  title = '新闻列表',
+  subtitle = '按来源分组，优先展示最近更新',
+  priorityFeeds = []
+}) => {
+  const [showOnlyPriority, setShowOnlyPriority] = useState(false);
+  const [expandPriority, setExpandPriority] = useState(false);
+
   const groupedFeeds = useMemo(() => {
     if (!data || data.length === 0) return {};
 
@@ -185,15 +243,42 @@ const NewsList = ({ data, error, loading = false }) => {
   }, [data]);
 
   const sourceNames = useMemo(() => Object.keys(groupedFeeds), [groupedFeeds]);
-  const { expandedSources, toggleSource, toggleAllSources } = useExpandedState(sourceNames);
+  const { expandedSources, toggleSource } = useExpandedState(sourceNames);
 
   const sourceColors = useMemo(() => {
     return utils.generateColorMap(sourceNames);
   }, [sourceNames]);
 
-  const handleToggleAll = useCallback(() => {
-    toggleAllSources(sourceNames);
-  }, [sourceNames, toggleAllSources]);
+  const isHotMode = mode === 'hot';
+
+  const normalizedPriorityFeeds = useMemo(
+    () => priorityFeeds.map((item) => String(item).toLowerCase()),
+    [priorityFeeds]
+  );
+
+  const priorityRows = useMemo(() => {
+    if (isHotMode || normalizedPriorityFeeds.length === 0) {
+      return [];
+    }
+
+    return data
+      .filter((item) => {
+        const feedName = String(item.feed_name || '').toLowerCase();
+        return normalizedPriorityFeeds.some((keyword) => feedName.includes(keyword));
+      })
+      .slice(0, 8);
+  }, [data, isHotMode, normalizedPriorityFeeds]);
+
+  const visiblePriorityRows = useMemo(() => {
+    if (expandPriority) {
+      return priorityRows;
+    }
+    return priorityRows.slice(0, 5);
+  }, [expandPriority, priorityRows]);
+
+  const priorityIds = useMemo(() => {
+    return new Set(priorityRows.map((item) => item.id));
+  }, [priorityRows]);
 
   if (loading) {
     return <LoadingState />;
@@ -207,21 +292,87 @@ const NewsList = ({ data, error, loading = false }) => {
     return <EmptyState />;
   }
 
+  if (isHotMode) {
+    return <HotList groupedFeeds={groupedFeeds} sourceNames={sourceNames} />;
+  }
+
   return (
-    <div className="space-y-6 w-full max-w-5xl mx-auto">
-      <div className="text-center mb-8">
-        <h1 className="text-3xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent mb-2">
-          新闻列表
-        </h1>
-        <p className="text-slate-500">按来源分类浏览最新资讯</p>
+    <div className="space-y-3 w-full">
+      <div className="mb-1">
+        <h1 className="text-lg font-semibold text-slate-900">{title}</h1>
+        <p className="text-xs text-slate-500">{subtitle}</p>
       </div>
+
+      {priorityRows.length > 0 && (
+        <div className="card card-density overflow-hidden border-indigo-200/80">
+          <div className="border-b border-indigo-100 bg-indigo-50/60 px-3 py-2">
+            <div className="flex items-center justify-between gap-2">
+              <h2 className="text-sm font-semibold text-indigo-700">优先来源：GitHub all</h2>
+              <div className="flex items-center gap-2">
+                <button
+                  type="button"
+                  onClick={() => setShowOnlyPriority((prev) => !prev)}
+                  className={`rounded-md border px-2 py-1 text-[11px] font-medium hover-lite ${
+                    showOnlyPriority
+                      ? 'border-indigo-400 bg-indigo-100 text-indigo-700'
+                      : 'border-indigo-200 bg-white text-indigo-600 hover:border-indigo-300'
+                  }`}
+                >
+                  {showOnlyPriority ? '显示全部来源' : '只看 GitHub all'}
+                </button>
+                {priorityRows.length > 5 && (
+                  <button
+                    type="button"
+                    onClick={() => setExpandPriority((prev) => !prev)}
+                    className="rounded-md border border-indigo-200 bg-white px-2 py-1 text-[11px] font-medium text-indigo-600 hover-lite hover:border-indigo-300"
+                  >
+                    {expandPriority ? '收起' : `展开(${priorityRows.length})`}
+                  </button>
+                )}
+              </div>
+            </div>
+          </div>
+          <div className="divide-y divide-slate-100">
+            {visiblePriorityRows.map((row) => (
+              <a
+                key={`priority-${row.id}`}
+                href={row.link}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="block px-3 py-2 hover-lite hover:bg-indigo-50/50"
+              >
+                <p className="line-clamp-2 text-[14px] font-medium leading-[1.35] text-slate-800 hover:text-indigo-600">
+                  {row.title}
+                </p>
+                <p className="mt-1 line-clamp-1 text-[11px] text-slate-500">
+                  {utils.stripHtml(row.description || row.content || '')}
+                </p>
+                <p className="mt-1 text-[11px] text-slate-400">{row.feed_name} · {utils.formatDate(row.pub_date)}</p>
+              </a>
+            ))}
+          </div>
+        </div>
+      )}
+
       {sourceNames.map((sourceName) => {
-        const sourceFeeds = groupedFeeds[sourceName];
+        if (showOnlyPriority) {
+          return null;
+        }
+
+        const sourceFeeds = (groupedFeeds[sourceName] || []).filter((item) => {
+          if (priorityIds.size === 0) return true;
+          return !priorityIds.has(item.id);
+        });
+
+        if (sourceFeeds.length === 0) {
+          return null;
+        }
+
         const isExpanded = expandedSources.has(sourceName);
         const color = sourceColors[sourceName];
 
         return (
-          <div key={sourceName} className="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden transition-all duration-300">
+          <div key={sourceName} className="card card-density overflow-hidden">
             <SourceHeader
               sourceName={sourceName}
               sourceFeeds={sourceFeeds}

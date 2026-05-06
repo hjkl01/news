@@ -5,8 +5,17 @@
   "scripts": {
     "crawl": "node ./crawler.js",
     "gene": "node ./generate_news.js",
+    "crawl:dev": "CRAWL_CRITICAL_FAILURE_THRESHOLD=99 node ./crawler.js",
+    "crawl:ci": "CRAWL_CRITICAL_FAILURE_THRESHOLD=1 node ./crawler.js",
+    "sync:dev": "npm run crawl:dev && npm run gene",
+    "sync:ci": "npm run crawl:ci && npm run gene",
+    "prebuild": "npm run sync:dev",
+    "prebuild:dev": "npm run sync:dev",
+    "prebuild:ci": "npm run sync:ci",
     "dev": "next dev",
     "build": "next build",
+    "build:dev": "next build",
+    "build:ci": "npm run prebuild:ci && next build",
     "start": "next start",
     "lint": "next lint"
   },

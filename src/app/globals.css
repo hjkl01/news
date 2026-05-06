@@ -12,6 +12,10 @@
   --accent-bg: #eef2ff;
   --text-secondary: #64748b;
   --text-muted: #94a3b8;
+  --density-gap-sm: 0.5rem;
+  --density-gap-md: 0.75rem;
+  --density-item-px: 0.75rem;
+  --density-item-py: 0.5rem;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -25,6 +29,10 @@
     --accent-bg: #1e1e2e;
     --text-secondary: #94a3b8;
     --text-muted: #64748b;
+    --density-gap-sm: 0.5rem;
+    --density-gap-md: 0.75rem;
+    --density-item-px: 0.75rem;
+    --density-item-py: 0.5rem;
   }
 }
 
@@ -46,7 +54,15 @@ body {
   }
   
   .card:hover {
-    @apply shadow-lg transform -translate-y-1;
+    @apply shadow-md;
+  }
+
+  .card-density {
+    @apply rounded-xl;
+  }
+
+  .hover-lite {
+    transition: background-color 160ms ease, color 160ms ease, border-color 160ms ease;
   }
   
   .btn-primary {

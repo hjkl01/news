@@ -9,7 +9,7 @@ const CONFIG = {
     ['首页', '/'],
     ['新闻', '/news'],
     ['国外', '/foreign'],
-    ['科技', '/tech'],
+    ['科技/技术', '/tech'],
     ['技术', '/code'],
     ['论坛', '/forum'],
     ['娱乐', '/funny'],
@@ -23,9 +23,9 @@ const utils = {
   },
 
   getNavLinkStyle: (isActive: boolean) => {
-    return `px-4 py-2 rounded-full text-sm font-medium transition-all duration-300 whitespace-nowrap ${
+    return `px-3 py-1.5 rounded-md text-xs font-medium transition-colors duration-200 whitespace-nowrap ${
       isActive
-        ? 'bg-indigo-500 text-white shadow-lg shadow-indigo-200'
+        ? 'bg-indigo-500 text-white'
         : 'text-slate-600 hover:bg-slate-100 hover:text-indigo-600'
     }`;
   }
@@ -46,7 +46,7 @@ const DynamicDate = () => {
   }, []);
 
   return (
-    <span className="text-sm text-slate-500 hidden md:inline whitespace-nowrap font-medium bg-slate-100 px-3 py-1.5 rounded-full">
+    <span className="text-xs text-slate-500 hidden md:inline whitespace-nowrap font-medium bg-slate-100 px-2 py-1 rounded-md">
       {date}
     </span>
   );
@@ -77,22 +77,22 @@ export default function Header() {
   }, [pathname]);
 
   return (
-    <header className="w-full bg-white/90 backdrop-blur-md shadow-sm border-b sticky top-0 z-50">
+    <header className="w-full bg-white/95 backdrop-blur-md border-b border-slate-200 sticky top-0 z-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex flex-col md:flex-row items-center justify-between py-4 gap-4">
+        <div className="flex flex-col md:flex-row items-center justify-between py-3 gap-3">
           <div className="flex items-center gap-3 self-start md:self-center">
             <Link href="/" className="flex items-center gap-3 group">
-              <span className="inline-flex items-center justify-center w-10 h-10 rounded-xl bg-gradient-to-br from-indigo-500 to-violet-500 group-hover:from-indigo-600 group-hover:to-violet-600 transition-all duration-300 shadow-lg shadow-indigo-200 text-white font-bold text-xl">
+              <span className="inline-flex items-center justify-center w-9 h-9 rounded-lg bg-indigo-500 group-hover:bg-indigo-600 transition-colors duration-200 text-white font-bold text-lg">
                 N
               </span>
-              <span className="text-2xl font-bold bg-gradient-to-r from-indigo-600 to-violet-600 bg-clip-text text-transparent">
+              <span className="text-xl font-bold text-slate-900">
                 NewsHub
               </span>
             </Link>
           </div>
 
           <nav className="w-full md:w-auto">
-            <ul className="flex flex-wrap justify-center md:justify-start gap-x-2 gap-y-2 md:gap-x-1 lg:gap-x-2">
+            <ul className="flex flex-wrap justify-center md:justify-start gap-x-1 gap-y-1">
               {navLinks.map(({ label, path, isActive }) => (
                 <NavLink
                   key={path}

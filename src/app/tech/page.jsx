@@ -1,14 +1,18 @@
 'use client';
 import React from 'react';
 import jsonData from './data.json';
-import NewsCloud from '../components/NewsCloud';
+import PortalLayout from '../components/PortalLayout';
 
 const App = () => {
   return (
     <div className="min-h-screen bg-[#faf8f5]">
-      <main className="flex-1 w-full">
-        <NewsCloud data={jsonData} />
-      </main>
+      <PortalLayout
+        data={jsonData}
+        title="科技与技术"
+        subtitle="偏科技资讯与技术趋势，优先展示 GitHub all"
+        categoryFilters={["科技", "技术"]}
+        priorityFeeds={["github all"]}
+      />
     </div>
   );
 };

@@ -26,27 +26,19 @@
 
 ### 环境要求
 
-- Node.js 18+ 
-- npm/yarn/pnpm
+- Node.js 18+
+- npm
 
 ### 安装依赖
 
 ```bash
-npm install
-# 或
-yarn install
-# 或
-pnpm install
+npm ci
 ```
 
 ### 开发模式
 
 ```bash
 npm run dev
-# 或
-yarn dev
-# 或
-pnpm dev
 ```
 
 打开 [http://localhost:3000](http://localhost:3000) 查看应用。
@@ -57,6 +49,40 @@ pnpm dev
 npm run build
 npm start
 ```
+
+### 构建前数据同步策略（推荐）
+
+项目已支持两套同步/构建模式：
+
+- 开发宽松模式（关键源失败不阻断）
+
+```bash
+npm run build:dev
+```
+
+- CI 严格模式（关键源失败达到阈值即阻断）
+
+```bash
+npm run build:ci
+```
+
+对应同步命令：
+
+```bash
+npm run sync:dev
+npm run sync:ci
+```
+
+### GitHub Actions（CI）建议
+
+部署工作流建议与本地保持一致：
+
+```bash
+npm ci
+npm run build:ci
+```
+
+说明：`build:ci` 会自动执行 `prebuild:ci -> sync:ci -> crawl:ci + gene`，并在关键源失败达到阈值时阻断构建。
 
 ## 📁 项目结构
 

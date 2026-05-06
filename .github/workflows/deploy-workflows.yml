@@ -2,6 +2,10 @@ name: Deploy to GitHub Pages
 permissions:
   contents: write
 
+concurrency:
+  group: deploy-github-pages-${{ github.ref }}
+  cancel-in-progress: true
+
 on:
   schedule:
     # delay
@@ -32,27 +36,22 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
+          cache: npm
 
       - name: Install Packages
         run: |
-          npm install -g yarn
-          yarn install
-
-      - name: Crawl and Generate
-        run: |
-          yarn crawl
-          yarn gene
+          npm ci
 
       - name: Build
         run: |
-          yarn build
+          npm run build:ci
 
       - name: Commit files
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add .
-          git commit -m "Add Changes By Action Bot `date`"
+          git diff --cached --quiet || git commit -m "Add Changes By Action Bot `date`"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:

@@ -1,0 +1,104 @@
+{
+  "started_at": "2026-05-06T06:12:07.176Z",
+  "ended_at": "2026-05-06T06:12:42.829Z",
+  "duration_ms": 35653,
+  "config": {
+    "concurrency": 8,
+    "cache_enabled": true,
+    "cache_ttl_minutes": 30,
+    "failure_cooldown_minutes": 20,
+    "critical_failure_threshold": 1,
+    "critical_sources": [
+      "github all",
+      "中国新闻网 即时新闻",
+      "solidot"
+    ]
+  },
+  "summary": {
+    "total_sources": 59,
+    "fetched_sources": 47,
+    "cache_hit_sources": 0,
+    "failed_sources": 12,
+    "circuit_open_sources": 0,
+    "critical_failures": 0,
+    "total_items_after_dedupe": 1329,
+    "total_items_after_retention": 1125,
+    "build_blocked": false
+  },
+  "critical_failures": [],
+  "failures": [
+    {
+      "title": "网易新闻 / 今日关注",
+      "url": "https://plink.anyfeeder.com/netease/today",
+      "reason": "HTTP 503",
+      "skippedByCircuit": false
+    },
+    {
+      "title": "SBS 中文",
+      "url": "https://plink.anyfeeder.com/sbs/chinese",
+      "reason": "HTTP 503",
+      "skippedByCircuit": false
+    },
+    {
+      "title": "VOA 美国之音",
+      "url": "https://plink.anyfeeder.com/voa/chinese",
+      "reason": "HTTP 503",
+      "skippedByCircuit": false
+    },
+    {
+      "title": "端传媒 / 最新",
+      "url": "https://plink.anyfeeder.com/initium/latest",
+      "reason": "HTTP 503",
+      "skippedByCircuit": false
+    },
+    {
+      "title": "端传媒 / 深度",
+      "url": "https://plink.anyfeeder.com/initium/feature",
+      "reason": "HTTP 503",
+      "skippedByCircuit": false
+    },
+    {
+      "title": "全球主机交流论坛",
+      "url": "https://hostloc.com/forum.php?mod=rss",
+      "reason": "HTTP 403",
+      "skippedByCircuit": false
+    },
+    {
+      "title": "Arch Linux 中文论坛",
+      "url": "https://bbs.archlinuxcn.org/extern.php?action=feed&type=rss",
+      "reason": "The operation was aborted.",
+      "skippedByCircuit": false
+    },
+    {
+      "title": "NodeLoc",
+      "url": "https://www.nodeloc.com/atom/discussions",
+      "reason": "The operation was aborted.",
+      "skippedByCircuit": false
+    },
+    {
+      "title": "路由器交流",
+      "url": "https://www.acwifi.net/feed",
+      "reason": "Invalid character in tag name\nLine: 0\nColumn: 384\nChar: ;",
+      "skippedByCircuit": false
+    },
+    {
+      "title": "技術討論區 | 草榴社區 - t66y.com",
+      "url": "https://rsshub.app/t66y/7",
+      "reason": "HTTP 403",
+      "skippedByCircuit": false
+    },
+    {
+      "title": "超能网",
+      "url": "https://plink.anyfeeder.com/expreview",
+      "reason": "Feed not recognized as RSS 1 or 2.",
+      "skippedByCircuit": false
+    },
+    {
+      "title": "FreeBuf 关注黑客",
+      "url": "https://plink.anyfeeder.com/freebuf",
+      "reason": "HTTP 405",
+      "skippedByCircuit": false
+    }
+  ],
+  "circuit_open": []
+}

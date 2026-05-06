@@ -1,14 +1,12 @@
 'use client';
 import React from 'react';
 import jsonData from './data.json';
-import NewsCloud from '../components/NewsCloud';
+import PortalLayout from '../components/PortalLayout';
 
 const App = () => {
   return (
     <div className="min-h-screen bg-[#faf8f5]">
-      <main className="flex-1 w-full">
-        <NewsCloud data={jsonData} />
-      </main>
+      <PortalLayout data={jsonData} title="国外" categoryFilter="国外" />
     </div>
   );
 };
