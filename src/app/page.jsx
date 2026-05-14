@@ -1,6 +1,6 @@
 'use client';
 import React from 'react';
-import jsonData from './data.json';
+import jsonData from './data';
 import PortalLayout from './components/PortalLayout';
 
 const App = () => {

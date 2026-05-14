@@ -1,46 +1,49 @@
 {
-  "name": "news",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "crawl": "node ./crawler.js",
-    "gene": "node ./generate_news.js",
-    "crawl:dev": "CRAWL_CRITICAL_FAILURE_THRESHOLD=99 node ./crawler.js",
-    "crawl:ci": "CRAWL_CRITICAL_FAILURE_THRESHOLD=1 node ./crawler.js",
-    "sync:dev": "npm run crawl:dev && npm run gene",
-    "sync:ci": "npm run crawl:ci && npm run gene",
-    "prebuild": "npm run sync:dev",
-    "prebuild:dev": "npm run sync:dev",
-    "prebuild:ci": "npm run sync:ci",
-    "dev": "next dev",
-    "build": "next build",
-    "build:dev": "next build",
-    "build:ci": "npm run prebuild:ci && next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
-  "dependencies": {
-    "async": "^3.2.6",
-    "better-sqlite3": "^12.6.2",
-    "dayjs": "^1.11.19",
-    "fs": "^0.0.1-security",
-    "lucide-react": "^0.539.0",
-    "moment": "^2.30.1",
-    "next": "14.2.13",
-    "node-fetch": "^3.3.2",
-    "path": "^0.12.7",
-    "react": "^18",
-    "react-dom": "^18.3.1",
-    "rss-parser": "^3.13.0"
-  },
-  "devDependencies": {
-    "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
-    "eslint": "^8",
-    "eslint-config-next": "14.2.13",
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1",
-    "typescript": "^5"
-  }
+    "name": "news",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "crawl": "node ./crawler.js",
+        "gene": "node ./generate_news.js",
+        "crawl:dev": "CRAWL_CRITICAL_FAILURE_THRESHOLD=99 node ./crawler.js",
+        "crawl:ci": "CRAWL_CRITICAL_FAILURE_THRESHOLD=1 node ./crawler.js",
+        "sync:dev": "npm run crawl:dev && npm run gene",
+        "sync:ci": "npm run crawl:ci && npm run gene",
+        "prebuild": "npm run sync:dev",
+        "prebuild:dev": "npm run sync:dev",
+        "prebuild:ci": "npm run sync:ci",
+        "dev": "next dev",
+        "build": "next build",
+        "build:dev": "next build",
+        "build:ci": "npm run prebuild:ci && next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "lucide-react": "^1.14.0",
+        "moment": "^2.30.1",
+        "next": "16.2.6",
+        "node-fetch": "^3.3.2",
+        "react": "^19.2.6",
+        "react-dom": "^19.2.6",
+        "rss-parser": "^3.13.0"
+    },
+    "devDependencies": {
+        "@tailwindcss/postcss": "^4.3.0",
+        "@types/node": "^25.7.0",
+        "@types/react": "^19.2.14",
+        "@types/react-dom": "^19.2.3",
+        "eslint": "^10.3.0",
+        "eslint-config-next": "16.2.6",
+        "postcss": "^8.5.14",
+        "tailwindcss": "^4.3.0",
+        "typescript": "^6.0.3"
+    },
+    "pnpm": {
+        "onlyBuiltDependencies": [
+            "better-sqlite3",
+            "sharp",
+            "unrs-resolver"
+        ]
+    }
 }

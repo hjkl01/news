@@ -1,6 +1,8 @@
-import React from 'react';
+import React, { useMemo } from 'react';
 import NewsList from './NewsList';
 import PortalWidgets from './PortalWidgets';
+
+const MAX_RENDER_ITEMS = 600;
 
 const toTimestamp = (value) => {
   if (!value) return 0;
@@ -29,25 +31,47 @@ const sortByLatest = (list, priorityFeeds = []) => {
   });
 };
 
+const normalizeItems = (list) => {
+  if (!Array.isArray(list)) return [];
+
+  return list
+    .filter((item) => item && typeof item === 'object')
+    .map((item, index) => ({
+      id: String(item.id || `${item.feed_name || 'feed'}-${item.link || index}`),
+      feed_name: String(item.feed_name || '未知来源'),
+      category: String(item.category || ''),
+      title: String(item.title || '').trim(),
+      link: String(item.link || '').trim(),
+      pub_date: String(item.pub_date || ''),
+      author: String(item.author || ''),
+      description: String(item.description || ''),
+      content: String(item.content || '')
+    }))
+    .filter((item) => item.title && item.link);
+};
+
 const PortalLayout = ({
   data = [],
   title = '最新资讯',
   subtitle = '按来源分组，优先展示最近更新',
   priorityFeeds = [],
   categoryFilter = '',
-  categoryFilters = []
+  categoryFilters = [],
+  maxItems = MAX_RENDER_ITEMS
 }) => {
+  const normalizedData = useMemo(() => normalizeItems(data), [data]);
+
   const normalizedFilters = Array.isArray(categoryFilters)
     ? categoryFilters.map((item) => String(item))
     : [];
 
   const filteredByCategory = normalizedFilters.length > 0
-    ? (data || []).filter((item) => normalizedFilters.includes(String(item.category || '')))
+    ? normalizedData.filter((item) => normalizedFilters.includes(String(item.category || '')))
     : categoryFilter
-      ? (data || []).filter((item) => String(item.category || '') === categoryFilter)
-      : (data || []);
+      ? normalizedData.filter((item) => String(item.category || '') === categoryFilter)
+      : normalizedData;
 
-  const latestData = sortByLatest(filteredByCategory, priorityFeeds);
+  const latestData = sortByLatest(filteredByCategory, priorityFeeds).slice(0, Math.max(1, maxItems));
   const hotData = latestData.slice(0, 36);
 
   return (

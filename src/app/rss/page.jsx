@@ -3,15 +3,15 @@
 
 import React, { useState, useEffect, useCallback, useMemo } from 'react';
 import {
-  RssIcon,
-  FolderIcon,
-  CalendarIcon,
-  UserIcon,
-  RefreshCwIcon,
-  AlertCircleIcon,
-  ChevronDownIcon,
-  ChevronRightIcon,
-  CheckCircleIcon
+  Rss,
+  Folder,
+  Calendar,
+  User,
+  RefreshCw,
+  AlertCircle,
+  ChevronDown,
+  ChevronRight,
+  CheckCircle
 } from 'lucide-react';
 
 // 常量配置
@@ -538,7 +538,7 @@ export default function RSSPage() {
           <div className="flex items-center justify-between h-14">
             <div className="flex items-center space-x-3">
               <div className="bg-amber-500 p-2 rounded-lg">
-                <RssIcon className="w-5 h-5 text-white" />
+                <Rss className="w-5 h-5 text-white" />
               </div>
               <h1 className="text-lg font-semibold text-stone-800">RSS订阅阅读器</h1>
             </div>
@@ -551,7 +551,7 @@ export default function RSSPage() {
                   : 'bg-amber-500 text-white hover:bg-amber-600'
                   }`}
               >
-                <RefreshCwIcon className={`w-4 h-4 ${isLoading ? 'animate-spin' : ''} mr-1 inline`} />
+                <RefreshCw className={`w-4 h-4 ${isLoading ? 'animate-spin' : ''} mr-1 inline`} />
                 刷新
               </button>
             </div>
@@ -589,7 +589,7 @@ export default function RSSPage() {
           <div className="lg:col-span-3">
             {error && (
               <div className="bg-red-50/90 backdrop-blur-sm border border-red-200 rounded-xl p-4 mb-6 flex items-center space-x-3 shadow-sm">
-                <AlertCircleIcon className="w-5 h-5 text-red-500 flex-shrink-0" />
+                <AlertCircle className="w-5 h-5 text-red-500 flex-shrink-0" />
                 <div>
                   <p className="text-red-800 font-medium">加载错误</p>
                   <p className="text-red-600 text-sm">{error}</p>
@@ -600,7 +600,7 @@ export default function RSSPage() {
             {failedFeeds.length > 0 && (
               <div className="bg-yellow-50/90 backdrop-blur-sm border border-yellow-200 rounded-xl p-4 mb-6 shadow-sm">
                 <div className="flex items-center space-x-3 mb-2">
-                  <AlertCircleIcon className="w-5 h-5 text-yellow-600 flex-shrink-0" />
+                  <AlertCircle className="w-5 h-5 text-yellow-600 flex-shrink-0" />
                   <p className="text-yellow-800 font-medium">部分RSS源加载失败</p>
                 </div>
                 <p className="text-yellow-700 text-sm mb-2">以下RSS源暂时无法访问：</p>
@@ -626,7 +626,7 @@ export default function RSSPage() {
                   <p className="text-slate-600">正在动态加载RSS内容...</p>
                   {loadedFeedsCount > 0 && (
                     <p className="text-sm text-slate-600 mt-2 flex items-center justify-center">
-                      <CheckCircleIcon className="w-4 h-4 mr-1" />
+                      <CheckCircle className="w-4 h-4 mr-1" />
                       已成功加载 {loadedFeedsCount} 个RSS源
                     </p>
                   )}
@@ -651,7 +651,7 @@ export default function RSSPage() {
               </div>
             ) : selectedCategory === null ? (
               <div className="bg-white rounded-lg shadow-sm border border-stone-200 p-12 text-center">
-                <FolderIcon className="w-12 h-12 text-stone-400 mx-auto mb-3" />
+                <Folder className="w-12 h-12 text-stone-400 mx-auto mb-3" />
                 <h3 className="text-base font-medium text-stone-700 mb-1">请选择一个分类</h3>
                 <p className="text-sm text-stone-500">从左侧选择分类查看内容</p>
               </div>
@@ -659,7 +659,7 @@ export default function RSSPage() {
               <div className="space-y-5">
                 {Object.entries(groupedFeeds).length === 0 ? (
                   <div className="bg-white rounded-lg shadow-sm border border-stone-200 p-12 text-center">
-                    <RssIcon className="w-12 h-12 text-stone-400 mx-auto mb-3" />
+                    <Rss className="w-12 h-12 text-stone-400 mx-auto mb-3" />
                     <h3 className="text-base font-medium text-stone-700 mb-1">暂无RSS内容</h3>
                     <p className="text-sm text-stone-500">该分类下暂无内容</p>
                   </div>
@@ -689,9 +689,9 @@ export default function RSSPage() {
                               </div>
                             </div>
                             {isExpanded ? (
-                              <ChevronDownIcon className="w-4 h-4 text-stone-400" />
+                              <ChevronDown className="w-4 h-4 text-stone-400" />
                             ) : (
-                              <ChevronRightIcon className="w-4 h-4 text-stone-400" />
+                              <ChevronRight className="w-4 h-4 text-stone-400" />
                             )}
                           </div>
                         </div>
@@ -752,7 +752,7 @@ export default function RSSPage() {
               </div>
             ) : selectedCategory === null ? (
               <div className="bg-white rounded-xl shadow-lg p-12 text-center">
-                <FolderIcon className="w-16 h-16 text-gray-400 mx-auto mb-4" />
+                <Folder className="w-16 h-16 text-gray-400 mx-auto mb-4" />
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">请选择一个分类</h3>
                 <p className="text-gray-600 mb-6">从左侧分类列表中选择一个分类以查看RSS内容</p>
               </div>
@@ -760,7 +760,7 @@ export default function RSSPage() {
               <div className="space-y-6">
                 {Object.entries(groupedFeeds).length === 0 ? (
                   <div className="bg-white rounded-xl shadow-lg p-12 text-center">
-                    <RssIcon className="w-16 h-16 text-gray-400 mx-auto mb-4" />
+                    <Rss className="w-16 h-16 text-gray-400 mx-auto mb-4" />
                     <h3 className="text-lg font-semibold text-gray-900 mb-2">暂无RSS内容</h3>
                     <p className="text-gray-600 mb-6">该分类下暂无内容或加载失败</p>
                     <button
@@ -806,9 +806,9 @@ export default function RSSPage() {
                                 {sourceFeeds[0]?.category.name}
                               </span>
                               {isExpanded ? (
-                                <ChevronDownIcon className="w-5 h-5 text-gray-500" />
+                                <ChevronDown className="w-5 h-5 text-gray-500" />
                               ) : (
-                                <ChevronRightIcon className="w-5 h-5 text-gray-500" />
+                                <ChevronRight className="w-5 h-5 text-gray-500" />
                               )}
                             </div>
                           </div>
@@ -839,7 +839,7 @@ export default function RSSPage() {
                                         {feed.title}
                                       </a>
                                       <span className="flex items-center text-sm text-gray-500 whitespace-nowrap ml-4">
-                                        <CalendarIcon className="w-4 h-4 mr-1" />
+                                        <Calendar className="w-4 h-4 mr-1" />
                                         {utils.formatDate(feed.pubDate)}
                                       </span>
                                     </div>
@@ -849,7 +849,7 @@ export default function RSSPage() {
                                     <div className="flex items-center flex-wrap gap-2">
                                       <div className="flex items-center space-x-4 text-sm text-gray-500">
                                         <div className="flex items-center space-x-1">
-                                          <UserIcon className="w-4 h-4" />
+                                          <User className="w-4 h-4" />
                                           <span className="truncate max-w-32">{feed.author}</span>
                                         </div>
                                       </div>
@@ -873,4 +873,3 @@ export default function RSSPage() {
     </div>
   );
 }
-

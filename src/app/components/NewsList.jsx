@@ -1,8 +1,7 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
-import React, { useState, useMemo, useCallback, memo } from 'react';
+import React, { useState, useMemo, useCallback, useEffect, memo } from 'react';
 import {
-  ChevronDownIcon,
-  ChevronRightIcon
+  ChevronDown,
+  ChevronRight
 } from 'lucide-react';
 
 const CONFIG = {
@@ -13,7 +12,9 @@ const CONFIG = {
   ],
   MAX_TITLE_LENGTH: 25,
   MAX_DESCRIPTION_LENGTH: 150,
-  HOT_ITEMS_PER_SOURCE: 5
+  HOT_ITEMS_PER_SOURCE: 5,
+  SOURCE_INITIAL_ITEMS: 10,
+  SOURCE_LOAD_MORE_STEP: 10
 };
 
 const utils = {
@@ -39,6 +40,17 @@ const utils = {
     });
     return map;
   }
+};
+
+const normalizeFeed = (feed) => {
+  const summary = utils.stripHtml(feed.description || feed.content || '');
+
+  return {
+    ...feed,
+    _summary: summary,
+    _dateLabel: utils.formatDate(feed.pub_date),
+    _byline: feed.author || feed.feed_name
+  };
 };
 
 const useExpandedState = (initialSources) => {
@@ -132,9 +144,9 @@ const SourceHeader = memo(({ sourceName, sourceFeeds, color, isExpanded, onToggl
         {isExpanded ? '收起' : '展开'}
       </span>
       {isExpanded ? (
-        <ChevronDownIcon className="w-4 h-4 text-slate-400" />
+        <ChevronDown className="w-4 h-4 text-slate-400" />
       ) : (
-        <ChevronRightIcon className="w-4 h-4 text-slate-400" />
+        <ChevronRight className="w-4 h-4 text-slate-400" />
       )}
     </div>
   </div>
@@ -142,7 +154,23 @@ const SourceHeader = memo(({ sourceName, sourceFeeds, color, isExpanded, onToggl
 
 SourceHeader.displayName = 'SourceHeader';
 
-const FeedItem = memo(({ feed, color }) => (
+const SourceFeedList = memo(({ sourceFeeds, color }) => {
+  return (
+    <div className="divide-y divide-slate-100">
+      {sourceFeeds.map((feed) => (
+        <FeedItem
+          key={feed.id}
+          feed={feed}
+          color={color}
+        />
+      ))}
+    </div>
+  );
+});
+
+SourceFeedList.displayName = 'SourceFeedList';
+
+const FeedItemView = ({ feed, color }) => (
   <div className="px-[var(--density-item-px)] py-[var(--density-item-py)] hover-lite hover:bg-indigo-50/40 border-b border-slate-50 last:border-0">
     <div className="flex gap-4">
       <div
@@ -159,16 +187,35 @@ const FeedItem = memo(({ feed, color }) => (
           {feed.title}
         </a>
         <p className="text-xs text-slate-500 mt-1 line-clamp-1">
-          {utils.stripHtml(feed.description || feed.content || '')}
+          {feed._summary}
         </p>
         <div className="flex items-center gap-3 mt-1 text-xs text-slate-400">
-          <span>{feed.author || feed.feed_name}</span>
-          <span>{utils.formatDate(feed.pub_date)}</span>
+          <span>{feed._byline}</span>
+          <span>{feed._dateLabel}</span>
         </div>
       </div>
     </div>
   </div>
-));
+);
+
+const isFeedItemEqual = (prevProps, nextProps) => {
+  const prevFeed = prevProps.feed;
+  const nextFeed = nextProps.feed;
+
+  if (prevProps.color !== nextProps.color) return false;
+  if (prevFeed === nextFeed) return true;
+
+  return (
+    prevFeed.id === nextFeed.id &&
+    prevFeed.title === nextFeed.title &&
+    prevFeed.link === nextFeed.link &&
+    prevFeed._summary === nextFeed._summary &&
+    prevFeed._dateLabel === nextFeed._dateLabel &&
+    prevFeed._byline === nextFeed._byline
+  );
+};
+
+const FeedItem = memo(FeedItemView, isFeedItemEqual);
 
 FeedItem.displayName = 'FeedItem';
 
@@ -206,9 +253,9 @@ const HotList = memo(({ groupedFeeds, sourceNames }) => {
               {feed.title}
             </p>
             <p className="mt-1 line-clamp-1 text-[11px] text-slate-500">
-              {utils.stripHtml(feed.description || feed.content || '')}
+              {feed._summary}
             </p>
-            <p className="mt-1 text-[11px] text-slate-400">{feed.feed_name} · {utils.formatDate(feed.pub_date)}</p>
+            <p className="mt-1 text-[11px] text-slate-400">{feed.feed_name} · {feed._dateLabel}</p>
           </a>
         ))}
       </div>
@@ -229,21 +276,63 @@ const NewsList = ({
 }) => {
   const [showOnlyPriority, setShowOnlyPriority] = useState(false);
   const [expandPriority, setExpandPriority] = useState(false);
+  const [sourceVisibleCounts, setSourceVisibleCounts] = useState({});
+
+  const normalizedData = useMemo(() => {
+    if (!Array.isArray(data)) return [];
+    return data.map(normalizeFeed);
+  }, [data]);
 
   const groupedFeeds = useMemo(() => {
-    if (!data || data.length === 0) return {};
+    if (normalizedData.length === 0) return {};
 
-    return data.reduce((acc, item) => {
+    return normalizedData.reduce((acc, item) => {
       if (!acc[item.feed_name]) {
         acc[item.feed_name] = [];
       }
       acc[item.feed_name].push(item);
       return acc;
     }, {});
-  }, [data]);
+  }, [normalizedData]);
 
   const sourceNames = useMemo(() => Object.keys(groupedFeeds), [groupedFeeds]);
   const { expandedSources, toggleSource } = useExpandedState(sourceNames);
+
+  useEffect(() => {
+    setSourceVisibleCounts((prev) => {
+      const next = {};
+
+      sourceNames.forEach((sourceName) => {
+        if (!expandedSources.has(sourceName)) {
+          return;
+        }
+
+        if ((prev[sourceName] || 0) > CONFIG.SOURCE_INITIAL_ITEMS) {
+          next[sourceName] = prev[sourceName];
+        }
+      });
+
+      const prevKeys = Object.keys(prev);
+      const nextKeys = Object.keys(next);
+
+      if (prevKeys.length === nextKeys.length && prevKeys.every((key) => prev[key] === next[key])) {
+        return prev;
+      }
+
+      return next;
+    });
+  }, [expandedSources, sourceNames]);
+
+  const getVisibleCount = useCallback((sourceName) => {
+    return sourceVisibleCounts[sourceName] || CONFIG.SOURCE_INITIAL_ITEMS;
+  }, [sourceVisibleCounts]);
+
+  const loadMoreForSource = useCallback((sourceName) => {
+    setSourceVisibleCounts((prev) => ({
+      ...prev,
+      [sourceName]: (prev[sourceName] || CONFIG.SOURCE_INITIAL_ITEMS) + CONFIG.SOURCE_LOAD_MORE_STEP
+    }));
+  }, []);
 
   const sourceColors = useMemo(() => {
     return utils.generateColorMap(sourceNames);
@@ -261,13 +350,13 @@ const NewsList = ({
       return [];
     }
 
-    return data
+    return normalizedData
       .filter((item) => {
         const feedName = String(item.feed_name || '').toLowerCase();
         return normalizedPriorityFeeds.some((keyword) => feedName.includes(keyword));
       })
       .slice(0, 8);
-  }, [data, isHotMode, normalizedPriorityFeeds]);
+  }, [normalizedData, isHotMode, normalizedPriorityFeeds]);
 
   const visiblePriorityRows = useMemo(() => {
     if (expandPriority) {
@@ -288,7 +377,7 @@ const NewsList = ({
     return <ErrorState />;
   }
 
-  if (!data || data.length === 0) {
+  if (normalizedData.length === 0) {
     return <EmptyState />;
   }
 
@@ -344,10 +433,8 @@ const NewsList = ({
                 <p className="line-clamp-2 text-[14px] font-medium leading-[1.35] text-slate-800 hover:text-indigo-600">
                   {row.title}
                 </p>
-                <p className="mt-1 line-clamp-1 text-[11px] text-slate-500">
-                  {utils.stripHtml(row.description || row.content || '')}
-                </p>
-                <p className="mt-1 text-[11px] text-slate-400">{row.feed_name} · {utils.formatDate(row.pub_date)}</p>
+                <p className="mt-1 line-clamp-1 text-[11px] text-slate-500">{row._summary}</p>
+                <p className="mt-1 text-[11px] text-slate-400">{row.feed_name} · {row._dateLabel}</p>
               </a>
             ))}
           </div>
@@ -370,6 +457,9 @@ const NewsList = ({
 
         const isExpanded = expandedSources.has(sourceName);
         const color = sourceColors[sourceName];
+        const visibleCount = getVisibleCount(sourceName);
+        const visibleSourceFeeds = sourceFeeds.slice(0, visibleCount);
+        const hasMoreItems = sourceFeeds.length > visibleCount;
 
         return (
           <div key={sourceName} className="card card-density overflow-hidden">
@@ -387,15 +477,23 @@ const NewsList = ({
               }}
             >
               <div className="overflow-hidden">
-                <div className="divide-y divide-slate-100">
-                  {sourceFeeds.map(feed => (
-                    <FeedItem
-                      key={feed.id}
-                      feed={feed}
-                      color={color}
-                    />
-                  ))}
-                </div>
+                {isExpanded ? (
+                  <>
+                    <SourceFeedList sourceFeeds={visibleSourceFeeds} color={color} />
+                    {hasMoreItems ? (
+                      <div className="border-t border-slate-100 px-3 py-2">
+                        <button
+                          type="button"
+                          onClick={() => loadMoreForSource(sourceName)}
+                          className="w-full rounded-md border border-slate-200 bg-white px-3 py-2 text-xs font-medium text-slate-600 transition-colors hover:border-indigo-300 hover:text-indigo-600"
+                          aria-label={`加载更多 ${sourceName} 来源文章`}
+                        >
+                          加载更多（{sourceFeeds.length - visibleCount} 条）
+                        </button>
+                      </div>
+                    ) : null}
+                  </>
+                ) : null}
               </div>
             </div>
           </div>

@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-05-12T23:55:19.895Z",
-  "ended_at": "2026-05-12T23:55:20.085Z",
-  "duration_ms": 190,
+  "started_at": "2026-05-14T03:28:30.094Z",
+  "ended_at": "2026-05-14T03:28:30.228Z",
+  "duration_ms": 134,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -17,12 +17,12 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 47,
-    "failed_sources": 12,
-    "circuit_open_sources": 12,
+    "cache_hit_sources": 48,
+    "failed_sources": 11,
+    "circuit_open_sources": 11,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1383,
-    "total_items_after_retention": 1180,
+    "total_items_after_dedupe": 1379,
+    "total_items_after_retention": 1176,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -78,12 +78,6 @@
     {
       "title": "技術討論區 | 草榴社區 - t66y.com",
       "url": "https://rsshub.app/t66y/7",
-      "reason": "HTTP 403",
-      "skippedByCircuit": true
-    },
-    {
-      "title": "阮一峰的网络日志",
-      "url": "https://www.ruanyifeng.com/blog/atom.xml",
       "reason": "HTTP 403",
       "skippedByCircuit": true
     },
@@ -144,11 +138,6 @@
     {
       "title": "技術討論區 | 草榴社區 - t66y.com",
       "url": "https://rsshub.app/t66y/7",
-      "reason": "HTTP 403"
-    },
-    {
-      "title": "阮一峰的网络日志",
-      "url": "https://www.ruanyifeng.com/blog/atom.xml",
       "reason": "HTTP 403"
     },
     {
