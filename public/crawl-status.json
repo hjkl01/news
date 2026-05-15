@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-05-15T08:40:05.879Z",
-  "ended_at": "2026-05-15T08:40:06.051Z",
-  "duration_ms": 172,
+  "started_at": "2026-05-15T23:51:24.396Z",
+  "ended_at": "2026-05-15T23:51:24.569Z",
+  "duration_ms": 173,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -17,12 +17,12 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 45,
-    "failed_sources": 14,
-    "circuit_open_sources": 14,
+    "cache_hit_sources": 44,
+    "failed_sources": 15,
+    "circuit_open_sources": 15,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1311,
-    "total_items_after_retention": 1107,
+    "total_items_after_dedupe": 1292,
+    "total_items_after_retention": 1088,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -94,6 +94,12 @@
       "skippedByCircuit": true
     },
     {
+      "title": "极客公园",
+      "url": "https://www.geekpark.net/rss",
+      "reason": "request to https://www.geekpark.net/rss failed, reason: socket hang up",
+      "skippedByCircuit": true
+    },
+    {
       "title": "超能网",
       "url": "https://plink.anyfeeder.com/expreview",
       "reason": "Feed not recognized as RSS 1 or 2.",
@@ -108,7 +114,7 @@
     {
       "title": "微博 / 热搜榜",
       "url": "https://plink.anyfeeder.com/weibo/search/hot",
-      "reason": "HTTP 503",
+      "reason": "HTTP 502",
       "skippedByCircuit": true
     }
   ],
@@ -169,6 +175,11 @@
       "reason": "HTTP 403"
     },
     {
+      "title": "极客公园",
+      "url": "https://www.geekpark.net/rss",
+      "reason": "request to https://www.geekpark.net/rss failed, reason: socket hang up"
+    },
+    {
       "title": "超能网",
       "url": "https://plink.anyfeeder.com/expreview",
       "reason": "Feed not recognized as RSS 1 or 2."
@@ -181,7 +192,7 @@
     {
       "title": "微博 / 热搜榜",
       "url": "https://plink.anyfeeder.com/weibo/search/hot",
-      "reason": "HTTP 503"
+      "reason": "HTTP 502"
     }
   ]
 }
