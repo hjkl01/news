@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-05-16T07:52:17.175Z",
-  "ended_at": "2026-05-16T07:52:17.336Z",
-  "duration_ms": 161,
+  "started_at": "2026-05-16T23:45:33.449Z",
+  "ended_at": "2026-05-16T23:45:33.618Z",
+  "duration_ms": 169,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -17,12 +17,12 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 42,
-    "failed_sources": 17,
-    "circuit_open_sources": 17,
+    "cache_hit_sources": 44,
+    "failed_sources": 15,
+    "circuit_open_sources": 15,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1158,
-    "total_items_after_retention": 961,
+    "total_items_after_dedupe": 1289,
+    "total_items_after_retention": 1077,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -100,21 +100,9 @@
       "skippedByCircuit": true
     },
     {
-      "title": "MIT 科技评论 / 本周热榜",
-      "url": "https://plink.anyfeeder.com/mittrchina/hot",
-      "reason": "HTTP 504",
-      "skippedByCircuit": true
-    },
-    {
       "title": "超能网",
       "url": "https://plink.anyfeeder.com/expreview",
       "reason": "Feed not recognized as RSS 1 or 2.",
-      "skippedByCircuit": true
-    },
-    {
-      "title": "人人都是产品经理",
-      "url": "https://plink.anyfeeder.com/woshipm/popular",
-      "reason": "The operation was aborted.",
       "skippedByCircuit": true
     },
     {
@@ -192,19 +180,9 @@
       "reason": "request to https://www.geekpark.net/rss failed, reason: socket hang up"
     },
     {
-      "title": "MIT 科技评论 / 本周热榜",
-      "url": "https://plink.anyfeeder.com/mittrchina/hot",
-      "reason": "HTTP 504"
-    },
-    {
       "title": "超能网",
       "url": "https://plink.anyfeeder.com/expreview",
       "reason": "Feed not recognized as RSS 1 or 2."
-    },
-    {
-      "title": "人人都是产品经理",
-      "url": "https://plink.anyfeeder.com/woshipm/popular",
-      "reason": "The operation was aborted."
     },
     {
       "title": "FreeBuf 关注黑客",
