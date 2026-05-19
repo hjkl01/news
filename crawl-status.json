@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-05-19T00:00:32.216Z",
-  "ended_at": "2026-05-19T00:00:32.418Z",
-  "duration_ms": 202,
+  "started_at": "2026-05-19T09:28:00.481Z",
+  "ended_at": "2026-05-19T09:28:00.673Z",
+  "duration_ms": 192,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -21,8 +21,8 @@
     "failed_sources": 15,
     "circuit_open_sources": 15,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1282,
-    "total_items_after_retention": 1079,
+    "total_items_after_dedupe": 1279,
+    "total_items_after_retention": 1074,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -60,7 +60,7 @@
     {
       "title": "github javascript",
       "url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
-      "reason": "Invalid character in entity name\nLine: 3628\nColumn: 84\nChar: =",
+      "reason": "Invalid character in entity name\nLine: 5187\nColumn: 84\nChar: =",
       "skippedByCircuit": true
     },
     {
@@ -147,7 +147,7 @@
     {
       "title": "github javascript",
       "url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/javascript.xml",
-      "reason": "Invalid character in entity name\nLine: 3628\nColumn: 84\nChar: ="
+      "reason": "Invalid character in entity name\nLine: 5187\nColumn: 84\nChar: ="
     },
     {
       "title": "全球主机交流论坛",
