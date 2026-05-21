@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-05-20T08:54:50.396Z",
-  "ended_at": "2026-05-20T08:54:50.602Z",
-  "duration_ms": 206,
+  "started_at": "2026-05-21T00:03:01.451Z",
+  "ended_at": "2026-05-21T00:03:01.644Z",
+  "duration_ms": 193,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -17,12 +17,12 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 44,
-    "failed_sources": 15,
-    "circuit_open_sources": 15,
+    "cache_hit_sources": 43,
+    "failed_sources": 16,
+    "circuit_open_sources": 16,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1280,
-    "total_items_after_retention": 1078,
+    "total_items_after_dedupe": 1258,
+    "total_items_after_retention": 1056,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -106,6 +106,12 @@
       "skippedByCircuit": true
     },
     {
+      "title": "InfoQ 中文",
+      "url": "https://plink.anyfeeder.com/infoq/recommend",
+      "reason": "The operation was aborted.",
+      "skippedByCircuit": true
+    },
+    {
       "title": "FreeBuf 关注黑客",
       "url": "https://plink.anyfeeder.com/freebuf",
       "reason": "HTTP 405",
@@ -183,6 +189,11 @@
       "title": "超能网",
       "url": "https://plink.anyfeeder.com/expreview",
       "reason": "Feed not recognized as RSS 1 or 2."
+    },
+    {
+      "title": "InfoQ 中文",
+      "url": "https://plink.anyfeeder.com/infoq/recommend",
+      "reason": "The operation was aborted."
     },
     {
       "title": "FreeBuf 关注黑客",
