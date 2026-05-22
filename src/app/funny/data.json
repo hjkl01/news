@@ -1,25 +1,36 @@
 [
   {
-    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/598498723f9f",
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/9aff3751e6bf",
     "feed_name": "简书 / 首页",
     "category": "娱乐",
-    "title": "固定的Box2D对象",
-    "link": "https://www.jianshu.com/p/598498723f9f",
-    "pub_date": "2026-05-22 07:30:05",
-    "author": "大龙10",
-    "description": "书名：代码本色：用编程模拟自然系统 目录 5.8 固定的Box2D对象 在上面的例子中，盒子对象首先出现在鼠标所在的位置，之后随着Box2D中默认的重力作用下落。假如我们想在Box2D中放置一些固定的边界，这些边界能够阻挡盒子物体运动路径（如下图所示），该怎么实现？ 1、锁定 在Box2D中，我们可以简单地将物体（包括所有已连接的形状）锁定在某个位置。只要把BodyDef对象的type属性设为STATIC。 BodyDef bd = n…",
-    "content": "书名：代码本色：用编程模拟自然系统 作者：Daniel Shiffman 译者：周晗彬 ISBN：978-7-115-36947-5 目录 5.8 固定的Box2D对象 在上面的例子中，盒子对象首先出现在鼠标所在的位置，之后随着Box2D中默认的重力作用下落。假如我们想在Box2D中放置一些固定的边界，这些边界能够阻挡盒子物体运动路径（如下图所示），该怎么实现？ 1、锁定 在Box2D中，我们可以简单地将物体（包括所有已连接的形状）锁定在某个位置。只要把BodyDef对象的type属性设为STATIC。 BodyD…"
+    "title": "81比66夺赛点！上海用《孙子兵法》把北京置于绝境！",
+    "link": "https://www.jianshu.com/p/9aff3751e6bf",
+    "pub_date": "2026-05-22 16:34:42",
+    "author": "大张见闻",
+    "description": "2026年5月20日，CBA半决赛第三回合，北京北汽主场五棵松迎战上海久事。上海81比66大胜，系列赛2-1夺赛点。卢伟此役将《孙子兵法》演绎得淋漓尽致。 来源：@CBA 首用“先为不可胜”：防守端重用怀特塞德与刘铮，亮出联盟第一防守效率，北京全场仅得66分追平赛季最低，半场29分，前三节43分。许利民赛后承认“输在了心理状态”，恰应了“不可胜在己，可胜在敌”。 再用“奇正相生”：刘铮提上首发成奇兵，全场4次抢断，段冉直言“他的防守是首…",
+    "content": "2026年5月20日，CBA半决赛第三回合，北京北汽主场五棵松迎战上海久事。上海81比66大胜，系列赛2-1夺赛点。卢伟此役将《孙子兵法》演绎得淋漓尽致。 来源：@CBA 首用“先为不可胜”：防守端重用怀特塞德与刘铮，亮出联盟第一防守效率，北京全场仅得66分追平赛季最低，半场29分，前三节43分。许利民赛后承认“输在了心理状态”，恰应了“不可胜在己，可胜在敌”。 再用“奇正相生”：刘铮提上首发成奇兵，全场4次抢断，段冉直言“他的防守是首节限制北京的关键”。古德温砍下28分6板6助，怀特塞德18分11板4帽，刘铮4抢…"
   },
   {
-    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/ccebedb58ac8",
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/ac12aef92ada",
     "feed_name": "简书 / 首页",
     "category": "娱乐",
-    "title": "用霍夫变换HoughLines检测直线2",
-    "link": "https://www.jianshu.com/p/ccebedb58ac8",
-    "pub_date": "2026-05-22 07:30:05",
-    "author": "大龙10",
-    "description": "书名：OpenCV计算机视觉编程攻略（第3版） 一、HoughLinesP函数 为解决上述问题(即测出的结果重复)并检测到线段（即包含端点的直线），人们提出了霍夫变换的改进版。这就是概率霍夫变换，在OpenCV中通过cv::HoughLinesP函数实现。我们用它创建LineFinder类，封装函数的参数： class LineFinder { private: // 原始图像 cv::Mat img; // 包含被检测直线的端点的向量…",
-    "content": "书名：OpenCV计算机视觉编程攻略（第3版） 作者：[加]罗伯特·拉戈尼尔 译者：相银初 出版社：人民邮电出版社 出版时间：2018-05 ISBN：9787115480934 一、HoughLinesP函数 为解决上述问题(即测出的结果重复)并检测到线段（即包含端点的直线），人们提出了霍夫变换的改进版。这就是概率霍夫变换，在OpenCV中通过cv::HoughLinesP函数实现。我们用它创建LineFinder类，封装函数的参数： class LineFinder { private: // 原始图像 cv:…"
+    "title": "7天前差点出局，7天后冲击冠军：中国U17到底换了什么？",
+    "link": "https://www.jianshu.com/p/ac12aef92ada",
+    "pub_date": "2026-05-22 16:34:42",
+    "author": "枫桥落夜",
+    "description": "5月10日凌晨，阿卜杜拉国王体育城的记分牌上，1-2的比分凝固成中国U17男足的死亡通知书。小组赛两连败，积分归零，出线概率仅剩6%。仅仅7天之后，同一片球场，这支球队以2-0完胜此前三战全胜、狂轰13球的澳大利亚，昂首挺进亚洲杯决赛。 从垫底鱼腩到冠军争夺者，这7天里发生的，不是运气触底反弹，而是一次从战术哲学到比赛气质的系统性重构。而最核心的答案，深埋在日本籍主帅浮嶋敏的战术笔记本里——他亲手推翻了自己曾经深信不疑的东西。 一、战术…",
+    "content": "5月10日凌晨，阿卜杜拉国王体育城的记分牌上，1-2的比分凝固成中国U17男足的死亡通知书。小组赛两连败，积分归零，出线概率仅剩6%。仅仅7天之后，同一片球场，这支球队以2-0完胜此前三战全胜、狂轰13球的澳大利亚，昂首挺进亚洲杯决赛。 从垫底鱼腩到冠军争夺者，这7天里发生的，不是运气触底反弹，而是一次从战术哲学到比赛气质的系统性重构。而最核心的答案，深埋在日本籍主帅浮嶋敏的战术笔记本里——他亲手推翻了自己曾经深信不疑的东西。 一、战术觉醒：从“学日本”到“打日本”的自我推翻 小组赛前两场，浮嶋敏试图让球队打出他骨…"
+  },
+  {
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/4d1cf5a37b22",
+    "feed_name": "简书 / 首页",
+    "category": "娱乐",
+    "title": "Scrawl 37:Keep fit(Gao Yuqi/Jiangsu football city league)",
+    "link": "https://www.jianshu.com/p/4d1cf5a37b22",
+    "pub_date": "2026-05-22 16:34:41",
+    "author": "生命中最美的是成长",
+    "description": "Gao Yuqi,a 14-year-old boy,gets up at 7 o'clock to run two kilometres every day in winter holiday.Doing exercise is part of his homework. Gao is not the only student to do so.Now many schools in China encourage students …",
+    "content": "Gao Yuqi,a 14-year-old boy,gets up at 7 o'clock to run two kilometres every day in winter holiday.Doing exercise is part of&nbsp; his homework. Gao is not the only student to do so.Now many schools in China encourage students to do some exercise,like running a…"
   },
   {
     "id": "娱乐-喷嚏图卦-https://www.dapenti.com/blog/more.asp?name=xilei&id=193162",
@@ -44,15 +55,15 @@
     "content": "【1】三例确诊六例疑似 印尼首都加强汉坦病毒疫情防范 印度尼西亚首都雅加达发现六起疑似汉坦病毒病例，当局已加强相关防范措施。 印尼《雅加达环球报》报道，雅加达卫生局局长阿尼星期一（5月18日）说，首都目前已确认三起汉坦病毒感染病例，另记录六起疑似病例，患者正接受监测。 【2】中国海关通知物流公司禁止进口 Nvidia 特供阉割版 5090D v2 【3】中科院发布的SMILE发射圆满成功后中欧双方团队的庆祝场面照 【4】人艰不贷~ 今年以来居民们一直在提前还贷，然后存款搬股市、基金….银行的传统存贷业务面临较大的压…"
   },
   {
-    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/6abbc8f88c03",
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/c42f55ab573a",
     "feed_name": "简书 / 首页",
     "category": "娱乐",
-    "title": "西梅如何大面积种植？那种种植的方法产量最高",
-    "link": "https://www.jianshu.com/p/6abbc8f88c03",
-    "pub_date": "2026-05-20 14:34:55",
-    "author": "青青点水",
-    "description": "导读： 西梅，也叫欧洲李（Prunus domestica），是一种甜度高、口感好、营养价值丰富的水果，近年来在市场上非常受欢迎。很多人想通过大面积种植西梅来获得好的收益，但不知道具体怎么操作。本文会用大白话讲清楚西梅的几种种植方法，对比哪种方法的产量最高，同时告诉大家目前国内哪些地方种西梅最多。全文遵守网络规范，语言干净、安全、通俗易懂。 一、西梅适合在哪些地方种植 目前国内种植西梅最多的地区是新疆，尤其是喀什、和田、伊犁等地。新疆光…",
-    "content": "导读： 西梅，也叫欧洲李（Prunus domestica），是一种甜度高、口感好、营养价值丰富的水果，近年来在市场上非常受欢迎。很多人想通过大面积种植西梅来获得好的收益，但不知道具体怎么操作。本文会用大白话讲清楚西梅的几种种植方法，对比哪种方法的产量最高，同时告诉大家目前国内哪些地方种西梅最多。全文遵守网络规范，语言干净、安全、通俗易懂。 一、西梅适合在哪些地方种植 目前国内种植西梅最多的地区是新疆，尤其是喀什、和田、伊犁等地。新疆光照时间长，昼夜温差大，有利于糖分积累，种出来的西梅甜度很高。其次是陕西、甘肃、山…"
+    "title": "2026.5.20-195",
+    "link": "https://www.jianshu.com/p/c42f55ab573a",
+    "pub_date": "2026-05-20 07:33:38",
+    "author": "槿梦空间",
+    "description": "原文：I learned that the reason we can't tickle ourselves is that your brain predicts the sensation and cancels it out, which basically means my brain is working against me when I'm trying to have fun. 译文：人为什么不能自己挠自己痒痒，因为大脑…",
+    "content": "原文：I learned that the reason we can't tickle ourselves is that your brain predicts the sensation and cancels it out, which basically means my brain is working against me when I'm trying to have fun. 译文：人为什么不能自己挠自己痒痒，因为大脑会提前预判然后直接屏蔽掉这个感觉，说白了就是我想自娱自乐的时候大脑在给我使绊子。"
   },
   {
     "id": "娱乐-喷嚏图卦-https://www.dapenti.com/blog/more.asp?name=xilei&id=193110",
