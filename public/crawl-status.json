@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-05-22T08:50:40.397Z",
-  "ended_at": "2026-05-22T08:50:40.611Z",
-  "duration_ms": 214,
+  "started_at": "2026-05-23T00:00:54.647Z",
+  "ended_at": "2026-05-23T00:00:54.859Z",
+  "duration_ms": 212,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -17,12 +17,12 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 45,
-    "failed_sources": 14,
-    "circuit_open_sources": 14,
+    "cache_hit_sources": 44,
+    "failed_sources": 15,
+    "circuit_open_sources": 15,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1294,
-    "total_items_after_retention": 1090,
+    "total_items_after_dedupe": 1291,
+    "total_items_after_retention": 1088,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -91,6 +91,12 @@
       "title": "极客公园",
       "url": "https://www.geekpark.net/rss",
       "reason": "request to https://www.geekpark.net/rss failed, reason: socket hang up",
+      "skippedByCircuit": true
+    },
+    {
+      "title": "MIT 科技评论 / 本周热榜",
+      "url": "https://plink.anyfeeder.com/mittrchina/hot",
+      "reason": "The operation was aborted.",
       "skippedByCircuit": true
     },
     {
@@ -167,6 +173,11 @@
       "title": "极客公园",
       "url": "https://www.geekpark.net/rss",
       "reason": "request to https://www.geekpark.net/rss failed, reason: socket hang up"
+    },
+    {
+      "title": "MIT 科技评论 / 本周热榜",
+      "url": "https://plink.anyfeeder.com/mittrchina/hot",
+      "reason": "The operation was aborted."
     },
     {
       "title": "超能网",
