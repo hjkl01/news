@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-05-24T08:19:33.095Z",
-  "ended_at": "2026-05-24T08:19:33.349Z",
-  "duration_ms": 254,
+  "started_at": "2026-05-24T23:55:22.806Z",
+  "ended_at": "2026-05-24T23:55:23.022Z",
+  "duration_ms": 216,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -17,12 +17,12 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 44,
-    "failed_sources": 15,
-    "circuit_open_sources": 15,
+    "cache_hit_sources": 45,
+    "failed_sources": 14,
+    "circuit_open_sources": 14,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1282,
-    "total_items_after_retention": 1077,
+    "total_items_after_dedupe": 1292,
+    "total_items_after_retention": 1084,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -91,12 +91,6 @@
       "title": "极客公园",
       "url": "https://www.geekpark.net/rss",
       "reason": "request to https://www.geekpark.net/rss failed, reason: socket hang up",
-      "skippedByCircuit": true
-    },
-    {
-      "title": "果壳网 / 科学人",
-      "url": "https://plink.anyfeeder.com/guokr/scientific",
-      "reason": "The operation was aborted.",
       "skippedByCircuit": true
     },
     {
@@ -173,11 +167,6 @@
       "title": "极客公园",
       "url": "https://www.geekpark.net/rss",
       "reason": "request to https://www.geekpark.net/rss failed, reason: socket hang up"
-    },
-    {
-      "title": "果壳网 / 科学人",
-      "url": "https://plink.anyfeeder.com/guokr/scientific",
-      "reason": "The operation was aborted."
     },
     {
       "title": "超能网",
