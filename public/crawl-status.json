@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-05-24T23:55:22.806Z",
-  "ended_at": "2026-05-24T23:55:23.022Z",
-  "duration_ms": 216,
+  "started_at": "2026-05-25T03:36:45.413Z",
+  "ended_at": "2026-05-25T03:36:45.577Z",
+  "duration_ms": 164,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -17,12 +17,12 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 45,
-    "failed_sources": 14,
-    "circuit_open_sources": 14,
+    "cache_hit_sources": 47,
+    "failed_sources": 12,
+    "circuit_open_sources": 12,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1292,
-    "total_items_after_retention": 1084,
+    "total_items_after_dedupe": 1358,
+    "total_items_after_retention": 1156,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -82,12 +82,6 @@
       "skippedByCircuit": true
     },
     {
-      "title": "阮一峰的网络日志",
-      "url": "https://www.ruanyifeng.com/blog/atom.xml",
-      "reason": "HTTP 403",
-      "skippedByCircuit": true
-    },
-    {
       "title": "极客公园",
       "url": "https://www.geekpark.net/rss",
       "reason": "request to https://www.geekpark.net/rss failed, reason: socket hang up",
@@ -103,12 +97,6 @@
       "title": "FreeBuf 关注黑客",
       "url": "https://plink.anyfeeder.com/freebuf",
       "reason": "HTTP 405",
-      "skippedByCircuit": true
-    },
-    {
-      "title": "微博 / 热搜榜",
-      "url": "https://plink.anyfeeder.com/weibo/search/hot",
-      "reason": "HTTP 503",
       "skippedByCircuit": true
     }
   ],
@@ -159,11 +147,6 @@
       "reason": "HTTP 403"
     },
     {
-      "title": "阮一峰的网络日志",
-      "url": "https://www.ruanyifeng.com/blog/atom.xml",
-      "reason": "HTTP 403"
-    },
-    {
       "title": "极客公园",
       "url": "https://www.geekpark.net/rss",
       "reason": "request to https://www.geekpark.net/rss failed, reason: socket hang up"
@@ -177,11 +160,6 @@
       "title": "FreeBuf 关注黑客",
       "url": "https://plink.anyfeeder.com/freebuf",
       "reason": "HTTP 405"
-    },
-    {
-      "title": "微博 / 热搜榜",
-      "url": "https://plink.anyfeeder.com/weibo/search/hot",
-      "reason": "HTTP 503"
     }
   ]
 }

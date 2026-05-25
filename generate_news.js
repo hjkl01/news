@@ -22,6 +22,26 @@ function writeJson(relativePath, data) {
   console.log(`Wrote ${data.length} records to ${relativePath}`);
 }
 
+function writeDataModule(relativePath, data) {
+  const filePath = path.join(__dirname, relativePath);
+  const folderPath = path.dirname(filePath);
+  if (!fs.existsSync(folderPath)) {
+    fs.mkdirSync(folderPath, { recursive: true });
+  }
+
+  const moduleContent = `const jsonData = ${JSON.stringify(data, null, 2)};\n\nexport default jsonData;\n`;
+  fs.writeFileSync(filePath, moduleContent);
+  console.log(`Wrote ${data.length} records to ${relativePath}`);
+}
+
+function removeIfExists(relativePath) {
+  const filePath = path.join(__dirname, relativePath);
+  if (fs.existsSync(filePath)) {
+    fs.unlinkSync(filePath);
+    console.log(`Removed legacy file ${relativePath}`);
+  }
+}
+
 function sortByLatest(items) {
   return [...items].sort((a, b) => {
     const ta = new Date(a.pub_date).getTime();
@@ -73,7 +93,7 @@ function generateToday(items) {
   const recent = sortByLatest(filterNoise(items))
     .slice(0, PAGE_LIMITS.home)
     .map(shrinkItem);
-  writeJson('src/app/data.json', recent);
+  writeDataModule('src/app/data.js', recent);
 }
 
 function generateCategoryData(items) {
@@ -93,7 +113,15 @@ function generateCategoryData(items) {
       .slice(0, PAGE_LIMITS[categoryName] || 120)
       .map(shrinkItem);
 
-    writeJson(`src/app/${folder}/data.json`, rows);
+    writeDataModule(`src/app/${folder}/data.js`, rows);
+  });
+}
+
+function cleanupLegacyDataJson() {
+  removeIfExists('src/app/data.json');
+
+  ['news', 'foreign', 'tech', 'code', 'forum', 'funny'].forEach((folder) => {
+    removeIfExists(`src/app/${folder}/data.json`);
   });
 }
 
@@ -101,6 +129,7 @@ function main() {
   const items = readItems();
   generateToday(items);
   generateCategoryData(items);
+  cleanupLegacyDataJson();
 }
 
 if (require.main === module) {
