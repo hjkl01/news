@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-05-25T06:04:53.905Z",
-  "ended_at": "2026-05-25T06:04:54.113Z",
-  "duration_ms": 208,
+  "started_at": "2026-05-25T09:51:36.268Z",
+  "ended_at": "2026-05-25T09:51:36.458Z",
+  "duration_ms": 190,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -21,8 +21,8 @@
     "failed_sources": 14,
     "circuit_open_sources": 14,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1292,
-    "total_items_after_retention": 1089,
+    "total_items_after_dedupe": 1295,
+    "total_items_after_retention": 1091,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -90,7 +90,7 @@
     {
       "title": "极客公园",
       "url": "https://www.geekpark.net/rss",
-      "reason": "The operation was aborted.",
+      "reason": "request to https://www.geekpark.net/rss failed, reason: socket hang up",
       "skippedByCircuit": true
     },
     {
@@ -166,7 +166,7 @@
     {
       "title": "极客公园",
       "url": "https://www.geekpark.net/rss",
-      "reason": "The operation was aborted."
+      "reason": "request to https://www.geekpark.net/rss failed, reason: socket hang up"
     },
     {
       "title": "超能网",
