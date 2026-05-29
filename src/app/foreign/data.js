@@ -1,5 +1,192 @@
 const jsonData = [
   {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260529-%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%A4%96%E9%95%BF-%E6%9C%9D%E9%B2%9C%E7%9B%AE%E5%89%8D%E4%BC%BC%E4%B9%8E%E6%97%A0%E6%84%8F%E4%B8%8E%E9%9F%A9-%E7%BE%8E%E6%8E%A5%E8%A7%A6",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "新加坡外长：朝鲜目前似乎无意与韩、美接触 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260529-%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%A4%96%E9%95%BF-%E6%9C%9D%E9%B2%9C%E7%9B%AE%E5%89%8D%E4%BC%BC%E4%B9%8E%E6%97%A0%E6%84%8F%E4%B8%8E%E9%9F%A9-%E7%BE%8E%E6%8E%A5%E8%A7%A6",
+    "pub_date": "2026-05-29 16:45:01",
+    "author": "",
+    "description": "29/05/2026 - 10:23 新加坡外长维文（Vivian Balakrishnan）在结束对朝鲜罕见的两天访问之后表示，这个受到国际政治孤立状态的国家目前似乎无意与美国、韩国或日本展开接触，而是选择加强其自给自足和军事威慑能力。 平壤已多次拒绝韩国政府提出的和平倡议，并向俄罗斯数千士兵支持其对乌克兰的入侵。 维文此次访问正值新加坡与朝鲜建交50周年，这也是他时隔8年后首次访问平壤。他是在结束两天访问后、周四在首尔向媒体做出上述…",
+    "content": "29/05/2026 - 10:23 新加坡外长维文（Vivian Balakrishnan）在结束对朝鲜罕见的两天访问之后表示，这个受到国际政治孤立状态的国家目前似乎无意与美国、韩国或日本展开接触，而是选择加强其自给自足和军事威慑能力。 平壤已多次拒绝韩国政府提出的和平倡议，并向俄罗斯数千士兵支持其对乌克兰的入侵。 维文此次访问正值新加坡与朝鲜建交50周年，这也是他时隔8年后首次访问平壤。他是在结束两天访问后、周四在首尔向媒体做出上述表示的。 维文说，朝鲜“现阶段，似乎不太愿意与外界接触，无论是美国，甚至包括韩国…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c3w20432v3zo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "法國網球公開賽：被拒絕握手的王欣瑜，做錯了什麼？",
+    "link": "https://www.bbc.com/zhongwen/articles/c3w20432v3zo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-05-29 16:34:23",
+    "author": "",
+    "description": "Getty Images / 王欣瑜在法网次轮比赛中不敌科帕奇 2026年法国网球公开赛（French Open）上，中国选手王欣瑜与德国球手塔玛拉・科帕奇（Tamara Korpatsch）发生言语争执，并在赛后被拒绝握手。 事件缘起于王欣瑜对自己的一次回球出界判决有异议，并在和主裁判讨论后走进对手场区查看球印。 这一举动违反了网球比赛规则，她最终也在本场比赛中以盘数1比2落败。 现场观众曾两度发出嘘声，分别是在王欣瑜走进对方场区，和…",
+    "content": "Getty Images / 王欣瑜在法网次轮比赛中不敌科帕奇 2026年法国网球公开赛（French Open）上，中国选手王欣瑜与德国球手塔玛拉・科帕奇（Tamara Korpatsch）发生言语争执，并在赛后被拒绝握手。 事件缘起于王欣瑜对自己的一次回球出界判决有异议，并在和主裁判讨论后走进对手场区查看球印。 这一举动违反了网球比赛规则，她最终也在本场比赛中以盘数1比2落败。 现场观众曾两度发出嘘声，分别是在王欣瑜走进对方场区，和赛后科帕奇在中国选手面前将手收回来之际。 王欣瑜事后已为越网行为道歉。 不过，这…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260529-%E6%B3%95%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%85%9A%E7%AC%AC%E4%B8%80%E4%B9%A6%E8%AE%B0%E7%A6%8F%E9%9B%B7%E8%AE%BF%E5%8F%B0-%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E4%BB%8E%E6%9C%AA%E7%BB%9F%E6%B2%BB%E8%BF%87%E5%8F%B0%E6%B9%BE%E5%93%AA%E6%80%95%E4%B8%80%E7%A7%92%E9%92%9F",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "法国社会党第一书记福雷访台：“中华人民共和国从未统治过台湾哪怕一秒钟” - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260529-%E6%B3%95%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%85%9A%E7%AC%AC%E4%B8%80%E4%B9%A6%E8%AE%B0%E7%A6%8F%E9%9B%B7%E8%AE%BF%E5%8F%B0-%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E4%BB%8E%E6%9C%AA%E7%BB%9F%E6%B2%BB%E8%BF%87%E5%8F%B0%E6%B9%BE%E5%93%AA%E6%80%95%E4%B8%80%E7%A7%92%E9%92%9F",
+    "pub_date": "2026-05-29 16:15:01",
+    "author": "",
+    "description": "29/05/2026 - 09:57 社会党第一书记奥利维尔·福雷（Olivier Faure）于5月23日至29日赴台湾进行议会访问。《解放报》驻台记者指出，福雷此行也是与法兰西不屈服党党魁梅朗雄在台湾问题上的立场划清界限的一种方式。 据《解放报》周五29日发自台北的报道说，这是一次兼具外交与政治意义的访问。奥利维尔·福雷此次赴台北访问，直至本周五（5月29日），向台湾表达了法国的支持——中国一直主张拥有台湾领土主权。福雷此次出行偕同…",
+    "content": "29/05/2026 - 09:57 社会党第一书记奥利维尔·福雷（Olivier Faure）于5月23日至29日赴台湾进行议会访问。《解放报》驻台记者指出，福雷此行也是与法兰西不屈服党党魁梅朗雄在台湾问题上的立场划清界限的一种方式。 据《解放报》周五29日发自台北的报道说，这是一次兼具外交与政治意义的访问。奥利维尔·福雷此次赴台北访问，直至本周五（5月29日），向台湾表达了法国的支持——中国一直主张拥有台湾领土主权。福雷此次出行偕同多位来自不同政治派别的法国议员，时间节点恰在让-吕克·梅朗雄就台湾问题发表争议性…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260529-%E9%A6%99%E6%B8%AF4%E6%9C%88%E5%87%BA%E5%8F%A3%E5%8D%8742-9-%E5%88%9B%E4%BA%94%E5%B9%B4%E5%A4%9A%E6%96%B0%E9%AB%98-%E6%83%9F%E7%94%B5%E5%AD%90%E4%BA%A7%E5%93%81%E5%A2%9E%E5%B9%85%E6%96%99%E6%94%BE%E7%BC%93",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "香港4月出口升42.9% 创五年多新高 惟电子产品增幅料放缓 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260529-%E9%A6%99%E6%B8%AF4%E6%9C%88%E5%87%BA%E5%8F%A3%E5%8D%8742-9-%E5%88%9B%E4%BA%94%E5%B9%B4%E5%A4%9A%E6%96%B0%E9%AB%98-%E6%83%9F%E7%94%B5%E5%AD%90%E4%BA%A7%E5%93%81%E5%A2%9E%E5%B9%85%E6%96%99%E6%94%BE%E7%BC%93",
+    "pub_date": "2026-05-29 15:15:02",
+    "author": "",
+    "description": "29/05/2026 - 08:56 受惠於全球对人工智能(AI)相关电子产品的需求持续强劲，香港4月份的整体出口和进口货值分别上升 42.9%和 44.4%，远高於市场预期；当中，出口已连升26个月，增幅更是五年多以来新高。业界和金融分析师估计，电子产品出口增加已持续约一年，下半年出口按年增幅可能会收窄，估计全年出口或录得一至两成增长。 在中国这个香港进出口地之首在4 月取得9.8%出口增幅和20.6%进口增长的佳绩下，香港政府统计处…",
+    "content": "29/05/2026 - 08:56 受惠於全球对人工智能(AI)相关电子产品的需求持续强劲，香港4月份的整体出口和进口货值分别上升 42.9%和 44.4%，远高於市场预期；当中，出口已连升26个月，增幅更是五年多以来新高。业界和金融分析师估计，电子产品出口增加已持续约一年，下半年出口按年增幅可能会收窄，估计全年出口或录得一至两成增长。 在中国这个香港进出口地之首在4 月取得9.8%出口增幅和20.6%进口增长的佳绩下，香港政府统计处昨(28日)午公布的4月贸易数字亦远较市场预期好。公布指出，4月份的商品整体出口…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260529-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%97%A2%E8%B5%9E%E8%83%A1%E8%80%80%E9%82%A6-%E5%A4%A9%E5%AE%89%E9%97%A8%E6%AF%8D%E4%BA%B2-%E5%90%81%E7%A7%89%E6%8C%81%E5%85%B6-%E6%9C%89%E9%94%99%E5%BF%85%E7%BA%A0-%E7%B2%BE%E7%A5%9E%E4%B8%BA%E5%85%AD%E5%9B%9B%E5%B9%B3%E5%8F%8D",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "习近平既赞胡耀邦 「天安门母亲」吁秉持其「有错必纠」精神为六四平反 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260529-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%97%A2%E8%B5%9E%E8%83%A1%E8%80%80%E9%82%A6-%E5%A4%A9%E5%AE%89%E9%97%A8%E6%AF%8D%E4%BA%B2-%E5%90%81%E7%A7%89%E6%8C%81%E5%85%B6-%E6%9C%89%E9%94%99%E5%BF%85%E7%BA%A0-%E7%B2%BE%E7%A5%9E%E4%B8%BA%E5%85%AD%E5%9B%9B%E5%B9%B3%E5%8F%8D",
+    "pub_date": "2026-05-29 15:15:02",
+    "author": "",
+    "description": "29/05/2026 - 08:52 今年是因纪念为人民平反的中共前总书记胡耀邦逝世而触发的「六四事件」37周年，由当年死难者家属组成的「天安门母亲」，呼吁中国国家主席习近平体现他自己赞扬胡「无私无畏丶有错必纠的精神」，公正解决这一人间悲剧，包括公布「六四」真相丶赔偿难属及追究担责者的法律责任。 追责31年 43%联署者携憾而亡 在「六四」37周年前夕，「天安门母亲」在网上发表由107位难属联名发表的周年祭文章。联署人数较去年少一人，是…",
+    "content": "29/05/2026 - 08:52 今年是因纪念为人民平反的中共前总书记胡耀邦逝世而触发的「六四事件」37周年，由当年死难者家属组成的「天安门母亲」，呼吁中国国家主席习近平体现他自己赞扬胡「无私无畏丶有错必纠的精神」，公正解决这一人间悲剧，包括公布「六四」真相丶赔偿难属及追究担责者的法律责任。 追责31年 43%联署者携憾而亡 在「六四」37周年前夕，「天安门母亲」在网上发表由107位难属联名发表的周年祭文章。联署人数较去年少一人，是因为在过去一年期间，87岁的熊辉因病离世，令难属死亡人数增至80人，意味在向政府…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c1d2146r1ezo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "「飛機突然跳到一千英里外」：擾亂航空旅行的GPS暗戰",
+    "link": "https://www.bbc.com/zhongwen/articles/c1d2146r1ezo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-05-29 14:25:19",
+    "author": "",
+    "description": "Artur Rodionov / 飞行员阿图尔·罗季奥诺夫表示，GPS欺骗现在成为他不得不应对的“常见”事件。 上周，一架载有英国国防大臣约翰·希利（John Healey，约翰·希利）的英国皇家空军（RAF）专机，飞越靠近俄罗斯边境的爱沙尼亚上空时，突然发生奇怪情况。 根据BBC检视的飞行数据，这架飞机的应答器突然显示它正身处俄罗斯境内深处，距离数秒前的位置约300公里。 系统甚至显示，飞机正以每小时仅11公里的速度在圣彼得堡附近一个…",
+    "content": "Artur Rodionov / 飞行员阿图尔·罗季奥诺夫表示，GPS欺骗现在成为他不得不应对的“常见”事件。 上周，一架载有英国国防大臣约翰·希利（John Healey，约翰·希利）的英国皇家空军（RAF）专机，飞越靠近俄罗斯边境的爱沙尼亚上空时，突然发生奇怪情况。 根据BBC检视的飞行数据，这架飞机的应答器突然显示它正身处俄罗斯境内深处，距离数秒前的位置约300公里。 系统甚至显示，飞机正以每小时仅11公里的速度在圣彼得堡附近一个湖泊上空飞行。 但这一切都不是真的。飞机的导航系统遭到了全球卫星定位系统（GPS…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20260529/anthropic-tops-openai-valuation/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "Anthropic估值超OpenAI，成全球最“贵”AI初创公司",
+    "link": "https://cn.nytimes.com/business/20260529/anthropic-tops-openai-valuation/dual",
+    "pub_date": "2026-05-29 14:06:02",
+    "author": "",
+    "description": "MIKE ISAAC, CADE METZ2026年5月29日Anthropic的最新模型Claude Opus 4.8特别擅长氛围编码，即人工智能根据口语化英语提示词编写代码的过程。 Jason Henry for The New York Times Anthropic, once the lesser-known artificial intelligence competitor to OpenAI, has been on a…",
+    "content": "MIKE ISAAC, CADE METZ 2026年5月29日 Anthropic的最新模型Claude Opus 4.8特别擅长氛围编码，即人工智能根据口语化英语提示词编写代码的过程。 Jason Henry for The New York Times Anthropic, once the lesser-known artificial intelligence competitor to OpenAI, has been on an inexorable rise over the past few mo…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cvgz7pp4gkgo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "光纖無人機：學自烏克蘭戰場，成了黎真主黨攻擊以色列的新武器",
+    "link": "https://www.bbc.com/zhongwen/articles/cvgz7pp4gkgo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-05-29 13:36:30",
+    "author": "",
+    "description": "Reuters / 光纤无人机已成为真主党对抗以色列的主要武器。 光纤无人机如今已成为真主党对抗以色列士兵与平民的主要武器。在所谓的停火协议进入第六周时，该武器活跃于黎巴嫩边境两侧，被视为当地最大的威胁。 周三（5月27日），一名以色列士兵在靠近该国边境社区肖梅拉（Shomera）的一次无人机袭击中死亡，另有两名士兵受伤。 自停火生效以来，共有11名以色列士兵与一名民间国防承包商丧生，其中8人死于光纤无人机攻击。 大多数袭击目标都是目前…",
+    "content": "Reuters / 光纤无人机已成为真主党对抗以色列的主要武器。 光纤无人机如今已成为真主党对抗以色列士兵与平民的主要武器。在所谓的停火协议进入第六周时，该武器活跃于黎巴嫩边境两侧，被视为当地最大的威胁。 周三（5月27日），一名以色列士兵在靠近该国边境社区肖梅拉（Shomera）的一次无人机袭击中死亡，另有两名士兵受伤。 自停火生效以来，共有11名以色列士兵与一名民间国防承包商丧生，其中8人死于光纤无人机攻击。 大多数袭击目标都是目前仍占领黎巴嫩南部大片地区的以色列军队，但根据监察冲突局势的以色列智库“阿尔玛研究…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/culture/20260529/route-66-100-years-cars/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "沿66号公路，驶过一个世纪",
+    "link": "https://cn.nytimes.com/culture/20260529/route-66-100-years-cars/dual",
+    "pub_date": "2026-05-29 13:36:01",
+    "author": "",
+    "description": "JAMIE LINCOLN KITMAN2026年5月29日约翰·克拉夫奇克的1966款奥兹莫比尔。在战后经济繁荣时期，无数像他这辆奥兹莫比尔一样的汽车纷纷向西进发。 U.S. Route 66, the Mother Road of novels, songs and movies and the highway that ran parallel with America’s postwar boom years, is celeb…",
+    "content": "JAMIE LINCOLN KITMAN 2026年5月29日 约翰·克拉夫奇克的1966款奥兹莫比尔。在战后经济繁荣时期，无数像他这辆奥兹莫比尔一样的汽车纷纷向西进发。 U.S. Route 66, the Mother Road of novels, songs and movies and the highway that ran parallel with America’s postwar boom years, is celebrating its 100th anniversary. Driving …"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20260529/europe-china-trade-war-electric-cars/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "欧洲与中国贸易战风险升高，原因何在？",
+    "link": "https://cn.nytimes.com/business/20260529/europe-china-trade-war-electric-cars/dual",
+    "pub_date": "2026-05-29 13:06:02",
+    "author": "",
+    "description": "JEANNA SMIALEK, 艾莎2026年5月29日5月，在中国东部城市杭州的港口等待出口的中国产电动汽车。 Agence France-Presse — Getty Images Kaja Kallas, the top European Union diplomat, recently suggested that ending the continent’s dependence on China was like tryin…",
+    "content": "JEANNA SMIALEK, 艾莎 2026年5月29日 5月，在中国东部城市杭州的港口等待出口的中国产电动汽车。 Agence France-Presse — Getty Images Kaja Kallas, the top European Union diplomat, recently suggested that ending the continent’s dependence on China was like trying to cure a disease. “Chemotherapy” mi…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c1521vl09yko/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "美國和伊朗是接近和平，還是正在滑向戰爭深淵？",
+    "link": "https://www.bbc.com/zhongwen/articles/c1521vl09yko/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-05-29 12:33:44",
+    "author": "",
+    "description": "Reuters / 美国总统特朗普周三表示，他对正在与伊朗谈判的协议条款“仍不满意”。 岌岌可危的停火协议，外交进程“取得进展”，总统“并不满意”，以及海湾地区此起彼伏的爆炸声。 美伊关系目前错综复杂，究竟该如何解读？我们距离和平更近，还是正滑向战争深渊？ 白宫最新消息称，双方谈判代表已就延长停火协议60天的框架达成一致，以便为进一步谈判留出空间——但这仍需美国总统特朗普的批准。伊朗方面尚未证实这项消息。 此前一周，双方经受了考验。自4…",
+    "content": "Reuters / 美国总统特朗普周三表示，他对正在与伊朗谈判的协议条款“仍不满意”。 岌岌可危的停火协议，外交进程“取得进展”，总统“并不满意”，以及海湾地区此起彼伏的爆炸声。 美伊关系目前错综复杂，究竟该如何解读？我们距离和平更近，还是正滑向战争深渊？ 白宫最新消息称，双方谈判代表已就延长停火协议60天的框架达成一致，以便为进一步谈判留出空间——但这仍需美国总统特朗普的批准。伊朗方面尚未证实这项消息。 此前一周，双方经受了考验。自4月8日停火协议生效以来，其持续时间已远远超过了先前的交战阶段。 针对美国最近的空…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20260529/treasury-trump-250-bill/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "美国财政部拟将特朗普肖像印在新版250美元纸币上",
+    "link": "https://cn.nytimes.com/usa/20260529/treasury-trump-250-bill/dual",
+    "pub_date": "2026-05-29 12:06:03",
+    "author": "",
+    "description": "ALAN RAPPEPORT2026年5月29日 Treasury Secretary Scott Bessent said on Thursday that his agency had been working on a mock-up of a $250 note bearing the face of President Trump in preparation for an addition to the nation’s p…",
+    "content": "ALAN RAPPEPORT 2026年5月29日 Treasury Secretary Scott Bessent said on Thursday that his agency had been working on a mock-up of a $250 note bearing the face of President Trump in preparation for an addition to the nation’s paper currency that would for the first …"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20260529/iran-us-blockade-strait-hormuz/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "美国与伊朗海上对峙：一场“看谁先眨眼认输”的僵局",
+    "link": "https://cn.nytimes.com/world/20260529/iran-us-blockade-strait-hormuz/dual",
+    "pub_date": "2026-05-29 11:06:02",
+    "author": "",
+    "description": "NICHOLAS KULISH, JOHN ISMAY2026年5月29日 Naval blockades, military history has shown, require patience. That is not the leading attribute of the American commander in chief. 军事史告诉我们，海上封锁需要耐心。而这恰恰不是这位美国三军统帅最突出的品质。 So when Pr…",
+    "content": "NICHOLAS KULISH, JOHN ISMAY 2026年5月29日 Naval blockades, military history has shown, require patience. That is not the leading attribute of the American commander in chief. 军事史告诉我们，海上封锁需要耐心。而这恰恰不是这位美国三军统帅最突出的品质。 So when President Trump imposed a blockade of Ira…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20260529/inflation-pce-gauge/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "美国物价正以三年来最快速度上涨",
+    "link": "https://cn.nytimes.com/usa/20260529/inflation-pce-gauge/dual",
+    "pub_date": "2026-05-29 10:06:02",
+    "author": "",
+    "description": "COLBY SMITH2026年5月29日 Vincent Alban/The New York Times A measure of inflation closely watched by the Federal Reserve accelerated in April to a three-year high, reinforcing the central bank’s budding support to consider r…",
+    "content": "COLBY SMITH 2026年5月29日 Vincent Alban/The New York Times A measure of inflation closely watched by the Federal Reserve accelerated in April to a three-year high, reinforcing the central bank’s budding support to consider raising interest rates if price pressure…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20260529/temu-fine-european-union/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "Temu因销售不合规商品被欧盟罚款2亿欧元",
+    "link": "https://cn.nytimes.com/business/20260529/temu-fine-european-union/dual",
+    "pub_date": "2026-05-29 08:36:02",
+    "author": "",
+    "description": "艾莎, JEANNA SMIALEK2026年5月29日此次针对Temu的处罚出台之际，欧洲正对中国企业在当地销售商品的行为展开更广泛的审查。欧盟委员会目前还在调查Shein和AliExpress——Temu的两家中国竞争对手。 Ksenia Kuleshova for The New York Times The low-cost Chinese e-commerce platform Temu was fined 200 milli…",
+    "content": "艾莎, JEANNA SMIALEK 2026年5月29日 此次针对Temu的处罚出台之际，欧洲正对中国企业在当地销售商品的行为展开更广泛的审查。欧盟委员会目前还在调查Shein和AliExpress——Temu的两家中国竞争对手。 Ksenia Kuleshova for The New York Times The low-cost Chinese e-commerce platform Temu was fined 200 million euros ($232 million) by the Europea…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cwy203759ywo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "日本飛驒山難倖存港人：如果再選一次，我會不去",
+    "link": "https://www.bbc.com/zhongwen/articles/cwy203759ywo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-05-29 08:23:00",
+    "author": "",
+    "description": "PROVIDED / 5月5日凌晨1点半，KF发现月光照亮了山脊。 5月4日晚上，在帐篷布内的KF突然感受到一道光，醒了过来。 自白天开始，他和旅伴就被困在日本飞驒山脉海拔约3000米的岩壁上，进退不得。暴风雪袭来，他用帐篷布把自己包成一只蛹，在里头醒醒睡睡，不知道时间过了多久——直到光来了。 KF发现那是月光。雪停了，雾散了，眼前都是山的棱线。那刻他想，天亮后是好天，自己将会得救。 5月1日，他与旅伴开始攀登飞驒山脉。旅程原定三天，天…",
+    "content": "PROVIDED / 5月5日凌晨1点半，KF发现月光照亮了山脊。 5月4日晚上，在帐篷布内的KF突然感受到一道光，醒了过来。 自白天开始，他和旅伴就被困在日本飞驒山脉海拔约3000米的岩壁上，进退不得。暴风雪袭来，他用帐篷布把自己包成一只蛹，在里头醒醒睡睡，不知道时间过了多久——直到光来了。 KF发现那是月光。雪停了，雾散了，眼前都是山的棱线。那刻他想，天亮后是好天，自己将会得救。 5月1日，他与旅伴开始攀登飞驒山脉。旅程原定三天，天气在第三天恶化，二人受困雪山。他们在第四天尝试游绳下降，反而被困在了岩壁上。到5…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260528-%E5%9F%83%E5%8D%9A%E6%8B%89-%E4%B8%96%E5%8D%AB%E6%80%BB%E5%B9%B2%E4%BA%8B%E5%89%8D%E5%BE%80%E9%87%91%E6%B2%99%E8%90%A8%EF%BC%8C%E9%9D%9E%E7%9B%9F%E5%8D%AB%E7%94%9F%E6%9C%BA%E6%9E%84%E6%89%BF%E8%AF%BA%E6%8E%A8%E5%87%BA%E7%96%AB%E8%8B%97",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "埃博拉：世卫总干事前往金沙萨，非盟卫生机构承诺推出疫苗 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260528-%E5%9F%83%E5%8D%9A%E6%8B%89-%E4%B8%96%E5%8D%AB%E6%80%BB%E5%B9%B2%E4%BA%8B%E5%89%8D%E5%BE%80%E9%87%91%E6%B2%99%E8%90%A8%EF%BC%8C%E9%9D%9E%E7%9B%9F%E5%8D%AB%E7%94%9F%E6%9C%BA%E6%9E%84%E6%89%BF%E8%AF%BA%E6%8E%A8%E5%87%BA%E7%96%AB%E8%8B%97",
+    "pub_date": "2026-05-29 07:15:02",
+    "author": "",
+    "description": "29/05/2026 - 01:05 为更好地应对埃博拉疫情，世卫组织总干事谭德塞预计周四晚抵达金沙萨。与此同时，非洲联盟（AU）卫生机构承诺将在今年内推出疫苗。 世界卫生组织（WHO）总干事谭德塞预计周四晚抵达刚果民主共和国（刚果（金））首都金沙萨，随后将于周五前往此次埃博拉疫情的中心--伊图里省。谭德塞在致刚果（金）民众的一封公开信中写道，“你们并不孤单”，并呼吁“现在就团结行动”。 与此同时，非洲联盟（AU）卫生机构承诺将在今年内…",
+    "content": "29/05/2026 - 01:05 为更好地应对埃博拉疫情，世卫组织总干事谭德塞预计周四晚抵达金沙萨。与此同时，非洲联盟（AU）卫生机构承诺将在今年内推出疫苗。 世界卫生组织（WHO）总干事谭德塞预计周四晚抵达刚果民主共和国（刚果（金））首都金沙萨，随后将于周五前往此次埃博拉疫情的中心--伊图里省。谭德塞在致刚果（金）民众的一封公开信中写道，“你们并不孤单”，并呼吁“现在就团结行动”。 与此同时，非洲联盟（AU）卫生机构承诺将在今年内推出疫苗。 法新社报道，此次埃博拉疫情，已经从刚果（金）东北部的伊图里省扩散至邻…"
+  },
+  {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260528-%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%E5%AF%B9%E8%AF%9D-%E8%91%A3%E5%86%9B%E5%86%8D%E6%AC%A1%E7%BC%BA%E5%B8%AD-%E8%B0%81%E8%B7%9F%E8%B0%81%E5%AF%B9%E8%AF%9D",
     "feed_name": "RFI 法国国际广播电台",
     "category": "国外",
@@ -165,61 +352,6 @@ const jsonData = [
     "content": "28/05/2026 - 14:53 法新社28日北京消息，中国军队表示，周三在南中国海一处有争议海域，出动海空力量将一艘荷兰护卫舰驱离其控制的水域。荷兰方面坚称，其护卫舰当时位于国际水域。 中国军方发言人周三晚间在社交媒体上发表声明称，中国指挥部“调动海空军力量，并依据相关法律法规采取必要措施，包括口头警告和电子干扰，迫使该舰驶离”。 据法新社介绍，这起涉及荷兰护卫舰德- 鲁伊特（De Ruyter）号事件发生在西沙群岛，该群岛位于中国和越南海岸的中间位置，两国对此存在主权争议。1974年，中国海军在一场海战后重…"
   },
   {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260528-%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E6%96%B0%E4%B8%80%E8%BD%AE%E7%A9%BA%E8%A2%AD-%E4%BC%8A%E6%9C%97%E8%BD%B0%E7%82%B8%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "美国对伊朗发动新一轮空袭 伊朗轰炸美军基地 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260528-%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E6%96%B0%E4%B8%80%E8%BD%AE%E7%A9%BA%E8%A2%AD-%E4%BC%8A%E6%9C%97%E8%BD%B0%E7%82%B8%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0",
-    "pub_date": "2026-05-28 21:15:02",
-    "author": "",
-    "description": "28/05/2026 - 14:14 美国周三晚至周四凌晨击落四架伊朗无人机，并空袭了伊朗南部一个地面基地，引发德黑兰报复，德黑兰随后袭击了一个美国基地。这是停火以来双方最严重的冲突。特朗普周三威胁若没有满意的协议，“我们就只能把事情干到底”。 一位美国官员表示，四架对“霍尔木兹海峡周边构成威胁”的攻击型无人机已被击落，他补充说，美军还打击了“位于阿巴斯港的一个地面控制站，该站威胁要发射第五架无人机”。 这名不愿透露姓名的美国官员强调称…",
-    "content": "28/05/2026 - 14:14 美国周三晚至周四凌晨击落四架伊朗无人机，并空袭了伊朗南部一个地面基地，引发德黑兰报复，德黑兰随后袭击了一个美国基地。这是停火以来双方最严重的冲突。特朗普周三威胁若没有满意的协议，“我们就只能把事情干到底”。 一位美国官员表示，四架对“霍尔木兹海峡周边构成威胁”的攻击型无人机已被击落，他补充说，美军还打击了“位于阿巴斯港的一个地面控制站，该站威胁要发射第五架无人机”。 这名不愿透露姓名的美国官员强调称 “这些行动是克制的、纯粹防御性的，且旨在维持停火”。 此前，伊朗媒体报道，周四…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260528-%E5%88%86%E6%9E%90-%E7%BE%8E%E5%9B%BD%E6%94%BF%E7%AD%96%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E5%92%8C%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E5%B0%86%E4%B8%BB%E5%AF%BC%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%E5%AF%B9%E8%AF%9D",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "分析：美国政策不确定性和伊朗战争将主导2026香格里拉对话 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260528-%E5%88%86%E6%9E%90-%E7%BE%8E%E5%9B%BD%E6%94%BF%E7%AD%96%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E5%92%8C%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E5%B0%86%E4%B8%BB%E5%AF%BC%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%E5%AF%B9%E8%AF%9D",
-    "pub_date": "2026-05-28 21:15:02",
-    "author": "",
-    "description": "28/05/2026 - 14:08 一年一度的香格里拉对话，亚太地区最重要的防务论坛5月29号至31号在新加坡举行。分析认为，围绕美国政策的不确定性、美以对伊战争以及台湾问题日益紧张的局势预计将成为本周香格里拉对话的焦点。 新加坡国立大学政治学系副庄嘉颖教授接受路透社采访时指出，今年是美国国防部长赫格塞斯在美以伊冲突之后出席香格里拉对话。而目前人们对美国的承诺——即便不是其意图——对其能力肯定也抱有更大的怀疑。此外，人们对美国政策的不…",
-    "content": "28/05/2026 - 14:08 一年一度的香格里拉对话，亚太地区最重要的防务论坛5月29号至31号在新加坡举行。分析认为，围绕美国政策的不确定性、美以对伊战争以及台湾问题日益紧张的局势预计将成为本周香格里拉对话的焦点。 新加坡国立大学政治学系副庄嘉颖教授接受路透社采访时指出，今年是美国国防部长赫格塞斯在美以伊冲突之后出席香格里拉对话。而目前人们对美国的承诺——即便不是其意图——对其能力肯定也抱有更大的怀疑。此外，人们对美国政策的不稳定性也更加担忧。因此，海格塞斯的讲话以及各国的反应将至关重要。他可能会被要求更…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260528-%E9%AA%87%E5%AE%A2%E6%94%BB%E9%99%B7%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%A4%96%E7%BB%9F%E6%88%98%E7%BD%91%E7%AB%99-%E8%A6%81%E6%B1%82%E5%8C%97%E4%BA%AC%E9%87%8A%E6%94%BE%E9%BB%8E%E6%99%BA%E8%8B%B1",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "骇客攻陷中国海外统战网站 要求北京释放黎智英 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260528-%E9%AA%87%E5%AE%A2%E6%94%BB%E9%99%B7%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%A4%96%E7%BB%9F%E6%88%98%E7%BD%91%E7%AB%99-%E8%A6%81%E6%B1%82%E5%8C%97%E4%BA%AC%E9%87%8A%E6%94%BE%E9%BB%8E%E6%99%BA%E8%8B%B1",
-    "pub_date": "2026-05-28 20:15:02",
-    "author": "",
-    "description": "28/05/2026 - 13:47 台湾自由时报28日引述资安人士披露，骇客疑似不满北京拒绝释放黎智英，今天凌晨接连攻陷2个中国海外统战网站，将首页置换成黎智英的照片，并写上「释放黎智英、还他自由」等诉求。 「中美友谊交流（China-U.S. Friendship Exchange）」公司的官网首页出现粤语「释放肥佬黎、还他自由身」的画面。 「巴拿马促统会」首页则被换成黎智英戴口罩、双手被铐的黑白照片，以红字西班牙文叠加「释放黎智英…",
-    "content": "28/05/2026 - 13:47 台湾自由时报28日引述资安人士披露，骇客疑似不满北京拒绝释放黎智英，今天凌晨接连攻陷2个中国海外统战网站，将首页置换成黎智英的照片，并写上「释放黎智英、还他自由」等诉求。 「中美友谊交流（China-U.S. Friendship Exchange）」公司的官网首页出现粤语「释放肥佬黎、还他自由身」的画面。 「巴拿马促统会」首页则被换成黎智英戴口罩、双手被铐的黑白照片，以红字西班牙文叠加「释放黎智英、还他自由」等标语。 据台湾自由时报介绍，这次被锁定的2个网站，都与北京海外统战…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260528-%E6%9D%80%E7%8C%AA%E7%9B%98-%E8%99%90%E6%9D%80%E4%B8%80%E9%9F%A9%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F-%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%88%A4%E5%A4%84%E5%85%AD%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%BB%88%E8%BA%AB%E7%9B%91%E7%A6%81",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "“杀猪盘”虐杀一韩国留学生 柬埔寨判处六名中国人终身监禁 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260528-%E6%9D%80%E7%8C%AA%E7%9B%98-%E8%99%90%E6%9D%80%E4%B8%80%E9%9F%A9%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F-%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%88%A4%E5%A4%84%E5%85%AD%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%BB%88%E8%BA%AB%E7%9B%91%E7%A6%81",
-    "pub_date": "2026-05-28 18:45:02",
-    "author": "",
-    "description": "28/05/2026 - 11:57 柬埔寨一家法院周三以2025年虐杀了一名韩国留学生的罪名，判处六名中国公民终身监禁，被告被指控是网络诈骗团伙的成员。 韩国留学生在柬埔寨遭受的暴力行为在韩国引发了普遍的愤慨，韩国已向柬埔寨派遣了一个特别工作组，与柬方共同打击跨国网络诈骗。 法新社指出，近年来，价值数十亿美元的诈骗产业在柬埔寨呈爆炸式增长，据专家称，成千上万的外国人卷入了爱情骗局和加密货币骗局，其中一些人是自愿的，而另一些人则是被有组…",
-    "content": "28/05/2026 - 11:57 柬埔寨一家法院周三以2025年虐杀了一名韩国留学生的罪名，判处六名中国公民终身监禁，被告被指控是网络诈骗团伙的成员。 韩国留学生在柬埔寨遭受的暴力行为在韩国引发了普遍的愤慨，韩国已向柬埔寨派遣了一个特别工作组，与柬方共同打击跨国网络诈骗。 法新社指出，近年来，价值数十亿美元的诈骗产业在柬埔寨呈爆炸式增长，据专家称，成千上万的外国人卷入了爱情骗局和加密货币骗局，其中一些人是自愿的，而另一些人则是被有组织犯罪集团胁迫的。 根据法院声明，贡布省的一家法院判处六名年龄在30岁至54岁之…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260528-%E4%B8%AD%E5%9B%BD%E5%A4%96%E9%95%BF%E7%8E%8B%E6%AF%85%E7%A7%B0%E8%B5%9E%E5%8F%A4%E5%B7%B4%E6%8A%B5%E5%BE%A1%E7%BE%8E%E5%9B%BD%E5%8E%8B%E5%8A%9B%E7%9A%84%E8%83%BD%E5%8A%9B",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "中国外长王毅称赞古巴抵御美国压力的能力 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260528-%E4%B8%AD%E5%9B%BD%E5%A4%96%E9%95%BF%E7%8E%8B%E6%AF%85%E7%A7%B0%E8%B5%9E%E5%8F%A4%E5%B7%B4%E6%8A%B5%E5%BE%A1%E7%BE%8E%E5%9B%BD%E5%8E%8B%E5%8A%9B%E7%9A%84%E8%83%BD%E5%8A%9B",
-    "pub_date": "2026-05-28 16:45:02",
-    "author": "",
-    "description": "28/05/2026 - 10:25 中国外交部长王毅周三（5月27日）在纽约联合国总部会见古巴外交部长布鲁诺·罗德里格斯·帕里利亚（Bruno Rodríguez Parrilla）时，赞扬古巴人民顶住美国压力、坚持抵抗的精神。 王毅对罗德里格斯表示，古巴人民“坚定维权，展现出反对外来封锁干涉的坚定意志，赢得国际社会的尊重”。他重申，中国坚持维护以联合国为核心的国际体系，“反对各种强权霸凌”。 罗德里格斯则称，“感谢中方坚定支持古维护…",
-    "content": "28/05/2026 - 10:25 中国外交部长王毅周三（5月27日）在纽约联合国总部会见古巴外交部长布鲁诺·罗德里格斯·帕里利亚（Bruno Rodríguez Parrilla）时，赞扬古巴人民顶住美国压力、坚持抵抗的精神。 王毅对罗德里格斯表示，古巴人民“坚定维权，展现出反对外来封锁干涉的坚定意志，赢得国际社会的尊重”。他重申，中国坚持维护以联合国为核心的国际体系，“反对各种强权霸凌”。 罗德里格斯则称，“感谢中方坚定支持古维护主权安全”，并表示将“继续在涉台、涉疆、涉港等问题上支持中方正义立场”。 自19…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c0r2yx01g5go/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -260,8 +392,8 @@ const jsonData = [
     "link": "https://www.bbc.com/zhongwen/articles/cwy2lkzxxe7o/simp?at_medium=RSS&at_campaign=rss",
     "pub_date": "2026-05-28 12:42:16",
     "author": "",
-    "description": "Getty Images / 王欣瑜（左）走到德国球员塔玛拉·科帕奇的场地一侧后，与她对峙。 德国球手塔玛拉・科帕奇（Tamara Korpatsch）表示，如果她真的在对阵中国球手王欣瑜时作弊，“那会很丢脸”。 两人在法国网球公开赛次轮比赛中爆发激烈争执。 在与王心瑜的第二轮比赛中，科帕奇最终以6-2、2-6、6-3的比分取胜，但赛后拒绝与对手握手，令这场比赛因持续紧张气氛而蒙上阴影。 事件起因于一个关键争议球。当时主裁判判定王欣瑜的…",
-    "content": "Getty Images / 王欣瑜（左）走到德国球员塔玛拉·科帕奇的场地一侧后，与她对峙。 德国球手塔玛拉・科帕奇（Tamara Korpatsch）表示，如果她真的在对阵中国球手王欣瑜时作弊，“那会很丢脸”。 两人在法国网球公开赛次轮比赛中爆发激烈争执。 在与王心瑜的第二轮比赛中，科帕奇最终以6-2、2-6、6-3的比分取胜，但赛后拒绝与对手握手，令这场比赛因持续紧张气氛而蒙上阴影。 事件起因于一个关键争议球。当时主裁判判定王欣瑜的一球落在线外，但王欣瑜随即走到科帕奇一侧场区，检查球印。 她的举动遭现场观众报以…"
+    "description": "Getty Images / 王欣瑜（左）走到德国球员塔玛拉·科帕奇的场地一侧后，与她对峙。 德国球手塔玛拉・科帕奇（Tamara Korpatsch）表示，如果她真的在对阵中国球手王欣瑜时作弊，“那会很丢脸”。 两人在法国网球公开赛次轮比赛中爆发激烈争执。 在与王欣瑜的第二轮比赛中，科帕奇最终以6-2、2-6、6-3的比分取胜，但赛后拒绝与对手握手，令这场比赛因持续紧张气氛而蒙上阴影。 事件起因于一个关键争议球。当时主裁判判定王欣瑜的…",
+    "content": "Getty Images / 王欣瑜（左）走到德国球员塔玛拉·科帕奇的场地一侧后，与她对峙。 德国球手塔玛拉・科帕奇（Tamara Korpatsch）表示，如果她真的在对阵中国球手王欣瑜时作弊，“那会很丢脸”。 两人在法国网球公开赛次轮比赛中爆发激烈争执。 在与王欣瑜的第二轮比赛中，科帕奇最终以6-2、2-6、6-3的比分取胜，但赛后拒绝与对手握手，令这场比赛因持续紧张气氛而蒙上阴影。 事件起因于一个关键争议球。当时主裁判判定王欣瑜的一球落在线外，但王欣瑜随即走到科帕奇一侧场区，检查球印。 她的举动遭现场观众报以…"
   },
   {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20260528/ferrari-luce-electric-ev-backlash/dual",
@@ -273,17 +405,6 @@ const jsonData = [
     "author": "",
     "description": "BERNHARD WARNER2026年5月28日 Ferrari Press Office, via Reuters Many automakers have found it difficult to sell the public on electric vehicles, and Ferrari is no exception. 许多汽车制造商都发现，说服大众接受电动汽车并非易事，法拉利也不例外。 Investors and c…",
     "content": "BERNHARD WARNER 2026年5月28日 Ferrari Press Office, via Reuters Many automakers have found it difficult to sell the public on electric vehicles, and Ferrari is no exception. 许多汽车制造商都发现，说服大众接受电动汽车并非易事，法拉利也不例外。 Investors and car enthusiasts have panned the Luce, th…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c62r1rgz035o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "英國政府通信總部稱：近50萬名俄羅斯士兵在烏克蘭戰爭中陣亡",
-    "link": "https://www.bbc.com/zhongwen/articles/c62r1rgz035o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-05-28 12:23:41",
-    "author": "",
-    "description": "EPA 根据英国最大的情报机构——政府通信总部（GCHQ）的说法，自俄罗斯于2022年对乌克兰发动全面入侵以来，已有将近50万名俄罗斯士兵阵亡。 这项数据由政府通信总部负责人安妮·基斯特-巴特勒（Anne Keast-Butler）在她的首次公开演说中披露，她在演说中阐述了英国所面临的威胁，以及她认为必须采取的应对措施。 这位情报首长警告，英国正处于一个“关键时刻”，而俄罗斯正“不断锁定”全国的关键基础设施为攻击目标。 她还指责克里姆林…",
-    "content": "EPA 根据英国最大的情报机构——政府通信总部（GCHQ）的说法，自俄罗斯于2022年对乌克兰发动全面入侵以来，已有将近50万名俄罗斯士兵阵亡。 这项数据由政府通信总部负责人安妮·基斯特-巴特勒（Anne Keast-Butler）在她的首次公开演说中披露，她在演说中阐述了英国所面临的威胁，以及她认为必须采取的应对措施。 这位情报首长警告，英国正处于一个“关键时刻”，而俄罗斯正“不断锁定”全国的关键基础设施为攻击目标。 她还指责克里姆林宫在英国境内策划了一连串的间谍行动，并且最近还对英国和其他北约国家发动了一场未宣…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cy42ew4lpeyo/simp?at_medium=RSS&at_campaign=rss",
@@ -308,39 +429,6 @@ const jsonData = [
     "content": "Getty 1826年，人类因一次幸运——或许是笨拙的举动——而受益，这次幸运将永远改变我们制造光和热的方式。 英国实验性药剂师约翰·沃克（John Walker）当时正在混合化学物质，试图制造炸药。一根涂有混合物的木棍不小心碰到壁炉前的石头，随即自燃。 沃克于1781年出生于达勒姆（Durham）的港口小镇提斯河畔斯托克顿（Stockton-on-Tees），正值工业革命时期。工业革命的驱动力——詹姆斯·瓦特（James Watt）的蒸汽机——于1776年首次投入商业应用。第一条使用蒸汽机车的公共铁路于1825年…"
   },
   {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20260528/hormuz-global-shortages-gas/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "全球供应短缺加剧，威胁就业和经济增长",
-    "link": "https://cn.nytimes.com/business/20260528/hormuz-global-shortages-gas/dual",
-    "pub_date": "2026-05-28 11:36:02",
-    "author": "",
-    "description": "RIVER AKIRA DAVIS, CATIE EDMONDSON, ESHE NELSON, PETER S. GOODMAN, SUHASINI RAJ2026年5月28日卡塔尔的一座液化天然气生产设施，摄于战前。 Picture Alliance, via Getty Images At the onset of the war in the Middle East, industry officials and experts…",
-    "content": "RIVER AKIRA DAVIS, CATIE EDMONDSON, ESHE NELSON, PETER S. GOODMAN, SUHASINI RAJ 2026年5月28日 卡塔尔的一座液化天然气生产设施，摄于战前。 Picture Alliance, via Getty Images At the onset of the war in the Middle East, industry officials and experts warned that the closure of one of the…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20260528/marco-rubio-visit-india-modi-trump/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "鲁比奥印度之行没有给美印关系带来“解药”",
-    "link": "https://cn.nytimes.com/world/20260528/marco-rubio-visit-india-modi-trump/dual",
-    "pub_date": "2026-05-28 11:06:01",
-    "author": "",
-    "description": "ANUPREETA DAS2026年5月28日国务卿鲁比奥与印度外交部长苏杰生周二在新德里准备签署一份谅解备忘录。 Julia Demaree Nikhinson/Agence France-Presse, via Getty Images Secretary of State Marco Rubio visited New Delhi this week to reassure India of its importance, but…",
-    "content": "ANUPREETA DAS 2026年5月28日 国务卿鲁比奥与印度外交部长苏杰生周二在新德里准备签署一份谅解备忘录。 Julia Demaree Nikhinson/Agence France-Presse, via Getty Images Secretary of State Marco Rubio visited New Delhi this week to reassure India of its importance, but analysts mostly saw the trip as littl…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20260528/china-solomons-pacific-security-threats/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "当枫桥经验来到所罗门群岛：中国在海外测试国家监控模式",
-    "link": "https://cn.nytimes.com/china/20260528/china-solomons-pacific-security-threats/dual",
-    "pub_date": "2026-05-28 09:36:02",
-    "author": "",
-    "description": "DAVID PIERSON, BERRY WANG2026年5月28日在所罗门群岛瓜达尔卡纳尔岛的霍尼亚拉海岸边钓鱼。 The first sign that something unusual was unfolding in the Solomon Islands was when the Chinese police showed up at Fighter One, a quiet village ringed with ban…",
-    "content": "DAVID PIERSON, BERRY WANG 2026年5月28日 在所罗门群岛瓜达尔卡纳尔岛的霍尼亚拉海岸边钓鱼。 The first sign that something unusual was unfolding in the Solomon Islands was when the Chinese police showed up at Fighter One, a quiet village ringed with banana trees. 所罗门群岛发生了一些不寻常的事，首先是中国警察出现在被…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cjdpge25m09o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -363,39 +451,6 @@ const jsonData = [
     "content": "AFP via Getty Images / 在西孟加拉邦拥有294席的议会中，共产党只剩下一席。 自1957年以来，印度首次不再有任何一个由共产党领导的邦政府。 由印度共产党（马克思主义）（“印共（马）”、CPI(M)）领导的左翼民主阵线（LDF）本月在喀拉拉邦（Kerala）败选，结束了长达十年的执政。这也意味着——至少暂时而言——全球其中一场最持久的民主共产主义实验已告一段落。 在鼎盛时期，印度共产党曾统治从西孟加拉邦（West Bengal）到喀拉拉邦、特里普拉邦（Tripura）等多个邦，透过工会、农民组…"
   },
   {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20260527/china-smoking-economy/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "习近平戒烟了，中国为何戒不掉？",
-    "link": "https://cn.nytimes.com/china/20260527/china-smoking-economy/dual",
-    "pub_date": "2026-05-27 13:36:01",
-    "author": "",
-    "description": "JOY DONG2026年5月27日中国在控烟和颁布全国性室内禁烟令方面进展缓慢。 Gilles Sabrie for The New York Times On a warm spring day in 2012, Xi Jinping, then China’s vice president, met with Bill Gates in Beijing. As the men were walking out of the mee…",
-    "content": "JOY DONG 2026年5月27日 中国在控烟和颁布全国性室内禁烟令方面进展缓慢。 Gilles Sabrie for The New York Times On a warm spring day in 2012, Xi Jinping, then China’s vice president, met with Bill Gates in Beijing. As the men were walking out of the meeting room, the conversation turned to …"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/technology/20260527/google-gemini-ai/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "谷歌是如何“逆风翻盘”、开始赢得人工智能竞赛的？",
-    "link": "https://cn.nytimes.com/technology/20260527/google-gemini-ai/dual",
-    "pub_date": "2026-05-27 13:06:02",
-    "author": "",
-    "description": "BRIAN X. CHEN2026年5月27日 Sisi Yu Just two years ago, Google looked like it was in trouble. In a desperate move to play catch-up with the OpenAI chatbot that had upended the tech industry, the search giant debuted an unpol…",
-    "content": "BRIAN X. CHEN 2026年5月27日 Sisi Yu Just two years ago, Google looked like it was in trouble. In a desperate move to play catch-up with the OpenAI chatbot that had upended the tech industry, the search giant debuted an unpolished version of its artificial intelli…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/obits/20260527/toshifumi-suzuki-dead/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "铃木敏文逝世：打造7-Eleven帝国的日本“零售之神”",
-    "link": "https://cn.nytimes.com/obits/20260527/toshifumi-suzuki-dead/dual",
-    "pub_date": "2026-05-27 13:06:02",
-    "author": "",
-    "description": "RIVER AKIRA DAVIS2026年5月27日 Toshifumi Suzuki, the convenience store pioneer who built 7-Eleven into a fixture of daily life in Japan, died on May 18. He was 93. 将7-Eleven打造成日本日常生活中不可或缺之物的便利店先驱铃木敏文于5月18日去世，享年93岁。 Seven & …",
-    "content": "RIVER AKIRA DAVIS 2026年5月27日 Toshifumi Suzuki, the convenience store pioneer who built 7-Eleven into a fixture of daily life in Japan, died on May 18. He was 93. 将7-Eleven打造成日本日常生活中不可或缺之物的便利店先驱铃木敏文于5月18日去世，享年93岁。 Seven & i, the Japanese operator of the 7-Eleve…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cze29gx2z09o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -407,17 +462,6 @@ const jsonData = [
     "content": "Reuters / 法国正遭遇前所未有的热浪，已有数百项气温纪录被打破。 此刻，如果你环顾西欧，很难找到有地方能够避开高温。 在英国，周二（5月26日）的气温突破摄氏35度——比去年的纪录高出逾2度。 英国气象局（Met Office）表示，即使在盛夏，这样的高温都属于罕见，更不用说，这是在春季出现。 英国伦敦政经学院气候科学教授弗里德里克·奥托（Friederike Otto）形容：“简直令人震惊。” 爱尔兰的梅努斯大学（Maynooth University）伊卡洛斯气候研究中心主任彼得·索恩（Peter Th…"
   },
   {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cwy22pde88po/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "伊朗譴責美國最新軍事打擊嚴重違反停火協議",
-    "link": "https://www.bbc.com/zhongwen/articles/cwy22pde88po/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-05-27 12:12:18",
-    "author": "",
-    "description": "Getty Images / 伊朗表示，美国在霍尔木兹海峡附近的空袭已违反了自四月开始实施的脆弱停火协议。 伊朗表示，美国对其发起的新一轮空袭已构成对停火协议的“严重违反”。 美军中央司令部（Centcom）表示，周一（5月25日）在伊朗南部对伊朗的导弹设施以及试图布设水雷的船只进行了打击，并称这些行动为“自卫性攻击”。 伊朗外交部则表示，美国在荷尔木兹甘省（Hormozgan）采取的“具侵略性且毫无正当理由的行动”，其后果应由美方承担…",
-    "content": "Getty Images / 伊朗表示，美国在霍尔木兹海峡附近的空袭已违反了自四月开始实施的脆弱停火协议。 伊朗表示，美国对其发起的新一轮空袭已构成对停火协议的“严重违反”。 美军中央司令部（Centcom）表示，周一（5月25日）在伊朗南部对伊朗的导弹设施以及试图布设水雷的船只进行了打击，并称这些行动为“自卫性攻击”。 伊朗外交部则表示，美国在荷尔木兹甘省（Hormozgan）采取的“具侵略性且毫无正当理由的行动”，其后果应由美方承担。该地区拥有霍尔木兹海峡沿岸海岸线，这条重要的水道目前已被伊朗封锁，导致全球能源…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c0l2yw2wd24o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -427,17 +471,6 @@ const jsonData = [
     "author": "",
     "description": "NASA / NASA展示计划中永久月球基地的效果图。 美国太空总署（NASA）公布了一系列计划运往月球的设备细节，包括机器人着陆器、弹跳无人机（结合了飞行与地面弹跳移动能力的混合式机器人）、月球车等，这些都是美国建立月球基地计划的一部分。 亚马逊创办人杰夫·贝佐斯（Jeff Bezos）旗下的太空公司蓝色起源（Blue Origin），是获选参与制造这些设备的其中一间公司。 美国希望在总统特朗普（Donald Trump，川普）202…",
     "content": "NASA / NASA展示计划中永久月球基地的效果图。 美国太空总署（NASA）公布了一系列计划运往月球的设备细节，包括机器人着陆器、弹跳无人机（结合了飞行与地面弹跳移动能力的混合式机器人）、月球车等，这些都是美国建立月球基地计划的一部分。 亚马逊创办人杰夫·贝佐斯（Jeff Bezos）旗下的太空公司蓝色起源（Blue Origin），是获选参与制造这些设备的其中一间公司。 美国希望在总统特朗普（Donald Trump，川普）2029年离任前，再次将美国人送上月球。 不过，NASA正与中国开展登月竞争，这意味着…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20260527/iran-ukraine-wars-similarities/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "乌克兰战争和伊朗战争比你想象的更为相似",
-    "link": "https://cn.nytimes.com/world/20260527/iran-ukraine-wars-similarities/dual",
-    "pub_date": "2026-05-27 11:06:02",
-    "author": "",
-    "description": "LARA JAKES2026年5月27日周日，在俄罗斯对乌克兰首都基辅发动袭击后，工作人员正在评估建筑受损情况。 Roman Pilipey/Agence France-Presse — Getty Images The trench warfare and heavy artillery on Ukraine’s battlefields in 2022 don’t look much like the war by air and …",
-    "content": "LARA JAKES 2026年5月27日 周日，在俄罗斯对乌克兰首都基辅发动袭击后，工作人员正在评估建筑受损情况。 Roman Pilipey/Agence France-Presse — Getty Images The trench warfare and heavy artillery on Ukraine’s battlefields in 2022 don’t look much like the war by air and sea that began when the United States …"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/ceqppvxvrn5o/simp?at_medium=RSS&at_campaign=rss",
@@ -484,17 +517,6 @@ const jsonData = [
     "content": "Getty Images / 在伊朗战事期间，一些货币大幅贬值，另一些维持稳定，还有少数展现较强韧性——例如中国的人民币。 美国与以色列在2月底与伊朗爆发战争时，受到冲击的并不仅仅是中东地区。随着冲突扰乱全球商业航运与商品流通，油价飙升，推高通胀并动摇全球市场。 一如不确定时期常见的情况，一些投资者撤出潜在风险较高的新兴市场投资，将资金转向传统上被视为避险资产的美元。 这对许多货币产生了影响——部分货币大幅贬值，另一些则波动加剧，甚至有少数出现升值。 巴西经济学家、顾问公司APCE负责人安德烈·佩费托（André …"
   },
   {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cjwppy2z8w5o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "教宗良十四世警告「新型數碼奴役」風險 呼籲AI必須被「繳械」",
-    "link": "https://www.bbc.com/zhongwen/articles/cjwppy2z8w5o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-05-26 12:59:07",
-    "author": "",
-    "description": "Getty Images / 良十四世在其首份通谕中同时警告崭新科技造成“新型数码奴役”的风险。 罗马天主教教宗良十四世（Pope Leo XIV）发表其任内首份重要教导文件，警告人工智能（AI，人工智慧）需要被“缴械”（disarmed）。 教宗表示：“我知道这个词语很强烈，但我刻意选用，因为当下需要能引起关注的字眼。” 通谕（encyclical）在技术上是致罗马天主教主教的书信，但过去数十年来，这类文件已成为教宗向全世界传达讯息的…",
-    "content": "Getty Images / 良十四世在其首份通谕中同时警告崭新科技造成“新型数码奴役”的风险。 罗马天主教教宗良十四世（Pope Leo XIV）发表其任内首份重要教导文件，警告人工智能（AI，人工智慧）需要被“缴械”（disarmed）。 教宗表示：“我知道这个词语很强烈，但我刻意选用，因为当下需要能引起关注的字眼。” 通谕（encyclical）在技术上是致罗马天主教主教的书信，但过去数十年来，这类文件已成为教宗向全世界传达讯息的方式。 这封信虽主要聚焦人工智能，但良十四世同时亦就教会在奴隶制度中的角色，发表…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/crmp1mk2k82o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -517,17 +539,6 @@ const jsonData = [
     "content": "Reuters / 中国山西省留神峪煤矿发生爆炸，是中国自2009年以来最严重的矿难。 中国山西省留神峪煤矿发生爆炸，官方公布已造成至少82人死亡、2人失踪、128人受伤，是中国自2009年以来最严重的矿难。事故发生后三天，央视于5月25日释出事发一刻片段，显示瓦斯爆炸冲击力强大。 留神峪煤矿由通洲集团营运，当局初步判断营运涉嫌严重违法。据报事发时有247名矿工当值，但一半人没有正式打卡报到，也未配戴紧急定位追踪器，令搜救工作难上加难。 尽管中国在再生能源领域取得惊人发展，但仍是全球最大的煤炭消费国。近年矿难次数大…"
   },
   {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c8jvvywlmezo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "中國15年來最嚴重煤礦事故後，民眾怒火升溫",
-    "link": "https://www.bbc.com/zhongwen/articles/c8jvvywlmezo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-05-25 18:33:25",
-    "author": "",
-    "description": "CCTV / 影片：中国煤矿发生气体爆炸事故 中国发生15年来最严重的矿难后，外界对涉嫌违反安全规定的情况愈发愤怒。 上周五，位于山西省、属于中国庞大煤矿产业核心地带的留神峪煤矿发生爆炸，造成至少82人死亡、超过120人受伤。 对许多在中国的人而言，这场悲剧令人想起2000年代那段煤矿事故频繁、死伤惨重的时期。许多人原以为，那样的年代早已过去。 如今，这些忧虑再次浮现，并在中国受到严密管控的互联网上蔓延。民众要求追责，质疑事故为何会发生…",
-    "content": "CCTV / 影片：中国煤矿发生气体爆炸事故 中国发生15年来最严重的矿难后，外界对涉嫌违反安全规定的情况愈发愤怒。 上周五，位于山西省、属于中国庞大煤矿产业核心地带的留神峪煤矿发生爆炸，造成至少82人死亡、超过120人受伤。 对许多在中国的人而言，这场悲剧令人想起2000年代那段煤矿事故频繁、死伤惨重的时期。许多人原以为，那样的年代早已过去。 如今，这些忧虑再次浮现，并在中国受到严密管控的互联网上蔓延。民众要求追责，质疑事故为何会发生：“太令人心碎了，这么多宝贵生命逝去。我们到底何时才能真正把安全放在第一位？” …"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c1l22592njmo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -537,17 +548,6 @@ const jsonData = [
     "author": "",
     "description": "Reuters 2026年5月24日晚，黎家盈随中国“神舟二十三号”太空船升空，成为首位进入太空的香港公民。此事件在香港舆论引起广泛讨论与关注。 黎家盈在任务准备期间多次公开表达对祖国的感谢，提及“心怀家国”及希望香港青年融入国家发展大局等说法。她的“背靠祖国”言论被中港媒体广为引用，分析称中国当局希望藉此带动民族主义情绪，持续刺激香港年轻一代的爱国情怀。 港大博士和警方高官 Getty Images / 5月23日，黎家盈在酒泉参加记…",
     "content": "Reuters 2026年5月24日晚，黎家盈随中国“神舟二十三号”太空船升空，成为首位进入太空的香港公民。此事件在香港舆论引起广泛讨论与关注。 黎家盈在任务准备期间多次公开表达对祖国的感谢，提及“心怀家国”及希望香港青年融入国家发展大局等说法。她的“背靠祖国”言论被中港媒体广为引用，分析称中国当局希望藉此带动民族主义情绪，持续刺激香港年轻一代的爱国情怀。 港大博士和警方高官 Getty Images / 5月23日，黎家盈在酒泉参加记者会。 黎家盈1982年出生于香港。她在香港大学完成电脑科学理学士、密码学硕士及…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/czr2e5xjg42o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "足球世界盃2026：伊朗足協主席稱球隊基地已由美國改至墨西哥",
-    "link": "https://www.bbc.com/zhongwen/articles/czr2e5xjg42o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-05-25 12:47:22",
-    "author": "",
-    "description": "Getty Images / 伊朗正在土耳其的训练营备战世界杯 伊朗足协主席表示，国际足联（FIFA）已批准将伊朗队的世界杯训练基地，从美国改至墨西哥。 梅赫迪·塔吉（Mehdi Taj）表示，伊朗队将改为驻紮在墨西哥边境城市蒂华纳市（Tijuana），但此变更尚未获得国际足联的最终确认。 伊朗原本被分配在美国亚利桑那州的图森（Tucson）作为世界杯基地，但由于中东地区持续的战争及相关安全疑虑，使得他们的参赛安排出现不确定性。 本届世…",
-    "content": "Getty Images / 伊朗正在土耳其的训练营备战世界杯 伊朗足协主席表示，国际足联（FIFA）已批准将伊朗队的世界杯训练基地，从美国改至墨西哥。 梅赫迪·塔吉（Mehdi Taj）表示，伊朗队将改为驻紮在墨西哥边境城市蒂华纳市（Tijuana），但此变更尚未获得国际足联的最终确认。 伊朗原本被分配在美国亚利桑那州的图森（Tucson）作为世界杯基地，但由于中东地区持续的战争及相关安全疑虑，使得他们的参赛安排出现不确定性。 本届世界杯由美国、加拿大和墨西哥共同主办。伊朗预计于6月15日对阵新西兰、6月21日对…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/ckgpxkg35kwo/simp?at_medium=RSS&at_campaign=rss",
