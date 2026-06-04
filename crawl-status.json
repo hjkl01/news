@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-06-03T10:44:37.848Z",
-  "ended_at": "2026-06-03T10:44:38.038Z",
-  "duration_ms": 191,
+  "started_at": "2026-06-04T00:26:57.501Z",
+  "ended_at": "2026-06-04T00:26:57.698Z",
+  "duration_ms": 197,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -17,12 +17,12 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 44,
-    "failed_sources": 15,
-    "circuit_open_sources": 15,
+    "cache_hit_sources": 45,
+    "failed_sources": 14,
+    "circuit_open_sources": 14,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1276,
-    "total_items_after_retention": 1074,
+    "total_items_after_dedupe": 1294,
+    "total_items_after_retention": 1081,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -106,12 +106,6 @@
       "skippedByCircuit": true
     },
     {
-      "title": "Epic Game",
-      "url": "https://www.epicbundle.com/feed/",
-      "reason": "HTTP 415",
-      "skippedByCircuit": true
-    },
-    {
       "title": "微博 / 热搜榜",
       "url": "https://plink.anyfeeder.com/weibo/search/hot",
       "reason": "HTTP 503",
@@ -183,11 +177,6 @@
       "title": "FreeBuf 关注黑客",
       "url": "https://plink.anyfeeder.com/freebuf",
       "reason": "HTTP 405"
-    },
-    {
-      "title": "Epic Game",
-      "url": "https://www.epicbundle.com/feed/",
-      "reason": "HTTP 415"
     },
     {
       "title": "微博 / 热搜榜",
