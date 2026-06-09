@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-06-08T10:19:58.908Z",
-  "ended_at": "2026-06-08T10:19:59.078Z",
-  "duration_ms": 170,
+  "started_at": "2026-06-09T00:00:25.513Z",
+  "ended_at": "2026-06-09T00:00:25.712Z",
+  "duration_ms": 199,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -17,12 +17,12 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 44,
-    "failed_sources": 15,
-    "circuit_open_sources": 15,
+    "cache_hit_sources": 43,
+    "failed_sources": 16,
+    "circuit_open_sources": 16,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1284,
-    "total_items_after_retention": 1074,
+    "total_items_after_dedupe": 1279,
+    "total_items_after_retention": 1071,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -31,6 +31,12 @@
       "title": "网易新闻 / 今日关注",
       "url": "https://plink.anyfeeder.com/netease/today",
       "reason": "HTTP 503",
+      "skippedByCircuit": true
+    },
+    {
+      "title": "南方周末 / 新闻",
+      "url": "https://plink.anyfeeder.com/infzm/news",
+      "reason": "The operation was aborted.",
       "skippedByCircuit": true
     },
     {
@@ -123,6 +129,11 @@
       "title": "网易新闻 / 今日关注",
       "url": "https://plink.anyfeeder.com/netease/today",
       "reason": "HTTP 503"
+    },
+    {
+      "title": "南方周末 / 新闻",
+      "url": "https://plink.anyfeeder.com/infzm/news",
+      "reason": "The operation was aborted."
     },
     {
       "title": "SBS 中文",
