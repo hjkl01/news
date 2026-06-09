@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-06-09T00:00:25.513Z",
-  "ended_at": "2026-06-09T00:00:25.712Z",
-  "duration_ms": 199,
+  "started_at": "2026-06-09T09:26:19.561Z",
+  "ended_at": "2026-06-09T09:26:19.747Z",
+  "duration_ms": 186,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -21,8 +21,8 @@
     "failed_sources": 16,
     "circuit_open_sources": 16,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1279,
-    "total_items_after_retention": 1071,
+    "total_items_after_dedupe": 1270,
+    "total_items_after_retention": 1072,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -31,12 +31,6 @@
       "title": "网易新闻 / 今日关注",
       "url": "https://plink.anyfeeder.com/netease/today",
       "reason": "HTTP 503",
-      "skippedByCircuit": true
-    },
-    {
-      "title": "南方周末 / 新闻",
-      "url": "https://plink.anyfeeder.com/infzm/news",
-      "reason": "The operation was aborted.",
       "skippedByCircuit": true
     },
     {
@@ -118,6 +112,12 @@
       "skippedByCircuit": true
     },
     {
+      "title": "Epic Game",
+      "url": "https://www.epicbundle.com/feed/",
+      "reason": "HTTP 415",
+      "skippedByCircuit": true
+    },
+    {
       "title": "微博 / 热搜榜",
       "url": "https://plink.anyfeeder.com/weibo/search/hot",
       "reason": "HTTP 503",
@@ -129,11 +129,6 @@
       "title": "网易新闻 / 今日关注",
       "url": "https://plink.anyfeeder.com/netease/today",
       "reason": "HTTP 503"
-    },
-    {
-      "title": "南方周末 / 新闻",
-      "url": "https://plink.anyfeeder.com/infzm/news",
-      "reason": "The operation was aborted."
     },
     {
       "title": "SBS 中文",
@@ -199,6 +194,11 @@
       "title": "FreeBuf 关注黑客",
       "url": "https://plink.anyfeeder.com/freebuf",
       "reason": "HTTP 405"
+    },
+    {
+      "title": "Epic Game",
+      "url": "https://www.epicbundle.com/feed/",
+      "reason": "HTTP 415"
     },
     {
       "title": "微博 / 热搜榜",
