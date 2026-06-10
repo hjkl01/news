@@ -1,5 +1,27 @@
 const jsonData = [
   {
+    "id": "技术-阮一峰的网络日志-http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html",
+    "feed_name": "阮一峰的网络日志",
+    "category": "技术",
+    "title": "科技爱好者周刊（第 399 期）：中国 AI 大厂访问记",
+    "link": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html",
+    "pub_date": "2026-06-05 08:07:45",
+    "author": "阮一峰",
+    "description": "这里记录每周值得分享的科技内容，周五发布。 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面图 本周开馆的深圳国际美术馆。（via） 中国 AI 大厂访问记 今年5月上旬，一个美国访问团来到中国，访问了14家 AI 和机器人公司。 访问对象包括 DeepSeek、月之暗面、MiniMax、智谱、字节跳动、阿里、蚂蚁、小米、零一万物、宇树、魔搭社区等。 所…",
+    "content": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 本周开馆的深圳国际美术馆。（ via ） 中国 AI 大厂访问记 今年5月上旬，一个美国访问团来到中国，访问了14家 AI 和机器人公司。 访问对象包括 DeepSeek、月之暗面、MiniMax、智谱、字节跳动、阿里、蚂蚁、小米、零一万物、宇树、魔搭社区等。 所有成员都是科技分析师，回到美国后，每个人都写了访问观感： K…"
+  },
+  {
+    "id": "技术-阮一峰的网络日志-http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html",
+    "feed_name": "阮一峰的网络日志",
+    "category": "技术",
+    "title": "科技爱好者周刊（第 398 期）：Token 费用难以负担",
+    "link": "http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html",
+    "pub_date": "2026-05-29 08:08:39",
+    "author": "阮一峰",
+    "description": "这里记录每周值得分享的科技内容，周五发布。 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面图 去年开放的浙江省安吉县的安吉文化艺术中心。当地盛产竹子，屋顶都采用竹叶造型。（daemin_kg@ig） Token 费用难以负担 上周，OpenClaw（龙虾）的创始人彼得·斯坦伯格（Peter Steinberger）贴出了自己的 Token 使用量。 他…",
+    "content": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 去年开放的浙江省安吉县的安吉文化艺术中心。当地盛产竹子，屋顶都采用竹叶造型。（ daemin_kg@ig ） Token 费用难以负担 上周，OpenClaw（龙虾）的创始人彼得·斯坦伯格（Peter Steinberger）贴出了自己的 Token 使用量 。 他不是故意炫耀，自己用了多少 Token，而是为了介绍工具软…"
+  },
+  {
     "id": "技术-HelloGitHub 月刊-https://hellogithub.com/periodical/volume/122",
     "feed_name": "HelloGitHub 月刊",
     "category": "技术",
@@ -9,6 +31,17 @@ const jsonData = [
     "author": "",
     "description": "本期共有 39 个项目，包含 C 项目 (2)，C# 项目 (3)，C++ 项目 (2)，Go 项目 (4)，JavaScript 项目 (5)，Python 项目 (4)，Rust 项目 (3)，Skills (3)，Swift 项目 (3)，人工智能 (5)，其它 (5)",
     "content": "本期共有 39 个项目，包含 C 项目 (2)，C# 项目 (3)，C++ 项目 (2)，Go 项目 (4)，JavaScript 项目 (5)，Python 项目 (4)，Rust 项目 (3)，Skills (3)，Swift 项目 (3)，人工智能 (5)，其它 (5)"
+  },
+  {
+    "id": "技术-阮一峰的网络日志-http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html",
+    "feed_name": "阮一峰的网络日志",
+    "category": "技术",
+    "title": "科技爱好者周刊（第 397 期）：财富正在向 AI 集中",
+    "link": "http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html",
+    "pub_date": "2026-05-22 07:58:35",
+    "author": "阮一峰",
+    "description": "这里记录每周值得分享的科技内容，周五发布。 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面图 马岩松事务所设计的海南科技馆，今年五一开馆。（via） 财富正在向 AI 集中 AI 相关的所有东西，最近都在上涨。 看看股票，就知道了。内存、储存、CPU、服务器、液冷、光通信、变压器......股价全部在涨，更不要提，前期已经涨过的芯片、模型、算力了，甚至…",
+    "content": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 马岩松事务所设计的海南科技馆，今年五一开馆。（ via ） 财富正在向 AI 集中 AI 相关的所有东西，最近都在上涨。 看看股票，就知道了。内存、储存、CPU、服务器、液冷、光通信、变压器......股价全部在涨，更不要提，前期已经涨过的芯片、模型、算力了，甚至铜和铝也在涨。 这些股票的上涨幅度之大，令人咂舌。就以内存为…"
   },
   {
     "id": "技术-HelloGitHub 月刊-https://hellogithub.com/periodical/volume/121",
