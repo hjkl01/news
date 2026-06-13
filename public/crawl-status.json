@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-06-13T00:16:00.924Z",
-  "ended_at": "2026-06-13T00:16:01.112Z",
-  "duration_ms": 188,
+  "started_at": "2026-06-13T08:48:01.788Z",
+  "ended_at": "2026-06-13T08:48:01.964Z",
+  "duration_ms": 176,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -17,12 +17,12 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 45,
-    "failed_sources": 14,
-    "circuit_open_sources": 14,
+    "cache_hit_sources": 46,
+    "failed_sources": 13,
+    "circuit_open_sources": 13,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1303,
-    "total_items_after_retention": 1091,
+    "total_items_after_dedupe": 1336,
+    "total_items_after_retention": 1123,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -104,12 +104,6 @@
       "url": "https://plink.anyfeeder.com/freebuf",
       "reason": "HTTP 405",
       "skippedByCircuit": true
-    },
-    {
-      "title": "微博 / 热搜榜",
-      "url": "https://plink.anyfeeder.com/weibo/search/hot",
-      "reason": "HTTP 503",
-      "skippedByCircuit": true
     }
   ],
   "circuit_open": [
@@ -177,11 +171,6 @@
       "title": "FreeBuf 关注黑客",
       "url": "https://plink.anyfeeder.com/freebuf",
       "reason": "HTTP 405"
-    },
-    {
-      "title": "微博 / 热搜榜",
-      "url": "https://plink.anyfeeder.com/weibo/search/hot",
-      "reason": "HTTP 503"
     }
   ]
 }
