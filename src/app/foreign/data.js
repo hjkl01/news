@@ -1,5 +1,71 @@
 const jsonData = [
   {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c20ypd51d74o/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "瑞士將公投決定是否將人口上限設為一千萬",
+    "link": "https://www.bbc.com/zhongwen/articles/c20ypd51d74o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-06-14 16:01:55",
+    "author": "",
+    "description": "Reuters / 反对设置人口上限的宣传海报警告不要“与欧洲决裂”。 一个国家是否可以为其人口设定固定上限？ 这正是瑞士选民周日投票时将要回答的问题。届时，选民将决定是否支持把全国人口上限设定为1,000万人。这项提案也暴露出这个阿尔卑斯山国家对移民问题的深刻分歧。 这项主张获右翼政党瑞士人民党（Swiss People's Party）支持。该党将其描述为一项“可持续发展倡议”（sustainability initiative），…",
+    "content": "Reuters / 反对设置人口上限的宣传海报警告不要“与欧洲决裂”。 一个国家是否可以为其人口设定固定上限？ 这正是瑞士选民周日投票时将要回答的问题。届时，选民将决定是否支持把全国人口上限设定为1,000万人。这项提案也暴露出这个阿尔卑斯山国家对移民问题的深刻分歧。 这项主张获右翼政党瑞士人民党（Swiss People's Party）支持。该党将其描述为一项“可持续发展倡议”（sustainability initiative），旨在纾缓住房、公共服务及环境压力。 然而，部分选民认为，这只是该党最新一次反移民…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cn943e57np5o/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "特朗普稱美伊協議周日簽署，伊朗對時間表示懷疑",
+    "link": "https://www.bbc.com/zhongwen/articles/cn943e57np5o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-06-14 14:47:03",
+    "author": "",
+    "description": "Reuters 美国总统特朗普表示，一项旨在结束美国与伊朗冲突的协议预定于周日签署，但伊朗方面则对签署时间表示怀疑。 特朗普在社交媒体发文称，一旦协议达成，关键航运通道霍尔木兹海峡将向“所有船只开放”。 作为重要调停方的巴基斯坦也表示，协议预计将在24小时内完成，并称正“准备进行电子签署”。 在特朗普发表上述言论前，伊朗外交部发言人伊斯梅尔·巴盖伊（Esmaeil Baghaei）对时间表持审慎态度，称：“我们仍需观察这份谅解备忘录确切…",
+    "content": "Reuters 美国总统特朗普表示，一项旨在结束美国与伊朗冲突的协议预定于周日签署，但伊朗方面则对签署时间表示怀疑。 特朗普在社交媒体发文称，一旦协议达成，关键航运通道霍尔木兹海峡将向“所有船只开放”。 作为重要调停方的巴基斯坦也表示，协议预计将在24小时内完成，并称正“准备进行电子签署”。 在特朗普发表上述言论前，伊朗外交部发言人伊斯梅尔·巴盖伊（Esmaeil Baghaei）对时间表持审慎态度，称：“我们仍需观察这份谅解备忘录确切的签署日期，但不是明天。” 特朗普在其社交平台发文写道：“这项协议预定明天签署，…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c78yxj0p4xgo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "SpaceX上市首日股價飆升，助馬斯克成全球首位萬億富豪",
+    "link": "https://www.bbc.com/zhongwen/articles/c78yxj0p4xgo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-06-14 13:28:12",
+    "author": "",
+    "description": "Reuters 随着火箭公司SpaceX在史上最大规模首次公开募股（IPO）中股价大涨，马斯克周五成为全球首位身家突破一万亿美元的人。 根据彭博亿万富豪指数（Bloomberg Billionaires Index），这位特斯拉与SpaceX创办人的总净资产达到1.11万亿美元，进一步巩固其全球首富地位。 此前，这家从事火箭、电讯及人工智能业务的公司以2.2万亿美元估值在纳斯达克（Nasdaq）上市。 公司表示发售价为每股135美元，但…",
+    "content": "Reuters 随着火箭公司SpaceX在史上最大规模首次公开募股（IPO）中股价大涨，马斯克周五成为全球首位身家突破一万亿美元的人。 根据彭博亿万富豪指数（Bloomberg Billionaires Index），这位特斯拉与SpaceX创办人的总净资产达到1.11万亿美元，进一步巩固其全球首富地位。 此前，这家从事火箭、电讯及人工智能业务的公司以2.2万亿美元估值在纳斯达克（Nasdaq）上市。 公司表示发售价为每股135美元，但开市价升至150美元，一度触及176.50美元，反映投资者对太空相关业务以及马斯…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c5yz648ej42o/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "特朗普和伊朗談判的核心：核問題如何解決？",
+    "link": "https://www.bbc.com/zhongwen/articles/c5yz648ej42o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-06-14 12:44:07",
+    "author": "",
+    "description": "Getty Images 特朗普表示，美国与伊朗之间的协议“预定于周日签署”，不过德黑兰方面对此时间表表示怀疑。 在特朗普周六（6月13日）下午发表上述言论之前，伊朗外交部发言人埃斯梅尔・巴盖伊（Esmaeil Baghaei）表示：“我们仍需观察谅解备忘录究竟会在何时签署，但肯定不是明天。” 无论如何，这项协议有可能让伊朗重开霍尔木兹海峡。作为交换，美国将解除对伊朗港口的封锁。 官员表示，协议还将使伊朗浓缩铀库存被销毁和移除，这正是核…",
+    "content": "Getty Images 特朗普表示，美国与伊朗之间的协议“预定于周日签署”，不过德黑兰方面对此时间表表示怀疑。 在特朗普周六（6月13日）下午发表上述言论之前，伊朗外交部发言人埃斯梅尔・巴盖伊（Esmaeil Baghaei）表示：“我们仍需观察谅解备忘录究竟会在何时签署，但肯定不是明天。” 无论如何，这项协议有可能让伊朗重开霍尔木兹海峡。作为交换，美国将解除对伊朗港口的封锁。 官员表示，协议还将使伊朗浓缩铀库存被销毁和移除，这正是核武器的关键组成部分之一。不过，相关技术细节仍在磋商之中。 如果协议最终签署，外界…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cly0ne5y8x5o/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "多國科學家宣佈新一輪厄爾尼諾現象已經來臨",
+    "link": "https://www.bbc.com/zhongwen/articles/cly0ne5y8x5o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-06-14 11:12:29",
+    "author": "",
+    "description": "EPA/Shutterstock 美国科学家表示，厄尔尼诺（El Niño，圣婴现象）这个会推高全球气温的太平洋地区自然发生的气候现象已正式发生。 美国国家海洋与大气总署（NOAA）宣布，热带太平洋（指赤道南北两侧、大致位于南纬和北纬23.5度之间的太平洋海域）目前正出现厄尔尼诺现象，近几个月海面温度已急剧上升。 许多预测显示，这次事件最终可能形成所谓的“超级”厄尔尼诺现象，甚至可能是有纪录以来最强之一。 在数十年来人类行为导致气候变暖…",
+    "content": "EPA/Shutterstock 美国科学家表示，厄尔尼诺（El Niño，圣婴现象）这个会推高全球气温的太平洋地区自然发生的气候现象已正式发生。 美国国家海洋与大气总署（NOAA）宣布，热带太平洋（指赤道南北两侧、大致位于南纬和北纬23.5度之间的太平洋海域）目前正出现厄尔尼诺现象，近几个月海面温度已急剧上升。 许多预测显示，这次事件最终可能形成所谓的“超级”厄尔尼诺现象，甚至可能是有纪录以来最强之一。 在数十年来人类行为导致气候变暖之后，它可能会带来另一个创纪录高温的年份——很可能是在2027年，对天气、粮食供…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260613-g7%E5%A6%82%E4%BD%95%E5%BC%80-%E5%85%A8%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E5%BF%83%E6%83%85%E5%A5%BD%E5%9D%8F",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "G7如何开 全看特朗普心情好坏？ - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260613-g7%E5%A6%82%E4%BD%95%E5%BC%80-%E5%85%A8%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E5%BF%83%E6%83%85%E5%A5%BD%E5%9D%8F",
+    "pub_date": "2026-06-14 06:45:02",
+    "author": "",
+    "description": "14/06/2026 - 00:23 七国集团峰会于15日在法国阿尔卑斯山麓的埃维昂开幕，美国总统特朗普对此峰会有何意图，人们几乎一无所知，除了最关键的一点：特朗普将按照自己的日程和情绪安排行事。 据分析，他的情绪将在很大程度上取决于正在加速推进的美伊和平谈判的结果。 七国集团成员国差不多都遭受了特朗普的贸易打击和外交恫赫，将在日内瓦湖畔聚会的领袖们几乎都遭到他的指责，除了日本首相高市早苗，她是唯一的例外。 美国外交关系委员会的客座研究…",
+    "content": "14/06/2026 - 00:23 七国集团峰会于15日在法国阿尔卑斯山麓的埃维昂开幕，美国总统特朗普对此峰会有何意图，人们几乎一无所知，除了最关键的一点：特朗普将按照自己的日程和情绪安排行事。 据分析，他的情绪将在很大程度上取决于正在加速推进的美伊和平谈判的结果。 七国集团成员国差不多都遭受了特朗普的贸易打击和外交恫赫，将在日内瓦湖畔聚会的领袖们几乎都遭到他的指责，除了日本首相高市早苗，她是唯一的例外。 美国外交关系委员会的客座研究员莉安娜·菲克斯在峰会召开前对法新社表示： “人们无法像特朗普第一任期那样‘管理…"
+  },
+  {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260613-g7-%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%B8%8E%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%B8%BE%E8%A1%8C%E4%BC%9A%E6%99%A4-%E5%B9%B6%E4%B8%8E%E9%A9%AC%E5%85%8B%E9%BE%99%E5%9C%A8%E5%87%A1%E5%B0%94%E8%B5%9B%E5%AE%AB%E5%85%B1%E8%BF%9B%E6%99%9A%E9%A4%90",
     "feed_name": "RFI 法国国际广播电台",
     "category": "国外",
@@ -220,17 +286,6 @@ const jsonData = [
     "content": "13/06/2026 - 01:45 法国前总统希拉克（Jacques Chirac）的遗孀贝尔纳黛特·希拉克（Bernadette Chirac）的葬礼周五在巴黎圣克洛蒂尔德大教堂（Basilique Sainte-Clotilde）举行，众多法国政界和演艺界知名人士前来送别。 葬礼举行的地点具有特殊意义。贝尔纳黛特和雅克·希拉克当年正是在附近的圣克洛蒂尔德礼拜堂举行婚礼的，2016年，两人的长女洛朗斯（Laurence）的葬礼也曾在这个礼拜堂举行。 在仪式上，贝尔纳黛特唯一的孙子、30岁的马丁·雷-希拉克（Ma…"
   },
   {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260612-g7%E5%B3%B0%E4%BC%9A-%E9%9D%9E%E6%88%90%E5%91%98%E5%9B%BD%E4%B8%AD%E5%9B%BD%E6%97%A0%E5%A4%84%E4%B8%8D%E5%9C%A8",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "G7峰会 非成员国中国无处不在 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260612-g7%E5%B3%B0%E4%BC%9A-%E9%9D%9E%E6%88%90%E5%91%98%E5%9B%BD%E4%B8%AD%E5%9B%BD%E6%97%A0%E5%A4%84%E4%B8%8D%E5%9C%A8",
-    "pub_date": "2026-06-13 06:45:01",
-    "author": "",
-    "description": "13/06/2026 - 00:14 G7峰会15-17日在法国阿尔卑斯山麓的埃维昂举行，轮流主席国总统马克龙日前突然邀请中国与G7成员国一道参与一个视频会议，讨论全球经济失衡问题。美国“政治新闻”形容马克龙此举是“通过G7拉拢中国”，七国集团近年来与中国对抗态势明显，将其拉入这样一个临时性框架对话引人注目。 马克龙对中国的姿态一直受到某种质疑---既要与中国合作，又要对中国提出批评。最明显的一个例子是，去年年底前马克龙抱着合作的愿望访…",
-    "content": "13/06/2026 - 00:14 G7峰会15-17日在法国阿尔卑斯山麓的埃维昂举行，轮流主席国总统马克龙日前突然邀请中国与G7成员国一道参与一个视频会议，讨论全球经济失衡问题。美国“政治新闻”形容马克龙此举是“通过G7拉拢中国”，七国集团近年来与中国对抗态势明显，将其拉入这样一个临时性框架对话引人注目。 马克龙对中国的姿态一直受到某种质疑---既要与中国合作，又要对中国提出批评。最明显的一个例子是，去年年底前马克龙抱着合作的愿望访问中国，一方面希望劝阻中国不要继续向俄罗斯提供支持，同时也希望中国设法改善对欧贸…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/ced48w5qx70o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -306,17 +361,6 @@ const jsonData = [
     "author": "",
     "description": "MICHAEL D. SHEAR2026年6月12日周三在北爱尔兰贝尔法斯特北部举行的抗议活动，起因是两天前发生的一起持刀伤人事件。 Paul Faith/Agence France-Presse — Getty Images The cycle of violence and right-wing agitation in Britain has become all too frightening and frequent. 英国暴…",
     "content": "MICHAEL D. SHEAR 2026年6月12日 周三在北爱尔兰贝尔法斯特北部举行的抗议活动，起因是两天前发生的一起持刀伤人事件。 Paul Faith/Agence France-Presse — Getty Images The cycle of violence and right-wing agitation in Britain has become all too frightening and frequent. 英国暴力事件和右翼煽动频发，场面令人惊骇。 It can start with a…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cr7xvmrjkyeo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "特朗普稱伊朗停戰協議接近完成，德黑蘭稱未有定案",
-    "link": "https://www.bbc.com/zhongwen/articles/cr7xvmrjkyeo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-06-12 13:05:08",
-    "author": "",
-    "description": "EPA / 特朗普：不会让德黑兰利用霍尔木兹海峡“勒索”美国。 美国总统特朗普（Donald Trump，川普）表示，在他发帖称已取消对伊朗的攻击后，一项旨在结束战争的初步协议已接近达成。 他于周四（6月11日）在白宫椭圆办公室向记者表示：“我们刚刚就战争和伊朗达成了一项重大的和解。” 伊朗外交部发言人巴加埃（Esmail Baghaei，巴盖伊）则向国家电视台表示，有关协议的报导只是“猜测”，并指出“尚未有任何内容最终定案”。 特朗普…",
-    "content": "EPA / 特朗普：不会让德黑兰利用霍尔木兹海峡“勒索”美国。 美国总统特朗普（Donald Trump，川普）表示，在他发帖称已取消对伊朗的攻击后，一项旨在结束战争的初步协议已接近达成。 他于周四（6月11日）在白宫椭圆办公室向记者表示：“我们刚刚就战争和伊朗达成了一项重大的和解。” 伊朗外交部发言人巴加埃（Esmail Baghaei，巴盖伊）则向国家电视台表示，有关协议的报导只是“猜测”，并指出“尚未有任何内容最终定案”。 特朗普过去也曾多次声称两国接近达成协议结束冲突。而就在此次宣布前数小时，他还曾表示将对…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cx211w7zkkeo/simp?at_medium=RSS&at_campaign=rss",
@@ -449,17 +493,6 @@ const jsonData = [
     "author": "",
     "description": "BEN CASSELMAN2026年6月11日 If artificial intelligence disrupts the job market, which workers will be most vulnerable? 如果人工智能颠覆了就业市场，哪些劳动者最容易受到冲击？ The obvious answer, and the one that has dominated public debate over A.I. jo…",
     "content": "BEN CASSELMAN 2026年6月11日 If artificial intelligence disrupts the job market, which workers will be most vulnerable? 如果人工智能颠覆了就业市场，哪些劳动者最容易受到冲击？ The obvious answer, and the one that has dominated public debate over A.I. job loss in recent months, is that the wo…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/crelzy140yno/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "《火影忍者》：美國總統特朗普使用動漫角色引發日本輿論反彈",
-    "link": "https://www.bbc.com/zhongwen/articles/crelzy140yno/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-06-11 13:18:18",
-    "author": "",
-    "description": "Donald Trump/Truth Social 日本对美国总统特朗普（Donald Trump，川普）在社群媒体贴文中使用热门动漫与漫画角色的的行为，出现了愈来愈强烈的反弹声浪。 自今年3月以来，不满情绪便已酝酿。当时一些动漫粉丝们开始注意到，这位总统不仅使用日本知名动漫角色的图像，甚至有一次还将自己描绘成这些角色，例如日本漫画与动画《火影忍者》中的鸣人（Naruto）、《精灵宝可梦》的皮卡丘（Pikachu）和游戏王（Yu-Gi-…",
-    "content": "Donald Trump/Truth Social 日本对美国总统特朗普（Donald Trump，川普）在社群媒体贴文中使用热门动漫与漫画角色的的行为，出现了愈来愈强烈的反弹声浪。 自今年3月以来，不满情绪便已酝酿。当时一些动漫粉丝们开始注意到，这位总统不仅使用日本知名动漫角色的图像，甚至有一次还将自己描绘成这些角色，例如日本漫画与动画《火影忍者》中的鸣人（Naruto）、《精灵宝可梦》的皮卡丘（Pikachu）和游戏王（Yu-Gi-Oh!）等。 目前已有将近2万人在线上连署请愿，主张特朗普并未体现这些角色的价值…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cx23nrx02jzo/simp?at_medium=RSS&at_campaign=rss",
@@ -704,17 +737,6 @@ const jsonData = [
     "content": "Bloomberg via Getty Images 在不甚平静的太平洋上，另一场高调展开的地缘政治角力再度掀起波澜。 2026年6月初，日本首相高市早苗（Takaichi Sanae）与菲律宾总统小费迪南德·马科斯（Ferdinand Marcos Jr.）在东京会面，两国除了宣布将菲律宾提升为日本在东南亚的第一个“全面战略伙伴”，随后还共同宣布将正式启动太平洋专属经济区（EEZ）与大陆架划界谈判。此外，日本还计划出售若干军舰给菲律宾，以强化后者海军实力，而菲律宾与中国在南海争议海域的冲突至今仍未平息。 分析人士…"
   },
   {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c0q2jvpenj8o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "世界盃攻略：48隊賽制、分組與奪冠熱門一次掌握",
-    "link": "https://www.bbc.com/zhongwen/articles/c0q2jvpenj8o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-06-05 08:10:27",
-    "author": "",
-    "description": "Getty Images / 世界杯将于6月11日至7月19日在美国、加拿大和墨西哥举行 2026年世界杯即将开赛！本届决赛圈赛事将有创纪录的48支球队参加。 本届赛事将于6月11日至7月19日在美国、加拿大与墨西哥举行。 随着刚果民主共和国和伊拉克成为最后两支锁定第23届世界杯参赛席位的队伍，漫长的预选赛也画上句点：该赛事从2023年9月开始，横跨六大洲足联，最终还以欧洲足联附加赛和洲际附加赛的生死对决作为收尾。 在最终参赛的48支球…",
-    "content": "Getty Images / 世界杯将于6月11日至7月19日在美国、加拿大和墨西哥举行 2026年世界杯即将开赛！本届决赛圈赛事将有创纪录的48支球队参加。 本届赛事将于6月11日至7月19日在美国、加拿大与墨西哥举行。 随着刚果民主共和国和伊拉克成为最后两支锁定第23届世界杯参赛席位的队伍，漫长的预选赛也画上句点：该赛事从2023年9月开始，横跨六大洲足联，最终还以欧洲足联附加赛和洲际附加赛的生死对决作为收尾。 在最终参赛的48支球队中，三个主办国自动取得资格，而另外43个名额是透过各洲足联成员的直接预选赛取得…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c8099evp0jmo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -779,28 +801,6 @@ const jsonData = [
     "author": "",
     "description": "AFP via Getty Images 国际足联（FIFA）世界杯即将开幕，但世界上大多数人口将没有代表参加。 印度、中国、印尼、巴基斯坦及尼日利亚——全球六个人口最多的国家之中有五个——都将缺席这个由美国、加拿大及墨西哥共同主办的赛事。 事实上，在最初参加资格赛的209个国家中，最终晋级6月和7月决赛圈的队伍只有48支。 那么，如果你的国家未能晋级世界杯，应该支持哪一队呢？ 毕竟，全球球迷总会偏爱“黑马”——而目前已经晋级的队伍中，…",
     "content": "AFP via Getty Images 国际足联（FIFA）世界杯即将开幕，但世界上大多数人口将没有代表参加。 印度、中国、印尼、巴基斯坦及尼日利亚——全球六个人口最多的国家之中有五个——都将缺席这个由美国、加拿大及墨西哥共同主办的赛事。 事实上，在最初参加资格赛的209个国家中，最终晋级6月和7月决赛圈的队伍只有48支。 那么，如果你的国家未能晋级世界杯，应该支持哪一队呢？ 毕竟，全球球迷总会偏爱“黑马”——而目前已经晋级的队伍中，不乏拥有精彩背景故事的例子——何不从这些勇敢拼搏的外围之师中，挑选一支作为你在本…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c152l37yvyyo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "中國「文化大革命」爆發60周年：學界詳解被掩蓋的文革真相 ——「集體殺戮」",
-    "link": "https://www.bbc.com/zhongwen/articles/c152l37yvyyo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-05-16 09:45:07",
-    "author": "",
-    "description": "Getty Images 历史事实和大量学术研究显示，共产政权国家的每一场运动常常伴随着可怕的政治暴力与“集体杀戮”（包括国家恐怖、清洗、镇压、强制劳动、饥荒导致的大规模死亡等），半个多世纪前发生在中国的“文化大革命”也不例外。 然而，“文革”时期的极端暴力与“集体杀戮”，是一段极力被掩盖和扭曲，世人所普遍忽视的历史。 近年来，随着文革资料的收集和研究的深入，这一段鲜为人知的“集体杀戮”历史也开始浮现出来。 这些研究不仅对文革时期的死亡…",
-    "content": "Getty Images 历史事实和大量学术研究显示，共产政权国家的每一场运动常常伴随着可怕的政治暴力与“集体杀戮”（包括国家恐怖、清洗、镇压、强制劳动、饥荒导致的大规模死亡等），半个多世纪前发生在中国的“文化大革命”也不例外。 然而，“文革”时期的极端暴力与“集体杀戮”，是一段极力被掩盖和扭曲，世人所普遍忽视的历史。 近年来，随着文革资料的收集和研究的深入，这一段鲜为人知的“集体杀戮”历史也开始浮现出来。 这些研究不仅对文革时期的死亡人数有了更接地一些的估算，更有助改变人们对文革的一些错误认识：文革时期造成死亡最…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c5yv23m78x0o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "街頭服飾與露臍上衣如何讓世界盃時尚推向新高度",
-    "link": "https://www.bbc.com/zhongwen/articles/c5yv23m78x0o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-04-05 15:51:19",
-    "author": "",
-    "description": "Adidas/Getty Images 每届国际足联世界杯（FIFA World Cup），球衣的推出总是球迷最期待的环节之一。 今年两大主要球衣制造商——阿迪达斯（Adidas；爱迪达）与耐克（Nike；耐吉）——的宣传活动，与以往相比出现明显转变：它们不再只是推出传统搭配的足球短裤、袜子与球鞋，而是推出更具街头服饰风格的系列。 这些系列深受球场内外足球文化的启发，将经典复刻款与街头服饰的基本单品巧妙融合。 耐克推出世界杯主场球衣时，…",
-    "content": "Adidas/Getty Images 每届国际足联世界杯（FIFA World Cup），球衣的推出总是球迷最期待的环节之一。 今年两大主要球衣制造商——阿迪达斯（Adidas；爱迪达）与耐克（Nike；耐吉）——的宣传活动，与以往相比出现明显转变：它们不再只是推出传统搭配的足球短裤、袜子与球鞋，而是推出更具街头服饰风格的系列。 这些系列深受球场内外足球文化的启发，将经典复刻款与街头服饰的基本单品巧妙融合。 耐克推出世界杯主场球衣时，特别拍摄了一支宛如好莱坞大片的短片，由维吉尔·范戴克（Virgil van Di…"
   }
 ];
 
