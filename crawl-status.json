@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-06-17T00:12:27.528Z",
-  "ended_at": "2026-06-17T00:12:27.724Z",
-  "duration_ms": 196,
+  "started_at": "2026-06-17T10:27:49.011Z",
+  "ended_at": "2026-06-17T10:27:49.198Z",
+  "duration_ms": 187,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -17,12 +17,12 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 46,
-    "failed_sources": 13,
-    "circuit_open_sources": 13,
+    "cache_hit_sources": 47,
+    "failed_sources": 12,
+    "circuit_open_sources": 12,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1326,
-    "total_items_after_retention": 1120,
+    "total_items_after_dedupe": 1376,
+    "total_items_after_retention": 1172,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -88,12 +88,6 @@
       "skippedByCircuit": true
     },
     {
-      "title": "超能网",
-      "url": "https://plink.anyfeeder.com/expreview",
-      "reason": "Feed not recognized as RSS 1 or 2.",
-      "skippedByCircuit": true
-    },
-    {
       "title": "FreeBuf 关注黑客",
       "url": "https://plink.anyfeeder.com/freebuf",
       "reason": "HTTP 405",
@@ -156,11 +150,6 @@
       "title": "极客公园",
       "url": "https://www.geekpark.net/rss",
       "reason": "request to https://www.geekpark.net/rss failed, reason: socket hang up"
-    },
-    {
-      "title": "超能网",
-      "url": "https://plink.anyfeeder.com/expreview",
-      "reason": "Feed not recognized as RSS 1 or 2."
     },
     {
       "title": "FreeBuf 关注黑客",
