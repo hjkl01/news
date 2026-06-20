@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-06-20T00:03:54.944Z",
-  "ended_at": "2026-06-20T00:03:55.132Z",
-  "duration_ms": 188,
+  "started_at": "2026-06-20T08:43:00.038Z",
+  "ended_at": "2026-06-20T08:43:00.214Z",
+  "duration_ms": 176,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -21,8 +21,8 @@
     "failed_sources": 12,
     "circuit_open_sources": 12,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1383,
-    "total_items_after_retention": 1174,
+    "total_items_after_dedupe": 1372,
+    "total_items_after_retention": 1155,
     "build_blocked": false
   },
   "critical_failures": [],
