@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-06-23T09:24:33.733Z",
-  "ended_at": "2026-06-23T09:24:33.905Z",
-  "duration_ms": 172,
+  "started_at": "2026-06-23T23:51:56.331Z",
+  "ended_at": "2026-06-23T23:51:56.506Z",
+  "duration_ms": 175,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -17,12 +17,12 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 47,
-    "failed_sources": 12,
-    "circuit_open_sources": 12,
+    "cache_hit_sources": 46,
+    "failed_sources": 13,
+    "circuit_open_sources": 13,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1364,
-    "total_items_after_retention": 1160,
+    "total_items_after_dedupe": 1357,
+    "total_items_after_retention": 1164,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -84,13 +84,19 @@
     {
       "title": "极客公园",
       "url": "https://www.geekpark.net/rss",
-      "reason": "The operation was aborted.",
+      "reason": "request to https://www.geekpark.net/rss failed, reason: socket hang up",
       "skippedByCircuit": true
     },
     {
       "title": "FreeBuf 关注黑客",
       "url": "https://plink.anyfeeder.com/freebuf",
       "reason": "HTTP 405",
+      "skippedByCircuit": true
+    },
+    {
+      "title": "Epic Game",
+      "url": "https://www.epicbundle.com/feed/",
+      "reason": "HTTP 415",
       "skippedByCircuit": true
     },
     {
@@ -149,12 +155,17 @@
     {
       "title": "极客公园",
       "url": "https://www.geekpark.net/rss",
-      "reason": "The operation was aborted."
+      "reason": "request to https://www.geekpark.net/rss failed, reason: socket hang up"
     },
     {
       "title": "FreeBuf 关注黑客",
       "url": "https://plink.anyfeeder.com/freebuf",
       "reason": "HTTP 405"
+    },
+    {
+      "title": "Epic Game",
+      "url": "https://www.epicbundle.com/feed/",
+      "reason": "HTTP 415"
     },
     {
       "title": "微博 / 热搜榜",
