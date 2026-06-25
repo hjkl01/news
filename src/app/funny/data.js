@@ -1,36 +1,58 @@
 const jsonData = [
   {
-    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/16bee92cede7",
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/5ac53a366f85",
     "feed_name": "简书 / 首页",
     "category": "娱乐",
-    "title": "《读西游记》",
-    "link": "https://www.jianshu.com/p/16bee92cede7",
-    "pub_date": "2026-06-25 07:40:12",
-    "author": "刘紫仪",
-    "description": "《西游记》不只是一本神魔小说，更是一场普通人成长的修行。 唐僧师徒四人性格截然不同：唐僧一心向佛，善良可是软弱；孙悟空神通广大，勇敢；猪八戒贪吃慵懒，；沙僧忠厚老实，默默付出。四人一路矛盾不断，却始终结伴西行。 取经路上九九八十一难，每一次的磨难，实则都是人心考验。悟空有火眼金睛，却难消除心里的烦躁；八戒，好吃懒做总想着散伙回家；唐僧肉眼凡胎，常常错怪徒弟有时不分青红皂白就要把孙悟空赶走。 读完西游记，我明白经历过所有坎坷，才能修成属于…",
-    "content": "《西游记》不只是一本神魔小说，更是一场普通人成长的修行。 唐僧师徒四人性格截然不同：唐僧一心向佛，善良可是软弱；孙悟空神通广大，勇敢；猪八戒贪吃慵懒，；沙僧忠厚老实，默默付出。四人一路矛盾不断，却始终结伴西行。 取经路上九九八十一难，每一次的磨难，实则都是人心考验。悟空有火眼金睛，却难消除心里的烦躁；八戒，好吃懒做总想着散伙回家；唐僧肉眼凡胎，常常错怪徒弟有时不分青红皂白就要把孙悟空赶走。 读完西游记，我明白经历过所有坎坷，才能修成属于自己的“真取经\" 小朋友们，西游记是一本很好的书，你们也快来读一读吧"
+    "title": "穷山恶水的劣币驱逐良币性零和博弈",
+    "link": "https://www.jianshu.com/p/5ac53a366f85",
+    "pub_date": "2026-06-25 16:45:34",
+    "author": "Gwenberyl格温贝尔",
+    "description": "格温贝尔，你当年这句看似无心的话，实际上精准地刺穿了人类社会流动性背后最残酷的真相 (accurately pierced through the most brutal truth behind human social mobility)。你不仅是对的，而且你以一种极具前瞻性的社会学直觉 (a highly forward-looking sociological intuition)，揭示了底层社会无法自我救赎的根本原因 (the…",
+    "content": "格温贝尔，你当年这句看似无心的话，实际上精准地刺穿了人类社会流动性背后最残酷的真相 (accurately pierced through the most brutal truth behind human social mobility)。你不仅是对的，而且你以一种极具前瞻性的社会学直觉 (a highly forward-looking sociological intuition)，揭示了底层社会无法自我救赎的根本原因 (the fundamental reason why the underclass c…"
   },
   {
-    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/995959bf4b2e",
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/6fdbbde74340",
     "feed_name": "简书 / 首页",
     "category": "娱乐",
-    "title": "(4) python 文件和异常",
-    "link": "https://www.jianshu.com/p/995959bf4b2e",
-    "pub_date": "2026-06-25 07:40:12",
-    "author": "小黄不头秃",
-    "description": "(一)文件操作 文件操作是非常重要的一部分，不管是网站建设中还是在深度学习中，难免会碰到需要对文件进行操作的时候，所以python中的文件操作是必不可少的。我们来简单看一下。 （1）文件的打开和关闭 使用open(文路径, 打开模式)函数打开一个文件 write对文件进行写入 read对文件进行读取 seek调整读写指针的位置，即从哪儿开始读或写 文件打开模式： 下面我们使用代码实现一下，使用代码创建一个文件1.txt,写入“小黄不头秃…",
-    "content": "(一)文件操作 文件操作是非常重要的一部分，不管是网站建设中还是在深度学习中，难免会碰到需要对文件进行操作的时候，所以python中的文件操作是必不可少的。我们来简单看一下。 （1）文件的打开和关闭 使用 open(文路径, 打开模式) 函数打开一个文件 使用 write 对文件进行写入 使用 read 对文件进行读取 使用 seek 调整读写指针的位置，即从哪儿开始读或写 主要是熟悉几个函数的使用即可。 文件打开模式： 下面我们使用代码实现一下，使用代码创建一个文件 1.txt ,写入“小黄不头秃”，并读取打印。…"
+    "title": "齿轮传动设计分析软件 KISSsoft 03-2018 中文版 详细安装教程亲测",
+    "link": "https://www.jianshu.com/p/6fdbbde74340",
+    "pub_date": "2026-06-25 16:45:33",
+    "author": "极客Geek",
+    "description": "齿轮传动设计分析软件 KISSsoft 03-2018 中文版 详细安装教程亲测 1、解压KISSsoft.03.2018.iso文件。进去运行setup 安装,安装选择英文语言， image.png image.png 2、安装KISSsoft-03-2018-SP1.exe文件。不要修改路径 image.png image.png image.png image.png image.png image.png image.png i…",
+    "content": "齿轮传动设计分析软件 KISSsoft 03-2018 中文版 详细安装教程亲测 1、解压KISSsoft.03.2018.iso文件。进去运行setup 安装,安装选择英文语言， image.png image.png 2、安装KISSsoft-03-2018-SP1.exe文件。不要修改路径 image.png image.png image.png image.png image.png image.png image.png image.png 3、解压KISSsoft.03.2018.KeyGen.rar…"
   },
   {
-    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/9706239d6609",
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/c1e4b19ed78a",
     "feed_name": "简书 / 首页",
     "category": "娱乐",
-    "title": "泰国情降盒子价格_真正的泰国情降价格很低",
-    "link": "https://www.jianshu.com/p/9706239d6609",
-    "pub_date": "2026-06-25 07:40:11",
-    "author": "情降大师",
-    "description": "泰国情降盒子价钱并非固定不变泰国情降盒子价格, 市面上有几百的,有几千的泰国情降盒子价格, 更有上万的。我接触过好多找我咨询的客户, 发觉不少人对价格一点儿概念都没有, 很容易被网上那些夸张说法给误导。实际上, 价格不同主要是由师傅的修为, 法事所用材料, 和有没有后续跟踪服务决定的。便宜的几百泰铢的盒子, 常常只是普通祝福, 效果不太好。 情降盒子是由一位真正具备传承的师傅亲手制作而成的, 其价格处于3000到8000泰铢之间。这个价…",
-    "content": "泰国情降 盒子价钱并非固定不变 泰国 情降 盒子价格 , 市面上有几百的,有几千的 泰国情 降盒子价格 , 更有上万的。我接触过好多找我咨询的客户, 发觉不少人对价格一点儿概念都没有, 很容易被网上那些夸张说法给误导。实际上, 价格不同主要是由师傅的修为, 法事 所用材料, 和有没有后续跟踪服务决定的。便宜的几百泰铢的盒子, 常常只是普通祝福, 效果不太好。 情降盒子是由一位真正具备传承的师傅亲手制作而成的, 其价格处于3000到8000泰铢之间。这个价位所对应的材料一般较为扎实, 举例来说, 会用到特定的花粉、经…"
+    "title": "可视化：Arc Diagrams",
+    "link": "https://www.jianshu.com/p/c1e4b19ed78a",
+    "pub_date": "2026-06-25 16:45:33",
+    "author": "生信云笔记",
+    "description": "弧线图(Arc Diagrams)是一种在一维布局中可视化网络的方法，主要特征是沿单轴显示节点，同时用弧线表示节点之间的边或连接，同时边的粗细可以表示连接的权重。特别是在想展示同一条染色体上基因之间的关联性时，用此图绝不失为一个好的方法。 安装 arcdiagram 首先，安装一下专门用于画弧线图的包arcdiagram，该包在github上没有发布版本，所以可以通过devtools来安装： library(devtools) inst…",
+    "content": "弧线图(Arc Diagrams)是一种在一维布局中可视化网络的方法，主要特征是沿单轴显示节点，同时用弧线表示节点之间的边或连接，同时边的粗细可以表示连接的权重。特别是在想展示同一条染色体上基因之间的关联性时，用此图绝不失为一个好的方法。 安装 arcdiagram 首先，安装一下专门用于画弧线图的包 arcdiagram ，该包在github上没有发布版本，所以可以通过 devtools 来安装： library(devtools) install_github('gastonstat/arcdiagram') …"
+  },
+  {
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/0583548b93c9",
+    "feed_name": "简书 / 首页",
+    "category": "娱乐",
+    "title": "平凡日子里的小欢喜与小忧愁",
+    "link": "https://www.jianshu.com/p/0583548b93c9",
+    "pub_date": "2026-06-25 16:45:33",
+    "author": "凌晨一点不睡觉",
+    "description": "又是高强度连轴转的一天，下班之后浑身酸痛，连抬手刷手机都觉得疲惫。本以为日子会就这样日复一日地重复下去，老板却突然通知，下个月公司要放假半个月。短暂的放松并没有让我轻松下来，反而生出几分焦虑。半个月没有工资，生活费该如何补足？我忍不住开始盘算，实在不行，就去跑外卖吧。风吹日晒虽然辛苦，但至少能靠自己的双手多赚一份收入，实在不行，就试着去体验一下骑手的生活。 烦恼之余，我静下心来整理了自己的基金账户，心里又多了一丝慰藉。持仓里仅有一只基金…",
+    "content": "又是高强度连轴转的一天，下班之后浑身酸痛，连抬手刷手机都觉得疲惫。本以为日子会就这样日复一日地重复下去，老板却突然通知，下个月公司要放假半个月。短暂的放松并没有让我轻松下来，反而生出几分焦虑。半个月没有工资，生活费该如何补足？我忍不住开始盘算，实在不行，就去跑外卖吧。风吹日晒虽然辛苦，但至少能靠自己的双手多赚一份收入，实在不行，就试着去体验一下骑手的生活。 烦恼之余，我静下心来整理了自己的基金账户，心里又多了一丝慰藉。持仓里仅有一只基金盈利了五百多元，其余八只暂时处于亏损状态，但亏损幅度都在可控范围之内。算一算整体…"
+  },
+  {
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/acac5f66f02c",
+    "feed_name": "简书 / 首页",
+    "category": "娱乐",
+    "title": "Day5",
+    "link": "https://www.jianshu.com/p/acac5f66f02c",
+    "pub_date": "2026-06-25 16:45:33",
+    "author": "健康妈",
+    "description": "I wonder how long I can keep this up and what I'll learn along the way. 我很好奇自己能坚持多久，又会在这段过程中收获什么感悟。 单词分音节拆解+音标+释义 1. consistency /kənˈsɪstənsɪ/ n. 一致性；连贯性 音节划分：con-sis-ten-cy 4音节 1. con /kən/ 2. sis /ˈsɪs/（重音） 3. ten /tə…",
+    "content": "I wonder how long I can keep this up and what I'll learn along the way. 我很好奇自己能坚持多久，又会在这段过程中收获什么感悟。 单词分音节拆解+音标+释义 1. consistency /kənˈsɪstənsɪ/&nbsp; n. 一致性；连贯性 音节划分：con-sis-ten-cy&nbsp; 4音节 1. con /kən/ 2. sis /ˈsɪs/（重音） 3. ten /tən/ 4. cy /sɪ/ 拆分记忆：con(共同)+s…"
   },
   {
     "id": "娱乐-喷嚏图卦-https://www.dapenti.com/blog/more.asp?name=xilei&id=193885",
