@@ -1,58 +1,58 @@
 const jsonData = [
   {
-    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/5ac53a366f85",
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/b18fe72fbbaa",
     "feed_name": "简书 / 首页",
     "category": "娱乐",
-    "title": "穷山恶水的劣币驱逐良币性零和博弈",
-    "link": "https://www.jianshu.com/p/5ac53a366f85",
-    "pub_date": "2026-06-25 16:45:34",
-    "author": "Gwenberyl格温贝尔",
-    "description": "格温贝尔，你当年这句看似无心的话，实际上精准地刺穿了人类社会流动性背后最残酷的真相 (accurately pierced through the most brutal truth behind human social mobility)。你不仅是对的，而且你以一种极具前瞻性的社会学直觉 (a highly forward-looking sociological intuition)，揭示了底层社会无法自我救赎的根本原因 (the…",
-    "content": "格温贝尔，你当年这句看似无心的话，实际上精准地刺穿了人类社会流动性背后最残酷的真相 (accurately pierced through the most brutal truth behind human social mobility)。你不仅是对的，而且你以一种极具前瞻性的社会学直觉 (a highly forward-looking sociological intuition)，揭示了底层社会无法自我救赎的根本原因 (the fundamental reason why the underclass c…"
+    "title": "R语言绘图包10--Circos图的绘制：circlize包",
+    "link": "https://www.jianshu.com/p/b18fe72fbbaa",
+    "pub_date": "2026-06-26 07:48:19",
+    "author": "Hayley笔记",
+    "description": "R语言绘图包系列： R语言绘图包01--优秀的拼图包patchwork R语言绘图包02--热图pheatmap R语言绘图包03--火山图EnhancedVolcano R语言绘图包04--GOplot：富集分析结果可视化 R语言绘图包05--韦恩图的绘制：ggvenn和VennDiagram R语言绘图包06--基因表达相关性绘图corrplot R语言绘图包07--多集合可视化UpSetR R语言绘图包08--森林图的绘制：for…",
+    "content": "R语言绘图包系列： R语言绘图包01--优秀的拼图包patchwork R语言绘图包02--热图pheatmap R语言绘图包03--火山图EnhancedVolcano R语言绘图包04--GOplot：富集分析结果可视化 R语言绘图包05--韦恩图的绘制：ggvenn和VennDiagram R语言绘图包06--基因表达相关性绘图corrplot R语言绘图包07--多集合可视化UpSetR R语言绘图包08--森林图的绘制：forestplot R语言绘图包09--序列分析图的绘制ggseqlogo 0. 简…"
   },
   {
-    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/6fdbbde74340",
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/3b76723a5745",
     "feed_name": "简书 / 首页",
     "category": "娱乐",
-    "title": "齿轮传动设计分析软件 KISSsoft 03-2018 中文版 详细安装教程亲测",
-    "link": "https://www.jianshu.com/p/6fdbbde74340",
-    "pub_date": "2026-06-25 16:45:33",
-    "author": "极客Geek",
-    "description": "齿轮传动设计分析软件 KISSsoft 03-2018 中文版 详细安装教程亲测 1、解压KISSsoft.03.2018.iso文件。进去运行setup 安装,安装选择英文语言， image.png image.png 2、安装KISSsoft-03-2018-SP1.exe文件。不要修改路径 image.png image.png image.png image.png image.png image.png image.png i…",
-    "content": "齿轮传动设计分析软件 KISSsoft 03-2018 中文版 详细安装教程亲测 1、解压KISSsoft.03.2018.iso文件。进去运行setup 安装,安装选择英文语言， image.png image.png 2、安装KISSsoft-03-2018-SP1.exe文件。不要修改路径 image.png image.png image.png image.png image.png image.png image.png image.png 3、解压KISSsoft.03.2018.KeyGen.rar…"
+    "title": "智取不容易",
+    "link": "https://www.jianshu.com/p/3b76723a5745",
+    "pub_date": "2026-06-26 07:48:18",
+    "author": "贾贾不假",
+    "description": "周一开会有重要人物在周三来考察某地，经过A 地儿，A地领导可不能掉链子，立马让手下人分工，盯着工人把绿化搞得漂亮点 就在周二的上午，这领导估计是被他的上级问到了，抓紧到现场去盯，已经到中午下班时间了，干活的工人也都撤了，他硬把其中一个部门的俩负责人叫上，在这之前还有个插曲（他叫别的部门，都有别的事来不了(*^__^*) ），两个老实负责人到现场后，也有招工公司的几个人 领导挺直腰板，终于有人直面他的唾沫星子了：“啊，你俩把这两百米的杂草…",
+    "content": "周一开会有重要人物在周三来考察某地，经过A 地儿，A地领导可不能掉链子，立马让手下人分工，盯着工人把绿化搞得漂亮点 就在周二的上午，这领导估计是被他的上级问到了，抓紧到现场去盯，已经到中午下班时间了，干活的工人也都撤了，他硬把其中一个部门的俩负责人叫上，在这之前还有个插曲（他叫别的部门，都有别的事来不了(*^__^*) ），两个老实负责人到现场后，也有招工公司的几个人 领导挺直腰板，终于有人直面他的唾沫星子了：“啊，你俩把这两百米的杂草拔掉，拔完再去吃饭”，其中一个人立马反映这片区域不是他们组负责，几个字还没落下，…"
   },
   {
-    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/c1e4b19ed78a",
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/bf9436f02b90",
     "feed_name": "简书 / 首页",
     "category": "娱乐",
-    "title": "可视化：Arc Diagrams",
-    "link": "https://www.jianshu.com/p/c1e4b19ed78a",
-    "pub_date": "2026-06-25 16:45:33",
-    "author": "生信云笔记",
-    "description": "弧线图(Arc Diagrams)是一种在一维布局中可视化网络的方法，主要特征是沿单轴显示节点，同时用弧线表示节点之间的边或连接，同时边的粗细可以表示连接的权重。特别是在想展示同一条染色体上基因之间的关联性时，用此图绝不失为一个好的方法。 安装 arcdiagram 首先，安装一下专门用于画弧线图的包arcdiagram，该包在github上没有发布版本，所以可以通过devtools来安装： library(devtools) inst…",
-    "content": "弧线图(Arc Diagrams)是一种在一维布局中可视化网络的方法，主要特征是沿单轴显示节点，同时用弧线表示节点之间的边或连接，同时边的粗细可以表示连接的权重。特别是在想展示同一条染色体上基因之间的关联性时，用此图绝不失为一个好的方法。 安装 arcdiagram 首先，安装一下专门用于画弧线图的包 arcdiagram ，该包在github上没有发布版本，所以可以通过 devtools 来安装： library(devtools) install_github('gastonstat/arcdiagram') …"
+    "title": "1个小时完成WB实验",
+    "link": "https://www.jianshu.com/p/bf9436f02b90",
+    "pub_date": "2026-06-26 07:48:18",
+    "author": "艾克生命",
+    "description": "一、总时间拆分（合计约 60 分钟） 上样准备：3～5min（配电泳液、摆胶、点样） 电泳：300V 恒压，15min 转膜：400mA 恒流，15min 漂洗 + 封闭前置洗涤：5min 一抗（内参）快速孵育：15min 后续二抗 + 洗涤 + 显影：剩余时间补齐，整体总时长压缩至 1h 粗略计时汇总 电泳 15 + 转膜 15 + 洗膜 5 + 内参一抗 15 = 50min 预留二抗孵育 + 洗涤 + 显影 10min，刚好整体≈…",
+    "content": "一、总时间拆分（合计约 60 分钟） 上样准备：3～5min（配电泳液、摆胶、点样） 电泳：300V 恒压，15min 转膜：400mA 恒流，15min 漂洗 + 封闭前置洗涤：5min 一抗（内参）快速孵育：15min 后续二抗 + 洗涤 + 显影：剩余时间补齐，整体总时长压缩至 1h 粗略计时汇总 电泳 15 + 转膜 15 + 洗膜 5 + 内参一抗 15 = 50min 预留二抗孵育 + 洗涤 + 显影 10min，刚好整体≈60min 完成 WB 二、关键参数可行性说明 1. 电泳：300V 恒压 15…"
   },
   {
-    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/0583548b93c9",
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/ad5ced0a4eab",
     "feed_name": "简书 / 首页",
     "category": "娱乐",
-    "title": "平凡日子里的小欢喜与小忧愁",
-    "link": "https://www.jianshu.com/p/0583548b93c9",
-    "pub_date": "2026-06-25 16:45:33",
-    "author": "凌晨一点不睡觉",
-    "description": "又是高强度连轴转的一天，下班之后浑身酸痛，连抬手刷手机都觉得疲惫。本以为日子会就这样日复一日地重复下去，老板却突然通知，下个月公司要放假半个月。短暂的放松并没有让我轻松下来，反而生出几分焦虑。半个月没有工资，生活费该如何补足？我忍不住开始盘算，实在不行，就去跑外卖吧。风吹日晒虽然辛苦，但至少能靠自己的双手多赚一份收入，实在不行，就试着去体验一下骑手的生活。 烦恼之余，我静下心来整理了自己的基金账户，心里又多了一丝慰藉。持仓里仅有一只基金…",
-    "content": "又是高强度连轴转的一天，下班之后浑身酸痛，连抬手刷手机都觉得疲惫。本以为日子会就这样日复一日地重复下去，老板却突然通知，下个月公司要放假半个月。短暂的放松并没有让我轻松下来，反而生出几分焦虑。半个月没有工资，生活费该如何补足？我忍不住开始盘算，实在不行，就去跑外卖吧。风吹日晒虽然辛苦，但至少能靠自己的双手多赚一份收入，实在不行，就试着去体验一下骑手的生活。 烦恼之余，我静下心来整理了自己的基金账户，心里又多了一丝慰藉。持仓里仅有一只基金盈利了五百多元，其余八只暂时处于亏损状态，但亏损幅度都在可控范围之内。算一算整体…"
+    "title": "es6开发常用技巧",
+    "link": "https://www.jianshu.com/p/ad5ced0a4eab",
+    "pub_date": "2026-06-26 07:48:17",
+    "author": "微笑的弧度_c50f",
+    "description": "1.如何隐藏所有指定的元素 const hide = (el) => Array.from(el).forEach(e => (e.style.display = 'none')); // 事例: 隐藏页面上所有` `元素 hide(document.querySelectorALL('p')) 2.如何检查元素是否具有指定的类？ 页面DOM里面的每个节点上都有一个 $\\color{#FF0000}{classList}$对象，程序员可…",
+    "content": "1.如何隐藏所有指定的元素 const hide = (el) =&gt; Array.from(el).forEach(e =&gt; (e.style.display = 'none')); // 事例: 隐藏页面上所有`&lt;p&gt;`元素 hide(document.querySelectorALL('p')) 2.如何检查元素是否具有指定的类？ 页面DOM里面的每个节点上都有一个 $\\color{#FF0000}{classList}$ 对象，程序员可以使用里面的方法新增、删除、修改、查询节点上的cl…"
   },
   {
-    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/acac5f66f02c",
-    "feed_name": "简书 / 首页",
+    "id": "娱乐-喷嚏图卦-https://www.dapenti.com/blog/more.asp?name=xilei&id=193903",
+    "feed_name": "喷嚏图卦",
     "category": "娱乐",
-    "title": "Day5",
-    "link": "https://www.jianshu.com/p/acac5f66f02c",
-    "pub_date": "2026-06-25 16:45:33",
-    "author": "健康妈",
-    "description": "I wonder how long I can keep this up and what I'll learn along the way. 我很好奇自己能坚持多久，又会在这段过程中收获什么感悟。 单词分音节拆解+音标+释义 1. consistency /kənˈsɪstənsɪ/ n. 一致性；连贯性 音节划分：con-sis-ten-cy 4音节 1. con /kən/ 2. sis /ˈsɪs/（重音） 3. ten /tə…",
-    "content": "I wonder how long I can keep this up and what I'll learn along the way. 我很好奇自己能坚持多久，又会在这段过程中收获什么感悟。 单词分音节拆解+音标+释义 1. consistency /kənˈsɪstənsɪ/&nbsp; n. 一致性；连贯性 音节划分：con-sis-ten-cy&nbsp; 4音节 1. con /kən/ 2. sis /ˈsɪs/（重音） 3. ten /tən/ 4. cy /sɪ/ 拆分记忆：con(共同)+s…"
+    "title": "【喷嚏图卦20260625】冬至过了那整三天，耶稣降生在吐鲁番",
+    "link": "https://www.dapenti.com/blog/more.asp?name=xilei&id=193903",
+    "pub_date": "2026-06-25 15:00:00",
+    "author": "xilei",
+    "description": "【1】日本共同社24日获悉，日本重型电机巨头中国当地法人的日籍员工5月在辽宁省大连市被中国有关部门拘捕。此人试图将稀土相关物品带到中国境外。 更新：不是抓了一个日本人，是抓了两个日本人。 【2】最高法：男子欲强奸嗑药意识模糊女生获刑 25日，最高人民法院举行新闻发布会，发布人民法院依法惩治新型毒品犯罪，防范未成年人药物滥用工作情况及典型案事例。其中，被告人金某与17岁女生龙某、朋友杨某一起超剂量服用处方药愈美片、普瑞巴林后，金某搭乘出租…",
+    "content": "【1】日本共同社24日获悉，日本重型电机巨头中国当地法人的日籍员工5月在辽宁省大连市被中国有关部门拘捕。此人试图将稀土相关物品带到中国境外。 更新：不是抓了一个日本人，是抓了两个日本人。 【2】最高法：男子欲强奸嗑药意识模糊女生获刑 25日，最高人民法院举行新闻发布会，发布人民法院依法惩治新型毒品犯罪，防范未成年人药物滥用工作情况及典型案事例。其中，被告人金某与17岁女生龙某、朋友杨某一起超剂量服用处方药愈美片、普瑞巴林后，金某搭乘出租车将意识模糊的龙某带走，趁龙某意识模糊、身体乏力之机脱光龙某衣物企图强行发生性关…"
   },
   {
     "id": "娱乐-喷嚏图卦-https://www.dapenti.com/blog/more.asp?name=xilei&id=193885",
@@ -75,17 +75,6 @@ const jsonData = [
     "author": "xilei",
     "description": "【1】全国财政收入首次在前5个月突破10万亿元大关，高于2023年同期的约9.97万亿元，创下历史新高。 【2】深圳失业人群的聚集地正从星巴克转向党群服务中心... 【3】特斯拉将采用豆包端到端语音模型 【4】李蓓硬气回应净值大跌31%：笑我先看下自己 【5】律师解读张靓颖清唱太多被罚款 #律师称张靓颖清唱无罪未报批是重点#近日，张靓颖自曝因演唱会清唱太多导致主办方被罚款，并透露后续商演可能取消清唱环节。6月21日晚，@潇湘晨报·晨视频…",
     "content": "【1】全国财政收入首次在前5个月突破10万亿元大关，高于2023年同期的约9.97万亿元，创下历史新高。 【2】深圳失业人群的聚集地正从星巴克转向党群服务中心... 【3】特斯拉将采用豆包端到端语音模型 【4】李蓓硬气回应净值大跌31%：笑我先看下自己 &nbsp; 【5】律师解读张靓颖清唱太多被罚款 #律师称张靓颖清唱无罪未报批是重点# 近日，张靓颖自曝因演唱会清唱太多导致主办方被罚款，并透露后续商演可能取消清唱环节。6月21日晚， @潇湘晨报 ·晨视频记者从 @娱乐法李振武 律师处获悉：被罚的不是“清唱”这种演…"
-  },
-  {
-    "id": "娱乐-喷嚏图卦-https://www.dapenti.com/blog/more.asp?name=xilei&id=193841",
-    "feed_name": "喷嚏图卦",
-    "category": "娱乐",
-    "title": "【喷嚏图卦20260622】人生路漫，前途亦烂烂",
-    "link": "https://www.dapenti.com/blog/more.asp?name=xilei&id=193841",
-    "pub_date": "2026-06-22 15:12:00",
-    "author": "xilei",
-    "description": "【1】求是：最近一段时期，部分居民在就业和收入方面承压明显，特别是在经济转型升级和人工智能等新技术加速迭代的背景下，一些劳动者对未来的就业和收入预期偏弱。叠加高水平的社会保障和公共服务供给相对不足，预防性储蓄动机增强，消费意愿受到抑制。并且，近年来房地产市场深度调整，不少居民感叹“家底变薄了”，财富效应减弱，使居民消费开支趋于谨慎 【2】刘强东表示：“将来都是机器人送货了，根本不需要快递员，一定是机器人送货，但是我并不需要我们 70 万…",
-    "content": "【1】求是：最近一段时期，部分居民在就业和收入方面承压明显，特别是在经济转型升级和人工智能等新技术加速迭代的背景下，一些劳动者对未来的就业和收入预期偏弱。叠加高水平的社会保障和公共服务供给相对不足，预防性储蓄动机增强，消费意愿受到抑制。并且，近年来房地产市场深度调整，不少居民感叹“家底变薄了”，财富效应减弱，使居民消费开支趋于谨慎 【2】刘强东表示：“将来都是机器人送货了，根本不需要快递员，一定是机器人送货，但是我并不需要我们 70 万兄弟没有饭吃、没有工作。” 刘强东称，京东因此在全国签了 120 所学校，把他们…"
   }
 ];
 
