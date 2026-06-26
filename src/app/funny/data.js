@@ -1,47 +1,14 @@
 const jsonData = [
   {
-    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/b18fe72fbbaa",
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/c66533aa3adb",
     "feed_name": "简书 / 首页",
     "category": "娱乐",
-    "title": "R语言绘图包10--Circos图的绘制：circlize包",
-    "link": "https://www.jianshu.com/p/b18fe72fbbaa",
-    "pub_date": "2026-06-26 07:48:19",
-    "author": "Hayley笔记",
-    "description": "R语言绘图包系列： R语言绘图包01--优秀的拼图包patchwork R语言绘图包02--热图pheatmap R语言绘图包03--火山图EnhancedVolcano R语言绘图包04--GOplot：富集分析结果可视化 R语言绘图包05--韦恩图的绘制：ggvenn和VennDiagram R语言绘图包06--基因表达相关性绘图corrplot R语言绘图包07--多集合可视化UpSetR R语言绘图包08--森林图的绘制：for…",
-    "content": "R语言绘图包系列： R语言绘图包01--优秀的拼图包patchwork R语言绘图包02--热图pheatmap R语言绘图包03--火山图EnhancedVolcano R语言绘图包04--GOplot：富集分析结果可视化 R语言绘图包05--韦恩图的绘制：ggvenn和VennDiagram R语言绘图包06--基因表达相关性绘图corrplot R语言绘图包07--多集合可视化UpSetR R语言绘图包08--森林图的绘制：forestplot R语言绘图包09--序列分析图的绘制ggseqlogo 0. 简…"
-  },
-  {
-    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/3b76723a5745",
-    "feed_name": "简书 / 首页",
-    "category": "娱乐",
-    "title": "智取不容易",
-    "link": "https://www.jianshu.com/p/3b76723a5745",
-    "pub_date": "2026-06-26 07:48:18",
-    "author": "贾贾不假",
-    "description": "周一开会有重要人物在周三来考察某地，经过A 地儿，A地领导可不能掉链子，立马让手下人分工，盯着工人把绿化搞得漂亮点 就在周二的上午，这领导估计是被他的上级问到了，抓紧到现场去盯，已经到中午下班时间了，干活的工人也都撤了，他硬把其中一个部门的俩负责人叫上，在这之前还有个插曲（他叫别的部门，都有别的事来不了(*^__^*) ），两个老实负责人到现场后，也有招工公司的几个人 领导挺直腰板，终于有人直面他的唾沫星子了：“啊，你俩把这两百米的杂草…",
-    "content": "周一开会有重要人物在周三来考察某地，经过A 地儿，A地领导可不能掉链子，立马让手下人分工，盯着工人把绿化搞得漂亮点 就在周二的上午，这领导估计是被他的上级问到了，抓紧到现场去盯，已经到中午下班时间了，干活的工人也都撤了，他硬把其中一个部门的俩负责人叫上，在这之前还有个插曲（他叫别的部门，都有别的事来不了(*^__^*) ），两个老实负责人到现场后，也有招工公司的几个人 领导挺直腰板，终于有人直面他的唾沫星子了：“啊，你俩把这两百米的杂草拔掉，拔完再去吃饭”，其中一个人立马反映这片区域不是他们组负责，几个字还没落下，…"
-  },
-  {
-    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/bf9436f02b90",
-    "feed_name": "简书 / 首页",
-    "category": "娱乐",
-    "title": "1个小时完成WB实验",
-    "link": "https://www.jianshu.com/p/bf9436f02b90",
-    "pub_date": "2026-06-26 07:48:18",
-    "author": "艾克生命",
-    "description": "一、总时间拆分（合计约 60 分钟） 上样准备：3～5min（配电泳液、摆胶、点样） 电泳：300V 恒压，15min 转膜：400mA 恒流，15min 漂洗 + 封闭前置洗涤：5min 一抗（内参）快速孵育：15min 后续二抗 + 洗涤 + 显影：剩余时间补齐，整体总时长压缩至 1h 粗略计时汇总 电泳 15 + 转膜 15 + 洗膜 5 + 内参一抗 15 = 50min 预留二抗孵育 + 洗涤 + 显影 10min，刚好整体≈…",
-    "content": "一、总时间拆分（合计约 60 分钟） 上样准备：3～5min（配电泳液、摆胶、点样） 电泳：300V 恒压，15min 转膜：400mA 恒流，15min 漂洗 + 封闭前置洗涤：5min 一抗（内参）快速孵育：15min 后续二抗 + 洗涤 + 显影：剩余时间补齐，整体总时长压缩至 1h 粗略计时汇总 电泳 15 + 转膜 15 + 洗膜 5 + 内参一抗 15 = 50min 预留二抗孵育 + 洗涤 + 显影 10min，刚好整体≈60min 完成 WB 二、关键参数可行性说明 1. 电泳：300V 恒压 15…"
-  },
-  {
-    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/ad5ced0a4eab",
-    "feed_name": "简书 / 首页",
-    "category": "娱乐",
-    "title": "es6开发常用技巧",
-    "link": "https://www.jianshu.com/p/ad5ced0a4eab",
-    "pub_date": "2026-06-26 07:48:17",
-    "author": "微笑的弧度_c50f",
-    "description": "1.如何隐藏所有指定的元素 const hide = (el) => Array.from(el).forEach(e => (e.style.display = 'none')); // 事例: 隐藏页面上所有` `元素 hide(document.querySelectorALL('p')) 2.如何检查元素是否具有指定的类？ 页面DOM里面的每个节点上都有一个 $\\color{#FF0000}{classList}$对象，程序员可…",
-    "content": "1.如何隐藏所有指定的元素 const hide = (el) =&gt; Array.from(el).forEach(e =&gt; (e.style.display = 'none')); // 事例: 隐藏页面上所有`&lt;p&gt;`元素 hide(document.querySelectorALL('p')) 2.如何检查元素是否具有指定的类？ 页面DOM里面的每个节点上都有一个 $\\color{#FF0000}{classList}$ 对象，程序员可以使用里面的方法新增、删除、修改、查询节点上的cl…"
+    "title": "MySQL数据同步到ES的4种解决方案",
+    "link": "https://www.jianshu.com/p/c66533aa3adb",
+    "pub_date": "2026-06-26 16:23:57",
+    "author": "AC编程",
+    "description": "一、背景 大家应该都在各种电商网站检索过商品，检索商品一般都是通过什么实现呢？搜索引擎Elasticsearch。那么问题来了，商品上架，数据一般写入到MySQL的数据库中，那么用于检索的数据又是怎么同步到Elasticsearch的呢？ MySQL同步ES 二、同步双写 2.1 概念 这是能想到的最直接的方式，在写入MySQL，直接也同步往ES里写一份数据。 同步双写 2.2 优缺点 优点：实现简单 缺点： 三、异步双写 3.1 概念…",
+    "content": "一、背景 大家应该都在各种电商网站检索过商品，检索商品一般都是通过什么实现呢？搜索引擎Elasticsearch。那么问题来了，商品上架，数据一般写入到MySQL的数据库中，那么用于检索的数据又是怎么同步到Elasticsearch的呢？ MySQL同步ES 二、同步双写 2.1 概念 这是能想到的最直接的方式，在写入MySQL，直接也同步往ES里写一份数据。 同步双写 2.2 优缺点 优点：实现简单 缺点： 1、业务耦合，商品的管理中耦合大量数据同步代码。 2、影响性能，写入两个存储，响应时间变长。 3、不便扩展…"
   },
   {
     "id": "娱乐-喷嚏图卦-https://www.dapenti.com/blog/more.asp?name=xilei&id=193903",
