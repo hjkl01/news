@@ -1,5 +1,137 @@
 const jsonData = [
   {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cgevz5p98plo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "歐洲「正在融化」：熱浪襲來 超過千人因高溫相關原因死亡",
+    "link": "https://www.bbc.com/zhongwen/articles/cgevz5p98plo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-06-29 17:21:42",
+    "author": "",
+    "description": "Getty Images / 欧洲“正在融化”：热浪袭来 超过千人因高温相关原因死亡 前所未见的热浪正席卷欧洲，从上周开始，各国都陆续观察到超过摄氏40度的破纪录高温。世界卫生组织总干事谭德塞（Tedros Adhanom Ghebreyesus）表示，6月21日以来因高温死亡的人数比预期多了1300人。 “只能把窗户打开、开着电风扇。睡前洗澡，睡觉时盖着湿毛巾，”一名巴黎居民告诉记者。 热浪在法国的影响尤其严重。该国是欧洲冷气普及率最…",
+    "content": "Getty Images / 欧洲“正在融化”：热浪袭来 超过千人因高温相关原因死亡 前所未见的热浪正席卷欧洲，从上周开始，各国都陆续观察到超过摄氏40度的破纪录高温。世界卫生组织总干事谭德塞（Tedros Adhanom Ghebreyesus）表示，6月21日以来因高温死亡的人数比预期多了1300人。 “只能把窗户打开、开着电风扇。睡前洗澡，睡觉时盖着湿毛巾，”一名巴黎居民告诉记者。 热浪在法国的影响尤其严重。该国是欧洲冷气普及率最低的国家之一，全国仅约四分之一的家庭装有空调。当局表示在最热的几天内，每日的平均…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/clyemvy4x17o/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "這些西方人為嚮往俄羅斯價值而移民 如今卻落得一個失落",
+    "link": "https://www.bbc.com/zhongwen/articles/clyemvy4x17o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-06-29 16:58:23",
+    "author": "",
+    "description": "Ben/ BBC / 来自英国德比的班恩于 2023 年持私人家庭签证移居俄罗斯，并表示他觉得在俄国生活更安全。 当利奥·黑尔（Leo Hare）于2023年底从美国德州移居俄罗斯并获得庇护后，他深信自己正为家人打造更美好的未来。 这位三个孩子的父亲全力投入新生活：品尝俄式饺子、在农场挤羊奶，并拍摄关于俄罗斯生活的影片给他的网路追随者。 利奥是一位虔诚的基督徒，他对美国的政治分裂、基因改造食品，以及他眼中LGBTQ运动的兴起日益感到希望…",
+    "content": "Ben/ BBC / 来自英国德比的班恩于 2023 年持私人家庭签证移居俄罗斯，并表示他觉得在俄国生活更安全。 当利奥·黑尔（Leo Hare）于2023年底从美国德州移居俄罗斯并获得庇护后，他深信自己正为家人打造更美好的未来。 这位三个孩子的父亲全力投入新生活：品尝俄式饺子、在农场挤羊奶，并拍摄关于俄罗斯生活的影片给他的网路追随者。 利奥是一位虔诚的基督徒，他对美国的政治分裂、基因改造食品，以及他眼中LGBTQ运动的兴起日益感到希望幻灭。 当时，他相信俄罗斯提供了一个诱人的替代选择：一个建立在基督教信仰与家庭价…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c0myk4dj84xo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "韓國總統要求徹查世界盃「荒唐」敗仗 警察防主教練回國遇刺",
+    "link": "https://www.bbc.com/zhongwen/articles/c0myk4dj84xo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-06-29 16:24:29",
+    "author": "",
+    "description": "Reuters / 这是洪明甫第二次出任韩国队主帅。 在韩国（南韩）男子国家足球队未能晋级世界杯淘汰赛后，主教练洪明甫经已辞职。 球队原本希望仍可作为成绩最佳的第三名之一晋级下一轮，但这一希望在星期六（6月27日）落空。 这次提早出局在国内引发广泛批评，总统李在明要求调查为何球队表现会如此令人失望。洪明甫星期日（28日）向球迷道歉，并表示责任“完全在我这位主教练身上”。 当地媒体报道指，由于周末洪明甫返韩期间，有网上出现针对他的死亡威胁…",
+    "content": "Reuters / 这是洪明甫第二次出任韩国队主帅。 在韩国（南韩）男子国家足球队未能晋级世界杯淘汰赛后，主教练洪明甫经已辞职。 球队原本希望仍可作为成绩最佳的第三名之一晋级下一轮，但这一希望在星期六（6月27日）落空。 这次提早出局在国内引发广泛批评，总统李在明要求调查为何球队表现会如此令人失望。洪明甫星期日（28日）向球迷道歉，并表示责任“完全在我这位主教练身上”。 当地媒体报道指，由于周末洪明甫返韩期间，有网上出现针对他的死亡威胁，韩国警方表示，正加强监察仁川机场及其他地点的保安风险。 在国际足协（FIFA）…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/crm0lenk8n8o/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "中國合肥民眾抗議垃圾站，官員當場煞停工程",
+    "link": "https://www.bbc.com/zhongwen/articles/crm0lenk8n8o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-06-29 16:00:26",
+    "author": "",
+    "description": "X/@whyyoutouzhele 上周六（6月27日），网络流传中国安徽省合肥爆发大规模抗议的消息，当地民众反对兴建大型垃圾中转站。 网上影片可见，数百人在街头静坐，警民双方曾一度爆发推撞，引发交通瘫痪逾两小时，多人被带离现场。 在群众压力下，当地政府代表少有地即场宣布取消垃圾中转站兴建计划。 BBC中文翻查资料，中国近年已发生多宗类似因“邻避效应”而生、环绕“厌恶设施”选址邻近民居的抗议事件。 当地政府取消计划 根据网络流传的合肥市…",
+    "content": "X/@whyyoutouzhele 上周六（6月27日），网络流传中国安徽省合肥爆发大规模抗议的消息，当地民众反对兴建大型垃圾中转站。 网上影片可见，数百人在街头静坐，警民双方曾一度爆发推撞，引发交通瘫痪逾两小时，多人被带离现场。 在群众压力下，当地政府代表少有地即场宣布取消垃圾中转站兴建计划。 BBC中文翻查资料，中国近年已发生多宗类似因“邻避效应”而生、环绕“厌恶设施”选址邻近民居的抗议事件。 当地政府取消计划 根据网络流传的合肥市自然资源和规划局公示文件显示，涉事计划为“庐阳区环卫综合治理建设项目”，拟于北二…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20260629/trump-lutnick-sons-kazakhstan/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "谁将从美国哈萨克斯坦矿业交易中获利？特朗普的儿子们",
+    "link": "https://cn.nytimes.com/usa/20260629/trump-lutnick-sons-kazakhstan/dual",
+    "pub_date": "2026-06-29 15:06:02",
+    "author": "",
+    "description": "PAUL SONNE, ERIC LIPTON2026年6月29日 Sergey Ponomarev for The New York Times When Commerce Secretary Howard Lutnick met with Kazakhstan’s president at the St. Regis Hotel last September in New York, President Trump jumped i…",
+    "content": "PAUL SONNE, ERIC LIPTON 2026年6月29日 Sergey Ponomarev for The New York Times When Commerce Secretary Howard Lutnick met with Kazakhstan’s president at the St. Regis Hotel last September in New York, President Trump jumped in by phone as the men sealed a deal on …"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260629-%E6%9B%BE%E4%B8%BA%E9%A6%99%E6%B8%AF%E4%BA%BA%E6%89%8D%E5%9F%B9%E5%85%BB%E6%91%87%E7%AF%AE-74%E5%B9%B4%E5%8E%86%E5%8F%B2%E6%B8%AF%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%88%8A%E7%89%A9-%E5%AD%A6%E8%8B%91-%E5%81%9C%E8%BF%90",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "曾为香港人才培养摇篮 74年历史港大学生刊物《学苑》停运 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260629-%E6%9B%BE%E4%B8%BA%E9%A6%99%E6%B8%AF%E4%BA%BA%E6%89%8D%E5%9F%B9%E5%85%BB%E6%91%87%E7%AF%AE-74%E5%B9%B4%E5%8E%86%E5%8F%B2%E6%B8%AF%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%88%8A%E7%89%A9-%E5%AD%A6%E8%8B%91-%E5%81%9C%E8%BF%90",
+    "pub_date": "2026-06-29 14:45:02",
+    "author": "",
+    "description": "29/06/2026 - 08:30 在学生会和表达自由备受打压的情况下，有74年历史的香港大学(港大)学生会刊物《学苑》，因未能召募新一届编辑委员会而须即日停运。《学苑》在停运启事中表示，时至今日，《学苑》在社会中担任的历史角色已走到尽头。对于这份曾多次卷入香港政治争议的刊物停运，曾任《学苑》编辑的学者感慨，港大痛失一个培养人才及训练学生思考的平台。 《学苑》2025年编辑委员会周日（28日）在社交平台发文，解释停运原因，表示自去年9…",
+    "content": "29/06/2026 - 08:30 在学生会和表达自由备受打压的情况下，有74年历史的香港大学(港大)学生会刊物《学苑》，因未能召募新一届编辑委员会而须即日停运。《学苑》在停运启事中表示，时至今日，《学苑》在社会中担任的历史角色已走到尽头。对于这份曾多次卷入香港政治争议的刊物停运，曾任《学苑》编辑的学者感慨，港大痛失一个培养人才及训练学生思考的平台。 《学苑》2025年编辑委员会周日（28日）在社交平台发文，解释停运原因，表示自去年9月起，两度公开招募新一届编委会成员，以筹组2026年度《学苑》编委会，但至今仍未…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20260629/japan-mayor-maternity-leave/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "日本女市长休产假为何引发轩然大波",
+    "link": "https://cn.nytimes.com/asia-pacific/20260629/japan-mayor-maternity-leave/dual",
+    "pub_date": "2026-06-29 13:36:02",
+    "author": "",
+    "description": "赫海威, KIUKO NOTOYA2026年6月29日八幡市市长川田翔子本月在她的办公室里。她将成为日本首位休产假的市长。 Noriko Hayashi for The New York Times The news traveled fast in Yawata, a spiritual oasis of 68,000 people in western Japan known for its traditional tea cult…",
+    "content": "赫海威, KIUKO NOTOYA 2026年6月29日 八幡市市长川田翔子本月在她的办公室里。她将成为日本首位休产假的市长。 Noriko Hayashi for The New York Times The news traveled fast in Yawata, a spiritual oasis of 68,000 people in western Japan known for its traditional tea culture and cherry blossoms. Shoko Kawata,…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c78yvn5zj8eo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "歐洲熱浪：世衛稱逾1300人死亡 德國錄得攝氏41.7度高溫",
+    "link": "https://www.bbc.com/zhongwen/articles/c78yvn5zj8eo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-06-29 12:24:29",
+    "author": "",
+    "description": "Reuters / 波兰打破全国最高温纪录，有一城镇温度达到摄氏40.5度 联合国世界卫生组织（WHO）负责人表示，欧洲这波史无前例的初夏热浪，可能已造成数百起超额死亡。 周日（6月28日）各地再度打破高温纪录，包括德国、波兰和捷克，极端高温持续向东移动。 对此，WHO总干事谭德塞（Tedros Adhanom Ghebreyesus）在X发文指出，自6月21日以来，已记录到超过1300起与欧洲高温“相关”的超额死亡。 他说：“热压力常…",
+    "content": "Reuters / 波兰打破全国最高温纪录，有一城镇温度达到摄氏40.5度 联合国世界卫生组织（WHO）负责人表示，欧洲这波史无前例的初夏热浪，可能已造成数百起超额死亡。 周日（6月28日）各地再度打破高温纪录，包括德国、波兰和捷克，极端高温持续向东移动。 对此，WHO总干事谭德塞（Tedros Adhanom Ghebreyesus）在X发文指出，自6月21日以来，已记录到超过1300起与欧洲高温“相关”的超额死亡。 他说：“热压力常被称为‘沉默杀手’——欧洲的住宅、工作场所和学校并非为这种气温所建造。” BBC…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20260629/kazakhstan-trump/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "哈萨克斯坦与美国深化关系以制衡中俄影响力",
+    "link": "https://cn.nytimes.com/asia-pacific/20260629/kazakhstan-trump/dual",
+    "pub_date": "2026-06-29 12:06:02",
+    "author": "",
+    "description": "PAUL SONNE2026年6月29日哈萨克斯坦首都阿斯塔纳。 Sergey Ponomarev for The New York Times The skyline of Astana, the capital of Kazakhstan, is a physical reflection of the Central Asian nation’s approach to foreign affairs. 哈萨克斯坦首都阿斯塔纳的天…",
+    "content": "PAUL SONNE 2026年6月29日 哈萨克斯坦首都阿斯塔纳。 Sergey Ponomarev for The New York Times The skyline of Astana, the capital of Kazakhstan, is a physical reflection of the Central Asian nation’s approach to foreign affairs. 哈萨克斯坦首都阿斯塔纳的天际线是这个中亚国家外交政策理念的具象呈现。 A sign reading “…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/opinion/20260629/ai-race-china-us/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "美国能避免出现“马云时刻”吗",
+    "link": "https://cn.nytimes.com/opinion/20260629/ai-race-china-us/dual",
+    "pub_date": "2026-06-29 10:36:03",
+    "author": "",
+    "description": "DAN WANG, JULIAN GEWIRTZ2026年6月29日 Kiersten Essenpreis A globally recognizable tech executive, high-spirited from preparing for a public offering, offers imprudent remarks criticizing the government. The state strikes ba…",
+    "content": "DAN WANG, JULIAN GEWIRTZ 2026年6月29日 Kiersten Essenpreis A globally recognizable tech executive, high-spirited from preparing for a public offering, offers imprudent remarks criticizing the government. The state strikes back harder than anyone expects. Overnigh…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20260629/iran-us-strait-of-hormuz-peace-talks/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "美伊为何再度交火？伊朗力保霍尔木兹海峡控制权",
+    "link": "https://cn.nytimes.com/world/20260629/iran-us-strait-of-hormuz-peace-talks/dual",
+    "pub_date": "2026-06-29 10:36:03",
+    "author": "",
+    "description": "ERIKA SOLOMON2026年6月29日周六，多艘船只停泊在阿曼北部穆桑达姆半岛附近，这里紧邻霍尔木兹海峡。 Agence France-Presse — Getty Images The four-day cycle of attacks that Iran set off with the United States over the Strait of Hormuz has risked derailing the newl…",
+    "content": "ERIKA SOLOMON 2026年6月29日 周六，多艘船只停泊在阿曼北部穆桑达姆半岛附近，这里紧邻霍尔木兹海峡。 Agence France-Presse — Getty Images The four-day cycle of attacks that Iran set off with the United States over the Strait of Hormuz has risked derailing the newly reached cease-fire in a war both sid…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20260629/china-dissident-dong-guangping-canada/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "乘橡皮艇逃至韩国的中国异见人士董广平抵达加拿大",
+    "link": "https://cn.nytimes.com/china/20260629/china-dissident-dong-guangping-canada/dual",
+    "pub_date": "2026-06-29 09:06:02",
+    "author": "",
+    "description": "JOHN YOON, PEI-LIN WU2026年6月29日 About a month ago, the Chinese dissident Dong Guangping spent 36 hours at sea in an inflatable rubber boat with a sputtering engine, a peeling face and a dying phone before getting detaine…",
+    "content": "JOHN YOON, PEI-LIN WU 2026年6月29日 About a month ago, the Chinese dissident Dong Guangping spent 36 hours at sea in an inflatable rubber boat with a sputtering engine, a peeling face and a dying phone before getting detained in South Korea. 大约一个月前，中国异见人士董广平驾驶一艘充…"
+  },
+  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cvg5jl7gd4ro/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -9,6 +141,17 @@ const jsonData = [
     "author": "",
     "description": "Getty Images 多年来，科技产品买家一直可以依赖一个熟悉的趋势——旧款装置会随时间变得更便宜。 但这种情况如今似乎已经停止，在某些情况下甚至完全逆转。 苹果（Apple）与微软（Microsoft）的 Xbox已加入提高设备与游戏主机价格的行列，即使这些产品已推出多年。 这些公司以及其他科技企业指出，制造设备所需关键零组件的成本上升，并将原因归咎于人工智能（AI；人工智慧）。 为AI提供动力、运算需求极高的数据中心，需要越来越…",
     "content": "Getty Images 多年来，科技产品买家一直可以依赖一个熟悉的趋势——旧款装置会随时间变得更便宜。 但这种情况如今似乎已经停止，在某些情况下甚至完全逆转。 苹果（Apple）与微软（Microsoft）的 Xbox已加入提高设备与游戏主机价格的行列，即使这些产品已推出多年。 这些公司以及其他科技企业指出，制造设备所需关键零组件的成本上升，并将原因归咎于人工智能（AI；人工智慧）。 为AI提供动力、运算需求极高的数据中心，需要越来越多晶片以应付AI企业的需求——这意味着需求远远超过供应。 有人将此称为“RAMa…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20260629/china-pilot-died-plane-crash-beijing/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "北京证实小型飞机撞击“中国尊”，称飞行员死亡",
+    "link": "https://cn.nytimes.com/china/20260629/china-pilot-died-plane-crash-beijing/dual",
+    "pub_date": "2026-06-29 07:36:02",
+    "author": "",
+    "description": "郭莉莉, PEI-LIN WU, KEITH BRADSHER2026年6月29日 The Beijing authorities said on Saturday that a small aircraft had flown into the capital’s tallest building a day earlier, killing the pilot and injuring 13 others at the scene,…",
+    "content": "郭莉莉, PEI-LIN WU, KEITH BRADSHER 2026年6月29日 The Beijing authorities said on Saturday that a small aircraft had flown into the capital’s tallest building a day earlier, killing the pilot and injuring 13 others at the scene, in the first official confirmation of …"
   },
   {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260628-%E4%B9%8C%E5%B9%B2%E8%BE%BE%E5%86%9B%E6%94%BF%E6%9D%83%E5%BC%BA%E8%A1%8C%E5%85%B3%E9%97%AD%E7%8B%AC%E7%AB%8B%E5%AA%92%E4%BD%93",
@@ -242,17 +385,6 @@ const jsonData = [
     "content": "Getty Images / 在北京第一高大楼“中国尊”上，小型飞机撞出的窟窿清楚可见。 一架飞机撞上大楼，这个画面太过熟悉，深深印刻在当代人的大脑中。熟悉到任何人在看到新闻的第一秒，脑子里都会闪过同一个词：“911”。 911的烈度史无前例：两架满载燃油的波音767客机，近3000人遇难，美国纽约世界贸易中心（WTC）双子塔化为废墟。 而这一次事件的烈度则小得多：一架轻型运动飞机，仅重340公斤，在108层高的北京中信大厦“中国尊”上半部撞出一个窟窿，残骸从空中坠落，底层簷篷起火燃烧，浓烟升腾。 正值下班时分，大…"
   },
   {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260628-%E6%AD%A6%E5%A5%91%E5%A5%87%E7%A7%B0%E5%B0%86%E5%9C%A8%E6%95%B0%E5%91%A8%E5%86%85%E8%BE%9E%E5%8E%BB%E6%80%BB%E7%BB%9F%E8%81%8C%E4%BD%8D%E6%8F%90%E5%89%8D%E9%80%89%E4%B8%BE-%E6%9C%89%E6%84%8F%E5%86%8D%E5%BD%93%E6%80%BB%E7%90%86",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "武契奇称将在数周内辞去总统职位提前选举 有意重当总理？ - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260628-%E6%AD%A6%E5%A5%91%E5%A5%87%E7%A7%B0%E5%B0%86%E5%9C%A8%E6%95%B0%E5%91%A8%E5%86%85%E8%BE%9E%E5%8E%BB%E6%80%BB%E7%BB%9F%E8%81%8C%E4%BD%8D%E6%8F%90%E5%89%8D%E9%80%89%E4%B8%BE-%E6%9C%89%E6%84%8F%E5%86%8D%E5%BD%93%E6%80%BB%E7%90%86",
-    "pub_date": "2026-06-28 17:45:02",
-    "author": "",
-    "description": "28/06/2026 - 11:19 塞尔维亚总统武契奇（Aleksandar Vučić）周六表示，在经历了长达18个月的反政府抗议活动后，他将在数周内辞职，该国也将提前举行总统和议会选举。 武契奇已担任塞尔维亚总统或总理长达12年。他作出这一宣布之际，正值由学生主导的反腐败示威活动持续进行；这些抗议活动的导火索是2024年11月发生在北部城市诺维萨德的一起火车站雨棚坍塌事故，该事故导致16人丧生。 抗议者、反对派及人权组织称，这起火…",
-    "content": "28/06/2026 - 11:19 塞尔维亚总统武契奇（Aleksandar Vučić）周六表示，在经历了长达18个月的反政府抗议活动后，他将在数周内辞职，该国也将提前举行总统和议会选举。 武契奇已担任塞尔维亚总统或总理长达12年。他作出这一宣布之际，正值由学生主导的反腐败示威活动持续进行；这些抗议活动的导火索是2024年11月发生在北部城市诺维萨德的一起火车站雨棚坍塌事故，该事故导致16人丧生。 抗议者、反对派及人权组织称，这起火车站惨剧反映了政府在工程建设管理上的普遍失职以及腐败问题。 武契奇当天在首都贝尔…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cy73v41yk6mo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -319,28 +451,6 @@ const jsonData = [
     "content": "KEITH BRADSHER, MEAGHAN TOBIN, PEI-LIN WU 2026年6月27日 周五，北京的中国尊大厦（又名中信大厦）外墙受损。 Maxim Shemetov/Reuters A small aircraft flew into the tallest building in Beijing on Friday, sending huge hunks of debris and plane parts plummeting onto the streets below and prompt…"
   },
   {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c0qyp294pn7o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "從圖片看委內瑞拉雙重地震後的滿目蒼夷",
-    "link": "https://www.bbc.com/zhongwen/articles/c0qyp294pn7o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-06-26 21:00:34",
-    "author": "",
-    "description": "Getty Images / 美国地质调查局（USGS）表示，6月24日晚袭击委内瑞拉的其中一次地震，是自1900年以来该国最强的一次。 从委内瑞拉传出的影像显示，星期三（6月24日）晚间袭击该国的两次地震造成的破坏规模惊人。 两次接连发生的地震重创该国北部，首都加拉加斯及多个州份的建筑物被夷为平地。 目前至少已知有589人死亡，2980人受伤。专家警告，随着灾情逐步明朗，死亡人数可能上升至数千人。 现场照片显示，建筑物和房屋完全倒塌，…",
-    "content": "Getty Images / 美国地质调查局（USGS）表示，6月24日晚袭击委内瑞拉的其中一次地震，是自1900年以来该国最强的一次。 从委内瑞拉传出的影像显示，星期三（6月24日）晚间袭击该国的两次地震造成的破坏规模惊人。 两次接连发生的地震重创该国北部，首都加拉加斯及多个州份的建筑物被夷为平地。 目前至少已知有589人死亡，2980人受伤。专家警告，随着灾情逐步明朗，死亡人数可能上升至数千人。 现场照片显示，建筑物和房屋完全倒塌，救援人员正加紧抢救被困在瓦砾下的人。 地震过后，许多城市居民失去电力及网络连接，…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cj6gng2ln6xo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "英王查爾斯與王后為何放棄遷入白金漢宮",
-    "link": "https://www.bbc.com/zhongwen/articles/cj6gng2ln6xo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-06-26 19:28:50",
-    "author": "",
-    "description": "Getty Images / 查尔斯未继位为王前，一直居于相距不远的克拉伦斯宫。 来自最新王室财务报告的消息：英王查尔斯三世（King Charles III；查理斯国王）与王后卡米拉（Queen Camilla）在白金汉宫（Buckingham Palace）耗资3.69亿英镑（4.88亿美元；33.17亿元人民币，155.2亿元新台币）的翻修工程于明年完成后，将不会入住。 白金汉宫自1837年以来一直是英国君主在伦敦的官方居所，未来…",
-    "content": "Getty Images / 查尔斯未继位为王前，一直居于相距不远的克拉伦斯宫。 来自最新王室财务报告的消息：英王查尔斯三世（King Charles III；查理斯国王）与王后卡米拉（Queen Camilla）在白金汉宫（Buckingham Palace）耗资3.69亿英镑（4.88亿美元；33.17亿元人民币，155.2亿元新台币）的翻修工程于明年完成后，将不会入住。 白金汉宫自1837年以来一直是英国君主在伦敦的官方居所，未来仍将作为王室行政总部，但国王已决定，邻近的克拉伦斯宫（Clarence Hous…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c7vy8q88pl0o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -385,61 +495,6 @@ const jsonData = [
     "content": "PETER EAVIS, FARNAZ FASSIHI, JENNY GROSS, EUAN WARD 2026年6月26日 周二，靠近霍尔木兹海峡阿曼海岸外的油轮和货船。 Elke Scholiers/Getty Images Iran’s armed forces struck a container ship that was passing through the Strait of Hormuz on Thursday, according to U.S. and Iranian officials, u…"
   },
   {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/health/20260626/watermelon-health-benefits-recipes/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "西瓜有多健康？",
-    "link": "https://cn.nytimes.com/health/20260626/watermelon-health-benefits-recipes/dual",
-    "pub_date": "2026-06-26 13:06:05",
-    "author": "",
-    "description": "CAROLINE HOPKINS2026年6月26日 Watermelon is the fruit of summer. In the United States, it’s more popular than cantaloupe, honeydew and all other melons combined. 西瓜是夏天的水果。在美国，它比哈密瓜、白兰瓜以及所有其他瓜类加起来还要受欢迎。 It’s good for your bo…",
-    "content": "CAROLINE HOPKINS 2026年6月26日 Watermelon is the fruit of summer. In the United States, it’s more popular than cantaloupe, honeydew and all other melons combined. 西瓜是夏天的水果。在美国，它比 哈密瓜、白兰瓜以及所有其他瓜类加起来还要受欢迎 。 It’s good for your body, too, especially on a hot day. Her…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20260626/north-korea-destroyer-nuclear/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "朝鲜“崔贤号”驱逐舰服役，凸显金正恩海军核武化雄心",
-    "link": "https://cn.nytimes.com/asia-pacific/20260626/north-korea-destroyer-nuclear/dual",
-    "pub_date": "2026-06-26 12:06:02",
-    "author": "",
-    "description": "CHOE SANG-HUN2026年6月26日朝中社发布的一张照片据称显示了朝鲜最高领导人金正恩（中）周二在南浦港出席新型驱逐舰“崔贤号”的服役仪式。 Korean Central News Agency, via Reuters The ambition of North Korea’s leader, Kim Jong-un, to project naval power beyond his country’s coastal w…",
-    "content": "CHOE SANG-HUN 2026年6月26日 朝中社发布的一张照片据称显示了朝鲜最高领导人金正恩（中）周二在南浦港出席新型驱逐舰“崔贤号”的服役仪式。 Korean Central News Agency, via Reuters The ambition of North Korea’s leader, Kim Jong-un, to project naval power beyond his country’s coastal waters was boosted this week when he of…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/technology/20260626/zai-china-artificial-intelligence-models/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "中国AI模型与Anthropic、OpenAI性能差距缩小",
-    "link": "https://cn.nytimes.com/technology/20260626/zai-china-artificial-intelligence-models/dual",
-    "pub_date": "2026-06-26 11:06:03",
-    "author": "",
-    "description": "CADE METZ, KAREN WEISE, MEAGHAN TOBIN2026年6月26日 Two weeks ago, the artificial intelligence company Anthropic shut down its two most powerful A.I. systems after an unexpected demand from the U.S. government to cut access …",
-    "content": "CADE METZ, KAREN WEISE, MEAGHAN TOBIN 2026年6月26日 Two weeks ago, the artificial intelligence company Anthropic shut down its two most powerful A.I. systems after an unexpected demand from the U.S. government to cut access to it. 两周前，在美国政府 突然要求 对其两款最强大的人工智能系统访问权…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/science/20260626/china-cancer-treatment-research-retraction/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "一项关于癌症治疗时机的中国研究被《自然-医学》撤稿",
-    "link": "https://cn.nytimes.com/science/20260626/china-cancer-treatment-research-retraction/dual",
-    "pub_date": "2026-06-26 10:36:01",
-    "author": "",
-    "description": "REBECCA ROBBINS2026年6月26日《自然-医学》撤回了一项研究，该研究发现癌症治疗若在上午进行，疗效将大幅提升。 Jenny Kane/Associated Press Early this year, a medical journal article caught the attention of cancer patients and doctors worldwide because of its extraor…",
-    "content": "REBECCA ROBBINS 2026年6月26日 《自然-医学》撤回了一项研究，该研究发现癌症治疗若在上午进行，疗效将大幅提升。 Jenny Kane/Associated Press Early this year, a medical journal article caught the attention of cancer patients and doctors worldwide because of its extraordinary conclusion. Simply changing the…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20260626/dog-animal-abuse-china-protest/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "重庆男子虐狗引发抗议，示威者呼吁制定反虐待动物法律",
-    "link": "https://cn.nytimes.com/china/20260626/dog-animal-abuse-china-protest/dual",
-    "pub_date": "2026-06-26 09:06:03",
-    "author": "",
-    "description": "MURPHY ZHAO, 郭莉莉2026年6月26日 Video obtained by The New York Times In the video, a man stands on a balcony at night hitting a puppy as it lets out sharp shrieks. He gruffly carries the dog back inside by its neck. 在视频中，一名男子…",
-    "content": "MURPHY ZHAO, 郭莉莉 2026年6月26日 Video obtained by The New York Times In the video, a man stands on a balcony at night hitting a puppy as it lets out sharp shrieks. He gruffly carries the dog back inside by its neck. 在视频中，一名男子夜间在阳台殴打一只小狗，小狗发出尖锐的惨叫声。他粗鲁地揪着狗的脖子把它提回了室…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cn0v5xzzlgyo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -482,39 +537,6 @@ const jsonData = [
     "author": "",
     "description": "BBC / 在名副其实的众目睽睽下，Kevin与Austin准备看足104场美加墨世界杯比赛，然后袋走5万美元报酬。 世界杯赛事正进入高潮，小组赛结束前每天安排六场比赛，令追看赛事几乎成为一份全职工作。 对于奇云·阿科托（Kevin Akoto）和奥斯汀·法兰克林（Austin Franklin）来说，看赛事真是他们的全职工作——每人获得5万美元（34万元人民币、158万元新台币）报酬，观看世界杯全部104场比赛。 BBC在两人出任霍士…",
     "content": "BBC / 在名副其实的众目睽睽下，Kevin与Austin准备看足104场美加墨世界杯比赛，然后袋走5万美元报酬。 世界杯赛事正进入高潮，小组赛结束前每天安排六场比赛，令追看赛事几乎成为一份全职工作。 对于奇云·阿科托（Kevin Akoto）和奥斯汀·法兰克林（Austin Franklin）来说，看赛事真是他们的全职工作——每人获得5万美元（34万元人民币、158万元新台币）报酬，观看世界杯全部104场比赛。 BBC在两人出任霍士串流一台（Fox One；福克斯串流一台）“世界杯首席观赛员”（Chief Wo…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20260625/myanmar-civil-war-rebels-airstrikes/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "一场末日浩劫：被世界遗忘的缅甸内战",
-    "link": "https://cn.nytimes.com/asia-pacific/20260625/myanmar-civil-war-rebels-airstrikes/dual",
-    "pub_date": "2026-06-25 15:06:02",
-    "author": "",
-    "description": "HANNAH BEECH2026年6月25日在一条被遗忘的前线上，反抗军在丛林深处作战。 Daniel Berehulak/The New York Times From a lonely hilltop in Myanmar, an unlikely commander peered at the enemy on the next crest. He squinted through dust-covered glasses. As…",
-    "content": "HANNAH BEECH 2026年6月25日 在一条被遗忘的前线上，反抗军在丛林深处作战。 Daniel Berehulak/The New York Times From a lonely hilltop in Myanmar, an unlikely commander peered at the enemy on the next crest. He squinted through dust-covered glasses. As the wind whipped up dry earth, Dr. Lo…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c4gyp5j8j5vo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "法國錄得歷來最炎熱一天後 冷氣引發政治分歧",
-    "link": "https://www.bbc.com/zhongwen/articles/c4gyp5j8j5vo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-06-25 14:23:22",
-    "author": "",
-    "description": "AFP via Getty Images / 法国仅约25%的家庭拥有冷气设备 随着气温飙升，法国正被迫重新思考其长期以来对应对气候变化的一种可能方案——冷气的顾虑。 本周，关于“la clim”（空调）的辩论再次爆发。民粹右翼领袖马琳·勒庞（Marine Le Pen，玛丽娜·勒庞）主张大规模提供补贴推广，而传统敌对的绿党也承认，如今某种程度的空调使用或已不可避免。 目前，法国的普及率偏低，仅有约25%的家庭配备冷气设备。在西班牙和意…",
-    "content": "AFP via Getty Images / 法国仅约25%的家庭拥有冷气设备 随着气温飙升，法国正被迫重新思考其长期以来对应对气候变化的一种可能方案——冷气的顾虑。 本周，关于“la clim”（空调）的辩论再次爆发。民粹右翼领袖马琳·勒庞（Marine Le Pen，玛丽娜·勒庞）主张大规模提供补贴推广，而传统敌对的绿党也承认，如今某种程度的空调使用或已不可避免。 目前，法国的普及率偏低，仅有约25%的家庭配备冷气设备。在西班牙和意大利，这一比例为50%，而在美国和日本则达到90%。 法国的医院和学校也很少设有…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20260625/cuba-economy-overhaul-communism-trump/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "美国极限施压下，古巴仓促宣布全面经济改革",
-    "link": "https://cn.nytimes.com/world/20260625/cuba-economy-overhaul-communism-trump/dual",
-    "pub_date": "2026-06-25 13:36:02",
-    "author": "",
-    "description": "FRANCES ROBLES, DAVID C. ADAMS2026年6月25日哈瓦那一家私营家具公司生产车间里的工人，摄于2024年。 Eliana Aponte for The New York Times The Cuban economy is in shambles, power outages can last 30 hours, and the Trump administration, with a figurative…",
-    "content": "FRANCES ROBLES, DAVID C. ADAMS 2026年6月25日 哈瓦那一家私营家具公司生产车间里的工人，摄于2024年。 Eliana Aponte for The New York Times The Cuban economy is in shambles , power outages can last 30 hours , and the Trump administration, with a figurative gun to Cuba’s head, keeps announcin…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cg4w2n5ql32o/simp?at_medium=RSS&at_campaign=rss",
@@ -660,17 +682,6 @@ const jsonData = [
     "content": "Getty Images 我原本不认为自己是狂热的补充剂（supplements）服用者，但当我好好检查橱柜时，才发现自己不知不觉累积了好几包肌酸、维生素D、镁、胶原蛋白、全方位绿色补充剂，以及一些专为更年期前后起伏设计的药片。 我以为自己能免疫于社群媒体上的不断广告，但结果显然并非如此。 那些像是“我无法相信这些补充剂让我感觉有多好！”的评论，已经渗透进我那（半信半疑）被胶原蛋白强化过的肌肤。 事实上，根据消费者权益团体“Which?”最近的一项调查，76%的受访者定期服用至少一种补充剂——包括维生素、矿物质、O…"
   },
   {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/clywz301jm0o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "陰莖能給男性健康發出哪些警號？",
-    "link": "https://www.bbc.com/zhongwen/articles/clywz301jm0o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-06-21 10:00:35",
-    "author": "",
-    "description": "Serenity Strull/BBC 勃起功能障碍（Erectile dysfunction，又称阳痿）可能是心脏病发、中风、糖尿病及认知障碍症的早期警号。研究人员指出，患者和医生都该是时候开始注意了。 你可以形容勃起功能障碍为一种“沉默的流行病”。多项调查显示，40岁以上男性中，有逾半数曾因此受到困扰。然而，只有少数人愿意与他们所爱的人去讨论这一个问题。 如果在对话中出现这个话题，通常都会被视作是玩笑，而不是疾病将会到来的早期警号。…",
-    "content": "Serenity Strull/BBC 勃起功能障碍（Erectile dysfunction，又称阳痿）可能是心脏病发、中风、糖尿病及认知障碍症的早期警号。研究人员指出，患者和医生都该是时候开始注意了。 你可以形容勃起功能障碍为一种“沉默的流行病”。多项调查显示，40岁以上男性中，有逾半数曾因此受到困扰。然而，只有少数人愿意与他们所爱的人去讨论这一个问题。 如果在对话中出现这个话题，通常都会被视作是玩笑，而不是疾病将会到来的早期警号。然而，大量的最新研究指出，阴茎往往是反映男性整体健康状况的“晴雨表”，而勃起功能…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/ce8j1rvjjvzo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -746,17 +757,6 @@ const jsonData = [
     "author": "",
     "description": "Reuters 由美国、加拿大和墨西哥共同主办的2026年国际足联（FIFA）世界杯决赛周将于6月11日至7月19日举行，你可以在这里查阅赛事安排、跟踪比赛结果。 点击浏览BBC中文2026年FIFA世界杯专页 點擊放大 FIFA 世界盃 2026 小組賽 淘汰賽 南非 0 - 加拿大 - 巴西 NaN - 日本 - 德國 NaN - 巴拉圭 - 荷蘭 NaN - 摩洛哥 - 科特迪瓦 NaN - 挪威 - 法國 NaN - 瑞典 - …",
     "content": "Reuters 由美国、加拿大和墨西哥共同主办的2026年国际足联（FIFA）世界杯决赛周将于6月11日至7月19日举行，你可以在这里查阅赛事安排、跟踪比赛结果。 点击浏览BBC中文2026年FIFA世界杯专页 點擊放大 FIFA 世界盃 2026 小組賽 淘汰賽 淘汰賽 32強淘汰賽 6月28日，20:00（GMT+1） 南非 0 - 1 加拿大 (互射12碼) NaN - NaN (互射12碼) (洛杉磯體育場) 6月29日，18:00（GMT+1） 巴西 NaN - NaN 日本 (互射12碼) NaN - …"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cj9gnmkk28ro/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "香港籃球教練體罰爭議 前學員打破沉默",
-    "link": "https://www.bbc.com/zhongwen/articles/cj9gnmkk28ro/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-06-11 17:58:32",
-    "author": "",
-    "description": "BBC / 香港篮球教练体罚亲历者：“全部人都觉得不妥，但你又可以怎么样？” 一条香港中学篮球教练在操场掌掴学生的网络影片，揭开了本地体育界仍然存在的体罚与高压文化。 涉事教练、前香港篮球代表队名将兼现任篮总副会长翁金骅已被停职并因涉嫌“普通袭击”被警方拘捕。 多位曾接受其执教的香港大学及中学前球员打破沉默，公开讲述自身经历，表示在训练期间曾遭掌掴、言语斥责等对待。他们认为，在“成绩挂帅”与不对等权力架构下，学生难以反抗的集体沉默困境。…",
-    "content": "BBC / 香港篮球教练体罚亲历者：“全部人都觉得不妥，但你又可以怎么样？” 一条香港中学篮球教练在操场掌掴学生的网络影片，揭开了本地体育界仍然存在的体罚与高压文化。 涉事教练、前香港篮球代表队名将兼现任篮总副会长翁金骅已被停职并因涉嫌“普通袭击”被警方拘捕。 多位曾接受其执教的香港大学及中学前球员打破沉默，公开讲述自身经历，表示在训练期间曾遭掌掴、言语斥责等对待。他们认为，在“成绩挂帅”与不对等权力架构下，学生难以反抗的集体沉默困境。 采访：余美霞 影片制作：高珊珊"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cpv3zj4lepvo/simp?at_medium=RSS&at_campaign=rss",
