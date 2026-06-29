@@ -1,5 +1,27 @@
 const jsonData = [
   {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/ckg8jkg3n4yo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "北京「中國尊」遭輕型飛機撞擊：禁區管制、飛行員身份與動機引發三大疑點",
+    "link": "https://www.bbc.com/zhongwen/articles/ckg8jkg3n4yo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-06-30 00:25:21",
+    "author": "",
+    "description": "AFP / 小型飞机如何闯入禁飞区？三大疑点梳理 北京最高建筑物“中国尊”上周五傍晚遭一架山河阿若拉 SA60L 轻型运动飞机撞击，造成飞行员当场死亡、13人受伤。在全中国空域管制最严格的北京中心，这架“低、慢、小”飞机如何穿透防线？社交媒体流传的飞行员身份与中信集团有何关联？这究竟是一场挟私报复还是纯粹意外？BBC中文梳理事件背后的禁区、动机与飞行员三大疑点。",
+    "content": "AFP / 小型飞机如何闯入禁飞区？三大疑点梳理 北京最高建筑物“中国尊”上周五傍晚遭一架山河阿若拉 SA60L 轻型运动飞机撞击，造成飞行员当场死亡、13人受伤。在全中国空域管制最严格的北京中心，这架“低、慢、小”飞机如何穿透防线？社交媒体流传的飞行员身份与中信集团有何关联？这究竟是一场挟私报复还是纯粹意外？BBC中文梳理事件背后的禁区、动机与飞行员三大疑点。"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cr5j7q29vmjo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "27航班、24場比賽 國際足總主席如何穿梭世界盃",
+    "link": "https://www.bbc.com/zhongwen/articles/cr5j7q29vmjo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-06-29 19:41:41",
+    "author": "",
+    "description": "BBC 国际足协（FIFA）主席詹尼·因凡蒂诺（Gianni Infantino，恩芬天奴）在今年夏季世界杯期间，已在短短两周多内造访北美各地24场比赛，累积数千英里的飞行里程。 本届赛事横跨美国、加拿大与墨西哥三国，共16个主办城市，且因小组赛扩编，比赛场次比以往更多。 在FIFA 2026世界杯永续发展与人权策略中，主席表示：“无论是气候、人权、疾病或残障议题，我们都致力于尽一份力。” 但BBC事实查核（BBC Verify）与BB…",
+    "content": "BBC 国际足协（FIFA）主席詹尼·因凡蒂诺（Gianni Infantino，恩芬天奴）在今年夏季世界杯期间，已在短短两周多内造访北美各地24场比赛，累积数千英里的飞行里程。 本届赛事横跨美国、加拿大与墨西哥三国，共16个主办城市，且因小组赛扩编，比赛场次比以往更多。 在FIFA 2026世界杯永续发展与人权策略中，主席表示：“无论是气候、人权、疾病或残障议题，我们都致力于尽一份力。” 但BBC事实查核（BBC Verify）与BBC体育网（BBC Sport）追踪了一架与FIFA及因凡蒂诺有关的私人飞机，发现…"
+  },
+  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cgevz5p98plo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -85,7 +107,7 @@ const jsonData = [
     "pub_date": "2026-06-29 12:24:29",
     "author": "",
     "description": "Reuters / 波兰打破全国最高温纪录，有一城镇温度达到摄氏40.5度 联合国世界卫生组织（WHO）负责人表示，欧洲这波史无前例的初夏热浪，可能已造成数百起超额死亡。 周日（6月28日）各地再度打破高温纪录，包括德国、波兰和捷克，极端高温持续向东移动。 对此，WHO总干事谭德塞（Tedros Adhanom Ghebreyesus）在X发文指出，自6月21日以来，已记录到超过1300起与欧洲高温“相关”的超额死亡。 他说：“热压力常…",
-    "content": "Reuters / 波兰打破全国最高温纪录，有一城镇温度达到摄氏40.5度 联合国世界卫生组织（WHO）负责人表示，欧洲这波史无前例的初夏热浪，可能已造成数百起超额死亡。 周日（6月28日）各地再度打破高温纪录，包括德国、波兰和捷克，极端高温持续向东移动。 对此，WHO总干事谭德塞（Tedros Adhanom Ghebreyesus）在X发文指出，自6月21日以来，已记录到超过1300起与欧洲高温“相关”的超额死亡。 他说：“热压力常被称为‘沉默杀手’——欧洲的住宅、工作场所和学校并非为这种气温所建造。” BBC…"
+    "content": "Reuters / 波兰打破全国最高温纪录，有一城镇温度达到摄氏40.5度 联合国世界卫生组织（WHO）负责人表示，欧洲这波史无前例的初夏热浪，可能已造成数百起超额死亡。 周日（6月28日）各地再度打破高温纪录，包括德国、波兰和捷克，极端高温持续向东移动。 对此，WHO总干事谭德塞（Tedros Adhanom Ghebreyesus）在X发文指出，自6月21日以来，已记录到超过1300起与欧洲高温“相关”的超额死亡。 他说：“热压力常被称为‘沉默杀手’——欧洲的住宅、工作场所和学校并非为这种气温所建造。” Get…"
   },
   {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20260629/kazakhstan-trump/dual",
@@ -583,17 +605,6 @@ const jsonData = [
     "content": "Getty Images 2027年QS世界大学排名6月18日公布，国立台湾大学虽创下历史新高位居全球第63名，但多数台湾顶尖理工名校仍落在百名之外，与长居前20名的新加坡和中港名校相比，明显落后。 这一差距再度引发讨论：为何台湾的大学多数跌出百名之外，却能培育出世界一流的工程师，让台湾半导体产业在全球市占率超过六成？ 对此，台湾中山大学国际长李明轩教授向BBC中文表示，全球大学排名的计算方式，高度仰赖论文引用率等学术指标，这对“产学导向”的台湾教育体系并不公平。 “如果QS排名加入培养出来的人才的产业影响力，那么…"
   },
   {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/czxq0p95lv9o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "血緣關係與機會：為何越來越多世界盃球員「離鄉別井」？",
-    "link": "https://www.bbc.com/zhongwen/articles/czxq0p95lv9o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-06-24 15:51:26",
-    "author": "",
-    "description": "AFP via Getty Images / 2022年卡塔尔世界杯，瑞士球员布雷尔·恩博洛（比列·安保路）对阵他的祖国喀麦隆。他在进球后选择不庆祝。 6月13日，摩洛哥在与巴西1比1平手的比赛中创造了世界杯历史——在25分钟的时间里，场上没有摩洛哥本土球员。 2026年国际足协（FIFA）世界杯参赛球员中，非出生国球员的比例创历史新高，几乎占所有参赛球员的四分之一。 本届世界杯已经出现过球员攻破自己出生国大门的场面：6月16日，出生于…",
-    "content": "AFP via Getty Images / 2022年卡塔尔世界杯，瑞士球员布雷尔·恩博洛（比列·安保路）对阵他的祖国喀麦隆。他在进球后选择不庆祝。 6月13日，摩洛哥在与巴西1比1平手的比赛中创造了世界杯历史——在25分钟的时间里，场上没有摩洛哥本土球员。 2026年国际足协（FIFA）世界杯参赛球员中，非出生国球员的比例创历史新高，几乎占所有参赛球员的四分之一。 本届世界杯已经出现过球员攻破自己出生国大门的场面：6月16日，出生于法国的易卜拉欣·姆巴耶（Ibrahim Mbaye；伊巴谦·麦巴耶）代表塞内加尔…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cz0j880g4xko/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -726,17 +737,6 @@ const jsonData = [
     "content": "Reuters / 刚果民主共和国东北部是伊波拉疫区之一，这波致命疫情改变了当地的传统安葬文化。 伊波拉病毒最具传染性的阶段，就是患者死亡之时，如何处理遗体成为防控疫情的关键。疫情爆发期间，葬礼被证实与大规模传播有关，安全安葬小组因而成立，成为防疫的重要一环。 BBC记者随同红十字会与红新月会国际联合会的义工，在刚果民主共和国东北部的伊图里省，实地采访疫下死者的安葬仪式，观察这波致命疫情如何改变当地传统文化。"
   },
   {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cj0gz198j9po/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "燒傷、高溫、戰火：走私者穿越巴基斯坦邊境運送伊朗燃料",
-    "link": "https://www.bbc.com/zhongwen/articles/cj0gz198j9po/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-06-18 14:23:17",
-    "author": "",
-    "description": "BBC / 烧伤、高温、战火：巴基斯坦走私者穿越边境运送伊朗燃料 尽管特朗普总统宣布已达成结束与伊朗战争的协议、且霍尔木兹海峡海峡已重新“开放”，穿越巴基斯坦山区、已有数十年历史的走私路线仍然是伊朗燃料被运送出该国的少数途径之一。 而美国与以色列对伊朗发动的战争也正引发新一波走私潮。BBC深入两国边境，一路跟随燃料运送员，纪录他们如何穿越巴基斯坦最贫困的省份、展开漫长而危险的旅程。",
-    "content": "BBC / 烧伤、高温、战火：巴基斯坦走私者穿越边境运送伊朗燃料 尽管特朗普总统宣布已达成结束与伊朗战争的协议、且霍尔木兹海峡海峡已重新“开放”，穿越巴基斯坦山区、已有数十年历史的走私路线仍然是伊朗燃料被运送出该国的少数途径之一。 而美国与以色列对伊朗发动的战争也正引发新一波走私潮。BBC深入两国边境，一路跟随燃料运送员，纪录他们如何穿越巴基斯坦最贫困的省份、展开漫长而危险的旅程。"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c2lyj7024wwo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -755,8 +755,8 @@ const jsonData = [
     "link": "https://www.bbc.com/zhongwen/articles/cx211w7zkkeo/simp?at_medium=RSS&at_campaign=rss",
     "pub_date": "2026-06-12 12:11:10",
     "author": "",
-    "description": "Reuters 由美国、加拿大和墨西哥共同主办的2026年国际足联（FIFA）世界杯决赛周将于6月11日至7月19日举行，你可以在这里查阅赛事安排、跟踪比赛结果。 点击浏览BBC中文2026年FIFA世界杯专页 點擊放大 FIFA 世界盃 2026 小組賽 淘汰賽 南非 0 - 加拿大 - 巴西 NaN - 日本 - 德國 NaN - 巴拉圭 - 荷蘭 NaN - 摩洛哥 - 科特迪瓦 NaN - 挪威 - 法國 NaN - 瑞典 - …",
-    "content": "Reuters 由美国、加拿大和墨西哥共同主办的2026年国际足联（FIFA）世界杯决赛周将于6月11日至7月19日举行，你可以在这里查阅赛事安排、跟踪比赛结果。 点击浏览BBC中文2026年FIFA世界杯专页 點擊放大 FIFA 世界盃 2026 小組賽 淘汰賽 淘汰賽 32強淘汰賽 6月28日，20:00（GMT+1） 南非 0 - 1 加拿大 (互射12碼) NaN - NaN (互射12碼) (洛杉磯體育場) 6月29日，18:00（GMT+1） 巴西 NaN - NaN 日本 (互射12碼) NaN - …"
+    "description": "Reuters 由美国、加拿大和墨西哥共同主办的2026年国际足联（FIFA）世界杯决赛周将于6月11日至7月19日举行，你可以在这里查阅赛事安排、跟踪比赛结果。 点击浏览BBC中文2026年FIFA世界杯专页 點擊放大 FIFA 世界盃 2026 小組賽 淘汰賽 南非 0 - 加拿大 - 巴西 2 - 日本 - 德國 1 - 巴拉圭 - 荷蘭 NaN - 摩洛哥 - 科特迪瓦 NaN - 挪威 - 法國 NaN - 瑞典 - 墨西哥 …",
+    "content": "Reuters 由美国、加拿大和墨西哥共同主办的2026年国际足联（FIFA）世界杯决赛周将于6月11日至7月19日举行，你可以在这里查阅赛事安排、跟踪比赛结果。 点击浏览BBC中文2026年FIFA世界杯专页 點擊放大 FIFA 世界盃 2026 小組賽 淘汰賽 淘汰賽 32強淘汰賽 6月28日，20:00（GMT+1） 南非 0 - 1 加拿大 (互射12碼) NaN - NaN (互射12碼) (洛杉磯體育場) 6月29日，18:00（GMT+1） 巴西 2 - 1 日本 (互射12碼) NaN - NaN …"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cpv3zj4lepvo/simp?at_medium=RSS&at_campaign=rss",
