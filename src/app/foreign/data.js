@@ -1,5 +1,49 @@
 const jsonData = [
   {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c7vy088g5lgo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "中歐貿易摩擦加劇，默茨暗示推中國版《廣場協議》會成功嗎？",
+    "link": "https://www.bbc.com/zhongwen/articles/c7vy088g5lgo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-06-30 18:12:09",
+    "author": "",
+    "description": "Getty Images / 2024年2月6日，德国美因茨，在即将到来的玫瑰星期一游行之前，一辆描绘中国国家主席习近平拔掉电动汽车插头、将德国汽车制造商甩在身后的花车将参与游行。 德国总理默茨（Friedrich Merz；梅尔茨）身上的一个重要标签，就是他对已故美国总统里根（Ronald Reagan）的崇拜。他也像自己的偶像一样，推崇自由市场经济模式以及跨大西洋的亲善关系。对于1980年代在里根治下美日之间的汇率谈判，以及最终签下…",
+    "content": "Getty Images / 2024年2月6日，德国美因茨，在即将到来的玫瑰星期一游行之前，一辆描绘中国国家主席习近平拔掉电动汽车插头、将德国汽车制造商甩在身后的花车将参与游行。 德国总理默茨（Friedrich Merz；梅尔茨）身上的一个重要标签，就是他对已故美国总统里根（Ronald Reagan）的崇拜。他也像自己的偶像一样，推崇自由市场经济模式以及跨大西洋的亲善关系。对于1980年代在里根治下美日之间的汇率谈判，以及最终签下的《广场协议》（The Plaza Accord），默茨可能比大多数欧洲政客都更…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c20yg50wg02o/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "大馬榴槤大跌價：為何曾經矜貴的果王如今要半賣半送？",
+    "link": "https://www.bbc.com/zhongwen/articles/c20yg50wg02o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-06-30 16:47:16",
+    "author": "",
+    "description": "Kelly Ng/ BBC / 由于供过于求，榴梿价格大幅下跌。 连日来，新加坡东部繁忙市镇淡滨尼（Tampines）两个街区外都排起一条蜿蜒长龙，直通榴梿摊档“榴梿忍者（Durian Ninja）”。 人们耐心等候摊贩自6月中旬起每天免费派发的水果：每位顾客可获两个榴梿，每日派出约600公斤。 这份大方的举动源于邻国马来西亚榴梿供应过剩。马来西亚每年通常生产约55万吨榴梿。 但2026年异常丰收，令这种带刺、气味浓烈、深受亚洲多地民众…",
+    "content": "Kelly Ng/ BBC / 由于供过于求，榴梿价格大幅下跌。 连日来，新加坡东部繁忙市镇淡滨尼（Tampines）两个街区外都排起一条蜿蜒长龙，直通榴梿摊档“榴梿忍者（Durian Ninja）”。 人们耐心等候摊贩自6月中旬起每天免费派发的水果：每位顾客可获两个榴梿，每日派出约600公斤。 这份大方的举动源于邻国马来西亚榴梿供应过剩。马来西亚每年通常生产约55万吨榴梿。 但2026年异常丰收，令这种带刺、气味浓烈、深受亚洲多地民众喜爱的水果价格大跌。 69岁的新加坡本地人庄先生正在排队，他向BBC表示，自己最…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cy8dpl03e3xo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "郭文貴美國詐騙案以判囚30年告一段落",
+    "link": "https://www.bbc.com/zhongwen/articles/cy8dpl03e3xo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-06-30 13:24:58",
+    "author": "",
+    "description": "Reuters / 郭文贵被捕前在美国维持奢华生活。 流亡美国的中国富商郭文贵因诈骗等罪名，被法院判处30年监禁，并没收8.89亿美元（60.4亿元人民币；283.7亿元新台币）非法所得。 郭文贵周一（6月29日）在纽约南区联邦法院被判刑，美联社引述联邦法官表示，其大规模金融诈骗令全球逾1000人损失数以亿计美元。 郭文贵十多年前离开中国，在美国重塑“中共批评者”的形象，并在网络建立一群忠实的追随者。 法官阿纳丽莎·托雷斯（Analis…",
+    "content": "Reuters / 郭文贵被捕前在美国维持奢华生活。 流亡美国的中国富商郭文贵因诈骗等罪名，被法院判处30年监禁，并没收8.89亿美元（60.4亿元人民币；283.7亿元新台币）非法所得。 郭文贵周一（6月29日）在纽约南区联邦法院被判刑，美联社引述联邦法官表示，其大规模金融诈骗令全球逾1000人损失数以亿计美元。 郭文贵十多年前离开中国，在美国重塑“中共批评者”的形象，并在网络建立一群忠实的追随者。 法官阿纳丽莎·托雷斯（Analisa Torres）判刑时表示，郭文贵“利用那些希望为中国带来民主的人”，骗取金钱…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20260630/supreme-court-independent-regulator-firings/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "最高法院扩大特朗普解雇官员的权力",
+    "link": "https://cn.nytimes.com/usa/20260630/supreme-court-independent-regulator-firings/dual",
+    "pub_date": "2026-06-30 13:06:02",
+    "author": "",
+    "description": "ANN E. MARIMOW2026年6月30日最高法院的裁决将对二十多个传统上一直免受总统控制的机构产生影响。 Tierney L. Cross for The New York Times In a major expansion of presidential authority, the Supreme Court cleared the way on Monday for President Trump to fire ind…",
+    "content": "ANN E. MARIMOW 2026年6月30日 最高法院的裁决将对二十多个传统上一直免受总统控制的机构产生影响。 Tierney L. Cross for The New York Times In a major expansion of presidential authority, the Supreme Court cleared the way on Monday for President Trump to fire independent government regulators despite…"
+  },
+  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cg4we27y99xo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -11,15 +55,15 @@ const jsonData = [
     "content": "AFP via Getty Images 中国7月1日起实施“民族团结进步促进法”，明文指出依法追究“境外组织和个人”破坏民族团结进步、制造民族分裂行为。 中方学者视新法律为反制分裂的“法治利器”，台湾方面则批评该法律采取“非统即独”逻辑，令台湾民众“自我审查”，同时阻止其他国家的人“挺台湾”。 有日本政治人物表达忧虑，未来公开支持台湾，理论上可被该法律追究。另有学者分析，台湾若在两岸交流活动主张“对等尊严”原则，也将面临挑战。 哪些群体恐受影响？ 台湾东海大学中国大陆暨区域发展研究中心副执行长洪浦钊向BBC中文表…"
   },
   {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cy8dpl03e3xo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20260630/israel-iran-democrats-republicans-midterms/dual",
+    "feed_name": "纽约时报双语版",
     "category": "国外",
-    "title": "中國富商郭文貴涉詐騙，在美國判囚30年",
-    "link": "https://www.bbc.com/zhongwen/articles/cy8dpl03e3xo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-06-30 10:24:45",
+    "title": "以色列和伊朗问题正在撕裂美国两党",
+    "link": "https://cn.nytimes.com/usa/20260630/israel-iran-democrats-republicans-midterms/dual",
+    "pub_date": "2026-06-30 12:36:03",
     "author": "",
-    "description": "Getty Images 流亡海外的中国富商郭文贵因诈骗等罪名，在美国被判处30年监禁。 他周一（6月29日）在纽约曼哈顿联邦法院被判刑，美联社引述联邦法官表示，其大规模金融诈骗令全球逾1,000人损失数亿美元。 郭文贵十年前离开中国，并在美国重塑“中共批评者”的形象。 法官判刑时表示，郭文贵“利用了那些希望为中国带来民主的人”，骗取金钱以过奢华生活。 宣判前，郭文贵称在拘留期间遭不当对待，并指周一清晨曾被送往医院。他反驳检方说法指其装…",
-    "content": "Getty Images 流亡海外的中国富商郭文贵因诈骗等罪名，在美国被判处30年监禁。 他周一（6月29日）在纽约曼哈顿联邦法院被判刑，美联社引述联邦法官表示，其大规模金融诈骗令全球逾1,000人损失数亿美元。 郭文贵十年前离开中国，并在美国重塑“中共批评者”的形象。 法官判刑时表示，郭文贵“利用了那些希望为中国带来民主的人”，骗取金钱以过奢华生活。 宣判前，郭文贵称在拘留期间遭不当对待，并指周一清晨曾被送往医院。他反驳检方说法指其装病，表示在被送回监狱后曾多次呕吐，之后再被带到法庭。 郭文贵透过传译表示，在抵达…"
+    "description": "PATRICIA MAZZEI, ANTON TROIANOVSKI2026年6月30日上周的纽约州初选中，两位现任民主党众议员输给了挑战者，后者指责他们对以色列批评力度不够。图为获胜者克莱尔·瓦尔迪兹（左一）和达里亚里萨·阿维拉·舍瓦利耶（右一）与市长马姆达尼一同参加选前集会。 Angelina Katsanis for The New York Times Bitter foreign policy debates over Isr…",
+    "content": "PATRICIA MAZZEI, ANTON TROIANOVSKI 2026年6月30日 上周的纽约州初选中，两位现任民主党众议员输给了挑战者，后者指责他们对以色列批评力度不够。图为获胜者克莱尔·瓦尔迪兹（左一）和达里亚里萨·阿维拉·舍瓦利耶（右一）与市长马姆达尼一同参加选前集会。 Angelina Katsanis for The New York Times Bitter foreign policy debates over Israel and Iran are fracturing the Democr…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cy9rp1rxzvgo/simp?at_medium=RSS&at_campaign=rss",
@@ -27,10 +71,186 @@ const jsonData = [
     "category": "国外",
     "title": "「一場充滿意外的旅行」：首批上海遊客重返金門、馬祖",
     "link": "https://www.bbc.com/zhongwen/articles/cy9rp1rxzvgo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-06-30 07:46:04",
+    "pub_date": "2026-06-30 11:37:53",
     "author": "",
     "description": "BBC CHINESE/ LEE LOK / 中国近期开放上海旅客赴金马旅游，首批旅客兴奋在金门当地拍照留影。 踏上摇晃的客船甲板，上海人Lily穿梭在人群之间，耳边交错着台湾腔与福建沿海口音，两天来紧绷的心情，终于在海风中逐渐松开。 船班的目的地是金门——一个她未曾踏足、过去几年也无法自由旅游的地方。 自2019年起，两岸政治情势与新冠疫情使中国大幅限制赴台旅游。直到2024年中，北京宣布部分开放，允许福建居民透过“小三通”前往金门、…",
     "content": "BBC CHINESE/ LEE LOK / 中国近期开放上海旅客赴金马旅游，首批旅客兴奋在金门当地拍照留影。 踏上摇晃的客船甲板，上海人Lily穿梭在人群之间，耳边交错着台湾腔与福建沿海口音，两天来紧绷的心情，终于在海风中逐渐松开。 船班的目的地是金门——一个她未曾踏足、过去几年也无法自由旅游的地方。 自2019年起，两岸政治情势与新冠疫情使中国大幅限制赴台旅游。直到2024年中，北京宣布部分开放，允许福建居民透过“小三通”前往金门、马祖，今年4月底再扩及上海居民。 “虽然不是台湾本岛，还是很远的金门，但也是要过…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20260630/guo-wengui-sentencing/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "流亡富商郭文贵因诈骗罪在美被判30年监禁",
+    "link": "https://cn.nytimes.com/usa/20260630/guo-wengui-sentencing/dual",
+    "pub_date": "2026-06-30 11:06:02",
+    "author": "",
+    "description": "傅才德2026年6月30日2017年，郭文贵在其曼哈顿公寓内。 James Estrin/The New York Times Guo Wengui, a Chinese businessman who transformed himself from a Beijing insider into an anti-Communist crusader and ally of the American far right, was sen…",
+    "content": "傅才德 2026年6月30日 2017年，郭文贵在其曼哈顿公寓内。 James Estrin/The New York Times Guo Wengui, a Chinese businessman who transformed himself from a Beijing insider into an anti-Communist crusader and ally of the American far right, was sentenced to 30 years in prison on Monday…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/health/20260630/glp1-drugs-ozempic-longevity/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "减肥药能让人更长寿吗？",
+    "link": "https://cn.nytimes.com/health/20260630/glp1-drugs-ozempic-longevity/dual",
+    "pub_date": "2026-06-30 10:36:02",
+    "author": "",
+    "description": "DANA G. SMITH2026年6月30日 Fortunate Joaquin Two of the hottest trends in health — longevity medicine and weight loss drugs — are colliding. 健康领域两大炙手可热的趋势——长寿医学与减肥药物——正在发生交汇碰撞。 A theory that GLP-1 medications like Ozempic o…",
+    "content": "DANA G. SMITH 2026年6月30日 Fortunate Joaquin Two of the hottest trends in health — longevity medicine and weight loss drugs — are colliding. 健康领域两大炙手可热的趋势——长寿医学与减肥药物——正在发生交汇碰撞。 A theory that GLP-1 medications like Ozempic or Zepbound might help people live longe…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20260630/china-iran-strait-of-hormuz/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "为什么说中国是伊朗战争的赢家",
+    "link": "https://cn.nytimes.com/business/20260630/china-iran-strait-of-hormuz/dual",
+    "pub_date": "2026-06-30 08:36:02",
+    "author": "",
+    "description": "ANA SWANSON2026年6月30日 The war in Iran and the effective closure of the Strait of Hormuz have inflicted deep economic pain on many countries and sent some industries into a tailspin as they struggled with higher prices fo…",
+    "content": "ANA SWANSON 2026年6月30日 The war in Iran and the effective closure of the Strait of Hormuz have inflicted deep economic pain on many countries and sent some industries into a tailspin as they struggled with higher prices for energy, fertilizer and chemicals. 伊朗战…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260629-%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%8F%8C%E5%9C%B0%E9%9C%87%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B31719%E4%BA%BA%EF%BC%8C%E8%81%94%E5%90%88%E5%9B%BD%E5%B0%86%E6%8F%90%E4%BE%9B1%E4%B8%87%E4%B8%AA%E8%A3%B9%E5%B0%B8%E8%A2%8B",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "委内瑞拉双地震死亡人数升至1719人，联合国将提供1万个裹尸袋 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260629-%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%8F%8C%E5%9C%B0%E9%9C%87%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B31719%E4%BA%BA%EF%BC%8C%E8%81%94%E5%90%88%E5%9B%BD%E5%B0%86%E6%8F%90%E4%BE%9B1%E4%B8%87%E4%B8%AA%E8%A3%B9%E5%B0%B8%E8%A2%8B",
+    "pub_date": "2026-06-30 08:15:03",
+    "author": "",
+    "description": "30/06/2026 - 01:57 联合国担心委内瑞拉6月24日发生的双地震的遇难人数会上升，将提供1万个尸体裹尸袋，但同时也希望死亡人数能低于这个数字。 联合国驻委内瑞拉协调员詹卢卡·兰波拉·德尔·廷达罗（Gianluca Rampolla Del Tindaro）周一在一次视频新闻发布会上被问及委内瑞拉双地震后的失踪人数时表示：“我不会对政府尚未正式公布的（失踪人员）数字妄加猜测。” 但他补充说，由于2500座建筑受损，“其中大部…",
+    "content": "30/06/2026 - 01:57 联合国担心委内瑞拉6月24日发生的双地震的遇难人数会上升，将提供1万个尸体裹尸袋，但同时也希望死亡人数能低于这个数字。 联合国驻委内瑞拉协调员詹卢卡·兰波拉·德尔·廷达罗（Gianluca Rampolla Del Tindaro）周一在一次视频新闻发布会上被问及委内瑞拉双地震后的失踪人数时表示：“我不会对政府尚未正式公布的（失踪人员）数字妄加猜测。” 但他补充说，由于2500座建筑受损，“其中大部分完全倒塌”，所以他可以给一个参考，这就是：“我们将提供1万个裹尸袋；这是我们与…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260629-%E7%BE%8E%E5%9B%BD%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E9%A9%B3%E5%9B%9E%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E8%A7%A3%E9%9B%87%E7%BE%8E%E8%81%94%E5%82%A8%E7%90%86%E4%BA%8B%E4%B8%BD%E8%8E%8E%C2%B7%E5%BA%93%E5%85%8B%E7%9A%84%E8%AF%B7%E6%B1%82",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "美国最高法院驳回总统特朗普解雇美联储理事丽莎·库克的请求 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260629-%E7%BE%8E%E5%9B%BD%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E9%A9%B3%E5%9B%9E%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E8%A7%A3%E9%9B%87%E7%BE%8E%E8%81%94%E5%82%A8%E7%90%86%E4%BA%8B%E4%B8%BD%E8%8E%8E%C2%B7%E5%BA%93%E5%85%8B%E7%9A%84%E8%AF%B7%E6%B1%82",
+    "pub_date": "2026-06-30 05:45:02",
+    "author": "",
+    "description": "29/06/2026 - 23:13 美国最高法院周一（6月29日）驳回了总统特朗普解雇美联储理事丽莎·库克（Lisa Cook）的请求，认为此举没有经过任何法律审查。 周一的库克案判决，最高法院的投票结果为5比4，意味着库克可以继续留任，同时可以就特朗普提出的抵押贷款欺诈指控进行法律抗辩。 2022年，拜登总统任命库克为美联储七人理事会成员。2025年8月，特朗普宣布解雇库克。这是美联储历史上首次有总统试图罢免其成员。 特朗普援引一位…",
+    "content": "29/06/2026 - 23:13 美国最高法院周一（6月29日）驳回了总统特朗普解雇美联储理事丽莎·库克（Lisa Cook）的请求，认为此举没有经过任何法律审查。 周一的库克案判决，最高法院的投票结果为5比4，意味着库克可以继续留任，同时可以就特朗普提出的抵押贷款欺诈指控进行法律抗辩。 2022年，拜登总统任命库克为美联储七人理事会成员。2025年8月，特朗普宣布解雇库克。这是美联储历史上首次有总统试图罢免其成员。 特朗普援引一位高级住房官员的指控称：库克在2021年为了从贷款机构获得更优惠的条款，在房贷文件…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260629-rfi%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E6%AC%A7%E7%9B%9F%E6%84%BF%E4%B8%8E%E5%8A%A0%E8%93%AC%E7%BB%A7%E7%BB%AD%E8%B0%88%E5%88%A4%E6%B8%94%E4%B8%9A%E5%8D%8F%E8%AE%AE",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "欧盟愿与加蓬继续谈判渔业协议 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260629-rfi%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E6%AC%A7%E7%9B%9F%E6%84%BF%E4%B8%8E%E5%8A%A0%E8%93%AC%E7%BB%A7%E7%BB%AD%E8%B0%88%E5%88%A4%E6%B8%94%E4%B8%9A%E5%8D%8F%E8%AE%AE",
+    "pub_date": "2026-06-30 04:45:03",
+    "author": "",
+    "description": "29/06/2026 - 22:29 西非国家加蓬（le Gabon）与欧盟（Union Européenne）之间的渔业协议于昨天2026年06月28号星期日到期。应利伯维尔方面（Libreville）的要求，这一协议暂时未能获得续约。加蓬认为之前的协议缺乏平衡。布鲁塞尔(Bruxelles)展现其诚意，欧盟表示愿意进行谈判。 据本台法广非洲组（RFI Afrique）的法文报导，利伯维尔（Libreville）认为,刚刚在昨天202…",
+    "content": "29/06/2026 - 22:29 西非国家加蓬（le Gabon）与欧盟（Union Européenne）之间的渔业协议于昨天2026年06月28号星期日到期。应利伯维尔方面（Libreville）的要求，这一协议暂时未能获得续约。加蓬认为之前的协议缺乏平衡。布鲁塞尔(Bruxelles)展现其诚意，欧盟表示愿意进行谈判。 据本台法广 非洲 组（RFI Afrique）的法文报导，利伯维尔（Libreville）认为,刚刚在昨天2026年06月28号星期日到期的 欧洲联盟 （UE- Union Europée…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260629-%E6%B3%95%E4%B8%9C%E5%8C%97%E9%83%A8%E4%B8%80%E5%AF%B9%E5%A4%AB%E5%A6%87%E8%A2%AB%E6%8A%93-%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A5%B3%E5%84%BF%E6%AD%BB%E4%BA%8E%E4%B8%A5%E9%87%8D%E8%84%B1%E6%B0%B4",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "法东北部一对夫妇被抓 双胞胎女儿死于严重脱水 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260629-%E6%B3%95%E4%B8%9C%E5%8C%97%E9%83%A8%E4%B8%80%E5%AF%B9%E5%A4%AB%E5%A6%87%E8%A2%AB%E6%8A%93-%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A5%B3%E5%84%BF%E6%AD%BB%E4%BA%8E%E4%B8%A5%E9%87%8D%E8%84%B1%E6%B0%B4",
+    "pub_date": "2026-06-30 04:15:03",
+    "author": "",
+    "description": "29/06/2026 - 21:36 据一位接近调查的消息人士透露，这对夫妇的其他四个孩子，年龄分别为3岁、4岁、5岁和6岁，也因脱水入院治疗，但目前没有生命危险。检察官办公室在周一晚间表示，这对父母在下午1点左右“发现他们15个月大的双胞胎女儿在各自的床上失去知觉”后拨打了急救电话。 据同一消息人士称，一项关于父母疏忽导致15岁以下未成年人死亡的调查已经展开，并已移交给瓦朗谢讷少年警队负责。检察官办公室表示，尸检定于周二进行，“以确定…",
+    "content": "29/06/2026 - 21:36 据一位接近调查的消息人士透露，这对夫妇的其他四个孩子，年龄分别为3岁、4岁、5岁和6岁，也因脱水入院治疗，但目前没有生命危险。检察官办公室在周一晚间表示，这对父母在下午1点左右“发现他们15个月大的双胞胎女儿在各自的床上失去知觉”后拨打了急救电话。 据同一消息人士称，一项关于父母疏忽导致15岁以下未成年人死亡的调查已经展开，并已移交给瓦朗谢讷少年警队负责。检察官办公室表示，尸检定于周二进行，“以确定两名女孩的死因，尤其要调查卧室高温是否导致脱水”。 在瓦朗谢讷郊外这座小镇上，他…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260629-%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1-%E8%B4%B8%E6%98%93%E9%A3%8E%E9%99%A9%E4%BE%9D%E7%84%B6%E5%AD%98%E5%9C%A8",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "霍尔木兹海峡：贸易风险依然存在 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260629-%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1-%E8%B4%B8%E6%98%93%E9%A3%8E%E9%99%A9%E4%BE%9D%E7%84%B6%E5%AD%98%E5%9C%A8",
+    "pub_date": "2026-06-30 04:15:03",
+    "author": "",
+    "description": "29/06/2026 - 21:41 根据海事追踪公司Kpler的数据，周六共有29艘运载原材料的船舶通过该海峡，周日则有12艘。在两国之间发生一系列新的冲突和针对船舶的袭击之后，通行速度明显放缓。 周三，海峡通行量达到70艘，创下自3月初关闭以来的最高纪录，但仍仅为正常水平的一半。“霍尔木兹海峡的重新开放面临着诸多技术和后勤方面的挑战，”法国巴黎银行在一份报告中指出。 德勤法国首席经济学家奥利维尔·索特尔在接受法新社采访时表示，由于数…",
+    "content": "29/06/2026 - 21:41 根据海事追踪公司Kpler的数据，周六共有29艘运载原材料的船舶通过该海峡，周日则有12艘。在两国之间发生一系列新的冲突和针对船舶的袭击之后，通行速度明显放缓。 周三，海峡通行量达到70艘，创下自3月初关闭以来的最高纪录，但仍仅为正常水平的一半。“霍尔木兹海峡的重新开放面临着诸多技术和后勤方面的挑战，”法国巴黎银行在一份报告中指出。 德勤法国首席经济学家奥利维尔·索特尔在接受法新社采访时表示，由于数百艘滞留在海峡的船只需要撤离，该地区的布雷工作也需要完成，石油基础设施的修复工作…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260629-%E5%A7%94%E5%9C%B0%E9%9C%87%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B31719-%E4%BB%8D%E6%9C%89%E4%BD%99%E9%9C%87",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "委地震死亡人数升至1719 仍有余震 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260629-%E5%A7%94%E5%9C%B0%E9%9C%87%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B31719-%E4%BB%8D%E6%9C%89%E4%BD%99%E9%9C%87",
+    "pub_date": "2026-06-30 04:15:03",
+    "author": "",
+    "description": "29/06/2026 - 21:38 此前，上周三加拉加斯及其周边地区发生两次7级以上的强震，造成至少1719人死亡，5000多人受伤。余震发生时，救援队仍在受灾地区，特别是北部拉瓜伊拉地区，继续搜寻可能的幸存者。 国际社会迅速行动起来，向委内瑞拉提供援助。据委内瑞拉当局称，约20个国家提供了约500吨物资、2700多名救援人员和后勤人员，以及约86支搜救犬队。 周日晚至周一，国内外救援队在废墟中展开搜寻，失踪者家属们则始终抱有希望，期…",
+    "content": "29/06/2026 - 21:38 此前，上周三加拉加斯及其周边地区发生两次7级以上的强震，造成至少1719人死亡，5000多人受伤。余震发生时，救援队仍在受灾地区，特别是北部拉瓜伊拉地区，继续搜寻可能的幸存者。 国际社会迅速行动起来，向委内瑞拉提供援助。据委内瑞拉当局称，约20个国家提供了约500吨物资、2700多名救援人员和后勤人员，以及约86支搜救犬队。 周日晚至周一，国内外救援队在废墟中展开搜寻，失踪者家属们则始终抱有希望，期盼亲人平安归来。 萨尔瓦多总统纳伊布·布克莱在社交媒体上分享了21岁的亚伦·列维…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260629-rfi%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E8%82%AF%E5%B0%BC%E4%BA%9A%E6%9A%82%E5%81%9C%E7%BE%8E%E5%9B%BD%E5%9F%83%E5%8D%9A%E6%8B%89%E9%9A%94%E7%A6%BB%E4%B8%AD%E5%BF%83",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "肯尼亚暂停美国埃博拉隔离中心 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260629-rfi%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E8%82%AF%E5%B0%BC%E4%BA%9A%E6%9A%82%E5%81%9C%E7%BE%8E%E5%9B%BD%E5%9F%83%E5%8D%9A%E6%8B%89%E9%9A%94%E7%A6%BB%E4%B8%AD%E5%BF%83",
+    "pub_date": "2026-06-30 04:15:03",
+    "author": "",
+    "description": "29/06/2026 - 21:41 肯尼亚公民社会强烈反对美国打算在位于该国莱基皮亚（Laïkipia）空军基地里建造一座隔离中心用于安置感染埃博拉病毒（Ebola）美国公民的计划。这一设施自上月底(2026年五月)被美国媒体率先对外披露后，肯尼亚当局在打压中部城镇纳纽基（Nanyuki）的抗议活动中，已造成数人死亡。本台法广非洲组（RFI Afrique）报导说，肯尼亚卫生部长上周在一个法庭上回答法官询问时表示，这是一场巨大的误解，…",
+    "content": "29/06/2026 - 21:41 肯尼亚公民社会强烈反对美国打算在位于该国莱基皮亚（Laïkipia）空军基地里建造一座隔离中心用于安置感染埃博拉病毒（Ebola）美国公民的计划。这一设施自上月底(2026年五月)被美国媒体率先对外披露后，肯尼亚当局在打压中部城镇纳纽基（Nanyuki）的抗议活动中，已造成数人死亡。本台法广非洲组（RFI Afrique）报导说，肯尼亚卫生部长上周在一个法庭上回答法官询问时表示，这是一场巨大的误解，他已下令停止这一中心的相关筹备事宜，以待召开听证会，和深度调查决定，或法庭的新命…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260629-%E6%91%A9%E6%8B%B3%E6%93%A6%E6%8E%8C-%E6%B3%95%E5%9B%BD%E9%98%9F%E5%B0%86%E8%BF%8E%E6%88%98%E7%91%9E%E5%85%B8%E9%98%9F",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "摩拳擦掌 法国队将迎战瑞典队 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260629-%E6%91%A9%E6%8B%B3%E6%93%A6%E6%8E%8C-%E6%B3%95%E5%9B%BD%E9%98%9F%E5%B0%86%E8%BF%8E%E6%88%98%E7%91%9E%E5%85%B8%E9%98%9F",
+    "pub_date": "2026-06-30 04:15:03",
+    "author": "",
+    "description": "29/06/2026 - 21:29 三战全胜，攻入10球：法国队轻松拿下I组冠军，完美展现了他们作为冠军争夺者的实力。然而，今后的淘汰赛更加艰难，任何一点失误都可能意味着匆匆出局。 球员和球迷，特别是主教练迪迪埃·德尚（Didier Deschamps）梦想着继1998年和2018年之后，拿到世界杯大赛的冠军。 ——魔幻三叉戟—— 迪迪埃·德尚在母亲去世后回国奔丧，于周六返回球队。他深知自己可以依靠这支以姆巴佩、登贝莱和奥利塞组成的“…",
+    "content": "29/06/2026 - 21:29 三战全胜，攻入10球：法国队轻松拿下I组冠军，完美展现了他们作为冠军争夺者的实力。然而，今后的淘汰赛更加艰难，任何一点失误都可能意味着匆匆出局。 球员和球迷，特别是主教练迪迪埃·德尚（Didier Deschamps）梦想着继1998年和2018年之后，拿到世界杯大赛的冠军。 —— 魔幻三叉戟 —— 迪迪埃·德尚在母亲去世后回国奔丧，于周六返回球队。他深知自己可以依靠这支以姆巴佩、登贝莱和奥利塞组成的“魔幻三叉戟”为核心的强大攻击线。这三位球员既令人敬畏又令人胆寒，他们将再次成…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260629-edf-%E8%B5%A2%E5%BE%97%E9%98%BF%E6%9B%BC%E4%B8%80%E9%A1%B9%E4%BB%B7%E5%80%BC30%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E5%90%88%E5%90%8C",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "EDF 赢得阿曼一项价值30亿美元的合同 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260629-edf-%E8%B5%A2%E5%BE%97%E9%98%BF%E6%9B%BC%E4%B8%80%E9%A1%B9%E4%BB%B7%E5%80%BC30%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E5%90%88%E5%90%8C",
+    "pub_date": "2026-06-30 04:15:02",
+    "author": "",
+    "description": "29/06/2026 - 21:44 法新社29日报道，法国能源巨头法国电力公司（EDF）已签署一份价值30亿美元的合同，将在阿曼建设一座抽水蓄能电站。此前报道的金额为40亿美元。 该合同涵盖位于Wadi Daysat大坝（马斯喀特以南90公里）的阿曼首座抽水蓄能电站的开发和运营，该电站的储能容量将高达2吉瓦。法国电力解决方案公司还签署了另外两份合同，其中包括一份价值2.5亿美元的合同，用于在马斯喀特东南180公里的卡米勒开发一座500…",
+    "content": "29/06/2026 - 21:44 法新社29日报道，法国能源巨头法国电力公司（EDF）已签署一份价值30亿美元的合同，将在阿曼建设一座抽水蓄能电站。此前报道的金额为40亿美元。 该合同涵盖位于Wadi Daysat大坝（马斯喀特以南90公里）的阿曼首座抽水蓄能电站的开发和运营，该电站的储能容量将高达2吉瓦。法国电力解决方案公司还签署了另外两份合同，其中包括一份价值2.5亿美元的合同，用于在马斯喀特东南180公里的卡米勒开发一座500兆瓦的光伏电站。 第二份合同涉及阿曼的旗舰项目“岛屿”（The Island），…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260629-%E4%B8%AD%E6%AC%A7%E8%AE%BA%E5%9D%9B%E8%BE%BE%E6%88%90%E5%85%B1%E8%AF%86-%E4%BB%8E%E6%8A%80%E6%9C%AF%E7%AB%9E%E4%BA%89%E5%88%B0-%E5%BB%BA%E8%AE%BE%E6%80%A7%E5%90%88%E4%BD%9C",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "中欧论坛达成共识 从技术竞争到“建设性合作” - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260629-%E4%B8%AD%E6%AC%A7%E8%AE%BA%E5%9D%9B%E8%BE%BE%E6%88%90%E5%85%B1%E8%AF%86-%E4%BB%8E%E6%8A%80%E6%9C%AF%E7%AB%9E%E4%BA%89%E5%88%B0-%E5%BB%BA%E8%AE%BE%E6%80%A7%E5%90%88%E4%BD%9C",
+    "pub_date": "2026-06-30 04:15:02",
+    "author": "",
+    "description": "29/06/2026 - 21:52 这一共识源于第十二届欧洲论坛。该论坛由中欧国际工商学院（CEIBS）主办，分别于6月22日在巴黎和24日在布鲁塞尔举行，汇聚了政策制定者、商界领袖和学者，进行了为期数天的交流与对话。 在本次论坛上，欧洲理事会前主席查尔斯·米歇尔（Charles Michel）强调，人工智能不再仅仅是一个技术问题，而是关乎“主权、领导力和权力”的问题。他认为，半导体、数据基础设施和监管政策是塑造未来国际关系的关键因素…",
+    "content": "29/06/2026 - 21:52 这一共识源于第十二届欧洲论坛。该论坛由中欧国际工商学院（CEIBS）主办，分别于6月22日在巴黎和24日在布鲁塞尔举行，汇聚了政策制定者、商界领袖和学者，进行了为期数天的交流与对话。 在本次论坛上，欧洲理事会前主席查尔斯·米歇尔（Charles Michel）强调，人工智能不再仅仅是一个技术问题，而是关乎“主权、领导力和权力”的问题。他认为，半导体、数据基础设施和监管政策是塑造未来国际关系的关键因素。面对日益激烈的全球竞争，查尔斯·米歇尔呼吁开展“负责任的合作”，并指出欧洲在公…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260629-%E4%BC%8A%E6%9C%97%E6%8B%92%E7%BB%9D%E9%A9%AC%E5%85%8B%E9%BE%99%E6%8F%90%E5%87%BA%E7%9A%84%E5%8D%8F%E5%8A%A9%E6%B5%B7%E5%B3%A1%E6%8E%92%E9%9B%B7%E7%9A%84%E6%8F%90%E8%AE%AE",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "伊朗拒绝马克龙提出协助海峡排雷的提议 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260629-%E4%BC%8A%E6%9C%97%E6%8B%92%E7%BB%9D%E9%A9%AC%E5%85%8B%E9%BE%99%E6%8F%90%E5%87%BA%E7%9A%84%E5%8D%8F%E5%8A%A9%E6%B5%B7%E5%B3%A1%E6%8E%92%E9%9B%B7%E7%9A%84%E6%8F%90%E8%AE%AE",
+    "pub_date": "2026-06-30 03:45:02",
+    "author": "",
+    "description": "29/06/2026 - 21:21 法国总统马克龙在社交媒体X上发文称，法国将参与霍尔木兹海峡的排雷工作。他在社交媒体上写道：“我们已决定与合作伙伴共同合作，对海峡进行排雷，以确保海上航线安全，并保障霍尔木兹海峡的自由通行。” 伊朗断然拒绝了这一提议。 伊朗副外长卡齐姆·加里巴巴迪（Kazem Gharibabadi）在X频道上回答道：“排雷工作是由伊朗进行的，没有其他国家参与”。他断言，他依靠德黑兰和华盛顿签署的谅解备忘录来结束中东…",
+    "content": "29/06/2026 - 21:21 法国总统马克龙在社交媒体X上发文称，法国将参与霍尔木兹海峡的排雷工作。他在社交媒体上写道：“我们已决定与合作伙伴共同合作，对海峡进行排雷，以确保海上航线安全，并保障霍尔木兹海峡的自由通行。” 伊朗断然拒绝了这一提议。 伊朗副外长卡齐姆·加里巴巴迪（Kazem Gharibabadi）在X频道上回答道：“排雷工作是由伊朗进行的，没有其他国家参与”。他断言，他依靠德黑兰和华盛顿签署的谅解备忘录来结束中东冲突。 伊朗副外长还警告说：“局势敏感而复杂。我们强烈建议法国不要以挑衅行为使局…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260629-%E7%BE%8E%E7%89%B9%E4%BD%BF%E5%B0%86%E8%B5%B4%E5%A4%9A%E5%93%88%E4%B8%8E%E4%BC%8A%E6%9C%97%E4%BC%9A%E8%B0%88-%E9%B2%81%E6%AF%94%E5%A5%A5%E5%90%8C%E6%AD%A5%E5%90%91%E5%9B%BD%E4%BC%9A%E7%AE%80%E6%8A%A5",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "美特使将赴多哈与伊朗会谈 鲁比奥同步向国会简报 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260629-%E7%BE%8E%E7%89%B9%E4%BD%BF%E5%B0%86%E8%B5%B4%E5%A4%9A%E5%93%88%E4%B8%8E%E4%BC%8A%E6%9C%97%E4%BC%9A%E8%B0%88-%E9%B2%81%E6%AF%94%E5%A5%A5%E5%90%8C%E6%AD%A5%E5%90%91%E5%9B%BD%E4%BC%9A%E7%AE%80%E6%8A%A5",
+    "pub_date": "2026-06-30 01:45:02",
+    "author": "",
+    "description": "29/06/2026 - 19:15 美国总统特朗普（Donald Trump）政府将于本周加快与伊朗的外交接触。白宫周一宣布，中东问题特使威特科夫（Steve Witkoff）及总统高级顾问库什纳（Jared Kushner）将前往卡达首都多哈，出席预定于周二举行的美伊高层会谈，双方技术团队也将同步展开会议，讨论落实两国日前签署的14点谅解备忘录。 与此同时，美国媒体“政客”（Politico）引述多名知情人士消息报导，美国国务卿鲁比…",
+    "content": "29/06/2026 - 19:15 美国总统特朗普（Donald Trump）政府将于本周加快与伊朗的外交接触。白宫周一宣布，中东问题特使威特科夫（Steve Witkoff）及总统高级顾问库什纳（Jared Kushner）将前往卡达首都多哈，出席预定于周二举行的美伊高层会谈，双方技术团队也将同步展开会议，讨论落实两国日前签署的14点谅解备忘录。 与此同时，美国媒体“政客”（Politico）引述多名知情人士消息报导，美国国务卿鲁比奥（Marco Rubio）与威特科夫预定于周一下午向参、众两院议员举行闭门简报…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260629-%E9%A9%AC%E5%85%8B%E9%BE%99%E5%86%8D%E6%AC%A1%E6%88%B4%E4%B8%8A%E5%A4%AA%E9%98%B3%E9%95%9C",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "马克龙再次戴上太阳镜 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260629-%E9%A9%AC%E5%85%8B%E9%BE%99%E5%86%8D%E6%AC%A1%E6%88%B4%E4%B8%8A%E5%A4%AA%E9%98%B3%E9%95%9C",
+    "pub_date": "2026-06-30 01:15:02",
+    "author": "",
+    "description": "29/06/2026 - 19:03 今年1月21日，美国总统特朗普在瑞士达沃斯出席世界经济论坛年会时调侃说，他注意到法国总统马克龙前一天“戴着帅气的太阳镜”演讲。法国总统办公室解释，马克龙眼部充血，戴深色太阳镜是为了保护眼睛。 马克龙戴太阳镜的照片引发网络热议，有人把马克龙的形象与美国电影《壮志凌云》主人公的造型对比。但被马克龙带红的太阳镜制造商已经申请破产。 这家公司Dalloz Creations由克里斯蒂安·达洛兹 (Chris…",
+    "content": "29/06/2026 - 19:03 今年1月21日，美国总统特朗普在瑞士达沃斯出席世界经济论坛年会时调侃说，他注意到法国总统马克龙前一天“戴着帅气的太阳镜”演讲。法国总统办公室解释，马克龙眼部充血，戴深色太阳镜是为了保护眼睛。 马克龙戴太阳镜的照片引发网络热议，有人把马克龙的形象与美国电影《壮志凌云》主人公的造型对比。但被马克龙带红的太阳镜制造商已经申请破产。 这家公司Dalloz Creations由克里斯蒂安·达洛兹 (Christian Dalloz) 于 1957 年创立，专营高端太阳镜，但面临着严峻的经…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/ckg8jkg3n4yo/simp?at_medium=RSS&at_campaign=rss",
@@ -42,6 +262,83 @@ const jsonData = [
     "author": "",
     "description": "AFP / 小型飞机如何闯入禁飞区？三大疑点梳理 北京最高建筑物“中国尊”上周五傍晚遭一架山河阿若拉 SA60L 轻型运动飞机撞击，造成飞行员当场死亡、13人受伤。在全中国空域管制最严格的北京中心，这架“低、慢、小”飞机如何穿透防线？社交媒体流传的飞行员身份与中信集团有何关联？这究竟是一场挟私报复还是纯粹意外？BBC中文梳理事件背后的禁区、动机与飞行员三大疑点。",
     "content": "AFP / 小型飞机如何闯入禁飞区？三大疑点梳理 北京最高建筑物“中国尊”上周五傍晚遭一架山河阿若拉 SA60L 轻型运动飞机撞击，造成飞行员当场死亡、13人受伤。在全中国空域管制最严格的北京中心，这架“低、慢、小”飞机如何穿透防线？社交媒体流传的飞行员身份与中信集团有何关联？这究竟是一场挟私报复还是纯粹意外？BBC中文梳理事件背后的禁区、动机与飞行员三大疑点。"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20260629-%E6%97%A5%E7%89%88cfius-%E5%AF%B9%E6%97%A5%E5%A4%96%E5%9B%BD%E6%8A%95%E8%B5%84%E5%A7%94%E5%91%98%E4%BC%9A%E5%90%AF%E5%8A%A8-%E9%AB%98%E5%B8%82%E7%AD%89%E5%87%BA%E5%B8%AD%E6%88%90%E7%AB%8B%E4%BB%AA%E5%BC%8F",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "日本版CFIUS对日外国投资委员会启动 高市等出席首次会议 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20260629-%E6%97%A5%E7%89%88cfius-%E5%AF%B9%E6%97%A5%E5%A4%96%E5%9B%BD%E6%8A%95%E8%B5%84%E5%A7%94%E5%91%98%E4%BC%9A%E5%90%AF%E5%8A%A8-%E9%AB%98%E5%B8%82%E7%AD%89%E5%87%BA%E5%B8%AD%E6%88%90%E7%AB%8B%E4%BB%AA%E5%BC%8F",
+    "pub_date": "2026-06-29 23:45:03",
+    "author": "",
+    "description": "29/06/2026 - 16:46 为严格审查来自海外的投资，新设立的对日外国投资委员会召开了首次会议，高市早苗首相在会上强调，将加强各部委之间的协作，致力于提升审查能力。 日本放送协会（NHK）报导指，对日外国投资委员会于5月根据新颁布的《外汇及外国贸易法》修正案成立，在周一（29日）举行的首次会议上，高市首相、内阁官房长官木原稔、财务大臣片山皋月、经济产业大臣赤泽亮正等人均参会。 会上，高市表示：“我一直以来都强烈意识到必须提高相…",
+    "content": "29/06/2026 - 16:46 为严格审查来自海外的投资，新设立的对日外国投资委员会召开了首次会议，高市早苗首相在会上强调，将加强各部委之间的协作，致力于提升审查能力。 日本放送协会（NHK）报导指，对日外国投资委员会于5月根据新颁布的《外汇及外国贸易法》修正案成立，在周一（29日）举行的首次会议上，高市首相、内阁官房长官木原稔、财务大臣片山皋月、经济产业大臣赤泽亮正等人均参会。 会上，高市表示：“我一直以来都强烈意识到必须提高相关部委的审查能力，避免部门壁垒。我们将加强信息共享，例如共享审查经验，从而提升整…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260629-%E9%92%88%E5%AF%B9-shein-temu%E5%92%8Caliexpress-%E6%B3%95%E5%9B%BD%E9%92%88%E5%AF%B9-%E8%B6%85%E5%BF%AB%E6%97%B6%E5%B0%9A-%E6%B3%95%E6%A1%88%E5%AE%8C%E6%88%90%E7%AB%8B%E6%B3%95%E7%A8%8B%E5%BA%8F",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "针对“Shein、Temu和AliExpress” 法国针对“超快时尚”法案完成立法程序 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260629-%E9%92%88%E5%AF%B9-shein-temu%E5%92%8Caliexpress-%E6%B3%95%E5%9B%BD%E9%92%88%E5%AF%B9-%E8%B6%85%E5%BF%AB%E6%97%B6%E5%B0%9A-%E6%B3%95%E6%A1%88%E5%AE%8C%E6%88%90%E7%AB%8B%E6%B3%95%E7%A8%8B%E5%BA%8F",
+    "pub_date": "2026-06-29 23:45:02",
+    "author": "",
+    "description": "29/06/2026 - 17:31 该法案自提出至今已过去两年半，法国议会于周一最终批准了这项旨在遏制“快时尚”——以希音（Shein）为典型代表——兴起的法案；不过，为了保护“法国就业岗位”，法案的适用范围被缩小，重点针对“超快时尚”。 法新社报导指，面对这一迅速增长的现象，无论是经济处罚还是广告禁令——支持该倡议的法国中小企业、商业、手工业、旅游及购买力部长帕潘（Serge Papin）表示，由中右翼政党、地平线籍国民议会议员维奥…",
+    "content": "29/06/2026 - 17:31 该法案自提出至今已过去两年半，法国议会于周一最终批准了这项旨在遏制“快时尚”——以希音（Shein）为典型代表——兴起的法案；不过，为了保护“法国就业岗位”，法案的适用范围被缩小，重点针对“超快时尚”。 法新社报导指，面对这一迅速增长的现象，无论是经济处罚还是广告禁令——支持该倡议的法国中小企业、商业、手工业、旅游及购买力部长帕潘（Serge Papin）表示，由中右翼政党、地平线籍国民议会议员维奥兰（Anne-Cécile Violland）提出的这项法案能够“精准有力”地应…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20260629-%E5%BE%B7%E7%BB%8F%E6%B5%8E%E9%83%A8%E9%95%BF%E5%9C%A8%E6%AC%A7%E7%9B%9F%E8%B4%B8%E6%98%93%E5%A7%94%E5%91%98%E5%89%8D%E5%85%88%E4%BC%9A%E8%A7%81%E7%8E%8B%E6%96%87%E6%B6%9B-%E5%BC%BA%E8%B0%83%E5%8F%AF%E9%9D%A0%E4%BE%9B%E5%BA%94%E9%93%BE%E5%8F%8A%E5%B9%B3%E8%A1%A1%E8%B4%B8%E6%98%93%E5%85%B3%E7%B3%BB%E7%AD%89",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "德经济部长在欧盟贸易委员前先会见王文涛 强调可靠供应链及平衡贸易关系等 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20260629-%E5%BE%B7%E7%BB%8F%E6%B5%8E%E9%83%A8%E9%95%BF%E5%9C%A8%E6%AC%A7%E7%9B%9F%E8%B4%B8%E6%98%93%E5%A7%94%E5%91%98%E5%89%8D%E5%85%88%E4%BC%9A%E8%A7%81%E7%8E%8B%E6%96%87%E6%B6%9B-%E5%BC%BA%E8%B0%83%E5%8F%AF%E9%9D%A0%E4%BE%9B%E5%BA%94%E9%93%BE%E5%8F%8A%E5%B9%B3%E8%A1%A1%E8%B4%B8%E6%98%93%E5%85%B3%E7%B3%BB%E7%AD%89",
+    "pub_date": "2026-06-29 22:45:02",
+    "author": "",
+    "description": "29/06/2026 - 16:22 欧盟委员会贸易和经济安全委员谢夫乔维奇（Maroš Šefčovič）周一在布鲁塞尔与中国商务部部长王文涛举行会谈。谢夫乔维奇对后者的来访表示欢迎，并指双方将迎接日程排得满满当当的一天，并指“议程紧凑，会谈实质性，目标明确”。此前，德国联邦经济和能源部部长赖歇（Katherina Reiche）周日在布鲁塞尔与王文涛举行了会谈。 德国联邦经济和能源部通过新闻稿表示，“双方回顾了赖歇部长5月份的首次访…",
+    "content": "29/06/2026 - 16:22 欧盟委员会贸易和经济安全委员谢夫乔维奇（Maroš Šefčovič）周一在布鲁塞尔与中国商务部部长王文涛举行会谈。谢夫乔维奇对后者的来访表示欢迎，并指双方将迎接日程排得满满当当的一天，并指“议程紧凑，会谈实质性，目标明确”。此前，德国联邦经济和能源部部长赖歇（Katherina Reiche）周日在布鲁塞尔与王文涛举行了会谈。 德国联邦经济和能源部通过新闻稿表示，“双方回顾了赖歇部长5月份的首次访问，并重申了就贸易和经济政策问题密切对话的意愿。在此背景下，双方还就重启混合经济…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260629-%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E7%BB%AD%E7%AD%BE%E4%B8%80%E5%B9%B4-%E6%90%9C%E5%AF%BB2014%E5%B9%B4%E9%A3%9E%E5%90%91%E5%8C%97%E4%BA%AC%E5%A4%B1%E8%B8%AA%E7%9A%84mh370%E8%88%AA%E7%8F%AD",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "马来西亚续签一年 搜寻2014年飞向北京失踪的MH370航班 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260629-%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E7%BB%AD%E7%AD%BE%E4%B8%80%E5%B9%B4-%E6%90%9C%E5%AF%BB2014%E5%B9%B4%E9%A3%9E%E5%90%91%E5%8C%97%E4%BA%AC%E5%A4%B1%E8%B8%AA%E7%9A%84mh370%E8%88%AA%E7%8F%AD",
+    "pub_date": "2026-06-29 22:15:03",
+    "author": "",
+    "description": "29/06/2026 - 16:02 马来西亚政府今天宣布延长与英国海底勘探公司“海洋无限” （Ocean Infinity）协议，再合作12个月，继续在南印度洋搜寻在2014年失联的马航MH370客机，并从2026年7月1日开始。 2014年3月8日这架马航MH370客机载着227名乘客及12名机组人员的在从吉隆坡飞往中国北京途中从屏幕上消失，成为世界民航史上最大的未解之谜之一。 马来西亚政府今天周一宣布，对失踪10年的马航MH370…",
+    "content": "29/06/2026 - 16:02 马来西亚政府今天宣布延长与英国海底勘探公司“海洋无限” （Ocean Infinity）协议，再合作12个月，继续在南印度洋搜寻在2014年失联的马航MH370客机，并从2026年7月1日开始。 2014年3月8日这架马航MH370客机载着227名乘客及12名机组人员的在从吉隆坡飞往中国北京途中从屏幕上消失，成为世界民航史上最大的未解之谜之一。 马来西亚政府今天周一宣布，对失踪10年的马航MH370航班的搜寻工作将再延长一年，这架波音777客机上乘客三分之二是中国人，其余乘客包…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260629-2026%E5%B9%B4%E4%B8%96%E7%95%8C%E6%9D%AF-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%8E%86%E5%8F%B2%E6%80%A7%E6%99%8B%E7%BA%A7-%E5%8D%97%E9%9D%9E%E9%98%9F%E9%81%97%E6%86%BE%E5%87%BA%E5%B1%80",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "2026年世界杯：加拿大历史性晋级、南非队遗憾出局 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260629-2026%E5%B9%B4%E4%B8%96%E7%95%8C%E6%9D%AF-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%8E%86%E5%8F%B2%E6%80%A7%E6%99%8B%E7%BA%A7-%E5%8D%97%E9%9D%9E%E9%98%9F%E9%81%97%E6%86%BE%E5%87%BA%E5%B1%80",
+    "pub_date": "2026-06-29 21:45:02",
+    "author": "",
+    "description": "29/06/2026 - 13:23 2026年世界杯漫长的小组赛刚刚落下帷幕，观众的目光便立即转向了6月26日（星期日）在洛杉矶举行的首场16分之一决赛——加拿大对阵南非。最终，凭借中场斯蒂芬·欧斯塔基奥（Stephen Eustaquio）在补时阶段的进球，加拿大队以1比0取胜。 作为本届世界杯淘汰赛这一阶段的两支新军；加拿大队和南非队拉开了竞争本届世界杯16强的序幕，胜者加拿大的下一个对手，将是荷兰队或是摩洛哥队，他们将在6月30…",
+    "content": "29/06/2026 - 13:23 2026年世界杯漫长的小组赛刚刚落下帷幕，观众的目光便立即转向了6月26日（星期日）在洛杉矶举行的首场16分之一决赛——加拿大对阵南非。最终，凭借中场斯蒂芬·欧斯塔基奥（Stephen Eustaquio）在补时阶段的进球，加拿大队以1比0取胜。 作为本届世界杯淘汰赛这一阶段的两支新军；加拿大队和南非队拉开了竞争本届世界杯16强的序幕，胜者加拿大的下一个对手，将是荷兰队或是摩洛哥队，他们将在6月30日展开一场硬仗，胜者将是一支劲旅。 因负于墨西哥队，南非队的开局令人失望，但随后…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260629-%E5%BE%B7%E5%9B%BD%E7%AA%81%E5%8F%91%E6%9E%AA%E5%87%BB%E6%A1%88-5%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "德国突发枪击案 ：5人死亡 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260629-%E5%BE%B7%E5%9B%BD%E7%AA%81%E5%8F%91%E6%9E%AA%E5%87%BB%E6%A1%88-5%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+    "pub_date": "2026-06-29 21:45:02",
+    "author": "",
+    "description": "29/06/2026 - 15:31 周一，德国北部小镇施塔德一家青少年福利机构发生枪击事件，造成五人死亡。两人被捕，其中包括枪击嫌疑人。施塔德市约有 5 万居民，距离汉堡约40公里。 警方表示，事故中也有人员受伤，但没有透露具体人数。 警方称，枪击事件发生在丹克斯大街的一处设施内，该街道位于市中心以南。 据警方，两名嫌疑人被捕，其中一人被认为是开枪者。公众已不再面临任何“危险”，似乎认为事件已经结束。 警方在一份新闻稿中表示：“对事件…",
+    "content": "29/06/2026 - 15:31 周一，德国北部小镇施塔德一家青少年福利机构发生枪击事件，造成五人死亡。两人被捕，其中包括枪击嫌疑人。施塔德市约有 5 万居民，距离汉堡约40公里。 警方表示，事故中也有人员受伤，但没有透露具体人数。 警方称，枪击事件发生在丹克斯大街的一处设施内，该街道位于市中心以南。 据警方，两名嫌疑人被捕，其中一人被认为是开枪者。公众已不再面临任何“危险”，似乎认为事件已经结束。 警方在一份新闻稿中表示：“对事件情况和确切经过的调查仍在进行中。” 新闻稿并未透露嫌疑人的身份或作案动机。 德国…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260629-%E4%B8%AD%E6%96%B9%E5%86%8D%E6%AC%A1%E6%89%A9%E5%A4%A7%E5%AF%B9%E6%97%A5%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6-%E6%97%A5%E5%86%85%E9%98%81%E5%AE%98%E6%88%BF%E9%95%BF%E5%AE%98-%E7%BB%9D%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97%EF%BC%8C%E6%9E%81%E4%BB%A4%E4%BA%BA%E9%81%97%E6%86%BE",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "中方再次扩大对日出口管制 日内阁官房长官：绝不可接受，极令人遗憾 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260629-%E4%B8%AD%E6%96%B9%E5%86%8D%E6%AC%A1%E6%89%A9%E5%A4%A7%E5%AF%B9%E6%97%A5%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6-%E6%97%A5%E5%86%85%E9%98%81%E5%AE%98%E6%88%BF%E9%95%BF%E5%AE%98-%E7%BB%9D%E4%B8%8D%E5%8F%AF%E6%8E%A5%E5%8F%97%EF%BC%8C%E6%9E%81%E4%BB%A4%E4%BA%BA%E9%81%97%E6%86%BE",
+    "pub_date": "2026-06-29 21:15:02",
+    "author": "",
+    "description": "29/06/2026 - 14:52 中国商务部周一发布公告，决定将20家日本实体列入出口管制管控名单，将20家日本实体列入关注名单，日本政府当天向中方提出强烈抗议，并要求撤回措施。日本内阁官房长官木原稔在记者会上宣布了这一消息。 共同社报导指，木原批评中方举措“绝对不可接受，极其令人遗憾”。他还强调日方“将仔细评估措施的内容和影响，并采取必要的应对措施”。针对中方今年1月和2月宣布的加强出口限制措施，木原还表示，“针对我国采取的措施与…",
+    "content": "29/06/2026 - 14:52 中国商务部周一发布公告，决定将20家日本实体列入出口管制管控名单，将20家日本实体列入关注名单，日本政府当天向中方提出强烈抗议，并要求撤回措施。日本内阁官房长官木原稔在记者会上宣布了这一消息。 共同社报导指，木原批评中方举措“绝对不可接受，极其令人遗憾”。他还强调日方“将仔细评估措施的内容和影响，并采取必要的应对措施”。针对中方今年1月和2月宣布的加强出口限制措施，木原还表示，“针对我国采取的措施与国际惯例大相径庭”。 鉴于中方近期持续批评日本加强防卫能力是“新型军国主义”，日…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cr5j7q29vmjo/simp?at_medium=RSS&at_campaign=rss",
@@ -110,17 +407,6 @@ const jsonData = [
     "content": "PAUL SONNE, ERIC LIPTON 2026年6月29日 Sergey Ponomarev for The New York Times When Commerce Secretary Howard Lutnick met with Kazakhstan’s president at the St. Regis Hotel last September in New York, President Trump jumped in by phone as the men sealed a deal on …"
   },
   {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260629-%E6%9B%BE%E4%B8%BA%E9%A6%99%E6%B8%AF%E4%BA%BA%E6%89%8D%E5%9F%B9%E5%85%BB%E6%91%87%E7%AF%AE-74%E5%B9%B4%E5%8E%86%E5%8F%B2%E6%B8%AF%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%88%8A%E7%89%A9-%E5%AD%A6%E8%8B%91-%E5%81%9C%E8%BF%90",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "曾为香港人才培养摇篮 74年历史港大学生刊物《学苑》停运 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260629-%E6%9B%BE%E4%B8%BA%E9%A6%99%E6%B8%AF%E4%BA%BA%E6%89%8D%E5%9F%B9%E5%85%BB%E6%91%87%E7%AF%AE-74%E5%B9%B4%E5%8E%86%E5%8F%B2%E6%B8%AF%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%88%8A%E7%89%A9-%E5%AD%A6%E8%8B%91-%E5%81%9C%E8%BF%90",
-    "pub_date": "2026-06-29 14:45:02",
-    "author": "",
-    "description": "29/06/2026 - 08:30 在学生会和表达自由备受打压的情况下，有74年历史的香港大学(港大)学生会刊物《学苑》，因未能召募新一届编辑委员会而须即日停运。《学苑》在停运启事中表示，时至今日，《学苑》在社会中担任的历史角色已走到尽头。对于这份曾多次卷入香港政治争议的刊物停运，曾任《学苑》编辑的学者感慨，港大痛失一个培养人才及训练学生思考的平台。 《学苑》2025年编辑委员会周日（28日）在社交平台发文，解释停运原因，表示自去年9…",
-    "content": "29/06/2026 - 08:30 在学生会和表达自由备受打压的情况下，有74年历史的香港大学(港大)学生会刊物《学苑》，因未能召募新一届编辑委员会而须即日停运。《学苑》在停运启事中表示，时至今日，《学苑》在社会中担任的历史角色已走到尽头。对于这份曾多次卷入香港政治争议的刊物停运，曾任《学苑》编辑的学者感慨，港大痛失一个培养人才及训练学生思考的平台。 《学苑》2025年编辑委员会周日（28日）在社交平台发文，解释停运原因，表示自去年9月起，两度公开招募新一届编委会成员，以筹组2026年度《学苑》编委会，但至今仍未…"
-  },
-  {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20260629/japan-mayor-maternity-leave/dual",
     "feed_name": "纽约时报双语版",
     "category": "国外",
@@ -176,17 +462,6 @@ const jsonData = [
     "content": "ERIKA SOLOMON 2026年6月29日 周六，多艘船只停泊在阿曼北部穆桑达姆半岛附近，这里紧邻霍尔木兹海峡。 Agence France-Presse — Getty Images The four-day cycle of attacks that Iran set off with the United States over the Strait of Hormuz has risked derailing the newly reached cease-fire in a war both sid…"
   },
   {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20260629/china-dissident-dong-guangping-canada/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "乘橡皮艇逃至韩国的中国异见人士董广平抵达加拿大",
-    "link": "https://cn.nytimes.com/china/20260629/china-dissident-dong-guangping-canada/dual",
-    "pub_date": "2026-06-29 09:06:02",
-    "author": "",
-    "description": "JOHN YOON, PEI-LIN WU2026年6月29日 About a month ago, the Chinese dissident Dong Guangping spent 36 hours at sea in an inflatable rubber boat with a sputtering engine, a peeling face and a dying phone before getting detaine…",
-    "content": "JOHN YOON, PEI-LIN WU 2026年6月29日 About a month ago, the Chinese dissident Dong Guangping spent 36 hours at sea in an inflatable rubber boat with a sputtering engine, a peeling face and a dying phone before getting detained in South Korea. 大约一个月前，中国异见人士董广平驾驶一艘充…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cvg5jl7gd4ro/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -196,237 +471,6 @@ const jsonData = [
     "author": "",
     "description": "Getty Images 多年来，科技产品买家一直可以依赖一个熟悉的趋势——旧款装置会随时间变得更便宜。 但这种情况如今似乎已经停止，在某些情况下甚至完全逆转。 苹果（Apple）与微软（Microsoft）的 Xbox已加入提高设备与游戏主机价格的行列，即使这些产品已推出多年。 这些公司以及其他科技企业指出，制造设备所需关键零组件的成本上升，并将原因归咎于人工智能（AI；人工智慧）。 为AI提供动力、运算需求极高的数据中心，需要越来越…",
     "content": "Getty Images 多年来，科技产品买家一直可以依赖一个熟悉的趋势——旧款装置会随时间变得更便宜。 但这种情况如今似乎已经停止，在某些情况下甚至完全逆转。 苹果（Apple）与微软（Microsoft）的 Xbox已加入提高设备与游戏主机价格的行列，即使这些产品已推出多年。 这些公司以及其他科技企业指出，制造设备所需关键零组件的成本上升，并将原因归咎于人工智能（AI；人工智慧）。 为AI提供动力、运算需求极高的数据中心，需要越来越多晶片以应付AI企业的需求——这意味着需求远远超过供应。 有人将此称为“RAMa…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20260629/china-pilot-died-plane-crash-beijing/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "北京证实小型飞机撞击“中国尊”，称飞行员死亡",
-    "link": "https://cn.nytimes.com/china/20260629/china-pilot-died-plane-crash-beijing/dual",
-    "pub_date": "2026-06-29 07:36:02",
-    "author": "",
-    "description": "郭莉莉, PEI-LIN WU, KEITH BRADSHER2026年6月29日 The Beijing authorities said on Saturday that a small aircraft had flown into the capital’s tallest building a day earlier, killing the pilot and injuring 13 others at the scene,…",
-    "content": "郭莉莉, PEI-LIN WU, KEITH BRADSHER 2026年6月29日 The Beijing authorities said on Saturday that a small aircraft had flown into the capital’s tallest building a day earlier, killing the pilot and injuring 13 others at the scene, in the first official confirmation of …"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260628-%E4%B9%8C%E5%B9%B2%E8%BE%BE%E5%86%9B%E6%94%BF%E6%9D%83%E5%BC%BA%E8%A1%8C%E5%85%B3%E9%97%AD%E7%8B%AC%E7%AB%8B%E5%AA%92%E4%BD%93",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "乌干达军政权强行关闭独立媒体 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260628-%E4%B9%8C%E5%B9%B2%E8%BE%BE%E5%86%9B%E6%94%BF%E6%9D%83%E5%BC%BA%E8%A1%8C%E5%85%B3%E9%97%AD%E7%8B%AC%E7%AB%8B%E5%AA%92%E4%BD%93",
-    "pub_date": "2026-06-29 05:15:04",
-    "author": "",
-    "description": "28/06/2026 - 18:59 这位军方首领——同时也是81岁总统约韦里·穆塞韦尼（Yoweri Museveni）的儿子——近几个月来不断加强对国家的控制，不仅下令逮捕政治人物和活动人士，如今又下令关闭媒体机构。 此次镇压的具体原因尚不清楚，但在 X 平台上，穆胡齐·凯内鲁加巴将军表示：“我不相信自由新闻！新闻应受革命干部的指导。”他还表示，他关于关闭这些媒体的“计划”已获得其父亲的“批准”。 这两家媒体机构也在各自的X账号上发…",
-    "content": "28/06/2026 - 18:59 这位军方首领——同时也是81岁总统约韦里·穆塞韦尼（Yoweri Museveni）的儿子——近几个月来不断加强对国家的控制，不仅下令逮捕政治人物和活动人士，如今又下令关闭媒体机构。 此次镇压的具体原因尚不清楚，但在 X 平台上，穆胡齐·凯内鲁加巴将军表示：“我不相信自由新闻！新闻应受革命干部的指导。”他还表示，他关于关闭这些媒体的“计划”已获得其父亲的“批准”。 这两家媒体机构也在各自的X账号上发文称正处于“军队包围之中”，士兵们在首都坎帕拉的办公地点外站岗。 “NTV乌干达…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260628-%E5%B0%BC%E6%96%AF%E5%B8%82%E7%94%B1%E4%BA%8E%E7%82%8E%E7%83%AD%E7%9A%84%E5%A4%A9%E6%B0%94%E5%8F%96%E6%B6%88%E9%93%81%E4%BA%BA%E4%B8%89%E9%A1%B9%E6%AF%94%E8%B5%9B",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "尼斯市由于炎热的天气取消铁人三项比赛 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260628-%E5%B0%BC%E6%96%AF%E5%B8%82%E7%94%B1%E4%BA%8E%E7%82%8E%E7%83%AD%E7%9A%84%E5%A4%A9%E6%B0%94%E5%8F%96%E6%B6%88%E9%93%81%E4%BA%BA%E4%B8%89%E9%A1%B9%E6%AF%94%E8%B5%9B",
-    "pub_date": "2026-06-29 05:15:04",
-    "author": "",
-    "description": "28/06/2026 - 19:21 铁人三项赛是由三项运动组成的比赛。现代比赛由游泳、自行车、长跑三个项目组成，运动员需要按顺序连续完成三个运动项目，转换项目时更换衣服和鞋的时间亦计算在比赛时间内。参赛者需要完成一项艰苦的赛程：1.9公里游泳、90公里骑行和21.1公里跑步。 滨海阿尔卑斯省（Alpes-Maritimes）政府曾警告铁人三项运动员，切勿尝试在“没有官方监管或后勤支持的情况下完成属于自己的铁人三项赛”。 声明中写道：“…",
-    "content": "28/06/2026 - 19:21 铁人三项赛是由三项运动组成的比赛。现代比赛由游泳、自行车、长跑三个项目组成，运动员需要按顺序连续完成三个运动项目，转换项目时更换衣服和鞋的时间亦计算在比赛时间内。参赛者需要完成一项艰苦的赛程：1.9公里游泳、90公里骑行和21.1公里跑步。 滨海阿尔卑斯省（Alpes-Maritimes）政府曾警告铁人三项运动员，切勿尝试在“没有官方监管或后勤支持的情况下完成属于自己的铁人三项赛”。 声明中写道：“特此提醒参赛者，任何违反禁令的行为都将面临罚款。尤为重要的是，由于赛道缺乏安全保…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260628-%E9%A9%AC%E5%85%8B%E9%BE%99%E5%B0%86%E4%B8%8E%E9%98%BF%E6%9B%BC%E8%8B%8F%E4%B8%B9%E4%BC%9A%E9%9D%A2",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "马克龙将与阿曼苏丹会面 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260628-%E9%A9%AC%E5%85%8B%E9%BE%99%E5%B0%86%E4%B8%8E%E9%98%BF%E6%9B%BC%E8%8B%8F%E4%B8%B9%E4%BC%9A%E9%9D%A2",
-    "pub_date": "2026-06-29 05:15:04",
-    "author": "",
-    "description": "28/06/2026 - 22:14 霍尔木兹海峡管辖权是阿曼苏丹首次访法的核心议题。一位阿曼外交官对法新社记者表示，霍尔木兹海峡不收取伊朗所要求的“通行费”，但或许会收取服务费。这个态度与法国总统马克龙要求的无条件、无限制的重新开放霍尔木兹海峡有着相当的差异。 此次访问是自1989年以来阿曼国家元首首次访法，标志着两国关系回暖；此前，法国长期以来一直将这个小国——以其高效的危机调解能力而闻名——置于次要地位。 阿曼苏丹国对伊朗和也门的…",
-    "content": "28/06/2026 - 22:14 霍尔木兹海峡管辖权是阿曼苏丹首次访法的核心议题。一位阿曼外交官对法新社记者表示，霍尔木兹海峡不收取伊朗所要求的“通行费”，但或许会收取服务费。这个态度与法国总统马克龙要求的无条件、无限制的重新开放霍尔木兹海峡有着相当的差异。 此次访问是自1989年以来阿曼国家元首首次访法，标志着两国关系回暖；此前，法国长期以来一直将这个小国——以其高效的危机调解能力而闻名——置于次要地位。 阿曼苏丹国对伊朗和也门的调解一直很重要。它在伊朗重新开放的霍尔木兹海峡的管理中发挥着重要作用，但其最终地…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260628-%E4%BC%8A%E6%9C%97%E5%BC%BA%E4%BA%89%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E7%AE%A1%E8%BE%96%E6%9D%83",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "伊朗强争霍尔木兹管辖权 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260628-%E4%BC%8A%E6%9C%97%E5%BC%BA%E4%BA%89%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E7%AE%A1%E8%BE%96%E6%9D%83",
-    "pub_date": "2026-06-29 05:15:03",
-    "author": "",
-    "description": "28/06/2026 - 22:17 对于阿曼宣布启用一条临时替代航线的做法，伊朗表示不满；阿曼方面称此举是联合国协调下的一项倡议，旨在撤离滞留的船员和船只。本周已有数十艘船只使用了该航线。 自周四以来，已有两艘船只遭不明来源的抛射物袭击——美军将这些袭击归咎于德黑兰，并因此连续两天对伊朗实施了报复性打击。 作为回应，德黑兰向其海湾邻国（特别是科威特和巴林）发射了导弹和无人机。在这些交火事件中，多哈方面报告称，一名卡塔尔公民因受“该地区…",
-    "content": "28/06/2026 - 22:17 对于阿曼宣布启用一条临时替代航线的做法，伊朗表示不满；阿曼方面称此举是联合国协调下的一项倡议，旨在撤离滞留的船员和船只。本周已有数十艘船只使用了该航线。 自周四以来，已有两艘船只遭不明来源的抛射物袭击——美军将这些袭击归咎于德黑兰，并因此连续两天对伊朗实施了报复性打击。 作为回应，德黑兰向其海湾邻国（特别是科威特和巴林）发射了导弹和无人机。在这些交火事件中，多哈方面报告称，一名卡塔尔公民因受“该地区军事行动”波及，被落入其船只的弹片击中身亡。 - “不得偏离” - 阿拉格希在对…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260628-%E5%BE%B7%E9%BB%91%E5%85%B0-%E8%BF%AA%E6%8B%9C%E8%88%AA%E7%BA%BF%E5%91%A8%E4%B8%80%E8%B5%B7%E6%81%A2%E5%A4%8D%E8%BF%90%E8%90%A5",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "德黑兰 - 迪拜航线周一起恢复运营 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260628-%E5%BE%B7%E9%BB%91%E5%85%B0-%E8%BF%AA%E6%8B%9C%E8%88%AA%E7%BA%BF%E5%91%A8%E4%B8%80%E8%B5%B7%E6%81%A2%E5%A4%8D%E8%BF%90%E8%90%A5",
-    "pub_date": "2026-06-29 05:15:03",
-    "author": "",
-    "description": "28/06/2026 - 22:22 据国家电视台及其他媒体援引德黑兰伊玛目霍梅尼机场（Imam Khomeini Airport）负责人拉明·卡舍法扎尔（Ramin Kashefazar）的话称：“为加强繁忙航线的空中联系，机场已采取必要措施，恢复德黑兰至迪拜的航线运营。” 截至周日晚间，旅客已可在伊朗Sepehran航空公司（Sepehran Airlines）的官网上预订首个航班的机票；该航班定于周一上午10:40（格林尼治标准时…",
-    "content": "28/06/2026 - 22:22 据国家电视台及其他媒体援引德黑兰伊玛目霍梅尼机场（Imam Khomeini Airport）负责人拉明·卡舍法扎尔（Ramin Kashefazar）的话称：“为加强繁忙航线的空中联系，机场已采取必要措施，恢复德黑兰至迪拜的航线运营。” 截至周日晚间，旅客已可在伊朗Sepehran航空公司（Sepehran Airlines）的官网上预订首个航班的机票；该航班定于周一上午10:40（格林尼治标准时间07:10）起飞。 在中东战事期间（从2月28日持续至4月8日停火生效），迪拜…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260628-%E6%99%AE%E4%BA%AC-%E7%94%B1%E4%BA%8E%E4%B9%8C%E7%9A%84%E8%A2%AD%E5%87%BB-%E7%87%83%E6%96%99%E5%AD%98%E5%9C%A8-%E4%B8%80%E5%AE%9A%E7%A8%8B%E5%BA%A6%E7%9A%84%E7%9F%AD%E7%BC%BA",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "普京：由于乌的袭击 燃料存在“一定程度的短缺” - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260628-%E6%99%AE%E4%BA%AC-%E7%94%B1%E4%BA%8E%E4%B9%8C%E7%9A%84%E8%A2%AD%E5%87%BB-%E7%87%83%E6%96%99%E5%AD%98%E5%9C%A8-%E4%B8%80%E5%AE%9A%E7%A8%8B%E5%BA%A6%E7%9A%84%E7%9F%AD%E7%BC%BA",
-    "pub_date": "2026-06-29 05:15:03",
-    "author": "",
-    "description": "28/06/2026 - 22:09 普京在克里姆林宫发布的一篇俄罗斯记者采访中表示：“当然，针对我们基础设施的这些打击确实造成了问题——这是显而易见的。目前我们确实面临一些短缺，但情况并不危急。” 他指出，当局的首要任务是增强防空能力并确保燃料供应，特别是在已并入俄罗斯领土的克里米亚地区。 乌克兰军方6月28日确认，27日至28日夜间，乌军打击了俄罗斯两座炼油厂、克里米亚一座铁路桥和顿涅茨克方向一处俄军弹药库。这一夜，乌克兰直接冲着俄…",
-    "content": "28/06/2026 - 22:09 普京在克里姆林宫发布的一篇俄罗斯记者采访中表示：“当然，针对我们基础设施的这些打击确实造成了问题——这是显而易见的。目前我们确实面临一些短缺，但情况并不危急。” 他指出，当局的首要任务是增强防空能力并确保燃料供应，特别是在已并入俄罗斯领土的克里米亚地区。 乌克兰军方6月28日确认，27日至28日夜间，乌军打击了俄罗斯两座炼油厂、克里米亚一座铁路桥和顿涅茨克方向一处俄军弹药库。这一夜，乌克兰直接冲着俄罗斯战争机器的“油箱、铁轨和弹药箱”下手。 乌克兰武装部队总参谋部称，被打的第一…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260628-%E6%B3%95%E5%AA%92-%E4%B8%AD%E5%A4%AE%E7%94%B5%E8%A7%86%E5%8F%B0%E5%AF%B9-%E4%B8%AD%E5%9B%BD%E5%B0%8A-%E6%92%9E%E6%9C%BA%E4%BA%8B%E4%BB%B6%E5%8F%AA%E5%AD%97%E6%9C%AA%E6%8F%90",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "法媒：中央电视台对“中国尊”撞机事件只字未提 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260628-%E6%B3%95%E5%AA%92-%E4%B8%AD%E5%A4%AE%E7%94%B5%E8%A7%86%E5%8F%B0%E5%AF%B9-%E4%B8%AD%E5%9B%BD%E5%B0%8A-%E6%92%9E%E6%9C%BA%E4%BA%8B%E4%BB%B6%E5%8F%AA%E5%AD%97%E6%9C%AA%E6%8F%90",
-    "pub_date": "2026-06-29 05:15:03",
-    "author": "",
-    "description": "28/06/2026 - 22:34 文章表示，中国当局正在调查周五发生在首都中央商务区的一起事故，事故造成一人死亡，十三人受伤。对受严格航天管制的北京来说，引发了人们对航空安全漏洞的一系列质疑。 法国《快报》表示，6月26日下午，一架小型观光飞机似乎躲过了世界上最严格的空中交通管制……随后撞入北京最高摩天大楼——中信大厦，导致一人死亡，另有十三人受伤。玻璃碎片和飞机残骸如雨般落下，引发了首都街头的恐慌。 法国记者表示，目前尚不清楚这起…",
-    "content": "28/06/2026 - 22:34 文章表示，中国当局正在调查周五发生在首都中央商务区的一起事故，事故造成一人死亡，十三人受伤。对受严格航天管制的北京来说，引发了人们对航空安全漏洞的一系列质疑。 法国《快报》表示，6月26日下午，一架小型观光飞机似乎躲过了世界上最严格的空中交通管制……随后撞入北京最高摩天大楼——中信大厦，导致一人死亡，另有十三人受伤。玻璃碎片和飞机残骸如雨般落下，引发了首都街头的恐慌。 法国记者表示，目前尚不清楚这起事故是意外还是蓄意为之。根据航班追踪网站Flightradar24的数据，目前已…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260628-%E4%B8%AD%E5%9B%BD%E5%AE%89%E5%BE%BD%E7%9C%81%E5%90%88%E8%82%A5%E6%B0%91%E4%BC%97%E6%8A%97%E8%AE%AE%E5%85%B4%E5%BB%BA%E5%9E%83%E5%9C%BE%E5%9C%BA",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "中国安徽省合肥民众抗议兴建垃圾场 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260628-%E4%B8%AD%E5%9B%BD%E5%AE%89%E5%BE%BD%E7%9C%81%E5%90%88%E8%82%A5%E6%B0%91%E4%BC%97%E6%8A%97%E8%AE%AE%E5%85%B4%E5%BB%BA%E5%9E%83%E5%9C%BE%E5%9C%BA",
-    "pub_date": "2026-06-29 05:15:03",
-    "author": "",
-    "description": "28/06/2026 - 23:04 据社群媒体平台X帐号“李老师不是你老师”发布的消息，中国安徽省合肥市27日爆发民众抗议兴建垃圾场的大规模集结抗议，进而发生警民冲突并引发交通瘫痪。在民众强大压力下，当地政府少见地取消建立垃圾场的计划。 中央社报道：根据“李老师不是你老师”昨晚陆续上传的影片及贴文显示，合肥市自然资源和规划局日前发布“庐阳区环卫综合治理建设项目规划选址公示”，将于当地北二环与板桥河交口西北侧，建立面积63亩（4.2公顷…",
-    "content": "28/06/2026 - 23:04 据社群媒体平台X帐号“李老师不是你老师”发布的消息，中国安徽省合肥市27日爆发民众抗议兴建垃圾场的大规模集结抗议，进而发生警民冲突并引发交通瘫痪。在民众强大压力下，当地政府少见地取消建立垃圾场的计划。 中央社报道：根据“李老师不是你老师”昨晚陆续上传的影片及贴文显示，合肥市自然资源和规划局日前发布“庐阳区环卫综合治理建设项目规划选址公示”，将于当地北二环与板桥河交口西北侧，建立面积63亩（4.2公顷）的垃圾中转站。当地居民闻讯后，逾100人27日晚陆续前往合肥北二环昊天园北门附…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260628-rfi%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-2026%E4%B8%96%E7%95%8C%E6%9D%AF1-16%E5%86%B3%E8%B5%9B%E6%9C%899%E6%94%AF%E9%9D%9E%E6%B4%B2%E9%98%9F",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "2026世界杯1/16决赛有9支非洲队 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260628-rfi%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-2026%E4%B8%96%E7%95%8C%E6%9D%AF1-16%E5%86%B3%E8%B5%9B%E6%9C%899%E6%94%AF%E9%9D%9E%E6%B4%B2%E9%98%9F",
-    "pub_date": "2026-06-29 03:15:04",
-    "author": "",
-    "description": "28/06/2026 - 20:13 2026年世界杯1/16决赛于06月28日星期天拉开帷战幕。32支国家级足球队中，有9支出自非洲。这轮赛事预计为期一个星期。其中，本周日的首场和下周六的最后一场赛事均有出自非洲的国家足球队参赛。06月28日星期天的首场比赛由南非（Afrique du Sud）对阵加拿大(Canada)。这是一场出人意外的对决。07月04日下星期六的收官赛，则由哥伦比亚(Colombie)迎战加纳(Ghana)。20…",
-    "content": "28/06/2026 - 20:13 2026年世界杯1/16决赛于06月28日星期天拉开帷战幕。32支国家级足球队中，有9支出自非洲。这轮赛事预计为期一个星期。其中，本周日的首场和下周六的最后一场赛事均有出自非洲的国家足球队参赛。06月28日星期天的首场比赛由南非（Afrique du Sud）对阵加拿大(Canada)。这是一场出人意外的对决。07月04日下星期六的收官赛，则由哥伦比亚(Colombie)迎战加纳(Ghana)。2022年上届世界杯的卫冕冠军阿根廷（Argentine）将对阵本届赛事的黑马佛得角…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260628-%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A-%E4%BC%8A%E6%9C%97%E5%B0%86%E4%B8%8D%E5%A4%8D%E5%AD%98%E5%9C%A8-%E6%B2%83%E5%B0%94%E5%85%B9%E7%A7%B0%E7%BE%8E%E5%86%9B%E5%B0%86%E6%8C%81%E7%BB%AD%E6%89%93%E5%87%BB%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "特朗普警告“伊朗将不复存在” 沃尔兹称美军将持续打击基础设施 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260628-%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A-%E4%BC%8A%E6%9C%97%E5%B0%86%E4%B8%8D%E5%A4%8D%E5%AD%98%E5%9C%A8-%E6%B2%83%E5%B0%94%E5%85%B9%E7%A7%B0%E7%BE%8E%E5%86%9B%E5%B0%86%E6%8C%81%E7%BB%AD%E6%89%93%E5%87%BB%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD",
-    "pub_date": "2026-06-29 02:15:03",
-    "author": "",
-    "description": "28/06/2026 - 19:49 美国与伊朗脆弱的停火协议持续恶化，双方连日互控对方率先违反协议，波斯湾及霍尔木兹海峡（Strait of Hormuz）再度爆发军事冲突。 美国总统特朗普（Donald Trump）28日透过社群平台Truth Social发文表示，美军再次空袭伊朗飞弹、无人机储存设施及沿岸雷达据点，理由是伊朗“再次违反停火协议”。他并警告，如果伊朗持续挑衅，美方可能被迫“完成我们非常成功开始的军事行动”，届时“伊…",
-    "content": "28/06/2026 - 19:49 美国与伊朗脆弱的停火协议持续恶化，双方连日互控对方率先违反协议，波斯湾及霍尔木兹海峡（Strait of Hormuz）再度爆发军事冲突。 美国总统特朗普（Donald Trump）28日透过社群平台Truth Social发文表示，美军再次空袭伊朗飞弹、无人机储存设施及沿岸雷达据点，理由是伊朗“再次违反停火协议”。他并警告，如果伊朗持续挑衅，美方可能被迫“完成我们非常成功开始的军事行动”，届时“伊朗伊斯兰共和国将不复存在”。 特朗普这番措辞，是近期对伊朗最严厉的公开威胁之一，…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260628-rfi%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%88%9A%E6%9E%9C-%E9%87%91-%E9%A6%96%E9%83%BD%E9%82%BB%E7%9C%81%E4%BC%A0%E5%87%BA%E7%96%9F%E7%96%BE%E7%96%AB%E6%83%85",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "刚果(金)首都邻省传出疟疾疫情 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260628-rfi%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%88%9A%E6%9E%9C-%E9%87%91-%E9%A6%96%E9%83%BD%E9%82%BB%E7%9C%81%E4%BC%A0%E5%87%BA%E7%96%9F%E7%96%BE%E7%96%AB%E6%83%85",
-    "pub_date": "2026-06-29 01:45:02",
-    "author": "",
-    "description": "28/06/2026 - 19:21 刚果（金）东北部地区埃博拉疫情仍在持续之际，该国西部与首都金沙萨毗邻的奎卢省(Kwilu)自05月底以来出现一种疾病，造成十多人死亡。当局一度担心发生最糟糕的状况。但最终经刚果（金）[国家生物医学研究所]（INRB-L'institut national de recherche biomédicale）确认，病源不是埃博拉疫情（Ebola）,而是疟疾（Paludisme）。 据本台法广非洲组（RF…",
-    "content": "28/06/2026 - 19:21 刚果（金）东北部地区埃博拉疫情仍在持续之际，该国西部与首都金沙萨毗邻的奎卢省(Kwilu)自05月底以来出现一种疾病，造成十多人死亡。当局一度担心发生最糟糕的状况。但最终经刚果（金）[国家生物医学研究所]（INRB-L'institut national de recherche biomédicale）确认，病源不是埃博拉疫情（Ebola）,而是疟疾（Paludisme）。 据本台法广 非洲 组（RFI Afrique）的法文报导，非洲国家 刚果民主共和国 （ RD Cong…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260628-%E6%B3%95%E6%BB%A1%E8%BD%BD%E8%B7%B3%E4%BC%9E%E5%AD%A6%E5%91%98%E5%92%8C%E6%95%99%E7%BB%83%E7%9A%84%E8%BD%BB%E5%9E%8B%E9%A3%9E%E6%9C%BA%E5%9D%A0%E6%AF%81-%E5%87%BB%E6%AF%81%E4%BA%BA%E4%BA%A1",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "法满载跳伞学员和教练的轻型飞机坠毁 击毁人亡 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260628-%E6%B3%95%E6%BB%A1%E8%BD%BD%E8%B7%B3%E4%BC%9E%E5%AD%A6%E5%91%98%E5%92%8C%E6%95%99%E7%BB%83%E7%9A%84%E8%BD%BB%E5%9E%8B%E9%A3%9E%E6%9C%BA%E5%9D%A0%E6%AF%81-%E5%87%BB%E6%AF%81%E4%BA%BA%E4%BA%A1",
-    "pub_date": "2026-06-29 00:15:02",
-    "author": "",
-    "description": "28/06/2026 - 18:09 据当地居民的描述，他们看到飞机起飞后垂直急降，好像是技术故障。法国民航安全调查与分析局（BEA）必须通过分析飞机的发动机和控制装置来提供有关坠机原因。这些因素将具有决定性作用，因为皮拉图斯飞机没有配黑匣子，这些记录器可以存储飞行数据，以便调查人员了解坠机的原因。 南锡市市长马蒂厄·克莱因（Mathieu Klein）告诉法新社，这是一场彻头彻尾的悲剧，但后果本会更加不可设想，因为飞机“坠落地点距离民…",
-    "content": "28/06/2026 - 18:09 据当地居民的描述，他们看到飞机起飞后垂直急降，好像是技术故障。法国民航安全调查与分析局（BEA）必须通过分析飞机的发动机和控制装置来提供有关坠机原因。这些因素将具有决定性作用，因为皮拉图斯飞机没有配黑匣子，这些记录器可以存储飞行数据，以便调查人员了解坠机的原因。 南锡市市长马蒂厄·克莱因（Mathieu Klein）告诉法新社，这是一场彻头彻尾的悲剧，但后果本会更加不可设想，因为飞机“坠落地点距离民宅仅数米之遥”。省长伊夫·塞吉（Yves Séguy）在新闻发布会上表示，遇难者…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260628-4%E4%BB%BB%E5%8F%B8%E4%BB%A4%E5%91%98%E8%90%BD%E9%A9%AC-%E7%81%AB%E7%AE%AD%E5%86%9B%E5%85%9A%E5%A7%94%E5%88%8A%E6%96%87-%E6%B0%B8%E8%BF%9C%E5%BF%A0%E4%BA%8E%E5%85%9A%EF%BC%8C%E5%9D%9A%E5%86%B3%E5%90%8C%E5%90%84%E7%A7%8D%E9%94%99%E8%AF%AF%E6%80%9D%E6%83%B3%E4%BD%9C%E6%96%97%E4%BA%89",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "4任司令员落马 火箭军党委刊文：永远忠于党，坚决同各种错误思想作斗争 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260628-4%E4%BB%BB%E5%8F%B8%E4%BB%A4%E5%91%98%E8%90%BD%E9%A9%AC-%E7%81%AB%E7%AE%AD%E5%86%9B%E5%85%9A%E5%A7%94%E5%88%8A%E6%96%87-%E6%B0%B8%E8%BF%9C%E5%BF%A0%E4%BA%8E%E5%85%9A%EF%BC%8C%E5%9D%9A%E5%86%B3%E5%90%8C%E5%90%84%E7%A7%8D%E9%94%99%E8%AF%AF%E6%80%9D%E6%83%B3%E4%BD%9C%E6%96%97%E4%BA%89",
-    "pub_date": "2026-06-28 23:15:05",
-    "author": "",
-    "description": "28/06/2026 - 17:09 解放军战略导弹部队组建60周年前夕，火箭军党委26日刊文强调：“火箭军永远忠于党”，誓言“从思想上肃毒除弊、从组织上去腐生肌”。火箭军党委当天在中共中央党校主办的《学习时报》头版发表了题为《努力建设一支强大的现代化火箭军》的文章。 《星岛日报》报导提及，近年来，火箭军4任司令员：魏凤和（前国防部长）、周亚宁、李玉超、王厚斌集体落马，并牵连该军种大批将领，指“难免令这支‘与党同一天生日’的王牌部队，名…",
-    "content": "28/06/2026 - 17:09 解放军战略导弹部队组建60周年前夕，火箭军党委26日刊文强调：“火箭军永远忠于党”，誓言“从思想上肃毒除弊、从组织上去腐生肌”。火箭军党委当天在中共中央党校主办的《学习时报》头版发表了题为《努力建设一支强大的现代化火箭军》的文章。 《星岛日报》报导提及，近年来，火箭军4任司令员：魏凤和（前国防部长）、周亚宁、李玉超、王厚斌集体落马，并牵连该军种大批将领，指“难免令这支‘与党同一天生日’的王牌部队，名声受挫”。 火箭军党委则在周五刊登的文章中写道，“60载铿锵奋进，一甲子砺剑强军…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20260628-%E4%B8%8B%E8%90%A8%E5%85%8B%E6%A3%AE%E5%B7%9E%E5%B7%9E%E9%95%BF-%E8%8B%A5%E5%A4%A7%E4%BC%97%E5%9C%A8%E5%BE%B7%E5%9B%BD%E7%94%9F%E4%BA%A7%E5%9C%A8%E5%8D%8E%E5%88%B6%E9%80%A0%E8%BD%A6%E5%9E%8B%EF%BC%8C%E6%9C%89%E6%9C%9B%E4%BF%9D%E4%BD%8F%E5%B0%B1%E4%B8%9A%E5%B2%97%E4%BD%8D",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "下萨克森州州长：若大众在德国生产在华制造车型，有望保住就业岗位 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20260628-%E4%B8%8B%E8%90%A8%E5%85%8B%E6%A3%AE%E5%B7%9E%E5%B7%9E%E9%95%BF-%E8%8B%A5%E5%A4%A7%E4%BC%97%E5%9C%A8%E5%BE%B7%E5%9B%BD%E7%94%9F%E4%BA%A7%E5%9C%A8%E5%8D%8E%E5%88%B6%E9%80%A0%E8%BD%A6%E5%9E%8B%EF%BC%8C%E6%9C%89%E6%9C%9B%E4%BF%9D%E4%BD%8F%E5%B0%B1%E4%B8%9A%E5%B2%97%E4%BD%8D",
-    "pub_date": "2026-06-28 23:15:04",
-    "author": "",
-    "description": "28/06/2026 - 16:15 大众集团第二大股东、德国下萨克森州的州长利斯（Olaf Lies）表示，如果大众汽车将目前在中国研发的车型在本国生产，就有望保住在德国的就业岗位。周五有报道称，这家陷入困境的汽车制造巨头正在考虑关闭四家在德国的工厂，并将裁员幅度扩大至多达10万人。利斯向德新社发表了上述言论。 利斯在周末发表的一篇采访中说道，“如果我们能在这里生产目前在中国制造的车型，就能稳定工厂的产能利用率”。利斯指出，“这也将为…",
-    "content": "28/06/2026 - 16:15 大众集团第二大股东、德国下萨克森州的州长利斯（Olaf Lies）表示，如果大众汽车将目前在中国研发的车型在本国生产，就有望保住在德国的就业岗位。周五有报道称，这家陷入困境的汽车制造巨头正在考虑关闭四家在德国的工厂，并将裁员幅度扩大至多达10万人。利斯向德新社发表了上述言论。 利斯在周末发表的一篇采访中说道，“如果我们能在这里生产目前在中国制造的车型，就能稳定工厂的产能利用率”。利斯指出，“这也将为我们各基地的发展与创新创造契机。对我而言，关键在于稳定工厂的就业和产能利用率，而…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260628-%E6%97%A5%E9%98%B2%E7%9B%B8%E6%8C%87%E4%B8%AD%E4%BF%84%E8%81%94%E5%90%88%E5%B7%A1%E8%88%AA%E4%B8%8D%E5%BE%97%E4%B8%8D%E8%A2%AB%E8%A7%86%E4%B8%BA%E5%AF%B9%E6%97%A5%E7%A4%BA%E5%A8%81%E8%A1%8C%E5%8A%A8-%E9%9F%A9%E5%9B%BD%E9%98%B2%E9%83%A8%E5%90%91%E4%B8%AD%E4%BF%84%E6%AD%A6%E5%AE%98%E6%8F%90%E4%B8%A5%E6%AD%A3%E6%8A%97%E8%AE%AE",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "日防相指中俄联合巡航不得不被视为对日示威行动 韩国防部向中俄武官提严正抗议 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260628-%E6%97%A5%E9%98%B2%E7%9B%B8%E6%8C%87%E4%B8%AD%E4%BF%84%E8%81%94%E5%90%88%E5%B7%A1%E8%88%AA%E4%B8%8D%E5%BE%97%E4%B8%8D%E8%A2%AB%E8%A7%86%E4%B8%BA%E5%AF%B9%E6%97%A5%E7%A4%BA%E5%A8%81%E8%A1%8C%E5%8A%A8-%E9%9F%A9%E5%9B%BD%E9%98%B2%E9%83%A8%E5%90%91%E4%B8%AD%E4%BF%84%E6%AD%A6%E5%AE%98%E6%8F%90%E4%B8%A5%E6%AD%A3%E6%8A%97%E8%AE%AE",
-    "pub_date": "2026-06-28 21:45:01",
-    "author": "",
-    "description": "28/06/2026 - 15:34 正在首尔进行访问的日本防卫大臣小泉进次郎周日对记者表示，“昨天中俄轰炸机进行了联合飞行。两国轰炸机一再进行联合飞行，不仅意味着两国在日本周边的活动范围扩大、频率增加，而且不得不被视为针对我国的示威行动”。小泉续称，“我认为，能够就此类事件及时与（韩国国防部长官安圭伯）安部长交换意见和信息，是此次访问的重要意义之一”。 小泉在稍后的发言中还谈到，“关于昨日中俄联合行动的问题，昨天在安部长与我讨论时，恰…",
-    "content": "28/06/2026 - 15:34 正在首尔进行访问的日本防卫大臣小泉进次郎周日对记者表示，“昨天中俄轰炸机进行了联合飞行。两国轰炸机一再进行联合飞行，不仅意味着两国在日本周边的活动范围扩大、频率增加，而且不得不被视为针对我国的示威行动”。小泉续称，“我认为，能够就此类事件及时与（韩国国防部长官安圭伯）安部长交换意见和信息，是此次访问的重要意义之一”。 小泉在稍后的发言中还谈到，“关于昨日中俄联合行动的问题，昨天在安部长与我讨论时，恰逢该事件发生，我们得以及时进行信息共享，我认为这确实为此次富有意义的会谈增添了价…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c3wyz6zegqpo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "熱浪取消不了公園長跑，綠色的青蛙可以",
-    "link": "https://www.bbc.com/zhongwen/articles/c3wyz6zegqpo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-06-28 21:44:56",
-    "author": "",
-    "description": "Kirkharle Courtyard parkrun / 为了让因高温放慢速度的迁徙青蛙穿越赛道，柯克哈尔庭院公园跑“忍痛放弃”，让出小径。 欧洲近日遭受酷热天气侵袭，除了法国，英国也深受其害，医疗当局呼吁哪怕是健康的年青人亦应暂停外出跑步。但诺森伯兰（Northumberland）一场公园跑（parkrun）却是遭一群小动物逼停——青蛙。 BBC英格兰东北与坎布里亚记者伊薇·雷克（Evie Lake）报导，柯克哈尔庭院公园跑（Kir…",
-    "content": "Kirkharle Courtyard parkrun / 为了让因高温放慢速度的迁徙青蛙穿越赛道，柯克哈尔庭院公园跑“忍痛放弃”，让出小径。 欧洲近日遭受酷热天气侵袭，除了法国，英国也深受其害，医疗当局呼吁哪怕是健康的年青人亦应暂停外出跑步。但诺森伯兰（Northumberland）一场公园跑（parkrun）却是遭一群小动物逼停——青蛙。 BBC英格兰东北与坎布里亚记者伊薇·雷克（Evie Lake）报导，柯克哈尔庭院公园跑（Kirkharle Courtyard parkrun）因有青蛙穿越赛道迁徙，连续两周…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260628-%E4%B8%AD%E5%9B%BD%E5%B0%8A-%E5%91%A8%E5%9B%B4%E5%AE%9E%E6%96%BD%E4%B8%A5%E6%A0%BC%E5%B0%81%E9%94%81%E6%92%9E%E5%87%BB%E7%97%95%E8%BF%B9%E8%BF%9C%E5%A4%84%E4%BB%8D%E5%8F%AF%E8%A7%81-%E6%B0%91%E8%88%AA%E7%95%8C%E6%96%99%E5%8C%97%E4%BA%AC%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9C%80%E4%B8%A5%E7%A6%81%E7%A9%BA%E4%BB%A4",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "“中国尊”周围实施严格封锁撞击痕迹远处仍可见 民航界料北京将迎来最严禁空令 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260628-%E4%B8%AD%E5%9B%BD%E5%B0%8A-%E5%91%A8%E5%9B%B4%E5%AE%9E%E6%96%BD%E4%B8%A5%E6%A0%BC%E5%B0%81%E9%94%81%E6%92%9E%E5%87%BB%E7%97%95%E8%BF%B9%E8%BF%9C%E5%A4%84%E4%BB%8D%E5%8F%AF%E8%A7%81-%E6%B0%91%E8%88%AA%E7%95%8C%E6%96%99%E5%8C%97%E4%BA%AC%E5%B0%86%E8%BF%8E%E6%9D%A5%E6%9C%80%E4%B8%A5%E7%A6%81%E7%A9%BA%E4%BB%A4",
-    "pub_date": "2026-06-28 20:45:02",
-    "author": "",
-    "description": "28/06/2026 - 14:28 北京市朝阳区官方信息平台“北京朝阳”微信公众号周六发布的“情况通报”称，“6月26日17时55分，在朝阳区东三环附近，一架单发双座轻型运动航空器在飞行中碰撞一高层建筑，机上仅驾驶员1人、已死亡，现场13人受伤”。该通报称，受伤人员在全力救治中。相关情况正由主管部门进一步调查。当地时间周日（28日）中午，韩联社记者试图接近事发地，被告知“您不能进入此区域，这里正在施工”。 报导指，小型飞机撞上北京中信…",
-    "content": "28/06/2026 - 14:28 北京市朝阳区官方信息平台“北京朝阳”微信公众号周六发布的“情况通报”称，“6月26日17时55分，在朝阳区东三环附近，一架单发双座轻型运动航空器在飞行中碰撞一高层建筑，机上仅驾驶员1人、已死亡，现场13人受伤”。该通报称，受伤人员在全力救治中。相关情况正由主管部门进一步调查。当地时间周日（28日）中午，韩联社记者试图接近事发地，被告知“您不能进入此区域，这里正在施工”。 报导指，小型飞机撞上北京中信大厦已经过去了40多个小时，但事发现场周围区域仍然处于严格管控之下。通往“中国尊…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260628-%E5%8D%B0%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BF%83%E5%89%8D%E5%BE%80%E8%A5%BF%E8%97%8F%E6%9C%9D%E5%9C%A3%E7%9A%84%E5%85%AC%E6%B0%91%E5%A4%87%E9%BD%90%E6%89%80%E6%9C%89%E5%BF%85%E8%A6%81%E8%AF%81%E4%BB%B6-%E4%BB%A5%E9%81%BF%E5%85%8D%E8%A1%8C%E7%A8%8B%E5%8F%97%E9%98%BB",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "印外交部促前往西藏朝圣的公民备齐所有必要证件 以避免行程受阻 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260628-%E5%8D%B0%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BF%83%E5%89%8D%E5%BE%80%E8%A5%BF%E8%97%8F%E6%9C%9D%E5%9C%A3%E7%9A%84%E5%85%AC%E6%B0%91%E5%A4%87%E9%BD%90%E6%89%80%E6%9C%89%E5%BF%85%E8%A6%81%E8%AF%81%E4%BB%B6-%E4%BB%A5%E9%81%BF%E5%85%8D%E8%A1%8C%E7%A8%8B%E5%8F%97%E9%98%BB",
-    "pub_date": "2026-06-28 19:45:03",
-    "author": "",
-    "description": "28/06/2026 - 13:26 印度外交部周六提醒，计划通过私人旅行社参加冈仁波齐—玛旁雍错朝圣之旅的印度公民，在未办妥所有必要旅行证件之前，切勿从印度启程。 此前，据报道，多名计划前往冈仁波齐—玛旁雍错朝圣的印度公民因未持有进入中国所需的必要许可证和签证，被滞留在尼泊尔。 印度外交部在一份声明中表示，已收到多起求助请求，涉及通过私营机构组织的行程进行朝圣时滞留在尼泊尔的印度公民。 印度外交部指出：“建议公民在办妥全程所需的所有旅…",
-    "content": "28/06/2026 - 13:26 印度外交部周六提醒，计划通过私人旅行社参加冈仁波齐—玛旁雍错朝圣之旅的印度公民，在未办妥所有必要旅行证件之前，切勿从印度启程。 此前，据报道，多名计划前往冈仁波齐—玛旁雍错朝圣的印度公民因未持有进入中国所需的必要许可证和签证，被滞留在尼泊尔。 印度外交部在一份声明中表示，已收到多起求助请求，涉及通过私营机构组织的行程进行朝圣时滞留在尼泊尔的印度公民。 印度外交部指出：“建议公民在办妥全程所需的所有旅行证件前，不要启程前往。若在证件未获确认或仅凭预期能办妥证​​件的情况下便出发，…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260628-%E4%B8%AD%E4%BD%BF%E9%A6%86%E4%B8%8E%E8%8F%B2%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88%E4%BA%89%E6%89%A7-%E8%8F%B2%E9%98%B2%E9%95%BF%E6%96%A5%E4%BD%BF%E9%A6%86%E5%AE%98%E5%91%98%E6%97%A0%E8%AF%9A%E6%84%8F%E4%B8%8E%E6%AC%BA%E9%AA%97",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "中使馆与菲外交部就南海仲裁案争执 菲防长斥使馆官员无诚意与欺骗 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260628-%E4%B8%AD%E4%BD%BF%E9%A6%86%E4%B8%8E%E8%8F%B2%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88%E4%BA%89%E6%89%A7-%E8%8F%B2%E9%98%B2%E9%95%BF%E6%96%A5%E4%BD%BF%E9%A6%86%E5%AE%98%E5%91%98%E6%97%A0%E8%AF%9A%E6%84%8F%E4%B8%8E%E6%AC%BA%E9%AA%97",
-    "pub_date": "2026-06-28 18:45:02",
-    "author": "",
-    "description": "28/06/2026 - 12:17 菲律宾国防部长特奥多罗（Gilberto Teodoro）周日宣称，中国驻菲大使馆驳斥菲律宾外交部关于2016年南海仲裁案裁决的声明，这凸显了其官员“缺乏诚意与欺骗”。 据悉，菲律宾外交部上周发表声明，谴责中方拒绝承认2016年南海仲裁案裁决，并强调该裁决具有最终效力和约束力。 中国驻菲大使馆表示拒绝接受所谓的南海仲裁案，称其为“披着法律外衣的政治操弄”，并指其“非法、无效”。中使馆还称，该仲裁裁决…",
-    "content": "28/06/2026 - 12:17 菲律宾国防部长特奥多罗（Gilberto Teodoro）周日宣称，中国驻菲大使馆驳斥菲律宾外交部关于2016年南海仲裁案裁决的声明，这凸显了其官员“缺乏诚意与欺骗”。 据悉，菲律宾外交部上周发表声明，谴责中方拒绝承认2016年南海仲裁案裁决，并强调该裁决具有最终效力和约束力。 中国驻菲大使馆表示拒绝接受所谓的南海仲裁案，称其为“披着法律外衣的政治操弄”，并指其“非法、无效”。中使馆还称，该仲裁裁决“歪曲并滥用”了《联合国海洋法公约》规定的争端解决机制。 周日，特奥多罗发表声明…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260628-%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%8F%E7%BB%84%E8%B5%9B%E6%94%B6%E5%AE%98-%E9%BB%91%E9%A9%AC%E7%AA%81%E5%9B%B4%EF%BC%8C%E4%BC%A0%E7%BB%9F%E5%BC%BA%E9%98%9F%E8%A1%A8%E7%8E%B0%E8%B5%B7%E4%BC%8F%EF%BC%8C32%E5%BC%BA%E5%85%A8%E9%83%A8%E5%87%BA%E7%82%89",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "黑马突围，传统强队表现起伏，32强全部出炉，淘汰赛周日正式打响 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260628-%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%8F%E7%BB%84%E8%B5%9B%E6%94%B6%E5%AE%98-%E9%BB%91%E9%A9%AC%E7%AA%81%E5%9B%B4%EF%BC%8C%E4%BC%A0%E7%BB%9F%E5%BC%BA%E9%98%9F%E8%A1%A8%E7%8E%B0%E8%B5%B7%E4%BC%8F%EF%BC%8C32%E5%BC%BA%E5%85%A8%E9%83%A8%E5%87%BA%E7%82%89",
-    "pub_date": "2026-06-28 18:15:03",
-    "author": "",
-    "description": "28/06/2026 - 11:57 2026年世界杯小组赛全部结束，48支参赛球队经过三轮较量后，已有32支球队晋级淘汰赛，十六分之一决赛于6月28日正式打响，由东道主之一加拿大迎战南非。 本届赛事中，佛得角无疑成为最大黑马。首次参加世界杯便从西班牙和乌拉圭所在的小组成功突围，为扩军后的世界杯奉献了最具代表性的惊喜。法国则延续强势表现，三战全胜，以小组第一晋级，这是球队自1998年以来首次在世界杯小组赛取得全胜战绩。卫冕冠军阿根廷同样…",
-    "content": "28/06/2026 - 11:57 2026年世界杯小组赛全部结束，48支参赛球队经过三轮较量后，已有32支球队晋级淘汰赛，十六分之一决赛于6月28日正式打响，由东道主之一加拿大迎战南非。 本届赛事中，佛得角无疑成为最大黑马。首次参加世界杯便从西班牙和乌拉圭所在的小组成功突围，为扩军后的世界杯奉献了最具代表性的惊喜。法国则延续强势表现，三战全胜，以小组第一晋级，这是球队自1998年以来首次在世界杯小组赛取得全胜战绩。卫冕冠军阿根廷同样状态稳定，三战全胜顺利出线，39岁的梅西三场比赛攻入6球，并超越德国球员克洛泽，…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cn4d1ev0vlpo/simp?at_medium=RSS&at_campaign=rss",
@@ -484,17 +528,6 @@ const jsonData = [
     "content": "DC Studios / 《超少女》聚焦于主角为拯救其爱犬氪托（Krypto）而展开的旅程。 电影《超级少女》（Supergirl；超少女／超女）幕后制作的公司一名高层表示，该片需要努力重建影迷的信任。 DC工作室（DC Studios）在去年推出备受好评的《超人》（Superman），藉此重启其电影宇宙；此前，该漫画公司旗下多个英雄与反派角色改编的电影接连表现欠佳。 本周上映的《超级少女》，由《龙之家族》（House of the Dragon；龙族前传）演员米莉·艾考克（Milly Alcock；美莉·艾葛）、…"
   },
   {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20260627/china-plane-crash-beijing/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "北京最高楼“中国尊”遭小型飞机撞击",
-    "link": "https://cn.nytimes.com/china/20260627/china-plane-crash-beijing/dual",
-    "pub_date": "2026-06-27 05:06:03",
-    "author": "",
-    "description": "KEITH BRADSHER, MEAGHAN TOBIN, PEI-LIN WU2026年6月27日周五，北京的中国尊大厦（又名中信大厦）外墙受损。 Maxim Shemetov/Reuters A small aircraft flew into the tallest building in Beijing on Friday, sending huge hunks of debris and plane parts plumme…",
-    "content": "KEITH BRADSHER, MEAGHAN TOBIN, PEI-LIN WU 2026年6月27日 周五，北京的中国尊大厦（又名中信大厦）外墙受损。 Maxim Shemetov/Reuters A small aircraft flew into the tallest building in Beijing on Friday, sending huge hunks of debris and plane parts plummeting onto the streets below and prompt…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c7vy8q88pl0o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -506,17 +539,6 @@ const jsonData = [
     "content": "Getty Images “我8月不去日本了，”李女士看到赴日签证涨价的消息，立即停下手边的工作，在好友群聊里发了这一句。 她快速转卖8月在东京举办的Summer Sonic音乐节门票，退掉了机票和酒店。 李女士今年27岁，在广东从事一份月入近两万人民币的工作。她对BBC中文说：“日本还是很值得去旅游探索，但这次涨价对我的出行计划影响很大，所以还是算了。” 该国政府6月19日宣布，自7月1日起，外国人单次入境签证费从3000日元上涨至1.5万日元（631元人民币；92.82美元）；多次入境签证费由6000日元上涨至…"
   },
   {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/science/20260626/venezeula-earthquakes-faults-geology/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "一分钟内两次超7级强震：详解委内瑞拉地震",
-    "link": "https://cn.nytimes.com/science/20260626/venezeula-earthquakes-faults-geology/dual",
-    "pub_date": "2026-06-26 13:36:02",
-    "author": "",
-    "description": "ROBIN GEORGE ANDREWS2026年6月26日周四，加拉加斯一处倒塌建筑现场的急救人员。 Leonardo Fernandez Viloria/Reuters Northern Venezuela is no stranger to large, damaging earthquakes. But the pair that tore through the region on Wednesday ranks as a r…",
-    "content": "ROBIN GEORGE ANDREWS 2026年6月26日 周四，加拉加斯一处倒塌建筑现场的急救人员。 Leonardo Fernandez Viloria/Reuters Northern Venezuela is no stranger to large, damaging earthquakes. But the pair that tore through the region on Wednesday ranks as a rare catastrophe — a one-two punch repr…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cd6e7w6lwe3o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -526,17 +548,6 @@ const jsonData = [
     "author": "",
     "description": "Golden Village / 中国电影《给阿嬷的情书》几乎全片都使用潮汕地区的潮州话拍摄。 电影《给阿嬷的情书》讲述家庭、希望与困境的怀旧故事，今夏在中国票房横扫而过，却也在数千公里外的新加坡，意外掀起了一场关于身份认同的讨论。 这部“黑马”几乎全片使用潮汕地区的潮州话拍摄，而潮州话至今仍在东南亚部分华人长辈之间流通。 但当电影本月登上新加坡院线时，许多人震惊地发现，大部分场次都将以华语配音放映——华语贴近中国的通用语（普通话），也…",
     "content": "Golden Village / 中国电影《给阿嬷的情书》几乎全片都使用潮汕地区的潮州话拍摄。 电影《给阿嬷的情书》讲述家庭、希望与困境的怀旧故事，今夏在中国票房横扫而过，却也在数千公里外的新加坡，意外掀起了一场关于身份认同的讨论。 这部“黑马”几乎全片使用潮汕地区的潮州话拍摄，而潮州话至今仍在东南亚部分华人长辈之间流通。 但当电影本月登上新加坡院线时，许多人震惊地发现，大部分场次都将以华语配音放映——华语贴近中国的通用语（普通话），也是新加坡包括英语在内四种官方语言之一。 “作为潮州人，用潮州话看这部片子会格外特…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20260626/iran-strait-of-hormuz-threat-rubio-bahrain/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "伊朗袭击货船，霍尔木兹海峡航运再次中断",
-    "link": "https://cn.nytimes.com/world/20260626/iran-strait-of-hormuz-threat-rubio-bahrain/dual",
-    "pub_date": "2026-06-26 13:06:05",
-    "author": "",
-    "description": "PETER EAVIS, FARNAZ FASSIHI, JENNY GROSS, EUAN WARD2026年6月26日周二，靠近霍尔木兹海峡阿曼海岸外的油轮和货船。 Elke Scholiers/Getty Images Iran’s armed forces struck a container ship that was passing through the Strait of Hormuz on Thursday, acco…",
-    "content": "PETER EAVIS, FARNAZ FASSIHI, JENNY GROSS, EUAN WARD 2026年6月26日 周二，靠近霍尔木兹海峡阿曼海岸外的油轮和货船。 Elke Scholiers/Getty Images Iran’s armed forces struck a container ship that was passing through the Strait of Hormuz on Thursday, according to U.S. and Iranian officials, u…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cn0v5xzzlgyo/simp?at_medium=RSS&at_campaign=rss",
@@ -614,17 +625,6 @@ const jsonData = [
     "author": "",
     "description": "Getty Images 2027年QS世界大学排名6月18日公布，国立台湾大学虽创下历史新高位居全球第63名，但多数台湾顶尖理工名校仍落在百名之外，与长居前20名的新加坡和中港名校相比，明显落后。 这一差距再度引发讨论：为何台湾的大学多数跌出百名之外，却能培育出世界一流的工程师，让台湾半导体产业在全球市占率超过六成？ 对此，台湾中山大学国际长李明轩教授向BBC中文表示，全球大学排名的计算方式，高度仰赖论文引用率等学术指标，这对“产学导…",
     "content": "Getty Images 2027年QS世界大学排名6月18日公布，国立台湾大学虽创下历史新高位居全球第63名，但多数台湾顶尖理工名校仍落在百名之外，与长居前20名的新加坡和中港名校相比，明显落后。 这一差距再度引发讨论：为何台湾的大学多数跌出百名之外，却能培育出世界一流的工程师，让台湾半导体产业在全球市占率超过六成？ 对此，台湾中山大学国际长李明轩教授向BBC中文表示，全球大学排名的计算方式，高度仰赖论文引用率等学术指标，这对“产学导向”的台湾教育体系并不公平。 “如果QS排名加入培养出来的人才的产业影响力，那么…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cz0j880g4xko/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "警報響起：韓國應用程式讓受害者反追跟蹤狂",
-    "link": "https://www.bbc.com/zhongwen/articles/cz0j880g4xko/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-06-24 13:48:03",
-    "author": "",
-    "description": "BBC / 2022年，首尔地铁一起杀人案引发对韩国跟踪法规的强烈愤怒与质疑。 警告：本文包含令人不安的虐待描述与影像。 韩国（南韩）政府宣布，为了提升受害者安全，一款新增功能的手机应用程式将于6月24日推出；若加害者受到电子监控，该应用程式将允许受害者即时查看其跟踪者的位置。 这款由法务部推出的应用程式，利用电子脚镣的追踪资料，能在地图上显示加害者的即时位置；若对方接近预设距离，系统会向监控中心发出警报，监控中心随后会通知警方或保护观…",
-    "content": "BBC / 2022年，首尔地铁一起杀人案引发对韩国跟踪法规的强烈愤怒与质疑。 警告：本文包含令人不安的虐待描述与影像。 韩国（南韩）政府宣布，为了提升受害者安全，一款新增功能的手机应用程式将于6月24日推出；若加害者受到电子监控，该应用程式将允许受害者即时查看其跟踪者的位置。 这款由法务部推出的应用程式，利用电子脚镣的追踪资料，能在地图上显示加害者的即时位置；若对方接近预设距离，系统会向监控中心发出警报，监控中心随后会通知警方或保护观察官。 2024年推出的旧版应用程式，并不具备让受害者即时追踪跟踪者位置的功能。…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c4gyq6k624zo/simp?at_medium=RSS&at_campaign=rss",
@@ -755,7 +755,7 @@ const jsonData = [
     "link": "https://www.bbc.com/zhongwen/articles/cx211w7zkkeo/simp?at_medium=RSS&at_campaign=rss",
     "pub_date": "2026-06-12 12:11:10",
     "author": "",
-    "description": "Reuters 由美国、加拿大和墨西哥共同主办的2026年国际足联（FIFA）世界杯决赛周将于6月11日至7月19日举行，你可以在这里查阅赛事安排、跟踪比赛结果。 点击浏览BBC中文2026年FIFA世界杯专页 點擊放大 FIFA 世界盃 2026 小組賽 淘汰賽 南非 0 - 加拿大 - 巴西 2 - 日本 - 德國 1 - 巴拉圭 - 荷蘭 0 - 摩洛哥 - 科特迪瓦 NaN - 挪威 - 法國 NaN - 瑞典 - 墨西哥 Na…",
+    "description": "Reuters 由美国、加拿大和墨西哥共同主办的2026年国际足联（FIFA）世界杯决赛周将于6月11日至7月19日举行，你可以在这里查阅赛事安排、跟踪比赛结果。 点击浏览BBC中文2026年FIFA世界杯专页 點擊放大 FIFA 世界盃 2026 小組賽 淘汰賽 南非 0 - 加拿大 - 巴西 2 - 日本 - 德國 1 - 巴拉圭 - 荷蘭 1 - 摩洛哥 - 科特迪瓦 1 - 挪威 - 法國 NaN - 瑞典 - 墨西哥 NaN …",
     "content": "Reuters 由美国、加拿大和墨西哥共同主办的2026年国际足联（FIFA）世界杯决赛周将于6月11日至7月19日举行，你可以在这里查阅赛事安排、跟踪比赛结果。 点击浏览BBC中文2026年FIFA世界杯专页 點擊放大 FIFA 世界盃 2026 小組賽 淘汰賽 淘汰賽 32強淘汰賽 6月28日，20:00（GMT+1） 南非 0 - 1 加拿大 (互射12碼) NaN - NaN (互射12碼) (洛杉磯體育場) 6月29日，18:00（GMT+1） 巴西 2 - 1 日本 (互射12碼) NaN - NaN …"
   },
   {
