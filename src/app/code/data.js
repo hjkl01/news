@@ -1,27 +1,5 @@
 const jsonData = [
   {
-    "id": "技术-阮一峰的网络日志-http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html",
-    "feed_name": "阮一峰的网络日志",
-    "category": "技术",
-    "title": "科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）",
-    "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html",
-    "pub_date": "2026-07-03 07:33:49",
-    "author": "阮一峰",
-    "description": "这里记录每周值得分享的科技内容，周五发布。 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面图 内蒙古乌兰察布的\"草原方舟\"，内部是一个文化空间，举办艺术展览、文化交流、商业活动等。（via） 我在智念 AI 的日子（小说） 下面是一篇老外写的超短篇小说，也可能是 AI 写的，我不确定，但觉得很有趣，分享给大家。 为了易读，我做了一些修改，把内容\"中国化…",
-    "content": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 内蒙古乌兰察布的\"草原方舟\"，内部是一个文化空间，举办艺术展览、文化交流、商业活动等。（ via ） 我在智念 AI 的日子（小说） 下面是一篇老外写的 超短篇小说 ，也可能是 AI 写的，我不确定，但觉得很有趣，分享给大家。 为了易读，我做了一些修改，把内容\"中国化\"了。 1、 十四个月之前，我加入了一家叫做\"智念 AI…"
-  },
-  {
-    "id": "技术-阮一峰的网络日志-http://www.ruanyifeng.com/blog/2026/06/anthropic.html",
-    "feed_name": "阮一峰的网络日志",
-    "category": "技术",
-    "title": "Dario Amodei：AI 开源是伪命题",
-    "link": "http://www.ruanyifeng.com/blog/2026/06/anthropic.html",
-    "pub_date": "2026-06-30 11:04:08",
-    "author": "阮一峰",
-    "description": "下面是 Anthropic 公司创始人 Dario Amodei 的言论。 大家看看，是否认同他的说法，还是觉得这是混淆视听，胡说八道。 他说，AI 模型就算公开，你也看不到它的内部运作，所以业界不把它叫做\"开源\"（open source），而叫做\"开放权重\"（open weights）。 传统的开源项目可以许多人一起加入开发，一起修改，汇集大家的智慧，项目越做越好。 但是，开源 AI 模型不是这种模式，它只是公开了权重文件，你根本没法…",
-    "content": "下面是 Anthropic 公司创始人 Dario Amodei 的 言论 。 大家看看，是否认同他的说法，还是觉得这是混淆视听，胡说八道。 他说，AI 模型就算公开，你也看不到它的内部运作，所以业界不把它叫做\"开源\"（open source），而叫做\"开放权重\"（open weights）。 传统的开源项目可以许多人一起加入开发，一起修改，汇集大家的智慧，项目越做越好。 但是，开源 AI 模型不是这种模式，它只是公开了权重文件，你根本没法提交修改，参与它的开发。 所以，他看到新模型，从来不问开不开源，这是无所谓的…"
-  },
-  {
     "id": "技术-HelloGitHub 月刊-https://hellogithub.com/periodical/volume/123",
     "feed_name": "HelloGitHub 月刊",
     "category": "技术",
@@ -31,17 +9,6 @@ const jsonData = [
     "author": "",
     "description": "本期共有 38 个项目，包含 C 项目 (2)，C# 项目 (1)，C++ 项目 (2)，Go 项目 (4)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (3)，Skills (4)，Swift 项目 (2)，人工智能 (5)，其它 (4)",
     "content": "本期共有 38 个项目，包含 C 项目 (2)，C# 项目 (1)，C++ 项目 (2)，Go 项目 (4)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (3)，Skills (4)，Swift 项目 (2)，人工智能 (5)，其它 (4)"
-  },
-  {
-    "id": "技术-阮一峰的网络日志-http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html",
-    "feed_name": "阮一峰的网络日志",
-    "category": "技术",
-    "title": "科技爱好者周刊（第 401 期）：如何赚到10亿美元",
-    "link": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html",
-    "pub_date": "2026-06-26 08:05:38",
-    "author": "阮一峰",
-    "description": "这里记录每周值得分享的科技内容，周五发布。 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面图 在中国南方，人们穿戴巨型荷叶制作的防晒面罩。（via） 如何赚到10亿美元 保罗·格雷厄姆（Paul Graham）是美国最大的创业孵化器 Y Combinator 的创始人，公认的创业导师，《黑客与画家》的作者。 他现在已经退休了，离开硅谷，住在英国乡下。 …",
-    "content": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 在中国南方，人们穿戴巨型荷叶制作的防晒面罩。（ via ） 如何赚到10亿美元 保罗·格雷厄姆（Paul Graham）是美国最大的创业孵化器 Y Combinator 的创始人，公认的创业导师，《黑客与画家》的作者。 他现在已经退休了，离开硅谷，住在英国乡下。 今年6月10日，他应牛津大学的学生社团邀请，做了 一次演讲 …"
   },
   {
     "id": "技术-HelloGitHub 月刊-https://hellogithub.com/periodical/volume/122",
