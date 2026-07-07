@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-07-07T09:26:35.771Z",
-  "ended_at": "2026-07-07T09:26:36.030Z",
-  "duration_ms": 259,
+  "started_at": "2026-07-07T23:53:06.326Z",
+  "ended_at": "2026-07-07T23:53:06.606Z",
+  "duration_ms": 280,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -17,12 +17,12 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 46,
-    "failed_sources": 13,
-    "circuit_open_sources": 13,
+    "cache_hit_sources": 47,
+    "failed_sources": 12,
+    "circuit_open_sources": 12,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1367,
-    "total_items_after_retention": 1174,
+    "total_items_after_dedupe": 1378,
+    "total_items_after_retention": 1173,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -72,7 +72,7 @@
     {
       "title": "路由器交流",
       "url": "https://www.acwifi.net/feed",
-      "reason": "The operation was aborted.",
+      "reason": "Invalid character in tag name\nLine: 0\nColumn: 384\nChar: ;",
       "skippedByCircuit": true
     },
     {
@@ -91,12 +91,6 @@
       "title": "FreeBuf 关注黑客",
       "url": "https://plink.anyfeeder.com/freebuf",
       "reason": "HTTP 405",
-      "skippedByCircuit": true
-    },
-    {
-      "title": "Epic Game",
-      "url": "https://www.epicbundle.com/feed/",
-      "reason": "HTTP 415",
       "skippedByCircuit": true
     },
     {
@@ -145,7 +139,7 @@
     {
       "title": "路由器交流",
       "url": "https://www.acwifi.net/feed",
-      "reason": "The operation was aborted."
+      "reason": "Invalid character in tag name\nLine: 0\nColumn: 384\nChar: ;"
     },
     {
       "title": "技術討論區 | 草榴社區 - t66y.com",
@@ -161,11 +155,6 @@
       "title": "FreeBuf 关注黑客",
       "url": "https://plink.anyfeeder.com/freebuf",
       "reason": "HTTP 405"
-    },
-    {
-      "title": "Epic Game",
-      "url": "https://www.epicbundle.com/feed/",
-      "reason": "HTTP 415"
     },
     {
       "title": "微博 / 热搜榜",
