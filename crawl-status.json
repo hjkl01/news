@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-07-10T23:54:17.414Z",
-  "ended_at": "2026-07-10T23:54:17.630Z",
-  "duration_ms": 216,
+  "started_at": "2026-07-11T07:42:18.607Z",
+  "ended_at": "2026-07-11T07:42:18.833Z",
+  "duration_ms": 226,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -17,12 +17,12 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 47,
-    "failed_sources": 12,
-    "circuit_open_sources": 12,
+    "cache_hit_sources": 48,
+    "failed_sources": 11,
+    "circuit_open_sources": 11,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1372,
-    "total_items_after_retention": 1163,
+    "total_items_after_dedupe": 1411,
+    "total_items_after_retention": 1194,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -84,19 +84,13 @@
     {
       "title": "极客公园",
       "url": "https://www.geekpark.net/rss",
-      "reason": "request to https://www.geekpark.net/rss failed, reason: socket hang up",
+      "reason": "The operation was aborted.",
       "skippedByCircuit": true
     },
     {
       "title": "FreeBuf 关注黑客",
       "url": "https://plink.anyfeeder.com/freebuf",
       "reason": "HTTP 405",
-      "skippedByCircuit": true
-    },
-    {
-      "title": "微博 / 热搜榜",
-      "url": "https://plink.anyfeeder.com/weibo/search/hot",
-      "reason": "HTTP 503",
       "skippedByCircuit": true
     }
   ],
@@ -149,17 +143,12 @@
     {
       "title": "极客公园",
       "url": "https://www.geekpark.net/rss",
-      "reason": "request to https://www.geekpark.net/rss failed, reason: socket hang up"
+      "reason": "The operation was aborted."
     },
     {
       "title": "FreeBuf 关注黑客",
       "url": "https://plink.anyfeeder.com/freebuf",
       "reason": "HTTP 405"
-    },
-    {
-      "title": "微博 / 热搜榜",
-      "url": "https://plink.anyfeeder.com/weibo/search/hot",
-      "reason": "HTTP 503"
     }
   ]
 }
