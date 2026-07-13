@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-07-13T08:52:19.092Z",
-  "ended_at": "2026-07-13T08:52:19.305Z",
-  "duration_ms": 213,
+  "started_at": "2026-07-13T23:48:21.972Z",
+  "ended_at": "2026-07-13T23:48:22.171Z",
+  "duration_ms": 199,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -17,12 +17,12 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 47,
-    "failed_sources": 12,
-    "circuit_open_sources": 12,
+    "cache_hit_sources": 46,
+    "failed_sources": 13,
+    "circuit_open_sources": 13,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1380,
-    "total_items_after_retention": 1134,
+    "total_items_after_dedupe": 1375,
+    "total_items_after_retention": 1136,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -88,6 +88,12 @@
       "skippedByCircuit": true
     },
     {
+      "title": "软餐 - 新鲜软件资讯",
+      "url": "https://plink.anyfeeder.com/ruancan",
+      "reason": "HTTP 504",
+      "skippedByCircuit": true
+    },
+    {
       "title": "FreeBuf 关注黑客",
       "url": "https://plink.anyfeeder.com/freebuf",
       "reason": "HTTP 405",
@@ -150,6 +156,11 @@
       "title": "极客公园",
       "url": "https://www.geekpark.net/rss",
       "reason": "request to https://www.geekpark.net/rss failed, reason: socket hang up"
+    },
+    {
+      "title": "软餐 - 新鲜软件资讯",
+      "url": "https://plink.anyfeeder.com/ruancan",
+      "reason": "HTTP 504"
     },
     {
       "title": "FreeBuf 关注黑客",
