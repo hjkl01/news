@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-07-14T07:49:11.111Z",
-  "ended_at": "2026-07-14T07:49:11.370Z",
-  "duration_ms": 259,
+  "started_at": "2026-07-14T23:46:42.922Z",
+  "ended_at": "2026-07-14T23:46:43.122Z",
+  "duration_ms": 200,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -21,8 +21,8 @@
     "failed_sources": 13,
     "circuit_open_sources": 13,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1367,
-    "total_items_after_retention": 1124,
+    "total_items_after_dedupe": 1380,
+    "total_items_after_retention": 1149,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -90,7 +90,7 @@
     {
       "title": "软餐 - 新鲜软件资讯",
       "url": "https://plink.anyfeeder.com/ruancan",
-      "reason": "HTTP 504",
+      "reason": "HTTP 503",
       "skippedByCircuit": true
     },
     {
@@ -160,7 +160,7 @@
     {
       "title": "软餐 - 新鲜软件资讯",
       "url": "https://plink.anyfeeder.com/ruancan",
-      "reason": "HTTP 504"
+      "reason": "HTTP 503"
     },
     {
       "title": "FreeBuf 关注黑客",

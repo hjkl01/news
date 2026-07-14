@@ -1,9 +1,64 @@
 const jsonData = [
   {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c2dydezz0jro/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "「不出去，這一輩子我的心都不甘」：中國異見人士董廣平跨海偷渡韓國",
+    "link": "https://www.bbc.com/zhongwen/articles/c2dydezz0jro/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-07-14 19:06:56",
+    "author": "",
+    "description": "PROVIDED 橡皮艇在海浪中颠簸前进，船上两天没睡觉的董广平感到头晕。 他低头看一眼手机，只余一格电力。环望四周海天一色，已经分不清方向，一股强烈的恐惧感涌上心头。 作为中国异见人士，他过去11年四次偷渡出国都失败，更两度遭遣返被判入狱。这次，他选择更冒险的方式——驾艇穿越300公里黄海。 从山东出发投奔怒海40小时后，他在韩国西岸被渔民救起，辗转送到难民中心，最终获批政治庇护并抵达加拿大。 “不出去，这一辈子我的心都不甘。”董广平…",
+    "content": "PROVIDED 橡皮艇在海浪中颠簸前进，船上两天没睡觉的董广平感到头晕。 他低头看一眼手机，只余一格电力。环望四周海天一色，已经分不清方向，一股强烈的恐惧感涌上心头。 作为中国异见人士，他过去11年四次偷渡出国都失败，更两度遭遣返被判入狱。这次，他选择更冒险的方式——驾艇穿越300公里黄海。 从山东出发投奔怒海40小时后，他在韩国西岸被渔民救起，辗转送到难民中心，最终获批政治庇护并抵达加拿大。 “不出去，这一辈子我的心都不甘。”董广平接受BBC中文专访时说。 “我在国内是无法生存” 在中国郑州出生的董广平，原本是…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c5yzy00z89po/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "追蹤你的食品購買紀錄有益健康嗎？",
+    "link": "https://www.bbc.com/zhongwen/articles/c5yzy00z89po/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-07-14 17:42:11",
+    "author": "",
+    "description": "John Laurenson / 娜塔莉使用手机扫描一件商品。 在巴黎以西当地一家 Hyper U 超市的甜饼干货架前，娜塔莉（Nathalie）一手拿着一包饼干，另一手拿着智能手机。她看到红色警示。真的是红色。 “看看这个！”她说，一边把手机画面给我看。萤幕上以红色字样标示着 0/100。 “这是马洛（Malo）最爱吃的饼干之一，”她说。马洛是她12岁的儿子。“但它不只是含有大量糖分和饱和脂肪，还有四种添加剂，其中一种甚至有健康风险。…",
+    "content": "John Laurenson / 娜塔莉使用手机扫描一件商品。 在巴黎以西当地一家 Hyper U 超市的甜饼干货架前，娜塔莉（Nathalie）一手拿着一包饼干，另一手拿着智能手机。她看到红色警示。真的是红色。 “看看这个！”她说，一边把手机画面给我看。萤幕上以红色字样标示着 0/100。 “这是马洛（Malo）最爱吃的饼干之一，”她说。马洛是她12岁的儿子。“但它不只是含有大量糖分和饱和脂肪，还有四种添加剂，其中一种甚至有健康风险。” 娜塔莉点开有问题的添加剂：E450。 “一种矿物质，摄取过量可能导致骨髓和肾…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c1jy6kjn762o/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "南海仲裁案：一紙裁決為何十年仍未能平息爭議？",
+    "link": "https://www.bbc.com/zhongwen/articles/c1jy6kjn762o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-07-14 17:26:37",
+    "author": "",
+    "description": "Reuters / 1999年马德雷山号被故意搁浅在仁爱礁 南海仲裁案公布十周年之际，日本、美国、菲律宾等14国发布联合声明，重申2016年裁决具有法律效力，并指中国对南海的广泛海洋权益主张缺乏国际法依据。中国则先后发表两份声明，拒不承认有关裁决。 十年过去，这项被视为南海争议重要里程碑的裁决，并未平息争端。中国与菲律宾在法律和历史叙事上仍各持立场，海上摩擦持续发生。 接受BBC中文访问的学者表示，南海问题逐渐从区域争议，演变为牵涉国际…",
+    "content": "Reuters / 1999年马德雷山号被故意搁浅在仁爱礁 南海仲裁案公布十周年之际，日本、美国、菲律宾等14国发布联合声明，重申2016年裁决具有法律效力，并指中国对南海的广泛海洋权益主张缺乏国际法依据。中国则先后发表两份声明，拒不承认有关裁决。 十年过去，这项被视为南海争议重要里程碑的裁决，并未平息争端。中国与菲律宾在法律和历史叙事上仍各持立场，海上摩擦持续发生。 接受BBC中文访问的学者表示，南海问题逐渐从区域争议，演变为牵涉国际法、地缘政治与大国竞争的全球议题。 周日（7月12日），日本外相也发表声明，表示…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c4gyglylpmro/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "「越來越像一隻迷因股」：SpaceX IPO熱潮消退了嗎？",
+    "link": "https://www.bbc.com/zhongwen/articles/c4gyglylpmro/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-07-14 17:02:27",
+    "author": "",
+    "description": "BBC SpaceX上市首月，投资者的情绪已由最初的欢庆，逐渐转为不安。 由马斯克共同创办及领导的SpaceX，于6月12日首次开放公众投资者在公开股票市场买卖股份时，引发市场一片狂热。 虽然公司将招股价定于每股135美元，但股份首个交易日即急升至150美元，其后一度升至176美元，最终收报160.95美元（1091元人民币；5186元新台币）。 这次上市亦令SpaceX成为历来规模最大的首次公开招股（IPO）。 翌周，股价进一步攀升，…",
+    "content": "BBC SpaceX上市首月，投资者的情绪已由最初的欢庆，逐渐转为不安。 由马斯克共同创办及领导的SpaceX，于6月12日首次开放公众投资者在公开股票市场买卖股份时，引发市场一片狂热。 虽然公司将招股价定于每股135美元，但股份首个交易日即急升至150美元，其后一度升至176美元，最终收报160.95美元（1091元人民币；5186元新台币）。 这次上市亦令SpaceX成为历来规模最大的首次公开招股（IPO）。 翌周，股价进一步攀升，盘中高见225美元，公司总市值一度超越亚马逊（Amazon）及微软（Micros…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cyv0v42e4qjo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "英國改革黨發言人韋黛琴命案變反恐調查 一文掌握來龍去脈",
+    "link": "https://www.bbc.com/zhongwen/articles/cyv0v42e4qjo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-07-14 16:14:49",
+    "author": "",
+    "description": "Reuters / 韦黛琴之死被列为谋杀案调查，更被移交反恐部门负责，但警察强调目前没有证据显示案件具有政治动机。 反恐警察证实，在一名28岁男子被捕后，他们现正主导对前英国国会议员及欧洲议会议员韦黛琴（Ann Widdecombe）怀疑被谋杀案件的调查。 这名78岁、曾任保守党大臣，后来成为英国改革党（Reform UK）发言人的韦黛琴，于上星期四（7月9日）早上被发现陈尸于德文郡住所内，身上有严重伤势。 警方上星期六（11日）晚表示…",
+    "content": "Reuters / 韦黛琴之死被列为谋杀案调查，更被移交反恐部门负责，但警察强调目前没有证据显示案件具有政治动机。 反恐警察证实，在一名28岁男子被捕后，他们现正主导对前英国国会议员及欧洲议会议员韦黛琴（Ann Widdecombe）怀疑被谋杀案件的调查。 这名78岁、曾任保守党大臣，后来成为英国改革党（Reform UK）发言人的韦黛琴，于上星期四（7月9日）早上被发现陈尸于德文郡住所内，身上有严重伤势。 警方上星期六（11日）晚表示，他们已在南约克郡罗瑟勒姆（Rotherham, South Yorkshire…"
+  },
+  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cy472d80ewwo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
-    "title": "馬興瑞被「雙開」：習時代「技術官僚」代表隕落，政治局三名委員落馬",
+    "title": "「雙開」馬興瑞：習時代「技術官僚」代表隕落，政治局三委員落馬",
     "link": "https://www.bbc.com/zhongwen/articles/cy472d80ewwo/simp?at_medium=RSS&at_campaign=rss",
     "pub_date": "2026-07-14 11:50:28",
     "author": "",
@@ -77,17 +132,6 @@ const jsonData = [
     "content": "AP 如无意外，安迪·伯纳姆（Andy Burnham）将成为英国下一任首相。 BBC驻亚洲、美国、俄罗斯、乌克兰和欧洲记者探讨世界各国领袖如何看待一个安迪·伯纳姆政府。 中国：对更多政治变动感到沮丧的情绪 BBC驻中国记者碧嘉兰（Laura Bicker） 安迪·伯纳姆曾以中国的高速铁路网络作为英格兰北部发展的范例。 2018年，他似乎对中国在区域层面所能提供的机遇持开放态度。然而，若成为首相，相关考量将更为复杂。如今，任何与北京的关系都必须同时衡量经济利益与国家安全风险，因为英国情报部门持续对间谍活动、在英中国…"
   },
   {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/ckg47kxywd7o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "曼谷酒吧大火至少27死22重傷",
-    "link": "https://www.bbc.com/zhongwen/articles/ckg47kxywd7o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-07-13 15:45:06",
-    "author": "",
-    "description": "AP / 影片：泰国总理阿努廷视察曼谷致命酒吧火灾现场 泰国曼谷一家酒吧周日（7月12日）深夜发生大火，至少造成27人死亡、60人受伤，当中22人情况危急。 事发地点位于恰图恰（Chatuchak；翟道翟）区，酒吧名为Rong Beer Na Lat Phrao，是当地受欢迎的娱乐场所。 目击者表示，火势从酒吧的舞台附近开始燃烧并迅速蔓延，导致停电，浓烟迅速吞噬整个室内空间。 网路流传的影片显示，惊慌失措的顾客尖叫着逃离现场，有些人身上…",
-    "content": "AP / 影片：泰国总理阿努廷视察曼谷致命酒吧火灾现场 泰国曼谷一家酒吧周日（7月12日）深夜发生大火，至少造成27人死亡、60人受伤，当中22人情况危急。 事发地点位于恰图恰（Chatuchak；翟道翟）区，酒吧名为Rong Beer Na Lat Phrao，是当地受欢迎的娱乐场所。 目击者表示，火势从酒吧的舞台附近开始燃烧并迅速蔓延，导致停电，浓烟迅速吞噬整个室内空间。 网路流传的影片显示，惊慌失措的顾客尖叫着逃离现场，有些人身上的衣物甚至已经起火，他们穿过被火焰吞噬的酒吧正门仓皇逃生。 消防人员于午夜过后不…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cq61eqrdj74o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -130,17 +174,6 @@ const jsonData = [
     "author": "",
     "description": "China News Service “不堪重负”、“烦躁”、“头晕”、“腹胀”、“疲惫不堪”——都是BBC收到的女性读者有关炎热的留言中，反复出现的词语。 极端高温可以影响任何人，但英国国民保健署（NHS）专门研究女性健康的全科医生尼加特·阿里夫（Nighat Arif）博士告诉BBC，热浪是对女性心血管系统的一场“压力测试”，对女性的影响也比男性更大。 伦敦大学学院全球健康研究所的学术公共卫生顾问卡特·皮尼奥－戈梅斯（Cat Pin…",
     "content": "China News Service “不堪重负”、“烦躁”、“头晕”、“腹胀”、“疲惫不堪”——都是BBC收到的女性读者有关炎热的留言中，反复出现的词语。 极端高温可以影响任何人，但英国国民保健署（NHS）专门研究女性健康的全科医生尼加特·阿里夫（Nighat Arif）博士告诉BBC，热浪是对女性心血管系统的一场“压力测试”，对女性的影响也比男性更大。 伦敦大学学院全球健康研究所的学术公共卫生顾问卡特·皮尼奥－戈梅斯（Cat Pinho-Gomes）博士表示，女性因热浪死亡的风险也可能略高于男性，不过仍需要更多…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c1myd9pyrv4o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "颱風巴威兩度登陸浙江，當地人如何把防災做得「密不透風」？",
-    "link": "https://www.bbc.com/zhongwen/articles/c1myd9pyrv4o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-07-12 18:12:45",
-    "author": "",
-    "description": "CFOTO / 受台风巴威影响，位于中国浙江省杭州市步行街的迪士尼快闪店已进行维修并暂时关闭。 一周内第二个重大风暴吹袭中国，让处于台风“巴威”移动路径之中的浙江省严阵以待，登陆前已全省转移超过170万人。 温州市龙港市企业家陈先生向BBC中文表示，他们事先已将全部员工撤出，厂区断电并钉死门窗。 苍南县的余女士说，当地政府提前一周已安排转移，小区提前两天通知把汽车从地库挪到地面，渔船全部拉上岸固定。 截至周日（7月12日）下午6时，浙江…",
-    "content": "CFOTO / 受台风巴威影响，位于中国浙江省杭州市步行街的迪士尼快闪店已进行维修并暂时关闭。 一周内第二个重大风暴吹袭中国，让处于台风“巴威”移动路径之中的浙江省严阵以待，登陆前已全省转移超过170万人。 温州市龙港市企业家陈先生向BBC中文表示，他们事先已将全部员工撤出，厂区断电并钉死门窗。 苍南县的余女士说，当地政府提前一周已安排转移，小区提前两天通知把汽车从地库挪到地面，渔船全部拉上岸固定。 截至周日（7月12日）下午6时，浙江当局目前尚未公布人员伤亡或财产损失的情况。上海市防汛指挥部称，上海城市运行基本平…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c77ypm8re6vo/simp?at_medium=RSS&at_campaign=rss",
@@ -421,7 +454,7 @@ const jsonData = [
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cwylzlg49lwo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
-    "title": "「你快死了」——母親多年來讓我深信自己病重，直到一名醫生揭開真相",
+    "title": "母親長年讓我深信自己快要死了，直到醫生揭開真相",
     "link": "https://www.bbc.com/zhongwen/articles/cwylzlg49lwo/simp?at_medium=RSS&at_campaign=rss",
     "pub_date": "2026-07-10 15:12:18",
     "author": "",
@@ -660,17 +693,6 @@ const jsonData = [
     "content": "Getty Images 美国总统特朗普（Donald Trump，川普）试图以行政命令终结“出生公民权”（birthright citizenship），认为此举能杜绝“非法移民”问题，但该命令上周遭最高法院以6比3裁定无效。 这在美国政坛引发激烈宪政辩论，也在移民社群掀起广泛讨论。 面对自身提名且价值观相符的数名保守派大法官表态其命令违宪，特朗普随即在社交媒体“Truth Social”发文称“习近平赢了”，被视为暗指数以万计从中国赴美生子、让子女取得美国公民权的家庭。 在小红书、微信等中国社交媒体上，许多协助…"
   },
   {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/czxqq295kkro/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "中國來的拖網漁船讓這群非洲漁民叫苦連天",
-    "link": "https://www.bbc.com/zhongwen/articles/czxqq295kkro/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-07-07 16:11:51",
-    "author": "",
-    "description": "BBC / 塞拉利昂谢尔博岛的渔民表示，他们的渔获量已在下降。 村民们一边高声吆喝，一边拉扯绳索，将渔网从海中拉回岸边。 十多人甚至更多人必须齐心协力，才能把网中不停挣扎的鲷鱼、鲭鱼、梭鱼、魟鱼以及其他许多鱼类拖上沙滩。 像这样的岸边捕鱼方式，是西非塞拉利昂（Sierra Leone；狮子山）谢尔博岛（Sherbo Island）的一项传统。该岛位于首都自由城（Freetown）以南约120公里处。当地居民表示，近年来渔获量不断下降，而…",
-    "content": "BBC / 塞拉利昂谢尔博岛的渔民表示，他们的渔获量已在下降。 村民们一边高声吆喝，一边拉扯绳索，将渔网从海中拉回岸边。 十多人甚至更多人必须齐心协力，才能把网中不停挣扎的鲷鱼、鲭鱼、梭鱼、魟鱼以及其他许多鱼类拖上沙滩。 像这样的岸边捕鱼方式，是西非塞拉利昂（Sierra Leone；狮子山）谢尔博岛（Sherbo Island）的一项传统。该岛位于首都自由城（Freetown）以南约120公里处。当地居民表示，近年来渔获量不断下降，而他们都将原因归咎于同一件事——大型外国渔船。 一位女士——玛丽·皮埃尔（Mari…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cg53l85l7gno/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -693,17 +715,6 @@ const jsonData = [
     "content": "CCTV / 官方中国中央电视台展示了导弹试射照片。 中国向太平洋海域试射了一枚搭载模拟弹头的远程弹道导弹，时间正值澳洲与斐济签署一项新的防务协议数小时之后。 北京称，星期一（7月6日）的行动是“中方年度军事训练的例行性安排”。美国国务院称该导弹“可携带核武”，并质疑中国在暗地里扩充其核武器库。 日本、新西兰和澳洲等国对中国导弹试射表达不满。澳洲总理阿尔巴尼斯（Anthony Albanese；艾巴尼斯）星期二（7日）形容中国进行的弹道导弹试射具有破坏稳定及挑衅性。 近年来，澳洲一直加紧巩固与太平洋邻国的防务关系，…"
   },
   {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c8r2208nl2no/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "伊朗哈梅內伊葬禮後：「有點像中國的後毛澤東時代」",
-    "link": "https://www.bbc.com/zhongwen/articles/c8r2208nl2no/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-07-06 17:07:09",
-    "author": "",
-    "description": "AFP via Getty Images 当美国总统唐纳德·特朗普（Donald Trump；川普）上月在凡尔赛宫（Palace of Versailles）用餐期间与伊朗签署停火协议时，许多人感到颇具讽刺意味。 他的东道主、法国总统埃马纽埃尔·马克龙（Emanuel Macron）可能想确保谅解备忘录（Memorandum of Understanding，MoU）在特朗普改变主意之前签署，并且可能盘算着镀金的镜厅（Hall of M…",
-    "content": "AFP via Getty Images 当美国总统唐纳德·特朗普（Donald Trump；川普）上月在凡尔赛宫（Palace of Versailles）用餐期间与伊朗签署停火协议时，许多人感到颇具讽刺意味。 他的东道主、法国总统埃马纽埃尔·马克龙（Emanuel Macron）可能想确保谅解备忘录（Memorandum of Understanding，MoU）在特朗普改变主意之前签署，并且可能盘算着镀金的镜厅（Hall of Mirrors）会讨这位客人的欢心。 但选择这个场所，不可避免地让人将这份仅一页半…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c1eyqxdzxz5o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -715,26 +726,15 @@ const jsonData = [
     "content": "Getty Images / 在东亚，依托咪酯（Etomidate）的滥用正透过电子烟载具普及社群媒体行销与贩售，深入年轻族群。 在东亚，一种名为“依托咪酯”（Etomidate）的短效麻醉药物，正迅速从医疗用途滑向非法滥用，引发区域性的公共安全危机。 含有依托咪酯的电子烟，近年在中国大陆、香港、台湾、新加坡及日韩部分地区流行，不少青少年吸食后，身体出现如“僵尸”般的失控状态，甚至有人因吸食后驾驶酿成车祸，夺走至少数十人命。 专家指出，自2022年中国大陆出现滥用案例以来，其影响迅速扩散。而电子烟的普及使毒品与合法…"
   },
   {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cj0gvjp5ymlo/simp?at_medium=RSS&at_campaign=rss",
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/crlw1352re4o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
-    "title": "手部無力、視力模糊：你的科技產品是否讓你患上了「手機病」？",
-    "link": "https://www.bbc.com/zhongwen/articles/cj0gvjp5ymlo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-07-05 09:06:39",
+    "title": "「在印度旅行的一頓飯，讓38條寄生蟲鑽進了我的腦袋」",
+    "link": "https://www.bbc.com/zhongwen/articles/crlw1352re4o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-07-05 09:08:34",
     "author": "",
-    "description": "BBC/ Serenity Strull/ Getty Images 你的装置正以你未必察觉的方式改变你的身体。 现在采取行动仍然未算太迟。 当我们担心使用萤幕时间对自身的影响时，往往会把焦点放在大脑上。 但最近我低头一看时，留意到小指上有一个小小的茧凸起，位置正正是我托着手机的地方。这让我开始思考：手机还对我身体的其他部位造成甚么影响？ 我找来一些专家寻求答案。 结果——你或许早已猜到——并不令人鼓舞。 最新研究显示，手机及其数码“同…",
-    "content": "BBC/ Serenity Strull/ Getty Images 你的装置正以你未必察觉的方式改变你的身体。 现在采取行动仍然未算太迟。 当我们担心使用萤幕时间对自身的影响时，往往会把焦点放在大脑上。 但最近我低头一看时，留意到小指上有一个小小的茧凸起，位置正正是我托着手机的地方。这让我开始思考：手机还对我身体的其他部位造成甚么影响？ 我找来一些专家寻求答案。 结果——你或许早已猜到——并不令人鼓舞。 最新研究显示，手机及其数码“同伴”可能正在改变你的颈部形态、损害视力、影响运动技能，并削弱肌肉力量。甚至有人担…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cvgle2xd2wro/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "香港銅鑼灣書店店長林榮基病逝 從港至台以書店反抗",
-    "link": "https://www.bbc.com/zhongwen/articles/cvgle2xd2wro/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-07-03 20:11:17",
-    "author": "",
-    "description": "Getty Images / 香港铜锣湾书店店长林荣基因癌病逝，终年70岁。被铜锣湾书店事件改写人生的他，无悔挺身发声。 香港铜锣湾书店店长林荣基于2026年7月2日因癌症在台北病逝，终年70岁。连同林荣基在内，铜锣湾书店股东、出版人、员工等5人于2015年失踪，其后证实遭北京当局逮捕和控告贩卖中国大陆政治“禁书”等罪名，引起外界关注中国当局“跨境执法”。 他因为担心香港政府修订《逃犯条例》后会“被送中”，在2019年移居台湾，在台北重…",
-    "content": "Getty Images / 香港铜锣湾书店店长林荣基因癌病逝，终年70岁。被铜锣湾书店事件改写人生的他，无悔挺身发声。 香港铜锣湾书店店长林荣基于2026年7月2日因癌症在台北病逝，终年70岁。连同林荣基在内，铜锣湾书店股东、出版人、员工等5人于2015年失踪，其后证实遭北京当局逮捕和控告贩卖中国大陆政治“禁书”等罪名，引起外界关注中国当局“跨境执法”。 他因为担心香港政府修订《逃犯条例》后会“被送中”，在2019年移居台湾，在台北重开书店并持续为港发声。他离世后，台湾总统赖清德、多名香港民主派人士皆发文哀悼。 …"
+    "description": "BBC / 萝莉说她很欣慰终于恢复健康。 萝莉·丹曼（Lowri Denman）第一次意识到情况不对劲，是在她上完厕所后惊恐地发现一条长达一公尺的绦虫。 “它看起来非常恶心，像透明胶带一样，上面还有小小的凸起，”这位来自威尔斯的42岁女子说道。 这是神经囊尾蚴病（neurocysticercosis）的第一个症状，导致萝莉脑中出现38条寄生虫，引起剧烈头痛、癫痫发作和精神病症状。 她是英国每年仅少数被诊断出这种脑部感染的患者之一，这种疾…",
+    "content": "BBC / 萝莉说她很欣慰终于恢复健康。 萝莉·丹曼（Lowri Denman）第一次意识到情况不对劲，是在她上完厕所后惊恐地发现一条长达一公尺的绦虫。 “它看起来非常恶心，像透明胶带一样，上面还有小小的凸起，”这位来自威尔斯的42岁女子说道。 这是神经囊尾蚴病（neurocysticercosis）的第一个症状，导致萝莉脑中出现38条寄生虫，引起剧烈头痛、癫痫发作和精神病症状。 她是英国每年仅少数被诊断出这种脑部感染的患者之一，这种疾病是由猪肉绦虫（pork tapeworm）的幼虫所引起。 在历经多年治疗恢复健…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cgrklk4g1rxo/simp?at_medium=RSS&at_campaign=rss",
