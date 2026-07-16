@@ -1,5 +1,60 @@
 const jsonData = [
   {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cy07rwyeg7ko/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "阿根廷揮舞福克蘭群島橫幅宣示主權後面臨FIFA處分",
+    "link": "https://www.bbc.com/zhongwen/articles/cy07rwyeg7ko/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-07-16 14:49:38",
+    "author": "",
+    "description": "Getty Images / 阿根廷球员在击败英格兰后展示具争议性的横幅。 阿根廷球员在世界杯准决赛击败英格兰后，手持支持该国对福克兰群岛（Falkland Islands；阿根廷称马尔维纳斯群岛，Islas Malvinas）主权声索的横幅庆祝，因而面临国际足协（FIFA）纪律处分的可能。 卫冕世界冠军在亚特兰大上演戏剧性的末段反胜，攻入两球，以2:1击败托马尔·图赫尔（Thomas Tuchel，杜曹）执教的球队，并取得星期日（7月…",
+    "content": "Getty Images / 阿根廷球员在击败英格兰后展示具争议性的横幅。 阿根廷球员在世界杯准决赛击败英格兰后，手持支持该国对福克兰群岛（Falkland Islands；阿根廷称马尔维纳斯群岛，Islas Malvinas）主权声索的横幅庆祝，因而面临国际足协（FIFA）纪律处分的可能。 卫冕世界冠军在亚特兰大上演戏剧性的末段反胜，攻入两球，以2:1击败托马尔·图赫尔（Thomas Tuchel，杜曹）执教的球队，并取得星期日（7月19日）决赛对阵西班牙的资格。 终场哨声响起后，阿根廷球员手持写有“Las Ma…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cpq8jd9dwr2o/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "皮尤研究：全球更多國家對中國好感勝過美國，逾20年以來首次",
+    "link": "https://www.bbc.com/zhongwen/articles/cpq8jd9dwr2o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-07-16 11:21:50",
+    "author": "",
+    "description": "Getty Images / 调查显示，许多人认为，中国比美国较少干涉其他国家事务。 美国智库皮尤研究中心（Pew Research Center）最新发表的研究显示，全球愈来愈多国家的国民对中国的观感比美国更正面，这也是该机构首次录得这样的结果。 由美国这所无党派智库进行的研究指出，多国民众对中国的好感度升至历来新高，而对美国的观感则有所恶化。 整体而言，受访者对美国总统特朗普（Donald Trump；川普）及中国国家主席习近平都缺…",
+    "content": "Getty Images / 调查显示，许多人认为，中国比美国较少干涉其他国家事务。 美国智库皮尤研究中心（Pew Research Center）最新发表的研究显示，全球愈来愈多国家的国民对中国的观感比美国更正面，这也是该机构首次录得这样的结果。 由美国这所无党派智库进行的研究指出，多国民众对中国的好感度升至历来新高，而对美国的观感则有所恶化。 整体而言，受访者对美国总统特朗普（Donald Trump；川普）及中国国家主席习近平都缺乏信心，但习近平的评分仍高于特朗普。 虽然受访者普遍仍认为，美国比中国更尊重个人…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cewqw01d220o/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "白色恐怖迷霧中，台灣政治受難者後代如何摸索真相？",
+    "link": "https://www.bbc.com/zhongwen/articles/cewqw01d220o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-07-16 10:49:01",
+    "author": "",
+    "description": "台湾解严39年：政治受难者后代如何持续揭开白色恐怖迷雾、摸索真相？ 今年7月15日是台湾解严第39年，在年初，台湾掀起了一波“台湾史补课潮”，许多人第一次深入认识到家中戒严时期的记忆。 阿官是其中之一。她的舅公在1956年被枪决，但家人近70年来都不清楚舅公具体做了什么被判刑以及被捕后的状况，直到今年2月。 她在看到电影《大蒙》后受到启发。电影讲述台湾白色恐怖时期，主角因为哥哥被枪决、独自到台北认领遗体的过程。 阿官在社群媒体上分享家人…",
+    "content": "台湾解严39年：政治受难者后代如何持续揭开白色恐怖迷雾、摸索真相？ 今年7月15日是台湾解严第39年，在年初，台湾掀起了一波“台湾史补课潮”，许多人第一次深入认识到家中戒严时期的记忆。 阿官是其中之一。她的舅公在1956年被枪决，但家人近70年来都不清楚舅公具体做了什么被判刑以及被捕后的状况，直到今年2月。 她在看到电影《大蒙》后受到启发。电影讲述台湾白色恐怖时期，主角因为哥哥被枪决、独自到台北认领遗体的过程。 阿官在社群媒体上分享家人相似的经历后，她因缘际会取得舅公当年的政治档案 —— 也就是台湾威权统治时期政党…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cx2v2j1pdrxo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "「天才少女」蔣方舟跌下神壇：中國學術打假為何變成制度之問",
+    "link": "https://www.bbc.com/zhongwen/articles/cx2v2j1pdrxo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-07-16 09:28:37",
+    "author": "",
+    "description": "China News Service / 蒋方舟曾获清华大学高考降60分录取而成名。 中国知名作家蒋方舟被撤销硕士学位，令其“天才少女”光环蒙尘，也让中国学术打假再度成为焦点。 更受关注的是，涉事校方在短短八天内两度公布调查结果，从“学术不规范”改判为“学术不端”，引发外界对调查程序的质疑。 过去一个多月，中国学术打假持续升温。打假博主“耿同学”接连举报多名学者涉嫌造假；作家贾平凹之女贾浅浅因论文抄袭遭撤销学位及教职，多宗事件接连曝光。…",
+    "content": "China News Service / 蒋方舟曾获清华大学高考降60分录取而成名。 中国知名作家蒋方舟被撤销硕士学位，令其“天才少女”光环蒙尘，也让中国学术打假再度成为焦点。 更受关注的是，涉事校方在短短八天内两度公布调查结果，从“学术不规范”改判为“学术不端”，引发外界对调查程序的质疑。 过去一个多月，中国学术打假持续升温。打假博主“耿同学”接连举报多名学者涉嫌造假；作家贾平凹之女贾浅浅因论文抄袭遭撤销学位及教职，多宗事件接连曝光。 蒋方舟事件引发外界重新审视“天才”光环与学术诚信之间的关系，也将讨论延伸至中国…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c9q2q2r3n0zo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "為何有些女性看見常人無法目睹的顏色？",
+    "link": "https://www.bbc.com/zhongwen/articles/c9q2q2r3n0zo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-07-16 08:04:00",
+    "author": "",
+    "description": "Roberto Machado Noa via Getty Images 艺术家康切塔·安蒂科（Concetta Antico）说，当她意识到学生们看不到她所见的色彩时，那一刻感觉就像“一盆冷水迎面泼来”。 安蒂科表示，她在日常事物中能看见“无数种色彩”，例如阴影的部分——而大多数人只会说看到一种色调。 她原本以为每个人都和她一样看世界，直到从学生反应中才明白并非如此。 “后来我问一个人：‘你为什么从来不说呢？’”她回忆道。 对方回答：…",
+    "content": "Roberto Machado Noa via Getty Images 艺术家康切塔·安蒂科（Concetta Antico）说，当她意识到学生们看不到她所见的色彩时，那一刻感觉就像“一盆冷水迎面泼来”。 安蒂科表示，她在日常事物中能看见“无数种色彩”，例如阴影的部分——而大多数人只会说看到一种色调。 她原本以为每个人都和她一样看世界，直到从学生反应中才明白并非如此。 “后来我问一个人：‘你为什么从来不说呢？’”她回忆道。 对方回答：“哦，因为你是老师啊。我们⋯⋯只是以为你在做什么艺术性的表现。” 安蒂科后来透过…"
+  },
+  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cjrvd4vnqero/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -154,17 +209,6 @@ const jsonData = [
     "content": "BBC SpaceX上市首月，投资者的情绪已由最初的欢庆，逐渐转为不安。 由马斯克共同创办及领导的SpaceX，于6月12日首次开放公众投资者在公开股票市场买卖股份时，引发市场一片狂热。 虽然公司将招股价定于每股135美元，但股份首个交易日即急升至150美元，其后一度升至176美元，最终收报160.95美元（1091元人民币；5186元新台币）。 这次上市亦令SpaceX成为历来规模最大的首次公开招股（IPO）。 翌周，股价进一步攀升，盘中高见225美元，公司总市值一度超越亚马逊（Amazon）及微软（Micros…"
   },
   {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cyv0v42e4qjo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "英國改革黨發言人韋黛琴命案變反恐調查 一文掌握來龍去脈",
-    "link": "https://www.bbc.com/zhongwen/articles/cyv0v42e4qjo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-07-14 16:14:49",
-    "author": "",
-    "description": "Reuters / 韦黛琴之死被列为谋杀案调查，更被移交反恐部门负责，但警察强调目前没有证据显示案件具有政治动机。 反恐警察证实，在一名28岁男子被捕后，他们现正主导对前英国国会议员及欧洲议会议员韦黛琴（Ann Widdecombe）怀疑被谋杀案件的调查。 这名78岁、曾任保守党大臣，后来成为英国改革党（Reform UK）发言人的韦黛琴，于上星期四（7月9日）早上被发现陈尸于德文郡住所内，身上有严重伤势。 警方上星期六（11日）晚表示…",
-    "content": "Reuters / 韦黛琴之死被列为谋杀案调查，更被移交反恐部门负责，但警察强调目前没有证据显示案件具有政治动机。 反恐警察证实，在一名28岁男子被捕后，他们现正主导对前英国国会议员及欧洲议会议员韦黛琴（Ann Widdecombe）怀疑被谋杀案件的调查。 这名78岁、曾任保守党大臣，后来成为英国改革党（Reform UK）发言人的韦黛琴，于上星期四（7月9日）早上被发现陈尸于德文郡住所内，身上有严重伤势。 警方上星期六（11日）晚表示，他们已在南约克郡罗瑟勒姆（Rotherham, South Yorkshire…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cy472d80ewwo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -196,17 +240,6 @@ const jsonData = [
     "author": "",
     "description": "Thai News Pix/LightRocket via Getty Images 泰国独立乐队“托萨甘”（Thotsakan）星期日（7月12日）在曼谷一家挤满顾客的酒吧演出时，坐在台下的乐队经理“冰块”阿提帕（Athipat \"Ice\" Wijarn）看见键琴手身后冒出浓烟。 键琴手 Kwang 大喊要大家逃生——数秒之内，猛烈火势席卷了位于曼谷繁华乍都乍区（Chatuchak；恰图恰／翟道翟）的 Rong Beer Na Lat…",
     "content": "Thai News Pix/LightRocket via Getty Images 泰国独立乐队“托萨甘”（Thotsakan）星期日（7月12日）在曼谷一家挤满顾客的酒吧演出时，坐在台下的乐队经理“冰块”阿提帕（Athipat \"Ice\" Wijarn）看见键琴手身后冒出浓烟。 键琴手 Kwang 大喊要大家逃生——数秒之内，猛烈火势席卷了位于曼谷繁华乍都乍区（Chatuchak；恰图恰／翟道翟）的 Rong Beer Na Lat Phrao。 Ice 忆述自己在被浓烟吞噬的空间中试图逃生时，慌乱地摸索门的位…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cy9r72jej2wo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "美參議員葛蘭姆突辭世：主張友台、強硬對華的特朗普盟友",
-    "link": "https://www.bbc.com/zhongwen/articles/cy9r72jej2wo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-07-13 19:23:37",
-    "author": "",
-    "description": "Reuters / 美参议员葛兰姆突辞世：主张友台、强硬对华的特朗普盟友 美国共和党籍南卡罗来纳州联邦参议员葛兰姆（Lindsey Graham）于美国时间7月11日晚因心脏疾病辞世，享寿71岁。 葛兰姆自2003年起出任参议员，原定于今年11月中期选举角逐第5个任期，是共和党内部国防与国际事务的重要意见领袖，也是现任总统特朗普的紧密政治盟友。他在生前高度关注国际外交，立场向来强硬，除了支持以色列、对伊朗持鹰派态度外，也长年就中国与台湾…",
-    "content": "Reuters / 美参议员葛兰姆突辞世：主张友台、强硬对华的特朗普盟友 美国共和党籍南卡罗来纳州联邦参议员葛兰姆（Lindsey Graham）于美国时间7月11日晚因心脏疾病辞世，享寿71岁。 葛兰姆自2003年起出任参议员，原定于今年11月中期选举角逐第5个任期，是共和党内部国防与国际事务的重要意见领袖，也是现任总统特朗普的紧密政治盟友。他在生前高度关注国际外交，立场向来强硬，除了支持以色列、对伊朗持鹰派态度外，也长年就中国与台湾的局势发声。 在去世前一天，葛兰姆才刚结束访问乌克兰首都基辅的行程，在出访前并无…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/ced4qe4263po/simp?at_medium=RSS&at_campaign=rss",
@@ -693,28 +726,6 @@ const jsonData = [
     "content": "Getty Images / 台湾近日预告修法将部分事后避孕药纳入追溯、追踪管理，引发外界忧心女性取得紧急避孕资源门槛恐因此升高。 对台北人谢女士而言，服用事后避孕药的过程，就像一场倒数计时。 她今年34岁，曾使用事后避孕药超过五次。她对BBC中文回忆说，若在未使用保险套的性行为后，当下便开始紧张会否意外怀孕，半夜计算时间、思考药局何时开门，担心能否在24小时的“黄金时效”内取得药物。 “药师会问一些基本问题，我就迅速回答，一拿到药便在路边角落赶快服用。” 事后避孕药越早服用效果越好，普遍原理是透过高剂量荷尔蒙抑制…"
   },
   {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c8d2060dj7mo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "德國華人性侵案：拆解性暴力案件的犯罪心理",
-    "link": "https://www.bbc.com/zhongwen/articles/c8d2060dj7mo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-07-09 08:04:28",
-    "author": "",
-    "description": "BBC 警告：此报导包含性侵犯的描述，可能会让部分读者感到不适。 在德国，一个主要由中国籍男性组成的Telegram群组，将“下药性侵”视为教程，互相交流手法并拍摄影片传播，最终演变成一场震惊社会的大规模性暴力案件。 这并非孤立事件，近年大规模迷奸案件在全球多地屡屡发生，以迷奸、性侵伴侣、偷拍为主题的网站和网上群组不断涌现。 有学者向BBC中文表示，这些男性犯案者在群体之间的交流与分享，会造成一种“学习效应”，也会导致一些人将迷奸的“幻…",
-    "content": "BBC 警告：此报导包含性侵犯的描述，可能会让部分读者感到不适。 在德国，一个主要由中国籍男性组成的Telegram群组，将“下药性侵”视为教程，互相交流手法并拍摄影片传播，最终演变成一场震惊社会的大规模性暴力案件。 这并非孤立事件，近年大规模迷奸案件在全球多地屡屡发生，以迷奸、性侵伴侣、偷拍为主题的网站和网上群组不断涌现。 有学者向BBC中文表示，这些男性犯案者在群体之间的交流与分享，会造成一种“学习效应”，也会导致一些人将迷奸的“幻想”转化成实际的犯罪行为。 而在法律上，由于迷奸案件取证困难，加上受害者因药物而…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c9w208vvdg9o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "沒苦硬吃？「我們十年來天天自己帶飯，40歲就退休了」",
-    "link": "https://www.bbc.com/zhongwen/articles/c9w208vvdg9o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-07-08 17:06:30",
-    "author": "",
-    "description": "Alan Donegan / 凯蒂和艾伦·多尼根在他40岁、她35岁时便成功退休。 每逢冬天，艾伦·多尼根（Alan Donegan）和凯蒂·多尼根（Katie Donegan）都会避免在英格兰南部的家中开暖气。 艾伦说：“相反，我们会多穿几层衣服、使用热水袋——我们把这件事变成了一种游戏。这不是受苦，而是一种策略。” 这对夫妇承认，其他人认为他们如此强调不花钱有些“极端”甚至“疯狂”，但艾伦解释说，他们当时是“把焦点高度集中在购买自由…",
-    "content": "Alan Donegan / 凯蒂和艾伦·多尼根在他40岁、她35岁时便成功退休。 每逢冬天，艾伦·多尼根（Alan Donegan）和凯蒂·多尼根（Katie Donegan）都会避免在英格兰南部的家中开暖气。 艾伦说：“相反，我们会多穿几层衣服、使用热水袋——我们把这件事变成了一种游戏。这不是受苦，而是一种策略。” 这对夫妇承认，其他人认为他们如此强调不花钱有些“极端”甚至“疯狂”，但艾伦解释说，他们当时是“把焦点高度集中在购买自由之上”。 他所说的“自由”，指的是提早退休。多尼根夫妇于七年前达成这个目标，当时…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cg744yp35pgo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -779,17 +790,6 @@ const jsonData = [
     "author": "",
     "description": "Reuters 由美国、加拿大和墨西哥共同主办的2026年国际足联（FIFA）世界杯决赛周将于6月11日至7月19日举行，你可以在这里查阅赛事安排、跟踪比赛结果。 点击浏览BBC中文2026年FIFA世界杯专页 點擊放大 FIFA 世界盃 2026 小組賽 淘汰賽 南非 0 - 加拿大 - 巴西 2 - 日本 - 德國 1 - 巴拉圭 - 荷蘭 1 - 摩洛哥 - 科特迪瓦 1 - 挪威 - 法國 3 - 瑞典 - 墨西哥 2 - 厄瓜…",
     "content": "Reuters 由美国、加拿大和墨西哥共同主办的2026年国际足联（FIFA）世界杯决赛周将于6月11日至7月19日举行，你可以在这里查阅赛事安排、跟踪比赛结果。 点击浏览BBC中文2026年FIFA世界杯专页 點擊放大 FIFA 世界盃 2026 小組賽 淘汰賽 淘汰賽 32強淘汰賽 6月28日，20:00（GMT+1） 南非 0 - 1 加拿大 (互射12碼) NaN - NaN (互射12碼) (洛杉磯體育場) 6月29日，18:00（GMT+1） 巴西 2 - 1 日本 (互射12碼) NaN - NaN …"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cp9lzne9159o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "台積電財務長黃仁昭BBC專訪：經營成本上升，晶片不排除加價",
-    "link": "https://www.bbc.com/zhongwen/articles/cp9lzne9159o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-06-10 07:05:02",
-    "author": "",
-    "description": "BBC / BBC记者在台积电位于台湾的总部，进行了罕有的专访。 全球最大晶片制造商台积电（TSMC）告诉BBC，通胀正推高经营成本，该公司不排除加价。 台积电生产由英伟达（Nvidia，辉达）、AMD和苹果（Apple）等公司设计的最先进晶片，因此任何价格上调，都可能波及人工智能基础设施的成本，并可能随着时间推移影响消费者购买电子设备的价格。 不过，该公司财务长黄仁昭表示，台积电不会突然涨价“四、五倍”。他说：“我们反映的是我们的价值…",
-    "content": "BBC / BBC记者在台积电位于台湾的总部，进行了罕有的专访。 全球最大晶片制造商台积电（TSMC）告诉BBC，通胀正推高经营成本，该公司不排除加价。 台积电生产由英伟达（Nvidia，辉达）、AMD和苹果（Apple）等公司设计的最先进晶片，因此任何价格上调，都可能波及人工智能基础设施的成本，并可能随着时间推移影响消费者购买电子设备的价格。 不过，该公司财务长黄仁昭表示，台积电不会突然涨价“四、五倍”。他说：“我们反映的是我们的价值。”他并提到公司的“领先的技术”和“卓越的生产”。 在一场独家、范围广泛的访问中…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cx21r3d9y1yo/simp?at_medium=RSS&at_campaign=rss",
