@@ -1,5 +1,38 @@
 const jsonData = [
   {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cwyq99q84vyo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "世界盃決賽三大看點：阿根廷與西班牙「跨世代對決」",
+    "link": "https://www.bbc.com/zhongwen/articles/cwyq99q84vyo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-07-18 13:27:00",
+    "author": "",
+    "description": "Getty Images / 世界杯决赛有哪三大看点？ 世界杯决赛即将登场，阿根廷和西班牙将争夺冠军，除了大力神杯，两队还将角逐史上最高奖金5000万美元（约16.17亿台币）。这次决赛究竟有哪些看点？为何被许多人形容为“跨世代对决”？",
+    "content": "Getty Images / 世界杯决赛有哪三大看点？ 世界杯决赛即将登场，阿根廷和西班牙将争夺冠军，除了大力神杯，两队还将角逐史上最高奖金5000万美元（约16.17亿台币）。这次决赛究竟有哪些看点？为何被许多人形容为“跨世代对决”？"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/ckgvwk50z6vo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "月經週期追蹤App暗藏了什麼隱私漏洞？",
+    "link": "https://www.bbc.com/zhongwen/articles/ckgvwk50z6vo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-07-18 12:53:42",
+    "author": "",
+    "description": "BBC/ Serenity Strull/ Getty Images 不少女性会使用手机应用程式，记录自己的月经周期，但这样会泄漏隐私吗？科技公司手握着大量女性的数据，会用来做什么？ Firefox网页浏览器的开发机构Mozilla基金会，独家与BBC分享了一份最新报告，调查六款热门经期追踪应用程式的隐私保护做法。 六款应用程式包括：Flo、Clue、Stardust、Spot On、Period Calendar及Euki。 报告显示…",
+    "content": "BBC/ Serenity Strull/ Getty Images 不少女性会使用手机应用程式，记录自己的月经周期，但这样会泄漏隐私吗？科技公司手握着大量女性的数据，会用来做什么？ Firefox网页浏览器的开发机构Mozilla基金会，独家与BBC分享了一份最新报告，调查六款热门经期追踪应用程式的隐私保护做法。 六款应用程式包括：Flo、Clue、Stardust、Spot On、Period Calendar及Euki。 报告显示，Euki有最完善的隐私保障措施，另一些应用程式则以可能令用户感到不安的方式处理…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c9w0jqyqngdo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "梅西、馬拉多納、貝利——誰才是真正的足球史上最強？",
+    "link": "https://www.bbc.com/zhongwen/articles/c9w0jqyqngdo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-07-18 12:31:32",
+    "author": "",
+    "description": "Getty Images / 39岁的梅西仍是阿根廷在2026年世界杯的核心球员。 当利昂内尔·梅西（Lionel Messi，美斯）准备迎来职业生涯第三次世界杯决赛时，一个历久不衰的问题再次浮现：这位阿根廷球星是否已成为足球史上最伟大的球员？他是否已超越同胞迭戈·马拉多纳（Diego Maradona，马勒当拿／马拉度纳），以及巴西传奇贝利（Pelé，比利）？ 39岁的梅西，依然是阿根廷在2026年世界杯阵中的核心人物。 分析人士指出…",
+    "content": "Getty Images / 39岁的梅西仍是阿根廷在2026年世界杯的核心球员。 当利昂内尔·梅西（Lionel Messi，美斯）准备迎来职业生涯第三次世界杯决赛时，一个历久不衰的问题再次浮现：这位阿根廷球星是否已成为足球史上最伟大的球员？他是否已超越同胞迭戈·马拉多纳（Diego Maradona，马勒当拿／马拉度纳），以及巴西传奇贝利（Pelé，比利）？ 39岁的梅西，依然是阿根廷在2026年世界杯阵中的核心人物。 分析人士指出，虽然他已不再像年轻时那样拥有惊人的爆发力，但仍凭藉卓越的视野、跑位和决策能力左…"
+  },
+  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c802k9v735no/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -130,28 +163,6 @@ const jsonData = [
     "author": "",
     "description": "EPA / 特朗普在电视直播演说中对中国的指控与美国情报界之前的结论之间存在矛盾。 美国总统唐纳德·特朗普（Donald Trump；川普）发表电视黄金时段演说，指责中国干预2020年选举，并声称美国投票系统存在“令人震惊的漏洞”。 特朗普星期四（7月16日）在白宫发表讲话。他曾多次就自己在2020年败给乔·拜登（Joe Biden）的选举，提出有关选民欺诈和外国干预的未经证实指控。 在这场于中期选举前三个月发表、长达半小时的演说中，他…",
     "content": "EPA / 特朗普在电视直播演说中对中国的指控与美国情报界之前的结论之间存在矛盾。 美国总统唐纳德·特朗普（Donald Trump；川普）发表电视黄金时段演说，指责中国干预2020年选举，并声称美国投票系统存在“令人震惊的漏洞”。 特朗普星期四（7月16日）在白宫发表讲话。他曾多次就自己在2020年败给乔·拜登（Joe Biden）的选举，提出有关选民欺诈和外国干预的未经证实指控。 在这场于中期选举前三个月发表、长达半小时的演说中，他表示自己已解密数百份情报文件，声称这些文件支持其有关北京曾试图影响选举、使结果有…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c3d392peye9o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "涉以特朗普演說內幕下注，白宮讀稿機操作員獲利10萬元被查",
-    "link": "https://www.bbc.com/zhongwen/articles/c3d392peye9o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-07-17 04:55:58",
-    "author": "",
-    "description": "Getty Images / 白宫读稿机操作员加布里埃尔·佩雷斯于6月在华盛顿希尔顿酒店举行的“2026年信仰与自由联盟政策大会”上，在美国总统特朗普发表演说前设置读稿机。 一名白宫读稿机操作员涉嫌利用内幕资讯，就美国总统特朗普（Donald Trump）的演说内容下注，并获利近10万美元，目前正接受调查。 加布里埃尔·佩雷斯（Gabriel Perez）自2016年起在白宫工作，被指曾就特朗普在多场重要公开演说中会使用哪些词语下注，包…",
-    "content": "Getty Images / 白宫读稿机操作员加布里埃尔·佩雷斯于6月在华盛顿希尔顿酒店举行的“2026年信仰与自由联盟政策大会”上，在美国总统特朗普发表演说前设置读稿机。 一名白宫读稿机操作员涉嫌利用内幕资讯，就美国总统特朗普（Donald Trump）的演说内容下注，并获利近10万美元，目前正接受调查。 加布里埃尔·佩雷斯（Gabriel Perez）自2016年起在白宫工作，被指曾就特朗普在多场重要公开演说中会使用哪些词语下注，包括国情咨文演说。 有关交易是在预测市场平台Kalshi进行，用户可就现实世界事件…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cpq8jd9dwr2o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "皮尤研究：全球更多國家對中國好感勝過美國，逾20年以來首次",
-    "link": "https://www.bbc.com/zhongwen/articles/cpq8jd9dwr2o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-07-16 20:50:35",
-    "author": "",
-    "description": "Getty Images / 调查显示，许多人认为，中国比美国较少干涉其他国家事务。 美国智库皮尤研究中心（Pew Research Center）最新发表的研究显示，全球愈来愈多国家的国民对中国的观感比美国更正面，这也是该机构首次录得这样的结果。 由美国这所无党派智库进行的研究指出，多国民众对中国的好感度升至历来新高，而对美国的观感则有所恶化。 整体而言，受访者对美国总统特朗普（Donald Trump；川普）及中国国家主席习近平都缺…",
-    "content": "Getty Images / 调查显示，许多人认为，中国比美国较少干涉其他国家事务。 美国智库皮尤研究中心（Pew Research Center）最新发表的研究显示，全球愈来愈多国家的国民对中国的观感比美国更正面，这也是该机构首次录得这样的结果。 由美国这所无党派智库进行的研究指出，多国民众对中国的好感度升至历来新高，而对美国的观感则有所恶化。 整体而言，受访者对美国总统特朗普（Donald Trump；川普）及中国国家主席习近平都缺乏信心，但习近平的评分仍高于特朗普。 虽然受访者普遍仍认为，美国比中国更尊重个人…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cy8m491zr85o/simp?at_medium=RSS&at_campaign=rss",
@@ -702,17 +713,6 @@ const jsonData = [
     "author": "",
     "description": "NEIL MACFARQUHAR2026年7月10日周三在霍尔木兹海峡航行的船只。上周末的交通量约为战前水平（每日100多艘船只）的三分之一，水道的伊朗侧和阿曼侧占比相当。 Reuters Iran, fearing that its hold over the crucial Strait of Hormuz shipping lanes was gradually slipping away, risked overplaying …",
     "content": "NEIL MACFARQUHAR 2026年7月10日 周三在霍尔木兹海峡航行的船只。上周末的交通量约为战前水平（每日100多艘船只）的三分之一，水道的伊朗侧和阿曼侧占比相当。 Reuters Iran, fearing that its hold over the crucial Strait of Hormuz shipping lanes was gradually slipping away, risked overplaying its hand by again firing on oil tanker…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/ckg8x01k1j9o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "什麼是VAR？為何在世界盃具有爭議性？",
-    "link": "https://www.bbc.com/zhongwen/articles/ckg8x01k1j9o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-07-10 09:07:42",
-    "author": "",
-    "description": "Reuters VAR（视像助理裁判）在国际足协（FIFA）2026年男子世界杯一直备受争议，但7月7日阿根廷在16强赛戏剧性击败埃及后，相关争论进一步升温。 埃及在比赛剩余11分钟时仍以2:0领先，但最终被利昂内尔·梅西（Lionel Messi，美斯）领军的阿根廷连入3球反胜。 埃及赛后强烈不满，一方面因一个入球被判无效，另一方面则因补时阶段一次十二码（点球）申诉未获VAR介入。 埃及总教练霍萨姆·哈桑（Hossam Hassan）…",
-    "content": "Reuters VAR（视像助理裁判）在国际足协（FIFA）2026年男子世界杯一直备受争议，但7月7日阿根廷在16强赛戏剧性击败埃及后，相关争论进一步升温。 埃及在比赛剩余11分钟时仍以2:0领先，但最终被利昂内尔·梅西（Lionel Messi，美斯）领军的阿根廷连入3球反胜。 埃及赛后强烈不满，一方面因一个入球被判无效，另一方面则因补时阶段一次十二码（点球）申诉未获VAR介入。 埃及总教练霍萨姆·哈桑（Hossam Hassan）赛后表示：“也许他们想让世界冠军继续留在赛事中，也许他们想让美斯继续争冠。” 埃…"
   },
   {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20260710/china-fire-shoe-factory/dual",
