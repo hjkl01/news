@@ -7,8 +7,8 @@ const jsonData = [
     "link": "https://www.bbc.com/zhongwen/articles/cwyq99q84vyo/simp?at_medium=RSS&at_campaign=rss",
     "pub_date": "2026-07-18 13:27:00",
     "author": "",
-    "description": "Getty Images / 世界杯决赛有哪三大看点？ 世界杯决赛即将登场，阿根廷和西班牙将争夺冠军，除了大力神杯，两队还将角逐史上最高奖金5000万美元（约16.17亿台币）。这次决赛究竟有哪些看点？为何被许多人形容为“跨世代对决”？",
-    "content": "Getty Images / 世界杯决赛有哪三大看点？ 世界杯决赛即将登场，阿根廷和西班牙将争夺冠军，除了大力神杯，两队还将角逐史上最高奖金5000万美元（约16.17亿台币）。这次决赛究竟有哪些看点？为何被许多人形容为“跨世代对决”？"
+    "description": "Getty Images / 世界杯决赛有哪三大看点？ 世界杯决赛即将登场，阿根廷和西班牙将争夺冠军，除了大力神杯，两队还将角逐史上最高奖金5000万美元。这次决赛究竟有哪些看点？为何被许多人形容为“跨世代对决”？",
+    "content": "Getty Images / 世界杯决赛有哪三大看点？ 世界杯决赛即将登场，阿根廷和西班牙将争夺冠军，除了大力神杯，两队还将角逐史上最高奖金5000万美元。这次决赛究竟有哪些看点？为何被许多人形容为“跨世代对决”？"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/ckgvwk50z6vo/simp?at_medium=RSS&at_campaign=rss",
