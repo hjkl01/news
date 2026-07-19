@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-07-18T23:47:10.644Z",
-  "ended_at": "2026-07-18T23:47:10.980Z",
-  "duration_ms": 336,
+  "started_at": "2026-07-19T08:01:46.428Z",
+  "ended_at": "2026-07-19T08:01:46.612Z",
+  "duration_ms": 184,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -17,12 +17,12 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 47,
-    "failed_sources": 12,
-    "circuit_open_sources": 12,
+    "cache_hit_sources": 45,
+    "failed_sources": 14,
+    "circuit_open_sources": 14,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1374,
-    "total_items_after_retention": 1150,
+    "total_items_after_dedupe": 1333,
+    "total_items_after_retention": 1117,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -55,6 +55,12 @@
       "title": "端传媒 / 深度",
       "url": "https://plink.anyfeeder.com/initium/feature",
       "reason": "HTTP 503",
+      "skippedByCircuit": true
+    },
+    {
+      "title": "github python",
+      "url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+      "reason": "Invalid character in entity name\nLine: 20127\nColumn: 84\nChar: =",
       "skippedByCircuit": true
     },
     {
@@ -94,6 +100,12 @@
       "skippedByCircuit": true
     },
     {
+      "title": "Epic Game",
+      "url": "https://www.epicbundle.com/feed/",
+      "reason": "HTTP 415",
+      "skippedByCircuit": true
+    },
+    {
       "title": "微博 / 热搜榜",
       "url": "https://plink.anyfeeder.com/weibo/search/hot",
       "reason": "HTTP 503",
@@ -127,6 +139,11 @@
       "reason": "HTTP 503"
     },
     {
+      "title": "github python",
+      "url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
+      "reason": "Invalid character in entity name\nLine: 20127\nColumn: 84\nChar: ="
+    },
+    {
       "title": "全球主机交流论坛",
       "url": "https://hostloc.com/forum.php?mod=rss",
       "reason": "HTTP 403"
@@ -155,6 +172,11 @@
       "title": "FreeBuf 关注黑客",
       "url": "https://plink.anyfeeder.com/freebuf",
       "reason": "HTTP 405"
+    },
+    {
+      "title": "Epic Game",
+      "url": "https://www.epicbundle.com/feed/",
+      "reason": "HTTP 415"
     },
     {
       "title": "微博 / 热搜榜",
