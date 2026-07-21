@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-07-20T23:52:13.177Z",
-  "ended_at": "2026-07-20T23:52:13.353Z",
-  "duration_ms": 176,
+  "started_at": "2026-07-21T08:10:38.929Z",
+  "ended_at": "2026-07-21T08:10:39.128Z",
+  "duration_ms": 199,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -17,16 +17,22 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 46,
-    "failed_sources": 13,
-    "circuit_open_sources": 13,
+    "cache_hit_sources": 45,
+    "failed_sources": 14,
+    "circuit_open_sources": 14,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1353,
-    "total_items_after_retention": 1144,
+    "total_items_after_dedupe": 1299,
+    "total_items_after_retention": 1082,
     "build_blocked": false
   },
   "critical_failures": [],
   "failures": [
+    {
+      "title": "求是网",
+      "url": "https://plink.anyfeeder.com/qstheory",
+      "reason": "The operation was aborted.",
+      "skippedByCircuit": true
+    },
     {
       "title": "网易新闻 / 今日关注",
       "url": "https://plink.anyfeeder.com/netease/today",
@@ -60,7 +66,7 @@
     {
       "title": "github python",
       "url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-      "reason": "Invalid character in entity name\nLine: 7505\nColumn: 84\nChar: =",
+      "reason": "Invalid character in entity name\nLine: 6749\nColumn: 84\nChar: =",
       "skippedByCircuit": true
     },
     {
@@ -108,6 +114,11 @@
   ],
   "circuit_open": [
     {
+      "title": "求是网",
+      "url": "https://plink.anyfeeder.com/qstheory",
+      "reason": "The operation was aborted."
+    },
+    {
       "title": "网易新闻 / 今日关注",
       "url": "https://plink.anyfeeder.com/netease/today",
       "reason": "HTTP 503"
@@ -135,7 +146,7 @@
     {
       "title": "github python",
       "url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-      "reason": "Invalid character in entity name\nLine: 7505\nColumn: 84\nChar: ="
+      "reason": "Invalid character in entity name\nLine: 6749\nColumn: 84\nChar: ="
     },
     {
       "title": "全球主机交流论坛",
