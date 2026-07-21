@@ -77,15 +77,26 @@ const jsonData = [
     "content": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. code-review-graph Stop burning tokens. Start revie…"
   },
   {
-    "id": "技术-github all-https://github.com/kvcache-ai/ktransformers",
+    "id": "技术-github all-https://github.com/1jehuang/jcode",
     "feed_name": "github all",
     "category": "技术",
-    "title": "kvcache-ai/ktransformers",
-    "link": "https://github.com/kvcache-ai/ktransformers",
+    "title": "1jehuang/jcode",
+    "link": "https://github.com/1jehuang/jcode",
     "pub_date": "",
     "author": "",
-    "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations A Flexible Framework for Experiencing Cutting-edge LLM Inference/Fine-tune Optimizations 🎯 Overview | 🚀 Inference | 🎓 SFT | 🔥 …",
-    "content": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations A Flexible Framework for Experiencing Cutting-edge LLM Inference/Fine-tune Optimizations 🎯 Overview | 🚀 Inference | 🎓 SFT | 🔥 Citation | 🚀 Roadmap(2026Q2) 🎯 Overvie…"
+    "description": "The most intelligent agent harness for code jcode The next generation coding agent harness to raise the skill ceiling. Built for multi-session workflows, infinite customizability, and performance. Website · Features · In…",
+    "content": "The most intelligent agent harness for code jcode The next generation coding agent harness to raise the skill ceiling. Built for multi-session workflows, infinite customizability, and performance. Website · Features · Install · Quick Start · Further Reading · …"
+  },
+  {
+    "id": "技术-github all-https://github.com/diegosouzapw/OmniRoute",
+    "feed_name": "github all",
+    "category": "技术",
+    "title": "diegosouzapw/OmniRoute",
+    "link": "https://github.com/diegosouzapw/OmniRoute",
+    "pub_date": "",
+    "author": "",
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallbac…",
+    "content": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% …"
   },
   {
     "id": "技术-github all-https://github.com/rohitg00/ai-engineering-from-scratch",
@@ -99,6 +110,28 @@ const jsonData = [
     "content": "Learn it. Build it. Ship it for others. From the creator of Agent Memory - #1 Persistent memory ⭐ which naturally works with any agents or chat assistants. ░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒ 84% of studen…"
   },
   {
+    "id": "技术-github all-https://github.com/msitarzewski/agency-agents",
+    "feed_name": "github all",
+    "category": "技术",
+    "title": "msitarzewski/agency-agents",
+    "link": "https://github.com/msitarzewski/agency-agents",
+    "pub_date": "",
+    "author": "",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverabl…",
+    "content": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. 🎭 The Agency: AI Specialists Ready …"
+  },
+  {
+    "id": "技术-github all-https://github.com/kvcache-ai/ktransformers",
+    "feed_name": "github all",
+    "category": "技术",
+    "title": "kvcache-ai/ktransformers",
+    "link": "https://github.com/kvcache-ai/ktransformers",
+    "pub_date": "",
+    "author": "",
+    "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations A Flexible Framework for Experiencing Cutting-edge LLM Inference/Fine-tune Optimizations 🎯 Overview | 🚀 Inference | 🎓 SFT | 🔥 …",
+    "content": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations A Flexible Framework for Experiencing Cutting-edge LLM Inference/Fine-tune Optimizations 🎯 Overview | 🚀 Inference | 🎓 SFT | 🔥 Citation | 🚀 Roadmap(2026Q2) 🎯 Overvie…"
+  },
+  {
     "id": "技术-github all-https://github.com/jamiepine/voicebox",
     "feed_name": "github all",
     "category": "技术",
@@ -110,92 +143,37 @@ const jsonData = [
     "content": "The open-source AI voice studio. Clone, dictate, create. Voicebox The open-source AI voice studio. Clone any voice. Generate speech. Dictate into any app. Talk to agents in voices you own. The full voice I/O stack, running locally on your machine. voicebox.sh …"
   },
   {
-    "id": "技术-github all-https://github.com/KnockOutEZ/wigolo",
+    "id": "技术-github all-https://github.com/topoteretes/cognee",
     "feed_name": "github all",
     "category": "技术",
-    "title": "KnockOutEZ/wigolo",
-    "link": "https://github.com/KnockOutEZ/wigolo",
+    "title": "topoteretes/cognee",
+    "link": "https://github.com/topoteretes/cognee",
     "pub_date": "",
     "author": "",
-    "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta. Local-first web intelligence for AI agents — no keys, no cloud, no metered bill…",
-    "content": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta. Local-first web intelligence for AI agents — no keys, no cloud, no metered bill. works with&nbsp;&nbsp; Claude Code · C…"
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine. Cognee - The Open-Source AI Memory Platform for Agents D…",
+    "content": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine. Cognee - The Open-Source AI Memory Platform for Agents Demo . Docs . Learn More · Join Discord ·…"
   },
   {
-    "id": "技术-github all-https://github.com/andrewrabert/jellium-desktop",
+    "id": "技术-github all-https://github.com/Robbyant/lingbot-map",
     "feed_name": "github all",
     "category": "技术",
-    "title": "andrewrabert/jellium-desktop",
-    "link": "https://github.com/andrewrabert/jellium-desktop",
+    "title": "Robbyant/lingbot-map",
+    "link": "https://github.com/Robbyant/lingbot-map",
     "pub_date": "",
     "author": "",
-    "description": "An unofficial desktop client for Jellyfin Jellium Desktop An unofficial Jellyfin desktop client built on CEF and mpv. Downloads Linux AppImage x86_64 aarch64 Arch Linux (AUR): jellium-desktop-git Flatpak (non-Flathub bun…",
-    "content": "An unofficial desktop client for Jellyfin Jellium Desktop An unofficial Jellyfin desktop client built on CEF and mpv . Downloads Linux AppImage x86_64 aarch64 Arch Linux (AUR): jellium-desktop-git Flatpak (non-Flathub bundle) macOS Apple Silicon Intel After in…"
+    "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction Robbyant Team https://github.com/user-attachments/assets/fe39e09…",
+    "content": "A feed-forward 3D foundation model for reconstructing scenes from streaming data LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction Robbyant Team https://github.com/user-attachments/assets/fe39e095-af2c-4ec9-b68d-a8ba97e505ab 🗺️ Meet L…"
   },
   {
-    "id": "技术-github all-https://github.com/github/copilot-sdk",
+    "id": "技术-github all-https://github.com/every-app/open-seo",
     "feed_name": "github all",
     "category": "技术",
-    "title": "github/copilot-sdk",
-    "link": "https://github.com/github/copilot-sdk",
+    "title": "every-app/open-seo",
+    "link": "https://github.com/every-app/open-seo",
     "pub_date": "",
     "author": "",
-    "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services GitHub Copilot CLI SDKs Agents for every app. Embed Copilot's agentic workflows in your application with the GitHub Copilot SDK for Python, T…",
-    "content": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services GitHub Copilot CLI SDKs Agents for every app. Embed Copilot's agentic workflows in your application with the GitHub Copilot SDK for Python, TypeScript, Go, .NET, Java, and Rust. The…"
-  },
-  {
-    "id": "技术-github all-https://github.com/PostHog/posthog",
-    "feed_name": "github all",
-    "category": "技术",
-    "title": "PostHog/posthog",
-    "link": "https://github.com/PostHog/posthog",
-    "pub_date": "",
-    "author": "",
-    "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agent…",
-    "content": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opp…"
-  },
-  {
-    "id": "技术-github all-https://github.com/microsoft/terminal",
-    "feed_name": "github all",
-    "category": "技术",
-    "title": "microsoft/terminal",
-    "link": "https://github.com/microsoft/terminal",
-    "pub_date": "",
-    "author": "",
-    "description": "The new Windows Terminal and the original Windows console host, all in the same place! Welcome to the Windows Terminal, Console and Command-Line repo Table of Contents Installing and running Windows Terminal Microsoft St…",
-    "content": "The new Windows Terminal and the original Windows console host, all in the same place! Welcome to the Windows Terminal, Console and Command-Line repo Table of Contents Installing and running Windows Terminal Microsoft Store [Recommended] Other install methods …"
-  },
-  {
-    "id": "技术-github all-https://github.com/AstrBotDevs/AstrBot",
-    "feed_name": "github all",
-    "category": "技术",
-    "title": "AstrBotDevs/AstrBot",
-    "link": "https://github.com/AstrBotDevs/AstrBot",
-    "pub_date": "",
-    "author": "",
-    "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ 简体中文 ｜ 繁體中文 ｜ 日本語 ｜ Français ｜ Español ｜ Русский Documentation ｜ Blog…",
-    "content": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ 简体中文 ｜ 繁體中文 ｜ 日本語 ｜ Français ｜ Español ｜ Русский Documentation ｜ Blog ｜ Roadmap ｜ Issue Tracker ｜ Email Suppo…"
-  },
-  {
-    "id": "技术-github all-https://github.com/1jehuang/jcode",
-    "feed_name": "github all",
-    "category": "技术",
-    "title": "1jehuang/jcode",
-    "link": "https://github.com/1jehuang/jcode",
-    "pub_date": "",
-    "author": "",
-    "description": "Coding Agent Harness jcode The next generation coding agent harness to raise the skill ceiling. Built for multi-session workflows, infinite customizability, and performance. Website · Features · Install · Quick Start · F…",
-    "content": "Coding Agent Harness jcode The next generation coding agent harness to raise the skill ceiling. Built for multi-session workflows, infinite customizability, and performance. Website · Features · Install · Quick Start · Further Reading · Contributing Installati…"
-  },
-  {
-    "id": "技术-github all-https://github.com/trycua/cua",
-    "feed_name": "github all",
-    "category": "技术",
-    "title": "trycua/cua",
-    "link": "https://github.com/trycua/cua",
-    "pub_date": "",
-    "author": "",
-    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for trainin…",
-    "content": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. Choo…"
+    "description": "Open source alternative to Semrush and Ahrefs OpenSEO Open source alternative to Semrush and Ahrefs OpenSEO is an SEO tool for the people. If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay-as…",
+    "content": "Open source alternative to Semrush and Ahrefs OpenSEO Open source alternative to Semrush and Ahrefs OpenSEO is an SEO tool for the people . If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay-as-you-go alternative that you actually c…"
   },
   {
     "id": "技术-github all-https://github.com/MoonshotAI/kimi-cli",
@@ -209,70 +187,103 @@ const jsonData = [
     "content": "Kimi Code CLI is your next CLI agent. Kimi CLI Kimi Code | Documentation | 文档 Important Kimi CLI is evolving into Kimi Code CLI — the next-generation terminal AI agent from the same team. Installing Kimi Code CLI automatically migrates your configuration and s…"
   },
   {
-    "id": "技术-github all-https://github.com/Flowseal/zapret-discord-youtube",
+    "id": "技术-github all-https://github.com/AstrBotDevs/AstrBot",
     "feed_name": "github all",
     "category": "技术",
-    "title": "Flowseal/zapret-discord-youtube",
-    "link": "https://github.com/Flowseal/zapret-discord-youtube",
+    "title": "AstrBotDevs/AstrBot",
+    "link": "https://github.com/AstrBotDevs/AstrBot",
     "pub_date": "",
     "author": "",
-    "description": "Flowseal/zapret-discord-youtube NEW: Ускорение Telegram Desktop - https://github.com/Flowseal/tg-ws-proxy Альтернатива https://github.com/bol-van/zapret-win-bundle Также вы можете материально поддержать оригинального раз…",
-    "content": "Flowseal /zapret-discord-youtube NEW : Ускорение Telegram Desktop - https://github.com/Flowseal/tg-ws-proxy Альтернатива https://github.com/bol-van/zapret-win-bundle Также вы можете материально поддержать оригинального разработчика zapret тут Caution ФЕЙКИ Я н…"
+    "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ 简体中文 ｜ 繁體中文 ｜ 日本語 ｜ Français ｜ Español ｜ Русский Documentation ｜ Blog…",
+    "content": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ 简体中文 ｜ 繁體中文 ｜ 日本語 ｜ Français ｜ Español ｜ Русский Documentation ｜ Blog ｜ Roadmap ｜ Issue Tracker ｜ Email Suppo…"
   },
   {
-    "id": "技术-github all-https://github.com/codecrafters-io/build-your-own-x",
+    "id": "技术-github all-https://github.com/PrefectHQ/fastmcp",
     "feed_name": "github all",
     "category": "技术",
-    "title": "codecrafters-io/build-your-own-x",
-    "link": "https://github.com/codecrafters-io/build-your-own-x",
+    "title": "PrefectHQ/fastmcp",
+    "link": "https://github.com/PrefectHQ/fastmcp",
     "pub_date": "",
     "author": "",
-    "description": "Master programming by recreating your favorite technologies from scratch. Build your own This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. What …",
-    "content": "Master programming by recreating your favorite technologies from scratch. Build your own &lt;insert-technology-here&gt; This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. What I cannot …"
+    "description": "🚀 The fast, Pythonic way to build MCP servers and clients. FastMCP 🚀 Move fast and make things. Made with 💙 by Prefect The Model Context Protocol (MCP) connects LLMs to tools and data. FastMCP gives you everything you…",
+    "content": "🚀 The fast, Pythonic way to build MCP servers and clients. FastMCP 🚀 Move fast and make things. Made with 💙 by Prefect The Model Context Protocol (MCP) connects LLMs to tools and data. FastMCP gives you everything you need to go from prototype to production…"
   },
   {
-    "id": "技术-github all-https://github.com/lyogavin/airllm",
+    "id": "技术-github all-https://github.com/KnockOutEZ/wigolo",
     "feed_name": "github all",
     "category": "技术",
-    "title": "lyogavin/airllm",
-    "link": "https://github.com/lyogavin/airllm",
+    "title": "KnockOutEZ/wigolo",
+    "link": "https://github.com/KnockOutEZ/wigolo",
     "pub_date": "",
     "author": "",
-    "description": "AirLLM 70B inference with single 4GB GPU Quickstart | Configurations | MacOS | Example notebooks | FAQ AirLLM dramatically reduces inference memory usage, letting 70B large language models run on a single 4GB GPU card — …",
-    "content": "AirLLM 70B inference with single 4GB GPU Quickstart | Configurations | MacOS | Example notebooks | FAQ AirLLM dramatically reduces inference memory usage, letting 70B large language models run on a single 4GB GPU card — without quantization, distillation, or p…"
+    "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta. Local-first web intelligence for AI agents — no keys, no cloud, no metered bill…",
+    "content": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta. Local-first web intelligence for AI agents — no keys, no cloud, no metered bill. works with&nbsp;&nbsp; Claude Code · C…"
   },
   {
-    "id": "技术-github all-https://github.com/Canner/WrenAI",
+    "id": "技术-github all-https://github.com/tokio-rs/topcoat",
     "feed_name": "github all",
     "category": "技术",
-    "title": "Canner/WrenAI",
-    "link": "https://github.com/Canner/WrenAI",
+    "title": "tokio-rs/topcoat",
+    "link": "https://github.com/tokio-rs/topcoat",
     "pub_date": "",
     "author": "",
-    "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQ…",
-    "content": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse,…"
+    "description": "A batteries-included framework for building web apps Topcoat The full full-stack framework for Rust Topcoat is a modular, batteries-included Rust framework for building fullstack apps. It prioritizes simplicity and produ…",
+    "content": "A batteries-included framework for building web apps Topcoat The full full-stack framework for Rust Topcoat is a modular, batteries-included Rust framework for building fullstack apps. It prioritizes simplicity and productivity. See Learn Topcoat to get starte…"
   },
   {
-    "id": "技术-github all-https://github.com/PKUFlyingPig/cs-self-learning",
+    "id": "技术-github all-https://github.com/iptv-org/iptv",
     "feed_name": "github all",
     "category": "技术",
-    "title": "PKUFlyingPig/cs-self-learning",
-    "link": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "title": "iptv-org/iptv",
+    "link": "https://github.com/iptv-org/iptv",
     "pub_date": "",
     "author": "",
-    "description": "计算机自学指南 CS 自学指南 Everyone should enjoy CS if you have a good teacher to teach you a good course. 新冠肆虐，网课当道，CS 爆火，这一系列的事件都让自学计算机成为了一种潮流。 随着欧美众多名校将质量极高的计算机课程全部开源，自学 CS 成了一件可操作性极强的事情。毫不夸张地说，只要你有毅力和兴趣，自学的成果完全不亚于你在国内任何一所大学受到的本…",
-    "content": "计算机自学指南 CS 自学指南 Everyone should enjoy CS if you have a good teacher to teach you a good course. 新冠肆虐，网课当道，CS 爆火，这一系列的事件都让自学计算机成为了一种潮流。 随着欧美众多名校将质量极高的计算机课程全部开源，自学 CS 成了一件可操作性极强的事情。毫不夸张地说，只要你有毅力和兴趣，自学的成果完全不亚于你在国内任何一所大学受到的本科 CS 教育（当然，这里单指计算机专业领域，大学带给你的显然不止是专业知识）。…"
+    "description": "Collection of publicly available IPTV channels from all over the world IPTV Collection of publicly available IPTV (Internet Protocol television) channels from all over the world. Table of contents 🚀 How to use? 📺 Playl…",
+    "content": "Collection of publicly available IPTV channels from all over the world IPTV Collection of publicly available IPTV (Internet Protocol television) channels from all over the world. Table of contents 🚀 How to use? 📺 Playlists 🗓 EPG 🗄 Database 👨‍💻 API 📚 Res…"
   },
   {
-    "id": "技术-github go-https://github.com/Wei-Shaw/sub2api",
-    "feed_name": "github go",
+    "id": "技术-github all-https://github.com/oblien/openship",
+    "feed_name": "github all",
     "category": "技术",
-    "title": "Wei-Shaw/sub2api",
-    "link": "https://github.com/Wei-Shaw/sub2api",
+    "title": "oblien/openship",
+    "link": "https://github.com/oblien/openship",
     "pub_date": "",
     "author": "",
-    "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 Sub2API AI API Gateway Platform for Subscription Quota Distribution English | 中文 | 日本語 ⚠️ Important Notice Please read the following carefully…",
-    "content": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 Sub2API AI API Gateway Platform for Subscription Quota Distribution English | 中文 | 日本語 ⚠️ Important Notice Please read the following carefully before using this project: 🚨 Terms of …"
+    "description": "Self-hosted deployment platform Openship Open-source, self-hostable deployment platform with built-in CI/CD. Push code, ship containers, manage infrastructure — from a desktop app, web dashboard, or CLI. Quick Start · Fe…",
+    "content": "Self-hosted deployment platform Openship Open-source, self-hostable deployment platform with built-in CI/CD. Push code, ship containers, manage infrastructure — from a desktop app, web dashboard, or CLI. Quick Start · Features · Interfaces · Docs · Contributin…"
+  },
+  {
+    "id": "技术-github all-https://github.com/microsoft/Ontology-Playground",
+    "feed_name": "github all",
+    "category": "技术",
+    "title": "microsoft/Ontology-Playground",
+    "link": "https://github.com/microsoft/Ontology-Playground",
+    "pub_date": "",
+    "author": "",
+    "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, ful…",
+    "content": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static. Ontology Playground (Preview)…"
+  },
+  {
+    "id": "技术-github all-https://github.com/handy-computer/transcribe.cpp",
+    "feed_name": "github all",
+    "category": "技术",
+    "title": "handy-computer/transcribe.cpp",
+    "link": "https://github.com/handy-computer/transcribe.cpp",
+    "pub_date": "",
+    "author": "",
+    "description": "ggml speech-to-text inference for 16+ model families transcribe.cpp C/C++ speech-to-text inference library. Runs diverse STT model families via GGUF models on the ggml runtime, with Metal, Vulkan, and CUDA backends for f…",
+    "content": "ggml speech-to-text inference for 16+ model families transcribe.cpp C/C++ speech-to-text inference library. Runs diverse STT model families via GGUF models on the ggml runtime, with Metal, Vulkan, and CUDA backends for fast GPU inference plus a tinyBLAS-accele…"
+  },
+  {
+    "id": "技术-github all-https://github.com/moonshine-ai/moonshine",
+    "feed_name": "github all",
+    "category": "技术",
+    "title": "moonshine-ai/moonshine",
+    "link": "https://github.com/moonshine-ai/moonshine",
+    "pub_date": "",
+    "author": "",
+    "description": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces Moonshine Voice Voice Interfaces for Everyone Quickstart When should you choose Moonshine over Whisper? Us…",
+    "content": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces Moonshine Voice Voice Interfaces for Everyone Quickstart When should you choose Moonshine over Whisper? Using the Library Speech to Text Text to S…"
   },
   {
     "id": "技术-github go-https://github.com/pocketbase/pocketbase",
@@ -286,26 +297,15 @@ const jsonData = [
     "content": "Open Source realtime backend in 1 file PocketBase is an open source Go backend that includes: embedded database ( SQLite ) with realtime subscriptions built-in files and users management convenient Admin dashboard UI and simple REST-ish API For documentation a…"
   },
   {
-    "id": "技术-github go-https://github.com/chenyme/grok2api",
+    "id": "技术-github go-https://github.com/Wei-Shaw/sub2api",
     "feed_name": "github go",
     "category": "技术",
-    "title": "chenyme/grok2api",
-    "link": "https://github.com/chenyme/grok2api",
+    "title": "Wei-Shaw/sub2api",
+    "link": "https://github.com/Wei-Shaw/sub2api",
     "pub_date": "",
     "author": "",
-    "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console A multi-account API gateway for Grok Build, Grok Web, and Grok Console English | 简体中文 Tip Check out DEEIX-AI / DEEIX-Chat, a lightweight, integrated AI…",
-    "content": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console A multi-account API gateway for Grok Build, Grok Web, and Grok Console English | 简体中文 Tip Check out DEEIX-AI / DEEIX-Chat , a lightweight, integrated AI platform for model routing, chat, file…"
-  },
-  {
-    "id": "技术-github go-https://github.com/microsoft/typescript-go",
-    "feed_name": "github go",
-    "category": "技术",
-    "title": "microsoft/typescript-go",
-    "link": "https://github.com/microsoft/typescript-go",
-    "pub_date": "",
-    "author": "",
-    "description": "Staging repo for development of native port of TypeScript TypeScript 7 Not sure what this is? Read the announcement post! Preview A preview build is available on npm as @typescript/native-preview. npm install @typescript…",
-    "content": "Staging repo for development of native port of TypeScript TypeScript 7 Not sure what this is? Read the announcement post! Preview A preview build is available on npm as @typescript/native-preview . npm install @typescript/native-preview npx tsgo # Use this as …"
+    "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 Sub2API AI API Gateway Platform for Subscription Quota Distribution English | 中文 | 日本語 ⚠️ Important Notice Please read the following carefully…",
+    "content": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 Sub2API AI API Gateway Platform for Subscription Quota Distribution English | 中文 | 日本語 ⚠️ Important Notice Please read the following carefully before using this project: 🚨 Terms of …"
   },
   {
     "id": "技术-github go-https://github.com/gosom/google-maps-scraper",
@@ -317,6 +317,17 @@ const jsonData = [
     "author": "",
     "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place Google Maps Scraper Extract Google M…",
     "content": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place Google Maps Scraper Extract Google Maps business leads, emails, reviews, pho…"
+  },
+  {
+    "id": "技术-github go-https://github.com/chenyme/grok2api",
+    "feed_name": "github go",
+    "category": "技术",
+    "title": "chenyme/grok2api",
+    "link": "https://github.com/chenyme/grok2api",
+    "pub_date": "",
+    "author": "",
+    "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console A multi-account API gateway for Grok Build, Grok Web, and Grok Console English | 简体中文 Tip Check out DEEIX-AI / DEEIX-Chat, a lightweight, integrated AI…",
+    "content": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console A multi-account API gateway for Grok Build, Grok Web, and Grok Console English | 简体中文 Tip Check out DEEIX-AI / DEEIX-Chat , a lightweight, integrated AI platform for model routing, chat, file…"
   },
   {
     "id": "技术-github go-https://github.com/multica-ai/multica",
@@ -341,15 +352,15 @@ const jsonData = [
     "content": "Easily and securely send things from one computer to another 🐊 📦 This project’s future depends on community support. Become a sponsor today . About croc is a tool that allows any two computers to simply and securely transfer files and folders. AFAIK, croc is…"
   },
   {
-    "id": "技术-github go-https://github.com/Gentleman-Programming/engram",
+    "id": "技术-github go-https://github.com/pocket-id/pocket-id",
     "feed_name": "github go",
     "category": "技术",
-    "title": "Gentleman-Programming/engram",
-    "link": "https://github.com/Gentleman-Programming/engram",
+    "title": "pocket-id/pocket-id",
+    "link": "https://github.com/pocket-id/pocket-id",
     "pub_date": "",
     "author": "",
-    "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI. Persistent memory for AI coding agents One brain. Local or cloud. Agent-agnostic, single bin…",
-    "content": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI. Persistent memory for AI coding agents One brain. Local or cloud. Agent-agnostic, single binary, zero dependencies. Installation • E…"
+    "description": "The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys. Pocket ID Pocket ID is an easy-to-use OpenID Connect Certified™ and OAuth 2.0 provider t…",
+    "content": "The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys. Pocket ID Pocket ID is an easy-to-use OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applicati…"
   },
   {
     "id": "技术-github go-https://github.com/AgentWrapper/agent-orchestrator",
@@ -363,37 +374,15 @@ const jsonData = [
     "content": "Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews. Agent Orchestrator The orchestration layer for parallel A…"
   },
   {
-    "id": "技术-github go-https://github.com/sundowndev/phoneinfoga",
+    "id": "技术-github go-https://github.com/hashicorp/vault",
     "feed_name": "github go",
     "category": "技术",
-    "title": "sundowndev/phoneinfoga",
-    "link": "https://github.com/sundowndev/phoneinfoga",
+    "title": "hashicorp/vault",
+    "link": "https://github.com/hashicorp/vault",
     "pub_date": "",
     "author": "",
-    "description": "Information gathering framework for phone numbers Information gathering framework for phone numbers Documentation • API documentation • Related blog post About PhoneInfoga is one of the most advanced tools to scan intern…",
-    "content": "Information gathering framework for phone numbers Information gathering framework for phone numbers Documentation • API documentation • Related blog post About PhoneInfoga is one of the most advanced tools to scan international phone numbers. It allows you to …"
-  },
-  {
-    "id": "技术-github go-https://github.com/hashicorp/terraform-provider-aws",
-    "feed_name": "github go",
-    "category": "技术",
-    "title": "hashicorp/terraform-provider-aws",
-    "link": "https://github.com/hashicorp/terraform-provider-aws",
-    "pub_date": "",
-    "author": "",
-    "description": "The AWS Provider enables Terraform to manage AWS resources. Terraform AWS Provider The AWS Provider enables Terraform to manage AWS resources. Contributing guide Quarterly development roadmap FAQ Tutorials discuss.hashic…",
-    "content": "The AWS Provider enables Terraform to manage AWS resources. Terraform AWS Provider The AWS Provider enables Terraform to manage AWS resources. Contributing guide Quarterly development roadmap FAQ Tutorials discuss.hashicorp.com Please note: We take Terraform's…"
-  },
-  {
-    "id": "技术-github go-https://github.com/agent-substrate/substrate",
-    "feed_name": "github go",
-    "category": "技术",
-    "title": "agent-substrate/substrate",
-    "link": "https://github.com/agent-substrate/substrate",
-    "pub_date": "",
-    "author": "",
-    "description": "Agent Substrate: the core system Agent Substrate NOTE: This is not an officially supported Google product. This project is not eligible for the Google Open Source Software Vulnerability Rewards Program. What is Agent Sub…",
-    "content": "Agent Substrate: the core system Agent Substrate NOTE: This is not an officially supported Google product. This project is not eligible for the Google Open Source Software Vulnerability Rewards Program . What is Agent Substrate? Agent Substrate is a system bui…"
+    "description": "A tool for secrets management, encryption as a service, and privileged access management Vault Please note: We take Vault's security and our users' trust very seriously. If you believe you have found a security issue in …",
+    "content": "A tool for secrets management, encryption as a service, and privileged access management Vault Please note : We take Vault's security and our users' trust very seriously. If you believe you have found a security issue in Vault, please responsibly disclose by c…"
   },
   {
     "id": "技术-github go-https://github.com/lima-vm/lima",
@@ -407,26 +396,48 @@ const jsonData = [
     "content": "Linux virtual machines, with a focus on running containers [🌎 Web site ] [📖 Documentation ] [👤 Slack ( #lima ) ] Lima: Linux Machines Lima launches Linux virtual machines with automatic file sharing and port forwarding (similar to WSL2). The original goal o…"
   },
   {
-    "id": "技术-github go-https://github.com/pocket-id/pocket-id",
+    "id": "技术-github go-https://github.com/knadh/listmonk",
     "feed_name": "github go",
     "category": "技术",
-    "title": "pocket-id/pocket-id",
-    "link": "https://github.com/pocket-id/pocket-id",
+    "title": "knadh/listmonk",
+    "link": "https://github.com/knadh/listmonk",
     "pub_date": "",
     "author": "",
-    "description": "The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys. Pocket ID Pocket ID is an easy-to-use OpenID Connect Certified™ and OAuth 2.0 provider t…",
-    "content": "The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys. Pocket ID Pocket ID is an easy-to-use OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applicati…"
+    "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. listmonk is a standalone, self-hosted, newsletter and mailing list manager. It is fast, feature-rich, and pac…",
+    "content": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. listmonk is a standalone, self-hosted, newsletter and mailing list manager. It is fast, feature-rich, and packed into a single binary. It uses a Post…"
   },
   {
-    "id": "技术-github go-https://github.com/hashicorp/vault",
+    "id": "技术-github go-https://github.com/open-telemetry/opentelemetry-go",
     "feed_name": "github go",
     "category": "技术",
-    "title": "hashicorp/vault",
-    "link": "https://github.com/hashicorp/vault",
+    "title": "open-telemetry/opentelemetry-go",
+    "link": "https://github.com/open-telemetry/opentelemetry-go",
     "pub_date": "",
     "author": "",
-    "description": "A tool for secrets management, encryption as a service, and privileged access management Vault Please note: We take Vault's security and our users' trust very seriously. If you believe you have found a security issue in …",
-    "content": "A tool for secrets management, encryption as a service, and privileged access management Vault Please note : We take Vault's security and our users' trust very seriously. If you believe you have found a security issue in Vault, please responsibly disclose by c…"
+    "description": "OpenTelemetry Go API and SDK OpenTelemetry-Go OpenTelemetry-Go is the Go implementation of OpenTelemetry. It provides a set of APIs to directly measure performance and behavior of your software and send this data to obse…",
+    "content": "OpenTelemetry Go API and SDK OpenTelemetry-Go OpenTelemetry-Go is the Go implementation of OpenTelemetry . It provides a set of APIs to directly measure performance and behavior of your software and send this data to observability platforms. Project Status Sig…"
+  },
+  {
+    "id": "技术-github go-https://github.com/microsoft/typescript-go",
+    "feed_name": "github go",
+    "category": "技术",
+    "title": "microsoft/typescript-go",
+    "link": "https://github.com/microsoft/typescript-go",
+    "pub_date": "",
+    "author": "",
+    "description": "Staging repo for development of native port of TypeScript TypeScript 7 Not sure what this is? Read the announcement post! Preview A preview build is available on npm as @typescript/native-preview. npm install @typescript…",
+    "content": "Staging repo for development of native port of TypeScript TypeScript 7 Not sure what this is? Read the announcement post! Preview A preview build is available on npm as @typescript/native-preview . npm install @typescript/native-preview npx tsgo # Use this as …"
+  },
+  {
+    "id": "技术-github go-https://github.com/Gentleman-Programming/engram",
+    "feed_name": "github go",
+    "category": "技术",
+    "title": "Gentleman-Programming/engram",
+    "link": "https://github.com/Gentleman-Programming/engram",
+    "pub_date": "",
+    "author": "",
+    "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI. Persistent memory for AI coding agents One brain. Local or cloud. Agent-agnostic, single bin…",
+    "content": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI. Persistent memory for AI coding agents One brain. Local or cloud. Agent-agnostic, single binary, zero dependencies. Installation • E…"
   },
   {
     "id": "技术-github go-https://github.com/syncthing/syncthing",
@@ -440,59 +451,70 @@ const jsonData = [
     "content": "Open Source Continuous File Synchronization Goals Syncthing is a continuous file synchronization program . It synchronizes files between two or more computers. We strive to fulfill the goals below. The goals are listed in order of importance, the most importan…"
   },
   {
-    "id": "技术-github go-https://github.com/ollama/ollama",
+    "id": "技术-github go-https://github.com/livekit/livekit",
     "feed_name": "github go",
     "category": "技术",
-    "title": "ollama/ollama",
-    "link": "https://github.com/ollama/ollama",
+    "title": "livekit/livekit",
+    "link": "https://github.com/livekit/livekit",
     "pub_date": "",
     "author": "",
-    "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. Ollama Start building with open models. Download macOS curl -fsSL https://ollama.com/install.sh | sh or download manua…",
-    "content": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. Ollama Start building with open models. Download macOS curl -fsSL https://ollama.com/install.sh | sh or download manually Windows irm https://ollama.com/insta…"
+    "description": "End-to-end realtime stack for connecting humans and AI LiveKit: Real-time video, audio and data for developers LiveKit is an open source project that provides scalable, multi-user conferencing based on WebRTC. It's desig…",
+    "content": "End-to-end realtime stack for connecting humans and AI LiveKit: Real-time video, audio and data for developers LiveKit is an open source project that provides scalable, multi-user conferencing based on WebRTC. It's designed to provide everything you need to bu…"
   },
   {
-    "id": "技术-github go-https://github.com/go-gitea/gitea",
+    "id": "技术-github go-https://github.com/SagerNet/sing-box",
     "feed_name": "github go",
     "category": "技术",
-    "title": "go-gitea/gitea",
-    "link": "https://github.com/go-gitea/gitea",
+    "title": "SagerNet/sing-box",
+    "link": "https://github.com/SagerNet/sing-box",
     "pub_date": "",
     "author": "",
-    "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD Gitea 繁體中文 | 简体中文 Purpose The goal of Gitea is to ma…",
-    "content": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD Gitea 繁體中文 | 简体中文 Purpose The goal of Gitea is to make the easiest, fastest, and most painle…"
+    "description": "The universal proxy platform sing-box The universal proxy platform. Documentation https://sing-box.sagernet.org License Copyright (C) 2022 by nekohasekai This program is free software: you can redistribute it and/or modi…",
+    "content": "The universal proxy platform sing-box The universal proxy platform. Documentation https://sing-box.sagernet.org License Copyright (C) 2022 by nekohasekai &lt;contact-sagernet@sekai.icu&gt; This program is free software: you can redistribute it and/or modify it…"
   },
   {
-    "id": "技术-github go-https://github.com/cli/cli",
+    "id": "技术-github go-https://github.com/hashicorp/terraform-provider-aws",
     "feed_name": "github go",
     "category": "技术",
-    "title": "cli/cli",
-    "link": "https://github.com/cli/cli",
+    "title": "hashicorp/terraform-provider-aws",
+    "link": "https://github.com/hashicorp/terraform-provider-aws",
     "pub_date": "",
     "author": "",
-    "description": "GitHub’s official command line tool GitHub CLI gh is GitHub on the command line. It brings pull requests, issues, and other GitHub concepts to the terminal next to where you are already working with git and your code. Gi…",
-    "content": "GitHub’s official command line tool GitHub CLI gh is GitHub on the command line. It brings pull requests, issues, and other GitHub concepts to the terminal next to where you are already working with git and your code. GitHub CLI is supported for users on GitHu…"
+    "description": "The AWS Provider enables Terraform to manage AWS resources. Terraform AWS Provider The AWS Provider enables Terraform to manage AWS resources. Contributing guide Quarterly development roadmap FAQ Tutorials discuss.hashic…",
+    "content": "The AWS Provider enables Terraform to manage AWS resources. Terraform AWS Provider The AWS Provider enables Terraform to manage AWS resources. Contributing guide Quarterly development roadmap FAQ Tutorials discuss.hashicorp.com Please note: We take Terraform's…"
   },
   {
-    "id": "技术-github go-https://github.com/traefik/traefik",
+    "id": "技术-github go-https://github.com/avelino/awesome-go",
     "feed_name": "github go",
     "category": "技术",
-    "title": "traefik/traefik",
-    "link": "https://github.com/traefik/traefik",
+    "title": "avelino/awesome-go",
+    "link": "https://github.com/avelino/awesome-go",
     "pub_date": "",
     "author": "",
-    "description": "The Cloud Native Application Proxy Traefik (pronounced traffic) is a modern HTTP reverse proxy and load balancer that makes deploying microservices easy. Traefik integrates with your existing infrastructure components (D…",
-    "content": "The Cloud Native Application Proxy Traefik (pronounced traffic ) is a modern HTTP reverse proxy and load balancer that makes deploying microservices easy. Traefik integrates with your existing infrastructure components ( Docker , Swarm mode , Kubernetes , Cons…"
+    "description": "A curated list of awesome Go frameworks, libraries and software Awesome Go We use the Golang Bridge community Slack for instant communication, follow the form here to join. Sponsorships: Special thanks to Awesome Go has …",
+    "content": "A curated list of awesome Go frameworks, libraries and software Awesome Go We use the Golang Bridge community Slack for instant communication, follow the form here to join . Sponsorships: Special thanks to Awesome Go has no monthly fee , but we have employees …"
   },
   {
-    "id": "技术-github go-https://github.com/binwiederhier/ntfy",
+    "id": "技术-github go-https://github.com/gastownhall/beads",
     "feed_name": "github go",
     "category": "技术",
-    "title": "binwiederhier/ntfy",
-    "link": "https://github.com/binwiederhier/ntfy",
+    "title": "gastownhall/beads",
+    "link": "https://github.com/gastownhall/beads",
     "pub_date": "",
     "author": "",
-    "description": "Send push notifications to your phone or desktop using PUT/POST Special thanks to: Warp, built for coding with multiple AI agents. Available for MacOS, Linux, & Windows ntfy.sh | Send push notifications to your phone or …",
-    "content": "Send push notifications to your phone or desktop using PUT/POST Special thanks to: Warp, built for coding with multiple AI agents. Available for MacOS, Linux, &amp; Windows ntfy.sh | Send push notifications to your phone or desktop via PUT/POST ntfy (pronounce…"
+    "description": "Beads - A memory upgrade for your coding agent bd - Beads Distributed graph issue tracker for AI agents, powered by Dolt. Platforms: macOS, Linux, Windows, FreeBSD Docs: https://beads.gascity.com/ Beads provides a persis…",
+    "content": "Beads - A memory upgrade for your coding agent bd - Beads Distributed graph issue tracker for AI agents, powered by Dolt . Platforms: macOS, Linux, Windows, FreeBSD Docs: https://beads.gascity.com/ Beads provides a persistent, structured memory for coding agen…"
+  },
+  {
+    "id": "技术-github rust-https://github.com/Dicklesworthstone/destructive_command_guard",
+    "feed_name": "github rust",
+    "category": "技术",
+    "title": "Dicklesworthstone/destructive_command_guard",
+    "link": "https://github.com/Dicklesworthstone/destructive_command_guard",
+    "pub_date": "",
+    "author": "",
+    "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents. dcg (Destructive Command Guard) A high-performance hook for AI coding agents that blocks destructive com…",
+    "content": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents. dcg (Destructive Command Guard) A high-performance hook for AI coding agents that blocks destructive commands before they execute, protecting yo…"
   },
   {
     "id": "技术-github rust-https://github.com/openai/codex",
@@ -539,17 +561,6 @@ const jsonData = [
     "content": "YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps [ screenpipe | YC S26 ] screenpipe remembers how you actually work It captures what you see, say, and do, locally, 24/7, then …"
   },
   {
-    "id": "技术-github rust-https://github.com/memvid/memvid",
-    "feed_name": "github rust",
-    "category": "技术",
-    "title": "memvid/memvid",
-    "link": "https://github.com/memvid/memvid",
-    "pub_date": "",
-    "author": "",
-    "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory. Memvid is a single-file memory layer for AI agents with inst…",
-    "content": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory. Memvid is a single-file memory layer for AI agents with instant retrieval and long-term memory. Pers…"
-  },
-  {
     "id": "技术-github rust-https://github.com/malisper/pgrust",
     "feed_name": "github rust",
     "category": "技术",
@@ -559,6 +570,17 @@ const jsonData = [
     "author": "",
     "description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests pgrust A Postgres rewrite in Rust. Browser demo | Discord | Get pgrust updates | Issues pgrust targets compatibility with Postgres 18.3 and ma…",
     "content": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests pgrust A Postgres rewrite in Rust. Browser demo &nbsp;&nbsp;|&nbsp;&nbsp; Discord &nbsp;&nbsp;|&nbsp;&nbsp; Get pgrust updates &nbsp;&nbsp;|&nbsp;&nbsp; Issues pgrust targets compati…"
+  },
+  {
+    "id": "技术-github rust-https://github.com/DioxusLabs/dioxus",
+    "feed_name": "github rust",
+    "category": "技术",
+    "title": "DioxusLabs/dioxus",
+    "link": "https://github.com/DioxusLabs/dioxus",
+    "pub_date": "",
+    "author": "",
+    "description": "Fullstack app framework for web, desktop, and mobile. --> --> --> Website | Examples | Tutorial | 中文 | PT-BR | 日本語 | Türkçe | 한국어 --> Build for web, desktop, and mobile, and more with a single codebase. Zero-config setup…",
+    "content": "Fullstack app framework for web, desktop, and mobile. --> --> --> Website | Examples | Tutorial | 中文 | PT-BR | 日本語 | Türkçe | 한국어 ✨ Dioxus 0.7 is out!!! ✨ --> Build for web, desktop, and mobile, and more with a single codebase. Zero-config setup, integrated ho…"
   },
   {
     "id": "技术-github rust-https://github.com/astral-sh/uv",
@@ -572,26 +594,26 @@ const jsonData = [
     "content": "An extremely fast Python package and project manager, written in Rust. uv An extremely fast Python package and project manager, written in Rust. Installing Trio 's dependencies with a warm cache. Highlights A single tool to replace pip , pip-tools , pipx , poe…"
   },
   {
-    "id": "技术-github rust-https://github.com/oven-sh/bun",
+    "id": "技术-github rust-https://github.com/stalwartlabs/stalwart",
     "feed_name": "github rust",
     "category": "技术",
-    "title": "oven-sh/bun",
-    "link": "https://github.com/oven-sh/bun",
+    "title": "stalwartlabs/stalwart",
+    "link": "https://github.com/stalwartlabs/stalwart",
     "pub_date": "",
     "author": "",
-    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one Bun Documentation • Discord • Issues • Roadmap Read the docs → What is Bun? Bun is an all-in-one toolkit for JavaScript and TypeS…",
-    "content": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one Bun Documentation &nbsp;&nbsp;•&nbsp;&nbsp; Discord &nbsp;&nbsp;•&nbsp;&nbsp; Issues &nbsp;&nbsp;•&nbsp;&nbsp; Roadmap Read the docs → What is Bun? Bun is an all-in-one …"
+    "description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). Secure, scalable mail & collaboration server with comprehensive protocol support 🛡️ (IMA…",
+    "content": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). Secure, scalable mail &amp; collaboration server with comprehensive protocol support 🛡️ (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebD…"
   },
   {
-    "id": "技术-github rust-https://github.com/zed-industries/zed",
+    "id": "技术-github rust-https://github.com/AlexsJones/llmfit",
     "feed_name": "github rust",
     "category": "技术",
-    "title": "zed-industries/zed",
-    "link": "https://github.com/zed-industries/zed",
+    "title": "AlexsJones/llmfit",
+    "link": "https://github.com/AlexsJones/llmfit",
     "pub_date": "",
     "author": "",
-    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. Zed Welcome to Zed, a high-performance, multiplayer code editor from the creators of Atom and T…",
-    "content": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. Zed Welcome to Zed, a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter . Installation On macOS, Linu…"
+    "description": "Hundreds of models & providers. One command to find what runs on your hardware. llmfit English · 中文 · 日本語 📊 New: benchmark & share — real numbers from your machine, better estimates for everyone. Download a model, serve…",
+    "content": "Hundreds of models & providers. One command to find what runs on your hardware. llmfit English · 中文 · 日本語 📊 New: benchmark &amp; share — real numbers from your machine, better estimates for everyone. Download a model, serve it, and measure real tok/s on your …"
   },
   {
     "id": "技术-github rust-https://github.com/a2x/cs2-dumper",
@@ -605,28 +627,6 @@ const jsonData = [
     "content": "Counter-Strike: 2 Offset Dumper cs2-dumper An external offset/interface dumper for Counter-Strike 2, with support for both Windows &amp; Linux. Powered by memflow . The native Linux version is available in the linux branch (currently outdated). For a work-in-p…"
   },
   {
-    "id": "技术-github rust-https://github.com/nushell/nushell",
-    "feed_name": "github rust",
-    "category": "技术",
-    "title": "nushell/nushell",
-    "link": "https://github.com/nushell/nushell",
-    "pub_date": "",
-    "author": "",
-    "description": "A new type of shell Nushell A new type of shell. Table of Contents Status Learning About Nu Installation Configuration Philosophy Pipelines Opening files Plugins Goals Officially Supported By Contributing License Status …",
-    "content": "A new type of shell Nushell A new type of shell. Table of Contents Status Learning About Nu Installation Configuration Philosophy Pipelines Opening files Plugins Goals Officially Supported By Contributing License Status This project has reached a minimum-viabl…"
-  },
-  {
-    "id": "技术-github rust-https://github.com/stalwartlabs/stalwart",
-    "feed_name": "github rust",
-    "category": "技术",
-    "title": "stalwartlabs/stalwart",
-    "link": "https://github.com/stalwartlabs/stalwart",
-    "pub_date": "",
-    "author": "",
-    "description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). Secure, scalable mail & collaboration server with comprehensive protocol support 🛡️ (IMA…",
-    "content": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). Secure, scalable mail &amp; collaboration server with comprehensive protocol support 🛡️ (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebD…"
-  },
-  {
     "id": "技术-github rust-https://github.com/emilk/egui",
     "feed_name": "github rust",
     "category": "技术",
@@ -638,37 +638,59 @@ const jsonData = [
     "content": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native 🖌 egui: an easy-to-use GUI in pure Rust 👉 Click to run the web demo 👈 egui (pronounced \"e-gooey\") is a simple, fast, and highly portable immediate mode GUI library for Rust. eg…"
   },
   {
-    "id": "技术-github rust-https://github.com/ai-dynamo/dynamo",
+    "id": "技术-github rust-https://github.com/zed-industries/zed",
     "feed_name": "github rust",
     "category": "技术",
-    "title": "ai-dynamo/dynamo",
-    "link": "https://github.com/ai-dynamo/dynamo",
+    "title": "zed-industries/zed",
+    "link": "https://github.com/zed-industries/zed",
     "pub_date": "",
     "author": "",
-    "description": "A Datacenter Scale Distributed Inference Serving Framework | Docs | Roadmap | Recipes | Examples | Prebuilt Containers | Digest | Design Proposals | How to Contribute | Dynamo The open-source, datacenter-scale inference …",
-    "content": "A Datacenter Scale Distributed Inference Serving Framework | Docs | Roadmap | Recipes | Examples | Prebuilt Containers | Digest | Design Proposals | How to Contribute | Dynamo The open-source, datacenter-scale inference stack. Dynamo is the orchestration layer…"
+    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. Zed Welcome to Zed, a high-performance, multiplayer code editor from the creators of Atom and T…",
+    "content": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. Zed Welcome to Zed, a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter . Installation On macOS, Linu…"
   },
   {
-    "id": "技术-github rust-https://github.com/agentgateway/agentgateway",
+    "id": "技术-github rust-https://github.com/atuinsh/atuin",
     "feed_name": "github rust",
     "category": "技术",
-    "title": "agentgateway/agentgateway",
-    "link": "https://github.com/agentgateway/agentgateway",
+    "title": "atuinsh/atuin",
+    "link": "https://github.com/atuinsh/atuin",
     "pub_date": "",
     "author": "",
-    "description": "Next Generation Agentic Proxy for AI Agents and MCP servers first complete connectivity solution for Agentic AI. Agentgateway is an open source proxy built on AI-native protocols (MCP & A2A) that provides drop-in securit…",
-    "content": "Next Generation Agentic Proxy for AI Agents and MCP servers The first complete connectivity solution for Agentic AI. Agentgateway is an open source proxy built on AI-native protocols ( MCP &amp; A2A ) that provides drop-in security, observability, and governan…"
+    "description": "✨ Making your shell magical magical shell history English | 简体中文 Atuin replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and…",
+    "content": "✨ Making your shell magical magical shell history English | 简体中文 Atuin replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronisation of your…"
   },
   {
-    "id": "技术-github rust-https://github.com/servo/servo",
+    "id": "技术-github rust-https://github.com/pnpm/pnpm",
     "feed_name": "github rust",
     "category": "技术",
-    "title": "servo/servo",
-    "link": "https://github.com/servo/servo",
+    "title": "pnpm/pnpm",
+    "link": "https://github.com/pnpm/pnpm",
     "pub_date": "",
     "author": "",
-    "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. The Servo Parallel Browser Engine Project Servo is a prototype web browser engine written …",
-    "content": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. The Servo Parallel Browser Engine Project Servo is a prototype web browser engine written in the Rust language. It is currently de…"
+    "description": "Fast, disk space efficient package manager 简体中文 | 日本語 | 한국어 | Italiano | Português Brasileiro Fast, disk space efficient package manager: Fast. Up to 2x faster than the alternatives (see benchmark). Efficient. Files insi…",
+    "content": "Fast, disk space efficient package manager 简体中文 | 日本語 | 한국어 | Italiano | Português Brasileiro Fast, disk space efficient package manager: Fast. Up to 2x faster than the alternatives (see benchmark ). Efficient. Files inside node_modules are linked from a singl…"
+  },
+  {
+    "id": "技术-github rust-https://github.com/nushell/nushell",
+    "feed_name": "github rust",
+    "category": "技术",
+    "title": "nushell/nushell",
+    "link": "https://github.com/nushell/nushell",
+    "pub_date": "",
+    "author": "",
+    "description": "A new type of shell Nushell A new type of shell. Table of Contents Status Learning About Nu Installation Configuration Philosophy Pipelines Opening files Plugins Goals Officially Supported By Contributing License Status …",
+    "content": "A new type of shell Nushell A new type of shell. Table of Contents Status Learning About Nu Installation Configuration Philosophy Pipelines Opening files Plugins Goals Officially Supported By Contributing License Status This project has reached a minimum-viabl…"
+  },
+  {
+    "id": "技术-github rust-https://github.com/jj-vcs/jj",
+    "feed_name": "github rust",
+    "category": "技术",
+    "title": "jj-vcs/jj",
+    "link": "https://github.com/jj-vcs/jj",
+    "pub_date": "",
+    "author": "",
+    "description": "A Git-compatible VCS that is both simple and powerful Jujutsu—a version control system Homepage • Installation • Getting Started • Development Roadmap • Contributing Introduction Jujutsu is a powerful version control sys…",
+    "content": "A Git-compatible VCS that is both simple and powerful Jujutsu—a version control system Homepage &nbsp;&nbsp;•&nbsp;&nbsp; Installation &nbsp;&nbsp;•&nbsp;&nbsp; Getting Started &nbsp;&nbsp;•&nbsp;&nbsp; Development Roadmap &nbsp;&nbsp;•&nbsp;&nbsp; Contributin…"
   },
   {
     "id": "技术-github rust-https://github.com/astral-sh/ruff",
@@ -682,6 +704,17 @@ const jsonData = [
     "content": "An extremely fast Python linter and code formatter, written in Rust. Ruff Docs | Playground An extremely fast Python linter and code formatter, written in Rust. Linting the CPython codebase from scratch. ⚡️ 10-100x faster than existing linters (like Flake8) an…"
   },
   {
+    "id": "技术-github javascript-https://github.com/tt-a1i/archify",
+    "feed_name": "github javascript",
+    "category": "技术",
+    "title": "tt-a1i/archify",
+    "link": "https://github.com/tt-a1i/archify",
+    "pub_date": "",
+    "author": "",
+    "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export English · 简体中文 Archify Generate beautiful architecture, technical workflow, sequence, data-flow, and lif…",
+    "content": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export English · 简体中文 Archify Generate beautiful architecture, technical workflow, sequence, data-flow, and lifecycle diagrams in chat. Switch dark / l…"
+  },
+  {
     "id": "技术-github javascript-https://github.com/coreyhaines31/marketingskills",
     "feed_name": "github javascript",
     "category": "技术",
@@ -691,39 +724,6 @@ const jsonData = [
     "author": "",
     "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. Marketing Skills for AI Agents A collection of AI agent skills focused on marketing tasks. Built for technical mar…",
     "content": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. Marketing Skills for AI Agents A collection of AI agent skills focused on marketing tasks. Built for technical marketers and founders who want AI coding a…"
-  },
-  {
-    "id": "技术-github javascript-https://github.com/openai/codex-plugin-cc",
-    "feed_name": "github javascript",
-    "category": "技术",
-    "title": "openai/codex-plugin-cc",
-    "link": "https://github.com/openai/codex-plugin-cc",
-    "pub_date": "",
-    "author": "",
-    "description": "Use Codex from Claude Code to review code or delegate tasks. Codex plugin for Claude Code Use Codex from inside Claude Code for code reviews or to delegate tasks to Codex. This plugin is for Claude Code users who want an…",
-    "content": "Use Codex from Claude Code to review code or delegate tasks. Codex plugin for Claude Code Use Codex from inside Claude Code for code reviews or to delegate tasks to Codex. This plugin is for Claude Code users who want an easy way to start using Codex from the …"
-  },
-  {
-    "id": "技术-github javascript-https://github.com/ilysenko/codex-desktop-linux",
-    "feed_name": "github javascript",
-    "category": "技术",
-    "title": "ilysenko/codex-desktop-linux",
-    "link": "https://github.com/ilysenko/codex-desktop-linux",
-    "pub_date": "",
-    "author": "",
-    "description": "Unofficial ChatGPT desktop app for Linux (formerly the Codex app), built locally from OpenAI’s official macOS app. Includes Chat, Work, and Codex. Packages for Debian/Ubuntu (.deb), Fedora/openSUSE (.rpm), Arch (pacman),…",
-    "content": "Unofficial ChatGPT desktop app for Linux (formerly the Codex app), built locally from OpenAI’s official macOS app. Includes Chat, Work, and Codex. Packages for Debian/Ubuntu (.deb), Fedora/openSUSE (.rpm), Arch (pacman), Nix/NixOS, and AppImage, with Wayland a…"
-  },
-  {
-    "id": "技术-github javascript-https://github.com/wwebjs/whatsapp-web.js",
-    "feed_name": "github javascript",
-    "category": "技术",
-    "title": "wwebjs/whatsapp-web.js",
-    "link": "https://github.com/wwebjs/whatsapp-web.js",
-    "pub_date": "",
-    "author": "",
-    "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app About whatsapp‑web.js is a powerful Node.js library that lets you interact with WhatsApp Web, making it easy to build a dynamic What…",
-    "content": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app About whatsapp‑web.js is a powerful Node.js library that lets you interact with WhatsApp Web, making it easy to build a dynamic WhatsApp API with nearly all features of the…"
   },
   {
     "id": "技术-github javascript-https://github.com/microsoft/power-platform-skills",
@@ -737,17 +737,6 @@ const jsonData = [
     "content": "A plugin marketplace for Claude Code/GitHub Copilot that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions. Power Platform Skills Official agent skills/plugins for Power Platform d…"
   },
   {
-    "id": "技术-github javascript-https://github.com/WebKit/WebKit",
-    "feed_name": "github javascript",
-    "category": "技术",
-    "title": "WebKit/WebKit",
-    "link": "https://github.com/WebKit/WebKit",
-    "pub_date": "",
-    "author": "",
-    "description": "Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux. WebKit WebKit is a cross-platform web browser engine. On iOS and macOS, it powers Safari…",
-    "content": "Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux. WebKit WebKit is a cross-platform web browser engine. On iOS and macOS, it powers Safari, Mail, Apple Books, and many other appl…"
-  },
-  {
     "id": "技术-github javascript-https://github.com/poteto/hiring-without-whiteboards",
     "feed_name": "github javascript",
     "category": "技术",
@@ -757,6 +746,17 @@ const jsonData = [
     "author": "",
     "description": "⭐️ Companies that don't have a broken hiring process Hiring Without Whiteboards A list of companies (or teams) that don't do \"whiteboard\" interviews. \"Whiteboards\" are used as a metaphor, and are a symbol for the kinds o…",
     "content": "⭐️ Companies that don't have a broken hiring process Hiring Without Whiteboards A list of companies (or teams) that don't do \"whiteboard\" interviews. \"Whiteboards\" are used as a metaphor, and are a symbol for the kinds of CS trivia questions that are associate…"
+  },
+  {
+    "id": "技术-github javascript-https://github.com/wwebjs/whatsapp-web.js",
+    "feed_name": "github javascript",
+    "category": "技术",
+    "title": "wwebjs/whatsapp-web.js",
+    "link": "https://github.com/wwebjs/whatsapp-web.js",
+    "pub_date": "",
+    "author": "",
+    "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app About whatsapp‑web.js is a powerful Node.js library that lets you interact with WhatsApp Web, making it easy to build a dynamic What…",
+    "content": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app About whatsapp‑web.js is a powerful Node.js library that lets you interact with WhatsApp Web, making it easy to build a dynamic WhatsApp API with nearly all features of the…"
   },
   {
     "id": "技术-github javascript-https://github.com/pbakaus/impeccable",
@@ -770,17 +770,6 @@ const jsonData = [
     "content": "The design language that makes your AI harness better at design. Impeccable Design guidance for AI coding agents. 1 skill, 23 commands, live browser iteration, and 46 deterministic detector rules for AI-generated frontend design. Quick start: From your project…"
   },
   {
-    "id": "技术-github javascript-https://github.com/hmjz100/LinkSwift",
-    "feed_name": "github javascript",
-    "category": "技术",
-    "title": "hmjz100/LinkSwift",
-    "link": "https://github.com/hmjz100/LinkSwift",
-    "pub_date": "",
-    "author": "",
-    "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘 Important 如果您是从 GreasyFork 找到这的，建议前往下方的 安装 选择一个合适的源覆盖安装，避免因脚本失效或 GF 黑产刷子导致无法及时更新。 “出淤泥而不染，濯清涟而不妖” 搭配使用，效果更佳！\ud83d…",
-    "content": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘 Important 如果您是从 GreasyFork 找到这的，建议前往下方的 安装 选择一个合适的源覆盖安装，避免因脚本失效或 GF 黑产刷子导致无法及时更新。 “出淤泥而不染，濯清涟而不妖” 搭配使用，效果更佳！👋扩展脚本 123 云盘会员青春版 | 百度网盘会员青春版 | 阿里云盘会员青春…"
-  },
-  {
     "id": "技术-github javascript-https://github.com/thedotmack/claude-mem",
     "feed_name": "github javascript",
     "category": "技术",
@@ -790,6 +779,17 @@ const jsonData = [
     "author": "",
     "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, C…",
     "content": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode …"
+  },
+  {
+    "id": "技术-github javascript-https://github.com/ilysenko/codex-desktop-linux",
+    "feed_name": "github javascript",
+    "category": "技术",
+    "title": "ilysenko/codex-desktop-linux",
+    "link": "https://github.com/ilysenko/codex-desktop-linux",
+    "pub_date": "",
+    "author": "",
+    "description": "Unofficial ChatGPT desktop app for Linux (formerly the Codex app), built locally from OpenAI’s official macOS app. Includes Chat, Work, and Codex. Packages for Debian/Ubuntu (.deb), Fedora/openSUSE (.rpm), Arch (pacman),…",
+    "content": "Unofficial ChatGPT desktop app for Linux (formerly the Codex app), built locally from OpenAI’s official macOS app. Includes Chat, Work, and Codex. Packages for Debian/Ubuntu (.deb), Fedora/openSUSE (.rpm), Arch (pacman), Nix/NixOS, and AppImage, with Wayland a…"
   },
   {
     "id": "技术-github javascript-https://github.com/xifangczy/cat-catch",
@@ -814,15 +814,15 @@ const jsonData = [
     "content": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform. OpenWhispr The open-source and free alternative to WisprFlow and Granola. Privacy-first voice-to-text dictation with AI agents…"
   },
   {
-    "id": "技术-github javascript-https://github.com/FB208/OpenBidKit_Yibiao",
+    "id": "技术-github javascript-https://github.com/NomaDamas/k-skill",
     "feed_name": "github javascript",
     "category": "技术",
-    "title": "FB208/OpenBidKit_Yibiao",
-    "link": "https://github.com/FB208/OpenBidKit_Yibiao",
+    "title": "NomaDamas/k-skill",
+    "link": "https://github.com/NomaDamas/k-skill",
     "pub_date": "",
     "author": "",
-    "description": "开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用 易标投标工具箱 - AI智能标书写作助手 简体中文 | English 🚀 开箱即用-开源免费AI标书编写工具 易标投标工具箱是一款面向招投标场景的智能标书制作工具，完全开源，包括AI生成技术方案、图文生成、商务标、企业知识库管理、标书查重、废标项检查、标讯等，更多功能还在开发中。 支持OpenAI like模式的所有AI …",
-    "content": "开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用 易标投标工具箱 - AI智能标书写作助手 简体中文 | English 🚀 开箱即用-开源免费AI标书编写工具 易标投标工具箱是一款面向招投标场景的智能标书制作工具，完全开源，包括AI生成技术方案、图文生成、商务标、企业知识库管理、标书查重、废标项检查、标讯等，更多功能还在开发中。 支持OpenAI like模式的所有AI api，目前已深度适配GPT、DeepSeek、火山方舟三个平台，也支持olla…"
+    "description": "한국인을 위한 스킬 모음집 - SRT, KTX, 카카오톡, 한글과컴퓨터, 날씨, 미세먼지, 법령, 주식정보, 조선왕조실록, KBO, K-리그, LCK, 특허 검색, 토스 증권, 맞춤법 검사, 중고차 가격, 쿠팡, 네이버 블로그, 다이소, 올리브영, 택배 송장 조회 등등... k-skill 한국인인가요? 이 스킬 모음집을 다운로드 받아 두세요. 언젠가 무조건 쓸 때가 옵니다! SRT, KTX,…",
+    "content": "한국인을 위한 스킬 모음집 - SRT, KTX, 카카오톡, 한글과컴퓨터, 날씨, 미세먼지, 법령, 주식정보, 조선왕조실록, KBO, K-리그, LCK, 특허 검색, 토스 증권, 맞춤법 검사, 중고차 가격, 쿠팡, 네이버 블로그, 다이소, 올리브영, 택배 송장 조회 등등... k-skill 한국인인가요? 이 스킬 모음집을 다운로드 받아 두세요. 언젠가 무조건 쓸 때가 옵니다! SRT, KTX, KBO, 로또, 당근, 쿠팡, 카톡, 정부24, 홈택스 등등 귀찮은 것…"
   },
   {
     "id": "技术-github javascript-https://github.com/atlassian/atlassian-mcp-server",
@@ -836,15 +836,48 @@ const jsonData = [
     "content": "Official remote MCP server for Atlassian. Securely connect Jira, Confluence, Jira Service Management, Bitbucket, and Compass to Claude, ChatGPT, Cursor, VS Code, and other AI tools using OAuth 2.1 or API tokens. Atlassian Rovo MCP Server The official Model Con…"
   },
   {
-    "id": "技术-github javascript-https://github.com/NomaDamas/k-skill",
+    "id": "技术-github javascript-https://github.com/FB208/OpenBidKit_Yibiao",
     "feed_name": "github javascript",
     "category": "技术",
-    "title": "NomaDamas/k-skill",
-    "link": "https://github.com/NomaDamas/k-skill",
+    "title": "FB208/OpenBidKit_Yibiao",
+    "link": "https://github.com/FB208/OpenBidKit_Yibiao",
     "pub_date": "",
     "author": "",
-    "description": "한국인을 위한 스킬 모음집 - SRT, KTX, 카카오톡, 한글과컴퓨터, 날씨, 미세먼지, 법령, 주식정보, 조선왕조실록, KBO, K-리그, LCK, 특허 검색, 토스 증권, 맞춤법 검사, 중고차 가격, 쿠팡, 네이버 블로그, 다이소, 올리브영, 택배 송장 조회 등등... k-skill 한국인인가요? 이 스킬 모음집을 다운로드 받아 두세요. 언젠가 무조건 쓸 때가 옵니다! SRT, KTX,…",
-    "content": "한국인을 위한 스킬 모음집 - SRT, KTX, 카카오톡, 한글과컴퓨터, 날씨, 미세먼지, 법령, 주식정보, 조선왕조실록, KBO, K-리그, LCK, 특허 검색, 토스 증권, 맞춤법 검사, 중고차 가격, 쿠팡, 네이버 블로그, 다이소, 올리브영, 택배 송장 조회 등등... k-skill 한국인인가요? 이 스킬 모음집을 다운로드 받아 두세요. 언젠가 무조건 쓸 때가 옵니다! SRT, KTX, KBO, 로또, 당근, 쿠팡, 카톡, 정부24, 홈택스 등등 귀찮은 것…"
+    "description": "开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用 易标投标工具箱 - AI智能标书写作助手 简体中文 | English 🚀 开箱即用-开源免费AI标书编写工具 易标投标工具箱是一款面向招投标场景的智能标书制作工具，完全开源，包括AI生成技术方案、图文生成、商务标、企业知识库管理、标书查重、废标项检查、标讯等，更多功能还在开发中。 支持OpenAI like模式的所有AI …",
+    "content": "开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用 易标投标工具箱 - AI智能标书写作助手 简体中文 | English 🚀 开箱即用-开源免费AI标书编写工具 易标投标工具箱是一款面向招投标场景的智能标书制作工具，完全开源，包括AI生成技术方案、图文生成、商务标、企业知识库管理、标书查重、废标项检查、标讯等，更多功能还在开发中。 支持OpenAI like模式的所有AI api，目前已深度适配GPT、DeepSeek、火山方舟三个平台，也支持olla…"
+  },
+  {
+    "id": "技术-github javascript-https://github.com/ulsklyc/yuvomi",
+    "feed_name": "github javascript",
+    "category": "技术",
+    "title": "ulsklyc/yuvomi",
+    "link": "https://github.com/ulsklyc/yuvomi",
+    "pub_date": "",
+    "author": "",
+    "description": "Self-hosted family planner - tasks, calendars, shopping, meals, budget. Your data, your server. Yuvomi The self-hosted family planner. Private, offline-capable, and beautiful. → Install · Website & screenshots · Docs · C…",
+    "content": "Self-hosted family planner - tasks, calendars, shopping, meals, budget. Your data, your server. Yuvomi The self-hosted family planner. Private, offline-capable, and beautiful. → Install &nbsp;·&nbsp; Website &amp; screenshots &nbsp;·&nbsp; Docs &nbsp;·&nbsp; C…"
+  },
+  {
+    "id": "技术-github javascript-https://github.com/Javis603/token-monitor",
+    "feed_name": "github javascript",
+    "category": "技术",
+    "title": "Javis603/token-monitor",
+    "link": "https://github.com/Javis603/token-monitor",
+    "pub_date": "",
+    "author": "",
+    "description": "Real-time token, cost, and AI limits widget with multi-device sync for Claude Code, Codex, OpenCode, Hermes, OpenClaw, Cursor, Antigravity and more. | 为 AI Tools 打造的即时Token、成本与限额监控桌面组件，支持多设备同步 EN | 简 | 繁 | KO | JA Token …",
+    "content": "Real-time token, cost, and AI limits widget with multi-device sync for Claude Code, Codex, OpenCode, Hermes, OpenClaw, Cursor, Antigravity and more. | 为 AI Tools 打造的即时Token、成本与限额监控桌面组件，支持多设备同步 EN | 简 | 繁 | KO | JA Token Monitor One live dashboard for every AI …"
+  },
+  {
+    "id": "技术-github javascript-https://github.com/wekan/wekan",
+    "feed_name": "github javascript",
+    "category": "技术",
+    "title": "wekan/wekan",
+    "link": "https://github.com/wekan/wekan",
+    "pub_date": "",
+    "author": "",
+    "description": "The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . New English strings for new features at imports/i18n/data/…",
+    "content": "The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . New English strings for new features at imports/i18n/data/en.i18n.json . Non-English translations …"
   },
   {
     "id": "技术-github lua-https://github.com/bol-van/zapret-win-bundle",
@@ -880,17 +913,6 @@ const jsonData = [
     "content": "Offline build planner for Path of Exile. Path of Building Community Welcome to Path of Building, an offline build planner for Path of Exile! Features Comprehensive offence + defence calculations: Calculate your skill DPS, damage over time, life/mana/ES totals …"
   },
   {
-    "id": "技术-github lua-https://github.com/nvim-lua/kickstart.nvim",
-    "feed_name": "github lua",
-    "category": "技术",
-    "title": "nvim-lua/kickstart.nvim",
-    "link": "https://github.com/nvim-lua/kickstart.nvim",
-    "pub_date": "",
-    "author": "",
-    "description": "A launch point for your personal nvim configuration kickstart.nvim Introduction A starting point for Neovim that is: Small Single-file Completely Documented NOT a Neovim distribution, but instead a starting point for you…",
-    "content": "A launch point for your personal nvim configuration kickstart.nvim Introduction A starting point for Neovim that is: Small Single-file Completely Documented NOT a Neovim distribution, but instead a starting point for your configuration. Installation Install Ne…"
-  },
-  {
     "id": "技术-github lua-https://github.com/iDvel/rime-ice",
     "feed_name": "github lua",
     "category": "技术",
@@ -900,6 +922,17 @@ const jsonData = [
     "author": "",
     "description": "Rime 配置：雾凇拼音 | 长期维护的简体词库 雾凇拼音 雾凇拼音是一份开箱即用的简体中文 Rime 输入法配置，词库长期维护，基本功能齐全，使用完全离线，质量稳定可靠。 雾凇拼音包含全拼和双拼输入方案、长期维护的精校词库、各类扩展功能和详尽的注释。适配小狼毫 Weasel、鼠须管 Squirrel、Fcitx5、iBus 等几乎所有 Rime 应用。你可以不折腾，一键下载部署后即刻使用；可以借着完善的注释和社区生态，让 AI 帮你定…",
     "content": "Rime 配置：雾凇拼音 | 长期维护的简体词库 雾凇拼音 雾凇拼音 是一份开箱即用的简体中文 Rime 输入法配置，词库长期维护，基本功能齐全，使用完全离线，质量稳定可靠。 雾凇拼音包含全拼和双拼输入方案、长期维护的精校词库、各类扩展功能和详尽的注释。适配小狼毫 Weasel、鼠须管 Squirrel、Fcitx5、iBus 等几乎所有 Rime 应用。你可以不折腾，一键下载部署后即刻使用；可以借着完善的注释和社区生态，让 AI 帮你定制改造；也可以将之作为深入了解和自定义 Rime 的起点。 使用雾凇拼音，享受…"
+  },
+  {
+    "id": "技术-github lua-https://github.com/nvim-lua/kickstart.nvim",
+    "feed_name": "github lua",
+    "category": "技术",
+    "title": "nvim-lua/kickstart.nvim",
+    "link": "https://github.com/nvim-lua/kickstart.nvim",
+    "pub_date": "",
+    "author": "",
+    "description": "A launch point for your personal nvim configuration kickstart.nvim Introduction A starting point for Neovim that is: Small Single-file Completely Documented NOT a Neovim distribution, but instead a starting point for you…",
+    "content": "A launch point for your personal nvim configuration kickstart.nvim Introduction A starting point for Neovim that is: Small Single-file Completely Documented NOT a Neovim distribution, but instead a starting point for your configuration. Installation Install Ne…"
   },
   {
     "id": "技术-github lua-https://github.com/overextended/ox_inventory",
@@ -913,39 +946,6 @@ const jsonData = [
     "content": "Slot-based inventory with metadata. ox_inventory A complete and modern inventory system for FiveM, providing a flexible slot-based inventory with support for shops, stashes, crafting, and vehicle storage. Refer to CONTRIBUTING.md for contribution guidelines an…"
   },
   {
-    "id": "技术-github lua-https://github.com/apache/apisix",
-    "feed_name": "github lua",
-    "category": "技术",
-    "title": "apache/apisix",
-    "link": "https://github.com/apache/apisix",
-    "pub_date": "",
-    "author": "",
-    "description": "The Cloud-Native API Gateway and AI Gateway Apache APISIX API Gateway ｜ AI Gateway Apache APISIX is a dynamic, real-time, high-performance API Gateway. APISIX API Gateway provides rich traffic management features such as…",
-    "content": "The Cloud-Native API Gateway and AI Gateway Apache APISIX API Gateway ｜ AI Gateway Apache APISIX is a dynamic, real-time, high-performance API Gateway. APISIX API Gateway provides rich traffic management features such as load balancing, dynamic upstream, canar…"
-  },
-  {
-    "id": "技术-github lua-https://github.com/CorsixTH/CorsixTH",
-    "feed_name": "github lua",
-    "category": "技术",
-    "title": "CorsixTH/CorsixTH",
-    "link": "https://github.com/CorsixTH/CorsixTH",
-    "pub_date": "",
-    "author": "",
-    "description": "Open source clone of Theme Hospital Latest Release Matrix Space | Matrix Chat | Discord | Report Issue | Reddit | Twitter/X | Facebook A reimplementation of the 1997 Bullfrog business sim Theme Hospital. As well as faith…",
-    "content": "Open source clone of Theme Hospital Latest Release Matrix Space | Matrix Chat | Discord | Report Issue | Reddit | Twitter/X | Facebook A reimplementation of the 1997 Bullfrog business sim Theme Hospital. As well as faithfully recreating the original, CorsixTH …"
-  },
-  {
-    "id": "技术-github lua-https://github.com/Kong/kong",
-    "feed_name": "github lua",
-    "category": "技术",
-    "title": "Kong/kong",
-    "link": "https://github.com/Kong/kong",
-    "pub_date": "",
-    "author": "",
-    "description": "🦍 The API and AI Gateway Kong or Kong Gateway is a cloud-native, platform-agnostic, scalable API 𖧹 LLM 𖧹 MCP Gateway distinguished for its high performance and extensibility via plugins. It also provides advanced AI t…",
-    "content": "🦍 The API and AI Gateway Kong or Kong Gateway is a cloud-native, platform-agnostic, scalable API 𖧹 LLM 𖧹 MCP Gateway distinguished for its high performance and extensibility via plugins. It also provides advanced AI traffic capabilities with multi-LLM suppo…"
-  },
-  {
     "id": "技术-github lua-https://github.com/opentibiabr/otclient",
     "feed_name": "github lua",
     "category": "技术",
@@ -955,6 +955,17 @@ const jsonData = [
     "author": "",
     "description": "An alternative tibia client for otserv written in C++20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize OTClient - Redempti…",
     "content": "An alternative tibia client for otserv written in C++20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize OTClient - Redemption 📋 Table of Contents What is OTClient…"
+  },
+  {
+    "id": "技术-github lua-https://github.com/apache/apisix",
+    "feed_name": "github lua",
+    "category": "技术",
+    "title": "apache/apisix",
+    "link": "https://github.com/apache/apisix",
+    "pub_date": "",
+    "author": "",
+    "description": "The Cloud-Native API Gateway and AI Gateway Apache APISIX API Gateway ｜ AI Gateway Apache APISIX is a dynamic, real-time, high-performance API Gateway. APISIX API Gateway provides rich traffic management features such as…",
+    "content": "The Cloud-Native API Gateway and AI Gateway Apache APISIX API Gateway ｜ AI Gateway Apache APISIX is a dynamic, real-time, high-performance API Gateway. APISIX API Gateway provides rich traffic management features such as load balancing, dynamic upstream, canar…"
   },
   {
     "id": "技术-github lua-https://github.com/koreader/koreader",
@@ -968,6 +979,17 @@ const jsonData = [
     "content": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices KOReader is a document viewer primarily aimed at e-ink readers. Download • User guide • Wiki • Developer docs …"
   },
   {
+    "id": "技术-github lua-https://github.com/CorsixTH/CorsixTH",
+    "feed_name": "github lua",
+    "category": "技术",
+    "title": "CorsixTH/CorsixTH",
+    "link": "https://github.com/CorsixTH/CorsixTH",
+    "pub_date": "",
+    "author": "",
+    "description": "Open source clone of Theme Hospital Latest Release Matrix Space | Matrix Chat | Discord | Report Issue | Reddit | Twitter/X | Facebook A reimplementation of the 1997 Bullfrog business sim Theme Hospital. As well as faith…",
+    "content": "Open source clone of Theme Hospital Latest Release Matrix Space | Matrix Chat | Discord | Report Issue | Reddit | Twitter/X | Facebook A reimplementation of the 1997 Bullfrog business sim Theme Hospital. As well as faithfully recreating the original, CorsixTH …"
+  },
+  {
     "id": "技术-github lua-https://github.com/id577/FS25_AdvancedDamageSystem",
     "feed_name": "github lua",
     "category": "技术",
@@ -979,15 +1001,15 @@ const jsonData = [
     "content": "Advanced Damage System mod for Farming Simulator 25 Important Support the Project Advanced Damage System is a passion project, and I’m doing my best to make it more realistic, stable, and enjoyable for the FS25 community. If you like the mod and want to suppor…"
   },
   {
-    "id": "技术-github lua-https://github.com/hrsh7th/nvim-cmp",
+    "id": "技术-github lua-https://github.com/folke/snacks.nvim",
     "feed_name": "github lua",
     "category": "技术",
-    "title": "hrsh7th/nvim-cmp",
-    "link": "https://github.com/hrsh7th/nvim-cmp",
+    "title": "folke/snacks.nvim",
+    "link": "https://github.com/folke/snacks.nvim",
     "pub_date": "",
     "author": "",
-    "description": "A completion plugin for neovim coded in Lua. nvim-cmp A completion engine plugin for neovim written in Lua. Completion sources are installed from external repositories and \"sourced\". https://github.com/hrsh7th/nvim-cmp/a…",
-    "content": "A completion plugin for neovim coded in Lua. nvim-cmp A completion engine plugin for neovim written in Lua. Completion sources are installed from external repositories and \"sourced\". https://github.com/hrsh7th/nvim-cmp/assets/22756295/afa70011-9121-4e42-aedd-0…"
+    "description": "🍿 A collection of QoL plugins for Neovim 🍿 snacks.nvim A collection of small QoL plugins for Neovim. ✨ Features Snack Description Setup animate Efficient animations including over 45 easing functions (library) bigfile …",
+    "content": "🍿 A collection of QoL plugins for Neovim 🍿 snacks.nvim A collection of small QoL plugins for Neovim. ✨ Features Snack Description Setup animate Efficient animations including over 45 easing functions (library) bigfile Deal with big files ‼️ bufdelete Delete …"
   },
   {
     "id": "技术-github lua-https://github.com/KristalTeam/Kristal",
@@ -1001,26 +1023,48 @@ const jsonData = [
     "content": "Deltarune fangame engine for Love2D Kristal Kristal is a powerful DELTARUNE fangame and battle engine, made with LÖVE . It allows you to make custom DELTARUNE worlds, battles, and more! Warning Make sure to read the downloading section of this README before at…"
   },
   {
-    "id": "技术-github lua-https://github.com/folke/sidekick.nvim",
+    "id": "技术-github lua-https://github.com/hrsh7th/nvim-cmp",
     "feed_name": "github lua",
     "category": "技术",
-    "title": "folke/sidekick.nvim",
-    "link": "https://github.com/folke/sidekick.nvim",
+    "title": "hrsh7th/nvim-cmp",
+    "link": "https://github.com/hrsh7th/nvim-cmp",
     "pub_date": "",
     "author": "",
-    "description": "Your Neovim AI sidekick 🤖 sidekick.nvim sidekick.nvim is your Neovim AI sidekick that integrates Copilot LSP's \"Next Edit Suggestions\" with a built-in terminal for any AI CLI. Review and apply diffs, chat with AI assist…",
-    "content": "Your Neovim AI sidekick 🤖 sidekick.nvim sidekick.nvim is your Neovim AI sidekick that integrates Copilot LSP's \"Next Edit Suggestions\" with a built-in terminal for any AI CLI. Review and apply diffs, chat with AI assistants, and streamline your coding, withou…"
+    "description": "A completion plugin for neovim coded in Lua. nvim-cmp A completion engine plugin for neovim written in Lua. Completion sources are installed from external repositories and \"sourced\". https://github.com/hrsh7th/nvim-cmp/a…",
+    "content": "A completion plugin for neovim coded in Lua. nvim-cmp A completion engine plugin for neovim written in Lua. Completion sources are installed from external repositories and \"sourced\". https://github.com/hrsh7th/nvim-cmp/assets/22756295/afa70011-9121-4e42-aedd-0…"
   },
   {
-    "id": "技术-github lua-https://github.com/olimorris/codecompanion.nvim",
+    "id": "技术-github lua-https://github.com/rittermod/FS25_RealisticLivestockRM",
     "feed_name": "github lua",
     "category": "技术",
-    "title": "olimorris/codecompanion.nvim",
-    "link": "https://github.com/olimorris/codecompanion.nvim",
+    "title": "rittermod/FS25_RealisticLivestockRM",
+    "link": "https://github.com/rittermod/FS25_RealisticLivestockRM",
     "pub_date": "",
     "author": "",
-    "description": "✨ AI Coding, Vim Style A Neovim AI coding assistant for coding with LLMs (Anthropic, OpenAI, Gemini, Copilot and more) and AI agents. With built-in support for Agent Client Protocol (ACP), Model Context Protocol (MCP), a…",
-    "content": "✨ AI Coding, Vim Style A Neovim AI coding assistant for coding with LLMs (Anthropic, OpenAI, Gemini, Copilot and more ) and AI agents. With built-in support for Agent Client Protocol (ACP) , Model Context Protocol (MCP) , and agents like Claude Code and Codex …"
+    "description": "FS25_RealisticLivestock - Ritter version Note My version of the awesome FS25 Realistic Livestock mod by Arrow-kb. FS25 Realistic Livestock - Ritter version Replaces FS25's simple animal clusters with individually tracked…",
+    "content": "FS25_RealisticLivestock - Ritter version Note My version of the awesome FS25 Realistic Livestock mod by Arrow-kb . FS25 Realistic Livestock - Ritter version Replaces FS25's simple animal clusters with individually tracked animals - each with unique genetics, b…"
+  },
+  {
+    "id": "技术-github lua-https://github.com/LazyVim/LazyVim",
+    "feed_name": "github lua",
+    "category": "技术",
+    "title": "LazyVim/LazyVim",
+    "link": "https://github.com/LazyVim/LazyVim",
+    "pub_date": "",
+    "author": "",
+    "description": "Neovim config for the lazy Install · Configure · Docs LazyVim is a Neovim setup powered by 💤 lazy.nvim to make it easy to customize and extend your config. Rather than having to choose between starting from scratch or u…",
+    "content": "Neovim config for the lazy Install · Configure · Docs LazyVim is a Neovim setup powered by 💤 lazy.nvim to make it easy to customize and extend your config. Rather than having to choose between starting from scratch or using a pre-made distro, LazyVim offers t…"
+  },
+  {
+    "id": "技术-github lua-https://github.com/ntop/ntopng",
+    "feed_name": "github lua",
+    "category": "技术",
+    "title": "ntop/ntopng",
+    "link": "https://github.com/ntop/ntopng",
+    "pub_date": "",
+    "author": "",
+    "description": "Web-based Traffic and Cybersecurity Network Traffic Monitoring ntopng Introduction ntopng® is a web-based network traffic monitoring application released under GPLv3. It is the new incarnation of the original ntop writte…",
+    "content": "Web-based Traffic and Cybersecurity Network Traffic Monitoring ntopng Introduction ntopng® is a web-based network traffic monitoring application released under GPLv3. It is the new incarnation of the original ntop written in 1998, and now revamped in terms of …"
   },
   {
     "id": "技术-github lua-https://github.com/Footagesus/WindUI",
