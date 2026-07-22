@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-07-21T23:51:50.813Z",
-  "ended_at": "2026-07-21T23:51:51.014Z",
-  "duration_ms": 201,
+  "started_at": "2026-07-22T08:10:47.680Z",
+  "ended_at": "2026-07-22T08:10:47.868Z",
+  "duration_ms": 188,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -21,7 +21,7 @@
     "failed_sources": 13,
     "circuit_open_sources": 13,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1353,
+    "total_items_after_dedupe": 1347,
     "total_items_after_retention": 1130,
     "build_blocked": false
   },
@@ -60,7 +60,7 @@
     {
       "title": "github python",
       "url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-      "reason": "Invalid character in entity name\nLine: 6749\nColumn: 84\nChar: =",
+      "reason": "Invalid character in entity name\nLine: 10020\nColumn: 84\nChar: =",
       "skippedByCircuit": true
     },
     {
@@ -135,7 +135,7 @@
     {
       "title": "github python",
       "url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-      "reason": "Invalid character in entity name\nLine: 6749\nColumn: 84\nChar: ="
+      "reason": "Invalid character in entity name\nLine: 10020\nColumn: 84\nChar: ="
     },
     {
       "title": "全球主机交流论坛",
