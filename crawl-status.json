@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-07-22T08:10:47.680Z",
-  "ended_at": "2026-07-22T08:10:47.868Z",
-  "duration_ms": 188,
+  "started_at": "2026-07-22T23:57:06.515Z",
+  "ended_at": "2026-07-22T23:57:06.725Z",
+  "duration_ms": 210,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -17,12 +17,12 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 46,
-    "failed_sources": 13,
-    "circuit_open_sources": 13,
+    "cache_hit_sources": 47,
+    "failed_sources": 12,
+    "circuit_open_sources": 12,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1347,
-    "total_items_after_retention": 1130,
+    "total_items_after_dedupe": 1363,
+    "total_items_after_retention": 1143,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -55,12 +55,6 @@
       "title": "端传媒 / 深度",
       "url": "https://plink.anyfeeder.com/initium/feature",
       "reason": "HTTP 503",
-      "skippedByCircuit": true
-    },
-    {
-      "title": "github python",
-      "url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-      "reason": "Invalid character in entity name\nLine: 10020\nColumn: 84\nChar: =",
       "skippedByCircuit": true
     },
     {
@@ -131,11 +125,6 @@
       "title": "端传媒 / 深度",
       "url": "https://plink.anyfeeder.com/initium/feature",
       "reason": "HTTP 503"
-    },
-    {
-      "title": "github python",
-      "url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml",
-      "reason": "Invalid character in entity name\nLine: 10020\nColumn: 84\nChar: ="
     },
     {
       "title": "全球主机交流论坛",
