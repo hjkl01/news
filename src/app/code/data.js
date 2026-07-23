@@ -95,8 +95,8 @@ const jsonData = [
     "link": "https://github.com/ayghri/i-have-adhd",
     "pub_date": "",
     "author": "",
-    "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output. ADHD-friendly outputs. No ADHD diagnosis needed! Install Claude Code claude plugin marketplace add ayghri/i-have-adhd claude plugin …",
-    "content": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output. ADHD-friendly outputs. No ADHD diagnosis needed! Install Claude Code claude plugin marketplace add ayghri/i-have-adhd claude plugin install i-have-adhd@i-have-adhd Then typ…"
+    "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output. ADHD-friendly outputs. No ADHD diagnosis needed! English · 简体中文 · 日本語 Install Claude Code claude plugin marketplace add ayghri/i-hav…",
+    "content": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output. ADHD-friendly outputs. No ADHD diagnosis needed! English · 简体中文 · 日本語 Install Claude Code claude plugin marketplace add ayghri/i-have-adhd claude plugin install i-have-adhd…"
   },
   {
     "id": "技术-github all-https://github.com/schollz/croc",
@@ -150,8 +150,8 @@ const jsonData = [
     "link": "https://github.com/diegosouzapw/OmniRoute",
     "pub_date": "",
     "author": "",
-    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. …",
-    "content": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman c…"
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. …",
+    "content": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman c…"
   },
   {
     "id": "技术-github all-https://github.com/shiyu-coder/Kronos",
@@ -977,17 +977,6 @@ const jsonData = [
     "author": "",
     "description": "Official remote MCP server for Atlassian. Securely connect Jira, Confluence, Jira Service Management, Bitbucket, and Compass to Claude, ChatGPT, Cursor, VS Code, and other AI tools using OAuth 2.1 or API tokens. Atlassia…",
     "content": "Official remote MCP server for Atlassian. Securely connect Jira, Confluence, Jira Service Management, Bitbucket, and Compass to Claude, ChatGPT, Cursor, VS Code, and other AI tools using OAuth 2.1 or API tokens. Atlassian Rovo MCP Server The official Model Con…"
-  },
-  {
-    "id": "技术-github javascript-https://github.com/conorbronsdon/avoid-ai-writing",
-    "feed_name": "github javascript",
-    "category": "技术",
-    "title": "conorbronsdon/avoid-ai-writing",
-    "link": "https://github.com/conorbronsdon/avoid-ai-writing",
-    "pub_date": "",
-    "author": "",
-    "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, and Hermes. avoid-ai-writing Audit & rewrite content to remove AI writing patterns. …",
-    "content": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, and Hermes. avoid-ai-writing Audit &amp; rewrite content to remove AI writing patterns. A practical skill for any AI agent. …"
   },
   {
     "id": "技术-github javascript-https://github.com/OpenWhispr/openwhispr",
