@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-07-26T08:10:40.110Z",
-  "ended_at": "2026-07-26T08:10:40.358Z",
-  "duration_ms": 248,
+  "started_at": "2026-07-26T23:54:55.094Z",
+  "ended_at": "2026-07-26T23:54:55.345Z",
+  "duration_ms": 251,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -22,7 +22,7 @@
     "circuit_open_sources": 12,
     "critical_failures": 0,
     "total_items_after_dedupe": 1356,
-    "total_items_after_retention": 1129,
+    "total_items_after_retention": 1127,
     "build_blocked": false
   },
   "critical_failures": [],
