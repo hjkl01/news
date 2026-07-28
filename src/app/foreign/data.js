@@ -1,5 +1,137 @@
 const jsonData = [
   {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/crmrk3p3e3wo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "自然災害頻傳，中國面臨新挑戰——AI偽造視頻",
+    "link": "https://www.bbc.com/zhongwen/articles/crmrk3p3e3wo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-07-28 15:32:39",
+    "author": "",
+    "description": "CCTV / 截图显示官方中国中央电视台正在辟谣AI内容。 随着中国应对周末登陆的台风“红霞”的影响，官员们将痛苦地意识到，他们可能还会面临一项额外的挑战：利用人工智能（Artificial Intelligence, AI；人工智慧）制作的危险误导性影片。 过去几个月，强风暴和洪水灾害频发，导致社交媒体平台上充斥着大量虚假视频——其中包括漂浮在洪水中的尸体图片、对实际未受影响地区发生严重洪灾的虚假描述，以及对应急响应工作进行明显虚假描…",
+    "content": "CCTV / 截图显示官方中国中央电视台正在辟谣AI内容。 随着中国应对周末登陆的台风“红霞”的影响，官员们将痛苦地意识到，他们可能还会面临一项额外的挑战：利用人工智能（Artificial Intelligence, AI；人工智慧）制作的危险误导性影片。 过去几个月，强风暴和洪水灾害频发，导致社交媒体平台上充斥着大量虚假视频——其中包括漂浮在洪水中的尸体图片、对实际未受影响地区发生严重洪灾的虚假描述，以及对应急响应工作进行明显虚假描述的视频。 在一些地区，包含停电虚假资讯的影片引发居民恐慌性抢购紧急物资。 还有…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20260728/china-uyghurs/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "参与镇压维吾尔人的前新疆警察：我也是受害者",
+    "link": "https://cn.nytimes.com/china/20260728/china-uyghurs/dual",
+    "pub_date": "2026-07-28 14:36:02",
+    "author": "",
+    "description": "袁莉2026年7月28日 Halfway through a short speech he was giving at the German Bundestag, Zhang Yabo began to choke back tears. 在德国联邦议院发表的简短演讲进行到一半时，张亚博开始强忍泪水。 Mr. Zhang had served for nine years as a police officer in Xinjiang…",
+    "content": "袁莉 2026年7月28日 Halfway through a short speech he was giving at the German Bundestag, Zhang Yabo began to choke back tears. 在德国联邦议院发表的简短演讲进行到一半时，张亚博开始强忍泪水。 Mr. Zhang had served for nine years as a police officer in Xinjiang, an enforcer in China’s campaign to su…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/technology/20260728/moonshot-kimi-k3-china-ai/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "Kimi K3技术细节公开，用户需获商业授权",
+    "link": "https://cn.nytimes.com/technology/20260728/moonshot-kimi-k3-china-ai/dual",
+    "pub_date": "2026-07-28 13:06:02",
+    "author": "",
+    "description": "MEAGHAN TOBIN2026年7月28日本月在上海举行的世界人工智能大会上，月之暗面展示了Kimi K3模型。 Hector Retamal/Agence France-Presse — Getty Images The Chinese start-up Moonshot publicly released the details of its latest artificial intelligence model on Mon…",
+    "content": "MEAGHAN TOBIN 2026年7月28日 本月在上海举行的世界人工智能大会上，月之暗面展示了Kimi K3模型。 Hector Retamal/Agence France-Presse — Getty Images The Chinese start-up Moonshot publicly released the details of its latest artificial intelligence model on Monday, showing the world how it was buil…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cg5lvqre8lzo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "唐山大地震50週年：從毛澤東批閱到44年後的餘震，五個鮮為人知的歷史細節",
+    "link": "https://www.bbc.com/zhongwen/articles/cg5lvqre8lzo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-07-28 12:09:58",
+    "author": "",
+    "description": "Getty Images / 一名游客在中国河北省唐山市，参观一处刻有唐山地震日期的纪念建筑遗址 整整50年前，1976年7月28日凌晨3时42分，中国河北省唐山市发生7.8级地震，约24.2万人遇难。 那一年，周恩来、朱德、毛泽东先后去世，再加上一场惨烈的地震。于是，在中国人的记忆与叙述之中，它不仅是一场自然灾难，更被视作那个充满变数与转折的“巨变之年”里，一个带有浓厚宿命论色彩的历史注脚。 但这场灾难与政治的纠葛，往往掩盖了灾难本身…",
+    "content": "Getty Images / 一名游客在中国河北省唐山市，参观一处刻有唐山地震日期的纪念建筑遗址 整整50年前，1976年7月28日凌晨3时42分，中国河北省唐山市发生7.8级地震，约24.2万人遇难。 那一年，周恩来、朱德、毛泽东先后去世，再加上一场惨烈的地震。于是，在中国人的记忆与叙述之中，它不仅是一场自然灾难，更被视作那个充满变数与转折的“巨变之年”里，一个带有浓厚宿命论色彩的历史注脚。 但这场灾难与政治的纠葛，往往掩盖了灾难本身的诸多细节，而它真正意义上的“影响深远”，不仅体现在地质层面——它的余震甚至在4…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/technology/20260728/china-ai-alibaba-bytedance/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "中国人工智能模型快速崛起，但企业如何赚钱？",
+    "link": "https://cn.nytimes.com/technology/20260728/china-ai-alibaba-bytedance/dual",
+    "pub_date": "2026-07-28 11:36:01",
+    "author": "",
+    "description": "MEAGHAN TOBIN2026年7月28日在上海举行的世界人工智能大会期间，参观者来到月之暗面展台，该展台展示了Kimi K3模型。 Hector Retamal/Agence France-Presse — Getty Images China’s leading technology companies have been steadily releasing artificial intelligence models tha…",
+    "content": "MEAGHAN TOBIN 2026年7月28日 在上海举行的世界人工智能大会期间，参观者来到月之暗面展台，该展台展示了Kimi K3模型。 Hector Retamal/Agence France-Presse — Getty Images China’s leading technology companies have been steadily releasing artificial intelligence models that perform nearly as well as the best s…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c70gzyjnj44o/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "香港前議員胡志偉獲准如常逗留英國 向BBC中文談機場風波",
+    "link": "https://www.bbc.com/zhongwen/articles/c70gzyjnj44o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-07-28 10:14:35",
+    "author": "",
+    "description": "BBC / 按原先入境保释文件，胡志伟他须于7月29日报到接受遣返。他担心或影响日后与家人团聚。 前香港立法会议员，初选“47人案”刑满获释被告人胡志伟上周抵达伦敦后遭英国边境部队（UK Border Force）扣留近10小时，并拒绝其入境。英国内政部经一轮交涉后改变主意，让胡志伟以一般访客身分逗留。 胡志伟上周三（7月22日）清晨从香港飞抵伦敦希斯罗机场（London Heathrow Airport；希斯路机场），以英国国民（海外…",
+    "content": "BBC / 按原先入境保释文件，胡志伟他须于7月29日报到接受遣返。他担心或影响日后与家人团聚。 前香港立法会议员，初选“47人案”刑满获释被告人胡志伟上周抵达伦敦后遭英国边境部队（UK Border Force）扣留近10小时，并拒绝其入境。英国内政部经一轮交涉后改变主意，让胡志伟以一般访客身分逗留。 胡志伟上周三（7月22日）清晨从香港飞抵伦敦希斯罗机场（London Heathrow Airport；希斯路机场），以英国国民（海外）（BN(O)）护照入境，但被扣查。英国《泰晤士报》披露此事，并称他原拟申请政治…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20260728/vietnam-south-china-sea-ship-sink/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "越南货船在南海争议海域沉没，中国参与救援",
+    "link": "https://cn.nytimes.com/asia-pacific/20260728/vietnam-south-china-sea-ship-sink/dual",
+    "pub_date": "2026-07-28 10:06:02",
+    "author": "",
+    "description": "TUNG NGO, MAX KIM2026年7月28日 A Vietnamese cargo ship that sank in a heavily disputed section of the South China Sea on Saturday was part of island-building projects to assert Vietnamese sovereignty against Chinese claims …",
+    "content": "TUNG NGO, MAX KIM 2026年7月28日 A Vietnamese cargo ship that sank in a heavily disputed section of the South China Sea on Saturday was part of island-building projects to assert Vietnamese sovereignty against Chinese claims in the area, according to a Vietnamese …"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20260728/cxmt-stock-price-ai/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "长鑫存储上市首日股价飙升470%",
+    "link": "https://cn.nytimes.com/business/20260728/cxmt-stock-price-ai/dual",
+    "pub_date": "2026-07-28 09:36:02",
+    "author": "",
+    "description": "STEVE LOHR2026年7月28日中国最大的内存芯片制造商长鑫存储位于合肥的总部。 Agence France-Presse — Getty Images Shares in China’s leading memory chipmaker soared about 470 percent on its first day of trading on Monday, quickly making it the most valua…",
+    "content": "STEVE LOHR 2026年7月28日 中国最大的内存芯片制造商长鑫存储位于合肥的总部。 Agence France-Presse — Getty Images Shares in China’s leading memory chipmaker soared about 470 percent on its first day of trading on Monday, quickly making it the most valuable company on the Shanghai stock exch…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/opinion/20260728/asia-military-security-china-allies/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "亚洲安全局势正经历一场历史性的转变",
+    "link": "https://cn.nytimes.com/opinion/20260728/asia-military-security-china-allies/dual",
+    "pub_date": "2026-07-28 08:36:02",
+    "author": "",
+    "description": "JENNIFER KAVANAGH2026年7月28日 A historic shift has gathered pace across Asia this summer. 今年夏天，一场历史性的转变在整个亚洲加速推进。 Over the past several weeks, China has extended maritime patrols to cover Taiwan’s east coast, demonstrating…",
+    "content": "JENNIFER KAVANAGH 2026年7月28日 A historic shift has gathered pace across Asia this summer. 今年夏天，一场历史性的转变在整个亚洲加速推进。 Over the past several weeks, China has extended maritime patrols to cover Taiwan’s east coast , demonstrating its ability to encircle the island. I…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c1l1m1v953no/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "「這不只是帶來不便」：我們低估了月經過多對健康造成的影響",
+    "link": "https://www.bbc.com/zhongwen/articles/c1l1m1v953no/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-07-28 08:16:03",
+    "author": "",
+    "description": "Prashanti Aswani 从12至13岁开始，米歇尔·奥尔斯顿（Michelle Alston）每逢月经最严重的几天都会在学校护士室里度过。她一边承受剧烈疼痛，一边面对经血渗透的情况。 她说：“我从小被教导，这只是正常现象，这只是你必须学会应付的事情。” 她感到虚弱，觉得自己不像同龄人那样能够处理月经。直到40岁出头，她才知道自己的虚弱感与意志力无关——她的月经量其实异常地多。 当月经期间出血量多到影响生活质素时，医生称之为“月…",
+    "content": "Prashanti Aswani 从12至13岁开始，米歇尔·奥尔斯顿（Michelle Alston）每逢月经最严重的几天都会在学校护士室里度过。她一边承受剧烈疼痛，一边面对经血渗透的情况。 她说：“我从小被教导，这只是正常现象，这只是你必须学会应付的事情。” 她感到虚弱，觉得自己不像同龄人那样能够处理月经。直到40岁出头，她才知道自己的虚弱感与意志力无关——她的月经量其实异常地多。 当月经期间出血量多到影响生活质素时，医生称之为“月经量过多”（heavy menstrual bleeding；经血过多），这是一…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c0ejq8n30qxo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "「這只是開始」：印度Z世代抗議者迫使教育部長下台，然後呢？",
+    "link": "https://www.bbc.com/zhongwen/articles/c0ejq8n30qxo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-07-28 08:15:40",
+    "author": "",
+    "description": "EPA / 上周，数以千计民众在印度不同城市走上街头参加抗议活动。 在纳伦德拉·莫迪（Narendra Modi）执政印度的12年间，此前只有一名内阁部长曾经辞职，而原因是涉及性行为不当指控。 因此，教育部长达尔门德拉·普拉丹（Dharmendra Pradhan）在超过一周激烈街头抗议后于上星期六（7月25日）辞职，便成为了一个具有标志性意义的时刻。许多年轻人将此视为一次罕见的胜利而加以庆祝。 正如22岁、身在德里的学生运动人士萨基（…",
+    "content": "EPA / 上周，数以千计民众在印度不同城市走上街头参加抗议活动。 在纳伦德拉·莫迪（Narendra Modi）执政印度的12年间，此前只有一名内阁部长曾经辞职，而原因是涉及性行为不当指控。 因此，教育部长达尔门德拉·普拉丹（Dharmendra Pradhan）在超过一周激烈街头抗议后于上星期六（7月25日）辞职，便成为了一个具有标志性意义的时刻。许多年轻人将此视为一次罕见的胜利而加以庆祝。 正如22岁、身在德里的学生运动人士萨基（Sakhi）所说：“这是我第一次感到，我们能够透过抗议促成改变。” 普拉丹辞职后…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260728-%E9%87%8D%E5%BA%86%E5%B1%B1%E5%B4%A9%E7%8E%B0%E5%9C%BA%E5%AF%BB%E8%8E%B7%E5%A4%B1%E8%81%94%E5%AE%A2%E8%BF%90%E4%B8%AD%E5%B7%B4%E8%BD%A6%E5%8F%8A%E4%BA%BA%E4%BD%93%E6%AE%8B%E9%AA%B8",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "重庆山崩现场寻获失联客运中巴车及人体残骸 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260728-%E9%87%8D%E5%BA%86%E5%B1%B1%E5%B4%A9%E7%8E%B0%E5%9C%BA%E5%AF%BB%E8%8E%B7%E5%A4%B1%E8%81%94%E5%AE%A2%E8%BF%90%E4%B8%AD%E5%B7%B4%E8%BD%A6%E5%8F%8A%E4%BA%BA%E4%BD%93%E6%AE%8B%E9%AA%B8",
+    "pub_date": "2026-07-28 08:15:03",
+    "author": "",
+    "description": "28/07/2026 - 02:09 重庆市彭水县17日9时左右发生大型山体崩塌事件，造成10人受伤、11人死亡、50人失联。失联人员凶多吉少。 官方27日通报，搜救人员已于26日晚间在灾害现场找到失联的客运中巴车残骸，并在车辆残骸内部及周边发现人体残骸，目前正进行DNA检测以确认身分。 彭水官方23日曾通报，该县17日上午9时左右发生大型山体崩塌。由于现场崩塌土石的方量大、坠落的巨石体积大且数量多，加上作业空间狭窄、边坡稳定性差，救援…",
+    "content": "28/07/2026 - 02:09 重庆市彭水县17日9时左右发生大型山体崩塌事件，造成10人受伤、11人死亡、50人失联。失联人员凶多吉少。 官方27日通报，搜救人员已于26日晚间在灾害现场找到失联的客运中巴车残骸，并在车辆残骸内部及周边发现人体残骸，目前正进行DNA检测以确认身分。 彭水官方23日曾通报，该县17日上午9时左右发生大型山体崩塌。由于现场崩塌土石的方量大、坠落的巨石体积大且数量多，加上作业空间狭窄、边坡稳定性差，救援难度极高。 官方表示，已调集多方专业力量，投入大型工程机械、生命探测设备及无人机…"
+  },
+  {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260727-%E4%B9%8C%E5%85%8B%E5%85%B0%E6%80%BB%E7%BB%9F%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E8%AE%BF%E7%BE%8E%E5%89%8D%E5%91%A8%E4%B8%80%E5%88%B0%E8%AE%BF%E8%8B%B1%E5%9B%BD",
     "feed_name": "RFI 法国国际广播电台",
     "category": "国外",
@@ -108,17 +240,6 @@ const jsonData = [
     "author": "",
     "description": "27/07/2026 - 19:49 美国总统特朗普（Donald Trump）将于28日在白宫会见到访的以色列总理内塔尼亚胡（Benjamin Netanyahu），双方预料将聚焦伊朗核计划、美伊谈判、霍尔木兹海峡安全，以及加沙与黎巴嫩局势。 这将是自今年2月底美伊冲突爆发以来，两人首次面对面会谈，也是特朗普重返白宫后第八度与内塔尼亚胡举行正式会晤。 此次峰会正值美国与伊朗经历新一轮军事冲突后暂时停火之际。特朗普日前宣布暂停对伊朗的军…",
     "content": "27/07/2026 - 19:49 美国总统特朗普（Donald Trump）将于28日在白宫会见到访的以色列总理内塔尼亚胡（Benjamin Netanyahu），双方预料将聚焦伊朗核计划、美伊谈判、霍尔木兹海峡安全，以及加沙与黎巴嫩局势。 这将是自今年2月底美伊冲突爆发以来，两人首次面对面会谈，也是特朗普重返白宫后第八度与内塔尼亚胡举行正式会晤。 此次峰会正值美国与伊朗经历新一轮军事冲突后暂时停火之际。特朗普日前宣布暂停对伊朗的军事打击，伊朗则表示，只要美方维持停火，德黑兰也将停止攻击行动。不过，美方仍持续透…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c70gzyjnj44o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "香港前議員胡志偉獲准如常逗留英國 向BBC中文談機場風波",
-    "link": "https://www.bbc.com/zhongwen/articles/c70gzyjnj44o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-07-28 02:02:29",
-    "author": "",
-    "description": "BBC / 按原先入境保释文件，胡志伟他须于7月29日报到接受遣返。他担心或影响日后与家人团聚。 前香港立法会议员，初选“47人案”刑满获释被告人胡志伟上周抵达伦敦后遭英国边境部队（UK Border Force）扣留近10小时，并拒绝其入境。英国内政部经一轮交涉后改变主意，让胡志伟以一般访客身分逗留。 胡志伟上周三（7月22日）清晨从香港飞抵伦敦希斯罗机场（London Heathrow Airport；希斯路机场），以英国国民（海外…",
-    "content": "BBC / 按原先入境保释文件，胡志伟他须于7月29日报到接受遣返。他担心或影响日后与家人团聚。 前香港立法会议员，初选“47人案”刑满获释被告人胡志伟上周抵达伦敦后遭英国边境部队（UK Border Force）扣留近10小时，并拒绝其入境。英国内政部经一轮交涉后改变主意，让胡志伟以一般访客身分逗留。 胡志伟上周三（7月22日）清晨从香港飞抵伦敦希斯罗机场（London Heathrow Airport；希斯路机场），以英国国民（海外）（BN(O)）护照入境，但被扣查。英国《泰晤士报》披露此事，并称他原拟申请政治…"
   },
   {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260727-%E5%A5%BD%E6%B6%88%E6%81%AF-%E6%B3%95%E5%9B%BD%E5%86%8D%E8%8E%B7%E4%B8%A4%E6%9E%B6%E5%A2%9E%E6%8F%B4%E7%81%AD%E7%81%AB%E6%9C%BA",
@@ -253,17 +374,6 @@ const jsonData = [
     "content": "The Washington Post via Getty Images / 出事的金岭矿场含有庞大的金矿，由中资公司拥有。（2021年资料照） 所罗门群岛（Solomon Islands）主要金矿金岭矿场（Gold Ridge）发生坍塌，当地媒体报导称恐怕至少10人遇难，但中国矿主否认。 事故发生在周一（7月27日）凌晨时分，报导称遇害的并非矿场雇用的矿工，或称“非正式矿工”，运营金矿的中国万国黄金集团则称这宗“局部溜坡”事件“未造成人员伤亡”。 位于所罗门群岛主岛瓜达尔卡纳尔岛（Guadalcanal Isla…"
   },
   {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20260727-%E6%93%85%E9%97%AF%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%97%A5%E5%A4%A7%E4%BD%BF%E9%A6%86%E7%9A%8424%E5%B2%81%E8%87%AA%E5%8D%AB%E5%AE%98%E8%A2%AB%E8%B5%B7%E8%AF%89",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "擅闯中国驻日大使馆的24岁自卫官在东京被起诉 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20260727-%E6%93%85%E9%97%AF%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%97%A5%E5%A4%A7%E4%BD%BF%E9%A6%86%E7%9A%8424%E5%B2%81%E8%87%AA%E5%8D%AB%E5%AE%98%E8%A2%AB%E8%B5%B7%E8%AF%89",
-    "pub_date": "2026-07-27 19:45:03",
-    "author": "",
-    "description": "27/07/2026 - 12:47 就曾擅闯中国驻日大使馆的隶属于日本陆上自卫队虾野驻地（宫崎县）的三等陆尉村田晃大，东京地方检察厅周一以擅闯建筑物、违反《枪刀法》和进行威胁的罪名对其加以起诉。 据日本放送协会（NHK）报导，现年24岁的村田于今年3月被指控非法侵入并违反《枪刀法》，原因是他涉嫌携带一把刀刃长约18厘米的厨刀进入位于东京港区的中国驻日大使馆。 随后查明，该自卫官当时被大使馆相关人员当场控制，在接受问询时曾发表“日本的爱…",
-    "content": "27/07/2026 - 12:47 就曾擅闯中国驻日大使馆的隶属于日本陆上自卫队虾野驻地（宫崎县）的三等陆尉村田晃大，东京地方检察厅周一以擅闯建筑物、违反《枪刀法》和进行威胁的罪名对其加以起诉。 据日本放送协会（NHK）报导，现年24岁的村田于今年3月被指控非法侵入并违反《枪刀法》，原因是他涉嫌携带一把刀刃长约18厘米的厨刀进入位于东京港区的中国驻日大使馆。 随后查明，该自卫官当时被大使馆相关人员当场控制，在接受问询时曾发表“日本的爱国者将代表日本的神将你们杀死”等言论，因此还被以威胁罪起诉。 东京地方检察厅为查…"
-  },
-  {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20260727/trump-trapped-in-iran-war/dual",
     "feed_name": "纽约时报双语版",
     "category": "国外",
@@ -311,12 +421,12 @@ const jsonData = [
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/ce34qp6zdryo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
-    "title": "一文讀懂德國柏林驕傲遊行攻擊事經過",
+    "title": "一文讀懂柏林驕傲遊行攻擊事件的最新情況",
     "link": "https://www.bbc.com/zhongwen/articles/ce34qp6zdryo/simp?at_medium=RSS&at_campaign=rss",
     "pub_date": "2026-07-27 15:10:04",
     "author": "",
-    "description": "EPA / 德国总理默茨称，这次攻击事件“令人发指”。 周六（7月22日）晚间，一辆厢型车冲入柏林同志骄傲（Berlin Pride）活动的人群中，造成一名女子死亡、至少29人受伤，官员表示这很可能是一场“伊斯兰主义恐怖攻击”。 嫌犯、21岁的阿卜杜勒·巴卢特（Abdul Ballout），在柏林西部的一场警方行动中遭枪击身亡。 德国总理弗里德里希·默茨（Friedrich Merz；梅尔茨）谴责这起事件是“令人发指”的攻击。 以下是目…",
-    "content": "EPA / 德国总理默茨称，这次攻击事件“令人发指”。 周六（7月22日）晚间，一辆厢型车冲入柏林同志骄傲（Berlin Pride）活动的人群中，造成一名女子死亡、至少29人受伤，官员表示这很可能是一场“伊斯兰主义恐怖攻击”。 嫌犯、21岁的阿卜杜勒·巴卢特（Abdul Ballout），在柏林西部的一场警方行动中遭枪击身亡。 德国总理弗里德里希·默茨（Friedrich Merz；梅尔茨）谴责这起事件是“令人发指”的攻击。 以下是目前我们所知的情况。 View this post on Instagram 柏林…"
+    "description": "Reuters / 当天攻击发生情况 周六晚间，一辆厢型车冲入柏林同志骄傲活动的人群中，造成一名女子死亡、至少29人受伤，官员表示这很可能是一场“伊斯兰主义恐怖攻击”。 嫌犯、21岁的阿卜杜勒·巴卢特（Abdul Ballout），已在柏林西部的一场警方行动中遭枪击身亡。 德国总理弗里德里希·默茨（Friedrich Merz）谴责这起事件是“令人发指”的攻击。 以下是目前我们所知的情况。 What happened in the Be…",
+    "content": "Reuters / 当天攻击发生情况 周六晚间，一辆厢型车冲入柏林同志骄傲活动的人群中，造成一名女子死亡、至少29人受伤，官员表示这很可能是一场“伊斯兰主义恐怖攻击”。 嫌犯、21岁的阿卜杜勒·巴卢特（Abdul Ballout），已在柏林西部的一场警方行动中遭枪击身亡。 德国总理弗里德里希·默茨（Friedrich Merz）谴责这起事件是“令人发指”的攻击。 以下是目前我们所知的情况。 What happened in the Berlin Pride attack? 攻击发生在当地时间约22:00（格林威治标…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c1l1m290yl3o/simp?at_medium=RSS&at_campaign=rss",
@@ -341,28 +451,6 @@ const jsonData = [
     "content": "储百亮, AMY CHANG CHIEN 2026年7月27日 北京某购物中心外的一块巨型屏幕播放的新闻画面显示，中国海警在台湾周边海域巡逻，摄于2025年。 Florence Lo/Reuters As armed Chinese ships expand patrols around Taiwan, officials in Taipei are more urgently testing how they would keep fuel and other vital supplies flowing if …"
   },
   {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20260727/nato-canada-china-arrest-spying/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "北约一名加拿大华裔实习生因涉嫌从事间谍活动被捕",
-    "link": "https://cn.nytimes.com/world/20260727/nato-canada-china-arrest-spying/dual",
-    "pub_date": "2026-07-27 10:36:02",
-    "author": "",
-    "description": "FRANCESCA REGALADO2026年7月27日位于比利时的北约军事总部，简称SHAPE。 Nic Edouard Bocquet/SHAPE, via Reuters The authorities in Belgium said on Saturday that a Canadian intern at the North Atlantic Treaty Organization’s military headquarter…",
-    "content": "FRANCESCA REGALADO 2026年7月27日 位于比利时的北约军事总部，简称SHAPE。 Nic Edouard Bocquet/SHAPE, via Reuters The authorities in Belgium said on Saturday that a Canadian intern at the North Atlantic Treaty Organization’s military headquarters had been arrested on suspicion of sp…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20260727/china-tariffs-trump/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "特朗普全球新关税对中国影响有限",
-    "link": "https://cn.nytimes.com/business/20260727/china-tariffs-trump/dual",
-    "pub_date": "2026-07-27 10:06:02",
-    "author": "",
-    "description": "艾莎2026年7月27日对华加征关税是特朗普为重塑全球贸易所做更广泛努力的一部分。 Qilai Shen for The New York Times China’s response to President Trump’s new round of tariffs was muted. Beijing issued a statement in protest, but unlike in past rounds of tit-fo…",
-    "content": "艾莎 2026年7月27日 对华加征关税是特朗普为重塑全球贸易所做更广泛努力的一部分。 Qilai Shen for The New York Times China’s response to President Trump’s new round of tariffs was muted. Beijing issued a statement in protest, but unlike in past rounds of tit-for-tat, it did not lob a counter. 中国对特朗…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c05qmrj6lgqo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -374,17 +462,6 @@ const jsonData = [
     "content": "BBC / 冯哲芸和其著作《唯红花绽放：习近平时代的认同与归属》。 “如果我的书被视为煽动性材料，那么我想，身为作者的我也会被视为煽动者，”美国华裔记者冯哲芸（Emily Feng）说。 她所着的《唯红花绽放：习近平时代的认同与归属》，据报是香港警方国家安全处搜查两间独立书店时检走的书籍之一。 香港警方没公布涉案书目，也没证实冯的著作与案件有关。不过，冯哲芸参与BBC国际部电台节目《周末》（Weekend）时说，事件令她认为，现在前往香港可能有风险。 “我大约四年来一直无法返回中国大陆采访，现在我觉得，就连前往香港…"
   },
   {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20260727/china-europe-rare-earths/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "中国再挥稀土大棒，将14家欧盟实体列入出口管控名单",
-    "link": "https://cn.nytimes.com/business/20260727/china-europe-rare-earths/dual",
-    "pub_date": "2026-07-27 09:36:01",
-    "author": "",
-    "description": "KEITH BRADSHER2026年7月27日中国对德国最大的国防承包商莱茵金属公司征收了关税，这是中国针对欧洲对被指协助俄罗斯对乌战争的中国企业所采取的措施进行报复的一部分。 Georg Hochmuth/Agence France-Presse — Getty Images Last month, China blacklisted two American companies crucial to U.S. efforts to…",
-    "content": "KEITH BRADSHER 2026年7月27日 中国对德国最大的国防承包商莱茵金属公司征收了关税，这是中国针对欧洲对被指协助俄罗斯对乌战争的中国企业所采取的措施进行报复的一部分。 Georg Hochmuth/Agence France-Presse — Getty Images Last month, China blacklisted two American companies crucial to U.S. efforts to create a supply chain for making powe…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cx2594ne6g7o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -394,17 +471,6 @@ const jsonData = [
     "author": "",
     "description": "China Daily via REUTERS / 阿努廷（左）近日才刚访华，会晤习近平。 “中泰一家亲”——中国国家主席习近平7月17日在中国举行的2026世界人工智能大会期间会见泰国总理阿努廷（Anutin Charnvirakul；陈锡尧）时，再次强调这句话。 正因两国目前在各个层面的密切关系，人权组织十分担忧泰国会同意将被羁押于泰国移民局外国人拘留中心的中国异见人士遣返回中国。 就在阿努廷访华前数天，人权观察组织（Human R…",
     "content": "China Daily via REUTERS / 阿努廷（左）近日才刚访华，会晤习近平。 “中泰一家亲”——中国国家主席习近平7月17日在中国举行的2026世界人工智能大会期间会见泰国总理阿努廷（Anutin Charnvirakul；陈锡尧）时，再次强调这句话。 正因两国目前在各个层面的密切关系，人权组织十分担忧泰国会同意将被羁押于泰国移民局外国人拘留中心的中国异见人士遣返回中国。 就在阿努廷访华前数天，人权观察组织（Human Rights Watch）呼吁泰国政府不要遣返至少四名中国异见人士及中国媒体工作者…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cqx748q7zrwo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "今年最強颱風「紅霞」登陸中國廣東 逾71萬人疏散",
-    "link": "https://www.bbc.com/zhongwen/articles/cqx748q7zrwo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-07-26 16:35:51",
-    "author": "",
-    "description": "Reuters / 一名行人在香港受台风“罗莎”（Noul）带来的暴雨和强风影响下撑伞前行 今年第12号台风“红霞”（国际命名：Noul）周日（7月26日）清晨在中国广东东部沿海登陆。 中国气象部门表示，“红霞”是今年首个登陆广东的台风，也是今年以来登陆中国强度最大的台风。 根据广东省应急管理厅，截至26日零时，全省累计转移人员逾71万5千人。 预计台风将继续深入内陆，为广东、江西、湖南、湖北等地带来持续强风和暴雨，增加山洪、滑坡及城市…",
-    "content": "Reuters / 一名行人在香港受台风“罗莎”（Noul）带来的暴雨和强风影响下撑伞前行 今年第12号台风“红霞”（国际命名：Noul）周日（7月26日）清晨在中国广东东部沿海登陆。 中国气象部门表示，“红霞”是今年首个登陆广东的台风，也是今年以来登陆中国强度最大的台风。 根据广东省应急管理厅，截至26日零时，全省累计转移人员逾71万5千人。 预计台风将继续深入内陆，为广东、江西、湖南、湖北等地带来持续强风和暴雨，增加山洪、滑坡及城市内涝等次生灾害风险。 Getty Images / 台风红霞 华南多地暴雨 残余…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cedjl1vvjdyo/simp?at_medium=RSS&at_campaign=rss",
@@ -429,28 +495,6 @@ const jsonData = [
     "content": "BBC / 香港“禁书时代”：消失的书和独立书店的命运 近年，香港多间独立书店遭到搜查，公共图书馆亦下架多批涉及政治议题的书籍。今年7月，警方在海关转介下搜查独立书店“田园书屋”及“留下书舍”，检走多箱被指涉嫌具有煽动意图的书籍，并表示行动涉及海外进口书籍。BBC中文整理近年与出版、书店及书籍执法相关的重要事件，回顾香港出版环境的变化。 采访：余美霞、高珊珊 影片制作：高珊珊、张友慈"
   },
   {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20260724/japan-sanae-takaichi-shinzo-abe/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "安倍的“幽灵”：高市早苗捍卫“恩师”，推进民族主义议程",
-    "link": "https://cn.nytimes.com/asia-pacific/20260724/japan-sanae-takaichi-shinzo-abe/dual",
-    "pub_date": "2026-07-24 15:06:02",
-    "author": "",
-    "description": "赫海威2026年7月24日 Inside a hushed hall in Tokyo on a recent afternoon, Prime Minister Sanae Takaichi of Japan stood before a giant portrait of her mentor, Shinzo Abe, the slain Japanese leader, and bowed. 近日的一个下午，在东京一座安静的大厅里…",
-    "content": "赫海威 2026年7月24日 Inside a hushed hall in Tokyo on a recent afternoon, Prime Minister Sanae Takaichi of Japan stood before a giant portrait of her mentor, Shinzo Abe, the slain Japanese leader, and bowed . 近日的一个下午，在东京一座安静的大厅里，日本首相高市早苗站在她的恩师、遇刺身亡的日本领导人安倍晋三的巨幅画像前， …"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20260724/us-saudi-nuclear-deal-south-korea/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "对韩国而言，美沙核协议暴露美国双重标准",
-    "link": "https://cn.nytimes.com/asia-pacific/20260724/us-saudi-nuclear-deal-south-korea/dual",
-    "pub_date": "2026-07-24 14:06:02",
-    "author": "",
-    "description": "CHOE SANG-HUN2026年7月24日韩国庆州月城核电站附近的一处海滩，摄于2022年。韩国核电产业规模位居世界前列。 Kim Hong-Ji/Reuters For decades, South Korea was an example of the United States’ unyielding stance on nuclear nonproliferation. 几十年来，韩国一直是美国在核不扩散问题上保持坚定立场的…",
-    "content": "CHOE SANG-HUN 2026年7月24日 韩国庆州月城核电站附近的一处海滩，摄于2022年。韩国核电产业规模位居世界前列。 Kim Hong-Ji/Reuters For decades, South Korea was an example of the United States’ unyielding stance on nuclear nonproliferation. 几十年来，韩国一直是美国在核不扩散问题上保持坚定立场的一个典型例子。 In the 1970s, the United State…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cp9ex9pjek8o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -471,17 +515,6 @@ const jsonData = [
     "author": "",
     "description": "Getty Images 美国正对60个贸易伙伴实施新关税，这些国家占其进口总额的绝大部分，理由是这些国家未能有效阻止强迫劳动产品的进口。 欧盟、台湾、日本、南韩及瑞士所适用的新关税，加上原有的最惠国（MFN）关税后，总税率将为10%或12.5%。 包括中国在内的其余38个国家，则适用12.5%的关税。美国曾指控中国将维吾尔族少数民族拘押于劳动营，并涉及强迫劳动；中国政府否认相关指控。 这些关税将于周五（7月24日）生效，适逢今年稍早实…",
     "content": "Getty Images 美国正对60个贸易伙伴实施新关税，这些国家占其进口总额的绝大部分，理由是这些国家未能有效阻止强迫劳动产品的进口。 欧盟、台湾、日本、南韩及瑞士所适用的新关税，加上原有的最惠国（MFN）关税后，总税率将为10%或12.5%。 包括中国在内的其余38个国家，则适用12.5%的关税。美国曾指控中国将维吾尔族少数民族拘押于劳动营，并涉及强迫劳动；中国政府否认相关指控。 这些关税将于周五（7月24日）生效，适逢今年稍早实施的临时10%外国商品税即将到期。 此举是美国总统特朗普（Donald Trum…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20260724/india-modi-protests-economy-cockroach-party/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "印度青年抗议：一场莫迪始料未及的政治危机",
-    "link": "https://cn.nytimes.com/world/20260724/india-modi-protests-economy-cockroach-party/dual",
-    "pub_date": "2026-07-24 12:36:02",
-    "author": "",
-    "description": "ALEX TRAVELLI2026年7月24日周四，新德里街头，人们从抗议标语前走过。 Saumya Khandelwal for The New York Times Narendra Modi, the powerful and acutely image-conscious prime minister of India, is suddenly facing a political problem he had not anti…",
-    "content": "ALEX TRAVELLI 2026年7月24日 周四，新德里街头，人们从抗议标语前走过。 Saumya Khandelwal for The New York Times Narendra Modi, the powerful and acutely image-conscious prime minister of India, is suddenly facing a political problem he had not anticipated on entering his 13th year in o…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c62vqpqdqjwo/simp?at_medium=RSS&at_campaign=rss",
@@ -605,17 +638,6 @@ const jsonData = [
     "content": "Getty Images 台湾一年一度的防空演习，今年将首次纳入“行动网路受阻”情境测试。 8月中旬的演习期间，包括台北在内的14个县市，将强制降速手机行动数据，仅保留语音通话与简讯服务。 台湾官方表示，这并非完全“断网”，而是为了测试民众在战争与灾难发生时，频宽受限的情况下，如何取得通讯及进行应变。 此举被解读为台湾防卫思维的转型，从过去的形式化演习，转向实战化、复合式危机模拟，未来可能纳入更多数位威胁情境。 “断网”范围有多大？ 台湾的国家通讯传播委员会（NCC）宣布，配合8月汉光演习“2026城镇韧性防空演习…"
   },
   {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cvgvxejv3v6o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "智能戒指都知道我懷孕了，我還不知道",
-    "link": "https://www.bbc.com/zhongwen/articles/cvgvxejv3v6o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-07-21 16:53:26",
-    "author": "",
-    "description": "BBC 拉维卡（Ravika）与丈夫外出度假庆祝生日时，收到健康监测装置发出的一则异常通知。 她配戴的Oura智能戒指显示，她的健康分数偏低：心率上升、体温升高，心率变异性（HRV）下降。但拉维卡完全没有感到任何不适。 这些数据一周后仍未恢复正常。这名34岁、来自英格兰的律师开始上网搜寻相关资料，发现不少女性都表示，自己的健康监测装置早在她们验孕前，便已根据收集到的身体数据，显示出怀孕的迹象。 一星期后，她的验孕结果呈阳性。 Ravik…",
-    "content": "BBC 拉维卡（Ravika）与丈夫外出度假庆祝生日时，收到健康监测装置发出的一则异常通知。 她配戴的Oura智能戒指显示，她的健康分数偏低：心率上升、体温升高，心率变异性（HRV）下降。但拉维卡完全没有感到任何不适。 这些数据一周后仍未恢复正常。这名34岁、来自英格兰的律师开始上网搜寻相关资料，发现不少女性都表示，自己的健康监测装置早在她们验孕前，便已根据收集到的身体数据，显示出怀孕的迹象。 一星期后，她的验孕结果呈阳性。 Ravika / 拉维卡表示，她的Oura智慧戒指显示健康分数偏低，但她当时完全没有任何不…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cvgwp1xgq02o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -647,17 +669,6 @@ const jsonData = [
     "author": "",
     "description": "Getty Images / 在新泽西州东卢瑟福纽约—新泽西运动场举行的FIFA世界杯决赛为本届赛事划上句号，西班牙最终击败阿根廷夺冠。 国际足协 (FIFA) 主席詹尼·因凡蒂诺（Gianni Infantino，恩芬天奴）此前承诺，2026年世界杯将成为“人类历史上最盛大的活动”。 因凡蒂诺将这场在美国、墨西哥和加拿大举行的赛事，比作一个月内举行的104场“超级杯”（Super Bowl）美式足球。 这是一个大胆的宣言，那么它真的实…",
     "content": "Getty Images / 在新泽西州东卢瑟福纽约—新泽西运动场举行的FIFA世界杯决赛为本届赛事划上句号，西班牙最终击败阿根廷夺冠。 国际足协 (FIFA) 主席詹尼·因凡蒂诺（Gianni Infantino，恩芬天奴）此前承诺，2026年世界杯将成为“人类历史上最盛大的活动”。 因凡蒂诺将这场在美国、墨西哥和加拿大举行的赛事，比作一个月内举行的104场“超级杯”（Super Bowl）美式足球。 这是一个大胆的宣言，那么它真的实现了吗？ 世界杯首次有48支球队参赛，库拉索（Curaçao；古拉索）、佛得角（…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cvgle9q1vdxo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "這對雙生姐妹身高不足1.2米，卻為預防癌症提供關鍵線索",
-    "link": "https://www.bbc.com/zhongwen/articles/cvgle9q1vdxo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-07-19 17:38:34",
-    "author": "",
-    "description": "JORGE PEREZ / BBC / 玛丽亚·路易莎和玛丽亚·德尔·西斯内这对双胞胎姐妹说，分享他们的经历有助于他们应对挑战。 坐落在厄瓜多尔南部安第斯山脉（Andes Mountains）群山之中的皮尼亚斯（Piñas），有8000名居民散居在河谷各处。 这座偏远小镇生活着数量异常众多的莱伦氏症候群（Laron syndrome，又称莱伦氏侏儒综合症）患者。这是一种罕见的遗传性疾病，患者的身高无法超过1.2米（3.9英尺）。 玛丽亚…",
-    "content": "JORGE PEREZ / BBC / 玛丽亚·路易莎和玛丽亚·德尔·西斯内这对双胞胎姐妹说，分享他们的经历有助于他们应对挑战。 坐落在厄瓜多尔南部安第斯山脉（Andes Mountains）群山之中的皮尼亚斯（Piñas），有8000名居民散居在河谷各处。 这座偏远小镇生活着数量异常众多的莱伦氏症候群（Laron syndrome，又称莱伦氏侏儒综合症）患者。这是一种罕见的遗传性疾病，患者的身高无法超过1.2米（3.9英尺）。 玛丽亚·路易莎·罗梅罗（María Luísa Romero）和她的双胞胎姐妹玛丽亚·…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/ce97zxp9795o/simp?at_medium=RSS&at_campaign=rss",
@@ -735,17 +746,6 @@ const jsonData = [
     "author": "",
     "description": "Reuters / 陈友麟（右）专门利用地震学数据识别核试验。他的妻子荣玉仿（左）同样是地震学家。 中国一个追踪核试验的美国地震学家因间谍罪名被拘留近两年，他的家人表示。 据人质倡议组织“全球触及”（Global Reach）称，54岁的陈友麟博士（Dr Chen Youlin）于2024年11月前往北京探亲期间被捕。在看不到北京将释放陈友麟的任何迹象后，其家人决定公开发声。 同为地震学家的妻子荣玉仿博士（Dr Rong Yufang）…",
     "content": "Reuters / 陈友麟（右）专门利用地震学数据识别核试验。他的妻子荣玉仿（左）同样是地震学家。 中国一个追踪核试验的美国地震学家因间谍罪名被拘留近两年，他的家人表示。 据人质倡议组织“全球触及”（Global Reach）称，54岁的陈友麟博士（Dr Chen Youlin）于2024年11月前往北京探亲期间被捕。在看不到北京将释放陈友麟的任何迹象后，其家人决定公开发声。 同为地震学家的妻子荣玉仿博士（Dr Rong Yufang）表示，陈友麟与中国同行密切合作，而相关指控“既不正确，也与他所从事工作公开且具合…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cg744yp35pgo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "特朗普輸了「出生公民權」官司 但未來孕婦入境美國是否更難?",
-    "link": "https://www.bbc.com/zhongwen/articles/cg744yp35pgo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-07-07 17:08:14",
-    "author": "",
-    "description": "Getty Images 美国总统特朗普（Donald Trump，川普）试图以行政命令终结“出生公民权”（birthright citizenship），认为此举能杜绝“非法移民”问题，但该命令上周遭最高法院以6比3裁定无效。 这在美国政坛引发激烈宪政辩论，也在移民社群掀起广泛讨论。 面对自身提名且价值观相符的数名保守派大法官表态其命令违宪，特朗普随即在社交媒体“Truth Social”发文称“习近平赢了”，被视为暗指数以万计从中国…",
-    "content": "Getty Images 美国总统特朗普（Donald Trump，川普）试图以行政命令终结“出生公民权”（birthright citizenship），认为此举能杜绝“非法移民”问题，但该命令上周遭最高法院以6比3裁定无效。 这在美国政坛引发激烈宪政辩论，也在移民社群掀起广泛讨论。 面对自身提名且价值观相符的数名保守派大法官表态其命令违宪，特朗普随即在社交媒体“Truth Social”发文称“习近平赢了”，被视为暗指数以万计从中国赴美生子、让子女取得美国公民权的家庭。 在小红书、微信等中国社交媒体上，许多协助…"
   }
 ];
 
