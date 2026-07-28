@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-07-28T08:17:58.885Z",
-  "ended_at": "2026-07-28T08:17:59.116Z",
-  "duration_ms": 231,
+  "started_at": "2026-07-28T23:54:37.950Z",
+  "ended_at": "2026-07-28T23:54:38.160Z",
+  "duration_ms": 210,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -21,8 +21,8 @@
     "failed_sources": 13,
     "circuit_open_sources": 13,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1355,
-    "total_items_after_retention": 1149,
+    "total_items_after_dedupe": 1349,
+    "total_items_after_retention": 1148,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -30,31 +30,31 @@
     {
       "title": "网易新闻 / 今日关注",
       "url": "https://plink.anyfeeder.com/netease/today",
-      "reason": "HTTP 503",
+      "reason": "HTTP 404",
       "skippedByCircuit": true
     },
     {
       "title": "SBS 中文",
       "url": "https://plink.anyfeeder.com/sbs/chinese",
-      "reason": "HTTP 503",
+      "reason": "HTTP 404",
       "skippedByCircuit": true
     },
     {
       "title": "VOA 美国之音",
       "url": "https://plink.anyfeeder.com/voa/chinese",
-      "reason": "HTTP 503",
+      "reason": "HTTP 404",
       "skippedByCircuit": true
     },
     {
       "title": "端传媒 / 最新",
       "url": "https://plink.anyfeeder.com/initium/latest",
-      "reason": "HTTP 503",
+      "reason": "HTTP 404",
       "skippedByCircuit": true
     },
     {
       "title": "端传媒 / 深度",
       "url": "https://plink.anyfeeder.com/initium/feature",
-      "reason": "HTTP 503",
+      "reason": "HTTP 404",
       "skippedByCircuit": true
     },
     {
@@ -110,27 +110,27 @@
     {
       "title": "网易新闻 / 今日关注",
       "url": "https://plink.anyfeeder.com/netease/today",
-      "reason": "HTTP 503"
+      "reason": "HTTP 404"
     },
     {
       "title": "SBS 中文",
       "url": "https://plink.anyfeeder.com/sbs/chinese",
-      "reason": "HTTP 503"
+      "reason": "HTTP 404"
     },
     {
       "title": "VOA 美国之音",
       "url": "https://plink.anyfeeder.com/voa/chinese",
-      "reason": "HTTP 503"
+      "reason": "HTTP 404"
     },
     {
       "title": "端传媒 / 最新",
       "url": "https://plink.anyfeeder.com/initium/latest",
-      "reason": "HTTP 503"
+      "reason": "HTTP 404"
     },
     {
       "title": "端传媒 / 深度",
       "url": "https://plink.anyfeeder.com/initium/feature",
-      "reason": "HTTP 503"
+      "reason": "HTTP 404"
     },
     {
       "title": "全球主机交流论坛",
