@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-07-31T23:56:45.373Z",
-  "ended_at": "2026-07-31T23:56:45.586Z",
-  "duration_ms": 213,
+  "started_at": "2026-08-01T08:06:07.999Z",
+  "ended_at": "2026-08-01T08:06:08.207Z",
+  "duration_ms": 208,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -17,12 +17,12 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 47,
-    "failed_sources": 12,
-    "circuit_open_sources": 12,
+    "cache_hit_sources": 46,
+    "failed_sources": 13,
+    "circuit_open_sources": 13,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1393,
-    "total_items_after_retention": 1171,
+    "total_items_after_dedupe": 1369,
+    "total_items_after_retention": 1148,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -72,7 +72,7 @@
     {
       "title": "路由器交流",
       "url": "https://www.acwifi.net/feed",
-      "reason": "The operation was aborted.",
+      "reason": "Invalid character in tag name\nLine: 0\nColumn: 384\nChar: ;",
       "skippedByCircuit": true
     },
     {
@@ -91,6 +91,12 @@
       "title": "FreeBuf 关注黑客",
       "url": "https://plink.anyfeeder.com/freebuf",
       "reason": "HTTP 405",
+      "skippedByCircuit": true
+    },
+    {
+      "title": "Epic Game",
+      "url": "https://www.epicbundle.com/feed/",
+      "reason": "Unexpected close tag\nLine: 92\nColumn: 7\nChar: >",
       "skippedByCircuit": true
     },
     {
@@ -139,7 +145,7 @@
     {
       "title": "路由器交流",
       "url": "https://www.acwifi.net/feed",
-      "reason": "The operation was aborted."
+      "reason": "Invalid character in tag name\nLine: 0\nColumn: 384\nChar: ;"
     },
     {
       "title": "技術討論區 | 草榴社區 - t66y.com",
@@ -155,6 +161,11 @@
       "title": "FreeBuf 关注黑客",
       "url": "https://plink.anyfeeder.com/freebuf",
       "reason": "HTTP 405"
+    },
+    {
+      "title": "Epic Game",
+      "url": "https://www.epicbundle.com/feed/",
+      "reason": "Unexpected close tag\nLine: 92\nColumn: 7\nChar: >"
     },
     {
       "title": "微博 / 热搜榜",
