@@ -1,5 +1,126 @@
 const jsonData = [
   {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/ce34wgv4krqo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "Meta證實其AI模型「越獄」上網黑進別家公司",
+    "link": "https://www.bbc.com/zhongwen/articles/ce34wgv4krqo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-08-06 14:45:36",
+    "author": "",
+    "description": "CQ-Roll Call, Inc via Getty Images / Meta行政总裁马克·朱克伯格（Mark Zuckerberg） 拥有Facebook 的 Meta表示，在一家独立测试公司进行评估期间出现的一个问题，让其其中一个人工智能（artificial intelligence, AI；人工智慧）模型得以连接互联网，并入侵另一个机构的系统。 这项宣布是在AI行业近期接连发生事故后作出的，包括OpenAI及Anthropi…",
+    "content": "CQ-Roll Call, Inc via Getty Images / Meta行政总裁马克·朱克伯格（Mark Zuckerberg） 拥有Facebook 的 Meta表示，在一家独立测试公司进行评估期间出现的一个问题，让其其中一个人工智能（artificial intelligence, AI；人工智慧）模型得以连接互联网，并入侵另一个机构的系统。 这项宣布是在AI行业近期接连发生事故后作出的，包括OpenAI及Anthropic模型出现的入侵事件，引发了网络安全方面的忧虑。 Meta一名发言人向BBC表示…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c5y3jdlvxego/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "在祖國被禁止踢球後，阿富汗女足於13,000公里外重聚",
+    "link": "https://www.bbc.com/zhongwen/articles/c5y3jdlvxego/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-08-06 13:59:42",
+    "author": "",
+    "description": "Phil Walter/Getty Images / 自从国际足总裁定阿富汗女足可以代表国家参加正式比赛以来，该队首次集结。 更衣室里一片忙碌，球员们正进行赛前准备。有的人拉筋热身、重新绑紧球鞋，有的人彼此拥抱。 “要一如既往地坚强，因为我们代表的是阿富汗女性。”中场球员法蒂玛·海达里（Fatima Haidari）对“阿富汗女子联队”（Afghan Women United）的队友说。 房间里随即响起掌声。墙上挂着阿富汗国旗，现场播放…",
+    "content": "Phil Walter/Getty Images / 自从国际足总裁定阿富汗女足可以代表国家参加正式比赛以来，该队首次集结。 更衣室里一片忙碌，球员们正进行赛前准备。有的人拉筋热身、重新绑紧球鞋，有的人彼此拥抱。 “要一如既往地坚强，因为我们代表的是阿富汗女性。”中场球员法蒂玛·海达里（Fatima Haidari）对“阿富汗女子联队”（Afghan Women United）的队友说。 房间里随即响起掌声。墙上挂着阿富汗国旗，现场播放着一首爱国歌曲。球员们一边合唱，一边努力忍住眼泪。 教练在她们步出球场前，带领全…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/health/20260806/trump-rfk-steak-kimchi-diet/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "美国最有权势的人们只吃牛肉和发酵食品，你也应该这样吗？",
+    "link": "https://cn.nytimes.com/health/20260806/trump-rfk-steak-kimchi-diet/dual",
+    "pub_date": "2026-08-06 13:36:01",
+    "author": "",
+    "description": "WILLY STALEY2026年8月6日 I was a little less than 30 minutes into a video call with Sean O’Mara, the trim and handsome 63-year-old doctor who has reportedly been giving dietary advice to several members of the Trump cabinet…",
+    "content": "WILLY STALEY 2026年8月6日 I was a little less than 30 minutes into a video call with Sean O’Mara, the trim and handsome 63-year-old doctor who has reportedly been giving dietary advice to several members of the Trump cabinet, when he pulled up an image of two liq…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/climate/20260806/typhoon-dolphin-names-dimsum-pacific/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "“点心”风暴来袭？揭秘太平洋台风命名法则",
+    "link": "https://cn.nytimes.com/climate/20260806/typhoon-dolphin-names-dimsum-pacific/dual",
+    "pub_date": "2026-08-06 12:36:02",
+    "author": "",
+    "description": "FRANCESCA REGALADO2026年8月6日去年台风“韦帕”在香港维多利亚港掀起的海浪。 Vernon Yuen/Associated Press If you see that a storm named Dim-sum is gathering steam in the Pacific Ocean, it’s not an error. 如果你看到一个名叫“点心”的风暴在太平洋上生成，那并不是笔误。 In June, as…",
+    "content": "FRANCESCA REGALADO 2026年8月6日 去年台风“韦帕”在香港维多利亚港掀起的海浪。 Vernon Yuen/Associated Press If you see that a storm named Dim-sum is gathering steam in the Pacific Ocean, it’s not an error. 如果你看到一个名叫“点心”的风暴在太平洋上生成，那并不是笔误。 In June, as the Pacific typhoon season began, the…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/technology/20260806/ai-china-africa/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "非洲开发者拥抱中国AI模型，为硅谷敲响警钟",
+    "link": "https://cn.nytimes.com/technology/20260806/ai-china-africa/dual",
+    "pub_date": "2026-08-06 11:36:02",
+    "author": "",
+    "description": "孟建国, ADAM SATARIANO, AARON KROLIK2026年8月6日 When Ernest Mwebaze, a tech developer in Uganda, was building an artificial intelligence system last year tailored for his country’s many languages, he tested American and Chine…",
+    "content": "孟建国, ADAM SATARIANO, AARON KROLIK 2026年8月6日 When Ernest Mwebaze, a tech developer in Uganda, was building an artificial intelligence system last year tailored for his country’s many languages, he tested American and Chinese tools to see which one could help. 乌…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20260806/china-cigarette-smoking/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "拒绝二手烟在中国为何这么难？",
+    "link": "https://cn.nytimes.com/china/20260806/china-cigarette-smoking/dual",
+    "pub_date": "2026-08-06 11:06:02",
+    "author": "",
+    "description": "BERRY WANG2026年8月6日北京火车站外的吸烟者，摄于2月。中国消费了全球约一半的香烟，各地禁烟令的执行力度往往松懈，有时甚至形同虚设。 Gilles Sabrié for The New York Times Amanda Zhang was planning a quiet dinner out with her mother, who had recently undergone surgery for lung can…",
+    "content": "BERRY WANG 2026年8月6日 北京火车站外的吸烟者，摄于2月。中国消费了全球约一半的香烟，各地禁烟令的执行力度往往松懈，有时甚至形同虚设。 Gilles Sabrié for The New York Times Amanda Zhang was planning a quiet dinner out with her mother, who had recently undergone surgery for lung cancer. But as Ms. Zhang walked through a…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20260806/lobga-rangzen-united-nations-tibet-china/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "在联合国大楼前自焚的藏人：洛嘎让赞最后的抗争",
+    "link": "https://cn.nytimes.com/china/20260806/lobga-rangzen-united-nations-tibet-china/dual",
+    "pub_date": "2026-08-06 11:06:02",
+    "author": "",
+    "description": "王月眉2026年8月6日 It was 91 degrees in Manhattan and even hotter on the pavement, but the Tibetans gathered as planned outside the Chinese Consulate. Amid the waving flags and synchronized chants, one of the protesters, Ngawa…",
+    "content": "王月眉 2026年8月6日 It was 91 degrees in Manhattan and even hotter on the pavement, but the Tibetans gathered as planned outside the Chinese Consulate. Amid the waving flags and synchronized chants, one of the protesters, Ngawang Tashi, looked for his friend Lobga R…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/science/20260806/space-x-moon-crash-confirmation/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "SpaceX火箭残骸撞击月球，会发生什么？",
+    "link": "https://cn.nytimes.com/science/20260806/space-x-moon-crash-confirmation/dual",
+    "pub_date": "2026-08-06 11:06:02",
+    "author": "",
+    "description": "KENNETH CHANG2026年8月6日 Sergei Grits/Associated Press If a rocket stage crashes into the moon and no one sees it, did it really crash? 如果一枚火箭的某一级撞上月球却没有人观测到，那它真的撞上月球了吗？ A discarded upper stage of a SpaceX Falcon 9 rocket …",
+    "content": "KENNETH CHANG 2026年8月6日 Sergei Grits/Associated Press If a rocket stage crashes into the moon and no one sees it, did it really crash? 如果一枚火箭的某一级 撞上月球 却没有人观测到，那它真的撞上月球了吗？ A discarded upper stage of a SpaceX Falcon 9 rocket slammed into the surface of the moon …"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c0jldjn404lo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "人工智能、無人機⋯⋯科技能否取代消防員對抗山火？",
+    "link": "https://www.bbc.com/zhongwen/articles/c0jldjn404lo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-08-06 08:36:59",
+    "author": "",
+    "description": "AFP via Getty Images / 法国吉伦特省今年夏天遭受了毁灭性山火的袭击。 熊熊烈焰肆虐、消防员奋力救火，飞机不断向火场投下大量水源的画面相信大家都十分熟悉。 法国、西班牙及葡萄牙近日先后爆发山火，火势席卷森林及乡郊地区，数十万人被迫撤离家园。 在法国，已有四名男子在扑救山火期间丧生，另有150人受伤。 然而，为何至今仍然主要依靠人手和服役已有30年的飞机救火？既然无人机可以在乌克兰战场取代士兵，为何不能取代消防员？ 拥…",
+    "content": "AFP via Getty Images / 法国吉伦特省今年夏天遭受了毁灭性山火的袭击。 熊熊烈焰肆虐、消防员奋力救火，飞机不断向火场投下大量水源的画面相信大家都十分熟悉。 法国、西班牙及葡萄牙近日先后爆发山火，火势席卷森林及乡郊地区，数十万人被迫撤离家园。 在法国，已有四名男子在扑救山火期间丧生，另有150人受伤。 然而，为何至今仍然主要依靠人手和服役已有30年的飞机救火？既然无人机可以在乌克兰战场取代士兵，为何不能取代消防员？ 拥有24年消防经验的吉约姆·米耶（Guillaume Millet）现任法国工会C…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c62x0pvmn7mo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "「我的祖母背着我，對我的女嬰施行殘割女性生殖器」",
+    "link": "https://www.bbc.com/zhongwen/articles/c62x0pvmn7mo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-08-06 08:35:47",
+    "author": "",
+    "description": "BBC / 卡拉·基诺内斯正推动在其所属的恩贝拉社群内终止残割女性生殖器。 【警告：本报导包含形容残割女性生殖器的内容，请斟酌阅读】 上周，哥伦比亚成为拉丁美洲首个将残割女性生殖器（female genital mutilation, FGM）列为非法的国家，活动人士称此举是一个里程碑。 正如BBC西班牙语世界网（BBC News Mundo）记者何塞‧奎托（José Carlos Cueto）在哥伦比亚报导，尽管法案在该国国会获一致通…",
+    "content": "BBC / 卡拉·基诺内斯正推动在其所属的恩贝拉社群内终止残割女性生殖器。 【警告：本报导包含形容残割女性生殖器的内容，请斟酌阅读】 上周，哥伦比亚成为拉丁美洲首个将残割女性生殖器（female genital mutilation, FGM）列为非法的国家，活动人士称此举是一个里程碑。 正如BBC西班牙语世界网（BBC News Mundo）记者何塞‧奎托（José Carlos Cueto）在哥伦比亚报导，尽管法案在该国国会获一致通过，其背后是为了消除这种危险且往往是秘密的程序，而曾进行过的一场长期斗争。 卡拉…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c9809dp99neo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "日本2026防衛白皮書為何刪去「台海攸關安保」？",
+    "link": "https://www.bbc.com/zhongwen/articles/c9809dp99neo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-08-06 08:35:37",
+    "author": "",
+    "description": "AFP via Getty Images / 日本白皮书称，台海和平是“不仅印太地区，整个国际社会”均日益关切的问题。 日本防卫省公布“2026年版防卫白皮书”，今年的版本删除了“攸关日本安保”等字句，仅保留“台海情势稳定对国际社会稳定很重要”，引人注目。 周二（8月4日）发表的这份白皮书提到中国军舰在太平洋的活动不断扩大，并称中国的相关军事活动是“严重关切事项与空前大的战略挑战”。中国外交部周三（5日）称已就日方“无端抹黑”与“炒作”…",
+    "content": "AFP via Getty Images / 日本白皮书称，台海和平是“不仅印太地区，整个国际社会”均日益关切的问题。 日本防卫省公布“2026年版防卫白皮书”，今年的版本删除了“攸关日本安保”等字句，仅保留“台海情势稳定对国际社会稳定很重要”，引人注目。 周二（8月4日）发表的这份白皮书提到中国军舰在太平洋的活动不断扩大，并称中国的相关军事活动是“严重关切事项与空前大的战略挑战”。中国外交部周三（5日）称已就日方“无端抹黑”与“炒作”提出“严正交涉”。 该白皮书写道，鉴于日本周边的安保环境愈来愈严峻，日方将持续依…"
+  },
+  {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260805-%E8%83%BD%E6%8D%95%E9%A3%9F%E5%8A%A8%E7%89%A9%E8%82%89%E7%9A%84%E6%A4%8D%E7%89%A9%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%A2%AB%E5%8F%91%E7%8E%B0",
     "feed_name": "RFI 法国国际广播电台",
     "category": "国外",
@@ -308,17 +429,6 @@ const jsonData = [
     "content": "JIN YU YOUNG 2026年8月5日 2024年，在韩国首尔某产后护理中心的新生儿病房里，工作人员正在照料新生儿。 Jean Chung for The New York Times The baby started turning blue almost immediately after she was born in a small clinic last month in South Korea. 上月，一名女婴在韩国一家小型诊所出生后，几乎立刻就开始发紫。 There was a neonatal…"
   },
   {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/technology/20260805/ai-washington-regulation-whiplash/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "如何应对中国开源AI模型？特朗普政府内部争论升级",
-    "link": "https://cn.nytimes.com/technology/20260805/ai-washington-regulation-whiplash/dual",
-    "pub_date": "2026-08-05 08:06:01",
-    "author": "",
-    "description": "DAVID McCABE, MIKE ISAAC, ANA SWANSON, KATE CONGER2026年8月5日华盛顿与北京之间正展开一场关于谁将控制关键技术的博弈，由月之暗面开发的Kimi等中国开源人工智能模型为这场博弈增添了全新且紧迫的维度。 Agence France-Presse — Getty Images Trump administration officials have struggled over the pa…",
-    "content": "DAVID McCABE, MIKE ISAAC, ANA SWANSON, KATE CONGER 2026年8月5日 华盛顿与北京之间正展开一场关于谁将控制关键技术的博弈，由月之暗面开发的Kimi等中国开源人工智能模型为这场博弈增添了全新且紧迫的维度。 Agence France-Presse — Getty Images Trump administration officials have struggled over the past few weeks with what to do about art…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c07rmmvm1pmo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -407,61 +517,6 @@ const jsonData = [
     "content": "BBC / 专访中国锡安教会牧师金明日 谈获释赴美细节与狱中抗争 中国知名地下教会“锡安教会”创办人金明日牧师，在当局去年十月的大规模抓捕基督徒行动中被捕。他在被关押266天后突然获释，被视为是外交上罕见的案例。 57岁的金明日接受BBC中文专访，透露他于7月3日被押往广州白云机场，检察官当场宣布不起诉，随后由美方领事陪同登机，并于美国独立日抵达洛杉矶。 这次释放被视作美国总统特朗普5月访华后直接促成的结果；金明日家族及对华援助协会亦指，特朗普向习近平亲自提出要求。但中美双方都没有就事件正面回应。中国外交部曾表示依…"
   },
   {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/health/20260804/mens-sexual-urologists-advice/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "关于性健康，男性应该了解的五件事",
-    "link": "https://cn.nytimes.com/health/20260804/mens-sexual-urologists-advice/dual",
-    "pub_date": "2026-08-04 14:06:02",
-    "author": "",
-    "description": "DAVID ROBSON2026年8月4日 Claire Merchlinsky/The New York Times; Photographs by Getty Sexual health problems are common among men, even if they don’t want to admit it. And while many conditions are preventable or treatable, …",
-    "content": "DAVID ROBSON 2026年8月4日 Claire Merchlinsky/The New York Times; Photographs by Getty Sexual health problems are common among men, even if they don’t want to admit it. And while many conditions are preventable or treatable, experts say men are often too embarrass…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/opinion/20260804/poverty-america-oklahoma/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "那些走投无路的美国穷人",
-    "link": "https://cn.nytimes.com/opinion/20260804/poverty-america-oklahoma/dual",
-    "pub_date": "2026-08-04 13:36:02",
-    "author": "",
-    "description": "纪思道2026年8月4日 After a 1,000-mile road trip across a swath of America, I can’t get one person out of my mind: Trinity Goodman, a cheerful, chatty woman in Oklahoma City who had a bandage on her arm. 在一次穿越美国广袤土地、行程约1600公里的公…",
-    "content": "纪思道 2026年8月4日 After a 1,000-mile road trip across a swath of America, I can’t get one person out of my mind: Trinity Goodman, a cheerful, chatty woman in Oklahoma City who had a bandage on her arm. 在一次穿越美国广袤土地、行程约1600公里的公路之旅后，有一个身影始终萦绕在我脑海——住在俄克拉荷马城的特里尼蒂·古德曼，她…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/technology/20260804/ai-bubble-venture-capital/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "人工智能泡沫未必是件坏事？",
-    "link": "https://cn.nytimes.com/technology/20260804/ai-bubble-venture-capital/dual",
-    "pub_date": "2026-08-04 11:36:02",
-    "author": "",
-    "description": "ERIN GRIFFITH2026年8月4日 Michael Burry, the investor made famous in “The Big Short,” has warned about an artificial intelligence bubble. So has Dean Baker, an economist who identified the U.S. housing bubble ahead of the 2…",
-    "content": "ERIN GRIFFITH 2026年8月4日 Michael Burry, the investor made famous in “The Big Short,” has warned about an artificial intelligence bubble. So has Dean Baker, an economist who identified the U.S. housing bubble ahead of the 2008 financial crisis. Even Jamie Dimon,…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20260804/myanmar-aung-san-suu-kyi-photos-icrc/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "昂山素季罕见公开露面，此前公众对其健康状况担忧加剧",
-    "link": "https://cn.nytimes.com/asia-pacific/20260804/myanmar-aung-san-suu-kyi-photos-icrc/dual",
-    "pub_date": "2026-08-04 11:06:02",
-    "author": "",
-    "description": "MAX KIM2026年8月4日 Agence France-Presse — Getty Images Myanmar’s junta allowed Daw Aung San Suu Kyi, the detained, 81-year-old former leader of the country, to meet with a humanitarian organization on Monday, offering a ra…",
-    "content": "MAX KIM 2026年8月4日 Agence France-Presse — Getty Images Myanmar’s junta allowed Daw Aung San Suu Kyi, the detained, 81-year-old former leader of the country, to meet with a humanitarian organization on Monday, offering a rare public glimpse of her amid growing c…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20260804/us-japan-yen-intervention/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "美国为什么要出手“救”日元？",
-    "link": "https://cn.nytimes.com/business/20260804/us-japan-yen-intervention/dual",
-    "pub_date": "2026-08-04 10:06:02",
-    "author": "",
-    "description": "ESHE NELSON2026年8月4日 When the Japanese yen recently hit its weakest level against the U.S. dollar in about 40 years, it wasn’t just a problem for the government in Tokyo. It was also a problem for the United States. 近期，日…",
-    "content": "ESHE NELSON 2026年8月4日 When the Japanese yen recently hit its weakest level against the U.S. dollar in about 40 years, it wasn’t just a problem for the government in Tokyo. It was also a problem for the United States. 近期，日元兑美元汇率跌至约40年来的最低水平，这不仅是东京政府的麻烦，也是美国的麻烦。…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c1d1qwq9502o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -528,17 +583,6 @@ const jsonData = [
     "content": "Alex West / 阿历克斯·韦斯特表示，两个儿子出生后那几个月的生活，在他记忆中是一片“灰暗”。 阿历克斯·韦斯特（Alex West）的妻子生第一胎时经历了难产，令他留下难以磨灭的阴影。到了第二胎时，他原本希望一切能顺利得多。 结果，妻子的分娩确实比第一次顺利，但对他来说却并非如此。 “我当时恐慌发作，整个人崩溃了。我一直没有消化那段经历，也没有能力这样做。”阿历克斯说。 妻子第一次分娩留下的创伤一直没处理，加上他之后患上了产后抑郁症，令他不再想按照夫妇原本的计划，生四个孩子。 他回忆两个儿子出生后的那几个…"
   },
   {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cy0j4z0e04xo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "台灣物流商成「審書人」：香港國安法如何改變跨境圖書供應鏈？",
-    "link": "https://www.bbc.com/zhongwen/articles/cy0j4z0e04xo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-08-03 16:05:32",
-    "author": "",
-    "description": "AFP via Getty Images / 7月15日，香港一年一度书展开幕当天，香港警察国安处先后搜查独立书店田园书屋及留下书舍，并以“煽动罪”罪拘捕五人。 “嘉达国际物流”近日发布的“审书”公告，震撼了香港独立书店。 该公司表示，为配合《香港国安法》，要求书店或出版社事前提供书单，确认没有违法才会安排运输。 嘉达在两岸三地都有业务，是台湾、香港之间最主要的书籍物流公司，也是香港独立书店最常用的物流公司。 香港独立书店店主John（…",
-    "content": "AFP via Getty Images / 7月15日，香港一年一度书展开幕当天，香港警察国安处先后搜查独立书店田园书屋及留下书舍，并以“煽动罪”罪拘捕五人。 “嘉达国际物流”近日发布的“审书”公告，震撼了香港独立书店。 该公司表示，为配合《香港国安法》，要求书店或出版社事前提供书单，确认没有违法才会安排运输。 嘉达在两岸三地都有业务，是台湾、香港之间最主要的书籍物流公司，也是香港独立书店最常用的物流公司。 香港独立书店店主John（化名）向BBC中文表示，自己书店贩卖的书籍种类，有七成从台湾进口，如果物流公司拒…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cp8xzegl95jo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -592,17 +636,6 @@ const jsonData = [
     "author": "",
     "description": "Getty Images 在现代战争中，环绕地球运行的人造卫星几乎未曾受到波及；但到了21世纪，太空或许已不再是安全的避风港。 2022年2月24日凌晨约3时，乌克兰及中欧数以千计的卫星数据机突然断线。数小时后，俄罗斯正式入侵乌克兰。 美国智库“战略与国际研究中心”（CSIS）航空航天安全项目主任卡丽·宾根（Kari Bingen）说：“俄乌战争打响的第一击，不是坦克驶进乌克兰，而是针对一套商业卫星系统发动网络攻击，后来被认定是俄罗斯政…",
     "content": "Getty Images 在现代战争中，环绕地球运行的人造卫星几乎未曾受到波及；但到了21世纪，太空或许已不再是安全的避风港。 2022年2月24日凌晨约3时，乌克兰及中欧数以千计的卫星数据机突然断线。数小时后，俄罗斯正式入侵乌克兰。 美国智库“战略与国际研究中心”（CSIS）航空航天安全项目主任卡丽·宾根（Kari Bingen）说：“俄乌战争打响的第一击，不是坦克驶进乌克兰，而是针对一套商业卫星系统发动网络攻击，后来被认定是俄罗斯政府所为。” “他们为什么这样做？因为他们想削弱乌克兰军方和政府的通讯能力。” 现…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cevm082pgm7o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "中國機器人大軍如何改變英國零售業？",
-    "link": "https://www.bbc.com/zhongwen/articles/cevm082pgm7o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-07-30 17:33:51",
-    "author": "",
-    "description": "Geek+ / 英国10个地点部署了2000台极智嘉机器人。 每当你在网上购物按下“购买”按钮时，你所订购的商品很有可能在几分钟内便开始进入处理程序。 越来越多情况下，这段流程的起点，是一台矮小的银色地面机器人。它会滑行至货架底部，将整个货架抬起，再把货架运送至仓库另一端，交到等待中的工作人员面前。 BBC到访位于中国东部城市合肥的极智嘉（Geek+）工厂时，看见一队队这类机器人在出厂前完成制造及测试，然后运往全球各地的仓库。 英国一些…",
-    "content": "Geek+ / 英国10个地点部署了2000台极智嘉机器人。 每当你在网上购物按下“购买”按钮时，你所订购的商品很有可能在几分钟内便开始进入处理程序。 越来越多情况下，这段流程的起点，是一台矮小的银色地面机器人。它会滑行至货架底部，将整个货架抬起，再把货架运送至仓库另一端，交到等待中的工作人员面前。 BBC到访位于中国东部城市合肥的极智嘉（Geek+）工厂时，看见一队队这类机器人在出厂前完成制造及测试，然后运往全球各地的仓库。 英国一些最大的零售商，包括乐购（Tesco）、阿斯达（Asda）及Next，现时均采用该…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c98vjejn839o/simp?at_medium=RSS&at_campaign=rss",
@@ -704,28 +737,6 @@ const jsonData = [
     "content": "Getty Images / 一名游客在中国河北省唐山市，参观一处刻有唐山地震日期的纪念建筑遗址 整整50年前，1976年7月28日凌晨3时42分，中国河北省唐山市发生7.8级地震，约24.2万人遇难。 那一年，周恩来、朱德、毛泽东先后去世，再加上一场惨烈的地震。于是，在中国人的记忆与叙述之中，它不仅是一场自然灾难，更被视作那个充满变数与转折的“巨变之年”里，一个带有浓厚宿命论色彩的历史注脚。 但这场灾难与政治的纠葛，往往掩盖了灾难本身的诸多细节，而它真正意义上的“影响深远”，不仅体现在地质层面——它的余震甚至在4…"
   },
   {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cjrv7vp8p53o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "中國女童基因編輯治療後死亡，為何引發巨大爭議？",
-    "link": "https://www.bbc.com/zhongwen/articles/cjrv7vp8p53o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-07-27 17:19:49",
-    "author": "",
-    "description": "Getty Images 学术期刊《科学》（Science）和学术诚信监督平台“撤稿观察”（Retraction Watch）上周四（7月23日）披露，中国一位6岁女童2025年在接受基因编辑实验治疗后死亡。 由于事件涉及多项争议，包括动物实验阶段已有严重安全警号但仍做人体试验、家属签署的同意书没列明致命风险、女童死后一直没公开、相关研究结果发表在另一期刊但没提及受试者死亡、研究资金由家属支付一事并未披露等，引起了大众讨论。 直至周日（…",
-    "content": "Getty Images 学术期刊《科学》（Science）和学术诚信监督平台“撤稿观察”（Retraction Watch）上周四（7月23日）披露，中国一位6岁女童2025年在接受基因编辑实验治疗后死亡。 由于事件涉及多项争议，包括动物实验阶段已有严重安全警号但仍做人体试验、家属签署的同意书没列明致命风险、女童死后一直没公开、相关研究结果发表在另一期刊但没提及受试者死亡、研究资金由家属支付一事并未披露等，引起了大众讨论。 直至周日（7月26日），进行这项实验的上海交通大学医学院发声明表示，高度重视事件，已经成立…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c05qmrj6lgqo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "《唯紅花綻放》馮哲芸專訪：看見「我是書店店員」被捕照落淚",
-    "link": "https://www.bbc.com/zhongwen/articles/c05qmrj6lgqo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-07-27 10:03:48",
-    "author": "",
-    "description": "BBC / 冯哲芸和其著作《唯红花绽放：习近平时代的认同与归属》。 “如果我的书被视为煽动性材料，那么我想，身为作者的我也会被视为煽动者，”美国华裔记者冯哲芸（Emily Feng）说。 她所着的《唯红花绽放：习近平时代的认同与归属》，据报是香港警方国家安全处搜查两间独立书店时检走的书籍之一。 香港警方没公布涉案书目，也没证实冯的著作与案件有关。不过，冯哲芸参与BBC国际部电台节目《周末》（Weekend）时说，事件令她认为，现在前往香…",
-    "content": "BBC / 冯哲芸和其著作《唯红花绽放：习近平时代的认同与归属》。 “如果我的书被视为煽动性材料，那么我想，身为作者的我也会被视为煽动者，”美国华裔记者冯哲芸（Emily Feng）说。 她所着的《唯红花绽放：习近平时代的认同与归属》，据报是香港警方国家安全处搜查两间独立书店时检走的书籍之一。 香港警方没公布涉案书目，也没证实冯的著作与案件有关。不过，冯哲芸参与BBC国际部电台节目《周末》（Weekend）时说，事件令她认为，现在前往香港可能有风险。 “我大约四年来一直无法返回中国大陆采访，现在我觉得，就连前往香港…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/clyezy3l60qo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -735,17 +746,6 @@ const jsonData = [
     "author": "",
     "description": "Getty Images 美国正对60个贸易伙伴实施新关税，这些国家占其进口总额的绝大部分，理由是这些国家未能有效阻止强迫劳动产品的进口。 欧盟、台湾、日本、南韩及瑞士所适用的新关税，加上原有的最惠国（MFN）关税后，总税率将为10%或12.5%。 包括中国在内的其余38个国家，则适用12.5%的关税。美国曾指控中国将维吾尔族少数民族拘押于劳动营，并涉及强迫劳动；中国政府否认相关指控。 这些关税将于周五（7月24日）生效，适逢今年稍早实…",
     "content": "Getty Images 美国正对60个贸易伙伴实施新关税，这些国家占其进口总额的绝大部分，理由是这些国家未能有效阻止强迫劳动产品的进口。 欧盟、台湾、日本、南韩及瑞士所适用的新关税，加上原有的最惠国（MFN）关税后，总税率将为10%或12.5%。 包括中国在内的其余38个国家，则适用12.5%的关税。美国曾指控中国将维吾尔族少数民族拘押于劳动营，并涉及强迫劳动；中国政府否认相关指控。 这些关税将于周五（7月24日）生效，适逢今年稍早实施的临时10%外国商品税即将到期。 此举是美国总统特朗普（Donald Trum…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c62vqpqdqjwo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "白宮稱中國「月之暗面」Kimi K3模型竊取Anthropic技術",
-    "link": "https://www.bbc.com/zhongwen/articles/c62vqpqdqjwo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-07-24 12:16:29",
-    "author": "",
-    "description": "Future Publishing via Getty Images / Kimi K3是由总部位于北京的人工智能公司“月之暗面”（Moonshot AI）开发的AI模型。 中国人工智能公司“月之暗面”（Moonshot AI），遭白宫一名顾问指控大规模窃取美国顶尖AI模型的能力。 美国总统特朗普（Donald Trump；川普）的科技政策顾问克拉齐奥斯（Michael Kratsios）表示，月之暗面透过一种称为“蒸馏”（distil…",
-    "content": "Future Publishing via Getty Images / Kimi K3是由总部位于北京的人工智能公司“月之暗面”（Moonshot AI）开发的AI模型。 中国人工智能公司“月之暗面”（Moonshot AI），遭白宫一名顾问指控大规模窃取美国顶尖AI模型的能力。 美国总统特朗普（Donald Trump；川普）的科技政策顾问克拉齐奥斯（Michael Kratsios）表示，月之暗面透过一种称为“蒸馏”（distillation）的技术进行有关行动，即较弱的AI模型从较强的模型提取答案，以提升自…"
   }
 ];
 
