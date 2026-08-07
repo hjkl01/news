@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-08-06T08:18:14.812Z",
-  "ended_at": "2026-08-06T08:18:15.020Z",
-  "duration_ms": 208,
+  "started_at": "2026-08-07T01:40:22.264Z",
+  "ended_at": "2026-08-07T01:40:22.461Z",
+  "duration_ms": 197,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -17,12 +17,12 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 46,
-    "failed_sources": 13,
-    "circuit_open_sources": 13,
+    "cache_hit_sources": 45,
+    "failed_sources": 14,
+    "circuit_open_sources": 14,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1374,
-    "total_items_after_retention": 1162,
+    "total_items_after_dedupe": 1361,
+    "total_items_after_retention": 1159,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -79,6 +79,12 @@
       "title": "技術討論區 | 草榴社區 - t66y.com",
       "url": "https://rsshub.app/t66y/7",
       "reason": "HTTP 403",
+      "skippedByCircuit": true
+    },
+    {
+      "title": "爱范儿",
+      "url": "https://plink.anyfeeder.com/ifanr",
+      "reason": "Invalid character in entity name\nLine: 342\nColumn: 255\nChar: <",
       "skippedByCircuit": true
     },
     {
@@ -151,6 +157,11 @@
       "title": "技術討論區 | 草榴社區 - t66y.com",
       "url": "https://rsshub.app/t66y/7",
       "reason": "HTTP 403"
+    },
+    {
+      "title": "爱范儿",
+      "url": "https://plink.anyfeeder.com/ifanr",
+      "reason": "Invalid character in entity name\nLine: 342\nColumn: 255\nChar: <"
     },
     {
       "title": "软餐 - 新鲜软件资讯",
