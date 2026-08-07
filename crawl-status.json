@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-08-07T07:01:24.440Z",
-  "ended_at": "2026-08-07T07:01:24.643Z",
-  "duration_ms": 203,
+  "started_at": "2026-08-07T23:27:54.819Z",
+  "ended_at": "2026-08-07T23:27:55.031Z",
+  "duration_ms": 212,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -17,12 +17,12 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 45,
-    "failed_sources": 14,
-    "circuit_open_sources": 14,
+    "cache_hit_sources": 46,
+    "failed_sources": 13,
+    "circuit_open_sources": 13,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1336,
-    "total_items_after_retention": 1114,
+    "total_items_after_dedupe": 1370,
+    "total_items_after_retention": 1153,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -82,15 +82,9 @@
       "skippedByCircuit": true
     },
     {
-      "title": "极客公园",
-      "url": "https://www.geekpark.net/rss",
-      "reason": "The operation was aborted.",
-      "skippedByCircuit": true
-    },
-    {
       "title": "爱范儿",
       "url": "https://plink.anyfeeder.com/ifanr",
-      "reason": "Invalid character in entity name\nLine: 668\nColumn: 255\nChar: <",
+      "reason": "Invalid character in entity name\nLine: 949\nColumn: 255\nChar: <",
       "skippedByCircuit": true
     },
     {
@@ -159,14 +153,9 @@
       "reason": "HTTP 403"
     },
     {
-      "title": "极客公园",
-      "url": "https://www.geekpark.net/rss",
-      "reason": "The operation was aborted."
-    },
-    {
       "title": "爱范儿",
       "url": "https://plink.anyfeeder.com/ifanr",
-      "reason": "Invalid character in entity name\nLine: 668\nColumn: 255\nChar: <"
+      "reason": "Invalid character in entity name\nLine: 949\nColumn: 255\nChar: <"
     },
     {
       "title": "软餐 - 新鲜软件资讯",
