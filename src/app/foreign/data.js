@@ -3,12 +3,67 @@ const jsonData = [
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cp9ekjrznngo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
-    "title": "一半疫苗被丟棄讓人不解，免冷藏版本有望減少浪費",
+    "title": "「免冷藏」疫苗首次人體實驗，可望減少浪費",
     "link": "https://www.bbc.com/zhongwen/articles/cp9ekjrznngo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-08-07 08:06:46",
+    "pub_date": "2026-08-07 11:43:54",
     "author": "",
     "description": "NIHR / 汉娜·凯齐亚于2025年4月参加临床试验。 英国科学家表示，不需冷藏的疫苗首次成功在人体作临床试验。 目前大多数疫苗都必须冷藏或冷冻保存，但每年约有一半的疫苗会被浪费，主要原因是温度过高或过低，导致失效。 在这项涉及60名志愿者的试验中，英国药企 Stablepharma 将液态破伤风—白喉疫苗（tetanus-diphtheria vaccine）调配成“免冷藏”版本：把疫苗制成干燥粉末，在室温下保存一年后，再加水混合后…",
     "content": "NIHR / 汉娜·凯齐亚于2025年4月参加临床试验。 英国科学家表示，不需冷藏的疫苗首次成功在人体作临床试验。 目前大多数疫苗都必须冷藏或冷冻保存，但每年约有一半的疫苗会被浪费，主要原因是温度过高或过低，导致失效。 在这项涉及60名志愿者的试验中，英国药企 Stablepharma 将液态破伤风—白喉疫苗（tetanus-diphtheria vaccine）调配成“免冷藏”版本：把疫苗制成干燥粉末，在室温下保存一年后，再加水混合后注射。 “冷链”的挑战 疫苗从制造完成到注射进人体，通常都需要严格的温度控制，这…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20260807/trump-birthright-citizenship-tourism/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "特朗普再次签署行政令限制出生公民权，打击“生育旅游”",
+    "link": "https://cn.nytimes.com/usa/20260807/trump-birthright-citizenship-tourism/dual",
+    "pub_date": "2026-08-07 11:36:02",
+    "author": "",
+    "description": "MAGGIE HABERMAN, ANN E. MARIMOW2026年8月7日特朗普总统与顾问威尔·沙夫和斯蒂芬·米勒（左）及商务部长霍华德·卢特尼克（右）。周四，总统签署限制出生公民权的行政令后向媒体发表了讲话。 Haiyun Jiang/The New York Times President Trump signed two executive orders on Thursday aimed at limiting the n…",
+    "content": "MAGGIE HABERMAN, ANN E. MARIMOW 2026年8月7日 特朗普总统与顾问威尔·沙夫和斯蒂芬·米勒（左）及商务部长霍华德·卢特尼克（右）。周四，总统签署限制出生公民权的行政令后向媒体发表了讲话。 Haiyun Jiang/The New York Times President Trump signed two executive orders on Thursday aimed at limiting the number of people who are eligible for b…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20260807/deportations-southeast-asians-trump/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "11岁逃美，18岁犯罪，44岁被遣返：一个越南难民的半生",
+    "link": "https://cn.nytimes.com/usa/20260807/deportations-southeast-asians-trump/dual",
+    "pub_date": "2026-08-07 11:36:02",
+    "author": "",
+    "description": "AMY QIN, ALBERT SUN2026年8月7日 Linh Pham for The New York Times Thousands of Southeast Asians, many of them long spared from deportation since the end of the Vietnam War, are being sent back as part of a Trump administrati…",
+    "content": "AMY QIN, ALBERT SUN 2026年8月7日 Linh Pham for The New York Times Thousands of Southeast Asians, many of them long spared from deportation since the end of the Vietnam War, are being sent back as part of a Trump administration push. 随着特朗普政府推行大规模驱逐行动，数以千计自越战结束以来长期…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20260807/china-unitree-ipo-robot/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "宇树科技IPO：会翻跟头的机器人能吸引投资者吗？",
+    "link": "https://cn.nytimes.com/business/20260807/china-unitree-ipo-robot/dual",
+    "pub_date": "2026-08-07 11:06:03",
+    "author": "",
+    "description": "STEVE LOHR, XINYUN WU2026年8月7日 Unitree Robotics may be little known outside China. Its robots are not. Millions around the world have watched videos of the company’s machines carrying out remarkable feats that seem almos…",
+    "content": "STEVE LOHR, XINYUN WU 2026年8月7日 Unitree Robotics may be little known outside China. Its robots are not. Millions around the world have watched videos of the company’s machines carrying out remarkable feats that seem almost superhuman. 宇树科技在中国以外可能鲜为人知，但它的机器人却绝非…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c1e1v7gxwzdo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "特朗普簽署新行政命令 試圖重新限制美國出生公民權",
+    "link": "https://www.bbc.com/zhongwen/articles/c1e1v7gxwzdo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-08-07 10:50:00",
+    "author": "",
+    "description": "Getty Images / 特朗普在白宫椭圆形办公室内，在米勒见证下签署针对出生公民权的行政命令。（英文影片） 在最高法院驳回他先前取消美国出生公民权的尝试几个星期后，唐纳德·特朗普（Donald Trump；川普）再次试图缩减美国的出生公民权（birthright citizenship）。 总统星期四（8月6日）签署了两项行政命令，其中一项扩大了现有对“非公民”的定义，这些非公民的子女不符合出生公民权的条件。 第二项命令禁止所谓的…",
+    "content": "Getty Images / 特朗普在白宫椭圆形办公室内，在米勒见证下签署针对出生公民权的行政命令。（英文影片） 在最高法院驳回他先前取消美国出生公民权的尝试几个星期后，唐纳德·特朗普（Donald Trump；川普）再次试图缩减美国的出生公民权（birthright citizenship）。 总统星期四（8月6日）签署了两项行政命令，其中一项扩大了现有对“非公民”的定义，这些非公民的子女不符合出生公民权的条件。 第二项命令禁止所谓的“生育旅游”，即孕妇来美国分娩以让她们的孩子成为美国公民的做法。 特朗普在白宫椭…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20260807/europe-war-wildfires-migration/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "战争、高温、难民危机：失去对自身命运掌控的欧洲",
+    "link": "https://cn.nytimes.com/world/20260807/europe-war-wildfires-migration/dual",
+    "pub_date": "2026-08-07 09:06:02",
+    "author": "",
+    "description": "MICHAEL D. SHEAR2026年8月7日上周，法国波尔多西南方小镇朗通的消防员。 Pierre Crom/Getty Images Once again in recent days, Europe has seemed to be watching from the sidelines as its destiny is shaped by outside forces. 近日，欧洲再次显得像是在旁观席上，眼睁睁看着自己的命…",
+    "content": "MICHAEL D. SHEAR 2026年8月7日 上周，法国波尔多西南方小镇朗通的消防员。 Pierre Crom/Getty Images Once again in recent days, Europe has seemed to be watching from the sidelines as its destiny is shaped by outside forces. 近日，欧洲再次显得像是在旁观席上，眼睁睁看着自己的命运被外部力量所塑造。 Would President Trump choos…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c86n5vgell5o/simp?at_medium=RSS&at_campaign=rss",
@@ -429,17 +484,6 @@ const jsonData = [
     "content": "Getty Images 一个由海洋生物学家组成的国际团队警告，关闭霍尔木兹海峡（Strait of Hormuz）是一场“迫在眉睫的生态危机”，也是“巨大的国际生物安全威胁”。团队的报告发表于期刊《生物入侵》（Biological Invasions）当中。 科学家表示，由于船只已滞留数月，这让准入侵物种得以有前所未有的时间来依附船只。 生物学家指出，一旦这些船只恢复航行，并且驶往全球各地的目的地，可能会引发一场“大规模、海洋生物入侵的超级传播事件”。 报告指出，自2月以来，估计有1,500艘船只滞留在波斯湾—阿…"
   },
   {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20260805/uber-sexual-assault-lawsuits/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "优步应对性侵诉讼的策略：“你当时穿了什么？”",
-    "link": "https://cn.nytimes.com/business/20260805/uber-sexual-assault-lawsuits/dual",
-    "pub_date": "2026-08-05 13:36:02",
-    "author": "",
-    "description": "EMILY STEEL2026年8月5日 A 24-year-old woman logged onto a videoconference from her bedroom in Florida on a Friday morning in April 2025 to face a deposition in her lawsuit against Uber. 2025年4月一个周五上午，一名24岁的女子在佛罗里达州的卧室里登录视频会…",
-    "content": "EMILY STEEL 2026年8月5日 A 24-year-old woman logged onto a videoconference from her bedroom in Florida on a Friday morning in April 2025 to face a deposition in her lawsuit against Uber. 2025年4月一个周五上午，一名24岁的女子在佛罗里达州的卧室里登录视频会议，就她对优步(Uber)提起的诉讼接受庭外证词询问。 Her driver …"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cy450nxz11eo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -449,39 +493,6 @@ const jsonData = [
     "author": "",
     "description": "Getty Images “是只有我这样，还是我是世上最丑的人？”一名30岁出头的女子在 TikTok 上对着镜头说道，影片配文写着：“第一人称视觉：女孩处于黄体期时的样子。（POV: Girls in their luteal phase）” 这段影片获得240万次观看，并吸引数百则留言。 “这根本就是我，”一名女性写道。 “我很生气，因为这实在太准确了，”另一人表示。 社交媒体上有数以千计类似影片，哀叹所谓的“黄体期变丑”（lute…",
     "content": "Getty Images “是只有我这样，还是我是世上最丑的人？”一名30岁出头的女子在 TikTok 上对着镜头说道，影片配文写着：“第一人称视觉：女孩处于黄体期时的样子。（POV: Girls in their luteal phase）” 这段影片获得240万次观看，并吸引数百则留言。 “这根本就是我，”一名女性写道。 “我很生气，因为这实在太准确了，”另一人表示。 社交媒体上有数以千计类似影片，哀叹所谓的“黄体期变丑”（luteal uglies），即女性所形容在月经周期黄体期期间出现的外貌和情绪变化。 黄…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20260805/mohegan-south-korea-casino-bain/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "打造韩国版澳门：美国原住民部落的一场豪赌",
-    "link": "https://cn.nytimes.com/asia-pacific/20260805/mohegan-south-korea-casino-bain/dual",
-    "pub_date": "2026-08-05 12:36:02",
-    "author": "",
-    "description": "JOHN YOON2026年8月5日韩国仁川迎仕柏度假城赌场入口，摄于今年1月。 The Mohegan Native American tribe spent $1.6 billion and almost a decade building a gambling venue near Seoul with three five-star hotels, a 15,000-seat arena and a water park so …",
-    "content": "JOHN YOON 2026年8月5日 韩国仁川迎仕柏度假城赌场入口，摄于今年1月。 The Mohegan Native American tribe spent $1.6 billion and almost a decade building a gambling venue near Seoul with three five-star hotels, a 15,000-seat arena and a water park so lavish that Netflix chose to film a hi…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20260805/eu-passport-control-chaos/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "边检排队六小时？欧洲全新出入境系统引发旅行“噩梦”",
-    "link": "https://cn.nytimes.com/world/20260805/eu-passport-control-chaos/dual",
-    "pub_date": "2026-08-05 11:36:02",
-    "author": "",
-    "description": "JEANNA SMIALEK, KOBA RYCKEWAERT2026年8月5日官员表示，里斯本机场护照检查的等候时间在去年冬天达到了六个小时的峰值，但现在最长时间仅为当时的四分之一。 Armando Franca/Associated Press Shoneez Sallie had been traveling for 23 hours from South Africa when she landed in Brussels, o…",
-    "content": "JEANNA SMIALEK, KOBA RYCKEWAERT 2026年8月5日 官员表示，里斯本机场护照检查的等候时间在去年冬天达到了六个小时的峰值，但现在最长时间仅为当时的四分之一。 Armando Franca/Associated Press Shoneez Sallie had been traveling for 23 hours from South Africa when she landed in Brussels, only to face a demoralizing sight that …"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20260805/south-korea-birth-rate-nicu-crisis/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "韩国希望提高生育率，但新生儿科医生数量严重短缺",
-    "link": "https://cn.nytimes.com/asia-pacific/20260805/south-korea-birth-rate-nicu-crisis/dual",
-    "pub_date": "2026-08-05 10:36:02",
-    "author": "",
-    "description": "JIN YU YOUNG2026年8月5日2024年，在韩国首尔某产后护理中心的新生儿病房里，工作人员正在照料新生儿。 Jean Chung for The New York Times The baby started turning blue almost immediately after she was born in a small clinic last month in South Korea. 上月，一名女婴在韩国一家小…",
-    "content": "JIN YU YOUNG 2026年8月5日 2024年，在韩国首尔某产后护理中心的新生儿病房里，工作人员正在照料新生儿。 Jean Chung for The New York Times The baby started turning blue almost immediately after she was born in a small clinic last month in South Korea. 上月，一名女婴在韩国一家小型诊所出生后，几乎立刻就开始发紫。 There was a neonatal…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c07rmmvm1pmo/simp?at_medium=RSS&at_campaign=rss",
@@ -724,17 +735,6 @@ const jsonData = [
     "author": "",
     "description": "Getty Images 美国总统特朗普（Donald Trump；川普）本月稍早在宾夕法尼亚州国防与创新峰会上台时，身旁有美国几家最大国防企业总裁簇拥，他心中只有一个讯息：制造更多武器，而且要更快。 “我们拥有世界最好的品质，”特朗普告诉聚集在美国陆军战争学院的武器制造商，身旁有“战争部长”皮特·赫格塞斯（Pete Hegseth）。“但我们需要一点速度。” 白宫将这次峰会定位为振兴美国工业、强化美军作战能力的双管齐下策略，用赫格塞斯…",
     "content": "Getty Images 美国总统特朗普（Donald Trump；川普）本月稍早在宾夕法尼亚州国防与创新峰会上台时，身旁有美国几家最大国防企业总裁簇拥，他心中只有一个讯息：制造更多武器，而且要更快。 “我们拥有世界最好的品质，”特朗普告诉聚集在美国陆军战争学院的武器制造商，身旁有“战争部长”皮特·赫格塞斯（Pete Hegseth）。“但我们需要一点速度。” 白宫将这次峰会定位为振兴美国工业、强化美军作战能力的双管齐下策略，用赫格塞斯的话说，就是打造“自由兵工厂”。 然而，几乎没人提及的是，今年稍早在“史诗之怒行…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cg5lvqre8lzo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "唐山大地震50週年：五個鮮為人知的歷史細節",
-    "link": "https://www.bbc.com/zhongwen/articles/cg5lvqre8lzo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-07-28 12:09:58",
-    "author": "",
-    "description": "Getty Images / 一名游客在中国河北省唐山市，参观一处刻有唐山地震日期的纪念建筑遗址 整整50年前，1976年7月28日凌晨3时42分，中国河北省唐山市发生7.8级地震，约24.2万人遇难。 那一年，周恩来、朱德、毛泽东先后去世，再加上一场惨烈的地震。于是，在中国人的记忆与叙述之中，它不仅是一场自然灾难，更被视作那个充满变数与转折的“巨变之年”里，一个带有浓厚宿命论色彩的历史注脚。 但这场灾难与政治的纠葛，往往掩盖了灾难本身…",
-    "content": "Getty Images / 一名游客在中国河北省唐山市，参观一处刻有唐山地震日期的纪念建筑遗址 整整50年前，1976年7月28日凌晨3时42分，中国河北省唐山市发生7.8级地震，约24.2万人遇难。 那一年，周恩来、朱德、毛泽东先后去世，再加上一场惨烈的地震。于是，在中国人的记忆与叙述之中，它不仅是一场自然灾难，更被视作那个充满变数与转折的“巨变之年”里，一个带有浓厚宿命论色彩的历史注脚。 但这场灾难与政治的纠葛，往往掩盖了灾难本身的诸多细节，而它真正意义上的“影响深远”，不仅体现在地质层面——它的余震甚至在4…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/clyezy3l60qo/simp?at_medium=RSS&at_campaign=rss",
