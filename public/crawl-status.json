@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-08-10T07:13:58.720Z",
-  "ended_at": "2026-08-10T07:13:59.082Z",
-  "duration_ms": 362,
+  "started_at": "2026-08-10T23:28:05.219Z",
+  "ended_at": "2026-08-10T23:28:05.471Z",
+  "duration_ms": 252,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -17,12 +17,12 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 45,
-    "failed_sources": 14,
-    "circuit_open_sources": 14,
+    "cache_hit_sources": 46,
+    "failed_sources": 13,
+    "circuit_open_sources": 13,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1363,
-    "total_items_after_retention": 1161,
+    "total_items_after_dedupe": 1364,
+    "total_items_after_retention": 1094,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -84,7 +84,7 @@
     {
       "title": "爱范儿",
       "url": "https://plink.anyfeeder.com/ifanr",
-      "reason": "Invalid character in entity name\nLine: 1733\nColumn: 255\nChar: <",
+      "reason": "Invalid character in entity name\nLine: 2255\nColumn: 255\nChar: <",
       "skippedByCircuit": true
     },
     {
@@ -97,12 +97,6 @@
       "title": "FreeBuf 关注黑客",
       "url": "https://plink.anyfeeder.com/freebuf",
       "reason": "HTTP 405",
-      "skippedByCircuit": true
-    },
-    {
-      "title": "Epic Game",
-      "url": "https://www.epicbundle.com/feed/",
-      "reason": "Unexpected close tag\nLine: 92\nColumn: 7\nChar: >",
       "skippedByCircuit": true
     },
     {
@@ -161,7 +155,7 @@
     {
       "title": "爱范儿",
       "url": "https://plink.anyfeeder.com/ifanr",
-      "reason": "Invalid character in entity name\nLine: 1733\nColumn: 255\nChar: <"
+      "reason": "Invalid character in entity name\nLine: 2255\nColumn: 255\nChar: <"
     },
     {
       "title": "软餐 - 新鲜软件资讯",
@@ -172,11 +166,6 @@
       "title": "FreeBuf 关注黑客",
       "url": "https://plink.anyfeeder.com/freebuf",
       "reason": "HTTP 405"
-    },
-    {
-      "title": "Epic Game",
-      "url": "https://www.epicbundle.com/feed/",
-      "reason": "Unexpected close tag\nLine: 92\nColumn: 7\nChar: >"
     },
     {
       "title": "微博 / 热搜榜",
