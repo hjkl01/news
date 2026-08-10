@@ -755,8 +755,8 @@ const jsonData = [
     "link": "https://github.com/1jehuang/jcode",
     "pub_date": "",
     "author": "",
-    "description": "The most RAM efficient harness jcode The most RAM efficient harness The most most intelligent harness Website · Docs · SDK · Benchmarks · Features · Install · Quick Start · Further Reading · Contributing Installation # m…",
-    "content": "The most RAM efficient harness jcode The most RAM efficient harness The most most intelligent harness Website · Docs · SDK · Benchmarks · Features · Install · Quick Start · Further Reading · Contributing Installation # macOS &amp; Linux curl -fsSL https://jcod…"
+    "description": "The most RAM efficient harness jcode The most RAM efficient harness The most intelligent harness Website · Docs · SDK · Benchmarks · Features · Install · Quick Start · Further Reading · Contributing Installation # macOS …",
+    "content": "The most RAM efficient harness jcode The most RAM efficient harness The most intelligent harness Website · Docs · SDK · Benchmarks · Features · Install · Quick Start · Further Reading · Contributing Installation # macOS &amp; Linux curl -fsSL https://jcode.sh/…"
   },
   {
     "id": "技术-github rust-https://github.com/HakanSeven12/OpenCADStudio",
