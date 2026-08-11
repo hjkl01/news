@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-08-10T23:28:05.219Z",
-  "ended_at": "2026-08-10T23:28:05.471Z",
-  "duration_ms": 252,
+  "started_at": "2026-08-11T06:51:52.707Z",
+  "ended_at": "2026-08-11T06:51:52.908Z",
+  "duration_ms": 201,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -21,8 +21,8 @@
     "failed_sources": 13,
     "circuit_open_sources": 13,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1364,
-    "total_items_after_retention": 1094,
+    "total_items_after_dedupe": 1365,
+    "total_items_after_retention": 1158,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -84,7 +84,7 @@
     {
       "title": "爱范儿",
       "url": "https://plink.anyfeeder.com/ifanr",
-      "reason": "Invalid character in entity name\nLine: 2255\nColumn: 255\nChar: <",
+      "reason": "Invalid character in entity name\nLine: 2668\nColumn: 255\nChar: <",
       "skippedByCircuit": true
     },
     {
@@ -155,7 +155,7 @@
     {
       "title": "爱范儿",
       "url": "https://plink.anyfeeder.com/ifanr",
-      "reason": "Invalid character in entity name\nLine: 2255\nColumn: 255\nChar: <"
+      "reason": "Invalid character in entity name\nLine: 2668\nColumn: 255\nChar: <"
     },
     {
       "title": "软餐 - 新鲜软件资讯",
