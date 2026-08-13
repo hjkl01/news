@@ -1,25 +1,25 @@
 const jsonData = [
   {
-    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/6d9e367369fc",
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/06650cf42ed5",
     "feed_name": "简书 / 首页",
     "category": "娱乐",
-    "title": "627.【hadoop】解决java.io.IOException: Cannot run program \"bash\"",
-    "link": "https://www.jianshu.com/p/6d9e367369fc",
-    "pub_date": "2026-08-13 07:22:43",
-    "author": "七镜",
-    "description": "一、问题详情 环境说明 JDK版本：19 hadoop版本: 3.2.2 操作系统版本: centos 7.6 描述 今天在部署hadoop的时候，在执行 start-dfs.sh 遇到下面的问题，提示我 Cannot run program \"bash\"，我心里一纳闷，这是linux系统，bash 会执行不了？ 2023-04-02 05:19:05,423 ERROR org.apache.hadoop.hdfs.server.na…",
-    "content": "一、问题详情 环境说明 JDK版本：19 hadoop版本: 3.2.2 操作系统版本: centos 7.6 描述 今天在部署hadoop的时候，在执行 start-dfs.sh 遇到下面的问题，提示我 Cannot run program \"bash\" ，我心里一纳闷，这是linux系统， bash 会执行不了？ 2023-04-02 05:19:05,423 ERROR org.apache.hadoop.hdfs.server.namenode.NameNode: Failed to start namen…"
+    "title": "仇恨",
+    "link": "https://www.jianshu.com/p/06650cf42ed5",
+    "pub_date": "2026-08-13 14:26:08",
+    "author": "苍天万道",
+    "description": "在日月帝国的日子并不平静，尽管他努力地想要融入这个陌生的世界，但他的内心始终无法摆脱仇恨的阴影。 在唐轩的记忆中，他的家族曾是江湖中显赫一时的大家族，然而，一场突如其来的灾难，却让他的家族一夜之间陷入了灭门的险境。那场灾难，让唐轩失去了所有的亲人，也让他心中埋下了深深的仇恨种子。 唐轩知道，这场灾难并非偶然，而是有人暗中策划。虽然他至今都不知道幕后黑手是谁，但他发誓，一定要找出真相，为自己的家族复仇。 在日月帝国的这段时间，唐轩努力地提…",
+    "content": "在日月帝国的日子并不平静，尽管他努力地想要融入这个陌生的世界，但他的内心始终无法摆脱仇恨的阴影。 在唐轩的记忆中，他的家族曾是江湖中显赫一时的大家族，然而，一场突如其来的灾难，却让他的家族一夜之间陷入了灭门的险境。那场灾难，让唐轩失去了所有的亲人，也让他心中埋下了深深的仇恨种子。 唐轩知道，这场灾难并非偶然，而是有人暗中策划。虽然他至今都不知道幕后黑手是谁，但他发誓，一定要找出真相，为自己的家族复仇。 在日月帝国的这段时间，唐轩努力地提升自己的实力，他明白，只有变得更强，才能有足够的实力去面对那个强大的敌人。 然而…"
   },
   {
-    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/07bd858cca43",
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/5c052f891472",
     "feed_name": "简书 / 首页",
     "category": "娱乐",
-    "title": "里程碑 | WeDataSphere 一站式开源大数据平台套件全面升级",
-    "link": "https://www.jianshu.com/p/07bd858cca43",
-    "pub_date": "2026-08-13 07:22:43",
-    "author": "康月牙",
-    "description": "国家 2035 远景规划提出要加快全面数字化转型的步伐，而“大数据平台”是数字化转型的基础技术之一。对于任何企业来说，建立和维护一个大数据平台都不是一件容易的事情，而建设一个有特色的、完整易用的大数据平台，显然更是一件技术难度极高的事情。 经过七年多的探索和实践，微众银行打造了一套一站式、金融级、全连通、开源开放的大数据平台套件：WeDataSphere。 基础平台由数据交换、数据分发、计算、存储四大层次组成，关注底层数据传输计算存储能…",
-    "content": "国家 2035 远景规划提出要加快全面数字化转型的步伐，而“大数据平台”是数字化转型的基础技术之一。对于任何企业来说，建立和维护一个大数据平台都不是一件容易的事情，而建设一个有特色的、完整易用的大数据平台，显然更是一件技术难度极高的事情。 经过七年多的探索和实践，微众银行打造了一套一站式、金融级、全连通、开源开放的大数据平台套件：WeDataSphere。 基础平台由数据交换、数据分发、计算、存储四大层次组成，关注底层数据传输计算存储能力；功能平台由平台工具、数据工具、应用工具三大层次组成，关注用户各类功能工具需求…"
+    "title": "Android不要通过Application来保存数据或其他其他变量",
+    "link": "https://www.jianshu.com/p/5c052f891472",
+    "pub_date": "2026-08-13 14:26:06",
+    "author": "在岁月中远行",
+    "description": "在我们的应用程序中，很多地方可能用到同一个数据。很多时候我们可能不想通过Intent在Activity之间传递数据或者持久化的存放这些数据。 我们可能会将这些数据存在在Application中，这样我们就可以在所有的Activity中访问了，这个方法简单，但是实际上是错误的。你的程序很可能会因为报空指针错误。 我们在MainActivity中获取Appliction实例，并为name变量赋值，然后跳转到SecondActivity中再去…",
+    "content": "在我们的应用程序中，很多地方可能用到同一个数据。很多时候我们可能不想通过Intent在Activity之间传递数据或者持久化的存放这些数据。 我们可能会将这些数据存在在Application中，这样我们就可以在所有的Activity中访问了，这个方法简单，但是实际上是错误的。你的程序很可能会因为报空指针错误。 我们在MainActivity中获取Appliction实例，并为name变量赋值，然后跳转到SecondActivity中再去获取name变量的值，并调用大写方法打印出来。 这里有个场景，就是当我们按Hom…"
   },
   {
     "id": "娱乐-喷嚏图卦-https://www.dapenti.com/blog/more.asp?name=xilei&id=194884",
