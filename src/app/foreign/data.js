@@ -1,5 +1,126 @@
 const jsonData = [
   {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20260814/afghan-women-taliban-rule/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "2000万被系统性抹去的人：阿富汗女性的孤立绝境",
+    "link": "https://cn.nytimes.com/world/20260814/afghan-women-taliban-rule/dual",
+    "pub_date": "2026-08-14 13:36:02",
+    "author": "",
+    "description": "EPHRAT LIVNI2026年8月14日去年阿富汗喀布尔的一个集市。大多数女性表示，她们必须征得男性亲属的同意才能出门。 Tomas Munita for The New York Times The Taliban regained control of Afghanistan five years ago this week, returning to power after two decades and restoring …",
+    "content": "EPHRAT LIVNI 2026年8月14日 去年阿富汗喀布尔的一个集市。大多数女性表示，她们必须征得男性亲属的同意才能出门。 Tomas Munita for The New York Times The Taliban regained control of Afghanistan five years ago this week, returning to power after two decades and restoring an Islamic government that had severel…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cq6d1y1212po/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "美國稱數十國助中國避特朗普關稅",
+    "link": "https://www.bbc.com/zhongwen/articles/cq6d1y1212po/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-08-14 13:11:59",
+    "author": "",
+    "description": "AFP via Getty Images 白宫在一份报告中称，超过40个国家透过将出口商品绕道经由面临较低美国进口关税的国家，协助中国规避美国关税。 星期四（8月13日）发表的报告点名的国家包括加拿大、印度、墨西哥、日本和南韩。白宫表示，这些国家协助中国规避价值数百亿美元的关税。 白宫贸易顾问彼得·纳瓦罗（Peter Navarro）表示，这已造成“美国就业机会流失及数十亿美元收入损失”。 中国驻美国大使馆发言人回应BBC查询时表示，“…",
+    "content": "AFP via Getty Images 白宫在一份报告中称，超过40个国家透过将出口商品绕道经由面临较低美国进口关税的国家，协助中国规避美国关税。 星期四（8月13日）发表的报告点名的国家包括加拿大、印度、墨西哥、日本和南韩。白宫表示，这些国家协助中国规避价值数百亿美元的关税。 白宫贸易顾问彼得·纳瓦罗（Peter Navarro）表示，这已造成“美国就业机会流失及数十亿美元收入损失”。 中国驻美国大使馆发言人回应BBC查询时表示，“贸易战没有赢家”，并指中国反对美国的关税措施，以及利用国家力量针对中国企业。 该…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20260814/humanoid-robot-us-china/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "美国想在人形机器人赛道与中国竞争，这并非易事",
+    "link": "https://cn.nytimes.com/business/20260814/humanoid-robot-us-china/dual",
+    "pub_date": "2026-08-14 13:06:02",
+    "author": "",
+    "description": "MEAGHAN TOBIN2026年8月14日 Teddy Haggerty knew exactly what he was up against when he decided to build humanoid robots in the United States. 决定在美国制造人形机器人时，泰迪·哈格蒂非常清楚自己面临的是什么。 Since 2022, Mr. Haggerty had been the main North…",
+    "content": "MEAGHAN TOBIN 2026年8月14日 Teddy Haggerty knew exactly what he was up against when he decided to build humanoid robots in the United States. 决定在美国制造人形机器人时，泰迪·哈格蒂非常清楚自己面临的是什么。 Since 2022, Mr. Haggerty had been the main North American distributor for Unitree Robot…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20260814/trump-private-companies-hacking-cybercriminals/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "效仿中国？特朗普授权美国企业参与黑客行动",
+    "link": "https://cn.nytimes.com/usa/20260814/trump-private-companies-hacking-cybercriminals/dual",
+    "pub_date": "2026-08-14 12:06:02",
+    "author": "",
+    "description": "DUSTIN VOLZ2026年8月14日一位研究中国黑客生态的专家表示，从历史上看，北京曾效仿美国的各项网络安全政策，但特朗普政府的新政策却逆转了这种局面。 Vincent Thian/Associated Press The Trump administration is encouraging American companies to conduct their own cyberattacks against criminal…",
+    "content": "DUSTIN VOLZ 2026年8月14日 一位研究中国黑客生态的专家表示，从历史上看，北京曾效仿美国的各项网络安全政策，但特朗普政府的新政策却逆转了这种局面。 Vincent Thian/Associated Press The Trump administration is encouraging American companies to conduct their own cyberattacks against criminal hackers, a move that White House offi…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cwye07v501ro/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "AI浪潮衝擊青年就業 畢業生如何應對？",
+    "link": "https://www.bbc.com/zhongwen/articles/cwye07v501ro/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-08-14 11:41:21",
+    "author": "",
+    "description": "BBC / AI浪潮冲击青年就业 应届毕业生与初级岗位首当其冲 2026年度中国高校毕业生达1,270万人，创历史新高，加上往届未就业与回流的海外留学生，求职人数突破1,500万人。中国国家统计局公布的6月数据显示，16至24岁劳动力失业率为14.9%。 香港的毕业生同样面临压力，大学学位持有者的失业率为3.7%，适合大学毕业生的全职职位空缺较往年大幅减少。根据大学联校就业资料库统计，由2022年约8万个，直接下滑到2025年的约3万1…",
+    "content": "BBC / AI浪潮冲击青年就业 应届毕业生与初级岗位首当其冲 2026年度中国高校毕业生达1,270万人，创历史新高，加上往届未就业与回流的海外留学生，求职人数突破1,500万人。中国国家统计局公布的6月数据显示，16至24岁劳动力失业率为14.9%。 香港的毕业生同样面临压力，大学学位持有者的失业率为3.7%，适合大学毕业生的全职职位空缺较往年大幅减少。根据大学联校就业资料库统计，由2022年约8万个，直接下滑到2025年的约3万1千个，当中较易受自动化技术替代的职位，像行政及资讯科技或编程相关的初阶职位空缺，…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20260814/putin-visit-islands-japan-russia/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "普京首次访问日俄争议岛屿，激怒东京",
+    "link": "https://cn.nytimes.com/asia-pacific/20260814/putin-visit-islands-japan-russia/dual",
+    "pub_date": "2026-08-14 11:06:02",
+    "author": "",
+    "description": "赫海威, PAUL SONNE2026年8月14日俄罗斯国家媒体周四发布的一张照片显示，俄罗斯总统弗拉普京访问了有争议的岛屿。 Gavriil Grigorov/Sputnik, via Agence France-Presse — Getty Images President Vladimir V. Putin of Russia on Thursday visited islands seized from Japan at the…",
+    "content": "赫海威, PAUL SONNE 2026年8月14日 俄罗斯国家媒体周四发布的一张照片显示，俄罗斯总统弗拉普京访问了有争议的岛屿。 Gavriil Grigorov/Sputnik, via Agence France-Presse — Getty Images President Vladimir V. Putin of Russia on Thursday visited islands seized from Japan at the end of World War II for the first tim…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20260814/zhu-rongji-death-mourning-china/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "朱镕基去世，中国人哀悼一个更加开放、充满希望的时代",
+    "link": "https://cn.nytimes.com/china/20260814/zhu-rongji-death-mourning-china/dual",
+    "pub_date": "2026-08-14 10:36:02",
+    "author": "",
+    "description": "袁莉2026年8月14日中国前总理朱镕基于周三去世。人们在北京悼念他。 Maxim Shemetov/Reuters In 1998, Zhu Rongji, then China’s premier, told the staff of an investigative news program that he was a devoted viewer. He went so far as to say that the broadc…",
+    "content": "袁莉 2026年8月14日 中国前总理朱镕基于周三去世。人们在北京悼念他。 Maxim Shemetov/Reuters In 1998, Zhu Rongji, then China’s premier, told the staff of an investigative news program that he was a devoted viewer. He went so far as to say that the broadcast had given him ideas for reforms. 1…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20260814/china-premier-zhu-rongji-reaction/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "敢于说真话的铁腕总理：中国民众如何悼念朱镕基",
+    "link": "https://cn.nytimes.com/china/20260814/china-premier-zhu-rongji-reaction/dual",
+    "pub_date": "2026-08-14 08:36:02",
+    "author": "",
+    "description": "储百亮2026年8月14日周四，北京一家报摊上刊登的朱镕基官方讣告。 Maxim Shemetov/Reuters Zhu Rongji, China’s former premier, is often remembered for opening the country to the global economy. But among Chinese people, his death has also prompted nosta…",
+    "content": "储百亮 2026年8月14日 周四，北京一家报摊上刊登的朱镕基官方讣告。 Maxim Shemetov/Reuters Zhu Rongji, China’s former premier, is often remembered for opening the country to the global economy. But among Chinese people, his death has also prompted nostalgia for his blunt words and pugnaciou…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c4g48ryvnz2o/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "伊朗跟美國、以色列打仗 還能撐多久？",
+    "link": "https://www.bbc.com/zhongwen/articles/c4g48ryvnz2o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-08-14 08:01:11",
+    "author": "",
+    "description": "AFP via Getty Images 伊朗战争爆发七个月后，尽管该国经济和基础设施承受巨大压力，其决策者看来仍不急于结束战事。 德黑兰或许希望展示，单凭美国无法决定这场战争的节奏；它也可能希望提高美国在军事、经济和政治上的代价，最终促使华盛顿更接近接受其部分要求。 但许多事情都取决于一个关键问题的答案：伊朗究竟还能将这场战争持续多久？ 伊朗在军事上延长这场战争的能力有多强？ AFP via Getty Images 伊朗部分国防工业…",
+    "content": "AFP via Getty Images 伊朗战争爆发七个月后，尽管该国经济和基础设施承受巨大压力，其决策者看来仍不急于结束战事。 德黑兰或许希望展示，单凭美国无法决定这场战争的节奏；它也可能希望提高美国在军事、经济和政治上的代价，最终促使华盛顿更接近接受其部分要求。 但许多事情都取决于一个关键问题的答案：伊朗究竟还能将这场战争持续多久？ 伊朗在军事上延长这场战争的能力有多强？ AFP via Getty Images 伊朗部分国防工业和导弹生产设施已成为攻击目标，但没有独立数据量化相关损害。英国皇家国际事务研究所…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260813-%E5%A4%84%E5%A4%84%E7%95%99%E5%90%8D%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%AC%B2%E5%86%8D%E5%B0%86%E5%A7%93%E5%90%8D%E5%88%BB%E4%B8%8A%E8%82%AF%E5%B0%BC%E8%BF%AA%E4%B8%AD%E5%BF%83%EF%BC%8C%E6%8C%91%E6%88%98%E6%B3%95%E9%99%A2%E7%A6%81%E4%BB%A4",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "处处留名，特朗普欲再将姓名刻上肯尼迪中心，挑战法院禁令 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260813-%E5%A4%84%E5%A4%84%E7%95%99%E5%90%8D%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%AC%B2%E5%86%8D%E5%B0%86%E5%A7%93%E5%90%8D%E5%88%BB%E4%B8%8A%E8%82%AF%E5%B0%BC%E8%BF%AA%E4%B8%AD%E5%BF%83%EF%BC%8C%E6%8C%91%E6%88%98%E6%B3%95%E9%99%A2%E7%A6%81%E4%BB%A4",
+    "pub_date": "2026-08-14 06:45:06",
+    "author": "",
+    "description": "13/08/2026 - 23:49 围绕肯尼迪中心的争议周四（8月13日）进一步升级。由美国总统特朗普的亲信掌控的肯尼迪中心董事会周四投票决定，恢复特朗普的名字在建筑外墙上的标识。此前，法院曾下令将其撤除。 此前，一名联邦法官今年5月下令，必须从建筑本身、该机构网站以及所有注册商标中，删除“特朗普总统或除肯尼迪总统之外任何个人”的相关名称。 据多家美国媒体援引匿名消息人士报道，周四通过的决议规定，建筑上如今将重新出现这样的字样：“由唐…",
+    "content": "13/08/2026 - 23:49 围绕肯尼迪中心的争议周四（8月13日）进一步升级。由美国总统特朗普的亲信掌控的肯尼迪中心董事会周四投票决定，恢复特朗普的名字在建筑外墙上的标识。此前，法院曾下令将其撤除。 此前，一名联邦法官今年5月下令，必须从建筑本身、该机构网站以及所有注册商标中，删除“特朗普总统或除肯尼迪总统之外任何个人”的相关名称。 据多家美国媒体援引匿名消息人士报道，周四通过的决议规定，建筑上如今将重新出现这样的字样：“ 由唐纳德·J·特朗普总统修复和翻新 ”。 此外，建筑前方的广场将以特朗普的名字命名…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260813-%E7%BE%8E%E5%9B%BD%E6%B3%95%E9%99%A2%E8%A3%81%E5%AE%9A-%E8%BF%9B%E5%85%A5%E7%BE%8E%E5%9B%BD%E5%A2%83%E5%86%85%E7%9A%84%E5%B0%8F%E9%A2%9D%E5%8C%85%E8%A3%B9%E5%8F%AF%E8%A2%AB%E5%BE%81%E6%94%B6%E5%85%B3%E7%A8%8E",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "美国法院裁定：进入美国境内的小额包裹可被征收关税 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260813-%E7%BE%8E%E5%9B%BD%E6%B3%95%E9%99%A2%E8%A3%81%E5%AE%9A-%E8%BF%9B%E5%85%A5%E7%BE%8E%E5%9B%BD%E5%A2%83%E5%86%85%E7%9A%84%E5%B0%8F%E9%A2%9D%E5%8C%85%E8%A3%B9%E5%8F%AF%E8%A2%AB%E5%BE%81%E6%94%B6%E5%85%B3%E7%A8%8E",
+    "pub_date": "2026-08-14 06:45:03",
+    "author": "",
+    "description": "14/08/2026 - 00:16 美国一家法院周四（8月13日）裁定，进入美国境内的小额包裹可以被征收关税。这一裁决对美国总统特朗普而言是一场胜利，此前他曾签署行政令，要求取消针对这类包裹的关税豁免。 特朗普于去年夏天签署行政令，旨在终止所谓的“最低限度免税” 政策。根据这一政策，价值低于800美元的小额邮包寄往美国时，原本可以免缴关税等额外费用。 目前，只有私人之间出于善意寄送、且价值低于100美元的“真实礼物”，仍可享受这一豁免…",
+    "content": "14/08/2026 - 00:16 美国一家法院周四（8月13日）裁定，进入美国境内的小额包裹可以被征收关税。这一裁决对美国总统特朗普而言是一场胜利，此前他曾签署行政令，要求取消针对这类包裹的关税豁免。 特朗普于去年夏天签署行政令，旨在终止所谓的“最低限度免税” 政策。根据这一政策，价值低于800美元的小额邮包寄往美国时，原本可以免缴关税等额外费用。 目前，只有私人之间出于善意寄送、且价值低于100美元的“真实礼物”，仍可享受这一豁免。 此前，多家进口商向纽约国际贸易法院（CIT）提起诉讼，认为特朗普取消这一豁免…"
+  },
+  {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260813-%E4%B9%8C%E5%85%8B%E5%85%B0%E5%AF%B9%E4%BF%84%E7%BD%97%E6%96%AF%E5%85%B3%E9%94%AE%E7%9F%B3%E6%B2%B9%E9%83%A8%E9%97%A8%E9%95%BF%E8%BE%BE%E6%95%B0%E6%9C%88%E8%A2%AD%E5%87%BB",
     "feed_name": "RFI 法国国际广播电台",
     "category": "国外",
@@ -201,7 +322,7 @@ const jsonData = [
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cm2gpjxyxzgo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
-    "title": "朱鎔基逝世：台灣記住「搞台獨沒好下場」 香港感念金融風暴「挺港功臣」",
+    "title": "朱鎔基：台灣記住「搞台獨沒好下場」 香港感念「挺港功臣」",
     "link": "https://www.bbc.com/zhongwen/articles/cm2gpjxyxzgo/simp?at_medium=RSS&at_campaign=rss",
     "pub_date": "2026-08-13 17:58:02",
     "author": "",
@@ -220,17 +341,6 @@ const jsonData = [
     "content": "13/08/2026 - 11:36 中共政治局原常委、中国国务院原总理朱镕基于当地时间周三上午在北京逝世。日本驻华大使馆周四通过其多个社媒平台发布降半旗的日本国旗的照片，并配文：“悼念中华人民共和国前总理朱镕基阁下 #朱镕基同志逝世”。在微博上，这则贴文吸引许多中国网友的留言，留下“愿中日友好”、“谢谢”等留言。 另据《联合早报》报导，新加坡总理黄循财周四致函中国国务院总理李强指出，朱镕基对中国发展以及对新中关系的卓越贡献，将长久为人们所铭记。他代表新加坡政府，对朱镕基逝世，向中国人民致以深切慰问。 黄循财形容朱…"
   },
   {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260813-%E6%96%B0%E8%A5%BF%E5%85%B0%E5%AE%89%E5%85%A8%E6%83%85%E6%8A%A5%E5%B1%80%E9%95%BF-%E5%9C%A8%E5%A4%96%E5%9B%BD%E5%B9%B2%E9%A2%84%E5%92%8C%E9%97%B4%E8%B0%8D%E6%B4%BB%E5%8A%A8%E6%96%B9%E9%9D%A2%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%9C%80%E4%BB%A4%E6%88%91%E4%BB%AC%E5%85%B3%E5%88%87",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "新西兰安全情报局长：在外国干预和间谍活动方面，中国最令我们关切 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260813-%E6%96%B0%E8%A5%BF%E5%85%B0%E5%AE%89%E5%85%A8%E6%83%85%E6%8A%A5%E5%B1%80%E9%95%BF-%E5%9C%A8%E5%A4%96%E5%9B%BD%E5%B9%B2%E9%A2%84%E5%92%8C%E9%97%B4%E8%B0%8D%E6%B4%BB%E5%8A%A8%E6%96%B9%E9%9D%A2%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%9C%80%E4%BB%A4%E6%88%91%E4%BB%AC%E5%85%B3%E5%88%87",
-    "pub_date": "2026-08-13 17:45:02",
-    "author": "",
-    "description": "13/08/2026 - 11:25 新西兰安全情报局发出警告称，地缘政治动荡加剧了对该国安全与保障的威胁。在该机构的最新评估中，新西兰安全情报局局长汉普顿（Andrew Hampton）形容当前面临的威胁环境是近年来最严峻的。汉普顿表示：“鉴于新西兰的体量和我们位于南太平洋的地理位置，过去12个月里我们所看到的那些具有危害性的行为和活动，对新西兰这样的国家来说威胁性更大”。 汉普顿指出，新西兰的公共和私营领域都曾成为外国及其代理人的目…",
-    "content": "13/08/2026 - 11:25 新西兰安全情报局发出警告称，地缘政治动荡加剧了对该国安全与保障的威胁。在该机构的最新评估中，新西兰安全情报局局长汉普顿（Andrew Hampton）形容当前面临的威胁环境是近年来最严峻的。汉普顿表示：“鉴于新西兰的体量和我们位于南太平洋的地理位置，过去12个月里我们所看到的那些具有危害性的行为和活动，对新西兰这样的国家来说威胁性更大”。 汉普顿指出，新西兰的公共和私营领域都曾成为外国及其代理人的目标，企图获取新西兰的知识产权、创新技术和其他非公开信息在内的重要资产。 汉普顿警…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cp87prg297po/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -240,17 +350,6 @@ const jsonData = [
     "author": "",
     "description": "台湾在汉光演习期间，同时举行一年一度的“城镇韧性”演练，星期四（8月13日）下午于北部七个县市同步进行约半小时的“行动网路降速”演习，期间手机上网速度会明显变慢，当局并发布防空警报及实施人车管制。 这次台湾首次模拟战时的“断网”情境进行演练，测试海底通讯电缆（海缆）等关键通讯设施受损后的应变能力。 台湾本年总共在中北部14个县市举行此演练，期间民众无法使用社群媒体、影音串流及视讯通话等服务，估计约1700万人受影响，固网及Wi-Fi则不…",
     "content": "台湾在汉光演习期间，同时举行一年一度的“城镇韧性”演练，星期四（8月13日）下午于北部七个县市同步进行约半小时的“行动网路降速”演习，期间手机上网速度会明显变慢，当局并发布防空警报及实施人车管制。 这次台湾首次模拟战时的“断网”情境进行演练，测试海底通讯电缆（海缆）等关键通讯设施受损后的应变能力。 台湾本年总共在中北部14个县市举行此演练，期间民众无法使用社群媒体、影音串流及视讯通话等服务，估计约1700万人受影响，固网及Wi-Fi则不受影响。 BBC中文直播台北市及新北市的演习实况。"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260813-%E5%BA%93%E5%85%8B%E7%BE%A4%E5%B2%9B%E5%A4%A7%E9%80%89-%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%85%B3%E7%B3%BB%E6%88%90%E5%85%B3%E9%94%AE%E8%AE%AE%E9%A2%98",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "库克群岛大选 与中国关系成关键议题 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260813-%E5%BA%93%E5%85%8B%E7%BE%A4%E5%B2%9B%E5%A4%A7%E9%80%89-%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%85%B3%E7%B3%BB%E6%88%90%E5%85%B3%E9%94%AE%E8%AE%AE%E9%A2%98",
-    "pub_date": "2026-08-13 17:15:02",
-    "author": "",
-    "description": "13/08/2026 - 10:48 库克群岛星期四（8月13日）开始举行大选投票，近年来，这个小岛国的政治格局主要围绕深海采矿的激烈辩论、与盟友新西兰的外交裂痕以及该国外交伙伴关系的重大调整展开。 据法新社报道，这场选举将检验这个太平洋岛国对扩大与中国往来的态度。2025年2月，现任总理布朗与中国签署了从海底矿产研究到区域合作等一系列协议，令库克群岛最亲密的伙伴新西兰深感不安。惠灵顿指责库克群岛缺乏透明度，并以“缺乏协商”为由作出反制…",
-    "content": "13/08/2026 - 10:48 库克群岛星期四（8月13日）开始举行大选投票，近年来，这个小岛国的政治格局主要围绕深海采矿的激烈辩论、与盟友新西兰的外交裂痕以及该国外交伙伴关系的重大调整展开。 据法新社报道，这场选举将检验这个太平洋岛国对扩大与中国往来的态度。2025年2月，现任总理布朗与中国签署了从海底矿产研究到区域合作等一系列协议，令库克群岛最亲密的伙伴新西兰深感不安。惠灵顿指责库克群岛缺乏透明度，并以“缺乏协商”为由作出反制，暂时停止提供数百万美元援助。 库克群岛是一个拥有约1.7万人口的自治国家，与前…"
   },
   {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/health/20260813/supplement-swaps-nutrition-food/dual",
@@ -297,17 +396,6 @@ const jsonData = [
     "content": "ANTON TROIANOVSKI 2026年8月13日 俄罗斯国家媒体上月拍摄的一张照片，显示普京总统在克里姆林宫的办公室。由于普京的行踪一直保密，记者们只能通过观察他办公室里植物的枯萎情况来推测他的活动。 Gavriil Grigorov/Sputnik President Trump’s Air Force One subterfuge was a stunning episode of official deception. 特朗普总统关于“空军一号”的掩人耳目之举是一起惊人的官方欺骗事件。 But it …"
   },
   {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/opinion/20260813/trump-health-questions/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "我曾是切尼的心脏科医生，特朗普看起来身体不太好",
-    "link": "https://cn.nytimes.com/opinion/20260813/trump-health-questions/dual",
-    "pub_date": "2026-08-13 11:36:03",
-    "author": "",
-    "description": "JONATHAN REINER, M.D.2026年8月13日 Dick Cheney’s heart problems were never a national secret. 迪克·切尼的心脏问题从来都不是什么国家机密。 I was Mr. Cheney’s cardiologist for 27 years, including his two terms as vice president. During his time i…",
-    "content": "JONATHAN REINER, M.D. 2026年8月13日 Dick Cheney’s heart problems were never a national secret. 迪克·切尼的心脏问题从来都不是什么国家机密。 I was Mr. Cheney’s cardiologist for 27 years, including his two terms as vice president. During his time in the White House, he needed stents, a …"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cgq5pgl1ln3o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -352,17 +440,6 @@ const jsonData = [
     "content": "Getty Images 女性专用房间需求旺盛，而且有时价格更高。这反映出人们为了获得安全感需要付出怎样的代价？ 在伦敦市中心一个潮湿的星期五，晚上23:00，我站在“皮卡迪利圆环”（Piccadilly Circus）一家胶囊旅馆灯光明亮的大堂里，盯着自助服务萤幕上的两个几乎一模一样的预订选项。一个位于男女混合楼层的胶囊床位收费35英镑（47美元），而位于女性专用楼层的胶囊床位则收费45英镑（60美元）。 多出的10英镑，买不到更大的房间、免费早餐或更好的景观。 这些胶囊房完全一样：紧凑如茧，配备床垫、气氛照明，…"
   },
   {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20260813/afghanistan-taliban-anniversary-eclipse-lakers/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "塔利班统治五年后，阿富汗坠入失控边缘",
-    "link": "https://cn.nytimes.com/world/20260813/afghanistan-taliban-anniversary-eclipse-lakers/dual",
-    "pub_date": "2026-08-13 10:36:02",
-    "author": "",
-    "description": "KATRIN BENNHOLD2026年8月13日 Afghanistan has a track record of defeating superpowers. The mujahedeen humbled the Soviet Union in the 1980s, and five years ago the Taliban pushed out the United States. 阿富汗有着击败超级大国的历史记录。20世纪8…",
-    "content": "KATRIN BENNHOLD 2026年8月13日 Afghanistan has a track record of defeating superpowers. The mujahedeen humbled the Soviet Union in the 1980s, and five years ago the Taliban pushed out the United States. 阿富汗有着击败超级大国的历史记录。20世纪80年代，圣战者组织让苏联吃尽苦头；五年前，塔利班又将美国赶出了阿富汗。 But…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cddjp613mvdo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -372,17 +449,6 @@ const jsonData = [
     "author": "",
     "description": "Getty Images 与大量匿名网友在网路上竞抢热门活动的报名名额，相信这是对多数人来说熟悉不过的体验。 澳洲墨尔本的安德鲁·伯德（Andrew Bird）便想参加一个经常爆满的普拉提（pilates）课程——但他的解决方案却带来了意想不到的后果。 他说他把这项“琐事”外包给了人工智慧（artificial intelligence, AI；人工智能）代理商——一种可以自主执行线上任务的工具。 它成功了，但比他想像的还要更进一步——…",
     "content": "Getty Images 与大量匿名网友在网路上竞抢热门活动的报名名额，相信这是对多数人来说熟悉不过的体验。 澳洲墨尔本的安德鲁·伯德（Andrew Bird）便想参加一个经常爆满的普拉提（pilates）课程——但他的解决方案却带来了意想不到的后果。 他说他把这项“琐事”外包给了人工智慧（artificial intelligence, AI；人工智能）代理商——一种可以自主执行线上任务的工具。 它成功了，但比他想像的还要更进一步——入侵了健身房的线上系统——这被视为人工智慧代理为了完成被赋予的任务而不择手段的最…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20260813/europe-fifth-heat-wave/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "“受够了”：欧洲迎来今夏第五波热浪，气温达43度",
-    "link": "https://cn.nytimes.com/world/20260813/europe-fifth-heat-wave/dual",
-    "pub_date": "2026-08-13 09:06:02",
-    "author": "",
-    "description": "ELISABETTA POVOLEDO, GIULIA IMBERT, CARLOS BARRAGAN2026年8月13日 Europe braced on Wednesday for a fifth heat wave of a record-breaking summer that has already spurred wildfires of rare ferocity, caused water shortages acros…",
-    "content": "ELISABETTA POVOLEDO, GIULIA IMBERT, CARLOS BARRAGAN 2026年8月13日 Europe braced on Wednesday for a fifth heat wave of a record-breaking summer that has already spurred wildfires of rare ferocity, caused water shortages across the continent and, for many Europeans…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cg5lp79nd00o/simp?at_medium=RSS&at_campaign=rss",
@@ -429,28 +495,6 @@ const jsonData = [
     "content": "Getty Images / 朱镕基前后12年主导中国经济发展，开启了中国历史上发展速度最高的20年。 中国前总理朱镕基于北京时间2026年8月12日11时06分在北京逝世，终年97岁。 朱镕基曾在“反右倾”运动中被开除党籍，文革过程中下放劳动，改革开放后回到中央经济主管部门任职。1989民运后，朱镕基接替江泽民成为上海“一把手”，任内推动上海浦东新区的建设和发展。 朱镕基在副总理及总理任上，前后12年主导中国经济发展，在中国经济的几乎所有领域都推行改革——改革国企、放松汇率管制、放开房地产市场、实施分税制、加入世…"
   },
   {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20260812/zhu-rongji-dead/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "中国前总理朱镕基逝世：市场化改革和“入世”推手",
-    "link": "https://cn.nytimes.com/china/20260812/zhu-rongji-dead/dual",
-    "pub_date": "2026-08-12 19:36:02",
-    "author": "",
-    "description": "KEITH BRADSHER2026年8月12日朱镕基，摄于1998年。他的经济举措推动了中国经济的快速增长，但也为后来与特朗普总统的贸易战以及中国当下面临的巨债务问题埋下了伏笔。 Ahn Young-joon/Associated Press Zhu Rongji, the former Chinese premier who played a pivotal role in guiding his country toward a …",
-    "content": "KEITH BRADSHER 2026年8月12日 朱镕基，摄于1998年。他的经济举措推动了中国经济的快速增长，但也为后来与特朗普总统的贸易战以及中国当下面临的巨债务问题埋下了伏笔。 Ahn Young-joon/Associated Press Zhu Rongji, the former Chinese premier who played a pivotal role in guiding his country toward a market-based economy in the 1990s and …"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cz7d2e0j5veo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "中國單身漢為何陷「閃婚」騙局？",
-    "link": "https://www.bbc.com/zhongwen/articles/cz7d2e0j5veo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-08-12 18:31:56",
-    "author": "",
-    "description": "BBC / 中国单身汉 中国男性人口比女性多约3,000万，性别比例失衡令部分男性面临婚配困难，骗婚问题亦引发关注。 BBC驻中国记者碧嘉兰（Laura Bicker）走访“闪婚”婚介市场，了解部分婚介机构如何在短短几天内安排男女结婚，并采访多名声称因骗婚而蒙受损失的男性，其中有人因此损失毕生积蓄。",
-    "content": "BBC / 中国单身汉 中国男性人口比女性多约3,000万，性别比例失衡令部分男性面临婚配困难，骗婚问题亦引发关注。 BBC驻中国记者碧嘉兰（Laura Bicker）走访“闪婚”婚介市场，了解部分婚介机构如何在短短几天内安排男女结婚，并采访多名声称因骗婚而蒙受损失的男性，其中有人因此损失毕生积蓄。"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cn8npl73k79o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -471,28 +515,6 @@ const jsonData = [
     "author": "",
     "description": "Reuters / 长崎市去年拒绝以色列代表参与仪式引发外交风波，今年则与台湾产生摩擦。 日本长崎周末举行二战原爆81周年纪念仪式，台湾驻日代表被安排在外交使节座席外就座，引发台日关系是否生变的讨论。 星期天（8月9日）的仪式是高市早苗就任首相后首次。因应主办方长崎市的做法，台湾驻日代表李逸洋本人不出席仪式，以示抗议，并批评长崎市屈从中国压力。 事件引发台日舆论热议，包括有日本国内政治人物批评市政府做法。中国驻日本大使馆则讥讽台湾“自不…",
     "content": "Reuters / 长崎市去年拒绝以色列代表参与仪式引发外交风波，今年则与台湾产生摩擦。 日本长崎周末举行二战原爆81周年纪念仪式，台湾驻日代表被安排在外交使节座席外就座，引发台日关系是否生变的讨论。 星期天（8月9日）的仪式是高市早苗就任首相后首次。因应主办方长崎市的做法，台湾驻日代表李逸洋本人不出席仪式，以示抗议，并批评长崎市屈从中国压力。 事件引发台日舆论热议，包括有日本国内政治人物批评市政府做法。中国驻日本大使馆则讥讽台湾“自不量力、自取其辱”。 台日、中日关系学者对BBC中文分析，长崎市的行为不能代表日本…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/health/20260812/potatoes-health-benefits-recipes/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "马铃薯有多健康？",
-    "link": "https://cn.nytimes.com/health/20260812/potatoes-health-benefits-recipes/dual",
-    "pub_date": "2026-08-12 14:06:02",
-    "author": "",
-    "description": "ALEXANDRA PATTILLO2026年8月12日 Sweet potatoes tend to get most of the nutritional glory, but regular potatoes (russets, fingerlings, red and Yukon Golds) deserve another look. The tubers help to support your immune system,…",
-    "content": "ALEXANDRA PATTILLO 2026年8月12日 Sweet potatoes tend to get most of the nutritional glory , but regular potatoes (russets, fingerlings, red and Yukon Golds) deserve another look. The tubers help to support your immune system, aid in various bodily functions and k…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20260812/electric-motorcycles-pakistan/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "“年度推销员特朗普”：油价高企推动电动摩托车热潮",
-    "link": "https://cn.nytimes.com/world/20260812/electric-motorcycles-pakistan/dual",
-    "pub_date": "2026-08-12 13:36:02",
-    "author": "",
-    "description": "CHICO HARLAN, ZIA ur-REHMAN2026年8月12日 Asim Hafeez for The New York Times The frenzy started on a single street in Lahore, Pakistan, where a half-dozen showrooms sprang up selling the same thing — electric motorcycles — a…",
-    "content": "CHICO HARLAN, ZIA ur-REHMAN 2026年8月12日 Asim Hafeez for The New York Times The frenzy started on a single street in Lahore, Pakistan, where a half-dozen showrooms sprang up selling the same thing — electric motorcycles — and still couldn’t keep up with demand. …"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c1w127wxz4xo/simp?at_medium=RSS&at_campaign=rss",
@@ -638,17 +660,6 @@ const jsonData = [
     "content": "BBC/ Lulu Luo / 湄索已成为众多离开缅甸、反对军政府人士的家园，而他们的未来正变得愈来愈不确定。 缅甸军方领袖敏昂莱（Min Aung Hlaing） 星期四（8月6日）抵达泰国展开正式访问 。这是他自2021年发动政变、推翻昂山素季领导的民选政府以来，首次到访泰国，此行他期盼能打破外交孤立局面。 敏昂莱早已因涉及2017年大规模驱逐穆斯林罗兴亚人（Rohingyas）而受到制裁。他一直遭国际社会孤立，被禁止前往西方国家，并被指控犯下反人类罪。在一场因既不自由也不公平而广受谴责的选举后，他在4月获宣布…"
   },
   {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c62x0pvmn7mo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "「我的祖母背着我，對我的女嬰施行殘割女性生殖器」",
-    "link": "https://www.bbc.com/zhongwen/articles/c62x0pvmn7mo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-08-06 08:35:47",
-    "author": "",
-    "description": "BBC / 卡拉·基诺内斯正推动在其所属的恩贝拉社群内终止残割女性生殖器。 【警告：本报导包含形容残割女性生殖器的内容，请斟酌阅读】 上周，哥伦比亚成为拉丁美洲首个将残割女性生殖器（female genital mutilation, FGM）列为非法的国家，活动人士称此举是一个里程碑。 正如BBC西班牙语世界网（BBC News Mundo）记者何塞‧奎托（José Carlos Cueto）在哥伦比亚报导，尽管法案在该国国会获一致通…",
-    "content": "BBC / 卡拉·基诺内斯正推动在其所属的恩贝拉社群内终止残割女性生殖器。 【警告：本报导包含形容残割女性生殖器的内容，请斟酌阅读】 上周，哥伦比亚成为拉丁美洲首个将残割女性生殖器（female genital mutilation, FGM）列为非法的国家，活动人士称此举是一个里程碑。 正如BBC西班牙语世界网（BBC News Mundo）记者何塞‧奎托（José Carlos Cueto）在哥伦比亚报导，尽管法案在该国国会获一致通过，其背后是为了消除这种危险且往往是秘密的程序，而曾进行过的一场长期斗争。 卡拉…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c9809dp99neo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -658,17 +669,6 @@ const jsonData = [
     "author": "",
     "description": "AFP via Getty Images / 日本白皮书称，台海和平是“不仅印太地区，整个国际社会”均日益关切的问题。 日本防卫省公布“2026年版防卫白皮书”，今年的版本删除了“攸关日本安保”等字句，仅保留“台海情势稳定对国际社会稳定很重要”，引人注目。 周二（8月4日）发表的这份白皮书提到中国军舰在太平洋的活动不断扩大，并称中国的相关军事活动是“严重关切事项与空前大的战略挑战”。中国外交部周三（5日）称已就日方“无端抹黑”与“炒作”…",
     "content": "AFP via Getty Images / 日本白皮书称，台海和平是“不仅印太地区，整个国际社会”均日益关切的问题。 日本防卫省公布“2026年版防卫白皮书”，今年的版本删除了“攸关日本安保”等字句，仅保留“台海情势稳定对国际社会稳定很重要”，引人注目。 周二（8月4日）发表的这份白皮书提到中国军舰在太平洋的活动不断扩大，并称中国的相关军事活动是“严重关切事项与空前大的战略挑战”。中国外交部周三（5日）称已就日方“无端抹黑”与“炒作”提出“严正交涉”。 该白皮书写道，鉴于日本周边的安保环境愈来愈严峻，日方将持续依…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cj9d7y31yylo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "台灣「漢光演習」四大看點：淡江大橋首阻絕、民用工廠產軍火",
-    "link": "https://www.bbc.com/zhongwen/articles/cj9d7y31yylo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-08-05 16:40:02",
-    "author": "",
-    "description": "Getty Images / 近年台湾汉光演习将淡水河防务列为演练重点，今年淡江大桥将首次进行阻绝演练。 2026年台湾国防部年度“汉光演习”将于8月5日展开，为期十天九夜，延续去年起采用的扩大版十天制，动员常备与后备兵力约2万人。 今年演习首次在南北地区进行后备部队“全旅动员”，演习重点包括淡江大桥阻绝演练、反封锁护航、战时武器生产线转移测试。 台湾国防部长顾立雄表示，汉光演习目的在验证台湾持久作战能力，若真正进入战争情况，军方目标是…",
-    "content": "Getty Images / 近年台湾汉光演习将淡水河防务列为演练重点，今年淡江大桥将首次进行阻绝演练。 2026年台湾国防部年度“汉光演习”将于8月5日展开，为期十天九夜，延续去年起采用的扩大版十天制，动员常备与后备兵力约2万人。 今年演习首次在南北地区进行后备部队“全旅动员”，演习重点包括淡江大桥阻绝演练、反封锁护航、战时武器生产线转移测试。 台湾国防部长顾立雄表示，汉光演习目的在验证台湾持久作战能力，若真正进入战争情况，军方目标是“击溃敌人，让全面入侵的作战失败”。 军事专家分析，演习焦点已不仅限于传统“反登…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c7vg12p0z47o/simp?at_medium=RSS&at_campaign=rss",
