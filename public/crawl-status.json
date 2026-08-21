@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-08-20T23:19:40.247Z",
-  "ended_at": "2026-08-20T23:19:40.472Z",
-  "duration_ms": 225,
+  "started_at": "2026-08-21T06:31:27.018Z",
+  "ended_at": "2026-08-21T06:31:27.293Z",
+  "duration_ms": 275,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -17,12 +17,12 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 45,
-    "failed_sources": 14,
-    "circuit_open_sources": 14,
+    "cache_hit_sources": 47,
+    "failed_sources": 12,
+    "circuit_open_sources": 12,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1357,
-    "total_items_after_retention": 1148,
+    "total_items_after_dedupe": 1383,
+    "total_items_after_retention": 1158,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -82,12 +82,6 @@
       "skippedByCircuit": true
     },
     {
-      "title": "爱范儿",
-      "url": "https://plink.anyfeeder.com/ifanr",
-      "reason": "Invalid character in entity name\nLine: 1858\nColumn: 255\nChar: <",
-      "skippedByCircuit": true
-    },
-    {
       "title": "软餐 - 新鲜软件资讯",
       "url": "https://plink.anyfeeder.com/ruancan",
       "reason": "HTTP 503",
@@ -97,12 +91,6 @@
       "title": "FreeBuf 关注黑客",
       "url": "https://plink.anyfeeder.com/freebuf",
       "reason": "HTTP 405",
-      "skippedByCircuit": true
-    },
-    {
-      "title": "Epic Game",
-      "url": "https://www.epicbundle.com/feed/",
-      "reason": "Unexpected close tag\nLine: 92\nColumn: 7\nChar: >",
       "skippedByCircuit": true
     },
     {
@@ -159,11 +147,6 @@
       "reason": "HTTP 403"
     },
     {
-      "title": "爱范儿",
-      "url": "https://plink.anyfeeder.com/ifanr",
-      "reason": "Invalid character in entity name\nLine: 1858\nColumn: 255\nChar: <"
-    },
-    {
       "title": "软餐 - 新鲜软件资讯",
       "url": "https://plink.anyfeeder.com/ruancan",
       "reason": "HTTP 503"
@@ -172,11 +155,6 @@
       "title": "FreeBuf 关注黑客",
       "url": "https://plink.anyfeeder.com/freebuf",
       "reason": "HTTP 405"
-    },
-    {
-      "title": "Epic Game",
-      "url": "https://www.epicbundle.com/feed/",
-      "reason": "Unexpected close tag\nLine: 92\nColumn: 7\nChar: >"
     },
     {
       "title": "微博 / 热搜榜",
