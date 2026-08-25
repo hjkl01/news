@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-08-24T23:17:03.819Z",
-  "ended_at": "2026-08-24T23:17:04.042Z",
-  "duration_ms": 223,
+  "started_at": "2026-08-25T06:31:31.994Z",
+  "ended_at": "2026-08-25T06:31:32.214Z",
+  "duration_ms": 220,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -17,12 +17,12 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 47,
-    "failed_sources": 12,
-    "circuit_open_sources": 12,
+    "cache_hit_sources": 46,
+    "failed_sources": 13,
+    "circuit_open_sources": 13,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1377,
-    "total_items_after_retention": 1170,
+    "total_items_after_dedupe": 1352,
+    "total_items_after_retention": 1136,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -79,6 +79,12 @@
       "title": "技術討論區 | 草榴社區 - t66y.com",
       "url": "https://rsshub.app/t66y/7",
       "reason": "HTTP 403",
+      "skippedByCircuit": true
+    },
+    {
+      "title": "极客公园",
+      "url": "https://www.geekpark.net/rss",
+      "reason": "The operation was aborted.",
       "skippedByCircuit": true
     },
     {
@@ -145,6 +151,11 @@
       "title": "技術討論區 | 草榴社區 - t66y.com",
       "url": "https://rsshub.app/t66y/7",
       "reason": "HTTP 403"
+    },
+    {
+      "title": "极客公园",
+      "url": "https://www.geekpark.net/rss",
+      "reason": "The operation was aborted."
     },
     {
       "title": "软餐 - 新鲜软件资讯",

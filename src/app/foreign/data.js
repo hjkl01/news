@@ -1,5 +1,126 @@
 const jsonData = [
   {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/science/20260825/openai-huggingface-alarming-capabilities/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "详解AI自主攻击事件：五项令人担忧的人工智能能力",
+    "link": "https://cn.nytimes.com/science/20260825/openai-huggingface-alarming-capabilities/dual",
+    "pub_date": "2026-08-25 13:06:02",
+    "author": "",
+    "description": "DYLAN FREEDMAN2026年8月25日 The New York Times; source photos by Aaron Wojack and Ulysses Ortega for The New York Times On July 16, the artificial intelligence company Hugging Face announced on its blog that it had been the…",
+    "content": "DYLAN FREEDMAN 2026年8月25日 The New York Times; source photos by Aaron Wojack and Ulysses Ortega for The New York Times On July 16, the artificial intelligence company Hugging Face announced on its blog that it had been the target of a cyberattack that was “diff…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cje82403k49o/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "台灣藝人涉「潑油」損日本國寶，如何牽動台日關係？",
+    "link": "https://www.bbc.com/zhongwen/articles/cje82403k49o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-08-25 12:45:13",
+    "author": "",
+    "description": "BBC / 台湾艺人蔡宜臻涉污损文物在日本被捕 台湾艺人蔡宜臻（艺名蔡颐臻）今年4月赴日旅游期间，涉嫌向奈良药师寺的国宝“佛足石”泼洒甘油，近日她再入境日本时，遭警方以涉嫌损坏重要文化财的罪名拘捕。 根据药师寺官网资料，佛足石有1273年历史，是日本现存最古老的佛足石。 外界关注事情对台日关系的影响。有学者向BBC中文表示，案件涉及外国人破坏重要文物，加上日本近期正讨论缩紧外国人留日资格，社会存在对外国人的不满情绪，故引发日本媒体广泛报…",
+    "content": "BBC / 台湾艺人蔡宜臻涉污损文物在日本被捕 台湾艺人蔡宜臻（艺名蔡颐臻）今年4月赴日旅游期间，涉嫌向奈良药师寺的国宝“佛足石”泼洒甘油，近日她再入境日本时，遭警方以涉嫌损坏重要文化财的罪名拘捕。 根据药师寺官网资料，佛足石有1273年历史，是日本现存最古老的佛足石。 外界关注事情对台日关系的影响。有学者向BBC中文表示，案件涉及外国人破坏重要文物，加上日本近期正讨论缩紧外国人留日资格，社会存在对外国人的不满情绪，故引发日本媒体广泛报导。 蔡宜臻曾对外表示宣称基督徒，其“泼油”行为引发是否属宗教仪式的讨论。有台湾…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/opinion/20260825/mark-carney-tariffs-canada-america/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "加拿大对美国说“不”",
+    "link": "https://cn.nytimes.com/opinion/20260825/mark-carney-tariffs-canada-america/dual",
+    "pub_date": "2026-08-25 12:36:02",
+    "author": "",
+    "description": "STEPHEN MARCHE2026年8月25日 Illustration by The New York Times; photograph by Chris Tanouye/Reuters Friday, Aug. 21, may go down in history as Canada’s Liberation Day. It was the day America came for us, and we said no. 8月2…",
+    "content": "STEPHEN MARCHE 2026年8月25日 Illustration by The New York Times; photograph by Chris Tanouye/Reuters Friday, Aug. 21, may go down in history as Canada’s Liberation Day. It was the day America came for us, and we said no. 8月21日星期五可能会作为加拿大的“解放日”载入史册。就在这一天，美国向我们发难，而…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20260825/h1b-visas-fees-proposal-trump/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "特朗普政府拟对H-1B签证征收逾10万美元费用",
+    "link": "https://cn.nytimes.com/usa/20260825/h1b-visas-fees-proposal-trump/dual",
+    "pub_date": "2026-08-25 11:06:02",
+    "author": "",
+    "description": "MADELEINE NGO2026年8月25日特朗普政府呼吁对H-1B签证计划进行全面改革，称该计划不公平地让公司排挤美国人，并以较低的薪酬雇用外籍工人。 Doug Mills/The New York Times The Trump administration on Monday proposed charging a new steep fee for visas granted to skilled foreign worker…",
+    "content": "MADELEINE NGO 2026年8月25日 特朗普政府呼吁对H-1B签证计划进行全面改革，称该计划不公平地让公司排挤美国人，并以较低的薪酬雇用外籍工人。 Doug Mills/The New York Times The Trump administration on Monday proposed charging a new steep fee for visas granted to skilled foreign workers, in the latest attempt to fundamenta…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20260825/democrats-republicans-midterms-senate-majority/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "美国中期选举：民主党夺回参议院的胜算正在增加？",
+    "link": "https://cn.nytimes.com/usa/20260825/democrats-republicans-midterms-senate-majority/dual",
+    "pub_date": "2026-08-25 10:36:01",
+    "author": "",
+    "description": "TIM BALK2026年8月25日民主党人詹姆斯·塔拉里科正试图在得克萨斯州赢得一场参议院竞选，此前该党在该州已连续数十年未能如愿。 Christopher Lee for The New York Times As a tumultuous primary season draws to a close, Democrats have opened up more than one path to winning control o…",
+    "content": "TIM BALK 2026年8月25日 民主党人詹姆斯·塔拉里科正试图在得克萨斯州赢得一场参议院竞选，此前该党在该州已连续数十年未能如愿。 Christopher Lee for The New York Times As a tumultuous primary season draws to a close, Democrats have opened up more than one path to winning control of the Senate, according to strategists…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20260825/trump-bessent-iran-economic-d-day/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "特朗普试图扼杀伊朗经济，而这取决于中国是否合作",
+    "link": "https://cn.nytimes.com/world/20260825/trump-bessent-iran-economic-d-day/dual",
+    "pub_date": "2026-08-25 10:06:02",
+    "author": "",
+    "description": "DAVID E. SANGER2026年8月25日在周一宣布“经济弃儿行动”时，特朗普政府表示，该行动将切断所有向德黑兰输送资金的交易。 Doug Mills/The New York Times In declaring a new “economic D-Day” for Iran on Monday, President Trump and Treasury Secretary Scott Bessent are reaching…",
+    "content": "DAVID E. SANGER 2026年8月25日 在周一宣布“经济弃儿行动”时，特朗普政府表示，该行动将切断所有向德黑兰输送资金的交易。 Doug Mills/The New York Times In declaring a new “economic D-Day” for Iran on Monday, President Trump and Treasury Secretary Scott Bessent are reaching for yet another strategy to grope the…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20260825/chinese-robot-100-meter-usain-bolt/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "中国机器人“跑赢”博尔特，这意味着什么？",
+    "link": "https://cn.nytimes.com/china/20260825/chinese-robot-100-meter-usain-bolt/dual",
+    "pub_date": "2026-08-25 09:06:02",
+    "author": "",
+    "description": "YAN ZHUANG2026年8月25日 Achmad Ibrahim/Associated Press In 2009, Usain Bolt set the men’s 100-meter dash world record of 9.58 seconds at the World Athletics Championships in Berlin. On Saturday, a humanoid robot developed b…",
+    "content": "YAN ZHUANG 2026年8月25日 Achmad Ibrahim/Associated Press In 2009, Usain Bolt set the men’s 100-meter dash world record of 9.58 seconds at the World Athletics Championships in Berlin. On Saturday, a humanoid robot developed by the Chinese company X-Humanoid beat t…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cz0z77y4dj2o/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "我六歲就來月經了，但醫生們也不知道為什麼",
+    "link": "https://www.bbc.com/zhongwen/articles/cz0z77y4dj2o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-08-25 08:10:45",
+    "author": "",
+    "description": "Gabby / 现年26岁的加比说，由于当时年纪太小，她对青春期开始的事已不太记得清楚了。 加比（Gabby）在六岁时开始来月经，并长出体毛。 加比的母亲对长女身上发生的变化感到忧虑，于是带她去看医生。 来自英格兰的加比向BBC国际部（BBC World Service）表示，“儿科团队的人必须进行研究，因为他们从未听说过我所经历的情况。” “他们不得不联络全国其他医院，以获取更多有关如何治疗这种情况的资讯。” 现年26岁的加比被诊断患…",
+    "content": "Gabby / 现年26岁的加比说，由于当时年纪太小，她对青春期开始的事已不太记得清楚了。 加比（Gabby）在六岁时开始来月经，并长出体毛。 加比的母亲对长女身上发生的变化感到忧虑，于是带她去看医生。 来自英格兰的加比向BBC国际部（BBC World Service）表示，“儿科团队的人必须进行研究，因为他们从未听说过我所经历的情况。” “他们不得不联络全国其他医院，以获取更多有关如何治疗这种情况的资讯。” 现年26岁的加比被诊断患有中枢性性早熟（central precocious puberty, CPP）…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c0j3pp78ny9o/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "「我說的不是女王英語」：為何人們會擔心自己的口音",
+    "link": "https://www.bbc.com/zhongwen/articles/c0j3pp78ny9o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-08-25 08:10:41",
+    "author": "",
+    "description": "BBC / 米娅·坦斯威尔（Mia Tanswell）表示，在开始读大学之后，她开始意识到自己的口音。 在曼彻斯特长大的米娅·坦斯威尔（Mia Tanswell）过去不太在意自己的口音，直到她进入拉夫堡大学（Loughborough University）的第一周。 “我知道人们会注意到我是北方人，而且我说的不是‘女王英语’（Queen's English）。”这名22岁的女子说。 “尤其是在研讨课上，我有时会觉得自己的口音听起来不像其…",
+    "content": "BBC / 米娅·坦斯威尔（Mia Tanswell）表示，在开始读大学之后，她开始意识到自己的口音。 在曼彻斯特长大的米娅·坦斯威尔（Mia Tanswell）过去不太在意自己的口音，直到她进入拉夫堡大学（Loughborough University）的第一周。 “我知道人们会注意到我是北方人，而且我说的不是‘女王英语’（Queen's English）。”这名22岁的女子说。 “尤其是在研讨课上，我有时会觉得自己的口音听起来不像其他人那么有学问，特别是当我是课堂里唯一来自英格兰北部的学生时。” 她并不孤单。B…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260824-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E4%B9%8D%E5%BE%97%E6%8C%87%E6%8E%A7%E8%8B%8F%E4%B8%B9%E5%86%9B%E9%98%9F%E4%B8%80%E5%86%8D%E5%85%A5%E4%BE%B5",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "非洲:乍得指控苏丹军队一再入侵 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260824-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E4%B9%8D%E5%BE%97%E6%8C%87%E6%8E%A7%E8%8B%8F%E4%B8%B9%E5%86%9B%E9%98%9F%E4%B8%80%E5%86%8D%E5%85%A5%E4%BE%B5",
+    "pub_date": "2026-08-25 07:45:05",
+    "author": "",
+    "description": "25/08/2026 - 01:15 非洲内陆国乍得（le Tchad）指控其邻国苏丹军方的飞行器于2026年08月20日上周四晚，闯入乍得境内追击并轰炸了从利比亚出发的车队。这是本台法广非洲组（RFI Afrique）在2026年08月24日周一上网的法文消息之一。恩贾梅纳（Ndjamena）的军事当局表示，苏丹军队的无人机和飞机侵入乍得领土，追击和轰炸了来自利比亚的车队。 据本台法广非洲组（RFI Afrique）2026年08月2…",
+    "content": "25/08/2026 - 01:15 非洲内陆国乍得（le Tchad）指控其邻国苏丹军方的飞行器于2026年08月20日上周四晚，闯入乍得境内追击并轰炸了从利比亚出发的车队。这是本台法广非洲组（RFI Afrique）在2026年08月24日周一上网的法文消息之一。恩贾梅纳（Ndjamena）的军事当局表示，苏丹军队的无人机和飞机侵入乍得领土，追击和轰炸了来自利比亚的车队。 据本台法广 非洲 组（RFI Afrique）2026年08月24日星期一的法文报导，恩贾梅纳（N'djamena）指控 苏丹 (le So…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260824-%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%EF%BC%8C%E6%8A%8A%E5%8F%99%E5%88%A9%E4%BA%9A%E4%BB%8E-%E6%94%AF%E6%8C%81%E6%81%90%E6%80%96%E4%B8%BB%E4%B9%89%E5%9B%BD%E5%AE%B6-%E5%90%8D%E5%8D%95%E4%B8%AD%E7%A7%BB%E9%99%A4",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "美国宣布，把叙利亚从“支持恐怖主义国家”名单中移除 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260824-%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%EF%BC%8C%E6%8A%8A%E5%8F%99%E5%88%A9%E4%BA%9A%E4%BB%8E-%E6%94%AF%E6%8C%81%E6%81%90%E6%80%96%E4%B8%BB%E4%B9%89%E5%9B%BD%E5%AE%B6-%E5%90%8D%E5%8D%95%E4%B8%AD%E7%A7%BB%E9%99%A4",
+    "pub_date": "2026-08-25 07:45:04",
+    "author": "",
+    "description": "25/08/2026 - 01:18 美国周一正式取消叙利亚“支持恐怖主义国家”的认定，此举将为更多商业投资 进入这个饱受战争蹂躏的国家铺平道路。 叙利亚此前被列入该名单长达47年。此举标志着美国逐步解除对叙利亚制裁的又一重要步骤。 特朗普政府在7月初表示有意将叙利亚从该名单中移除。该名单限制了对叙利亚的投资。叙利亚阿萨德政权倒台至今已近两年，美国国会的审查于周五结束，议员们没有试图阻止撤销该决定。 叙利亚与古巴、伊朗和朝鲜一起，位列美…",
+    "content": "25/08/2026 - 01:18 美国周一正式取消叙利亚“支持恐怖主义国家”的认定，此举将为更多商业投资 进入这个饱受战争蹂躏的国家铺平道路。 叙利亚此前被列入该名单长达47年。此举标志着美国逐步解除对叙利亚制裁的又一重要步骤。 特朗普政府在7月初表示有意将叙利亚从该名单中移除。该名单限制了对叙利亚的投资。叙利亚阿萨德政权倒台至今已近两年，美国国会的审查于周五结束，议员们没有试图阻止撤销该决定。 叙利亚与古巴、伊朗和朝鲜一起，位列美国国务院的“特别制裁名单”（SST名单）上。 上个月，美国总统特朗普与叙利亚总统…"
+  },
+  {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260824-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E5%96%80%E9%BA%A6%E9%9A%86%E6%80%BB%E7%BB%9F%E4%B8%BA%E5%A5%B3%E8%B6%B3%E9%9D%9E%E6%B4%B2%E5%A4%BA%E5%86%A0%E6%8E%88%E5%8B%8B",
     "feed_name": "RFI 法国国际广播电台",
     "category": "国外",
@@ -198,28 +319,6 @@ const jsonData = [
     "content": "24/08/2026 - 11:26 8月24日，外交部发言人林剑对上周香港法庭判决的支联会案作出表态，该案一度成为国际社会关注的焦点。 上周五香港支联会前主席李卓人、前副主席邹幸彤被裁定的“煽动颠覆国家政权”罪名成立。随后，台湾及法国和德国相继发声表达关切，并呼吁“立即释放”。 林剑周一表示：“个别国家和机构借香港特区的司法案件恶意抹黑香港、诋毁香港法治、干涉中国内政，中方对此坚决反对，已就此提出严正交涉。香港事务纯属中国内政。我们敦促有关方面切实尊重中国主权，尊重香港法治，停止政治操弄，停止以任何方式干预香港事…"
   },
   {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20260824-%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3%E8%87%AA%E7%A0%94%E6%89%8B%E6%9C%BA%E8%8A%AF%E7%89%87%EF%BC%8C%E6%B6%88%E6%81%AF%E4%BA%BA%E5%A3%AB%E9%80%8F%E9%9C%B2-%E5%B0%86%E7%94%B1%E5%8F%B0%E7%A7%AF%E7%94%B5%E8%BF%9B%E8%A1%8C%E7%94%9F%E4%BA%A7",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "小米发布新一代自研手机芯片，消息人士透露：将由台积电进行生产 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20260824-%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3%E8%87%AA%E7%A0%94%E6%89%8B%E6%9C%BA%E8%8A%AF%E7%89%87%EF%BC%8C%E6%B6%88%E6%81%AF%E4%BA%BA%E5%A3%AB%E9%80%8F%E9%9C%B2-%E5%B0%86%E7%94%B1%E5%8F%B0%E7%A7%AF%E7%94%B5%E8%BF%9B%E8%A1%8C%E7%94%9F%E4%BA%A7",
-    "pub_date": "2026-08-24 17:45:02",
-    "author": "",
-    "description": "24/08/2026 - 11:35 中国智能手机制造商小米周一（8月24日）发布新一代自研手机处理器 Xring O3，希望通过进一步掌控关键零部件，加强供应链韧性，并降低对外部芯片供应商的依赖。 此次发布距小米推出首款自研手机处理器Xring O1仅一年。这也是全球第三大智能手机厂商小米推动芯片自主研发的最新一步。小米正试图加入苹果、三星电子和华为等竞争对手的行列，自主开发手机芯片。 路透社消息称，两名不愿透露姓名的知情人士表示，台…",
-    "content": "24/08/2026 - 11:35 中国智能手机制造商小米周一（8月24日）发布新一代自研手机处理器 Xring O3，希望通过进一步掌控关键零部件，加强供应链韧性，并降低对外部芯片供应商的依赖。 此次发布距小米推出首款自研手机处理器Xring O1仅一年。这也是全球第三大智能手机厂商小米推动芯片自主研发的最新一步。小米正试图加入苹果、三星电子和华为等竞争对手的行列，自主开发手机芯片。 路透社消息称，两名不愿透露姓名的知情人士表示，台积电将采用3纳米制程技术生产这款新芯片。 其中一名消息人士称，这款芯片预计将用于…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260824-%E5%8F%B0%E6%B9%BE%E6%80%BB%E7%BB%9F%E5%AE%A3%E5%B8%83%E5%85%A8%E6%B0%91%E6%99%AE%E5%8F%91%E4%B8%80%E4%B8%87%E5%85%83%E9%81%AD%E5%9C%A8%E9%87%8E%E6%89%B9%E6%94%BF%E6%B2%BB%E6%84%8F%E5%91%B3%E6%B5%93%E5%8E%9A%EF%BC%8C%E7%A9%B6%E7%AB%9F%E6%98%AF-%E9%92%B1%E5%9D%91-%E8%BF%98%E6%98%AF-ai%E7%BA%A2%E5%88%A9",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "台湾总统宣布全民普发一万元遭在野批政治意味浓厚，究竟是「钱坑」还是「AI红利」？ - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260824-%E5%8F%B0%E6%B9%BE%E6%80%BB%E7%BB%9F%E5%AE%A3%E5%B8%83%E5%85%A8%E6%B0%91%E6%99%AE%E5%8F%91%E4%B8%80%E4%B8%87%E5%85%83%E9%81%AD%E5%9C%A8%E9%87%8E%E6%89%B9%E6%94%BF%E6%B2%BB%E6%84%8F%E5%91%B3%E6%B5%93%E5%8E%9A%EF%BC%8C%E7%A9%B6%E7%AB%9F%E6%98%AF-%E9%92%B1%E5%9D%91-%E8%BF%98%E6%98%AF-ai%E7%BA%A2%E5%88%A9",
-    "pub_date": "2026-08-24 17:15:04",
-    "author": "",
-    "description": "24/08/2026 - 10:43 台湾总统赖清德17日宣布「AI红利，全民共享」，将编列预算全民普发一万元。此声明一出，引来在野党的质疑双重标准，且此举是否为选举绑桩。经济学家则担忧，台湾经济热潮下的K型经济，无法靠普发现金来解决。 台湾总统赖清德17日宣布，台湾凭借全球AI热潮，半导体、资通讯及制造供应链优势，经济成长率表现强劲预估上看11.05%，更可望创下 39 年新高。因此明年中央政府总预算将增列2357亿元新台币，普发全民…",
-    "content": "24/08/2026 - 10:43 台湾总统赖清德17日宣布「AI红利，全民共享」，将编列预算全民普发一万元。此声明一出，引来在野党的质疑双重标准，且此举是否为选举绑桩。经济学家则担忧，台湾经济热潮下的K型经济，无法靠普发现金来解决。 台湾总统赖清德17日宣布，台湾凭借全球AI热潮，半导体、资通讯及制造供应链优势，经济成长率表现强劲预估上看11.05%，更可望创下 39 年新高。因此明年中央政府总预算将增列2357亿元新台币，普发全民每人新台币1万元现金（约314美元）。 此案目前仍有待立法院表决，若掌握国会多数…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c98053p64d5o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -308,39 +407,6 @@ const jsonData = [
     "content": "赫海威, HISAKO UENO 2026年8月24日 眺望日本北海道的札幌市。 Hiroko Masuike/The New York Times For 158 years, Tokyo has stood as Japan’s glittering capital, a world-famous nexus of food, culture, business and government. 158年来，东京一直是流光溢彩的日本国都，是世界闻名的美食、文化、商业与政府中心。 But Tokyo might s…"
   },
   {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20260824/canada-us-trade-war-trump-carney/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "详解美加贸易战：北美传统盟友关系因何破裂",
-    "link": "https://cn.nytimes.com/world/20260824/canada-us-trade-war-trump-carney/dual",
-    "pub_date": "2026-08-24 11:06:03",
-    "author": "",
-    "description": "《纽约时报》2026年8月24日周六，加拿大总理马克·卡尼在一次强硬讲话中表示，该国正受到特朗普总统关税的“攻击”，与美国处于“战争”状态。 Chris Tanouye/Reuters Talks between the United States and Canada failed late Friday to head off steep new tariffs on Canadian goods, prompting Canada…",
-    "content": "《纽约时报》 2026年8月24日 周六，加拿大总理马克·卡尼在一次强硬讲话中表示，该国正受到特朗普总统关税的“攻击”，与美国处于“战争”状态。 Chris Tanouye/Reuters Talks between the United States and Canada failed late Friday to head off steep new tariffs on Canadian goods, prompting Canada to promise “dollar for dollar” retali…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20260824/china-car-recall-doors/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "中国宣布规模最大汽车召回行动，涉及特斯拉等九家车企",
-    "link": "https://cn.nytimes.com/business/20260824/china-car-recall-doors/dual",
-    "pub_date": "2026-08-24 10:06:03",
-    "author": "",
-    "description": "KEITH BRADSHER, JACK EWING2026年8月24日中国要求九家汽车制造商采取措施，提高电动汽车上广泛采用的电动门把手的可靠性。 Qilai Shen for The New York Times The Chinese government announced its biggest car recall ever on Friday, forcing nine automakers to address the …",
-    "content": "KEITH BRADSHER, JACK EWING 2026年8月24日 中国要求九家汽车制造商采取措施，提高电动汽车上广泛采用的电动门把手的可靠性。 Qilai Shen for The New York Times The Chinese government announced its biggest car recall ever on Friday, forcing nine automakers to address the dangers of retractable door handles po…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20260824/china-iran-trump-economic-threats/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "特朗普威胁制裁伊朗盟友，中国为何不为所动",
-    "link": "https://cn.nytimes.com/world/20260824/china-iran-trump-economic-threats/dual",
-    "pub_date": "2026-08-24 09:06:01",
-    "author": "",
-    "description": "DAVID PIERSON, BERRY WANG2026年8月24日上海的石油储罐和设施，摄于3月。中国拥有庞大的石油储备，这使其在能源供应中断时所受的影响较小。 Go Nakamura/Reuters As Iran’s largest trading partner, China would seemingly have much to lose from President Trump’s threat this week to…",
-    "content": "DAVID PIERSON, BERRY WANG 2026年8月24日 上海的石油储罐和设施，摄于3月。中国拥有庞大的石油储备，这使其在能源供应中断时所受的影响较小。 Go Nakamura/Reuters As Iran’s largest trading partner, China would seemingly have much to lose from President Trump’s threat this week to impose “tremendous economic consequen…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cwyey059q72o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -361,17 +427,6 @@ const jsonData = [
     "author": "",
     "description": "Art Images via Getty Images 如果一只蜘蛛突然爬过你家客厅的地板，你会怎么想？ 大多数蜘蛛都有毒，但只有极少数会对人类构成危险。 根据环境研究与教育研究所（Institute for Environmental Research and Education）估计，全世界每年死于蜘蛛咬伤的不到10人，尽管准确的数据收集十分困难。 尽管如此，许多人——包括我自己——都会说他们有蜘蛛“恐惧症”（phobia）。 如果…",
     "content": "Art Images via Getty Images 如果一只蜘蛛突然爬过你家客厅的地板，你会怎么想？ 大多数蜘蛛都有毒，但只有极少数会对人类构成危险。 根据环境研究与教育研究所（Institute for Environmental Research and Education）估计，全世界每年死于蜘蛛咬伤的不到10人，尽管准确的数据收集十分困难。 尽管如此，许多人——包括我自己——都会说他们有蜘蛛“恐惧症”（phobia）。 如果我知道房间里有蜘蛛，我就睡不着觉，甚至想到蜘蛛网就足以让我全身发抖。 在许多情况…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cm2g2pnlxkko/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "泰國南部一夜50多起縱火 軍方稱為有組織搗亂",
-    "link": "https://www.bbc.com/zhongwen/articles/cm2g2pnlxkko/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-08-23 21:56:41",
-    "author": "",
-    "description": "AFP / 泰国陶公府一家便利店遭纵火，也有人在马路上放火挡路。 泰国军方表示，在受叛乱影响的南部地区，发生逾50宗有组织的纵火及燃烧弹袭击，称有人“意图制造动荡”。 袭击造成至少两人受伤，一座地方政府办公大楼、一间便利店及一辆遭盗窃的车辆等目标被纵火焚烧。 军方辖下的内部安全行动指挥部在声明中表示，事件发生于星期六（8月22日）当地时间20:00（格林尼治标准时间13:00）至星期天（23日）子夜期间，遍及该国南部边境各府。 大部分事…",
-    "content": "AFP / 泰国陶公府一家便利店遭纵火，也有人在马路上放火挡路。 泰国军方表示，在受叛乱影响的南部地区，发生逾50宗有组织的纵火及燃烧弹袭击，称有人“意图制造动荡”。 袭击造成至少两人受伤，一座地方政府办公大楼、一间便利店及一辆遭盗窃的车辆等目标被纵火焚烧。 军方辖下的内部安全行动指挥部在声明中表示，事件发生于星期六（8月22日）当地时间20:00（格林尼治标准时间13:00）至星期天（23日）子夜期间，遍及该国南部边境各府。 大部分事件发生在陶公府（Narathiwat），其余则发生于邻近的惹拉府（Yala）及北…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c9w0wn0g5zwo/simp?at_medium=RSS&at_campaign=rss",
@@ -482,39 +537,6 @@ const jsonData = [
     "author": "",
     "description": "BBC / 一些战俘出生于乌克兰，但认为自己是俄罗斯人。 在乌克兰西部，一座高墙环绕、重重铁闸把守的营地里，关押着一批替俄罗斯作战时被俘的男子。 在监狱院子四周阴凉处蹲坐的许多人，都来自圣彼得堡和叶卡捷琳堡等大城市，而不像俄罗斯全面入侵初期那样，主要来自偏远而贫困的地区。 但这里的战俘并非全都是俄罗斯人。 当中也有来自乌克兰本身的士兵，也就是那些选择与自己国家交战的人。 采访战俘并不简单。首先必须确定他们不是被迫接受访问，之后还要判断，…",
     "content": "BBC / 一些战俘出生于乌克兰，但认为自己是俄罗斯人。 在乌克兰西部，一座高墙环绕、重重铁闸把守的营地里，关押着一批替俄罗斯作战时被俘的男子。 在监狱院子四周阴凉处蹲坐的许多人，都来自圣彼得堡和叶卡捷琳堡等大城市，而不像俄罗斯全面入侵初期那样，主要来自偏远而贫困的地区。 但这里的战俘并非全都是俄罗斯人。 当中也有来自乌克兰本身的士兵，也就是那些选择与自己国家交战的人。 采访战俘并不简单。首先必须确定他们不是被迫接受访问，之后还要判断，在这种环境下，他们说话究竟有多坦率。 但由于记者无法接触俄罗斯境内的军队，采访这…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/health/20260821/peas-health-benefits-recipes/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "豌豆有多健康？",
-    "link": "https://cn.nytimes.com/health/20260821/peas-health-benefits-recipes/dual",
-    "pub_date": "2026-08-21 13:36:02",
-    "author": "",
-    "description": "AMANDA SCHUPAK2026年8月21日 The humble pea has a lot going for it. Gregor Mendel, the “father of genetics,” used pea plants to study how heritable traits were passed from parents to offspring. The plants are also friendly t…",
-    "content": "AMANDA SCHUPAK 2026年8月21日 The humble pea has a lot going for it. Gregor Mendel, the “father of genetics,” used pea plants to study how heritable traits were passed from parents to offspring. The plants are also friendly to the environment, with a low carbon fo…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20260821/moderna-cancer-melanoma/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "mRNA癌症疫苗取得突破进展，莫德纳股价大涨",
-    "link": "https://cn.nytimes.com/business/20260821/moderna-cancer-melanoma/dual",
-    "pub_date": "2026-08-21 13:06:03",
-    "author": "",
-    "description": "REBECCA ROBBINS2026年8月21日莫德纳位于马萨诸塞州剑桥市总部的一间实验室，摄于2024年。 Adam Glanzman/Bloomberg Covid vaccines made Moderna a household name, but the company’s fortunes cratered as demand for the shots plummeted. Hostility from the Trum…",
-    "content": "REBECCA ROBBINS 2026年8月21日 莫德纳位于马萨诸塞州剑桥市总部的一间实验室，摄于2024年。 Adam Glanzman/Bloomberg Covid vaccines made Moderna a household name, but the company’s fortunes cratered as demand for the shots plummeted. Hostility from the Trump administration also spooked investor…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/technology/20260821/ai-chatbots-internet-communication-loops/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "聊天机器人正将我们推向后人类互联网",
-    "link": "https://cn.nytimes.com/technology/20260821/ai-chatbots-internet-communication-loops/dual",
-    "pub_date": "2026-08-21 13:06:03",
-    "author": "",
-    "description": "Photo illustration by Chantal Jahchan Remember job applications? You know, you’d write a résumé and a cover letter. Someone would read them. You’d fish out a tasteful button-down and try to charm your interviewer. Maybe …",
-    "content": "Photo illustration by Chantal Jahchan Remember job applications? You know, you’d write a résumé and a cover letter. Someone would read them. You’d fish out a tasteful button-down and try to charm your interviewer. Maybe your one-liner or a question about your …"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/clyx0yxjx5zo/simp?at_medium=RSS&at_campaign=rss",
@@ -638,17 +660,6 @@ const jsonData = [
     "content": "Getty Images 20岁的阿梅（化名）在和朋友们外出聚会前，总会感到喉咙哽咽，手心冒汗，害怕自己会说错话。 然后，这位20岁的中国女大学生在社群媒体上发现了处方药。 她一开始服用的是普瑞巴林（pregabalin），这种药物通常用于治疗癫痫、焦虑和神经痛；同时服用一种β受体阻滞剂（乙种肾上腺阻断剂），这种药物通常用于治疗心脏疾病，也能缓解焦虑的生理症状。她都是从网路卖家非法购买的这两种药。 “我会感到亢奋，觉得自己可以成为房间里最有趣的人，”她说，“就像喝了10 杯酒，却不会感到恶心。” 这些药物大剂量服用…"
   },
   {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cn5n9kqd5vvo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "中美「AI 軍備競賽」究竟在比什麼？專家預測三種結局",
-    "link": "https://www.bbc.com/zhongwen/articles/cn5n9kqd5vvo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-08-18 08:01:37",
-    "author": "",
-    "description": "Getty Images 今年夏天，不到一个月内，世界人工智能大会和世界机器人大会先后在上海和北京举行，凸显中国在最具战略意义的新科技领域的野心。 两场大会虽名为“世界”大会，实际都是中国以自己为主场进行的“1+N”式外交平台。这一模式可追溯到2014年在浙江乌镇创办的世界互联网大会，如今已从互联网扩展到人工智能与机器人。 在美国，人工智慧同样被提升到战略高度。就在两场大会之间，美国总统特朗普批准将“外国制造的先进机器人设备”列入国家安…",
-    "content": "Getty Images 今年夏天，不到一个月内，世界人工智能大会和世界机器人大会先后在上海和北京举行，凸显中国在最具战略意义的新科技领域的野心。 两场大会虽名为“世界”大会，实际都是中国以自己为主场进行的“1+N”式外交平台。这一模式可追溯到2014年在浙江乌镇创办的世界互联网大会，如今已从互联网扩展到人工智能与机器人。 在美国，人工智慧同样被提升到战略高度。就在两场大会之间，美国总统特朗普批准将“外国制造的先进机器人设备”列入国家安全受管制名单。中国企业受到的影响尤其受到关注。中国人形机器人出货量占全球80%以…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c2352dp3y4vo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -702,17 +713,6 @@ const jsonData = [
     "author": "",
     "description": "BBC / AI浪潮冲击青年就业 应届毕业生与初级岗位首当其冲 2026年度中国高校毕业生达1,270万人，创历史新高，加上往届未就业与回流的海外留学生，求职人数突破1,500万人。中国国家统计局公布的6月数据显示，16至24岁劳动力失业率为14.9%。 香港的毕业生同样面临压力，大学学位持有者的失业率为3.7%，适合大学毕业生的全职职位空缺较往年大幅减少。根据大学联校就业资料库统计，由2022年约8万个，直接下滑到2025年的约3万1…",
     "content": "BBC / AI浪潮冲击青年就业 应届毕业生与初级岗位首当其冲 2026年度中国高校毕业生达1,270万人，创历史新高，加上往届未就业与回流的海外留学生，求职人数突破1,500万人。中国国家统计局公布的6月数据显示，16至24岁劳动力失业率为14.9%。 香港的毕业生同样面临压力，大学学位持有者的失业率为3.7%，适合大学毕业生的全职职位空缺较往年大幅减少。根据大学联校就业资料库统计，由2022年约8万个，直接下滑到2025年的约3万1千个，当中较易受自动化技术替代的职位，像行政及资讯科技或编程相关的初阶职位空缺，…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/crmr102zj9go/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "太陽前所未有的清晰：迄今最詳細的觀測影像曝光",
-    "link": "https://www.bbc.com/zhongwen/articles/crmr102zj9go/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-08-12 08:07:28",
-    "author": "",
-    "description": "透过全球最强大的太阳望远镜之眼，近距离聚焦太阳表面。（NSF/NSO/AURA/MPS） 英国与欧洲广泛地区即将迎来近30年来最壮观的一次日偏食，部分地区民众更将可观赏日食最震撼的景象：日全食。 预计数以百万计的人星期三（8月12日）傍晚将聚集在西班牙北部和冰岛西岸，希望晴朗的天空能让他们见证这场令人叹为观止的天文现象，届时太阳、月球和地球将在太空中排列成一直线。 而在这次日食来临之际，美国科学家发表了最新的太阳望远镜观测影像，带来这颗…",
-    "content": "透过全球最强大的太阳望远镜之眼，近距离聚焦太阳表面。（NSF/NSO/AURA/MPS） 英国与欧洲广泛地区 即将迎来近30年来最壮观的一次日偏食 ，部分地区民众更将可观赏日食最震撼的景象：日全食。 预计数以百万计的人星期三（8月12日）傍晚将聚集在西班牙北部和冰岛西岸，希望晴朗的天空能让他们见证这场令人叹为观止的天文现象，届时太阳、月球和地球将在太空中排列成一直线。 而在这次日食来临之际，美国科学家发表了最新的太阳望远镜观测影像，带来这颗恒星历来最清晰、壮观的影像。 BBC科学记者维多利亚·吉尔（Victoria…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cqx7z51qvpgo/simp?at_medium=RSS&at_campaign=rss",
