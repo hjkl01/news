@@ -1,5 +1,27 @@
 const jsonData = [
   {
+    "id": "技术-HelloGitHub 月刊-https://hellogithub.com/periodical/volume/125",
+    "feed_name": "HelloGitHub 月刊",
+    "category": "技术",
+    "title": "HelloGitHub 第 125 期",
+    "link": "https://hellogithub.com/periodical/volume/125",
+    "pub_date": "2026-08-28 08:14:02",
+    "author": "",
+    "description": "本期共有 40 个项目，包含 C 项目 (1)，C# 项目 (3)，C++ 项目 (2)，Go 项目 (4)，Java 项目 (2)，JavaScript 项目 (4)，Kotlin 项目 (1)，Python 项目 (4)，Rust 项目 (3)，Skills (4)，Swift 项目 (2)，人工智能 (5)，其它 (5)",
+    "content": "本期共有 40 个项目，包含 C 项目 (1)，C# 项目 (3)，C++ 项目 (2)，Go 项目 (4)，Java 项目 (2)，JavaScript 项目 (4)，Kotlin 项目 (1)，Python 项目 (4)，Rust 项目 (3)，Skills (4)，Swift 项目 (2)，人工智能 (5)，其它 (5)"
+  },
+  {
+    "id": "技术-阮一峰的网络日志-http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
+    "feed_name": "阮一峰的网络日志",
+    "category": "技术",
+    "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
+    "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
+    "pub_date": "2026-08-28 07:56:43",
+    "author": "阮一峰",
+    "description": "这里记录每周值得分享的科技内容，周五发布。 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面图 宁夏沙坡头景区的巨型蒙眼雕塑。（via） 你需要知道的 AI 三种机制 这是\"AI 小知识系列\"的第三篇，前两篇分别是《大模型需要多少内存》和《AI 缓存是什么》。 我分享一些自己的学习笔记，用来理清对于 AI 技术的理解。我尽量写得通俗，希望对大家有用。 今…",
+    "content": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 宁夏沙坡头景区的巨型蒙眼雕塑。（ via ） 你需要知道的 AI 三种机制 这是\"AI 小知识系列\"的第三篇，前两篇分别是 《大模型需要多少内存》 和 《AI 缓存是什么》 。 我分享一些自己的学习笔记，用来理清对于 AI 技术的理解。我尽量写得通俗，希望对大家有用。 今天谈一个基本问题： AI 为什么能够回答我们的提问，…"
+  },
+  {
     "id": "技术-阮一峰的网络日志-http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
     "feed_name": "阮一峰的网络日志",
     "category": "技术",
@@ -22,17 +44,6 @@ const jsonData = [
     "content": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 浙江台州的椒江滨江公共空间生态绿廊，象征涟漪从水面蔓延，涌上岸边，堆积成丘。（ via ） 你需要知道的 AI 缓存知识 大模型的价格，主要是 Token 的输入价格和输出价格，这个很容易理解。 但是，还有一项\"输入 Token 的缓存命中价格\"，这是什么东西？ 上图是 DeepSeek V4 Flash 模型的 定价 ，…"
   },
   {
-    "id": "技术-阮一峰的网络日志-http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html",
-    "feed_name": "阮一峰的网络日志",
-    "category": "技术",
-    "title": "科技爱好者周刊（第 407 期）：国家为什么需要开源软件？",
-    "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html",
-    "pub_date": "2026-08-07 08:08:27",
-    "author": "阮一峰",
-    "description": "这里记录每周值得分享的科技内容，周五发布。 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面图 上海浦江郊野公园的溪边咖啡馆。（via） 国家为什么需要开源软件？ 上个月，大模型 Kimi K3 发布。大家可能不知道，它在美国引起的反响，比中国大。 它的性能略逊于美国的顶尖模型，但是它是开源的，任何人都可以自己架设。这对大公司非常有吸引力。 美国目前的经…",
-    "content": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 上海浦江郊野公园的溪边咖啡馆。（ via ） 国家为什么需要开源软件？ 上个月，大模型 Kimi K3 发布。大家可能不知道，它在美国引起的反响，比中国大。 它的性能略逊于美国的顶尖模型，但是它是开源的，任何人都可以自己架设。这对大公司非常有吸引力。 美国目前的经济增长，全靠巨额的 AI 投资，其他行业其实不怎么增长。一旦…"
-  },
-  {
     "id": "技术-HelloGitHub 月刊-https://hellogithub.com/periodical/volume/124",
     "feed_name": "HelloGitHub 月刊",
     "category": "技术",
@@ -53,17 +64,6 @@ const jsonData = [
     "author": "",
     "description": "本期共有 38 个项目，包含 C 项目 (2)，C# 项目 (1)，C++ 项目 (2)，Go 项目 (4)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (3)，Skills (4)，Swift 项目 (2)，人工智能 (5)，其它 (4)",
     "content": "本期共有 38 个项目，包含 C 项目 (2)，C# 项目 (1)，C++ 项目 (2)，Go 项目 (4)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (3)，Skills (4)，Swift 项目 (2)，人工智能 (5)，其它 (4)"
-  },
-  {
-    "id": "技术-HelloGitHub 月刊-https://hellogithub.com/periodical/volume/122",
-    "feed_name": "HelloGitHub 月刊",
-    "category": "技术",
-    "title": "HelloGitHub 第 122 期",
-    "link": "https://hellogithub.com/periodical/volume/122",
-    "pub_date": "2026-05-28 08:07:51",
-    "author": "",
-    "description": "本期共有 39 个项目，包含 C 项目 (2)，C# 项目 (3)，C++ 项目 (2)，Go 项目 (4)，JavaScript 项目 (5)，Python 项目 (4)，Rust 项目 (3)，Skills (3)，Swift 项目 (3)，人工智能 (5)，其它 (5)",
-    "content": "本期共有 39 个项目，包含 C 项目 (2)，C# 项目 (3)，C++ 项目 (2)，Go 项目 (4)，JavaScript 项目 (5)，Python 项目 (4)，Rust 项目 (3)，Skills (3)，Swift 项目 (3)，人工智能 (5)，其它 (5)"
   },
   {
     "id": "技术-github all-https://github.com/tt-a1i/archify",
