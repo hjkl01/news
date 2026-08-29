@@ -198,6 +198,17 @@ const jsonData = [
     "content": "Ghidra is a software reverse engineering (SRE) framework https://www.nsa.gov/ghidra Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directora…"
   },
   {
+    "id": "技术-github all-https://github.com/swoole/typephp",
+    "feed_name": "github all",
+    "category": "技术",
+    "title": "swoole/typephp",
+    "link": "https://github.com/swoole/typephp",
+    "pub_date": "",
+    "author": "",
+    "description": "Compile PHP to Native Binaries https://swoole.com/aot/ English | 简体中文 TypePHP A native AOT compiler for PHP Compile PHP source code into native machine code ahead of time — producing native executables, PHP extensions, a…",
+    "content": "Compile PHP to Native Binaries https://swoole.com/aot/ English | 简体中文 TypePHP A native AOT compiler for PHP Compile PHP source code into native machine code ahead of time — producing native executables, PHP extensions, and shared libraries — while keeping the …"
+  },
+  {
     "id": "技术-github all-https://github.com/marin-community/marin",
     "feed_name": "github all",
     "category": "技术",
