@@ -1,5 +1,225 @@
 const jsonData = [
   {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cvgy4vd7ny4o/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "前線報導：尼泊爾洪災逾900人罹難 民眾絕望尋找失蹤親人",
+    "link": "https://www.bbc.com/zhongwen/articles/cvgy4vd7ny4o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-08-31 18:56:56",
+    "author": "",
+    "description": "前线报导：尼泊尔洪灾逾900人罹难 民众绝望寻找失踪亲人 尼泊尔上周遭遇毁灭性洪灾，已有超过900人死亡，仍有4200人失踪。有许多人在街头一张张查看寻找到的遗体照片，绝望地寻找失联的亲人；也有数百人被困隧道，至今生死未卜。 BBC记者阿扎德·莫希里从加德满都出发前往受灾严重的拉苏瓦地区。她报导说，尽管救援人员持续在瓦砾与泥泞中搜寻生还者，持续降雨和山区道路受阻，让救援与物资运送面临巨大挑战。",
+    "content": "前线报导：尼泊尔洪灾逾900人罹难 民众绝望寻找失踪亲人 尼泊尔上周遭遇毁灭性洪灾，已有超过900人死亡，仍有4200人失踪。有许多人在街头一张张查看寻找到的遗体照片，绝望地寻找失联的亲人；也有数百人被困隧道，至今生死未卜。 BBC记者阿扎德·莫希里从加德满都出发前往受灾严重的拉苏瓦地区。她报导说，尽管救援人员持续在瓦砾与泥泞中搜寻生还者，持续降雨和山区道路受阻，让救援与物资运送面临巨大挑战。"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260831-%E6%97%A5%E9%98%B2%E5%8D%AB%E7%9C%812027%E8%B4%A2%E5%B9%B4%E9%A2%84%E7%AE%97%E7%94%B3%E8%AF%B7%E5%88%9B%E6%96%B0%E9%AB%98%E8%BE%BE8-89%E4%B8%87%E4%BA%BF%E6%97%A5%E5%85%83-%E5%B9%B4%E5%BA%95%E6%88%96%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%A2%9E%E5%8A%A0",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "日防卫省2027财年预算申请创新高达8.89万亿日元 年底或进一步增加 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260831-%E6%97%A5%E9%98%B2%E5%8D%AB%E7%9C%812027%E8%B4%A2%E5%B9%B4%E9%A2%84%E7%AE%97%E7%94%B3%E8%AF%B7%E5%88%9B%E6%96%B0%E9%AB%98%E8%BE%BE8-89%E4%B8%87%E4%BA%BF%E6%97%A5%E5%85%83-%E5%B9%B4%E5%BA%95%E6%88%96%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%A2%9E%E5%8A%A0",
+    "pub_date": "2026-08-31 18:45:03",
+    "author": "",
+    "description": "31/08/2026 - 12:26 据共同社报导，日本防卫省周一（31日）公布了2027财年预算申请。为加强“反击能力”（原“对敌基地攻击能力”），将研发结合长射程导弹使用的攻击型无人机。为应对“新型作战方式”，将在日本自卫队的指挥控制中引入人工智能（AI）。此外还写入，为能够应对战事长期化的事态，将实现防备装备品的制造工厂国有化，并设立委托民间企业管理的制度。 《日经新闻》报导指，日本防卫省公布的2027财年预算概算申请中，列出了创…",
+    "content": "31/08/2026 - 12:26 据共同社报导，日本防卫省周一（31日）公布了2027财年预算申请。为加强“反击能力”（原“对敌基地攻击能力”），将研发结合长射程导弹使用的攻击型无人机。为应对“新型作战方式”，将在日本自卫队的指挥控制中引入人工智能（AI）。此外还写入，为能够应对战事长期化的事态，将实现防备装备品的制造工厂国有化，并设立委托民间企业管理的制度。 《日经新闻》报导指，日本防卫省公布的2027财年预算概算申请中，列出了创历史新高的8.8908万亿日元（约合人民币3740亿元）。不过，鉴于《国家安全保…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260831-%E4%B8%AD%E5%9B%BD%E5%B0%86%E5%BC%80%E5%B1%95%E5%86%9B%E5%93%81%E4%BA%A7%E4%B8%9A%E9%93%BE-%E4%BE%9B%E5%BA%94%E9%93%BE%E5%AE%89%E5%85%A8%E8%AF%84%E4%BC%B0%E5%B7%A5%E4%BD%9C-%E6%8F%90%E5%8D%87%E9%9F%A7%E6%80%A7%E5%92%8C%E5%AE%89%E5%85%A8%E6%B0%B4%E5%B9%B3",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "中国将开展军品产业链、供应链安全评估工作 提升韧性和安全水平 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260831-%E4%B8%AD%E5%9B%BD%E5%B0%86%E5%BC%80%E5%B1%95%E5%86%9B%E5%93%81%E4%BA%A7%E4%B8%9A%E9%93%BE-%E4%BE%9B%E5%BA%94%E9%93%BE%E5%AE%89%E5%85%A8%E8%AF%84%E4%BC%B0%E5%B7%A5%E4%BD%9C-%E6%8F%90%E5%8D%87%E9%9F%A7%E6%80%A7%E5%92%8C%E5%AE%89%E5%85%A8%E6%B0%B4%E5%B9%B3",
+    "pub_date": "2026-08-31 17:45:02",
+    "author": "",
+    "description": "31/08/2026 - 11:36 中国将着手审查其军事供应链的安全性，致力于提升国防工业的自主能力。 根据上周五（8月28日）由第十四届全国人大常委会通过的修订版《中华人民共和国国防动员法》，“国务院有关部门、中央军事委员会机关有关部门组织开展军品产业链、供应链安全评估工作，并根据评估结果采取措施，提升军品产业链、供应链韧性和安全水平”。该法自2026年10月1日起施行。 世界各国军方正愈发关注为其提供军事装备的供应链。美国正要求国…",
+    "content": "31/08/2026 - 11:36 中国将着手审查其军事供应链的安全性，致力于提升国防工业的自主能力。 根据上周五（8月28日）由第十四届全国人大常委会通过的修订版《中华人民共和国国防动员法》，“国务院有关部门、中央军事委员会机关有关部门组织开展军品产业链、供应链安全评估工作，并根据评估结果采取措施，提升军品产业链、供应链韧性和安全水平”。该法自2026年10月1日起施行。 世界各国军方正愈发关注为其提供军事装备的供应链。美国正要求国防承包商识别来自敌手国家的供应源——这一举措在2025年中方限制部分稀土矿产和永…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c5yj5eg69jjo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "塔吉克斯坦年輕人之間緣何興起「漢語熱」？",
+    "link": "https://www.bbc.com/zhongwen/articles/c5yj5eg69jjo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-08-31 17:41:10",
+    "author": "",
+    "description": "Reuters / 中国是塔吉克斯坦重要的经济和战略伙伴。 直到几年前，英语仍是塔吉克（Tajikistan；塔吉克斯坦）年轻人最重要的外语。随着中国在中亚地区的经济影响力扩大，中文已逐渐成为塔吉克年轻一代更具吸引力的选择。 根据官方统计，数以千计的塔吉克学生在中国的大学就读，另有数百人在塔吉克境内的教育机构学习汉语。 就业前景的保障 BBC News Persian / 许多塔吉克年轻人认为，懂中文是自己未来事业和生活的保障。 许多塔…",
+    "content": "Reuters / 中国是塔吉克斯坦重要的经济和战略伙伴。 直到几年前，英语仍是塔吉克（Tajikistan；塔吉克斯坦）年轻人最重要的外语。随着中国在中亚地区的经济影响力扩大，中文已逐渐成为塔吉克年轻一代更具吸引力的选择。 根据官方统计，数以千计的塔吉克学生在中国的大学就读，另有数百人在塔吉克境内的教育机构学习汉语。 就业前景的保障 BBC News Persian / 许多塔吉克年轻人认为，懂中文是自己未来事业和生活的保障。 许多塔吉克年轻人认为，懂中文是自己职业前景和未来生活的保障。 36岁的易卜拉欣江·杜斯…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c980y406995o/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "韓國統一教領袖韓鶴子涉貪罪成，判囚兩年",
+    "link": "https://www.bbc.com/zhongwen/articles/c980y406995o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-08-31 17:35:51",
+    "author": "",
+    "description": "Reuters / 统一教领袖韩鹤子在雨中坐着轮椅抵达首尔中央地方法院应讯。 韩国（南韩）统一教领袖涉贿赂与前第一夫人案件被裁定罪名成立，判监两年。 首尔中央地方法院裁定，韩鹤子所属的教会曾向被罢免总统尹锡悦的妻子金建希，送赠两个香奈儿（Chanel）手袋及一条钻石项链，总值8,000万韩元（5.9万美元；39.3万元人民币；185.5万元新台币）。 今年稍早，金建希因接受教会贿赂，遭判囚20个月。 83岁的韩鹤子是统一教会创办人文鲜明…",
+    "content": "Reuters / 统一教领袖韩鹤子在雨中坐着轮椅抵达首尔中央地方法院应讯。 韩国（南韩）统一教领袖涉贿赂与前第一夫人案件被裁定罪名成立，判监两年。 首尔中央地方法院裁定，韩鹤子所属的教会曾向被罢免总统尹锡悦的妻子金建希，送赠两个香奈儿（Chanel）手袋及一条钻石项链，总值8,000万韩元（5.9万美元；39.3万元人民币；185.5万元新台币）。 今年稍早，金建希因接受教会贿赂，遭判囚20个月。 83岁的韩鹤子是统一教会创办人文鲜明的遗孀。她一再否认控罪，称这些指控“虚假”。 负责调查案件的特别检察官团表示，金…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260831-%E5%A4%9A%E4%BD%8D%E9%A2%86%E5%AF%BC%E4%BA%BA-%E7%BC%BA%E5%B8%AD-%E5%B8%95%E5%8A%B3%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%B2%9B%E5%9B%BD%E8%AE%BA%E5%9D%9B%E5%B3%B0%E4%BC%9A-%E4%B8%AD%E5%9B%BD%E6%97%A0%E5%A4%84%E4%B8%8D%E5%9C%A8",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "多位领导人“缺席”帕劳太平洋岛国论坛峰会 中国无处不在？ - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260831-%E5%A4%9A%E4%BD%8D%E9%A2%86%E5%AF%BC%E4%BA%BA-%E7%BC%BA%E5%B8%AD-%E5%B8%95%E5%8A%B3%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%B2%9B%E5%9B%BD%E8%AE%BA%E5%9D%9B%E5%B3%B0%E4%BC%9A-%E4%B8%AD%E5%9B%BD%E6%97%A0%E5%A4%84%E4%B8%8D%E5%9C%A8",
+    "pub_date": "2026-08-31 17:15:03",
+    "author": "",
+    "description": "31/08/2026 - 11:01 太平洋岛国论坛峰会周一在帕劳召开，但最终有五位领导人缺席“抵制”或面临代表权变动，引发了外界对该区域组织内部团结的关注。 帕劳是第55届太平洋岛屿论坛的东道主，该论坛由18个成员国组成，论坛将持续到周四。帕劳是该地区最后三个承认台北的国家之一，这令北京十分不满。中国、台湾和美国等伙伴国受邀参加论坛，但未受邀参加领导人会议。 北京声称对台湾拥有主权，并对台湾的邀请表示抗议。去年，由于中国和当时的东道主…",
+    "content": "31/08/2026 - 11:01 太平洋岛国论坛峰会周一在帕劳召开，但最终有五位领导人缺席“抵制”或面临代表权变动，引发了外界对该区域组织内部团结的关注。 帕劳是第55届太平洋岛屿论坛的东道主，该论坛由18个成员国组成，论坛将持续到周四。帕劳是该地区最后三个承认台北的国家之一，这令北京十分不满。中国、台湾和美国等伙伴国受邀参加论坛，但未受邀参加领导人会议。 北京声称对台湾拥有主权，并对台湾的邀请表示抗议。去年，由于中国和当时的东道主所罗门群岛的反对，台湾和所有区域外国家都被排除在外。据帕劳总统苏兰格尔·惠普斯称…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20260831-%E8%B4%9D%E6%A3%AE%E7%89%B9-%E4%B8%96%E7%95%8C%E4%B8%8D%E8%83%BD%E6%9C%89%E4%B8%80%E4%B8%AA%E6%8B%A5%E6%9C%891-2%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B4%B8%E6%98%93%E9%A1%BA%E5%B7%AE%E7%9A%84%E4%B8%AD%E5%9B%BD",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "贝森特：世界不能有一个拥有1.2万亿美元贸易顺差的中国 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20260831-%E8%B4%9D%E6%A3%AE%E7%89%B9-%E4%B8%96%E7%95%8C%E4%B8%8D%E8%83%BD%E6%9C%89%E4%B8%80%E4%B8%AA%E6%8B%A5%E6%9C%891-2%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B4%B8%E6%98%93%E9%A1%BA%E5%B7%AE%E7%9A%84%E4%B8%AD%E5%9B%BD",
+    "pub_date": "2026-08-31 17:15:03",
+    "author": "",
+    "description": "31/08/2026 - 11:08 美国财政部长贝森特（Scott Bessent）周日表示，将鼓励二十国集团（G20）成员重新审视与中国的贸易条款，以缩小全球贸易失衡，并敦促中方调整经济结构，从依赖出口转向依靠国内消费。 在二十国集团财长和央行行长会议召开前夕，贝森特在受访时指出，尽管美国对华直接贸易状况正在“迅速改善”，但中国目前的出口激增态势是不可持续的。 贝森特说道 : “世界不能有一个拥有1.2万亿美元贸易顺差的中国，中国经…",
+    "content": "31/08/2026 - 11:08 美国财政部长贝森特（Scott Bessent）周日表示，将鼓励二十国集团（G20）成员重新审视与中国的贸易条款，以缩小全球贸易失衡，并敦促中方调整经济结构，从依赖出口转向依靠国内消费。 在二十国集团财长和央行行长会议召开前夕，贝森特在受访时指出，尽管美国对华直接贸易状况正在“迅速改善”，但中国目前的出口激增态势是不可持续的。 贝森特说道 : “世界不能有一个拥有1.2万亿美元贸易顺差的中国，中国经济目前相当疲软，他们正试图通过出口来摆脱困境，他们需要实现其经济的再平衡”。 贝…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260831-%E4%B8%AD%E5%9B%BD%E4%BF%AE%E8%AE%A2-%E5%9B%BD%E9%98%B2%E5%8A%A8%E5%91%98%E6%B3%95-%E5%8A%A0%E5%85%A5%E5%B9%B3%E6%88%98%E5%BF%AB%E9%80%9F%E8%BD%AC%E6%8D%A2-%E4%B8%BA%E5%8F%B0%E6%B5%B7%E5%86%B2%E7%AA%81%E8%BF%9B%E8%A1%8C%E6%B3%95%E5%BE%8B%E9%93%BA%E8%B7%AF",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "中国修订《国防动员法》加入平战快速转换 为台海冲突进行法律铺路？ - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260831-%E4%B8%AD%E5%9B%BD%E4%BF%AE%E8%AE%A2-%E5%9B%BD%E9%98%B2%E5%8A%A8%E5%91%98%E6%B3%95-%E5%8A%A0%E5%85%A5%E5%B9%B3%E6%88%98%E5%BF%AB%E9%80%9F%E8%BD%AC%E6%8D%A2-%E4%B8%BA%E5%8F%B0%E6%B5%B7%E5%86%B2%E7%AA%81%E8%BF%9B%E8%A1%8C%E6%B3%95%E5%BE%8B%E9%93%BA%E8%B7%AF",
+    "pub_date": "2026-08-31 16:45:03",
+    "author": "",
+    "description": "31/08/2026 - 10:29 中国修订新版《国防动员法》，新增保障平战快速转换。民进党表示，此举释放政治讯号，台湾位在第一岛链最前线，应加强国家安全防卫意识，与整体防卫韧性。 中国28日公布新版《国防动员法》，新增保障平战快速转换等内容。这部法律自2010年公布后，时隔16年再次修法，并将于今年10月1日起施行。 民进党31日表示，中国是台湾最大威胁，当中国把平战转换写入法律，代表国家安全不是单纯国防部的事。台湾更应该加强整体防…",
+    "content": "31/08/2026 - 10:29 中国修订新版《国防动员法》，新增保障平战快速转换。民进党表示，此举释放政治讯号，台湾位在第一岛链最前线，应加强国家安全防卫意识，与整体防卫韧性。 中国28日公布新版《国防动员法》，新增保障平战快速转换等内容。这部法律自2010年公布后，时隔16年再次修法，并将于今年10月1日起施行。 民进党31日表示，中国是台湾最大威胁，当中国把平战转换写入法律，代表国家安全不是单纯国防部的事。台湾更应该加强整体防卫韧性，不管是国防的建军、不对称战力提升，还是民间对于国家安全防卫意识的加强。 …"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260831-%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%AE%A3%E5%B8%83%E6%97%A5%E6%9C%AC%E8%88%B9%E5%8F%AA%E5%85%A8%E9%83%A8%E5%AE%89%E5%85%A8%E6%92%A4%E7%A6%BB%E6%B3%A2%E6%96%AF%E6%B9%BE",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "日本首相高市早苗宣布日本船只全部安全撤离波斯湾 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260831-%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%AE%A3%E5%B8%83%E6%97%A5%E6%9C%AC%E8%88%B9%E5%8F%AA%E5%85%A8%E9%83%A8%E5%AE%89%E5%85%A8%E6%92%A4%E7%A6%BB%E6%B3%A2%E6%96%AF%E6%B9%BE",
+    "pub_date": "2026-08-31 16:45:02",
+    "author": "",
+    "description": "31/08/2026 - 10:31 日本首相高市早苗首相于2026年8月30日在X上发文称：由于霍尔木兹海峡危机，滞留在波斯湾内的日本船舶中全部日本籍船员已于6月19日前安全撤出，所有日本籍船舶也已于7月9日前安全驶离波斯湾。 高市早苗首相表示：日前被一位熟人问道：“滞留在波斯湾内的日本船员，他们的生命和健康状况还好吗？时间拖了这么久，真是让人担心。” 她说：此前，出于对船员个人隐私的考虑，我一直没有特别由我本人及时向国民报告相关情况…",
+    "content": "31/08/2026 - 10:31 日本首相高市早苗首相于2026年8月30日在X上发文称：由于霍尔木兹海峡危机，滞留在波斯湾内的日本船舶中全部日本籍船员已于6月19日前安全撤出，所有日本籍船舶也已于7月9日前安全驶离波斯湾。 高市早苗首相表示：日前被一位熟人问道：“滞留在波斯湾内的日本船员，他们的生命和健康状况还好吗？时间拖了这么久，真是让人担心。” 她说：此前，出于对船员个人隐私的考虑，我一直没有特别由我本人及时向国民报告相关情况，但听了这位熟人的话后，我意识到，也有一些人没有持续密切关注相关新闻报道，因此在…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/opinion/20260831/successful-people-help/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "我研究成功人士，他们都有一个共同的习惯",
+    "link": "https://cn.nytimes.com/opinion/20260831/successful-people-help/dual",
+    "pub_date": "2026-08-31 14:06:02",
+    "author": "",
+    "description": "ANGELA DUCKWORTH2026年8月31日 I was once stranded with my 86-year-old mother in the Atlantic Ocean. We were on a snorkeling excursion off the coast of Miami, and the two of us were quickly swept behind our boat, my mother o…",
+    "content": "ANGELA DUCKWORTH 2026年8月31日 I was once stranded with my 86-year-old mother in the Atlantic Ocean. We were on a snorkeling excursion off the coast of Miami, and the two of us were quickly swept behind our boat, my mother overtaken by the current. In her panic, …"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20260831/us-wars-iran-afghanistan/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "为什么美国总是难以退出战争",
+    "link": "https://cn.nytimes.com/usa/20260831/us-wars-iran-afghanistan/dual",
+    "pub_date": "2026-08-31 13:06:02",
+    "author": "",
+    "description": "GREG JAFFE2026年8月31日2021年5月，一架美军直升机飞越阿富汗喀布尔上空。 Jim Huylebroek for The New York Times For much of the Afghanistan war, the only thing harder for the United States than winning was quitting. 在阿富汗战争的大部分时间里，对美国而言，比赢得战争更难的只有撤…",
+    "content": "GREG JAFFE 2026年8月31日 2021年5月，一架美军直升机飞越阿富汗喀布尔上空。 Jim Huylebroek for The New York Times For much of the Afghanistan war, the only thing harder for the United States than winning was quitting. 在阿富汗战争的大部分时间里，对美国而言，比赢得战争更难的只有撤军。 The country’s longest war ended in …"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/travel/20260831/flash-flood-nepal-global-warming-himalayas/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "全球变暖时代，“整个喜马拉雅山脉都在融化”",
+    "link": "https://cn.nytimes.com/travel/20260831/flash-flood-nepal-global-warming-himalayas/dual",
+    "pub_date": "2026-08-31 12:06:02",
+    "author": "",
+    "description": "FINN-OLAF JONES2026年8月31日周三，尼泊尔努瓦科特县德维加特地区发生灾难性山洪暴发，房屋严重损毁，部分被厚厚的泥浆和碎屑掩埋。 Atul Loke for The New York Times On Wednesday morning, part of a glacier and the mountainside beneath it collapsed on the north side of Langtang L…",
+    "content": "FINN-OLAF JONES 2026年8月31日 周三，尼泊尔努瓦科特县德维加特地区发生灾难性山洪暴发，房屋严重损毁，部分被厚厚的泥浆和碎屑掩埋。 Atul Loke for The New York Times On Wednesday morning, part of a glacier and the mountainside beneath it collapsed on the north side of Langtang Lirung, a 23,734-foot peak near Nepal’s…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cdr7yd0zyg1o/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "土石流來襲前幾分鐘，這位中學校長及時疏散了900名學生",
+    "link": "https://www.bbc.com/zhongwen/articles/cdr7yd0zyg1o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-08-31 11:36:41",
+    "author": "",
+    "description": "Yunisha Amatya/BBC / 观看：这位校长拯救了900名师生的性命（英语字幕影片） 洪水来袭前，尼泊尔一家中学正在上课，校长在10分钟内果断疏散了全校900名师生。就在撤离后，校舍瞬间被洪水和瓦砾淹没。 努瓦科特（Nuwakot）特里布万特里苏利中学（Tribhuvan Trishuli Secondary School）校长拉金德拉·达瓦迪（Rajendra Dawadi）向BBC表示，他在当地时间09:10（格林尼治标…",
+    "content": "Yunisha Amatya/BBC / 观看：这位校长拯救了900名师生的性命（英语字幕影片） 洪水来袭前，尼泊尔一家中学正在上课，校长在10分钟内果断疏散了全校900名师生。就在撤离后，校舍瞬间被洪水和瓦砾淹没。 努瓦科特（Nuwakot）特里布万特里苏利中学（Tribhuvan Trishuli Secondary School）校长拉金德拉·达瓦迪（Rajendra Dawadi）向BBC表示，他在当地时间09:10（格林尼治标准时间03:25）接到四通电话，获悉灾难即将发生。目前，这场泥石流已造成尼泊尔一…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/technology/20260831/china-artificial-intelligence-zai/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "人工智能“脱缰”在美国引发焦虑，中国则从中看到机遇",
+    "link": "https://cn.nytimes.com/technology/20260831/china-artificial-intelligence-zai/dual",
+    "pub_date": "2026-08-31 11:06:02",
+    "author": "",
+    "description": "STEVE LOHR, MEAGHAN TOBIN2026年8月31日今年1月，总部位于北京的人工智能初创公司智谱AI在上市仪式上。上周五，智谱AI公布了其最新人工智能模型的细节。 Lam Yik/Bloomberg In the United States, recent episodes where powerful artificial intelligence software broke free and hacked int…",
+    "content": "STEVE LOHR, MEAGHAN TOBIN 2026年8月31日 今年1月，总部位于北京的人工智能初创公司智谱AI在上市仪式上。上周五，智谱AI公布了其最新人工智能模型的细节。 Lam Yik/Bloomberg In the United States, recent episodes where powerful artificial intelligence software broke free and hacked into other computer systems prompted a wa…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20260831/china-nepal-floods-xi-jinping/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "中国慰问邻国但引导叙事，强调灾害始于尼泊尔",
+    "link": "https://cn.nytimes.com/china/20260831/china-nepal-floods-xi-jinping/dual",
+    "pub_date": "2026-08-31 10:06:03",
+    "author": "",
+    "description": "郭莉莉2026年8月31日尼泊尔北部，裹挟着泥沙与碎石的博特科西河，摄于上周四。 Atul Loke for The New York Times China’s leader, Xi Jinping, extended his condolences to Nepal’s president on Friday over the hundreds of deaths caused by the landslide on the cou…",
+    "content": "郭莉莉 2026年8月31日 尼泊尔北部，裹挟着泥沙与碎石的博特科西河，摄于上周四。 Atul Loke for The New York Times China’s leader, Xi Jinping, extended his condolences to Nepal’s president on Friday over the hundreds of deaths caused by the landslide on the countries’ border and pledged China’s sup…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/science/20260831/climate-forward-nepal-disaster/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "尼泊尔不断融化的冰川有多危险？",
+    "link": "https://cn.nytimes.com/science/20260831/climate-forward-nepal-disaster/dual",
+    "pub_date": "2026-08-31 10:06:03",
+    "author": "",
+    "description": "JASON GULLEY2026年8月31日去年，一位研究人员划着配备声呐的充气皮划艇，测量尼泊尔恩戈尊帕冰川上一处融水湖泊的深度。 Jason Gulley for The New York Times Like much of the world, I watched and rewatched the videos of the catastrophic flood that have been filtering out of …",
+    "content": "JASON GULLEY 2026年8月31日 去年，一位研究人员划着配备声呐的充气皮划艇，测量尼泊尔恩戈尊帕冰川上一处融水湖泊的深度。 Jason Gulley for The New York Times Like much of the world, I watched and rewatched the videos of the catastrophic flood that have been filtering out of Nepal since Wednesday with horror and …"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20260831/tibet-nepal-flood-death-toll-china/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "中国公布西藏洪灾261名外国公民失踪",
+    "link": "https://cn.nytimes.com/china/20260831/tibet-nepal-flood-death-toll-china/dual",
+    "pub_date": "2026-08-31 09:36:32",
+    "author": "",
+    "description": "郭莉莉, PEI-LIN WU2026年8月31日上周四，尼泊尔拉苏瓦县境内，浑浊的特里舒利河蜿蜒流淌，图为该河流的航拍图。 Atul Loke for The New York Times More than 260 foreign citizens from 23 countries are among the hundreds of people missing in Tibet after last week’s devasta…",
+    "content": "郭莉莉, PEI-LIN WU 2026年8月31日 上周四，尼泊尔拉苏瓦县境内，浑浊的特里舒利河蜿蜒流淌，图为该河流的航拍图。 Atul Loke for The New York Times More than 260 foreign citizens from 23 countries are among the hundreds of people missing in Tibet after last week’s devastating flood, the Chinese authorities sa…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/czjzdlvly70o/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "她放下演藝事業，回愛丁堡拯救家裏的中餐館",
+    "link": "https://www.bbc.com/zhongwen/articles/czjzdlvly70o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-08-31 08:15:53",
+    "author": "",
+    "description": "BBC / 贺漓洒（左）放下演员工作，回到爱丁堡家中帮助母亲重振中餐馆。 母亲经营了30年的餐厅正在走下坡。因此，贺漓洒暂停了自己的演艺事业，回到老家试一把。 多年来，贺漓洒（Lisa He）一直看着母亲 Sophie 倾注所有心力经营丽都（China Star），这是一家位于苏格兰首府爱丁堡，由家族经营的中餐馆。 漫长的工作日延伸至深夜，而端上桌的每一道菜，都承载着多年来的辛勤付出。 Sophie 几十年来一直奉献于这门生意，经常每星…",
+    "content": "BBC / 贺漓洒（左）放下演员工作，回到爱丁堡家中帮助母亲重振中餐馆。 母亲经营了30年的餐厅正在走下坡。因此，贺漓洒暂停了自己的演艺事业，回到老家试一把。 多年来，贺漓洒（Lisa He）一直看着母亲 Sophie 倾注所有心力经营丽都（China Star），这是一家位于苏格兰首府爱丁堡，由家族经营的中餐馆。 漫长的工作日延伸至深夜，而端上桌的每一道菜，都承载着多年来的辛勤付出。 Sophie 几十年来一直奉献于这门生意，经常每星期工作七天。但经营家族餐厅并不容易，而要在竞争日益激烈的市场中脱颖而出，也变得愈…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cy8zyg119dyo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "西方官員：俄羅斯加大強硬言論，但仍避免與北約爆發戰爭",
+    "link": "https://www.bbc.com/zhongwen/articles/cy8zyg119dyo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-08-31 08:15:46",
+    "author": "",
+    "description": "Getty Images 西方官员认为，尽管俄罗斯总统普京（Vladimir Putin；普丁）对英国和其他盟友支持乌克兰的言论日益敌对，但他仍希望避免与北大西洋公约组织（NATO；北约组织）发生直接军事对抗。 一些报导指出，美国中央情报局（CIA）局长约翰·拉特克利夫（John Ratcliffe）上周访问了莫斯科，部分原因是警告普京不要对这欧洲—大西洋军事联盟的成员国发动可能的攻击。 但一位不愿透露姓名的西方官员向BBC表示，莫斯科…",
+    "content": "Getty Images 西方官员认为，尽管俄罗斯总统普京（Vladimir Putin；普丁）对英国和其他盟友支持乌克兰的言论日益敌对，但他仍希望避免与北大西洋公约组织（NATO；北约组织）发生直接军事对抗。 一些报导指出，美国中央情报局（CIA）局长约翰·拉特克利夫（John Ratcliffe）上周访问了莫斯科，部分原因是警告普京不要对这欧洲—大西洋军事联盟的成员国发动可能的攻击。 但一位不愿透露姓名的西方官员向BBC表示，莫斯科最近发出的警告，包括英国军队未来可能成为攻击目标或其武器工厂可能遭到攻击，都“不…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c4gjd85e03xo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "為何台灣公視屢陷預算爭議？",
+    "link": "https://www.bbc.com/zhongwen/articles/c4gjd85e03xo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-08-31 08:15:40",
+    "author": "",
+    "description": "Taiwan Public Television Service 台湾公共电视（公视）今年的政府捐助预算，经过数月审查后在立法院过关，但围绕公共媒体财源与独立性的争议并未落幕。 立法院于8月14日完成审议。文化部对公视编列了超过21亿元新台币（6630万美元；4.4亿人民币）的捐助预算，最终遭删减约2,185万元，另有2亿元遭冻结；国际传播平台TaiwanPlus的预算则遭删减2亿元。 此前，在野党曾提案删减并冻结逾10亿元，触发公视董…",
+    "content": "Taiwan Public Television Service 台湾公共电视（公视）今年的政府捐助预算，经过数月审查后在立法院过关，但围绕公共媒体财源与独立性的争议并未落幕。 立法院于8月14日完成审议。文化部对公视编列了超过21亿元新台币（6630万美元；4.4亿人民币）的捐助预算，最终遭删减约2,185万元，另有2亿元遭冻结；国际传播平台TaiwanPlus的预算则遭删减2亿元。 此前，在野党曾提案删减并冻结逾10亿元，触发公视董监事会罕见地发表声明，警告删预算将重创公共媒体营运，波及影视产业与公民社会。公视…"
+  },
+  {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260830-%E5%86%B0%E5%B2%9B%E6%8B%92%E7%BB%9D%E9%87%8D%E5%90%AF%E5%85%A5%E7%9B%9F%E8%B0%88%E5%88%A4-%E6%AC%A7%E7%9B%9F%E5%B0%8A%E9%87%8D%E9%80%89%E6%8B%A9%E4%BD%86%E6%89%A9%E5%A4%A7%E8%BF%9B%E7%A8%8B%E5%8F%97%E9%98%BB",
     "feed_name": "RFI 法国国际广播电台",
     "category": "国外",
@@ -176,39 +396,6 @@ const jsonData = [
     "content": "BBC / 帕顿（Dolly Parton）生前在老家田纳西州创办了“想像图书馆”。 美国丹佛市的一个孩子称她为“图书女王”。 阿拉巴马州的另一位居民称她为“多莉女士”。 在地球另一端的澳洲，一位患有语言发育迟缓的幼儿在收到一本免费邮寄的颜色书籍后，说出了她的第一个字——“橙色”，这让她的家人欣喜不已。 这本书来自“想像图书馆”（Imagination Library），这是已故国际巨星多莉·帕顿（Dolly Parton；桃莉·巴顿／桃丽·芭顿）发起的一项识字计划。 刚离世的帕顿女士享年80岁。她是在1995年发…"
   },
   {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260830-%E6%9C%9D%E9%B2%9C%E5%86%9B%E6%96%B9%E9%AB%98%E5%B1%82%E5%A4%A7%E6%94%B9%E7%BB%84%EF%BC%8C%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%E5%8A%AA%E5%85%89%E9%93%81%E9%81%AD%E8%A7%A3%E8%81%8C%E9%99%8D%E7%BA%A7",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "朝鲜军方高层大改组，国防部长努光铁遭解职降级 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260830-%E6%9C%9D%E9%B2%9C%E5%86%9B%E6%96%B9%E9%AB%98%E5%B1%82%E5%A4%A7%E6%94%B9%E7%BB%84%EF%BC%8C%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%E5%8A%AA%E5%85%89%E9%93%81%E9%81%AD%E8%A7%A3%E8%81%8C%E9%99%8D%E7%BA%A7",
-    "pub_date": "2026-08-30 17:15:03",
-    "author": "",
-    "description": "30/08/2026 - 11:09 朝鲜官方通讯社朝中社30日发布消息，宣布军队高层大规模人事调整名单。国防部长努光铁(No Kwang Chol)被撤职，并被开除出朝鲜劳动党中央，降级改任“军需工业部”第一副部长。接替他的是朝鲜人民军总政治局局长金成基（Kim Song-gi）。 同时，今年初才卸任中央军委副主席职务的国防部顾问朴正天（Pak Jong Chon）官复原职，重新担任中央军委副主席。朝鲜人民军空军部队政委严周浩（Om …",
-    "content": "30/08/2026 - 11:09 朝鲜官方通讯社朝中社30日发布消息，宣布军队高层大规模人事调整名单。国防部长努光铁(No Kwang Chol)被撤职，并被开除出朝鲜劳动党中央，降级改任“军需工业部”第一副部长。接替他的是朝鲜人民军总政治局局长金成基（Kim Song-gi）。 同时，今年初才卸任中央军委副主席职务的国防部顾问朴正天（Pak Jong Chon）官复原职，重新担任中央军委副主席。朝鲜人民军空军部队政委严周浩（Om Ju Ho）也得以进入劳动党中央和中央政治局。 法新社引述朝中社消息称，这些军队…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260830-%E6%97%A5%E6%9C%AC%E7%A6%8F%E4%BA%95%E6%99%AE%E9%99%8D%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E6%9A%B4%E9%9B%A8-%E8%A6%81%E6%B1%8234%E4%B8%87%E4%BA%BA%E9%81%BF%E9%9A%BE",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "日本福井普降史上最大暴雨 要求34万人避难 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260830-%E6%97%A5%E6%9C%AC%E7%A6%8F%E4%BA%95%E6%99%AE%E9%99%8D%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E6%9A%B4%E9%9B%A8-%E8%A6%81%E6%B1%8234%E4%B8%87%E4%BA%BA%E9%81%BF%E9%9A%BE",
-    "pub_date": "2026-08-30 16:45:03",
-    "author": "",
-    "description": "30/08/2026 - 10:26 30日早晨，日本福井县福井市、大野市、胜山市这3个市发布了“5级大雨特别警报”，当地观测到创纪录的大雨。在福井县，福井市、大野市、胜山市、芦原市全域，以及鲭江市、坂井市、永平寺町部分地区，共计14万3684户、34万4225人被要求避难。 各市町共开设了95处避难所。截至30日上午6时，共有352人前往避难。曾一度发布大雨特别警报的福井县福井市、胜山市、大野市3市及其周边地区，30日上午接连发生道路…",
-    "content": "30/08/2026 - 10:26 30日早晨，日本福井县福井市、大野市、胜山市这3个市发布了“5级大雨特别警报”，当地观测到创纪录的大雨。在福井县，福井市、大野市、胜山市、芦原市全域，以及鲭江市、坂井市、永平寺町部分地区，共计14万3684户、34万4225人被要求避难。 各市町共开设了95处避难所。截至30日上午6时，共有352人前往避难。曾一度发布大雨特别警报的福井县福井市、胜山市、大野市3市及其周边地区，30日上午接连发生道路积水、住宅进水等灾害。 30日上午，在坂井市丸冈町国道8号附近，从河道溢出的泥水…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260830-%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BB%8A%E8%B5%B4%E6%AF%94%E4%BB%80%E5%87%AF%E5%85%8B%E5%87%BA%E5%B8%AD%E4%B8%8A%E5%90%88%E7%BB%84%E7%BB%87%E5%B3%B0%E4%BC%9A-%E5%92%8C%E8%B0%90%E8%A1%A8%E9%9D%A2%E4%B8%8B%E6%9A%97%E6%B5%81%E6%B6%8C%E5%8A%A8",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "习近平今赴比什凯克出席上合组织峰会：和谐表面下暗流涌动 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260830-%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BB%8A%E8%B5%B4%E6%AF%94%E4%BB%80%E5%87%AF%E5%85%8B%E5%87%BA%E5%B8%AD%E4%B8%8A%E5%90%88%E7%BB%84%E7%BB%87%E5%B3%B0%E4%BC%9A-%E5%92%8C%E8%B0%90%E8%A1%A8%E9%9D%A2%E4%B8%8B%E6%9A%97%E6%B5%81%E6%B6%8C%E5%8A%A8",
-    "pub_date": "2026-08-30 16:45:02",
-    "author": "",
-    "description": "30/08/2026 - 10:33 中国国家主席习近平星期天（8月30日）启程前往比什凯克出席2026年上海合作组织峰会，习近平将在那里会见普京、莫迪和伊朗总统。据法新社指出，上海合作组织是北京希望建立的欧亚集团，旨在制衡西方。 法新社报道表示，北京希望利用此次峰会展示实力。上海合作组织（SCO）目前代表着世界40%的人口。中国将其视为多极国际秩序的支柱之一，旨在减少美国对国际秩序的主导地位。预计此次峰会还将举行多场双边会晤，以加强彼…",
-    "content": "30/08/2026 - 10:33 中国国家主席习近平星期天（8月30日）启程前往比什凯克出席2026年上海合作组织峰会，习近平将在那里会见普京、莫迪和伊朗总统。据法新社指出，上海合作组织是北京希望建立的欧亚集团，旨在制衡西方。 法新社报道表示，北京希望利用此次峰会展示实力。上海合作组织（SCO）目前代表着世界40%的人口。中国将其视为多极国际秩序的支柱之一，旨在减少美国对国际秩序的主导地位。预计此次峰会还将举行多场双边会晤，以加强彼此的政治联系。 但在这看似和谐的表象之下，各方利益却存在分歧。北京和莫斯科在中亚…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c62ewvv46v6o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -251,39 +438,6 @@ const jsonData = [
     "author": "",
     "description": "Getty Images / 薄饼制作机械人公司一直难以赚钱。 “面团供应器”、酱料与芝士模组，甚至撒意大利辣香肠的装置，全都静止不动。 在西雅图一家摩托薄饼（Moto Pizza）餐厅内，原本有一对机械人负责源源不绝地制作薄饼。 然而，今年5月，当其供应商 Picnic 突然倒闭后，这两台机械人便变得“几乎毫无用处”。 摩托薄饼创办人兼行政总裁李．金德尔（Lee Kindell）表示，随着 Picnic 关门，机械人的技术支援也在一夜…",
     "content": "Getty Images / 薄饼制作机械人公司一直难以赚钱。 “面团供应器”、酱料与芝士模组，甚至撒意大利辣香肠的装置，全都静止不动。 在西雅图一家摩托薄饼（Moto Pizza）餐厅内，原本有一对机械人负责源源不绝地制作薄饼。 然而，今年5月，当其供应商 Picnic 突然倒闭后，这两台机械人便变得“几乎毫无用处”。 摩托薄饼创办人兼行政总裁李．金德尔（Lee Kindell）表示，随着 Picnic 关门，机械人的技术支援也在一夜之间消失。 他不得不思考，该如何处理这些价值16万美元（11.8万英镑）、外形如…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260829-%E7%BE%8E%E5%AE%98%E5%91%98%E4%BF%AE%E6%AD%A3-%E4%B8%AD%E5%9B%BD%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5%E6%94%BF%E5%BA%9C%E6%9C%BA%E6%9E%84-%E8%AF%B4%E6%B3%95-%E6%9C%89%E5%85%B3%E6%9C%BA%E6%9E%84%E4%BB%85%E4%B8%BA%E6%94%BB%E5%87%BB%E7%9B%AE%E6%A0%87",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "美官员修正“中国黑客入侵政府机构”说法：有关机构仅为攻击目标 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260829-%E7%BE%8E%E5%AE%98%E5%91%98%E4%BF%AE%E6%AD%A3-%E4%B8%AD%E5%9B%BD%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5%E6%94%BF%E5%BA%9C%E6%9C%BA%E6%9E%84-%E8%AF%B4%E6%B3%95-%E6%9C%89%E5%85%B3%E6%9C%BA%E6%9E%84%E4%BB%85%E4%B8%BA%E6%94%BB%E5%87%BB%E7%9B%AE%E6%A0%87",
-    "pub_date": "2026-08-30 05:45:05",
-    "author": "",
-    "description": "29/08/2026 - 23:09 美国官员日前修正了此前有关多个政府机构遭中国黑客入侵的说法，现称这些机构只是黑客锁定的攻击目标，并非全部遭到成功入侵。 路透社报道，美国司法部周五（8月28日）在一份经修改的声明中表示，美国参议院、美国联邦储备委员会、美国国家航空航天局（NASA）等机构，均曾被一个名为“QTFY”的中国政府支持的黑客组织列为攻击目标。美国官员26日在宣布查封一批互联网域名时，披露了该组织的身份。 司法部此前发布的声…",
-    "content": "29/08/2026 - 23:09 美国官员日前修正了此前有关多个政府机构遭中国黑客入侵的说法，现称这些机构只是黑客锁定的攻击目标，并非全部遭到成功入侵。 路透社报道，美国司法部周五（8月28日）在一份经修改的声明中表示，美国参议院、美国联邦储备委员会、美国国家航空航天局（NASA）等机构，均曾被一个名为“QTFY”的中国政府支持的黑客组织列为攻击目标。美国官员26日在宣布查封一批互联网域名时，披露了该组织的身份。 司法部此前发布的声明则称，上述政府机构的网络均已遭该黑客组织入侵。美国司法部周五解释称，8月26日…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260829-%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97-%E7%BB%8F%E6%B5%8E%E6%88%98-%E9%A6%96%E9%A1%B9%E8%A1%8C%E5%8A%A8-%E5%9F%83%E5%8F%8A%E9%93%B6%E8%A1%8C%E9%98%BF%E8%81%94%E9%85%8B%E5%88%86%E8%A1%8C%E9%81%AD%E5%88%B6%E8%A3%81-%E9%98%BF%E8%81%94%E9%85%8B%E5%A4%AE%E8%A1%8C%E7%B4%A7%E6%80%A5%E5%AE%A1%E6%9F%A5",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "美国对伊朗“经济战”首项行动：埃及银行阿联酋分行遭制裁 阿联酋央行紧急审查 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260829-%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97-%E7%BB%8F%E6%B5%8E%E6%88%98-%E9%A6%96%E9%A1%B9%E8%A1%8C%E5%8A%A8-%E5%9F%83%E5%8F%8A%E9%93%B6%E8%A1%8C%E9%98%BF%E8%81%94%E9%85%8B%E5%88%86%E8%A1%8C%E9%81%AD%E5%88%B6%E8%A3%81-%E9%98%BF%E8%81%94%E9%85%8B%E5%A4%AE%E8%A1%8C%E7%B4%A7%E6%80%A5%E5%AE%A1%E6%9F%A5",
-    "pub_date": "2026-08-30 05:45:04",
-    "author": "",
-    "description": "29/08/2026 - 23:14 阿联酋中央银行周六（8月29日）宣布，将对埃及国有的埃及银行（Banque Misr）在阿联酋的分支机构展开检查。该银行阿联酋分行因涉嫌参与同伊朗有关的金融交易，前一天遭到美国制裁。这是美国财政部长贝森特宣布要切断德黑兰的“所有经济资源”、“彻底孤立”伊朗以来，美国政府采取的首项具体行动。 阿联酋央行在官方通讯社阿通社（WAM）发布的一份声明中称：“央行已决定开展一项特别紧急审查，其中包括针对美国财…",
-    "content": "29/08/2026 - 23:14 阿联酋中央银行周六（8月29日）宣布，将对埃及国有的埃及银行（Banque Misr）在阿联酋的分支机构展开检查。该银行阿联酋分行因涉嫌参与同伊朗有关的金融交易，前一天遭到美国制裁。这是美国财政部长贝森特宣布要切断德黑兰的“所有经济资源”、“彻底孤立”伊朗以来，美国政府采取的首项具体行动。 阿联酋央行在官方通讯社阿通社（WAM）发布的一份声明中称：“央行已决定开展一项特别紧急审查，其中包括针对美国财政部声明所述时段进行全面深入的评估。” 美国28日宣布，将埃及银行阿联酋分行排除…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260829-%E6%8C%AA%E5%A8%81%E4%B8%BE%E5%9B%BD%E5%93%80%E6%82%BC%E5%93%88%E6%8B%89%E5%B0%94%E4%BA%94%E4%B8%96-%E6%96%B0%E7%8E%8B%E5%93%88%E5%BA%B7%E5%85%AB%E4%B8%96%E5%BC%80%E5%90%AF%E6%96%B0%E6%97%B6%E4%BB%A3",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "挪威举国哀悼哈拉尔五世 新王哈康八世开启新时代 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260829-%E6%8C%AA%E5%A8%81%E4%B8%BE%E5%9B%BD%E5%93%80%E6%82%BC%E5%93%88%E6%8B%89%E5%B0%94%E4%BA%94%E4%B8%96-%E6%96%B0%E7%8E%8B%E5%93%88%E5%BA%B7%E5%85%AB%E4%B8%96%E5%BC%80%E5%90%AF%E6%96%B0%E6%97%B6%E4%BB%A3",
-    "pub_date": "2026-08-30 05:45:04",
-    "author": "",
-    "description": "29/08/2026 - 23:04 挪威周六（8月29日）在举国哀悼中翻开历史新的一页。王宫前布满鲜花、全国降半旗致哀，新即位的哈康八世发表首次全国电视讲话，他追忆在位35年、被视为国家团结象征的父亲哈拉尔五世，并承诺忠诚服务挪威、捍卫国家宪法和法律。新国王宣布以“哈康八世”为王号，继续沿用曾祖父、祖父和父亲共同选择的王室格言——“一切为了挪威”。 现年53岁的哈康八世在讲话中表示：“我们沉浸在悲痛之中，但看到如此多的人与我们分担哀伤…",
-    "content": "29/08/2026 - 23:04 挪威周六（8月29日）在举国哀悼中翻开历史新的一页。王宫前布满鲜花、全国降半旗致哀，新即位的哈康八世发表首次全国电视讲话，他追忆在位35年、被视为国家团结象征的父亲哈拉尔五世，并承诺忠诚服务挪威、捍卫国家宪法和法律。新国王宣布以“哈康八世”为王号，继续沿用曾祖父、祖父和父亲共同选择的王室格言——“一切为了挪威”。 现年53岁的哈康八世在讲话中表示：“我们沉浸在悲痛之中，但看到如此多的人与我们分担哀伤，也给我们带来了安慰和力量。”他表示，哈拉尔五世“生前总是提醒我们，每个人都应当…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c980env4n78o/simp?at_medium=RSS&at_campaign=rss",
@@ -385,28 +539,6 @@ const jsonData = [
     "content": "ADAM ENTOUS, JULIAN E. BARNES 2026年8月28日 中央情报局局长约翰·拉特克利夫本周秘密访问莫斯科，向俄罗斯联邦安全局局长亚历山大·博尔特尼科夫转达紧急信息。 Kenny Holston/The New York Times John Ratcliffe, the C.I.A. director, made a secretive visit to Moscow this week to privately share his bleak assessment of the stat…"
   },
   {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/science/20260828/nepal-flooding-climate-change/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "气候变化加剧喜马拉雅地区致命灾害风险",
-    "link": "https://cn.nytimes.com/science/20260828/nepal-flooding-climate-change/dual",
-    "pub_date": "2026-08-28 11:36:02",
-    "author": "",
-    "description": "MAXINE JOSELOW, LEO SANDS2026年8月28日周四，裹挟着泥沙和瓦砾的洪水汹涌穿过尼泊尔北部拉苏瓦县波特科西河，其河道经过冲刷已变宽。 Atul Loke for The New York Times Climate change is heating up the Himalayas and supercharging the risk of disasters like the deadly flash fl…",
-    "content": "MAXINE JOSELOW, LEO SANDS 2026年8月28日 周四，裹挟着泥沙和瓦砾的洪水汹涌穿过尼泊尔北部拉苏瓦县波特科西河，其河道经过冲刷已变宽。 Atul Loke for The New York Times Climate change is heating up the Himalayas and supercharging the risk of disasters like the deadly flash flooding in Nepal and Tibet, though scie…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/opinion/20260828/us-canada-trade-cars-trucks-china/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "美加贸易战，中国坐收渔利",
-    "link": "https://cn.nytimes.com/opinion/20260828/us-canada-trade-cars-trucks-china/dual",
-    "pub_date": "2026-08-28 11:06:02",
-    "author": "",
-    "description": "CHAD P. BOWN2026年8月28日 Ioulex for The New York Times The keenest observer of the all-out trade war between the United States and Canada is surely President Xi Jinping of China. If Washington doesn’t change course, he’s p…",
-    "content": "CHAD P. BOWN 2026年8月28日 Ioulex for The New York Times The keenest observer of the all-out trade war between the United States and Canada is surely President Xi Jinping of China. If Washington doesn’t change course, he’s probably going to be its winner, too. 最热…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c5y7w1xgp2ro/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -429,39 +561,6 @@ const jsonData = [
     "content": "BBC 近年全球掀起一波集换式卡牌（Trading Card Game，TCG）热潮，从小朋友到大朋友都被吸引投入卡牌对战之中。但除了玩乐以外，更有不少人用来投资炒卖。 根据美国市场分析公司统计，2025年全球集换式卡牌市场规模达到约78亿美元，到2031年有望升至128.6亿美元。今年初，一张“插画家比卡超”更以1600多万美元拍卖成交，打破健力士全球交易收藏卡的最贵纪录。 一张卡由游戏变成资产，成为“纸上黄金”。BBC中文采访玩家、卡店店主以及经济学者，拆解卡牌热潮的起因以及热潮延续的可能性。 采访：余美霞 影…"
   },
   {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20260828/nepal-flood-survivors/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "“一转眼就被吞没了”：幸存者讲述尼泊尔山洪恐怖场景",
-    "link": "https://cn.nytimes.com/asia-pacific/20260828/nepal-flood-survivors/dual",
-    "pub_date": "2026-08-28 10:06:02",
-    "author": "",
-    "description": "BINOD GHIMIRE2026年8月28日 Sabrina Dangol/Reuters The numbers alone reflect the scale of the destruction: Hundreds of people are reported dead so far, with over a thousand others missing, and entire towns have been wiped ou…",
-    "content": "BINOD GHIMIRE 2026年8月28日 Sabrina Dangol/Reuters The numbers alone reflect the scale of the destruction: Hundreds of people are reported dead so far, with over a thousand others missing, and entire towns have been wiped out after floods swept the Himalayan regi…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20120122/c00appleone/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "iPhone为何中国制造？",
-    "link": "https://cn.nytimes.com/business/20120122/c00appleone/dual",
-    "pub_date": "2026-08-28 09:36:01",
-    "author": "",
-    "description": "CHARLES DUHIGG, KEITH BRADSHER2012年1月22日2010年中国河南省的一个工作招聘会上，应聘者蜂拥在富士康科技公司的展台前。 Donald Chan/Reuters When Barack Obama joined Silicon Valley’s top luminaries for dinner in California last February, each guest was asked to …",
-    "content": "CHARLES DUHIGG, KEITH BRADSHER 2012年1月22日 2010年中国河南省的一个工作招聘会上，应聘者蜂拥在富士康科技公司的展台前。 Donald Chan/Reuters When Barack Obama joined Silicon Valley’s top luminaries for dinner in California last February, each guest was asked to come with a question for the president…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20260828/flood-disaster-china-censorship/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "中国信息管控或阻碍西藏洪水救援",
-    "link": "https://cn.nytimes.com/china/20260828/flood-disaster-china-censorship/dual",
-    "pub_date": "2026-08-28 09:36:01",
-    "author": "",
-    "description": "郭莉莉2026年8月28日新华社发布的一张照片显示，周三，西藏自治区吉隆口岸附近，一片泥泞的河岸上散落着瓦砾。 Xinhua, via Associated Press As journalists in Nepal gather eyewitness accounts and up-to-date information about the deadly flood that swept entire villages away on…",
-    "content": "郭莉莉 2026年8月28日 新华社发布的一张照片显示，周三，西藏自治区吉隆口岸附近，一片泥泞的河岸上散落着瓦砾。 Xinhua, via Associated Press As journalists in Nepal gather eyewitness accounts and up-to-date information about the deadly flood that swept entire villages away on Wednesday, the scene across the borde…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/ckgxvnv51x5o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -471,39 +570,6 @@ const jsonData = [
     "author": "",
     "description": "AFP via Getty Images / 一场山洪暴发席卷尼泊尔拉苏瓦和努瓦阔特地区，摧毁房屋和基础设施，并造成数以百计人失踪。 当山洪星期三（8月27日）袭击尼泊尔与西藏边境时，凯沙夫·普拉萨德·巴拉尔（Keshav Prasad Baral）正与妻子在家中。 这名68岁男子现正在尼泊尔一间小型医院接受治疗。他说：“一股巨大的泥石流直接朝我们冲来。”当洪流涌入家中时，他试图抓住妻子的手，但她被“冲走了”。 “我的妻子仍然埋在某处泥…",
     "content": "AFP via Getty Images / 一场山洪暴发席卷尼泊尔拉苏瓦和努瓦阔特地区，摧毁房屋和基础设施，并造成数以百计人失踪。 当山洪星期三（8月27日）袭击尼泊尔与西藏边境时，凯沙夫·普拉萨德·巴拉尔（Keshav Prasad Baral）正与妻子在家中。 这名68岁男子现正在尼泊尔一间小型医院接受治疗。他说：“一股巨大的泥石流直接朝我们冲来。”当洪流涌入家中时，他试图抓住妻子的手，但她被“冲走了”。 “我的妻子仍然埋在某处泥土下面。她已经不在了。” 这个喜马拉雅山（Himalayas）国家预计将出现“大…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cgk5754v4nmo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "「家人在我眼前被洪水沖走了」：中尼邊境山洪倖存者憶述事發經過",
-    "link": "https://www.bbc.com/zhongwen/articles/cgk5754v4nmo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-08-27 14:17:23",
-    "author": "",
-    "description": "EPA 星期三（8月26日）上午，尼泊尔北部接壤西藏地区发生毁灭性洪灾。 根据尼泊尔警方消息，目前已造成超过160人死亡；中国方面称西藏一侧有三人死亡。两国合共超过1300人下落不明，包括尼泊尔一侧来自28国的数百名游客。 有尼泊尔灾区的幸存者告诉BBC，她的多名家人在自己的眼前被洪水冲走，而她和儿子因爬到屋顶上而得以生还。 此外，有在中尼边境进行贸易的中国商人告诉BBC，目前与尼泊尔边境的工作人员处于失联状态，“影响很大，现在主要是担…",
-    "content": "EPA 星期三（8月26日）上午，尼泊尔北部接壤西藏地区发生毁灭性洪灾。 根据尼泊尔警方消息，目前已造成超过160人死亡；中国方面称西藏一侧有三人死亡。两国合共超过1300人下落不明，包括尼泊尔一侧来自28国的数百名游客。 有尼泊尔灾区的幸存者告诉BBC，她的多名家人在自己的眼前被洪水冲走，而她和儿子因爬到屋顶上而得以生还。 此外，有在中尼边境进行贸易的中国商人告诉BBC，目前与尼泊尔边境的工作人员处于失联状态，“影响很大，现在主要是担忧人员安全，第一次遇到这样严重的状况。” BBC / 西藏尼泊尔山洪致逾160人…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20260827/children-social-media-restrictions-global-movement-meta/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "哪些国家限制青少年使用社交媒体？",
-    "link": "https://cn.nytimes.com/world/20260827/children-social-media-restrictions-global-movement-meta/dual",
-    "pub_date": "2026-08-27 14:06:02",
-    "author": "",
-    "description": "EPHRAT LIVNI2026年8月27日7月，澳大利亚一名15岁的青少年在使用社交媒体应用。但该国半年多前已经实施了一项针对未满16岁儿童使用多个社交平台的禁令。 Jeremy Piper/Reuters Meta’s landmark settlement of up to $17.1 billion with U.S. states and territories on Wednesday over claims it enda…",
-    "content": "EPHRAT LIVNI 2026年8月27日 7月，澳大利亚一名15岁的青少年在使用社交媒体应用。但该国半年多前已经实施了一项针对未满16岁儿童使用多个社交平台的禁令。 Jeremy Piper/Reuters Meta’s landmark settlement of up to $17.1 billion with U.S. states and territories on Wednesday over claims it endangered children with addictive social …"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20260827/nepal-china-flash-flood/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "视频与卫星图像揭示尼泊尔山洪有多致命",
-    "link": "https://cn.nytimes.com/asia-pacific/20260827/nepal-china-flash-flood/dual",
-    "pub_date": "2026-08-27 13:36:02",
-    "author": "",
-    "description": "PABLO ROBLES, LEANNE ABRAHAM, JOSH HOLDER2026年8月27日谷歌提供的Copernicus和Landsat卫星影像。 Floodwaters swept away villages near the border between Nepal and the Tibet region of China on Wednesday, leaving at least 160 people dead a…",
-    "content": "PABLO ROBLES, LEANNE ABRAHAM, JOSH HOLDER 2026年8月27日 谷歌提供的Copernicus和Landsat卫星影像。 Floodwaters swept away villages near the border between Nepal and the Tibet region of China on Wednesday, leaving at least 160 people dead and hundreds missing across a 40-mile p…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cg49yzyv4yko/simp?at_medium=RSS&at_campaign=rss",
@@ -616,17 +682,6 @@ const jsonData = [
     "content": "Gabby / 现年26岁的加比说，由于当时年纪太小，她对青春期开始的事已不太记得清楚了。 加比（Gabby）在六岁时开始来月经，并长出体毛。 加比的母亲对长女身上发生的变化感到忧虑，于是带她去看医生。 来自英格兰的加比向BBC国际部（BBC World Service）表示，“儿科团队的人必须进行研究，因为他们从未听说过我所经历的情况。” “他们不得不联络全国其他医院，以获取更多有关如何治疗这种情况的资讯。” 现年26岁的加比被诊断患有中枢性性早熟（central precocious puberty, CPP）…"
   },
   {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c0j3pp78ny9o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "「我說的不是女王英語」：為何人們會擔心自己的口音",
-    "link": "https://www.bbc.com/zhongwen/articles/c0j3pp78ny9o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-08-25 08:10:41",
-    "author": "",
-    "description": "BBC / 米娅·坦斯威尔（Mia Tanswell）表示，在开始读大学之后，她开始意识到自己的口音。 在曼彻斯特长大的米娅·坦斯威尔（Mia Tanswell）过去不太在意自己的口音，直到她进入拉夫堡大学（Loughborough University）的第一周。 “我知道人们会注意到我是北方人，而且我说的不是‘女王英语’（Queen's English）。”这名22岁的女子说。 “尤其是在研讨课上，我有时会觉得自己的口音听起来不像其…",
-    "content": "BBC / 米娅·坦斯威尔（Mia Tanswell）表示，在开始读大学之后，她开始意识到自己的口音。 在曼彻斯特长大的米娅·坦斯威尔（Mia Tanswell）过去不太在意自己的口音，直到她进入拉夫堡大学（Loughborough University）的第一周。 “我知道人们会注意到我是北方人，而且我说的不是‘女王英语’（Queen's English）。”这名22岁的女子说。 “尤其是在研讨课上，我有时会觉得自己的口音听起来不像其他人那么有学问，特别是当我是课堂里唯一来自英格兰北部的学生时。” 她并不孤单。B…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cvgyewnred2o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -636,17 +691,6 @@ const jsonData = [
     "author": "",
     "description": "BBC / 透过“编织微笑”小组，居住在英国的香港人建立了新的联系。 移居英国的香港人表示，他们透过一个编织小组，找到了社群的归属感和认同感。 60多名居住在英格兰西部的人士，每两星期便会在布里斯托尔（Bristol；碧仙桃）参加一次“编织微笑”（Crafting Smiles）的小组聚会。成员表示，这让他们能够结交朋友，并参与创意项目。 自2025年10月成立以来，该小组的成员人数已增长10倍，并制作了阵亡将士纪念日的罂粟花和婴儿用品…",
     "content": "BBC / 透过“编织微笑”小组，居住在英国的香港人建立了新的联系。 移居英国的香港人表示，他们透过一个编织小组，找到了社群的归属感和认同感。 60多名居住在英格兰西部的人士，每两星期便会在布里斯托尔（Bristol；碧仙桃）参加一次“编织微笑”（Crafting Smiles）的小组聚会。成员表示，这让他们能够结交朋友，并参与创意项目。 自2025年10月成立以来，该小组的成员人数已增长10倍，并制作了阵亡将士纪念日的罂粟花和婴儿用品作慈善用途。 小组成员乔伊斯·威尔莫特（Joyce Wilmot）表示，这个小组…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c4gkg78wp1ko/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "中國機器人打破人類百米短跑世界紀錄",
-    "link": "https://www.bbc.com/zhongwen/articles/c4gkg78wp1ko/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-08-23 17:43:30",
-    "author": "",
-    "description": "BBC 一台机器人在中国举行的世界人形机器人运动会上，以比尤塞恩·博尔特（Usain Bolt；保特）100米短跑世界纪录更快的速度完成赛事，表现超越人类。 这款“天工Ultra”人形机器人由北京人形机器人创新中心研发，在赛事中以9.39秒跑完该距离。 八届奥运金牌得主博尔特于2009年创下人类世界纪录，以9.58秒完成100米赛跑。 该机器人击败另外两款机器人，其中包括一款由中国智能手机制造商荣耀（Honor）研发的机器人。该制造商表…",
-    "content": "BBC 一台机器人在中国举行的世界人形机器人运动会上，以比尤塞恩·博尔特（Usain Bolt；保特）100米短跑世界纪录更快的速度完成赛事，表现超越人类。 这款“天工Ultra”人形机器人由北京人形机器人创新中心研发，在赛事中以9.39秒跑完该距离。 八届奥运金牌得主博尔特于2009年创下人类世界纪录，以9.58秒完成100米赛跑。 该机器人击败另外两款机器人，其中包括一款由中国智能手机制造商荣耀（Honor）研发的机器人。该制造商表示，该机器人在一次测试中以9.32秒完成该距离。 这项于星期六（8月22日）开始…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c0rdle4l1lvo/simp?at_medium=RSS&at_campaign=rss",
