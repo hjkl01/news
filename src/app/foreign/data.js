@@ -1,5 +1,170 @@
 const jsonData = [
   {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260903-%E7%BE%8E%E5%9B%BD%E5%AF%B9%E8%BF%9B%E5%8F%A3%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%8F%8A%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%9B%B6%E9%83%A8%E4%BB%B6%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%E6%8E%AA%E6%96%BD%E4%BB%8A%E8%B5%B7%E7%94%9F%E6%95%88",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "美国对进口无人机及无人机零部件加征关税措施今起生效 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260903-%E7%BE%8E%E5%9B%BD%E5%AF%B9%E8%BF%9B%E5%8F%A3%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%8F%8A%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%9B%B6%E9%83%A8%E4%BB%B6%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%E6%8E%AA%E6%96%BD%E4%BB%8A%E8%B5%B7%E7%94%9F%E6%95%88",
+    "pub_date": "2026-09-03 18:15:03",
+    "author": "",
+    "description": "03/09/2026 - 11:38 美国针对多种类型无人机及无人机零部件进口加征百分之百关税的措施2026年9月3日零时起，开始生效执行。 依照这项新措施，进口到美国的起飞重量超过25公斤的无人机、配有热成像摄像头的无人机、无人机充电站、某些无人机零部件等都要面对100%的关税。轻小型无人机的关税定位为25%。 特朗普8月13日宣布这项关税措施时表示，此举目的是减少美国对外国供应商的依赖，保证国家安全。 相关措施虽然并未明确具体的国家…",
+    "content": "03/09/2026 - 11:38 美国针对多种类型无人机及无人机零部件进口加征百分之百关税的措施2026年9月3日零时起，开始生效执行。 依照这项新措施，进口到美国的起飞重量超过25公斤的无人机、配有热成像摄像头的无人机、无人机充电站、某些无人机零部件等都要面对100%的关税。轻小型无人机的关税定位为25%。 特朗普8月13日宣布这项关税措施时表示，此举目的是减少美国对外国供应商的依赖，保证国家安全。 相关措施虽然并未明确具体的国家指向，但中国目前在全球无人机市场独霸一方，令美国感到不安。2025年12月，美国…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20260903-%E7%BE%8E%E9%A9%BB%E5%8D%8E%E5%A4%A7%E4%BD%BF-%E7%BE%8E%E5%9B%BD%E5%91%BC%E5%90%81%E7%AB%8B%E5%8D%B3%E9%87%8A%E6%94%BE%E8%89%BA%E6%9C%AF%E5%AE%B6%E9%AB%98%E5%85%9F-%E4%BB%96%E5%92%8C%E5%85%B6%E5%AE%B6%E4%BA%BA%E5%B7%B2%E5%8F%97%E5%B0%BD%E8%8B%A6%E9%9A%BE",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "美驻华大使：美国呼吁立即释放艺术家高兟 他和家人已受尽苦难 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20260903-%E7%BE%8E%E9%A9%BB%E5%8D%8E%E5%A4%A7%E4%BD%BF-%E7%BE%8E%E5%9B%BD%E5%91%BC%E5%90%81%E7%AB%8B%E5%8D%B3%E9%87%8A%E6%94%BE%E8%89%BA%E6%9C%AF%E5%AE%B6%E9%AB%98%E5%85%9F-%E4%BB%96%E5%92%8C%E5%85%B6%E5%AE%B6%E4%BA%BA%E5%B7%B2%E5%8F%97%E5%B0%BD%E8%8B%A6%E9%9A%BE",
+    "pub_date": "2026-09-03 18:15:03",
+    "author": "",
+    "description": "03/09/2026 - 11:56 美国驻华大使庞德伟（David Perdue）周四通过社媒平台X表示，“艺术家高兟在遭到不公正的判刑之前已经在拘留所被关了两年。他和他的家人已经受尽了苦难。美国呼吁立即释放他”。庞德伟并转发了美国国务院负责民主、人权和劳工事务的助理国务卿巴恩斯（Riley M. Barnes）周三发表的呼吁立即释放高兟，并要求有关当局允许他的家人离开中国的贴文。 巴恩斯在当天的贴文中写道：“中国于8月25日以‘侵害…",
+    "content": "03/09/2026 - 11:56 美国驻华大使庞德伟（David Perdue）周四通过社媒平台X表示，“艺术家高兟在遭到不公正的判刑之前已经在拘留所被关了两年。他和他的家人已经受尽了苦难。美国呼吁立即释放他”。庞德伟并转发了美国国务院负责民主、人权和劳工事务的助理国务卿巴恩斯（Riley M. Barnes）周三发表的呼吁立即释放高兟，并要求有关当局允许他的家人离开中国的贴文。 巴恩斯在当天的贴文中写道：“中国于8月25日以‘侵害英雄烈士名誉’为由，判处艺术家高兟三年有期徒刑——而相关艺术作品创作于这条201…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260903-%E6%B8%AF%E5%BA%9C%E6%88%90%E5%8A%9F%E6%94%B6%E8%B4%AD%E4%B9%9D%E6%88%90%E4%B9%9D%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BE%E4%B8%9A%E6%9D%83-%E6%9C%89%E5%B1%85%E6%B0%91%E7%A7%B0%E8%A2%AB%E8%BF%AB%E6%97%A0%E5%A5%88-%E6%9C%89%E5%8D%96%E6%A5%BC%E8%80%85%E7%A7%B0%E7%BB%AD%E8%BF%BD%E8%B4%A3",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "港府成功收购九成九宏福苑火灾业权 有居民称被迫无奈 有卖楼者称续追责 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260903-%E6%B8%AF%E5%BA%9C%E6%88%90%E5%8A%9F%E6%94%B6%E8%B4%AD%E4%B9%9D%E6%88%90%E4%B9%9D%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BE%E4%B8%9A%E6%9D%83-%E6%9C%89%E5%B1%85%E6%B0%91%E7%A7%B0%E8%A2%AB%E8%BF%AB%E6%97%A0%E5%A5%88-%E6%9C%89%E5%8D%96%E6%A5%BC%E8%80%85%E7%A7%B0%E7%BB%AD%E8%BF%BD%E8%B4%A3",
+    "pub_date": "2026-09-03 17:45:03",
+    "author": "",
+    "description": "03/09/2026 - 11:05 导致168人死亡的大埔宏福苑大火，不少居民要求原址重建，但随着香港政府拒绝公开根楼宇勘察报告丶扬言不排除立法强制收回业权等情况下，当局终於在限期前收到99.1%的业主签署「接受收购建议信件」，成为宏福苑最大业主，亦令一众原业主能否继续追责成为疑问。但不少出席极有可能是最後一次业主大会的居民均表示，出售业权是被迫和无奈，当中，在火灾中失去妻子的叶家驹表明，不会放弃追责，要讨回公道。 根据消防处在听证会…",
+    "content": "03/09/2026 - 11:05 导致168人死亡的大埔宏福苑大火，不少居民要求原址重建，但随着香港政府拒绝公开根楼宇勘察报告丶扬言不排除立法强制收回业权等情况下，当局终於在限期前收到99.1%的业主签署「接受收购建议信件」，成为宏福苑最大业主，亦令一众原业主能否继续追责成为疑问。但不少出席极有可能是最後一次业主大会的居民均表示，出售业权是被迫和无奈，当中，在火灾中失去妻子的叶家驹表明，不会放弃追责，要讨回公道。 根据消防处在听证会上提供的资料，宏福苑八幢大楼中，宏志阁可说未受大火波及，而馀下被烧的大厦中，宏建…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260903-%E5%85%89%E5%B7%9E%E5%8F%8C%E5%B9%B4%E5%B1%95%E6%81%A2%E5%A4%8D%E5%8F%B0%E6%B9%BE%E9%A6%86%E5%90%8D%E7%A7%B0-%E4%B8%AD%E6%96%B9%E7%AD%96%E5%B1%95%E5%9B%A2%E9%98%9F%E6%92%A4%E5%B1%95-%E9%9F%A9%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8-%E6%AD%A4%E4%BA%8B%E4%B8%8E%E6%94%BF%E5%BA%9C%E5%AF%B9%E5%8F%B0%E7%AB%8B%E5%9C%BA%E6%97%A0%E5%85%B3",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "光州双年展恢复台湾馆名称 中方策展团队撤展 韩国外交部：此事与政府对台立场无关 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260903-%E5%85%89%E5%B7%9E%E5%8F%8C%E5%B9%B4%E5%B1%95%E6%81%A2%E5%A4%8D%E5%8F%B0%E6%B9%BE%E9%A6%86%E5%90%8D%E7%A7%B0-%E4%B8%AD%E6%96%B9%E7%AD%96%E5%B1%95%E5%9B%A2%E9%98%9F%E6%92%A4%E5%B1%95-%E9%9F%A9%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8-%E6%AD%A4%E4%BA%8B%E4%B8%8E%E6%94%BF%E5%BA%9C%E5%AF%B9%E5%8F%B0%E7%AB%8B%E5%9C%BA%E6%97%A0%E5%85%B3",
+    "pub_date": "2026-09-03 17:45:03",
+    "author": "",
+    "description": "03/09/2026 - 11:15 中方策展团队决定撤回其在第十六届光州双年展上的展馆，以抗议“台湾馆”相关问题。周四，中方策展团队在光州河正雄美术馆举行新闻发布会，宣布：“我们一致决定撤展，以表达我们的强烈抗议”。 据韩联社报导，中国馆展览策划组策展人阮悦来表示：“我们非常重视光州双年展，并为中国馆的策划和展览投入了大量精力；然而，主办方在涉及中国大陆和台湾地区参与的问题上使用了不正确的术语，导致政治因素干预了艺术领域”。据悉，新闻…",
+    "content": "03/09/2026 - 11:15 中方策展团队决定撤回其在第十六届光州双年展上的展馆，以抗议“台湾馆”相关问题。周四，中方策展团队在光州河正雄美术馆举行新闻发布会，宣布：“我们一致决定撤展，以表达我们的强烈抗议”。 据韩联社报导，中国馆展览策划组策展人阮悦来表示：“我们非常重视光州双年展，并为中国馆的策划和展览投入了大量精力；然而，主办方在涉及中国大陆和台湾地区参与的问题上使用了不正确的术语，导致政治因素干预了艺术领域”。据悉，新闻发布会仅持续了三分钟便结束了，在发表立场声明后没有单独的问答环节。 此外，中国驻…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260903-%E4%B9%8C%E5%85%8B%E5%85%B0%E8%AD%A6%E5%91%8A%E5%9B%BD%E9%99%85%E6%B0%91%E7%94%A8%E8%88%AA%E7%A9%BA%E7%BB%84%E7%BB%87%E4%BD%BF%E7%94%A8%E4%BF%84%E7%BD%97%E6%96%AF%E9%A2%86%E7%A9%BA%E5%AD%98%E5%9C%A8%E7%9A%84%E9%A3%8E%E9%99%A9",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "乌克兰警告国际民用航空组织使用俄罗斯领空存在的风险 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260903-%E4%B9%8C%E5%85%8B%E5%85%B0%E8%AD%A6%E5%91%8A%E5%9B%BD%E9%99%85%E6%B0%91%E7%94%A8%E8%88%AA%E7%A9%BA%E7%BB%84%E7%BB%87%E4%BD%BF%E7%94%A8%E4%BF%84%E7%BD%97%E6%96%AF%E9%A2%86%E7%A9%BA%E5%AD%98%E5%9C%A8%E7%9A%84%E9%A3%8E%E9%99%A9",
+    "pub_date": "2026-09-03 17:45:02",
+    "author": "",
+    "description": "03/09/2026 - 11:28 乌克兰已正式联系国际民用航空组织（ICAO），警告其使用俄罗斯领空存在的风险。基辅甚至要求该国际组织成员国禁止民用航班飞越俄罗斯领空。 乌克兰总统泽伦斯基（Volodymyr Zelenskyy）周三警告，由于乌方使用无人机，俄罗斯上空正变得“极度危险”。 泽伦斯基说：“乌克兰不希望无辜者丧生，因此我们要警告我方伙伴：俄罗斯天空安全无虞的日子已结束。” 他指出，尽管民航班机并非攻击目标，但在“无人机…",
+    "content": "03/09/2026 - 11:28 乌克兰已正式联系国际民用航空组织（ICAO），警告其使用俄罗斯领空存在的风险。基辅甚至要求该国际组织成员国禁止民用航班飞越俄罗斯领空。 乌克兰总统泽伦斯基（Volodymyr Zelenskyy）周三警告，由于乌方使用无人机，俄罗斯上空正变得“极度危险”。 泽伦斯基说：“乌克兰不希望无辜者丧生，因此我们要警告我方伙伴：俄罗斯天空安全无虞的日子已结束。” 他指出，尽管民航班机并非攻击目标，但在“无人机密集出没的空域”不适合民航机飞行。 法新社报道，周三，在基辅发表关于俄罗斯领空危…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260903-%E4%B8%AD%E5%8F%8B%E5%A5%BD%E8%AE%AE%E5%91%98%E8%81%94%E7%9B%9F%E6%8B%9F%E7%BB%84%E7%BB%87%E8%B7%A8%E5%85%9A%E6%B4%BE%E5%B9%B4%E8%BD%BB%E8%AE%AE%E5%91%98%E8%AE%BF%E5%8D%8E",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "中友好议员联盟拟组织跨党派年轻议员访华 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260903-%E4%B8%AD%E5%8F%8B%E5%A5%BD%E8%AE%AE%E5%91%98%E8%81%94%E7%9B%9F%E6%8B%9F%E7%BB%84%E7%BB%87%E8%B7%A8%E5%85%9A%E6%B4%BE%E5%B9%B4%E8%BD%BB%E8%AE%AE%E5%91%98%E8%AE%BF%E5%8D%8E",
+    "pub_date": "2026-09-03 15:45:02",
+    "author": "",
+    "description": "03/09/2026 - 09:29 据悉，由日本朝野各党议员组成的日中友好议员联盟，正在协调组织年轻议员代表团访华，目标是在9月内实现访问。日中友好议员联盟会长、自民党前干事长森山裕9月3日向记者透露了这一消息，目前议联正在与中国方面积极联系，以最后敲定行程与其他细节。 如果访问顺利实现，这将是日中友好议员联盟自2025年4月以来时隔约1年5个月再次组织访华，也将是大型日本议员代表团在高市早苗首相去年11月围绕“台湾有事”在国会答辩后…",
+    "content": "03/09/2026 - 09:29 据悉，由日本朝野各党议员组成的日中友好议员联盟，正在协调组织年轻议员代表团访华，目标是在9月内实现访问。日中友好议员联盟会长、自民党前干事长森山裕9月3日向记者透露了这一消息，目前议联正在与中国方面积极联系，以最后敲定行程与其他细节。 如果访问顺利实现，这将是日中友好议员联盟自2025年4月以来时隔约1年5个月再次组织访华，也将是大型日本议员代表团在高市早苗首相去年11月围绕“台湾有事”在国会答辩后首次访华，将意味着日中关系在一定程度上的解冻。 森山裕表示，访华代表团将由执政党…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cwyzg4en4k3o/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "美國航母「林肯號」航行250天終抵泰國，這是我們目前知道的情況",
+    "link": "https://www.bbc.com/zhongwen/articles/cwyzg4en4k3o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-09-03 14:01:33",
+    "author": "",
+    "description": "BBC/Reuters / 观看：为什么美军与这座喧闹的泰国城市有着历史渊源？（英文）影片 美国核动力航空母舰“亚伯拉罕·林肯号”（USS Abraham Lincoln）在海上连续航行250天、期间未曾停靠港口。9月2日，该母舰终于抵达泰国，近5,000名船员得以上岸休息。 这艘美国航母于去年11月离开圣迭戈港（Port of San Diego），原定在太平洋和南中国海执行为期六个月的任务。然而在美国和以色列于2月底对伊朗展开军事行…",
+    "content": "BBC/Reuters / 观看：为什么美军与这座喧闹的泰国城市有着历史渊源？（英文）影片 美国核动力航空母舰“亚伯拉罕·林肯号”（USS Abraham Lincoln）在海上连续航行250天、期间未曾停靠港口。9月2日，该母舰终于抵达泰国，近5,000名船员得以上岸休息。 这艘美国航母于去年11月离开圣迭戈港（Port of San Diego），原定在太平洋和南中国海执行为期六个月的任务。然而在美国和以色列于2月底对伊朗展开军事行动后，军舰被调往波斯湾。 部署原定于5月结束，之后获多次延长。据军事新闻媒体报导…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/opinion/20260903/world-order-international-relations/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "无序的新世界即将到来，我们没有做好准备",
+    "link": "https://cn.nytimes.com/opinion/20260903/world-order-international-relations/dual",
+    "pub_date": "2026-09-03 13:06:02",
+    "author": "",
+    "description": "MARGARET MACMILLAN2026年9月3日 When a storm is coming, there will always be signs. The wind might suddenly drop. The tide goes out farther than usual. Streamers of clouds sail across the sky. 风暴来临前总会有预兆。风势可能会突然减弱。潮水退得比平时更远。…",
+    "content": "MARGARET MACMILLAN 2026年9月3日 When a storm is coming, there will always be signs. The wind might suddenly drop. The tide goes out farther than usual. Streamers of clouds sail across the sky. 风暴来临前总会有预兆。风势可能会突然减弱。潮水退得比平时更远。缕缕云丝飘过天空。 It’s possible to misread or e…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20260903/iran-war-us-navy-carriers-supply/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "美国海军舰队的后勤噩梦",
+    "link": "https://cn.nytimes.com/usa/20260903/iran-war-us-navy-carriers-supply/dual",
+    "pub_date": "2026-09-03 12:36:02",
+    "author": "",
+    "description": "JOHN ISMAY2026年9月3日 The New York Times On a typical U.S. aircraft carrier, 5,000 crew members work around the clock and require up to four meals a day. Although the ships are nuclear-powered, the planes and helicopters f…",
+    "content": "JOHN ISMAY 2026年9月3日 The New York Times On a typical U.S. aircraft carrier, 5,000 crew members work around the clock and require up to four meals a day. Although the ships are nuclear-powered, the planes and helicopters flying off them use millions of gallons …"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20260903/trump-iran-strait-of-hormuz/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "特朗普对伊朗已经套路用尽、无牌可打？",
+    "link": "https://cn.nytimes.com/usa/20260903/trump-iran-strait-of-hormuz/dual",
+    "pub_date": "2026-09-03 11:06:02",
+    "author": "",
+    "description": "ERICA L. GREEN2026年9月3日周二晚上，特朗普总统在一条社交媒体帖子中表示，他“完全不在乎”与伊朗达成任何协议。在此数小时前，美国发动了一次打击行动。 Demetrius Freeman for The New York Times As the on-again, off-again war in Iran flares up again, President Trump seems bogged down in a …",
+    "content": "ERICA L. GREEN 2026年9月3日 周二晚上，特朗普总统在一条社交媒体帖子中表示，他“完全不在乎”与伊朗达成任何协议。在此数小时前，美国发动了一次打击行动。 Demetrius Freeman for The New York Times As the on-again, off-again war in Iran flares up again, President Trump seems bogged down in a conflict that he cannot control or mov…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20260903/trump-regime-change-strike-wedding/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "深入剖析特朗普第二任期：谁应对他最成功？",
+    "link": "https://cn.nytimes.com/usa/20260903/trump-regime-change-strike-wedding/dual",
+    "pub_date": "2026-09-03 10:36:01",
+    "author": "",
+    "description": "《纽约时报》2026年9月3日周一，特朗普在椭圆形办公室。 Doug Mills/The New York Times If you want to understand the moment we’re in, you have to understand Donald Trump. That’s easier said than done; Trump thrives on drama — ideally in ALL CAPS o…",
+    "content": "《纽约时报》 2026年9月3日 周一，特朗普在椭圆形办公室。 Doug Mills/The New York Times If you want to understand the moment we’re in, you have to understand Donald Trump. That’s easier said than done; Trump thrives on drama — ideally in ALL CAPS on Truth Social — and prides himself on…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20260903/nepal-flood-miracle-house-dhunge-bazaar/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "尼泊尔洪灾中的“奇迹”绿房子",
+    "link": "https://cn.nytimes.com/world/20260903/nepal-flood-miracle-house-dhunge-bazaar/dual",
+    "pub_date": "2026-09-03 10:06:02",
+    "author": "",
+    "description": "MUJIB MASHAL, BINOD GHIMIRE2026年9月3日尼泊尔丹格市集的一座绿房子在洪水中屹立不倒。 Francis Mascarenhas/Reuters For some, it’s become known as the “miracle” green house. For others arriving to stare in wonderment and take selfies, it is simply “…",
+    "content": "MUJIB MASHAL, BINOD GHIMIRE 2026年9月3日 尼泊尔丹格市集的一座绿房子在洪水中屹立不倒。 Francis Mascarenhas/Reuters For some, it’s become known as the “miracle” green house. For others arriving to stare in wonderment and take selfies, it is simply “the viral house.” 一些人将它称为“奇迹”绿房子。而对那些前…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20260903/china-egypt-xi-jinping-el-sisi/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "习近平访问埃及，挑战美国在中东影响力",
+    "link": "https://cn.nytimes.com/china/20260903/china-egypt-xi-jinping-el-sisi/dual",
+    "pub_date": "2026-09-03 09:06:02",
+    "author": "",
+    "description": "郭莉莉, ERIKA SOLOMON2026年9月3日周二，开罗总统塞西夫妇在机场迎接到访的习近平和彭丽媛。 Pool photo by Khaled Desouki When the Chinese leader Xi Jinping arrived in Cairo, he was greeted by children wearing T-shirts emblazoned with his face. Performers st…",
+    "content": "郭莉莉, ERIKA SOLOMON 2026年9月3日 周二，开罗总统塞西夫妇在机场迎接到访的习近平和彭丽媛。 Pool photo by Khaled Desouki When the Chinese leader Xi Jinping arrived in Cairo, he was greeted by children wearing T-shirts emblazoned with his face. Performers staged a traditional dance. The presiden…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c5y4r8e52nyo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "莫迪敦促普京結束烏克蘭戰爭，他能勸得動嗎？",
+    "link": "https://www.bbc.com/zhongwen/articles/c5y4r8e52nyo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-09-03 08:24:54",
+    "author": "",
+    "description": "EPA / 莫迪告诉普京“从无尽的战争迈向战争的终结”。（英文字幕影片） 印度总理纳伦德拉·莫迪（Narendra Modi）是俄罗斯总统弗拉基米尔·普京（Vladimir Putin）的亲密盟友，他敦促普京结束莫斯科对乌克兰发动的战争。 “战争每持续一天，人类文明就倒退一步；而迈向和平的每一步，都会为人类带来新的希望与热情。”莫迪周一（8月31日）如是说。 莫迪所在国家的经济高度依赖自俄罗斯进口的折扣石油。自2022年普京发动对乌克兰…",
+    "content": "EPA / 莫迪告诉普京“从无尽的战争迈向战争的终结”。（英文字幕影片） 印度总理纳伦德拉·莫迪（Narendra Modi）是俄罗斯总统弗拉基米尔·普京（Vladimir Putin）的亲密盟友，他敦促普京结束莫斯科对乌克兰发动的战争。 “战争每持续一天，人类文明就倒退一步；而迈向和平的每一步，都会为人类带来新的希望与热情。”莫迪周一（8月31日）如是说。 莫迪所在国家的经济高度依赖自俄罗斯进口的折扣石油。自2022年普京发动对乌克兰的全面入侵以来，莫迪已多次向普京提出过类似的呼吁。 BBC驻德里和莫斯科的记者，…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c5yd4361y6no/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "《肖申克的救贖》中國公映：官方字幕把「queer」譯成「變態」，為何引發爭議？",
+    "link": "https://www.bbc.com/zhongwen/articles/c5yd4361y6no/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-09-03 08:24:43",
+    "author": "",
+    "description": "Getty Images 8月28日，《肖申克的救赎》（The Shawshank Redemption，港译《月黑高飞》、台译《刺激1995》）修复版在中国内地公映，官方字幕的多处翻译选择随即引发网路热议。影片翻译、性别学者接受BBC中文采访，阐述了各自的理解。 500码被译成500米，体制化（institutionalized）译成“牢笼驯化”，同性恋（homosexual）译成“不同的人”，queer译成“变态”，就连那句吐槽识字…",
+    "content": "Getty Images 8月28日，《肖申克的救赎》（The Shawshank Redemption，港译《月黑高飞》、台译《刺激1995》）修复版在中国内地公映，官方字幕的多处翻译选择随即引发网路热议。影片翻译、性别学者接受BBC中文采访，阐述了各自的理解。 500码被译成500米，体制化（institutionalized）译成“牢笼驯化”，同性恋（homosexual）译成“不同的人”，queer译成“变态”，就连那句吐槽识字太难、“难得像中文”的台词，也被译成了“天书”。 其中争议最大的，是queer一…"
+  },
+  {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260902-%E5%B7%B4%E9%BB%8E%E5%9C%B0%E9%93%8115%E5%8F%B7%E7%BA%BF%E6%88%90%E5%8A%9F%E8%BF%BD%E5%8A%A030%E4%BA%BF%E6%AC%A7%E5%85%83",
     "feed_name": "RFI 法国国际广播电台",
     "category": "国外",
@@ -154,61 +319,6 @@ const jsonData = [
     "content": "02/09/2026 - 18:39 在吉尔吉斯斯坦首都比什凯克，面对俄罗斯、印度、伊朗等国领导人，中国国家主席习近平在上海合作组织峰会上阐述了其“多极化”世界观，聚焦“全球南方”，并反对美国霸权——这距离他计划与唐纳德·特朗普的会晤仅有数周之遥。 据《解放报》亚太版周一晚登出由阿德里安•西莫尔执笔的报道说，上合比什凯克峰会“全家福”照片传递出一个信号：这个家庭不再需要“山姆大叔”及其欧洲先辈。8月31日（周一）至9月1日（周二），上合组织峰会在吉尔吉斯斯坦首都比什凯克举行。习近平主席在俄罗斯总统弗拉基米尔·普京、…"
   },
   {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260902-%E8%A7%86%E9%A2%91-%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93-%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%B8%AE%E6%B4%BE%E7%9A%84%E6%8B%9B%E5%8B%9F%E5%B7%A5%E5%85%B7",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "【视频】社交媒体：哥伦比亚帮派的招募工具 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260902-%E8%A7%86%E9%A2%91-%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93-%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%B8%AE%E6%B4%BE%E7%9A%84%E6%8B%9B%E5%8B%9F%E5%B7%A5%E5%85%B7",
-    "pub_date": "2026-09-03 00:15:04",
-    "author": "",
-    "description": "02/09/2026 - 18:11 在哥伦比亚，武装组织招募未成年青少年的现象激增。未成年者往往被网络虚假账号诱骗，甚至因不顺从这些非法团体的要求而受到威胁，这些游击队武装通常与贩毒有关。本台西班牙文编辑部同仁 Paola Ariza对此进行了报道。 社交网络上许诺金钱、权力财富，以及让家人摆脱贫困的机会。这些承诺的背后，隐藏着招募人员使用的虚假账号，这些真正的“战争网红”助长哥伦比亚未成年人被招募的激增。仅在2025年，官方记录了3…",
-    "content": "02/09/2026 - 18:11 在哥伦比亚，武装组织招募未成年青少年的现象激增。未成年者往往被网络虚假账号诱骗，甚至因不顺从这些非法团体的要求而受到威胁，这些游击队武装通常与贩毒有关。本台西班牙文编辑部同仁 Paola Ariza对此进行了报道。 社交网络上许诺金钱、权力财富，以及让家人摆脱贫困的机会。这些承诺的背后，隐藏着招募人员使用的虚假账号，这些真正的“战争网红”助长哥伦比亚未成年人被招募的激增。仅在2025年，官方记录了386起此类案件。但实际数字可能远高于此。 考卡省某学校教师卡尔罗表示青少年“是在…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260902-%E6%99%AE%E4%BA%AC-%E4%BF%84%E4%B8%AD%E5%85%B3%E7%B3%BB-%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89-%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E4%BC%9A%E8%B0%88%E5%85%85%E5%AE%9E-%E7%83%AD%E7%83%88",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "普京：俄中关系“前所未有” 与习近平的会谈充实、热烈 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260902-%E6%99%AE%E4%BA%AC-%E4%BF%84%E4%B8%AD%E5%85%B3%E7%B3%BB-%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89-%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E4%BC%9A%E8%B0%88%E5%85%85%E5%AE%9E-%E7%83%AD%E7%83%88",
-    "pub_date": "2026-09-02 23:45:04",
-    "author": "",
-    "description": "02/09/2026 - 17:12 俄罗斯总统普京周三在海参崴于东方经济论坛期间会见到访的中国国务院副总理丁薛祥时表示，“俄中两国频繁的接触，包括最高级别的接触，凸显了双边关系前所未有的性质”。 此前，中国外交部发言人宣布，丁薛祥定于9月2日至4日赴俄罗斯出席第十一届东方经济论坛，并举行中俄投资合作委员会第十三次会议、能源合作委员会第二十三次会议和第八届中俄能源商务论坛。 普京在会上向丁薛祥等中方官员表示，“很高兴现在能在符拉迪沃斯托…",
-    "content": "02/09/2026 - 17:12 俄罗斯总统普京周三在海参崴于东方经济论坛期间会见到访的中国国务院副总理丁薛祥时表示，“俄中两国频繁的接触，包括最高级别的接触，凸显了双边关系前所未有的性质”。 此前，中国外交部发言人宣布，丁薛祥定于9月2日至4日赴俄罗斯出席第十一届东方经济论坛，并举行中俄投资合作委员会第十三次会议、能源合作委员会第二十三次会议和第八届中俄能源商务论坛。 普京在会上向丁薛祥等中方官员表示，“很高兴现在能在符拉迪沃斯托克再次与各位相见。去年，我们在圣彼得堡国际经济论坛上见过面，明天我们将共同参加东…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260902-%E4%BF%84%E5%A4%96%E4%BA%A4%E9%83%A8%E5%8F%AC%E8%A7%81%E5%BE%B7%E5%9B%BD%E4%B8%B4%E6%97%B6%E4%BB%A3%E5%8A%9E%EF%BC%8C%E6%AC%A7%E7%9B%9F%E5%B0%86%E5%BC%BA%E5%8C%96%E5%AF%B9%E4%BF%84%E5%88%B6%E8%A3%81%E7%9A%84%E6%89%A7%E8%A1%8C%E5%92%8C%E6%8F%B4%E4%B9%8C%E5%8A%9B%E5%BA%A6",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "俄外交部召见德国临时代办，欧盟将强化对俄制裁的执行和援乌力度 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260902-%E4%BF%84%E5%A4%96%E4%BA%A4%E9%83%A8%E5%8F%AC%E8%A7%81%E5%BE%B7%E5%9B%BD%E4%B8%B4%E6%97%B6%E4%BB%A3%E5%8A%9E%EF%BC%8C%E6%AC%A7%E7%9B%9F%E5%B0%86%E5%BC%BA%E5%8C%96%E5%AF%B9%E4%BF%84%E5%88%B6%E8%A3%81%E7%9A%84%E6%89%A7%E8%A1%8C%E5%92%8C%E6%8F%B4%E4%B9%8C%E5%8A%9B%E5%BA%A6",
-    "pub_date": "2026-09-02 23:45:04",
-    "author": "",
-    "description": "02/09/2026 - 17:35 综合9月2日国际文传电讯社和路透社消息，俄罗斯外交部当天召见了德国驻俄临时代办贝恩德·芬克。这名德国外交官在俄外交部大楼内部停留了不到一小时。俄罗斯外交部称，召见芬克，原因是德国政府前一日的“反俄行动和声明”。 芬克被召见的前一天，德国宣布对俄施加系列制裁措施，以回应8月5日发生在莱比锡机场的无人机事件。德国政府认为，此事与俄罗斯有关。德国外交部因此召见了俄罗斯驻德大使谢尔盖·涅恰耶夫，向其抗议。德…",
-    "content": "02/09/2026 - 17:35 综合9月2日国际文传电讯社和路透社消息，俄罗斯外交部当天召见了德国驻俄临时代办贝恩德·芬克。这名德国外交官在俄外交部大楼内部停留了不到一小时。俄罗斯外交部称，召见芬克，原因是德国政府前一日的“反俄行动和声明”。 芬克被召见的前一天，德国宣布对俄施加系列制裁措施，以回应8月5日发生在莱比锡机场的无人机事件。德国政府认为，此事与俄罗斯有关。德国外交部因此召见了俄罗斯驻德大使谢尔盖·涅恰耶夫，向其抗议。德国还要求俄罗斯在今年9月18日之前，关闭俄罗斯驻波恩总领馆，同时决定，叫停201…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20260902-%E7%BE%8E%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E8%AF%81%E5%AE%9E%E5%87%86%E5%A4%87%E5%AF%B9%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%8A%A0%E5%BE%81%E6%96%B0%E5%85%B3%E7%A8%8E-%E6%89%80%E6%9C%89%E7%9B%B8%E5%85%B3%E4%BC%81%E4%B8%9A%E9%83%BD%E7%9F%A5%E9%81%93%E5%8D%B3%E5%B0%86%E5%88%B0%E6%9D%A5",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "美商务部长证实准备对半导体加征新关税：所有相关企业都知道即将到来 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20260902-%E7%BE%8E%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E8%AF%81%E5%AE%9E%E5%87%86%E5%A4%87%E5%AF%B9%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%8A%A0%E5%BE%81%E6%96%B0%E5%85%B3%E7%A8%8E-%E6%89%80%E6%9C%89%E7%9B%B8%E5%85%B3%E4%BC%81%E4%B8%9A%E9%83%BD%E7%9F%A5%E9%81%93%E5%8D%B3%E5%B0%86%E5%88%B0%E6%9D%A5",
-    "pub_date": "2026-09-02 22:45:03",
-    "author": "",
-    "description": "02/09/2026 - 16:33 尽管面临科技行业警告，美国商务部长卢特尼克（Howard Lutnick）证实，特朗普政府正在酝酿针对半导体的新一轮关税措施，旨在抑制外国市场并促进国内生产与投资。 卢特尼克周三在接受消费者新闻与商业频道（CNBC）节目采访时表示：“我认为，你们将看到的是有针对性且深思熟虑的关税政策，其基本是在说：如果你在这里（美国）建厂，就无需缴纳（关税）；但如果你不在这里建厂，就得为进入这个世界上最大的市场付钱…",
-    "content": "02/09/2026 - 16:33 尽管面临科技行业警告，美国商务部长卢特尼克（Howard Lutnick）证实，特朗普政府正在酝酿针对半导体的新一轮关税措施，旨在抑制外国市场并促进国内生产与投资。 卢特尼克周三在接受消费者新闻与商业频道（CNBC）节目采访时表示：“我认为，你们将看到的是有针对性且深思熟虑的关税政策，其基本是在说：如果你在这里（美国）建厂，就无需缴纳（关税）；但如果你不在这里建厂，就得为进入这个世界上最大的市场付钱”。 卢特尼克补充道：“所有相关企业都知道它们（关税）即将到来”。此前，科技界人…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260902-%E5%B0%BC%E6%B3%8A%E5%B0%94%E7%9D%80%E6%89%8B%E9%87%8D%E5%BB%BA%E5%B0%BC%E4%B8%AD%E8%BE%B9%E5%A2%83%E9%A2%84%E8%AD%A6%E7%B3%BB%E7%BB%9F-%E5%AE%89%E8%A3%85%E5%9C%B0%E9%9C%87%E4%BC%A0%E6%84%9F%E5%99%A8-%E5%8D%AB%E6%98%9F%E7%B3%BB%E7%BB%9F%E7%AD%89",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "尼泊尔着手重建尼中边境预警系统 安装地震传感器、卫星系统等 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260902-%E5%B0%BC%E6%B3%8A%E5%B0%94%E7%9D%80%E6%89%8B%E9%87%8D%E5%BB%BA%E5%B0%BC%E4%B8%AD%E8%BE%B9%E5%A2%83%E9%A2%84%E8%AD%A6%E7%B3%BB%E7%BB%9F-%E5%AE%89%E8%A3%85%E5%9C%B0%E9%9C%87%E4%BC%A0%E6%84%9F%E5%99%A8-%E5%8D%AB%E6%98%9F%E7%B3%BB%E7%BB%9F%E7%AD%89",
-    "pub_date": "2026-09-02 22:15:02",
-    "author": "",
-    "description": "02/09/2026 - 16:11 据两名尼泊尔政府消息人士向路透社透露，在一场冰川洪水导致逾千人丧生一周后，尼泊尔计划在与中国接壤的部分边境地区重建‌山体滑坡预警系统，并将安装地震传感器、摄像头及卫星通信链路。 相关设备正被安装在尼泊尔拉苏瓦县的边境定居点蒂穆雷（Timure）。该定居点位于沿中尼边境的一条河谷通道上，此前，正是该区域的一处冰川崩塌，引发了裹挟着泥浆、水流和岩石的巨大洪流，并沿着山谷奔腾而下。已知此次灾害导致两国至少…",
-    "content": "02/09/2026 - 16:11 据两名尼泊尔政府消息人士向路透社透露，在一场冰川洪水导致逾千人丧生一周后，尼泊尔计划在与中国接壤的部分边境地区重建‌山体滑坡预警系统，并将安装地震传感器、摄像头及卫星通信链路。 相关设备正被安装在尼泊尔拉苏瓦县的边境定居点蒂穆雷（Timure）。该定居点位于沿中尼边境的一条河谷通道上，此前，正是该区域的一处冰川崩塌，引发了裹挟着泥浆、水流和岩石的巨大洪流，并沿着山谷奔腾而下。已知此次灾害导致两国至少有1114人确认遇难——绝大多数在尼泊尔，另有近4000人下落不明。 即将部署监…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cwyzd1jp8gqo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -218,17 +328,6 @@ const jsonData = [
     "author": "",
     "description": "重获自由未有期 回顾黄之锋的公共生涯 香港民主派活动人士黄之锋被控违反《香港国安法》下的“串谋勾结外国势力”罪，2026年9月2日在高等法院出庭并认罪，法官将案件押后判刑。 “串谋勾结外国势力”罪最高可判处终身监禁。现年29岁的黄之锋自2020年起，因涉及多宗案件先后被还押及服刑，至今失去自由逾2,100天。 他原本预计于2027年1月获释，但2025年6月在服刑期间再次被捕，他重获自由的日子仍是未知之数。",
     "content": "重获自由未有期 回顾黄之锋的公共生涯 香港民主派活动人士黄之锋被控违反《香港国安法》下的“串谋勾结外国势力”罪，2026年9月2日在高等法院出庭并认罪，法官将案件押后判刑。 “串谋勾结外国势力”罪最高可判处终身监禁。现年29岁的黄之锋自2020年起，因涉及多宗案件先后被还押及服刑，至今失去自由逾2,100天。 他原本预计于2027年1月获释，但2025年6月在服刑期间再次被捕，他重获自由的日子仍是未知之数。"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20260902-%E7%AA%83%E5%8F%96%E5%95%86%E4%B8%9A%E6%9C%BA%E5%AF%86%E8%A2%AB%E5%88%A4%E5%9B%9A12%E4%B8%AA%E6%9C%88%E5%87%8F1%E5%A4%A9-%E5%89%8D%E8%B0%B7%E6%AD%8C%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%81%E6%9E%97%E8%91%B3-%E5%AF%B9%E6%89%80%E6%9C%89%E6%B6%89%E6%A1%88%E4%BA%BA%E5%91%98%E6%84%9F%E5%88%B0%E6%8A%B1%E6%AD%89",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "窃取商业机密被判囚12个月减1天 前谷歌工程师丁林葳：对所有涉案人员感到抱歉 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20260902-%E7%AA%83%E5%8F%96%E5%95%86%E4%B8%9A%E6%9C%BA%E5%AF%86%E8%A2%AB%E5%88%A4%E5%9B%9A12%E4%B8%AA%E6%9C%88%E5%87%8F1%E5%A4%A9-%E5%89%8D%E8%B0%B7%E6%AD%8C%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%81%E6%9E%97%E8%91%B3-%E5%AF%B9%E6%89%80%E6%9C%89%E6%B6%89%E6%A1%88%E4%BA%BA%E5%91%98%E6%84%9F%E5%88%B0%E6%8A%B1%E6%AD%89",
-    "pub_date": "2026-09-02 21:45:03",
-    "author": "",
-    "description": "02/09/2026 - 15:35 周二，一名窃取了谷歌人工智能技术专有信息的前谷歌软件工程师被判处近一年监禁。美国联邦地区法官查布里亚（Vince Chhabria）判处丁林葳（Linwei Ding）12个月，减去一天的刑期，并处以两年监管释放。法官还责令丁林葳向谷歌支付超过19.8万美元的赔偿金，并缴纳2500美元罚款。 法官还驳回了丁林葳提出的在上诉期间暂缓执行刑罚的请求。他必须在90天内向有关部门报到服刑。代表丁林葳的律师丰…",
-    "content": "02/09/2026 - 15:35 周二，一名窃取了谷歌人工智能技术专有信息的前谷歌软件工程师被判处近一年监禁。美国联邦地区法官查布里亚（Vince Chhabria）判处丁林葳（Linwei Ding）12个月，减去一天的刑期，并处以两年监管释放。法官还责令丁林葳向谷歌支付超过19.8万美元的赔偿金，并缴纳2500美元罚款。 法官还驳回了丁林葳提出的在上诉期间暂缓执行刑罚的请求。他必须在90天内向有关部门报到服刑。代表丁林葳的律师丰多（Grant Fondo）请求判处三个月的居家监禁。丰多告诉法官，丁没有犯罪记…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c4g5djd75gpo/simp?at_medium=RSS&at_campaign=rss",
@@ -319,39 +418,6 @@ const jsonData = [
     "content": "艾莎 2026年9月2日 上周，北京一处屏幕上播放着官方媒体对西藏洪灾后续情况的报道。 Greg Baker/Agence France-Presse — Getty Images Rescue workers were only just starting to assess the scope of loss and destruction from deadly Himalayan floods last week when Chinese authorities turned to another chal…"
   },
   {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/opinion/20260902/russia-putin-writers-literature/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "当普京把铁锤挥向文学",
-    "link": "https://cn.nytimes.com/opinion/20260902/russia-putin-writers-literature/dual",
-    "pub_date": "2026-09-02 11:06:02",
-    "author": "",
-    "description": "NATASHA KISELEVA2026年9月2日 Martha Verschaffel A novelist I know recently wanted to do something that is now forbidden in Russia: publish a story about two women in love. 我认识的一位小说家最近想做一件在俄罗斯已被禁止的事：发表一个关于两名女子相恋的故事。 To do so…",
-    "content": "NATASHA KISELEVA 2026年9月2日 Martha Verschaffel A novelist I know recently wanted to do something that is now forbidden in Russia: publish a story about two women in love. 我认识的一位小说家最近想做一件在俄罗斯已被禁止的事：发表一个关于两名女子相恋的故事。 To do so, she had to hide her characters’ gende…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20260902/g20-meeting-china-trump-bishkek/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "上合组织峰会与G20折射中美全球秩序博弈",
-    "link": "https://cn.nytimes.com/asia-pacific/20260902/g20-meeting-china-trump-bishkek/dual",
-    "pub_date": "2026-09-02 10:06:01",
-    "author": "",
-    "description": "DAVID PIERSON2026年9月2日 Vyacheslav Oseledko/Agence France-Presse — Getty Images; Sam Wolfe/Reuters The Chinese leader Xi Jinping arrived in Central Asia this week with a message for a world increasingly unsettled by Presi…",
-    "content": "DAVID PIERSON 2026年9月2日 Vyacheslav Oseledko/Agence France-Presse — Getty Images; Sam Wolfe/Reuters The Chinese leader Xi Jinping arrived in Central Asia this week with a message for a world increasingly unsettled by President Trump: China has friends and influ…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20260902/bessent-china-iran-g20/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "中国反对批评其出口战略，G20未能发表联合声明",
-    "link": "https://cn.nytimes.com/business/20260902/bessent-china-iran-g20/dual",
-    "pub_date": "2026-09-02 10:06:01",
-    "author": "",
-    "description": "ALAN RAPPEPORT, JIM TANKERSLEY2026年9月2日周二，美国财长贝森特在G20峰会的一场活动上讲话。 Allison Joyce/Agence France-Presse — Getty Images Top economic officials from the Group of 20 nations were unable to agree on a joint statement on Tuesday …",
-    "content": "ALAN RAPPEPORT, JIM TANKERSLEY 2026年9月2日 周二，美国财长贝森特在G20峰会的一场活动上讲话。 Allison Joyce/Agence France-Presse — Getty Images Top economic officials from the Group of 20 nations were unable to agree on a joint statement on Tuesday because of resistance from China, whic…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cz6zpzwwxlzo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -407,28 +473,6 @@ const jsonData = [
     "content": "BBC / “大家都是做做样子”：香港高中公民科推行五周年 香港高中以“公民与社会发展科”取代通识科至今已五年，学生前往中国大陆考察亦由过去的自愿参与，逐步成为课程安排的一部分。2025/26学年，约有5万名高中学生参与相关考察，政府资助逾8,400万港元。 官方文件指，内地考察并非一般旅游活动，而是公民科的重要学习内容，旨在让学生了解中国国情及发展。 BBC中文采访老师及学生，了解他们在考察期间的所见所闻，以及对这类活动的看法。 影片制作：高珊珊、廖伟铿"
   },
   {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20260901/shein-ipo-china/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "Shein尴尬IPO背后，被时代抛弃的快时尚模式",
-    "link": "https://cn.nytimes.com/business/20260901/shein-ipo-china/dual",
-    "pub_date": "2026-09-01 14:36:02",
-    "author": "",
-    "description": "黄瑞黎2026年9月1日法国西部城市昂热的一家百货商场里陈列着希音的产品，摄于今年2月。 Loic Venance/Agence France-Presse — Getty Images When Shein unveiled itself to the world at the height of its popularity several years ago, it touted a modern era for fashion …",
-    "content": "黄瑞黎 2026年9月1日 法国西部城市昂热的一家百货商场里陈列着希音的产品，摄于今年2月。 Loic Venance/Agence France-Presse — Getty Images When Shein unveiled itself to the world at the height of its popularity several years ago, it touted a modern era for fashion — one built on speed, technology and a…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20260901/chinese-cars-us-sales-ban/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "这辆吉利SUV很棒，但美国消费者“永远”无法买到它",
-    "link": "https://cn.nytimes.com/business/20260901/chinese-cars-us-sales-ban/dual",
-    "pub_date": "2026-09-01 14:06:02",
-    "author": "",
-    "description": "ERIC A. TAUB2026年9月1日去年在中国一场车展上的吉利银河M9。28年前在中国成立的吉利如今在全球的汽车销量已接近福特。 John Ricky/Anadolu, via Getty Images For car shoppers looking for a luxury three-row crossover S.U.V., the Galaxy M9 checks all the boxes: It has heated…",
-    "content": "ERIC A. TAUB 2026年9月1日 去年在中国一场车展上的吉利银河M9。28年前在中国成立的吉利如今在全球的汽车销量已接近福特。 John Ricky/Anadolu, via Getty Images For car shoppers looking for a luxury three-row crossover S.U.V., the Galaxy M9 checks all the boxes: It has heated and massaging leather seats throughou…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cgmryk7xky8o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -449,28 +493,6 @@ const jsonData = [
     "author": "",
     "description": "Reuters / 许仰天（右）于2008年创立Shein。 快时尚巨头Shein历经漫长上市之路后，于周二（9月1日）在香港挂牌上市，其备受期待的股票市场首秀中，股价下跌近8%。 此前，Shein曾尝试赴美国及英国上市，但均未成功，原因包括外界对其劳工待遇及环境影响等问题的担忧。 Shein曾被估值接近1,000亿美元（6,720亿元人民币；3.17兆元新台币），如今市值约仅为当时的四分之一。该公司同时面临激烈竞争及贸易紧张等其他挑战…",
     "content": "Reuters / 许仰天（右）于2008年创立Shein。 快时尚巨头Shein历经漫长上市之路后，于周二（9月1日）在香港挂牌上市，其备受期待的股票市场首秀中，股价下跌近8%。 此前，Shein曾尝试赴美国及英国上市，但均未成功，原因包括外界对其劳工待遇及环境影响等问题的担忧。 Shein曾被估值接近1,000亿美元（6,720亿元人民币；3.17兆元新台币），如今市值约仅为当时的四分之一。该公司同时面临激烈竞争及贸易紧张等其他挑战。 由于能够透过中国庞大的工厂网络，以极低价格迅速供应最新流行服饰，Shein获…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c3d752l9vxxo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "尼泊爾—西藏泥石流：吉隆口岸為何是朝聖之路上的重要關口？",
-    "link": "https://www.bbc.com/zhongwen/articles/c3d752l9vxxo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-09-01 13:14:23",
-    "author": "",
-    "description": "Getty Images 8月26日，尼泊尔发生泥石流，一段洪灾冲击西藏吉隆口岸的影片随后在网上广泛传播：片中的人起初一切如常，在口岸前走动，然后洪灾冲过口岸，几秒间将一切淹没。 截至8月31日，两国死亡人数增至950人、近4500人失踪——当中包括不少朝圣者。 吉隆口岸位于喜马拉雅山脉中段，是中国和尼泊尔之间重要的陆路口岸，也是朝圣者通往冈仁波齐峰的重要关口。 位于西藏西部的冈仁波齐峰是唯一跨越四大宗教的共同圣山：印度教、藏传佛教、苯…",
-    "content": "Getty Images 8月26日，尼泊尔发生泥石流，一段洪灾冲击西藏吉隆口岸的影片随后在网上广泛传播：片中的人起初一切如常，在口岸前走动，然后洪灾冲过口岸，几秒间将一切淹没。 截至8月31日，两国死亡人数增至950人、近4500人失踪——当中包括不少朝圣者。 吉隆口岸位于喜马拉雅山脉中段，是中国和尼泊尔之间重要的陆路口岸，也是朝圣者通往冈仁波齐峰的重要关口。 位于西藏西部的冈仁波齐峰是唯一跨越四大宗教的共同圣山：印度教、藏传佛教、苯教和耆那教。在印度教眼中，冈仁波齐峰是湿婆神的居所；藏传佛教与耆那教信徒则奉其为…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20260901/nepal-floods-balen-shah-gen-z/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "如何重建家园？尼泊尔年轻总理面临考验",
-    "link": "https://cn.nytimes.com/world/20260901/nepal-floods-balen-shah-gen-z/dual",
-    "pub_date": "2026-09-01 13:06:02",
-    "author": "",
-    "description": "BINOD GHIMIRE, MUJIB MASHAL2026年9月1日周日，尼泊尔德维加特地区，由于喜马拉雅地区冰川崩塌引发洪水，河水水位上涨。 Atul Loke for The New York Times Nepal’s government is led by a 36-year-old former engineer turned rapper, Balendra Shah, who swept to power just …",
-    "content": "BINOD GHIMIRE, MUJIB MASHAL 2026年9月1日 周日，尼泊尔德维加特地区，由于喜马拉雅地区冰川崩塌引发洪水，河水水位上涨。 Atul Loke for The New York Times Nepal’s government is led by a 36-year-old former engineer turned rapper, Balendra Shah , who swept to power just months ago on the back of youth anger…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cp8dkp32xndo/simp?at_medium=RSS&at_campaign=rss",
@@ -691,17 +713,6 @@ const jsonData = [
     "author": "",
     "description": "Getty Images 最新数据显示，全球海洋的温度已升至有纪录以来最高水平，原因包括人类造成的气候变化，以及日益增强的厄尔尼诺现象（El Niño；圣婴现象）。 根据欧洲哥白尼气候变化服务（Copernicus Climate Change Service）的数据，上周六，除极地地区外，全球海洋表面的平均温度达到摄氏21.1°（华氏70°）。 这一数字略高于2024年3月三个不同日子录得的摄氏21.09°，亦远高于一年中这个时节的平…",
     "content": "Getty Images 最新数据显示，全球海洋的温度已升至有纪录以来最高水平，原因包括人类造成的气候变化，以及日益增强的厄尔尼诺现象（El Niño；圣婴现象）。 根据欧洲哥白尼气候变化服务（Copernicus Climate Change Service）的数据，上周六，除极地地区外，全球海洋表面的平均温度达到摄氏21.1°（华氏70°）。 这一数字略高于2024年3月三个不同日子录得的摄氏21.09°，亦远高于一年中这个时节的平均水平。 海洋升温可能带来广泛影响，包括加剧极端天气、推高海平面，以及损害海洋生…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c5y7l9dng2eo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "普京首登擇捉島：俄羅斯與中國共同牽制日本？",
-    "link": "https://www.bbc.com/zhongwen/articles/c5y7l9dng2eo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-08-25 17:28:45",
-    "author": "",
-    "description": "AFP via Getty Images / 普京（普丁）在访问伊图择捉岛期间大啖鱼子酱。 2026年8月13日，俄罗斯总统普京（Vladimir Puting 普丁）首次以总统身份登上与日本存在主权争议的择捉岛（俄称伊图鲁普岛），视察当地水产加工厂、医院与学校，并与岛民交流。 这是普京执政逾25年来首次踏足“北方四岛”（俄称南千岛群岛）之一。 日本首相高市早苗当天表达强烈抗议，称此举“绝对无法容许”，伤害日本国民感情，并使日俄中长期关…",
-    "content": "AFP via Getty Images / 普京（普丁）在访问伊图择捉岛期间大啖鱼子酱。 2026年8月13日，俄罗斯总统普京（Vladimir Puting 普丁）首次以总统身份登上与日本存在主权争议的择捉岛（俄称伊图鲁普岛），视察当地水产加工厂、医院与学校，并与岛民交流。 这是普京执政逾25年来首次踏足“北方四岛”（俄称南千岛群岛）之一。 日本首相高市早苗当天表达强烈抗议，称此举“绝对无法容许”，伤害日本国民感情，并使日俄中长期关系恢复更为困难。外相茂木敏充则召见俄驻日大使诺兹德列夫（Nikolai Nozd…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c804e143e9yo/simp?at_medium=RSS&at_campaign=rss",
