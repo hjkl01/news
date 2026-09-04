@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-09-03T10:26:57.781Z",
-  "ended_at": "2026-09-03T10:26:58.028Z",
-  "duration_ms": 247,
+  "started_at": "2026-09-04T00:39:07.493Z",
+  "ended_at": "2026-09-04T00:39:07.736Z",
+  "duration_ms": 243,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -17,12 +17,12 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 47,
-    "failed_sources": 12,
-    "circuit_open_sources": 12,
+    "cache_hit_sources": 48,
+    "failed_sources": 11,
+    "circuit_open_sources": 11,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1402,
-    "total_items_after_retention": 1192,
+    "total_items_after_dedupe": 1411,
+    "total_items_after_retention": 1198,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -30,7 +30,7 @@
     {
       "title": "网易新闻 / 今日关注",
       "url": "https://plink.anyfeeder.com/netease/today",
-      "reason": "HTTP 503",
+      "reason": "HTTP 404",
       "skippedByCircuit": true
     },
     {
@@ -72,19 +72,13 @@
     {
       "title": "路由器交流",
       "url": "https://www.acwifi.net/feed",
-      "reason": "The operation was aborted.",
+      "reason": "Invalid character in tag name\nLine: 0\nColumn: 384\nChar: ;",
       "skippedByCircuit": true
     },
     {
       "title": "技術討論區 | 草榴社區 - t66y.com",
       "url": "https://rsshub.app/t66y/7",
       "reason": "HTTP 403",
-      "skippedByCircuit": true
-    },
-    {
-      "title": "软餐 - 新鲜软件资讯",
-      "url": "https://plink.anyfeeder.com/ruancan",
-      "reason": "HTTP 504",
       "skippedByCircuit": true
     },
     {
@@ -104,7 +98,7 @@
     {
       "title": "网易新闻 / 今日关注",
       "url": "https://plink.anyfeeder.com/netease/today",
-      "reason": "HTTP 503"
+      "reason": "HTTP 404"
     },
     {
       "title": "SBS 中文",
@@ -139,17 +133,12 @@
     {
       "title": "路由器交流",
       "url": "https://www.acwifi.net/feed",
-      "reason": "The operation was aborted."
+      "reason": "Invalid character in tag name\nLine: 0\nColumn: 384\nChar: ;"
     },
     {
       "title": "技術討論區 | 草榴社區 - t66y.com",
       "url": "https://rsshub.app/t66y/7",
       "reason": "HTTP 403"
-    },
-    {
-      "title": "软餐 - 新鲜软件资讯",
-      "url": "https://plink.anyfeeder.com/ruancan",
-      "reason": "HTTP 504"
     },
     {
       "title": "FreeBuf 关注黑客",
