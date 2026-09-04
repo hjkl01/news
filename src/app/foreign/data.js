@@ -1,5 +1,192 @@
 const jsonData = [
   {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260904-%E5%9B%BD%E6%B0%91%E5%85%9A%E4%B8%BB%E5%B8%AD%E9%83%91%E4%B8%BD%E6%96%87%E9%80%A0%E5%8A%BF%E9%99%A9%E9%81%AD%E5%91%BC%E5%B7%B4%E6%8E%8C-%E6%9B%B4%E8%A2%AB%E6%89%B9%E9%80%89%E4%B8%BE%E6%88%98%E7%95%A5%E9%94%99%E8%AF%AF%E8%8B%A5%E8%93%9D%E7%99%BD%E5%90%88%E7%A0%B4%E5%B1%80%E5%B0%86%E6%88%90%E7%A5%B8%E9%A6%96",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "国民党主席郑丽文造势险遭呼巴掌 更被批选举战略错误若蓝白合破局将成祸首 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260904-%E5%9B%BD%E6%B0%91%E5%85%9A%E4%B8%BB%E5%B8%AD%E9%83%91%E4%B8%BD%E6%96%87%E9%80%A0%E5%8A%BF%E9%99%A9%E9%81%AD%E5%91%BC%E5%B7%B4%E6%8E%8C-%E6%9B%B4%E8%A2%AB%E6%89%B9%E9%80%89%E4%B8%BE%E6%88%98%E7%95%A5%E9%94%99%E8%AF%AF%E8%8B%A5%E8%93%9D%E7%99%BD%E5%90%88%E7%A0%B4%E5%B1%80%E5%B0%86%E6%88%90%E7%A5%B8%E9%A6%96",
+    "pub_date": "2026-09-04 16:45:04",
+    "author": "",
+    "description": "04/09/2026 - 10:27 国民党主席郑丽文陪同新竹县长参选人徐欣莹与竹北市长参选人吴旭智在3日一同登记参选，却遭新竹前县长范振宗批评，蓝白合破局罪魁祸首，更作势要打郑丽文巴掌。此举引出选举蓝白合的争议。 国民党新竹县长参选人徐欣莹与竹北市长参选人吴旭智3日登记参选台湾九合一选举，当天国民党主席郑丽文南下陪同造势。同天，新竹前县长范振宗陪同民众党新竹县议员林硕彦登记。 然而，造势大会最后却演变成一场难堪的政治秀。范振宗受邀为国…",
+    "content": "04/09/2026 - 10:27 国民党主席郑丽文陪同新竹县长参选人徐欣莹与竹北市长参选人吴旭智在3日一同登记参选，却遭新竹前县长范振宗批评，蓝白合破局罪魁祸首，更作势要打郑丽文巴掌。此举引出选举蓝白合的争议。 国民党新竹县长参选人徐欣莹与竹北市长参选人吴旭智3日登记参选台湾九合一选举，当天国民党主席郑丽文南下陪同造势。同天，新竹前县长范振宗陪同民众党新竹县议员林硕彦登记。 然而，造势大会最后却演变成一场难堪的政治秀。范振宗受邀为国民党参选人站台，却当场批评郑丽文带领国民党选举战略错误，指国民党内部都弄不好，对…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260904-%E6%95%8F%E6%98%82%E8%8E%B1%E8%AE%BF%E9%97%AE%E8%B6%8A%E5%8D%97%EF%BC%8C%E5%AF%BB%E6%B1%82%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%91%86%E8%84%B1-%E5%A4%96%E4%BA%A4%E5%AD%A4%E7%AB%8B",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "敏昂莱访问越南，寻求进一步摆脱“外交孤立” - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260904-%E6%95%8F%E6%98%82%E8%8E%B1%E8%AE%BF%E9%97%AE%E8%B6%8A%E5%8D%97%EF%BC%8C%E5%AF%BB%E6%B1%82%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%91%86%E8%84%B1-%E5%A4%96%E4%BA%A4%E5%AD%A4%E7%AB%8B",
+    "pub_date": "2026-09-04 16:45:04",
+    "author": "",
+    "description": "04/09/2026 - 10:42 综合美联社和法新社的消息，缅甸军方支持的政府领导人敏昂莱周五（9月4日）抵达越南，与越南领导人举行会谈。预计在为期三天的访问期间，敏昂莱将与越南国家主席苏林举行会晤，并参加经济论坛，同时访问数字科技和电子企业。 据悉，这次访问是敏昂莱上任后第三次访问东盟成员国。目前，他正寻求恢复自己在东盟的地位，东盟共有11个成员国，缅甸和越南均属于该组织成员。 自今年4月就任总统以来，敏昂莱不断加强外交活动。分析…",
+    "content": "04/09/2026 - 10:42 综合美联社和法新社的消息，缅甸军方支持的政府领导人敏昂莱周五（9月4日）抵达越南，与越南领导人举行会谈。预计在为期三天的访问期间，敏昂莱将与越南国家主席苏林举行会晤，并参加经济论坛，同时访问数字科技和电子企业。 据悉，这次访问是敏昂莱上任后第三次访问东盟成员国。目前，他正寻求恢复自己在东盟的地位，东盟共有11个成员国，缅甸和越南均属于该组织成员。 自今年4月就任总统以来，敏昂莱不断加强外交活动。分析人士称，这些外交活动表明他希望重建地区关系。2021年2月，当时担任缅甸陆军总司…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/clyk1degv1ro/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "加拿大新鈔首印查爾斯國王肖像，為英國以外首例",
+    "link": "https://www.bbc.com/zhongwen/articles/clyk1degv1ro/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-09-04 16:09:11",
+    "author": "",
+    "description": "Supplied by the Bank of Canada / 这种竖版塑料钞票将于明年初开始流通。 加拿大推出新的20元纸币，上面印有国王查尔斯三世（King Charles III）的肖像。这是自2022年女王伊丽莎白二世逝世后，逾70年来首次有新君主登上加拿大纸币。 这张纸币于周四（9月3日）在加拿大银行的活动上亮相，央行行长蒂夫·马克勒姆（Tiff Macklem）称这是“非常特别的一天”。 这张纸钞的独特之处在于其竖版设计。…",
+    "content": "Supplied by the Bank of Canada / 这种竖版塑料钞票将于明年初开始流通。 加拿大推出新的20元纸币，上面印有国王查尔斯三世（King Charles III）的肖像。这是自2022年女王伊丽莎白二世逝世后，逾70年来首次有新君主登上加拿大纸币。 这张纸币于周四（9月3日）在加拿大银行的活动上亮相，央行行长蒂夫·马克勒姆（Tiff Macklem）称这是“非常特别的一天”。 这张纸钞的独特之处在于其竖版设计。背面印有法国维米岭（Vimy Ridge）纪念碑图案，以纪念加拿大在一战中的角色…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c89jgd5gn14o/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "福克蘭群島爭議升溫：阿根廷宣佈制裁附近油企，特朗普暗示未必協助英國",
+    "link": "https://www.bbc.com/zhongwen/articles/c89jgd5gn14o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-09-04 15:41:46",
+    "author": "",
+    "description": "Reuters / 阿根廷总统米莱 阿根廷总统哈维尔·米莱（Javier Milei；米雷伊）宣布，将对任何在福克兰群岛附近开采石油的企业实施经济制裁。这令阿根廷与英国之间就这个南大西洋群岛的主权争议，再度升温。 米莱在周四（9月3日）晚发表全国讲话，他表示“变革之风”正有利于阿根廷的主权诉求，并指美方可能重新考虑在此问题上的中立立场，这令他信心大增。 米莱的讲话前不久，美国总统特朗普（Donald Trump；川普）接受 GB New…",
+    "content": "Reuters / 阿根廷总统米莱 阿根廷总统哈维尔·米莱（Javier Milei；米雷伊）宣布，将对任何在福克兰群岛附近开采石油的企业实施经济制裁。这令阿根廷与英国之间就这个南大西洋群岛的主权争议，再度升温。 米莱在周四（9月3日）晚发表全国讲话，他表示“变革之风”正有利于阿根廷的主权诉求，并指美方可能重新考虑在此问题上的中立立场，这令他信心大增。 米莱的讲话前不久，美国总统特朗普（Donald Trump；川普）接受 GB News 采访时暗示，若英国与阿根廷未来就福克兰群岛爆发冲突，他未必会出手相助。 特朗…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260904-%E8%A5%BF%E4%B9%9D%E7%AA%81%E5%8F%96%E6%B6%88%E6%9C%89%E7%A4%BE%E8%BF%90%E8%83%8C%E6%99%AF%E9%9F%B3%E4%B9%90%E4%BA%BA%E9%BB%84%E8%A1%8D%E4%BB%81%E6%BC%94%E5%87%BA-%E6%8B%92%E8%B0%88%E5%8E%9F%E5%9B%A0",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "西九突取消有社运背景音乐人黄衍仁演出 拒谈原因 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260904-%E8%A5%BF%E4%B9%9D%E7%AA%81%E5%8F%96%E6%B6%88%E6%9C%89%E7%A4%BE%E8%BF%90%E8%83%8C%E6%99%AF%E9%9F%B3%E4%B9%90%E4%BA%BA%E9%BB%84%E8%A1%8D%E4%BB%81%E6%BC%94%E5%87%BA-%E6%8B%92%E8%B0%88%E5%8E%9F%E5%9B%A0",
+    "pub_date": "2026-09-04 14:45:06",
+    "author": "",
+    "description": "04/09/2026 - 08:44 有「社运歌手」之称的独立音乐人黄衍仁和低音大提琴手冯晟睎原订今(4日)晚在西九文化区M+博物馆的「M+夜不同」系列中演出，但突然在演出前夕被取消，馆方和演出者均没有解释改动原因，但曾经获得最佳原创电影音乐奖的黄衍仁指出，西九对其演出「一直由头support(支持)到尾」，意味取消与外力有关。 「M+夜不同」是M+博物馆在特定月份一个周五晚上举办的大型艺文派对，9月4日的演出名单早已订出，黄衍仁演出的…",
+    "content": "04/09/2026 - 08:44 有「社运歌手」之称的独立音乐人黄衍仁和低音大提琴手冯晟睎原订今(4日)晚在西九文化区M+博物馆的「M+夜不同」系列中演出，但突然在演出前夕被取消，馆方和演出者均没有解释改动原因，但曾经获得最佳原创电影音乐奖的黄衍仁指出，西九对其演出「一直由头support(支持)到尾」，意味取消与外力有关。 「M+夜不同」是M+博物馆在特定月份一个周五晚上举办的大型艺文派对，9月4日的演出名单早已订出，黄衍仁演出的宣传海报早在 7月底已上载西九的社交平台，但就在演出前夕，M+却突然宣布，「因应…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260904-%E9%A6%99%E6%B8%AF%E9%A9%AC%E4%BC%9A%E4%B8%A4%E5%BA%A6%E5%8F%97%E6%8C%AB-%E4%BB%8E%E5%8C%96%E8%B5%9B%E9%A9%AC%E7%AA%81%E6%97%A0%E9%99%90%E6%9C%9F%E5%BB%B6%E6%9C%9F-%E6%96%99%E4%B8%8E%E9%9D%9E%E6%B3%95%E8%B5%8C%E5%8D%9A%E9%9A%BE%E9%98%BB%E4%B8%AD%E5%9B%BD%E8%B5%84%E9%87%91%E5%A4%96%E6%B5%81%E6%9C%89%E5%85%B3",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "香港马会两度受挫 从化赛马突无限期延期 料与非法赌博难阻中国资金外流有关 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260904-%E9%A6%99%E6%B8%AF%E9%A9%AC%E4%BC%9A%E4%B8%A4%E5%BA%A6%E5%8F%97%E6%8C%AB-%E4%BB%8E%E5%8C%96%E8%B5%9B%E9%A9%AC%E7%AA%81%E6%97%A0%E9%99%90%E6%9C%9F%E5%BB%B6%E6%9C%9F-%E6%96%99%E4%B8%8E%E9%9D%9E%E6%B3%95%E8%B5%8C%E5%8D%9A%E9%9A%BE%E9%98%BB%E4%B8%AD%E5%9B%BD%E8%B5%84%E9%87%91%E5%A4%96%E6%B5%81%E6%9C%89%E5%85%B3",
+    "pub_date": "2026-09-04 14:45:05",
+    "author": "",
+    "description": "04/09/2026 - 08:36 继投资10亿港元(下同，折算约1.1亿欧元)的篮球博彩合法化於4月突被叫停後，香港赛马会投资百亿元的广州从化马场，原订10月底在该处举行的首场国际赛马赛事，亦因接获中国内地有关部门「最新风险评估」而突告延期，且未有新的开赛日期。事件惹来热议，原因亦众说纷纭，有评论认为，事件应与中国近来收紧银根丶防止资金外流有关，因为从化马场虽不设投注，但资金可循境外非法投注流走。 香港赛马会(简称马会)前(2日)天…",
+    "content": "04/09/2026 - 08:36 继投资10亿港元(下同，折算约1.1亿欧元)的篮球博彩合法化於4月突被叫停後，香港赛马会投资百亿元的广州从化马场，原订10月底在该处举行的首场国际赛马赛事，亦因接获中国内地有关部门「最新风险评估」而突告延期，且未有新的开赛日期。事件惹来热议，原因亦众说纷纭，有评论认为，事件应与中国近来收紧银根丶防止资金外流有关，因为从化马场虽不设投注，但资金可循境外非法投注流走。 香港赛马会(简称马会)前(2日)天举行周年大会，公布2025至26年度的博彩及奖券投注总额均创下3317亿元新高，…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cwyznp4qlg9o/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "行走在紐約：我發現監控攝像頭數量遠超想像",
+    "link": "https://www.bbc.com/zhongwen/articles/cwyznp4qlg9o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-09-04 14:25:54",
+    "author": "",
+    "description": "BBC/ Serenity Strull 在隐私与安全之间的权衡中，了解你所在社区的监控基础设施究竟有多少，会有所帮助。现在有一些简单的方法可以做到这一点。 我没有告诉任何人，我要与监控科技监督项目（Surveillance Technology Oversight Project）的执行主任米歇尔·达尔（Michelle Dahl）见面。这是一个监督组织。但当我在纽约布鲁克林与她打招呼时，系统已经知道我们在一起。 “如果你不是刻意去找…",
+    "content": "BBC/ Serenity Strull 在隐私与安全之间的权衡中，了解你所在社区的监控基础设施究竟有多少，会有所帮助。现在有一些简单的方法可以做到这一点。 我没有告诉任何人，我要与监控科技监督项目（Surveillance Technology Oversight Project）的执行主任米歇尔·达尔（Michelle Dahl）见面。这是一个监督组织。但当我在纽约布鲁克林与她打招呼时，系统已经知道我们在一起。 “如果你不是刻意去找，这一切其实是隐形的。”达尔说着指向一根路灯——两个标有纽约市警察局（NYPD）…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c1dlr007vkgo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "豬腎在人體內運作271天——這會是器官移植的未來嗎？",
+    "link": "https://www.bbc.com/zhongwen/articles/c1dlr007vkgo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-09-04 13:57:06",
+    "author": "",
+    "description": "Kate Flock/Massachusetts General Hospital / 患者蒂姆·安德鲁斯（中）与川井达夫医生（左）和莱昂纳多·里埃拉医生（右）合影 美国病人蒂姆·安德鲁斯（Tim Andrews）的肾脏功能正在衰竭。去年，他接受了一个由猪只移植的肾脏。猪肾在他体内正常运作了271天，创下目前最长的国际纪录。 安德鲁斯表示，这次移植让他“重新有了希望”，也让他免于数月来往医院，依靠透析机过滤血液（俗称洗肾）。 不过，这个…",
+    "content": "Kate Flock/Massachusetts General Hospital / 患者蒂姆·安德鲁斯（中）与川井达夫医生（左）和莱昂纳多·里埃拉医生（右）合影 美国病人蒂姆·安德鲁斯（Tim Andrews）的肾脏功能正在衰竭。去年，他接受了一个由猪只移植的肾脏。猪肾在他体内正常运作了271天，创下目前最长的国际纪录。 安德鲁斯表示，这次移植让他“重新有了希望”，也让他免于数月来往医院，依靠透析机过滤血液（俗称洗肾）。 不过，这个猪肾最终失去功能并被移除。安德鲁斯其后需要短暂接受透析，直到找到合适的人类捐赠器…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/obits/20260904/gloria-steinem-dead/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "美国女权运动标志性人物斯泰纳姆去世，享年92岁",
+    "link": "https://cn.nytimes.com/obits/20260904/gloria-steinem-dead/dual",
+    "pub_date": "2026-09-04 13:36:02",
+    "author": "",
+    "description": "KATHARINE Q. SEELYE2026年9月4日 Gloria Steinem, the feminist crusader who galvanized the modern women’s movement, helping millions of women develop a sense of self-worth and gain a measure of equality, died Wednesday at her…",
+    "content": "KATHARINE Q. SEELYE 2026年9月4日 Gloria Steinem, the feminist crusader who galvanized the modern women’s movement, helping millions of women develop a sense of self-worth and gain a measure of equality, died Wednesday at her home in New York City. She was 92. 推动现…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cx2z87ekee1o/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "「我面試完就被捲走了積蓄」——Z世代求職者成為詐騙目標",
+    "link": "https://www.bbc.com/zhongwen/articles/cx2z87ekee1o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-09-04 13:25:38",
+    "author": "",
+    "description": "Getty Images 求职者需要提高警惕——因为骗徒正利用招聘网站上的职位空缺，诱骗求职者下载虚假的面试工具。 一名受害者在LinkedIn收到假的招聘面试邀请，他下载了看似普通的文件，结果发现内含恶意软件。 数小时内，黑客从他的加密货币帐户中，转走了他18,000英镑的积蓄，之后消失无踪。 这名不愿透露姓名的受害者说：“失去一大笔钱的感觉非常糟糕——这是我连最憎恨的人都不希望他经历的事情。” 求职市场拥挤、竞争激烈 专业招聘平台L…",
+    "content": "Getty Images 求职者需要提高警惕——因为骗徒正利用招聘网站上的职位空缺，诱骗求职者下载虚假的面试工具。 一名受害者在LinkedIn收到假的招聘面试邀请，他下载了看似普通的文件，结果发现内含恶意软件。 数小时内，黑客从他的加密货币帐户中，转走了他18,000英镑的积蓄，之后消失无踪。 这名不愿透露姓名的受害者说：“失去一大笔钱的感觉非常糟糕——这是我连最憎恨的人都不希望他经历的事情。” 求职市场拥挤、竞争激烈 专业招聘平台LinkedIn和Indeed警告，近几个月求职骗案数量正在增加。 LinkedI…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/culture/20260904/yo-yo-ma-profile/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "如果这个世界上多一些马友友",
+    "link": "https://cn.nytimes.com/culture/20260904/yo-yo-ma-profile/dual",
+    "pub_date": "2026-09-04 13:06:02",
+    "author": "",
+    "description": "JOSHUA BARONE2026年9月4日 It isn’t easy to interview Yo-Yo Ma. Not because he is one of the most famous musicians alive, a cellist who has been playing for world leaders since he was 7. Nor because he tends to answer questi…",
+    "content": "JOSHUA BARONE 2026年9月4日 It isn’t easy to interview Yo-Yo Ma. Not because he is one of the most famous musicians alive, a cellist who has been playing for world leaders since he was 7. Nor because he tends to answer questions with long stories rather than sound…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/health/20260904/pig-kidney-bridge-transplant/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "肾病患者靠移植猪肾生活九个月，直到接受人类肾脏移植",
+    "link": "https://cn.nytimes.com/health/20260904/pig-kidney-bridge-transplant/dual",
+    "pub_date": "2026-09-04 12:06:02",
+    "author": "",
+    "description": "RONI CARYN RABIN2026年9月4日蒂姆·安德鲁斯体内移植了一颗转基因猪的肾脏，并依靠它生活了九个月。这颗猪肾使他暂时免于接受透析治疗。 Cheryle St. Onge for The New York Times Two years ago, Tim Andrews was so worn out that all he wanted to do was sleep. Diabetes and high blood p…",
+    "content": "RONI CARYN RABIN 2026年9月4日 蒂姆·安德鲁斯体内移植了一颗转基因猪的肾脏，并依靠它生活了九个月。这颗猪肾使他暂时免于接受透析治疗。 Cheryle St. Onge for The New York Times Two years ago, Tim Andrews was so worn out that all he wanted to do was sleep. Diabetes and high blood pressure had destroyed his kidneys, and…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/technology/20260904/openai-hugging-face-hacking/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "人工智能全面接管？为什么你应该更担心AI有多危险",
+    "link": "https://cn.nytimes.com/technology/20260904/openai-hugging-face-hacking/dual",
+    "pub_date": "2026-09-04 11:06:02",
+    "author": "",
+    "description": "KEVIN ROOSE2026年9月4日 When I first heard the news this summer that a group of artificial intelligence agents created by OpenAI had hacked into Hugging Face, an A.I. infrastructure company, I filed it in the “Bad but Proba…",
+    "content": "KEVIN ROOSE 2026年9月4日 When I first heard the news this summer that a group of artificial intelligence agents created by OpenAI had hacked into Hugging Face, an A.I. infrastructure company, I filed it in the “Bad but Probably Not Catastrophic A.I. Safety Incide…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c3wj1gd3x9no/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "執迷於「睡眠分數」如何反讓你睡得更差？",
+    "link": "https://www.bbc.com/zhongwen/articles/c3wj1gd3x9no/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-09-04 10:05:55",
+    "author": "",
+    "description": "BBC 睡眠评分、镁补充剂、白噪音机器——睡觉曾经是简单的事，如今却成了一片雷区。 这种尝试优化睡眠的做法，被称为“睡眠极大化”（sleepmaxxing）。如果做得太过火，就可能会演变成“完美睡眠主义症”（orthosomnia），临床上指追求完美睡眠的一种执着。 虽然这在英国并未被正式列为疾病，但医生向BBC表示，他们留意到部分病人出现完美睡眠主义症的迹象。有些病人带着睡眠追踪数据求诊，错误地深信自己患有睡眠障碍。 医生警告，对睡眠…",
+    "content": "BBC 睡眠评分、镁补充剂、白噪音机器——睡觉曾经是简单的事，如今却成了一片雷区。 这种尝试优化睡眠的做法，被称为“睡眠极大化”（sleepmaxxing）。如果做得太过火，就可能会演变成“完美睡眠主义症”（orthosomnia），临床上指追求完美睡眠的一种执着。 虽然这在英国并未被正式列为疾病，但医生向BBC表示，他们留意到部分病人出现完美睡眠主义症的迹象。有些病人带着睡眠追踪数据求诊，错误地深信自己患有睡眠障碍。 医生警告，对睡眠的执着，实际上让人们睡得更差。 到底睡眠为何以变得如此复杂？如果“睡眠极大化”不…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20260904/volkswagen-job-cuts/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "史上最彻底重组：大众汽车计划额外裁员5万人",
+    "link": "https://cn.nytimes.com/business/20260904/volkswagen-job-cuts/dual",
+    "pub_date": "2026-09-04 09:36:02",
+    "author": "",
+    "description": "JAMES PATON2026年9月4日面对巨大压力和来自中国的竞争，大众汽车大幅下调了年度产量目标，并计划精简车型阵容。 Felix Schmitt for The New York Times Volkswagen said on Thursday that it would go forward with the most sweeping restructuring in its 89-year history, cutting…",
+    "content": "JAMES PATON 2026年9月4日 面对巨大压力和来自中国的竞争，大众汽车大幅下调了年度产量目标，并计划精简车型阵容。 Felix Schmitt for The New York Times Volkswagen said on Thursday that it would go forward with the most sweeping restructuring in its 89-year history, cutting about 50,000 additional jobs in the f…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c87v19vx721o/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "親俄宣傳網絡內幕：捏造烏克蘭女兵遭強姦，成為引流「誘餌」",
+    "link": "https://www.bbc.com/zhongwen/articles/c87v19vx721o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-09-04 09:22:50",
+    "author": "",
+    "description": "Keti Leshkasheli / 凯蒂·莱什卡谢利发现自己的照片被用来诱导用户进入亲俄罗斯频道。 【警告：本文包含部分读者可能感到不适的内容。】 大约三年前，曾在乌克兰武装部队服役的格鲁吉亚籍医护人员凯蒂·莱什卡谢利（Keti Leshkasheli）从前线回来后，手机几乎不停响起。 亲朋好友都想确认她是否平安，因为他们看到 Telegram 上有帖子声称她被俘并遭到强奸。 她向BBC表示：“我得知有人发布了一段影片，声称我和一些女…",
+    "content": "Keti Leshkasheli / 凯蒂·莱什卡谢利发现自己的照片被用来诱导用户进入亲俄罗斯频道。 【警告：本文包含部分读者可能感到不适的内容。】 大约三年前，曾在乌克兰武装部队服役的格鲁吉亚籍医护人员凯蒂·莱什卡谢利（Keti Leshkasheli）从前线回来后，手机几乎不停响起。 亲朋好友都想确认她是否平安，因为他们看到 Telegram 上有帖子声称她被俘并遭到强奸。 她向BBC表示：“我得知有人发布了一段影片，声称我和一些女孩被抓了。他们附上一个连结，引导人到一个 Telegram 频道，说我们正在受到…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20260904/china-taiwan-gwangju-biennale/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "“台湾馆”引发政治风波：中国抵制韩国光州双年展",
+    "link": "https://cn.nytimes.com/china/20260904/china-taiwan-gwangju-biennale/dual",
+    "pub_date": "2026-09-04 09:06:03",
+    "author": "",
+    "description": "JIN YU YOUNG, MURPHY ZHAO2026年9月4日2021年，韩国光州双年展展厅。第16届双年展于周六开幕。 Woohae Cho for The New York Times The Gwangju Biennale in South Korea, one of the most prominent art exhibitions in Asia, was engulfed by politics on Thursd…",
+    "content": "JIN YU YOUNG, MURPHY ZHAO 2026年9月4日 2021年，韩国光州双年展展厅。第16届双年展于周六开幕。 Woohae Cho for The New York Times The Gwangju Biennale in South Korea, one of the most prominent art exhibitions in Asia, was engulfed by politics on Thursday as China announced a boycott of the…"
+  },
+  {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260903-%E4%BF%84%E7%BD%97%E6%96%AF-%E4%B8%80%E5%90%8D%E4%BA%BA%E9%81%93%E5%B7%A5%E4%BD%9C%E8%80%85%E5%9B%A0%E6%89%B9%E8%AF%84%E4%BF%84%E5%86%9B%E8%A2%AB%E8%B5%B7%E8%AF%89",
     "feed_name": "RFI 法国国际广播电台",
     "category": "国外",
@@ -176,50 +363,6 @@ const jsonData = [
     "content": "03/09/2026 - 17:37 一名曾在北京为著名的锡安教会辩护的中国律师，在面临中国当局对其律师事务所和同事日益增长的压力后，已逃至台湾寻求重新安置的协助。 北京凯门律师事务所的合伙人之一王夏红，其所属的律师团队自去年10月以来，一直代表北京锡安教会的牧师和其他成员。 王夏红在接受美联社专访时表示，她现在正面临来自中国当局的直接压力；她称被当局告知，她和她的同事必须解散事务所，否则将被当局关闭。 去年10月，包括创办人金明日牧师在内的18名锡安教会成员在中国多地被捕，这是数十年来当局对单一教会进行的最大规模…"
   },
   {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260903-%E5%BF%AB%E6%8A%A5-%E6%9B%BE%E7%A7%B0%E9%BB%84%E4%B9%8B%E9%94%8B%E4%B8%BA%E9%A6%99%E6%B8%AF%E6%9C%AA%E6%9D%A5%E7%9A%84%E5%8D%A2%E6%AF%94%E5%A5%A5%E5%AF%B9%E9%BB%84%E4%B9%8B%E9%94%8B%E5%91%BD%E8%BF%90%E4%BF%9D%E6%8C%81%E6%B2%89%E9%BB%98",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "《快报》：曾称黄之锋为香港未来的卢比奥对黄之锋命运保持沉默 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260903-%E5%BF%AB%E6%8A%A5-%E6%9B%BE%E7%A7%B0%E9%BB%84%E4%B9%8B%E9%94%8B%E4%B8%BA%E9%A6%99%E6%B8%AF%E6%9C%AA%E6%9D%A5%E7%9A%84%E5%8D%A2%E6%AF%94%E5%A5%A5%E5%AF%B9%E9%BB%84%E4%B9%8B%E9%94%8B%E5%91%BD%E8%BF%90%E4%BF%9D%E6%8C%81%E6%B2%89%E9%BB%98",
-    "pub_date": "2026-09-03 23:15:03",
-    "author": "",
-    "description": "03/09/2026 - 16:52 香港前泛民主运动团体“学民思潮”创办人黄之锋在临近重获自由时，又被港府追加“勾结外国势力”罪名。黄之锋9月2日在高等法院出庭时选择认罪。刑罚判决尚未宣布，但预计自2000年11月就已经入狱的黄之锋还将在狱中度过很多时日。法国《快报》周刊当日发表文章，认为美国政府对香港民主运动的代表性人物的命运视而不见。 这篇署名François Miguet的文章写道，十年前，现任美国国务卿卢比奥曾称赞黄之锋的勇气…",
-    "content": "03/09/2026 - 16:52 香港前泛民主运动团体“学民思潮”创办人黄之锋在临近重获自由时，又被港府追加“勾结外国势力”罪名。黄之锋9月2日在高等法院出庭时选择认罪。刑罚判决尚未宣布，但预计自2000年11月就已经入狱的黄之锋还将在狱中度过很多时日。法国《快报》周刊当日发表文章，认为美国政府对香港民主运动的代表性人物的命运视而不见。 这篇署名François Miguet的文章写道，十年前，现任美国国务卿卢比奥曾称赞黄之锋的勇气，认为他值得获得诺贝尔和平奖。但十年后，卢比奥已将黄之锋忘在脑后。而黄之锋有可能…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20260903-alipay-%E4%B8%8E%E5%8D%B0%E5%BA%A6%E6%94%AF%E4%BB%98%E7%B3%BB%E7%BB%9F%E5%AF%B9%E6%8E%A5%E8%AE%A1%E5%88%92%E6%90%81%E6%B5%85-%E5%8D%B0%E6%94%BF%E5%BA%9C%E5%AD%98%E5%9C%A8%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E5%92%8C%E6%95%B0%E6%8D%AE%E9%A1%BE%E8%99%91",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "Alipay+与印度支付系统对接计划搁浅 印政府存在国家安全和数据顾虑 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20260903-alipay-%E4%B8%8E%E5%8D%B0%E5%BA%A6%E6%94%AF%E4%BB%98%E7%B3%BB%E7%BB%9F%E5%AF%B9%E6%8E%A5%E8%AE%A1%E5%88%92%E6%90%81%E6%B5%85-%E5%8D%B0%E6%94%BF%E5%BA%9C%E5%AD%98%E5%9C%A8%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E5%92%8C%E6%95%B0%E6%8D%AE%E9%A1%BE%E8%99%91",
-    "pub_date": "2026-09-03 23:15:03",
-    "author": "",
-    "description": "03/09/2026 - 17:02 据路透社援引三位知情人士报导称，蚂蚁国际旗下的Alipay+提出的与印度即时支付系统对接以开展跨境交易的方案，因新德里方面的国家安全顾虑以及对客户数据存储与使用的质疑而陷入停滞。 Alipay+于今年1月提出的这一方案，是金融服务领域首个由中资背景实体发起的此类提议；其提出之时，正值这两个邻国之间的紧张关系有所缓和——此前中印两国曾于2020年发生过致命的边境冲突。 新德里和北京正致力于维护边境和平…",
-    "content": "03/09/2026 - 17:02 据路透社援引三位知情人士报导称，蚂蚁国际旗下的Alipay+提出的与印度即时支付系统对接以开展跨境交易的方案，因新德里方面的国家安全顾虑以及对客户数据存储与使用的质疑而陷入停滞。 Alipay+于今年1月提出的这一方案，是金融服务领域首个由中资背景实体发起的此类提议；其提出之时，正值这两个邻国之间的紧张关系有所缓和——此前中印两国曾于2020年发生过致命的边境冲突。 新德里和北京正致力于维护边境和平；中国国家主席习近平预计将于本月晚些时候赴新德里出席金砖国家峰会，此次访问被视为…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260903-%E4%B8%AD%E6%96%B9%E6%96%B0%E9%97%BB%E7%A8%BF%E6%8C%87%E7%8E%8B%E6%AF%85%E7%A7%B0-%E9%9F%A9%E6%9C%9D%E4%B8%A4%E5%9B%BD-%E9%9F%A9%E5%9B%BD%E5%AE%B6%E5%AE%89%E4%BF%9D%E5%AE%A4%E9%95%BF%E9%AD%8F%E5%9C%A3%E6%B4%9B-%E4%BB%96%E6%B2%A1%E6%9C%89%E8%BF%99%E6%A0%B7%E8%AF%B4",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "中方新闻稿指王毅称“韩朝两国” 韩国家安保室长魏圣洛：他没有这样说 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260903-%E4%B8%AD%E6%96%B9%E6%96%B0%E9%97%BB%E7%A8%BF%E6%8C%87%E7%8E%8B%E6%AF%85%E7%A7%B0-%E9%9F%A9%E6%9C%9D%E4%B8%A4%E5%9B%BD-%E9%9F%A9%E5%9B%BD%E5%AE%B6%E5%AE%89%E4%BF%9D%E5%AE%A4%E9%95%BF%E9%AD%8F%E5%9C%A3%E6%B4%9B-%E4%BB%96%E6%B2%A1%E6%9C%89%E8%BF%99%E6%A0%B7%E8%AF%B4",
-    "pub_date": "2026-09-03 22:45:03",
-    "author": "",
-    "description": "03/09/2026 - 16:33 自首尔方面消息，针对中国外交部的一份新闻稿指，中共中央外办主任、外交部长王毅上月在与韩方官员会面时称“韩朝两国”一事，韩国政府已向中方提出交涉。 8月20日，王毅在首尔曾与韩国国家安保室长魏圣洛举行战略对话。中国外交部发布的新闻稿中写道：“王毅阐述中方在地区及半岛问题上的原则立场，指出应警惕日本右翼势力开历史倒车的言行，绝不允许日本军国主义死灰复燃。解决半岛紧张局势的根本途径在于消除问题产生的根源，…",
-    "content": "03/09/2026 - 16:33 自首尔方面消息，针对中国外交部的一份新闻稿指，中共中央外办主任、外交部长王毅上月在与韩方官员会面时称“韩朝两国”一事，韩国政府已向中方提出交涉。 8月20日，王毅在首尔曾与韩国国家安保室长魏圣洛举行战略对话。中国外交部发布的新闻稿中写道：“王毅阐述中方在地区及半岛问题上的原则立场，指出应警惕日本右翼势力开历史倒车的言行，绝不允许日本军国主义死灰复燃。解决半岛紧张局势的根本途径在于消除问题产生的根源，推动美国放弃对朝敌视政策。希望各方多做有利于重启对话、恢复互信的事情，乐见半岛走…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260903-%E6%B3%95%E5%AD%A6%E8%80%85-%E6%AC%A7%E6%B4%B2%E8%AE%A4%E4%B8%BA%E5%86%9B%E4%BA%8B%E4%BC%98%E5%8A%BF%E5%9C%A8%E4%BA%8E%E6%AD%A6%E5%99%A8%E7%9A%84%E7%B2%BE%E5%AF%86%E6%80%A7%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%88%99%E8%AE%A4%E4%B8%BA%E5%86%9B%E4%BA%8B%E4%BC%98%E5%8A%BF%E5%9C%A8%E4%BA%8E%E6%AD%A6%E5%99%A8%E7%9A%84%E6%95%B0%E9%87%8F",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "法学者：欧洲认为军事优势在于武器的精密性，中国则认为军事优势在于武器的数量！ - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260903-%E6%B3%95%E5%AD%A6%E8%80%85-%E6%AC%A7%E6%B4%B2%E8%AE%A4%E4%B8%BA%E5%86%9B%E4%BA%8B%E4%BC%98%E5%8A%BF%E5%9C%A8%E4%BA%8E%E6%AD%A6%E5%99%A8%E7%9A%84%E7%B2%BE%E5%AF%86%E6%80%A7%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%88%99%E8%AE%A4%E4%B8%BA%E5%86%9B%E4%BA%8B%E4%BC%98%E5%8A%BF%E5%9C%A8%E4%BA%8E%E6%AD%A6%E5%99%A8%E7%9A%84%E6%95%B0%E9%87%8F",
-    "pub_date": "2026-09-03 22:15:03",
-    "author": "",
-    "description": "03/09/2026 - 16:00 当中国正通过大规模生产和简单但有效的技术重新定义现代战争之际，而欧洲却仍然依附于精密性。“欧洲必须重新思考其优先事项才能保持竞争力”，欧洲地缘政治研究所所长塞巴斯蒂安·布索瓦斯（Sébastien Boussois）周三（9月2日）投书《回声报》论坛如是警告。 依布索瓦斯之见，战争的性质正以欧洲人尚难以衡量的速度发生变化。当我们还在讨论到2035年需要订购多少坦克、飞机或护卫舰时，中国已经在准备另一…",
-    "content": "03/09/2026 - 16:00 当中国正通过大规模生产和简单但有效的技术重新定义现代战争之际，而欧洲却仍然依附于精密性。“欧洲必须重新思考其优先事项才能保持竞争力”，欧洲地缘政治研究所所长塞巴斯蒂安·布索瓦斯（Sébastien Boussois）周三（9月2日）投书《回声报》论坛如是警告。 依布索瓦斯之见，战争的性质正以欧洲人尚难以衡量的速度发生变化。当我们还在讨论到2035年需要订购多少坦克、飞机或护卫舰时，中国已经在准备另一种军事力量形式：大规模生产的无人机、人工智能、机器人、自主系统，尤其是能够快速从…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cm27n2emn1zo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -286,28 +429,6 @@ const jsonData = [
     "content": "《纽约时报》 2026年9月3日 周一，特朗普在椭圆形办公室。 Doug Mills/The New York Times If you want to understand the moment we’re in, you have to understand Donald Trump. That’s easier said than done; Trump thrives on drama — ideally in ALL CAPS on Truth Social — and prides himself on…"
   },
   {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20260903/nepal-flood-miracle-house-dhunge-bazaar/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "尼泊尔洪灾中的“奇迹”绿房子",
-    "link": "https://cn.nytimes.com/world/20260903/nepal-flood-miracle-house-dhunge-bazaar/dual",
-    "pub_date": "2026-09-03 10:06:02",
-    "author": "",
-    "description": "MUJIB MASHAL, BINOD GHIMIRE2026年9月3日尼泊尔丹格市集的一座绿房子在洪水中屹立不倒。 Francis Mascarenhas/Reuters For some, it’s become known as the “miracle” green house. For others arriving to stare in wonderment and take selfies, it is simply “…",
-    "content": "MUJIB MASHAL, BINOD GHIMIRE 2026年9月3日 尼泊尔丹格市集的一座绿房子在洪水中屹立不倒。 Francis Mascarenhas/Reuters For some, it’s become known as the “miracle” green house. For others arriving to stare in wonderment and take selfies, it is simply “the viral house.” 一些人将它称为“奇迹”绿房子。而对那些前…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20260903/china-egypt-xi-jinping-el-sisi/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "习近平访问埃及，挑战美国在中东影响力",
-    "link": "https://cn.nytimes.com/china/20260903/china-egypt-xi-jinping-el-sisi/dual",
-    "pub_date": "2026-09-03 09:06:02",
-    "author": "",
-    "description": "郭莉莉, ERIKA SOLOMON2026年9月3日周二，开罗总统塞西夫妇在机场迎接到访的习近平和彭丽媛。 Pool photo by Khaled Desouki When the Chinese leader Xi Jinping arrived in Cairo, he was greeted by children wearing T-shirts emblazoned with his face. Performers st…",
-    "content": "郭莉莉, ERIKA SOLOMON 2026年9月3日 周二，开罗总统塞西夫妇在机场迎接到访的习近平和彭丽媛。 Pool photo by Khaled Desouki When the Chinese leader Xi Jinping arrived in Cairo, he was greeted by children wearing T-shirts emblazoned with his face. Performers staged a traditional dance. The presiden…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c5y4r8e52nyo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -363,17 +484,6 @@ const jsonData = [
     "content": "重获自由未有期 回顾黄之锋的公共生涯 香港民主派活动人士黄之锋被控违反《香港国安法》下的“串谋勾结外国势力”罪，2026年9月2日在高等法院出庭并认罪，法官将案件押后判刑。 “串谋勾结外国势力”罪最高可判处终身监禁。现年29岁的黄之锋自2020年起，因涉及多宗案件先后被还押及服刑，至今失去自由逾2,100天。 他原本预计于2027年1月获释，但2025年6月在服刑期间再次被捕，他重获自由的日子仍是未知之数。"
   },
   {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c4g5djd75gpo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "「我從未去過的祖國」：600萬人遭遣返阿富汗，在塔利班治下重新開始",
-    "link": "https://www.bbc.com/zhongwen/articles/c4g5djd75gpo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-09-02 17:18:53",
-    "author": "",
-    "description": "BBC / 视频：BBC记者莱斯·杜塞特报导这场史上最大规模的跨境人口迁移 老人们蹙着眉，拄着拐杖蹒跚前行；瞪大双眼的孩子怀抱着鸡，那是他们被迫离开家园时，唯一能带走的东西。 “回到自己的国家，感觉很好。”35岁的娜齐亚（Nazia）说。几分钟前，她才刚从自己出生的巴基斯坦越境进入阿富汗。 托尔坎口岸（Torkham crossing）被称为“零点”，一道艰难生活在此结束，另一段生活也由此开始。 “但我以前从未来过阿富汗，而这里很多人甚…",
-    "content": "BBC / 视频：BBC记者莱斯·杜塞特报导这场史上最大规模的跨境人口迁移 老人们蹙着眉，拄着拐杖蹒跚前行；瞪大双眼的孩子怀抱着鸡，那是他们被迫离开家园时，唯一能带走的东西。 “回到自己的国家，感觉很好。”35岁的娜齐亚（Nazia）说。几分钟前，她才刚从自己出生的巴基斯坦越境进入阿富汗。 托尔坎口岸（Torkham crossing）被称为“零点”，一道艰难生活在此结束，另一段生活也由此开始。 “但我以前从未来过阿富汗，而这里很多人甚至连填饱肚子的面包都没有。”娜齐亚边叹气，边带着两名孩子走向登记柜檯，沿途可见悬…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c5y4rkd5zepo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -383,50 +493,6 @@ const jsonData = [
     "author": "",
     "description": "EPA/Getty Images / 美国总统唐纳德·特朗普和委内瑞拉临时总统德尔西·罗德里格斯都称赞该协议取得了成功。 从今年1月美国精锐部队突袭尼古拉斯·马杜罗（Nicolás Maduro）在加拉加斯的住所，强行将其赶下台的那一刻起，唐纳德·特朗普总统（Donald Trump；川普）就明确表示，控制委内瑞拉的石油资源是他执政的关键目标。 他当时表示，美国将“管理（run）”委内瑞拉，并在可预见的未来管理委内瑞拉石油的销售。 周三…",
     "content": "EPA/Getty Images / 美国总统唐纳德·特朗普和委内瑞拉临时总统德尔西·罗德里格斯都称赞该协议取得了成功。 从今年1月美国精锐部队突袭尼古拉斯·马杜罗（Nicolás Maduro）在加拉加斯的住所，强行将其赶下台的那一刻起，唐纳德·特朗普总统（Donald Trump；川普）就明确表示，控制委内瑞拉的石油资源是他执政的关键目标。 他当时表示，美国将“管理（run）”委内瑞拉，并在可预见的未来管理委内瑞拉石油的销售。 周三（9月2日）在加拉加斯签署的巨额美委石油协议标志着该计划的最终实现。该协议授予一…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20260902/hong-kong-joshua-wong-activist-guilty/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "黄之锋就“勾结外国势力”认罪，最高可判终身监禁",
-    "link": "https://cn.nytimes.com/china/20260902/hong-kong-joshua-wong-activist-guilty/dual",
-    "pub_date": "2026-09-02 15:06:02",
-    "author": "",
-    "description": "DAVID PIERSON2026年9月2日2019年黄之锋在华盛顿。他游说西方政治人物向香港施压的努力成为他最新的国家安全案件的中心。 Alastair Pike/Agence France-Presse — Getty Images Joshua Wong, a prominent Hong Kong pro-democracy activist, pleaded guilty on Wednesday to collusion f…",
-    "content": "DAVID PIERSON 2026年9月2日 2019年黄之锋在华盛顿。他游说西方政治人物向香港施压的努力成为他最新的国家安全案件的中心。 Alastair Pike/Agence France-Presse — Getty Images Joshua Wong, a prominent Hong Kong pro-democracy activist, pleaded guilty on Wednesday to collusion for lobbying Western lawmakers, a case …"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/culture/20260902/francis-fukuyama-in-the-realm-of-the-last-man-end-of-history/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "福山和被误解的“历史的终结”",
-    "link": "https://cn.nytimes.com/culture/20260902/francis-fukuyama-in-the-realm-of-the-last-man-end-of-history/dual",
-    "pub_date": "2026-09-02 14:36:02",
-    "author": "",
-    "description": "JENNIFER SZALAI2026年9月2日 Francis Fukuyama has published a shelf of books about politics and political theory, including lofty treatises on liberalism and a sober two-volume study tracing the development of the modern sta…",
-    "content": "JENNIFER SZALAI 2026年9月2日 Francis Fukuyama has published a shelf of books about politics and political theory, including lofty treatises on liberalism and a sober two-volume study tracing the development of the modern state. Yet it sometimes seems he will be f…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/technology/20260902/apple-tim-cook-john-ternus/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "特纳斯正式接棒库克，苹果新CEO面临平衡考验",
-    "link": "https://cn.nytimes.com/technology/20260902/apple-tim-cook-john-ternus/dual",
-    "pub_date": "2026-09-02 13:06:02",
-    "author": "",
-    "description": "KALLEY HUANG2026年9月2日周二就任苹果公司首席执行官的约翰·特纳斯（右）与担任该职位长达15年的蒂姆·库克，摄于7月在爱达荷州举行的太阳谷会议上。 Brendan McDermid/Reuters John Ternus became Apple’s chief executive on Tuesday, succeeding Tim Cook, the company’s leader for the last 15 …",
-    "content": "KALLEY HUANG 2026年9月2日 周二就任苹果公司首席执行官的约翰·特纳斯（右）与担任该职位长达15年的蒂姆·库克，摄于7月在爱达荷州举行的太阳谷会议上。 Brendan McDermid/Reuters John Ternus became Apple’s chief executive on Tuesday, succeeding Tim Cook, the company’s leader for the last 15 years. The long-anticipated handoff, M…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20260902/china-tibet-floods-nepal-censorship/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "中国严格控制西藏洪灾灾情叙事",
-    "link": "https://cn.nytimes.com/china/20260902/china-tibet-floods-nepal-censorship/dual",
-    "pub_date": "2026-09-02 11:06:02",
-    "author": "",
-    "description": "艾莎2026年9月2日上周，北京一处屏幕上播放着官方媒体对西藏洪灾后续情况的报道。 Greg Baker/Agence France-Presse — Getty Images Rescue workers were only just starting to assess the scope of loss and destruction from deadly Himalayan floods last week when Chin…",
-    "content": "艾莎 2026年9月2日 上周，北京一处屏幕上播放着官方媒体对西藏洪灾后续情况的报道。 Greg Baker/Agence France-Presse — Getty Images Rescue workers were only just starting to assess the scope of loss and destruction from deadly Himalayan floods last week when Chinese authorities turned to another chal…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cz6zpzwwxlzo/simp?at_medium=RSS&at_campaign=rss",
@@ -495,28 +561,6 @@ const jsonData = [
     "content": "BBC / 前线报导：BBC走访中尼边境被洪灾抹去的小镇 尼泊尔上周遭遇毁灭性洪灾，死亡人数已达939人，另有3925人失踪。在重灾区拉苏瓦县，许多繁荣的城镇如今面目全非。 BBC记者阿扎德·莫希里来到夏布卢贝西，这里紧邻中国西藏吉隆，曾经生活在这里的社区已几乎不留任何痕迹，取而代之的是大量干硬的泥土和瓦砾。 救援行动仍在持续，隧道内仍有工人受困；而幸存者回忆起洪水来袭的那一天，仍难掩恐惧与悲痛。"
   },
   {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cz7ze2lq0vjo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "Shein香港上市首日股價下跌 期待已久的股市首秀表現疲弱",
-    "link": "https://www.bbc.com/zhongwen/articles/cz7ze2lq0vjo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-09-01 13:24:58",
-    "author": "",
-    "description": "Reuters / 许仰天（右）于2008年创立Shein。 快时尚巨头Shein历经漫长上市之路后，于周二（9月1日）在香港挂牌上市，其备受期待的股票市场首秀中，股价下跌近8%。 此前，Shein曾尝试赴美国及英国上市，但均未成功，原因包括外界对其劳工待遇及环境影响等问题的担忧。 Shein曾被估值接近1,000亿美元（6,720亿元人民币；3.17兆元新台币），如今市值约仅为当时的四分之一。该公司同时面临激烈竞争及贸易紧张等其他挑战…",
-    "content": "Reuters / 许仰天（右）于2008年创立Shein。 快时尚巨头Shein历经漫长上市之路后，于周二（9月1日）在香港挂牌上市，其备受期待的股票市场首秀中，股价下跌近8%。 此前，Shein曾尝试赴美国及英国上市，但均未成功，原因包括外界对其劳工待遇及环境影响等问题的担忧。 Shein曾被估值接近1,000亿美元（6,720亿元人民币；3.17兆元新台币），如今市值约仅为当时的四分之一。该公司同时面临激烈竞争及贸易紧张等其他挑战。 由于能够透过中国庞大的工厂网络，以极低价格迅速供应最新流行服饰，Shein获…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cp8dkp32xndo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "梅西退出阿根廷國家隊：「已沒什麼可以再付出了」",
-    "link": "https://www.bbc.com/zhongwen/articles/cp8dkp32xndo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-09-01 13:03:05",
-    "author": "",
-    "description": "Getty Images / 39岁的梅西是阿根廷史上进球最多及出场次数最多的球员 阿根廷足球名将梅西（Lionel Messi；美斯）宣布退出国际足坛，他形容这个决定让他“感到痛苦”，但“时候到了”。 39岁的梅西曾带领阿根廷在2022年卡塔尔世界杯夺冠，他代表国家队出场207次，攻入125球，是阿根廷史上进球最多及出场次数最多的球员。 梅西在声明中表示，他已经为国家队付出一切，但现在“已经没什么可以再付出了”。 他又说：“时间所剩不…",
-    "content": "Getty Images / 39岁的梅西是阿根廷史上进球最多及出场次数最多的球员 阿根廷足球名将梅西（Lionel Messi；美斯）宣布退出国际足坛，他形容这个决定让他“感到痛苦”，但“时候到了”。 39岁的梅西曾带领阿根廷在2022年卡塔尔世界杯夺冠，他代表国家队出场207次，攻入125球，是阿根廷史上进球最多及出场次数最多的球员。 梅西在声明中表示，他已经为国家队付出一切，但现在“已经没什么可以再付出了”。 他又说：“时间所剩不多了，一个个篇章终将走到尽头，而这是其中一个让我深感痛苦的篇章。” “我爱、曾经…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/crer81r33pno/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -583,17 +627,6 @@ const jsonData = [
     "content": "BBC / 贺漓洒（左）放下演员工作，回到爱丁堡家中帮助母亲重振中餐馆。 母亲经营了30年的餐厅正在走下坡。因此，贺漓洒暂停了自己的演艺事业，回到老家试一把。 多年来，贺漓洒（Lisa He）一直看着母亲 Sophie 倾注所有心力经营丽都（China Star），这是一家位于苏格兰首府爱丁堡，由家族经营的中餐馆。 漫长的工作日延伸至深夜，而端上桌的每一道菜，都承载着多年来的辛勤付出。 Sophie 几十年来一直奉献于这门生意，经常每星期工作七天。但经营家族餐厅并不容易，而要在竞争日益激烈的市场中脱颖而出，也变得愈…"
   },
   {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c4gjd85e03xo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "為何台灣公視屢陷預算爭議？",
-    "link": "https://www.bbc.com/zhongwen/articles/c4gjd85e03xo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-08-31 08:15:40",
-    "author": "",
-    "description": "Taiwan Public Television Service 台湾公共电视（公视）今年的政府捐助预算，经过数月审查后在立法院过关，但围绕公共媒体财源与独立性的争议并未落幕。 立法院于8月14日完成审议。文化部对公视编列了超过21亿元新台币（6630万美元；4.4亿人民币）的捐助预算，最终遭删减约2,185万元，另有2亿元遭冻结；国际传播平台TaiwanPlus的预算则遭删减2亿元。 此前，在野党曾提案删减并冻结逾10亿元，触发公视董…",
-    "content": "Taiwan Public Television Service 台湾公共电视（公视）今年的政府捐助预算，经过数月审查后在立法院过关，但围绕公共媒体财源与独立性的争议并未落幕。 立法院于8月14日完成审议。文化部对公视编列了超过21亿元新台币（6630万美元；4.4亿人民币）的捐助预算，最终遭删减约2,185万元，另有2亿元遭冻结；国际传播平台TaiwanPlus的预算则遭删减2亿元。 此前，在野党曾提案删减并冻结逾10亿元，触发公视董监事会罕见地发表声明，警告删预算将重创公共媒体营运，波及影视产业与公民社会。公视…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cnvl38dyyq0o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -605,17 +638,6 @@ const jsonData = [
     "content": "BBC/CCTV / 中国官媒上为何看不到西藏洪灾冲击画面？ 如此冲击影片实在难以忽视：一股洪流冲过吉隆口岸，这个尼泊尔与西藏之间的主要边境口岸之一，所到之处尽被冲毁，数百人为了逃命而奔逃。 这些由闭路电视拍下的画面迅速在社交媒体上传播，并登上世界各地的萤幕。 除了中国本身。 迄今为止，中国官方主导的国家级新闻联播只播出了一张定格画面。 在中国受到严格审查的网际网路上，也很难找到完整影片，尽管有关这场灾难的不同面向曾在网上被讨论。 但更难找到的是生还者亲身讲述这场山洪暴发的经历。自星期三（8月26日）以来，这场灾害…"
   },
   {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c5ydw7pv2nzo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "Dolly Parton的父親生前不識字，於是她給數百萬孩子寄上書本",
-    "link": "https://www.bbc.com/zhongwen/articles/c5ydw7pv2nzo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-08-30 19:03:44",
-    "author": "",
-    "description": "BBC / 帕顿（Dolly Parton）生前在老家田纳西州创办了“想像图书馆”。 美国丹佛市的一个孩子称她为“图书女王”。 阿拉巴马州的另一位居民称她为“多莉女士”。 在地球另一端的澳洲，一位患有语言发育迟缓的幼儿在收到一本免费邮寄的颜色书籍后，说出了她的第一个字——“橙色”，这让她的家人欣喜不已。 这本书来自“想像图书馆”（Imagination Library），这是已故国际巨星多莉·帕顿（Dolly Parton；桃莉·巴顿／…",
-    "content": "BBC / 帕顿（Dolly Parton）生前在老家田纳西州创办了“想像图书馆”。 美国丹佛市的一个孩子称她为“图书女王”。 阿拉巴马州的另一位居民称她为“多莉女士”。 在地球另一端的澳洲，一位患有语言发育迟缓的幼儿在收到一本免费邮寄的颜色书籍后，说出了她的第一个字——“橙色”，这让她的家人欣喜不已。 这本书来自“想像图书馆”（Imagination Library），这是已故国际巨星多莉·帕顿（Dolly Parton；桃莉·巴顿／桃丽·芭顿）发起的一项识字计划。 刚离世的帕顿女士享年80岁。她是在1995年发…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c980env4n78o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -625,17 +647,6 @@ const jsonData = [
     "author": "",
     "description": "Getty Images / 8月28日，在中国西藏自治区吉隆县，挖掘机和装载机正在清理通往吉隆口岸道路上的泥石流残骸。 8月26日上午，在中国的西藏和尼泊尔边界附近发生的山地河谷大规模泥石流和山洪，造成了大量人员伤亡。 目前中国和尼泊尔方面都已经进入救援阶段。 由于灾害发生的区域处于高原河谷，救援难度较高，目前大量人员处于失联状态。 在中国国家主席习近平批示后，总理李强赶赴灾区。从过往案例来看，这在中国的政治语境意味着——最高级别的灾…",
     "content": "Getty Images / 8月28日，在中国西藏自治区吉隆县，挖掘机和装载机正在清理通往吉隆口岸道路上的泥石流残骸。 8月26日上午，在中国的西藏和尼泊尔边界附近发生的山地河谷大规模泥石流和山洪，造成了大量人员伤亡。 目前中国和尼泊尔方面都已经进入救援阶段。 由于灾害发生的区域处于高原河谷，救援难度较高，目前大量人员处于失联状态。 在中国国家主席习近平批示后，总理李强赶赴灾区。从过往案例来看，这在中国的政治语境意味着——最高级别的灾害响应。 遇难及失联：超2000人 中国方面，截至27日上午8时，灾害已导致五人…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c5yd3r9rzyzo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "「因古老而安全」：為何舊技術有時更能防範黑客攻擊？",
-    "link": "https://www.bbc.com/zhongwen/articles/c5yd3r9rzyzo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-08-28 17:14:33",
-    "author": "",
-    "description": "Reuters 你或许不会想到，一名世界知名的网络安全专家竟然依赖一款老旧、可能存在漏洞的电子邮件软件。但多年来，米克·海波宁（Mikko Hyppönen）确实如此。与Hotmail和Gmail等主流选项保持距离，他反而选用了名为Eudora的过时电邮软件。 “即使它早已停止（技术）支援，我仍持续使用了许多年，”这名芬兰电脑安全专家说。 他偏好Eudora有多个原因，并认为它“在许多方面确实更胜一筹”。虽然Eudora远非完美安全，但…",
-    "content": "Reuters 你或许不会想到，一名世界知名的网络安全专家竟然依赖一款老旧、可能存在漏洞的电子邮件软件。但多年来，米克·海波宁（Mikko Hyppönen）确实如此。与Hotmail和Gmail等主流选项保持距离，他反而选用了名为Eudora的过时电邮软件。 “即使它早已停止（技术）支援，我仍持续使用了许多年，”这名芬兰电脑安全专家说。 他偏好Eudora有多个原因，并认为它“在许多方面确实更胜一筹”。虽然Eudora远非完美安全，但随着人们转用较新的电邮工具，海波宁意识到，黑客也逐渐把Eudora抛诸脑后。 海…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c9v9pkd7ejpo/simp?at_medium=RSS&at_campaign=rss",
@@ -658,17 +669,6 @@ const jsonData = [
     "author": "",
     "description": "LAM YIK/BBC NEWS CHINESE “没有什么投资产品可以涨到这样，你开几多杠杆都不会升40倍。”陈朗熹2022年花了1000港元买了一张浮世绘比卡超，今年一度涨到了4万港元（5100美元美元；3.43万元人民币；16.18万元新台币）。这让他十分慨叹。 近年全球刮起一波卡牌热潮，香港也不例外。今年32岁的陈朗熹玩了卡牌5年，至今已经花超过16万港元买卡。他一开始只是和朋友对战，后来发现原来卡牌也能如此赚钱。 新冠疫情过后…",
     "content": "LAM YIK/BBC NEWS CHINESE “没有什么投资产品可以涨到这样，你开几多杠杆都不会升40倍。”陈朗熹2022年花了1000港元买了一张浮世绘比卡超，今年一度涨到了4万港元（5100美元美元；3.43万元人民币；16.18万元新台币）。这让他十分慨叹。 近年全球刮起一波卡牌热潮，香港也不例外。今年32岁的陈朗熹玩了卡牌5年，至今已经花超过16万港元买卡。他一开始只是和朋友对战，后来发现原来卡牌也能如此赚钱。 新冠疫情过后，卡牌的价值升幅速度惊人。一家美国市场分析公司统计，2025年全球“集换式卡牌”…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c5y7w1xgp2ro/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "女性罵髒話很低劣嗎？莫迪言論引燃「蟑螂人民黨」後續辯論",
-    "link": "https://www.bbc.com/zhongwen/articles/c5y7w1xgp2ro/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-08-28 10:49:24",
-    "author": "",
-    "description": "EPA / 由蟑螂人民党在德里简塔曼塔天文台（Jantar Mantar）发起、为期35天的抗议活动于7月25日结束。 近日，印度年轻女性在抗议活动中说脏话的影像引发一场不同寻常的辩论：当脏话出自女性之口时，是否更严重？ 最新加入战团的是反对派国会议员拉胡尔·甘地（Rahul Gandhi），他不满总理纳伦德拉·莫迪（Narendra Modi）将看到年轻女性说脏话形容为“文化冲击”。 甘地表示：“男生说脏话就没有问题，而且是被允许的。…",
-    "content": "EPA / 由蟑螂人民党在德里简塔曼塔天文台（Jantar Mantar）发起、为期35天的抗议活动于7月25日结束。 近日，印度年轻女性在抗议活动中说脏话的影像引发一场不同寻常的辩论：当脏话出自女性之口时，是否更严重？ 最新加入战团的是反对派国会议员拉胡尔·甘地（Rahul Gandhi），他不满总理纳伦德拉·莫迪（Narendra Modi）将看到年轻女性说脏话形容为“文化冲击”。 甘地表示：“男生说脏话就没有问题，而且是被允许的。但女生说脏话就是文化冲击？” 抗议者一直将怒火指向政府，而部分粗俗言语更直接针对…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cm2q7zj89qyo/simp?at_medium=RSS&at_campaign=rss",
