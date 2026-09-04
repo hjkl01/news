@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-09-04T00:39:07.493Z",
-  "ended_at": "2026-09-04T00:39:07.736Z",
-  "duration_ms": 243,
+  "started_at": "2026-09-04T10:14:26.194Z",
+  "ended_at": "2026-09-04T10:14:26.430Z",
+  "duration_ms": 236,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -17,12 +17,12 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 48,
-    "failed_sources": 11,
-    "circuit_open_sources": 11,
+    "cache_hit_sources": 46,
+    "failed_sources": 13,
+    "circuit_open_sources": 13,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1411,
-    "total_items_after_retention": 1198,
+    "total_items_after_dedupe": 1329,
+    "total_items_after_retention": 1123,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -31,6 +31,12 @@
       "title": "网易新闻 / 今日关注",
       "url": "https://plink.anyfeeder.com/netease/today",
       "reason": "HTTP 404",
+      "skippedByCircuit": true
+    },
+    {
+      "title": "联合早报 / 中国",
+      "url": "https://plink.anyfeeder.com/zaobao/realtime/china",
+      "reason": "HTTP 504",
       "skippedByCircuit": true
     },
     {
@@ -61,6 +67,12 @@
       "title": "全球主机交流论坛",
       "url": "https://hostloc.com/forum.php?mod=rss",
       "reason": "HTTP 403",
+      "skippedByCircuit": true
+    },
+    {
+      "title": "Arch Linux 中文论坛",
+      "url": "https://bbs.archlinuxcn.org/extern.php?action=feed&type=rss",
+      "reason": "request to https://bbs.archlinuxcn.org/extern.php?action=feed&type=rss failed, reason: ",
       "skippedByCircuit": true
     },
     {
@@ -101,6 +113,11 @@
       "reason": "HTTP 404"
     },
     {
+      "title": "联合早报 / 中国",
+      "url": "https://plink.anyfeeder.com/zaobao/realtime/china",
+      "reason": "HTTP 504"
+    },
+    {
       "title": "SBS 中文",
       "url": "https://plink.anyfeeder.com/sbs/chinese",
       "reason": "HTTP 404"
@@ -124,6 +141,11 @@
       "title": "全球主机交流论坛",
       "url": "https://hostloc.com/forum.php?mod=rss",
       "reason": "HTTP 403"
+    },
+    {
+      "title": "Arch Linux 中文论坛",
+      "url": "https://bbs.archlinuxcn.org/extern.php?action=feed&type=rss",
+      "reason": "request to https://bbs.archlinuxcn.org/extern.php?action=feed&type=rss failed, reason: "
     },
     {
       "title": "NodeLoc",
