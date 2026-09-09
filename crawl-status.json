@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-09-08T10:20:07.307Z",
-  "ended_at": "2026-09-08T10:20:07.530Z",
+  "started_at": "2026-09-09T00:58:17.233Z",
+  "ended_at": "2026-09-09T00:58:17.456Z",
   "duration_ms": 223,
   "config": {
     "concurrency": 8,
@@ -21,8 +21,8 @@
     "failed_sources": 11,
     "circuit_open_sources": 11,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1404,
-    "total_items_after_retention": 1196,
+    "total_items_after_dedupe": 1400,
+    "total_items_after_retention": 1194,
     "build_blocked": false
   },
   "critical_failures": [],
