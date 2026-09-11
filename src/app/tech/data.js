@@ -1,14 +1,597 @@
 const jsonData = [
   {
-    "id": "科技-IT 之家-https://www.ithome.com/1/000/909.htm",
+    "id": "科技-极客公园-http://www.geekpark.net/news/370157",
+    "feed_name": "极客公园",
+    "category": "科技",
+    "title": "DeepSeek V4.1 Flash 发布；罗永浩狂喷苹果折叠屏：全是抄的；马斯克「无聊公司」融资 30 亿美元｜极客早知道",
+    "link": "http://www.geekpark.net/news/370157",
+    "pub_date": "2026-09-11 08:31:05",
+    "author": "",
+    "description": "DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，最高降价 60% 9 月 10 日消息，深度求索今日正式发布DeepSeek V4.1 Flash 模型。这是其全新模型结构系列中的最小尺寸的模型，具备原生多模态视觉理解能力。 新模型结构的设计初衷是：能力上限更高、推理速度更快、吞吐更大、可扩展到更大参数模型。 DeepSeek V4.1 Flash 为 552B 参数的 MoE 模型，采…",
+    "content": "DeepSeek V4.1 Flash 模型正式发布：全面超越 V4 Pro、原生多模态视觉理解，最高降价 60% 9 月 10 日消息，深度求索今日正式发布 DeepSeek V4.1 Flash 模型 。这是其全新模型结构系列中的最小尺寸的模型，具备原生多模态视觉理解能力。 新模型结构的设计初衷是：能力上限更高、推理速度更快、吞吐更大、可扩展到更大参数模型。 DeepSeek V4.1 Flash 为 552B 参数的 MoE 模型 ，采用了全新的 Causal-Encoder-Decoder 结构，输入和输出…"
+  },
+  {
+    "id": "科技-IT 之家-https://www.ithome.com/1/001/089.htm",
     "feed_name": "IT 之家",
     "category": "科技",
-    "title": "消息称月之暗面考虑沪港双重上市，争取更多融资",
-    "link": "https://www.ithome.com/1/000/909.htm",
-    "pub_date": "2026-09-10 17:19:34",
+    "title": "环球音乐与 ElevenLabs 达成合作，共同打造授权人工智能音乐平台",
+    "link": "https://www.ithome.com/1/001/089.htm",
+    "pub_date": "2026-09-11 08:20:13",
     "author": "",
-    "description": "感谢IT之家网友 HH_KK 的线索投递！ IT之家 9 月 10 日消息，《南华早报》今天（10 日）援引两名知情人士消息称，中国 AI 初创公司月之暗面可能考虑在香港和上海两地上市，争取更多融资并提升市场知名度。 一名知情人士称，月之暗面 7 月与投资方商谈赴港首次公开募股（IPO）的具体安排后，又透露出赴港上市后进一步在内地上市的意向。 另一名知情人士透露，月之暗面在内地可能瞄准上海证券交易所以科技企业为主的科创板，相关磋商或将很…",
-    "content": "感谢IT之家网友 HH_KK 的线索投递！ IT之家 9 月 10 日消息，《南华早报》今天（10 日）援引两名知情人士消息称，中国 AI 初创公司月之暗面可能 考虑在香港和上海两地上市 ，争取更多融资并提升市场知名度。 一名知情人士称，月之暗面 7 月与投资方商谈赴港首次公开募股（IPO）的具体安排后，又透露出赴港上市后 进一步在内地上市 的意向。 另一名知情人士透露，月之暗面在内地可能瞄准 上海证券交易所以科技企业为主的科创板 ，相关磋商或将很快启动。科创板近期吸引了长鑫存储、宇树科技等一批中国科技明星企业，也…"
+    "description": "IT之家 9 月 11 日消息，环球音乐集团 (UMG) 美国当地时间 10 日宣布与人工智能音频研究和产品公司 ElevenLabs 达成一项多年许可协议和更广泛的战略合作。这也是后者与主流唱片公司达成的首份合作协议。 两家企业将共同构建一个基于授权音乐和艺人参与的全新人工智能音乐创作平台。这一尚在开发中的平台将为乐迷提供与参与的艺人和词曲作者共同创作音乐的全新方式，包括混音、串烧、全新演绎以及个性化的语音体验。双方还将在未来开发更多…",
+    "content": "IT之家 9 月 11 日消息，环球音乐集团 (UMG) 美国当地时间 10 日宣布与人工智能音频研究和产品公司 ElevenLabs 达成一项多年许可协议和更广泛的战略合作。这也是后者与主流唱片公司达成的首份合作协议。 两家企业将共同构建一个基于授权音乐和艺人参与的全新人工智能音乐创作平台 。这一尚在开发中的平台将为乐迷提供与参与的艺人和词曲作者共同创作音乐的全新方式，包括混音、串烧、全新演绎以及个性化的语音体验。双方还将在未来开发更多产品和乐迷体验。 环球音乐集团董事长兼首席执行官 Lucian Grainge…"
+  },
+  {
+    "id": "科技-IT 之家-https://www.ithome.com/1/001/082.htm",
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "IT早报 0911：雷军称小米未来 5 年投 2000 亿元研发；启境回应媒体群误发小米澎程攻防内容；DeepSeek V4.1 Flash 发布；美的回应洗衣机 19 小时耗 411MB 流量...",
+    "link": "https://www.ithome.com/1/001/082.htm",
+    "pub_date": "2026-09-11 07:56:28",
+    "author": "",
+    "description": "“IT早报”时间，大家好，现在是 2026 年 9 月 11 日星期五，今天的重要科技资讯有： 1. 雷军回应新华社报道小米“底层技术自研打开科技创新空间”：未来 5 年，计划投入 2000 亿元研发费用 新华社 9 月 10 日发文报道了小米玄戒三芯、小米澎程系列新车的发布，称底层技术自研打开科技创新空间。小米创办人、董事长兼 CEO 雷军 9 月 10 日发文回应，称在硬核科技上，会持续加大研发投入。未来 5 年，计划投入 2000…",
+    "content": "“IT早报”时间，大家好，现在是 2026 年 9 月 11 日星期五，今天的重要科技资讯有： 1. 雷军回应新华社报道小米“底层技术自研打开科技创新空间”：未来 5 年，计划投入 2000 亿元研发费用 新华社 9 月 10 日发文报道了小米玄戒三芯、小米澎程系列新车的发布，称底层技术自研打开科技创新空间。小米创办人、董事长兼 CEO 雷军 9 月 10 日发文回应，称在硬核科技上，会持续加大研发投入。未来 5 年，计划投入 2000 亿元研发费用。&gt;&gt; 查看详情 2. 启境汽车回应媒体群误发“小米澎…"
+  },
+  {
+    "id": "科技-IT 之家-https://www.ithome.com/1/001/080.htm",
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "你只是怕了：美国高官公开驳斥 Anthropic“AI 末日论”，称担忧源于对技术革命的恐惧",
+    "link": "https://www.ithome.com/1/001/080.htm",
+    "pub_date": "2026-09-11 07:55:21",
+    "author": "",
+    "description": "IT之家 9 月 11 日消息，美国国防部（又称“战争部”）首席技术官埃米尔 · 迈克尔（Emil Michael）当地时间 9 月 10 日在华盛顿举行的国防工业会议上，回应了 Anthropic 工程师雅各布 · 考克森（Jacob Coxon）关于 AI 可能杀死全人类的警告。 迈克尔表示，公众容易陷入“40% 的美国人将失业、AI 将摧毁人类”等悲观叙事。他认为，这些担忧最终都归结为对数据中心、技术变革以及 AI 失控的恐惧。 …",
+    "content": "IT之家 9 月 11 日消息，美国国防部（又称“战争部”）首席技术官埃米尔 · 迈克尔（Emil Michael）当地时间 9 月 10 日在华盛顿举行的国防工业会议上，回应了 Anthropic 工程师雅各布 · 考克森（Jacob Coxon）关于 AI 可能杀死全人类的警告。 迈克尔表示，公众容易陷入“40% 的美国人将失业、AI 将摧毁人类”等悲观叙事。他认为，这些担忧最终都归结为对数据中心、技术变革以及 AI 失控的恐惧。 他认为，围绕 AI 失控和大规模失业的担忧正在形成一种“末日论恶性循环”，但相关…"
+  },
+  {
+    "id": "科技-IT 之家-https://www.ithome.com/1/001/078.htm",
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "美加州法案禁止社交媒体平台向 16 岁以下用户提供成瘾性功能",
+    "link": "https://www.ithome.com/1/001/078.htm",
+    "pub_date": "2026-09-11 07:50:24",
+    "author": "",
+    "description": "IT之家 9 月 11 日消息，美国加利福尼亚州州长 Gavin Newsom（加文 · 纽森）当地时间本月 10 日宣布签署“全美最严格”儿童安全聊天机器人和社交媒体法案。 这一法案禁止社交媒体平台向 16 岁以下用户提供自动播放和基于用户历史记录和个人资料的算法推送等成瘾性功能；要求运营方为儿童陪伴聊天机器人提供强有力的保护，且需进行独立的儿童安全审计和年度风险评估；扩大对未成年人的性剥削和虐待保护范围；保护儿童免受定向广告的侵害，…",
+    "content": "IT之家 9 月 11 日消息，美国加利福尼亚州州长 Gavin Newsom（加文 · 纽森）当地时间本月 10 日宣布签署“全美最严格”儿童安全聊天机器人和社交媒体法案。 这一法案 禁止社交媒体平台向 16 岁以下用户提供自动播放和基于用户历史记录和个人资料的算法推送等成瘾性功能 ；要求运营方为儿童陪伴聊天机器人提供强有力的保护，且需进行独立的儿童安全审计和年度风险评估；扩大对未成年人的性剥削和虐待保护范围；保护儿童免受定向广告的侵害，规范人工智能系统对未成年学生群体数据的使用。 图源：Pexels Gavin…"
+  },
+  {
+    "id": "科技-IT 之家-https://www.ithome.com/1/001/077.htm",
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "苹果 Apple Watch Series 12 边框相比上一代更明显：屏幕面积缩小、机身更宽",
+    "link": "https://www.ithome.com/1/001/077.htm",
+    "pub_date": "2026-09-11 07:46:52",
+    "author": "",
+    "description": "IT之家 9 月 11 日消息，苹果在 2026 苹果秋季新品发布会中正式推出了 Apple Watch Series 12，不过用户发现新款手表边框相对于上一代明显了不少。 数据显示，46mm 版手表屏幕面积从上一代的 1220mm² 降至 1196mm²、42mm 版屏幕面积从上一代的 989mm² 降至 979mm²，不过，两款机型的屏幕分辨率均没有变化，46mm 版仍为 416×496 像素，42mm 版仍为 374×446 像…",
+    "content": "IT之家 9 月 11 日消息，苹果在 2026 苹果秋季新品发布会中正式推出了 Apple Watch Series 12，不过用户发现新款手表边框相对于上一代明显了不少。 数据显示，46mm 版手表屏幕面积从上一代的 1220mm² 降至 1196mm²、42mm 版屏幕面积从上一代的 989mm² 降至 979mm²，不过，两款机型的屏幕分辨率均没有变化，46mm 版仍为 416×496 像素，42mm 版仍为 374×446 像素。 ▲ Apple Watch Series 11 / 12 对比 与此同时，…"
+  },
+  {
+    "id": "科技-IT 之家-https://www.ithome.com/1/001/076.htm",
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "“AI 教父”辛顿：AI 灾难越来越近，10% 概率灭掉人类不是危言耸听",
+    "link": "https://www.ithome.com/1/001/076.htm",
+    "pub_date": "2026-09-11 07:43:14",
+    "author": "",
+    "description": "北京时间 9 月 11 日，据《商业内幕》报道，“AI 教父”杰弗里 · 辛顿 (Geoffrey Hinton) 表示，很难估计 AI 将人类全部灭绝的概率，但这个概率并非为零。 辛顿周三在接受 BBC《新闻之夜》采访时说：“在我看来，10% 的概率似乎是一个不算离谱的估计，但实际上没人知道该如何给出一个合理的估计。” 《新闻之夜》主持人维多利亚 · 德比希尔 (Victoria Derbyshire) 对此表示惊讶，因为辛顿基本认同…",
+    "content": "北京时间 9 月 11 日，据《商业内幕》报道，“AI 教父”杰弗里 · 辛顿 (Geoffrey Hinton) 表示，很难估计 AI 将人类全部灭绝的概率，但这个概率并非为零。 辛顿周三在接受 BBC《新闻之夜》采访时说：“在我看来，10% 的概率似乎是一个不算离谱的估计，但实际上没人知道该如何给出一个合理的估计。” 《新闻之夜》主持人维多利亚 · 德比希尔 (Victoria Derbyshire) 对此表示惊讶，因为辛顿基本认同了 Anthropic 顶级 AI 安全研究人员雅各布 · 考克森 (Jacob…"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8135740.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "【钛晨报】证监会发声，事关“十五五”资本市场工作；DeepSeek V4.1 Flash模型正式发布；马斯克旗下The Boring Company完成30亿美元D轮融资，估值达230亿美元",
+    "link": "https://www.tmtpost.com/8135740.html",
+    "pub_date": "2026-09-11 07:20:00",
+    "author": "",
+    "description": "高德回应“扫雷榜”传闻：正式发布“避雷指南1.0”；A股龙头进入苹果首款折叠屏手机iPhone Duo供应链；HD现代重工将投资8336亿韩元建设新发动机工厂；星巴克拟斥资10亿美元改造多达9000家门店；《金融强国建设“十五五”规划》正式出台；国务院办公厅印发《关于加强中小企业回款难问题治理有关工作的通知》；农业农村部：到2030年，畜牧业高质量发展迈上新台阶；打破国外长期垄断，中国小型液质联用仪研发取得重要突破；乘联分会：9月1-6…",
+    "content": "高德回应“扫雷榜”传闻：正式发布“避雷指南1.0”；A股龙头进入苹果首款折叠屏手机iPhone Duo供应链；HD现代重工将投资8336亿韩元建设新发动机工厂；星巴克拟斥资10亿美元改造多达9000家门店；《金融强国建设“十五五”规划》正式出台；国务院办公厅印发《关于加强中小企业回款难问题治理有关工作的通知》；农业农村部：到2030年，畜牧业高质量发展迈上新台阶；打破国外长期垄断，中国小型液质联用仪研发取得重要突破；乘联分会：9月1-6日中国乘用车新能源市场零售同比去年9月同期下降3%，较上月同期增长15%"
+  },
+  {
+    "id": "科技-IT 之家-https://www.ithome.com/1/001/068.htm",
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "SK 海力士目标 2028 年将 High NA EUV 技术用于 DRAM 内存量产",
+    "link": "https://www.ithome.com/1/001/068.htm",
+    "pub_date": "2026-09-11 07:19:53",
+    "author": "",
+    "description": "IT之家 9 月 11 日消息，参考路透社此前报道，SK 海力士在一份声明中表示，该企业目标在 2028 年将 High NA（高数值孔径）EUV 光刻图案化工艺应用于 DRAM 的大规模生产。 ASML 在当地时间本月 8 日宣布与台积电、三星电子、英特尔合作，推动 High NA EUV 生态系统转向面积更大的 12 英寸掩膜（光罩）。SK 海力士正评估是否加入这一联盟。 IT之家注意到，三星电子在同日新闻稿中确认计划在 2028 …",
+    "content": "IT之家 9 月 11 日消息，参考路透社此前报道，SK 海力士在一份声明中表示， 该企业目标在 2028 年将 High NA（高数值孔径）EUV 光刻图案化工艺应用于 DRAM 的大规模生产 。 ASML 在当地时间本月 8 日宣布与台积电、三星电子、英特尔合作，推动 High NA EUV 生态系统转向面积更大的 12 英寸掩膜（光罩）。 SK 海力士正评估是否加入这一联盟 。 IT之家注意到，三星电子在同日新闻稿中确认计划在 2028 年将 High NA EUV 技术用于先进 DRAM 内存的大规模生产；…"
+  },
+  {
+    "id": "科技-快科技-https://news.mydrivers.com/1/1150/1150283.htm",
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "《生化危机》30周年新图亮相 多位美女集体换装！",
+    "link": "https://news.mydrivers.com/1/1150/1150283.htm",
+    "pub_date": "2026-09-11 00:38:11",
+    "author": "",
+    "description": "",
+    "content": "9月10日，《生化危机》官方发布一张30周年主题群像新图，画面以金色铺陈、装饰感强烈的华丽画风呈现，初代多位主要角色同框出镜。 画面中，吉尔·瓦伦蒂安身着S.T.A.R.S.制服、头戴蓝色贝雷帽位于画面上方；艾达·王一袭红色连衣裙；克莱尔·雷德菲尔德穿着标志性红色外套、编发间点缀花卉；里昂·S·肯尼迪身穿R.P.D.警官制服；克里斯·雷德菲尔德则保留了初代的绿色马甲造型。 卡普空围绕30周年已有的一系列活动：系列初代于1996年3月22日登陆PlayStation，官方在今年3月22日上线纪念网站并公布哥特风纪念艺…"
+  },
+  {
+    "id": "科技-快科技-https://news.mydrivers.com/1/1150/1150282.htm",
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "澎程N90 Max七车叠罗汉为何悬架没塌 小米汽车详解：底部塞钢梁了",
+    "link": "https://news.mydrivers.com/1/1150/1150282.htm",
+    "pub_date": "2026-09-11 00:36:57",
+    "author": "",
+    "description": "",
+    "content": "快科技9月11日消息，小米汽车今日发布最新一期的答网友问（第287集），详细介绍了此前在澎程发布会中，展示的“七车叠罗汉”挑战。 小米汽车表示，小米澎程N90 Max上演的“七车叠罗汉”挑战，行业内通常称其为顶压测试， 主要用来考察车辆的顶部承压能力，验证车辆在面临翻滚或重物倾覆压顶等极端场景下，车身结构对乘员的防护能力。 小米澎程N90 Max的顶压挑战中展示的工况，是将7台N90 Max在垂直方向叠放在一起。最下方的N90 Max承受了6台N90 Max的重量，总重达17吨。最终，在如此重压下，最下方的N90 …"
+  },
+  {
+    "id": "科技-Solidot-https://www.solidot.org/story?sid=85341",
+    "feed_name": "Solidot",
+    "category": "科技",
+    "title": "LG 强烈否认其监视电视用户",
+    "link": "https://www.solidot.org/story?sid=85341",
+    "pub_date": "2026-09-11 00:33:09",
+    "author": "",
+    "description": "本周早期时候，YouTube 主播 Gamers Nexus 与独立安全研究人员合作，发现 LG 的智能电视机即便在离线或待机模式下也会持续记录并上传用户数据。LG 电视还会扫描 Wi-Fi 网络、记录音频日志，采样音视频输入内容以识别用户正在观看的节目。LG 在一则声明中称视频内容不实，“LG 电视仅在用户按住遥控器上的语音按钮，或在激活 Far-Field 功能后识别出‘Hi LG’等唤醒词时，才会处理语音数据。”LG 表示除此之外…",
+    "content": "本周早期时候，YouTube 主播 Gamers Nexus 与独立安全研究人员合作，发现 LG 的智能电视机即便在离线或待机模式下也会持续记录并上传用户数据。LG 电视还会扫描 Wi-Fi 网络、记录音频日志，采样音视频输入内容以识别用户正在观看的节目。LG 在一则声明中称视频内容不实，“LG 电视仅在用户按住遥控器上的语音按钮，或在激活 Far-Field 功能后识别出‘Hi LG’等唤醒词时，才会处理语音数据。”LG 表示除此之外其智能电视不会收集或记录环境中的对话。如果未识别出唤醒词，电视不会向服务器传输任…"
+  },
+  {
+    "id": "科技-快科技-https://news.mydrivers.com/1/1150/1150281.htm",
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "网传限制员工如厕说法不实！涉事公司致歉：事件已妥善解决",
+    "link": "https://news.mydrivers.com/1/1150/1150281.htm",
+    "pub_date": "2026-09-11 00:25:40",
+    "author": "",
+    "description": "",
+    "content": "快科技9月11日消息，日前，一条视频在社交平台热传，网传聊天截图称某电池大厂宜宾基地一名班长不让普工上厕所，导致员工失禁后情绪失控，在车间裸奔并拿粪便扔向班长。 据财闻报道，宁德时代有关负责人对此向其回应称是恶意造谣，视频中并非宁德时代，公司已报警请警方调查。 9月10日，瑞浦兰钧能源微信公号发布关于近期网传视频的声明：针对近期网络传播的相关视频，经核实，该事件发生于我司嘉善基地。 在此，对受本次事件波及的业内友商和关心我们的社会各界朋友，致以最诚挚的歉意。 当事员工因个人原因，主动提出离职申请并要求即时办结。依据…"
+  },
+  {
+    "id": "科技-快科技-https://news.mydrivers.com/1/1150/1150280.htm",
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "猪被泥石流掩埋36天奇迹般存活：网友起名猪坚强",
+    "link": "https://news.mydrivers.com/1/1150/1150280.htm",
+    "pub_date": "2026-09-11 00:12:53",
+    "author": "",
+    "description": "",
+    "content": "快科技9月11日消息，据媒体报道， 近日，有网友发视频称，陕西商洛市柞水县东河村一只猪被泥石流掩埋36天后，竟奇迹般存活。 视频显示，该猪被埋在石板下一个很小的空间内，有人在周围清理泥沙，猪的头部露出后用嘴拱着泥土，它的求生欲极强，整个施救过程持续了约一个半小时，最终被成功救出。 视频拍摄者小党表示，他家里养了两头猪，分别叫“猪大”和“猪二”。今年8月5日，柞水县发生洪水，泥石流将小党家的猪圈完全掩埋，猪二跑了出来，猪大被泥石流掩埋。 两头猪养了半年多本来想过年杀来吃或者卖钱，大家都以为猪大没有生还希望，非常心痛。…"
+  },
+  {
+    "id": "科技-Solidot-https://www.solidot.org/story?sid=85340",
+    "feed_name": "Solidot",
+    "category": "科技",
+    "title": "育碧准备在 Steam 上取消安装 Ubisoft Connect 客户端的要求",
+    "link": "https://www.solidot.org/story?sid=85340",
+    "pub_date": "2026-09-11 00:08:56",
+    "author": "",
+    "description": "在 Steam 上购买和运行育碧的游戏需要安装其客户端 Ubisoft Connect，启动游戏时需要同时启动育碧和 Steam 两个启动程序，这种做法长期受到 Steam 玩家的诟病。现在育碧宣布将逐步取消这一要求，“从《Prince of Persia: The Lost Crown》起，我们将测试一项名为‘Ubisoft Connect Services’的全新 Steam 工具。该工具能保留跨平台进度、跨平台联机、玩家安全保障、…",
+    "content": "在 Steam 上购买和运行育碧的游戏需要安装其客户端 Ubisoft Connect，启动游戏时需要同时启动育碧和 Steam 两个启动程序，这种做法长期受到 Steam 玩家的诟病。现在育碧宣布将逐步取消这一要求，“从《Prince of Persia: The Lost Crown》起，我们将测试一项名为‘Ubisoft Connect Services’的全新 Steam 工具。该工具能保留跨平台进度、跨平台联机、玩家安全保障、挑战与奖励等育碧游戏功能，而无需安装或启动 Ubisoft Connect PC…"
+  },
+  {
+    "id": "科技-快科技-https://news.mydrivers.com/1/1150/1150279.htm",
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "首发高通最强芯片！小米18 Pro Max跑分出炉：多核成绩突破1.2万分",
+    "link": "https://news.mydrivers.com/1/1150/1150279.htm",
+    "pub_date": "2026-09-11 00:03:31",
+    "author": "",
+    "description": "",
+    "content": "快科技9月11日消息，继小米18 Fold折叠屏之后，小米18系列新成员即将登场。 日前小米18 Pro Max现身Geekbench跑分网站。该机全球首发高通第六代骁龙8超级至尊版旗舰平台，其单核成绩为3582分，多核成绩为12247分。 对比高通上代旗舰平台，小米18 Pro Max的单核成绩提升了约300分，多核成绩提升了约1000分。考虑到是工程机的缘故，小米18 Pro Max的跑分仍有上升空间。 有博主预估，其单核成绩能冲到3700分，这将是高通史上最强悍的手机芯片。 规格方面，高通第六代骁龙8超级至尊…"
+  },
+  {
+    "id": "科技-Solidot-https://www.solidot.org/story?sid=85339",
+    "feed_name": "Solidot",
+    "category": "科技",
+    "title": "OpenAI 声称解决了 Navier-Stokes 问题，但引发了利用未发布成果的争议",
+    "link": "https://www.solidot.org/story?sid=85339",
+    "pub_date": "2026-09-10 23:51:55",
+    "author": "",
+    "description": "约 200 年前，法国物理学家克劳德-路易·纳维和爱尔兰物理学家乔治·斯托克斯提出了一组至今仍然广泛使用的、描述液体、空气等流体运动的偏微分方程。Navier-Stokes 方程并不保证适用于所有可能的情况。几十年来，数学家一直致力于寻求证明方程的普适性或导致方程失效的特例。2000 年克雷数学研究所将 Navier-Stokes 方程列为六大千禧年数学问题之一。OpenAI 本周宣布通过动用约 1 万个 AI 智能体进行长达 88 小…",
+    "content": "约 200 年前，法国物理学家克劳德-路易·纳维和爱尔兰物理学家乔治·斯托克斯提出了一组至今仍然广泛使用的、描述液体、空气等流体运动的偏微分方程。Navier-Stokes 方程并不保证适用于所有可能的情况。几十年来，数学家一直致力于寻求证明方程的普适性或导致方程失效的特例。2000 年克雷数学研究所将 Navier-Stokes 方程列为六大千禧年数学问题之一。OpenAI 本周宣布通过动用约 1 万个 AI 智能体进行长达 88 小时的攻坚，于 9 月 5 日发现了一个 Navier-Stokes 方程失效的特…"
+  },
+  {
+    "id": "科技-超能网-http://www.expreview.com/108105.html",
+    "feed_name": "超能网",
+    "category": "科技",
+    "title": "Epic平台免费领取《与你独处》和《天空奇兵》，至9月17日23点截止",
+    "link": "http://www.expreview.com/108105.html",
+    "pub_date": "2026-09-10 23:31:00",
+    "author": "吕嘉俭",
+    "description": "Epic Games Store本周送出的游戏是《星界战士（Astral Ascent）》和《天空奇兵（Luftrausers）》，领取的截止时间是2026年9月17日23点，喜欢的玩家不要错过。 《星界战士》，游戏领取地址：点击前往>>> 《天空奇兵》，游戏领取地址：点击前往>>> 《星界战士》是由Hibernian Workshop开发、MP2 Games发行的一款以现代幻想世界为背景的2D平台rogue-lite游戏，于2023年…",
+    "content": "Epic Games Store本周送出的游戏是《星界战士（Astral Ascent）》和《天空奇兵（Luftrausers）》，领取的截止时间是2026年9月17日23点，喜欢的玩家不要错过。 《星界战士》，游戏领取地址： 点击前往&gt;&gt;&gt; 《天空奇兵》，游戏领取地址： 点击前往&gt;&gt;&gt; 《星界战士》是由Hibernian Workshop开发、MP2 Games发行的一款以现代幻想世界为背景的2D平台rogue-lite游戏，于2023年11月14日发售。作为4个性格迥异的英雄…"
+  },
+  {
+    "id": "科技-爱范儿-https://www.ifanr.com/1679681?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "feed_name": "爱范儿",
+    "category": "科技",
+    "title": "20.99 万元起！全新智己 LS6 预售，全线控底盘全系标配",
+    "link": "https://www.ifanr.com/1679681?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "pub_date": "2026-09-10 21:52:09",
+    "author": "",
+    "description": "「全线控」已成智己的招牌。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "content": "「全线控」已成智己的招牌。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+    "id": "科技-爱范儿-https://www.ifanr.com/1679668?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "feed_name": "爱范儿",
+    "category": "科技",
+    "title": "补贴后 12.99 万元起，银河 TT 上市：全系 800V+宁德时代定制电池",
+    "link": "https://www.ifanr.com/1679668?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "pub_date": "2026-09-10 21:46:20",
+    "author": "",
+    "description": "银河 TT 想通吃性能党和家庭用户。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "content": "银河 TT 想通吃性能党和家庭用户。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8135753.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "沃尔玛的低迷让这只股票成为值得买入的选择",
+    "link": "https://www.tmtpost.com/8135753.html",
+    "pub_date": "2026-09-10 21:44:17",
+    "author": "",
+    "description": "这家公司依然主导着零售市场，并且正在拓展附属收入来源。",
+    "content": "这家公司依然主导着零售市场，并且正在拓展附属收入来源。"
+  },
+  {
+    "id": "科技-极客公园-http://www.geekpark.net/news/370064",
+    "feed_name": "极客公园",
+    "category": "科技",
+    "title": "走出聊天框，Agent 开始进入现实世界",
+    "link": "http://www.geekpark.net/news/370064",
+    "pub_date": "2026-09-10 21:39:07",
+    "author": "",
+    "description": "头图来源：小度 Agent 正在寻找自己的「身体」。 过去一年，智能体的主要工作对象是文件、网页和软件。它们可以搜索资料、分析数据、制作 PPT，也可以打开浏览器、调用工具，把一句需求推进成一份可供交付的结果。衡量一个 Agent 能力的方式，也集中在任务能不能做完、执行路径是否稳定、生成结果是否可用。 但屏幕里的 Agent 仍然与现实世界隔着一层。 它可以替人整理一周的工作记录，却不知道会议室里刚刚讨论了什么；能够生成一套家庭计划，…",
+    "content": "&nbsp; 头图来源：小度 Agent 正在寻找自己的「身体」。 过去一年，智能体的主要工作对象是文件、网页和软件。它们可以搜索资料、分析数据、制作 PPT，也可以打开浏览器、调用工具，把一句需求推进成一份可供交付的结果。衡量一个 Agent 能力的方式，也集中在任务能不能做完、执行路径是否稳定、生成结果是否可用。 但屏幕里的 Agent 仍然与现实世界隔着一层。 它可以替人整理一周的工作记录，却不知道会议室里刚刚讨论了什么；能够生成一套家庭计划，却看不到孩子有没有开始写作业；可以给出老人用药的注意事项，却无法确…"
+  },
+  {
+    "id": "科技-极客公园-http://www.geekpark.net/news/370155",
+    "feed_name": "极客公园",
+    "category": "科技",
+    "title": "微信，悄悄迈出 AI 社交的第一步",
+    "link": "http://www.geekpark.net/news/370155",
+    "pub_date": "2026-09-10 21:36:57",
+    "author": "",
+    "description": "头图来源：视觉中国、ChatGPT 生成 最近，微信开始小范围测试一项新的「小微 AI 社交」功能。 用户如果想联系一位朋友，可以先把诉求告诉自己的「小微」。小微找到对方的小微后，会说明此次沟通的话题，并向对方本人请求授权。获得同意后，两个小微先行交流；遇到需要用户作出选择或者确认的地方，再分别回来提醒各自的主人。 这和「帮我给某某发一条微信」并不相同。 代发消息仍然由用户决定说什么，AI 只是代替用户点击发送。小微 AI 社交中，用户…",
+    "content": "&nbsp; 头图来源：视觉中国、ChatGPT 生成 &nbsp; 最近，微信开始小范围测试一项新的「小微 AI 社交」功能。 用户如果想联系一位朋友，可以先把诉求告诉自己的「小微」。小微找到对方的小微后，会说明此次沟通的话题，并向对方本人请求授权。获得同意后，两个小微先行交流；遇到需要用户作出选择或者确认的地方，再分别回来提醒各自的主人。 这和「帮我给某某发一条微信」并不相同。 代发消息仍然由用户决定说什么，AI 只是代替用户点击发送。小微 AI 社交中，用户交给 AI 的是一个目的。如何发起询问、交换哪些信息…"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8135602.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "AI无限拉低创作门槛，内容平台怎么讲新故事",
+    "link": "https://www.tmtpost.com/8135602.html",
+    "pub_date": "2026-09-10 21:19:57",
+    "author": "",
+    "description": "AI让想法到产品的距离缩短近乎为零，也催生出新型创作者Builder（建造者）。他们既非传统开发者，也非传统内容创作者，而是把想法做出来，并且把过程公开的人。B站正试图把他们的“创造力”变成一门可以计价的生意。",
+    "content": "AI让想法到产品的距离缩短近乎为零，也催生出新型创作者Builder（建造者）。他们既非传统开发者，也非传统内容创作者，而是把想法做出来，并且把过程公开的人。B站正试图把他们的“创造力”变成一门可以计价的生意。"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8135640.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "九方智投“股道智航”正式发布：“AI+量化”重新定义证券投顾4.0时代",
+    "link": "https://www.tmtpost.com/8135640.html",
+    "pub_date": "2026-09-10 21:14:47",
+    "author": "",
+    "description": "从股道领航到股道智航，变的是技术形态，不变的是“以客户为中心”的初心。",
+    "content": "从股道领航到股道智航，变的是技术形态，不变的是“以客户为中心”的初心。"
+  },
+  {
+    "id": "科技-爱范儿-https://www.ifanr.com/1679651?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "feed_name": "爱范儿",
+    "category": "科技",
+    "title": "iPhone 18 Pro 发布速览：「面子」变化不大，「里子」全面升级",
+    "link": "https://www.ifanr.com/1679651?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "pub_date": "2026-09-10 21:11:37",
+    "author": "",
+    "description": "更贵了，也更强了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "content": "更贵了，也更强了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+    "id": "科技-IT 之家-https://www.ithome.com/1/000/998.htm",
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "AI XPU 企业 d-Matrix 宣布加入英伟达 NVLink Fusion 生态系统",
+    "link": "https://www.ithome.com/1/000/998.htm",
+    "pub_date": "2026-09-10 21:07:03",
+    "author": "",
+    "description": "IT之家 9 月 10 日消息，AI 推理芯片制造商 d-Matrix 美国加州当地时间 10 日宣布加入 NVIDIA（英伟达） NVLink Fusion 生态系统。d-Matrix 的机架级 XPU 系统将采用 NVIDIA 的 MGX 通用机架参考架构。 具体来看，d-Matrix 自 \"Raptor\" 起的下一代推理 XPU 将与 NVIDIA Vera CPU、NVLink 交换机、BlueField-4 DPU、Conne…",
+    "content": "IT之家 9 月 10 日消息，AI 推理芯片制造商 d-Matrix 美国加州当地时间 10 日宣布加入 NVIDIA（英伟达） NVLink Fusion 生态系统。 d-Matrix 的机架级 XPU 系统将采用 NVIDIA 的 MGX 通用机架参考架构 。 具体来看，d-Matrix 自 \"Raptor\" 起的下一代推理 XPU 将与 NVIDIA Vera CPU、NVLink 交换机、BlueField-4 DPU、ConnectX-9 SuperNIC、Spectrum-X 以太网网络相整合，实现纵…"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8135693.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "Xiaomi Presses Huawei and Apple in China’s Crowded Premium Phone Market",
+    "link": "https://www.tmtpost.com/8135693.html",
+    "pub_date": "2026-09-10 20:30:03",
+    "author": "",
+    "description": "Xiaomi faces intense competition from Huawei’s domestic strength and Apple’s brand loyalty in China’s smartphone market. Self-developed chips and a new foldable aim to lift its premium presence, yet shipment declines and…",
+    "content": "Xiaomi faces intense competition from Huawei’s domestic strength and Apple’s brand loyalty in China’s smartphone market. Self-developed chips and a new foldable aim to lift its premium presence, yet shipment declines and margin pressure highlight the difficult…"
+  },
+  {
+    "id": "科技-InfoQ 中文-https://www.infoq.cn/article/W2lxNULd8rJGsXWjEgMX",
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "2026 腾讯云大数据年度精选技术实践指南",
+    "link": "https://www.infoq.cn/article/W2lxNULd8rJGsXWjEgMX",
+    "pub_date": "2026-09-10 20:26:52",
+    "author": "腾讯云大数据",
+    "description": "数据正在从被动资产走向主动生产力，AI 也从辅助工具迈入业务核心系统。在 Data+AI 不断深化的进程中，技术演进的焦点，正从平台能力的构建，转向真实业务场景中的规模化落地与价值兑现。 在这一过程中，技术范式也在持续跃迁：以 Serverless 为代表的云原生架构，让计算资源实现按需弹性与精细化成本控制；以湖仓一体与实时数仓为核心的数据底座，支撑高并发、低延迟的分析需求；而以大模型与 RAG 为代表的 AI 能力，则通过智能体等应用…",
+    "content": "数据正在从被动资产走向主动生产力，AI 也从辅助工具迈入业务核心系统。在 Data+AI 不断深化的进程中，技术演进的焦点，正从平台能力的构建，转向真实业务场景中的规模化落地与价值兑现。 在这一过程中，技术范式也在持续跃迁：以 Serverless 为代表的云原生架构，让计算资源实现按需弹性与精细化成本控制；以湖仓一体与实时数仓为核心的数据底座，支撑高并发、低延迟的分析需求；而以大模型与 RAG 为代表的 AI 能力，则通过智能体等应用形态深入业务一线，形成从理解业务语义到执行任务与输出结果的闭环能力。这些变化共同…"
+  },
+  {
+    "id": "科技-果壳网 / 科学人-https://www.guokr.com/article/470183/",
+    "feed_name": "果壳网 / 科学人",
+    "category": "科技",
+    "title": "苹果发布iPhone 18 Pro系列及首款折叠屏iPhone Duo；中国西南首次发现丹尼索瓦人化石；日本暴发梅毒疫情",
+    "link": "https://www.guokr.com/article/470183/",
+    "pub_date": "2026-09-10 20:15:12",
+    "author": "果壳",
+    "description": "今天是9月10日，星期四。1984年的今天，英国科学家亚历克·杰弗里斯在研究遗传标记时，通过X射线胶片意外发现了DNA指纹技术。 重点新闻速览 1.iPhone Handoff功能实现两机共享一号 2.DeepSeek正式发布V4.1 Flash模型 3.中国西南首次发现丹尼索瓦人化石 4.苹果发布iPhone 18 Pro系列及首款折叠屏iPhone Duo 5.日本爆发梅毒疫情 科技iPhone Handoff功能实现两机共享一号 …",
+    "content": "今天是9月10日，星期四。1984年的今天，英国科学家亚历克·杰弗里斯在研究遗传标记时，通过X射线胶片意外发现了DNA指纹技术。 重点新闻速览 1.iPhone Handoff功能实现两机共享一号 2.DeepSeek正式发布V4.1 Flash模型 3.中国西南首次发现丹尼索瓦人化石 4.苹果发布iPhone 18 Pro系列及首款折叠屏iPhone Duo 5.日本爆发梅毒疫情 科技 iPhone Handoff功能实现两机共享一号 9月10日，苹果在秋季发布会上正式推出iPhone Handoff功能，实现两…"
+  },
+  {
+    "id": "科技-InfoQ 中文-https://www.infoq.cn/article/RCa5y6tvZXbjGKeLSGZt",
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "Snowflake 落地中国两年：迈向智能体企业时代，关键在上下文",
+    "link": "https://www.infoq.cn/article/RCa5y6tvZXbjGKeLSGZt",
+    "pub_date": "2026-09-10 19:57:48",
+    "author": "王玮",
+    "description": "9 月 8 日，Snowflake World Tour 全球巡演首次落地中国。此时距离 Snowflake 正式进入中国市场刚好两年。 两年之后，Snowflake 将这场中国首秀的重点放在了一个更明确的方向上：Agentic Enterprise，企业级智能体。 Snowflake 中国区总经理张莹（Shannon Zhang）在开场中首先把问题落到了企业上下文。她提到，当先进模型越来越容易获得，AI 给出的答案可能逻辑完整、表达流…",
+    "content": "9 月 8 日，Snowflake World Tour 全球巡演首次落地中国。此时距离 Snowflake 正式进入中国市场刚好两年。 两年之后，Snowflake 将这场中国首秀的重点放在了一个更明确的方向上：Agentic Enterprise，企业级智能体。 Snowflake 中国区总经理张莹（Shannon Zhang）在开场中首先把问题落到了企业上下文。她提到，当先进模型越来越容易获得，AI 给出的答案可能逻辑完整、表达流畅，但进入真实企业之后，定义、口径和业务规则往往各不相同。 “当 AI 无处不在…"
+  },
+  {
+    "id": "科技-Solidot-https://www.solidot.org/story?sid=85338",
+    "feed_name": "Solidot",
+    "category": "科技",
+    "title": "微软九月例行更新修复近千个 Bug",
+    "link": "https://www.solidot.org/story?sid=85338",
+    "pub_date": "2026-09-10 19:42:20",
+    "author": "",
+    "description": "在 AI 辅助发现 bug 的时代，主要操作系统每个月修复的 bug 数都在飙升。微软周二释出了九月例行安全更新，总共修复了 974 个 bug，数量为史上最多，今年的安全补丁数已超过 2600。最新补丁包括了 2 个正被利用的提权 0day 漏洞 CVE-2026-81963 和 CVE-2026-85880，113 个 bug 被列为高危，438 个提权 bug，19 个安全功能绕过 bug，258 个远程代码执行 bug，173 …",
+    "content": "在 AI 辅助发现 bug 的时代，主要操作系统每个月修复的 bug 数都在飙升。微软周二释出了九月例行安全更新，总共修复了 974 个 bug，数量为史上最多，今年的安全补丁数已超过 2600。最新补丁包括了 2 个正被利用的提权 0day 漏洞 CVE-2026-81963 和 CVE-2026-85880，113 个 bug 被列为高危，438 个提权 bug，19 个安全功能绕过 bug，258 个远程代码执行 bug，173 个信息泄露 bug，56 个拒绝服务 bug，16 个欺骗 bug。比较严重的 …"
+  },
+  {
+    "id": "科技-极客公园-http://www.geekpark.net/news/370150",
+    "feed_name": "极客公园",
+    "category": "科技",
+    "title": "对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑",
+    "link": "http://www.geekpark.net/news/370150",
+    "pub_date": "2026-09-10 19:41:33",
+    "author": "",
+    "description": "在刚刚结束的 IFA 柏林国际消费电子展上，几乎每家机器人公司的展台上，都会摆上一台可穿戴外骨骼设备。就像 10 年前，很多互联网新锐创业者都喜欢在办公桌上摆一台无人机。这既是对这个品类「前沿」的认可，也表露出某种对市场增长的看好。 2025 年被认为是「消费级外骨骼元年」。今年，这个行业迅速涌入了上百个新玩家。 极壳 Hypershell 去年的全球出货量超过了 3 万台，是这个细分领域里公认的头号玩家。创始人孙宽认为，这仍然是一个相…",
+    "content": "在刚刚结束的 IFA 柏林国际消费电子展上，几乎每家机器人公司的展台上，都会摆上一台可穿戴外骨骼设备。就像 10 年前，很多互联网新锐创业者都喜欢在办公桌上摆一台无人机。这既是对这个品类「前沿」的认可，也表露出某种对市场增长的看好。 2025 年被认为是「消费级外骨骼元年」。今年，这个行业迅速涌入了上百个新玩家。 极壳 Hypershell 去年的全球出货量超过了 3 万台，是这个细分领域里公认的头号玩家。创始人孙宽认为，这仍然是一个相对早期和小众的品类，现有的产品体验还有大量提升的空间。 在孙宽看来，竞争并不是当…"
+  },
+  {
+    "id": "科技-InfoQ 中文-https://www.infoq.cn/article/FKI7zch6mfFHuNB72eyZ",
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "破除人形崇拜！京东用“狼族”军团重做物理AI",
+    "link": "https://www.infoq.cn/article/FKI7zch6mfFHuNB72eyZ",
+    "pub_date": "2026-09-10 19:28:14",
+    "author": "四月",
+    "description": "纵使会后空翻的机器人再惊艳，也应付不来以时效和成本论输赢的流水产线。 当科技圈还在为人形机器人叠衣服、打拳击而狂热不止时，真实供应链产线却是另一番景象。Interact Analysis 最新数据显示，全球超七成的仓库严重依赖人力，自动化渗透率不足 25%。即便在已部署机器人的自动化仓库，拣选、理货等柔性环节依然吞噬掉过半运营成本。 自动化投资年年攀升，能让机器真正接手的环节却始终有限。 核心死穴就卡在“非标”。全球物流集成商 BEUM…",
+    "content": "纵使会后空翻的机器人再惊艳，也应付不来以时效和成本论输赢的流水产线。 当科技圈还在为人形机器人叠衣服、打拳击而狂热不止时，真实供应链产线却是另一番景象。Interact Analysis 最新数据显示，全球超七成的仓库严重依赖人力，自动化渗透率不足 25%。即便在已部署机器人的自动化仓库，拣选、理货等柔性环节依然吞噬掉过半运营成本。 自动化投资年年攀升，能让机器真正接手的环节却始终有限。 核心死穴就卡在“非标”。全球物流集成商 BEUMER 的经验显示：仅占总量约两成的异形、软塌等非标件，却吞噬了物流员工近八成的操…"
+  },
+  {
+    "id": "科技-Solidot-https://www.solidot.org/story?sid=85337",
+    "feed_name": "Solidot",
+    "category": "科技",
+    "title": "Google 向司机推荐更长的行驶路线以缓解拥堵",
+    "link": "https://www.solidot.org/story?sid=85337",
+    "pub_date": "2026-09-10 19:05:40",
+    "author": "",
+    "description": "根据发表在《Nature Cities》期刊上的一项研究，Google 研究人员利用 Google Maps 有意向部分司机推荐更长的行驶路线，此举有助于将车流分散到更多条道路上，从而缓解交通拥堵。研究人员在西雅图、盐湖城、芝加哥和亚特兰大等 10 座城市进行了实验，结果显示拥堵路段的平均车速提高了 2%，通行时间缩短了 0.7%。这种方法对大城市如洛杉矶的高速公路路段的引导效果最为显著，相关路段的车速提高了 4.6%。大部分城市的效果…",
+    "content": "根据发表在《Nature Cities》期刊上的一项研究，Google 研究人员利用 Google Maps 有意向部分司机推荐更长的行驶路线，此举有助于将车流分散到更多条道路上，从而缓解交通拥堵。研究人员在西雅图、盐湖城、芝加哥和亚特兰大等 10 座城市进行了实验，结果显示拥堵路段的平均车速提高了 2%，通行时间缩短了 0.7%。这种方法对大城市如洛杉矶的高速公路路段的引导效果最为显著，相关路段的车速提高了 4.6%。大部分城市的效果不那么显著，高峰时段的整体车速仅提高了 0.5%。UCLA 城市规划教授 Mic…"
+  },
+  {
+    "id": "科技-雷峰网-https://www.leiphone.com/category/yanxishe/U8PtVze3OZTTnJc4.html",
+    "feed_name": "雷峰网",
+    "category": "科技",
+    "title": "深度解读 DeepSeek V4.1 Flash 全新架构，如何成为显存杀手",
+    "link": "https://www.leiphone.com/category/yanxishe/U8PtVze3OZTTnJc4.html",
+    "pub_date": "2026-09-10 19:00:00",
+    "author": "高允毅",
+    "description": "导语：KV 缓存暴降 437 倍，Agent 成本大洗牌。 KV 缓存暴降 437 倍，Agent 成本大洗牌。 作者丨高允毅 编辑丨岑 峰 刚刚 DeepSeek V4.1-Flash 上线，最值得关注的是它的全新架构。 这是一次针对长上下文场景的架构重写。过去，更强的智力往往意味着更庞大的算力，超长上下文背后是极高的硬件需求。 但DeepSeek 这次用因果编码器-解码器架构 Causal-Encoder-Decoder（CED）、…",
+    "content": "导语：KV 缓存暴降 437 倍，Agent 成本大洗牌。 KV 缓存暴降 437 倍，Agent 成本大洗牌。 &nbsp; &nbsp; 作者丨高允毅 &nbsp; &nbsp; 编辑丨岑 &nbsp; 峰 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; …"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8135620.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "重温此前的股票推荐：Vita Coco、Idacorp、斯巴鲁",
+    "link": "https://www.tmtpost.com/8135620.html",
+    "pub_date": "2026-09-10 18:57:00",
+    "author": "",
+    "description": "技术指标表明，这三只股票的价格将走高。",
+    "content": "技术指标表明，这三只股票的价格将走高。"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8135615.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "欧洲天然气价格飙升至四年来新高，带动这些能源股上涨",
+    "link": "https://www.tmtpost.com/8135615.html",
+    "pub_date": "2026-09-10 18:56:39",
+    "author": "",
+    "description": "欧洲天然气价格正在飙升，这为Venture Global、Cheniere Energy、壳牌、挪威国家石油公司以及美国天然气生产商带来了机会。",
+    "content": "欧洲天然气价格正在飙升，这为Venture Global、Cheniere Energy、壳牌、挪威国家石油公司以及美国天然气生产商带来了机会。"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8135613.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "这位国际基金经理正重仓押注银行和能源，但不看好科技股",
+    "link": "https://www.tmtpost.com/8135613.html",
+    "pub_date": "2026-09-10 18:56:28",
+    "author": "",
+    "description": "科尔·斯米德旗下的“斯米德国际价值基金”在过去一年里回报率接近50%。他为何看好加拿大油砂股和欧洲银行股。",
+    "content": "科尔·斯米德旗下的“斯米德国际价值基金”在过去一年里回报率接近50%。他为何看好加拿大油砂股和欧洲银行股。"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8135479.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "无人车拐点：中国供应链降维打击",
+    "link": "https://www.tmtpost.com/8135479.html",
+    "pub_date": "2026-09-10 18:50:06",
+    "author": "",
+    "description": "自动驾驶的竞争，已经从技术验证阶段，进入了制度效率与成本结构的对决。",
+    "content": "自动驾驶的竞争，已经从技术验证阶段，进入了制度效率与成本结构的对决。"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8134990.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "智谱“既要又要”",
+    "link": "https://www.tmtpost.com/8134990.html",
+    "pub_date": "2026-09-10 18:50:03",
+    "author": "",
+    "description": "离“中国版Anthropic”还有多远？",
+    "content": "离“中国版Anthropic”还有多远？"
+  },
+  {
+    "id": "科技-雷峰网-https://www.leiphone.com/category/industrynews/HoBDVtC0QpjjwVfv.html",
+    "feed_name": "雷峰网",
+    "category": "科技",
+    "title": "蚂蚁数科推出 Agentar 金融版 助力金融机构打造智能体超级工厂",
+    "link": "https://www.leiphone.com/category/industrynews/HoBDVtC0QpjjwVfv.html",
+    "pub_date": "2026-09-10 18:49:00",
+    "author": "徐咪",
+    "description": "导语：9月10日，在2026 Inclusion·外滩大会见解论坛上，蚂蚁数科AI业务总裁余滨表示，蚂蚁数科推出Agentar 金融版，提供开箱即用的金融智能体专家团 9月10日，在2026 Inclusion·外滩大会见解论坛上，蚂蚁数科AI业务总裁余滨表示，蚂蚁数科推出Agentar 金融版，提供开箱即用的金融智能体专家团、行业 Skill、MCP、智能体评测工具及治理能力，为金融机构打造覆盖智能体开发、部署、协作、评测与管理的智能…",
+    "content": "导语：9月10日，在2026 Inclusion·外滩大会见解论坛上，蚂蚁数科AI业务总裁余滨表示，蚂蚁数科推出Agentar 金融版，提供开箱即用的金融智能体专家团 9月10日，在2026 Inclusion·外滩大会见解论坛上，蚂蚁数科AI业务总裁余滨表示，蚂蚁数科推出Agentar 金融版，提供开箱即用的金融智能体专家团、行业 Skill、MCP、智能体评测工具及治理能力，为金融机构打造覆盖智能体开发、部署、协作、评测与管理的智能体超级工厂，加快AI智能体在金融真实业务场景中的落地应用。 &nbsp; &nb…"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8134782.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "新Siri终于开始理解用户“个人上下文”了",
+    "link": "https://www.tmtpost.com/8134782.html",
+    "pub_date": "2026-09-10 18:30:04",
+    "author": "",
+    "description": "Siri AI本月上线，苹果手表实时感知",
+    "content": "Siri AI本月上线，苹果手表实时感知"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8135480.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "当iPhone终于“折”起来，谁能抢到下一代手机定义权？",
+    "link": "https://www.tmtpost.com/8135480.html",
+    "pub_date": "2026-09-10 18:30:02",
+    "author": "",
+    "description": "万元折叠密集出场，有人骂贵，有人真想买",
+    "content": "万元折叠密集出场，有人骂贵，有人真想买"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8135077.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "GPT6发布之际，一位硅谷工程师首谈眼中的“混蛋”马斯克、AGI、智能平权与人类可能面对的可怕未来",
+    "link": "https://www.tmtpost.com/8135077.html",
+    "pub_date": "2026-09-10 18:30:00",
+    "author": "",
+    "description": "GPT6 Astra 最强模型正式上线。一期封存 3 个月的深度对谈，终于可以放出来了。嘉宾赵迪，现任 OpenAI Infra 工程师，曾与马斯克共事 7 年。这一期，我们聊 X、Codex、Grok、大模型 Infra、世界模型，也聊他眼中的前老板“世界上最混蛋的人”马斯克，以及 OpenAI 所追求的“智能平权”。",
+    "content": "GPT6 Astra 最强模型正式上线。一期封存 3 个月的深度对谈，终于可以放出来了。嘉宾赵迪，现任 OpenAI Infra 工程师，曾与马斯克共事 7 年。这一期，我们聊 X、Codex、Grok、大模型 Infra、世界模型，也聊他眼中的前老板“世界上最混蛋的人”马斯克，以及 OpenAI 所追求的“智能平权”。"
+  },
+  {
+    "id": "科技-果壳网 / 科学人-https://www.guokr.com/article/470182/",
+    "feed_name": "果壳网 / 科学人",
+    "category": "科技",
+    "title": "AI狂飙的时代，蚂蚁森林要再种一棵“异想天开”的树",
+    "link": "https://www.guokr.com/article/470182/",
+    "pub_date": "2026-09-10 18:15:08",
+    "author": "果壳",
+    "description": "互联网时代最了不起的地方，就是赋予了每一个普通人前所未有的“超能力”：你能在荒郊野岭叫来一辆车，能从手机里“变”出来钱，也能足不出户尝遍全城的饭菜……很多曾被视作“异想天开”的事，一件件照进了现实。 蚂蚁森林，就是互联网时代长出的一棵“异想天开”的树。 今天，蚂蚁森林发布了一封写给7亿参与者的公开信，信中坦承，当年谁也没有预判到，这个最初看起来“不那么靠谱”的构想，会一步步成长为全球参与人数最多的生态公益之一：7亿人参与、其中1.6亿人…",
+    "content": "互联网时代最了不起的地方，就是赋予了每一个普通人前所未有的“超能力”：你能在荒郊野岭叫来一辆车，能从手机里“变”出来钱，也能足不出户尝遍全城的饭菜……很多曾被视作“异想天开”的事，一件件照进了现实。 蚂蚁森林， 就是互联网时代长出的一棵“异想天开”的树。 今天，蚂蚁森林发布了一封写给7亿参与者的公开信，信中坦承，当年谁也没有预判到，这个最初看起来“不那么靠谱”的构想，会一步步成长为全球参与人数最多的生态公益之一： 7亿人参与、其中1.6亿人种下7亿多棵真树，林木扎根13个省份，生态修复总面积4713平方公里……是互…"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8134523.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "GPT-6 Astra × V2Fun：当大模型开始“调度”3D生成，AI建模的范式正在转移",
+    "link": "https://www.tmtpost.com/8134523.html",
+    "pub_date": "2026-09-10 18:12:44",
+    "author": "",
+    "description": "从代码生成，走向模型协同",
+    "content": "从代码生成，走向模型协同"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8135125.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "一支笔、一只狗、一套能力：京东的AI硬件爆款方法论",
+    "link": "https://www.tmtpost.com/8135125.html",
+    "pub_date": "2026-09-10 17:56:29",
+    "author": "",
+    "description": "线上的入口早已成型，物理世界的入口，京东正打算一支笔、一盏灯、一台烤箱、一架轮椅地去攒。",
+    "content": "线上的入口早已成型，物理世界的入口，京东正打算一支笔、一盏灯、一台烤箱、一架轮椅地去攒。"
+  },
+  {
+    "id": "科技-超能网-http://www.expreview.com/108104.html",
+    "feed_name": "超能网",
+    "category": "科技",
+    "title": "索尼取消全新动作谍报游戏《PHYSINT》合作，小岛秀夫转投微软XBOX",
+    "link": "http://www.expreview.com/108104.html",
+    "pub_date": "2026-09-10 17:55:00",
+    "author": "吕嘉俭",
+    "description": "去年9月，小岛工作室举行了十周年纪念特别活动「Beyond The Strand」，带领玩家率先见证小岛工作室全新项目的重磅发布，包括了与微软XBOX合作的恐怖游戏新作《OD - KNOCK》、死亡搁浅动画电影项目《MOSQUITO》、以及与索尼PlayStation合作的全新“动作谍报游戏”IP作品《PHYSINT》。 今天索尼PlayStation突然宣布，经过仔细考虑后作出艰难决定，将停止与小岛工作室在《PHYSINT》项目上的合…",
+    "content": "去年9月，小岛工作室 举行 了十周年纪念特别活动「Beyond The Strand」，带领玩家率先见证小岛工作室全新项目的重磅发布，包括了与微软XBOX合作的恐怖游戏新作《OD - KNOCK》、死亡搁浅动画电影项目《MOSQUITO》、以及与索尼PlayStation合作的全新“动作谍报游戏”IP作品《PHYSINT》。 今天索尼PlayStation突然 宣布 ，经过仔细考虑后作出艰难决定，将停止与小岛工作室在《PHYSINT》项目上的合作。索尼PlayStation表示，对小岛秀夫在这款游戏的愿景抱有极大的…"
+  },
+  {
+    "id": "科技-超能网-http://www.expreview.com/108103.html",
+    "feed_name": "超能网",
+    "category": "科技",
+    "title": "《流浪地球 : 望日》带来首支预告片：刘慈欣原著授权，第三人称科幻射击游戏",
+    "link": "http://www.expreview.com/108103.html",
+    "pub_date": "2026-09-10 17:39:00",
+    "author": "吕嘉俭",
+    "description": "今天《边境》开发团队柳叶刀游戏工作室发布了《流浪地球：望日》的首支预告片，是一款线性剧情任务驱动的第三人称科幻射击游戏。游戏基于刘慈欣《流浪地球》原著改编，由刘慈欣监制。 if (IsMobile()) { jQuery(\"iframe\").attr(\"width\", \"100%\"); jQuery(\"iframe\").attr(\"height\", jQuery(\"#post_body\").width() * 9 / 16); } el…",
+    "content": "今天《边境》开发团队柳叶刀游戏工作室发布了《流浪地球：望日》的首支预告片，是一款线性剧情任务驱动的第三人称科幻射击游戏。游戏基于刘慈欣《流浪地球》原著改编，由刘慈欣监制。 &nbsp; &nbsp; if (IsMobile()) { jQuery(\"iframe\").attr(\"width\", \"100%\"); jQuery(\"iframe\").attr(\"height\", jQuery(\"#post_body\").width() * 9 / 16); } else jQuery(\"iframe\").attr(\"…"
+  },
+  {
+    "id": "科技-Solidot-https://www.solidot.org/story?sid=85336",
+    "feed_name": "Solidot",
+    "category": "科技",
+    "title": "2026 年拉斯克奖宣布",
+    "link": "https://www.solidot.org/story?sid=85336",
+    "pub_date": "2026-09-10 17:38:08",
+    "author": "",
+    "description": "拉斯克奖公布了 2026 年的获奖名单。基础医学奖授予了发现掌管睡眠的大脑神经传递物质“食欲素”（Orexin）的日本筑波大学教授柳泽正史（66岁）和美国斯坦福医学院的 Emmanuel Mignot。临床医学奖项授予了开发血友病治疗药的中外制药公司前顾问服部有宏（66岁）、顾问北泽刚久（57岁）以及研究总部长井川智之（49岁）。这是日本人自 2014 年名城大学教授森和俊获奖以来，时隔近 12 年再次获奖。该奖被称为诺贝尔奖的风向标。…",
+    "content": "拉斯克奖公布了 2026 年的获奖名单。基础医学奖授予了发现掌管睡眠的大脑神经传递物质“食欲素”（Orexin）的日本筑波大学教授柳泽正史（66岁）和美国斯坦福医学院的 Emmanuel Mignot。临床医学奖项授予了开发血友病治疗药的中外制药公司前顾问服部有宏（66岁）、顾问北泽刚久（57岁）以及研究总部长井川智之（49岁）。这是日本人自 2014 年名城大学教授森和俊获奖以来，时隔近 12 年再次获奖。该奖被称为诺贝尔奖的风向标。公共服务奖授予了为帕金森病治疗作出贡献的美国演员迈克尔·J·福克斯。他本人罹患帕…"
+  },
+  {
+    "id": "科技-雷峰网-https://www.leiphone.com/category/private/Y0NwlrmFJ8cwjqPE.html",
+    "feed_name": "雷峰网",
+    "category": "科技",
+    "title": "3D 重建下半场开幕，ECCV 首场14篇Spotlight 把高斯泼溅推到了哪儿",
+    "link": "https://www.leiphone.com/category/private/Y0NwlrmFJ8cwjqPE.html",
+    "pub_date": "2026-09-10 17:31:00",
+    "author": "陈淑瑜",
+    "description": "导语：3D 重建的下半场，比的不再只是精度。 3D 重建的下半场，比的不再只是精度。 作者丨陈淑瑜 编辑丨岑 峰 9月8日，第19届欧洲计算机视觉大会（ECCV 2026）在瑞典马尔默拉开帷幕。 这场两年一届的视觉顶会创下历史之最：组委会收到超过一万篇有效投稿，最终接收2883篇论文，约6000名研究者从全球各地赶来参会。翻看议程不难发现，Gaussian Splatting （高斯泼溅）与 3D 重建是今年最拥挤也最热闹的赛道——光是…",
+    "content": "导语：3D&nbsp;重建的下半场，比的不再只是精度。 3D &nbsp;重建的下半场，比的不再只是精度。 &nbsp; &nbsp; 作者丨陈淑瑜 &nbsp; &nbsp; 编辑丨岑 &nbsp; 峰 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb…"
+  },
+  {
+    "id": "科技-超能网-http://www.expreview.com/108102.html",
+    "feed_name": "超能网",
+    "category": "科技",
+    "title": "《英灵神殿》1.0正式版上线：探索生存游戏，最多10名玩家合作，Steam国区89元",
+    "link": "http://www.expreview.com/108102.html",
+    "pub_date": "2026-09-10 17:25:00",
+    "author": "吕嘉俭",
+    "description": "《英灵神殿（Valheim）》是一款支持1–10名玩家同时在线合作探索与生存的游戏，背景设定在一个受北欧神话启发并由程序生成的世界中。游戏现已推出1.0正式版，登陆PlayStation 5、XBOX Series X|S、Nintendo Switch 2、Mac、以及PC平台。 目前Steam上，《英灵神殿》国区价格为89元，支持简体中文界面和字幕。 if (IsMobile()) { jQuery(\"iframe\").attr(\"…",
+    "content": "《英灵神殿（Valheim）》是一款支持1–10名玩家同时在线合作探索与生存的游戏，背景设定在一个受北欧神话启发并由程序生成的世界中。游戏现已推出1.0正式版，登陆PlayStation 5、XBOX Series X|S、Nintendo Switch 2、Mac、以及PC平台。 目前 Steam 上，《英灵神殿》国区价格为89元，支持简体中文界面和字幕。 &nbsp; &nbsp; if (IsMobile()) { jQuery(\"iframe\").attr(\"width\", \"100%\"); jQuery(…"
+  },
+  {
+    "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6462878.html",
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "AI长剧的尴尬：降本容易赚钱难",
+    "link": "https://www.woshipm.com/ai/6462878.html",
+    "pub_date": "2026-09-10 17:20:29",
+    "author": "道总有理",
+    "description": "AI长剧《后西游记》登陆卫视黄金档，收视夺冠、股价涨停，资本市场为之沸腾。然而，高收视背后是口碑争议与付费难题：AI能否真正讲好长故事？用户又是否愿意为AI剧集买单？本文从内容质量、商业模式与行业生态三重视角，拆解AI长剧的机遇与挑战。 8月31日，一部没有任何真人演员的AI剧集—《后西游记》，进入了省级卫视的电视剧黄金档。 该剧由芒果 TV 出品、芒果 TV AIGC 创新内容中心制作、伯璟文化承制，改编自明末清初同名神魔小说，是《西…",
+    "content": "AI长剧《后西游记》登陆卫视黄金档，收视夺冠、股价涨停，资本市场为之沸腾。然而，高收视背后是口碑争议与付费难题：AI能否真正讲好长故事？用户又是否愿意为AI剧集买单？本文从内容质量、商业模式与行业生态三重视角，拆解AI长剧的机遇与挑战。 8月31日，一部没有任何真人演员的AI剧集—《后西游记》，进入了省级卫视的电视剧黄金档。 该剧由芒果 TV 出品、芒果 TV AIGC 创新内容中心制作、伯璟文化承制，改编自明末清初同名神魔小说，是《西游记》三大续书之一。作为季播剧，《后西游记》率先播出的是第一季“花果山篇”共5集…"
   },
   {
     "id": "科技-钛媒体-https://www.tmtpost.com/8134315.html",
@@ -71,7 +654,7 @@ const jsonData = [
     "category": "科技",
     "title": "参数几乎翻倍，推理反而更省：DeepSeek V4.1-Flash 重构 KV Cache",
     "link": "https://www.infoq.cn/article/sbaJrAa8VTIRKIPCpKlo",
-    "pub_date": "2026-09-10 17:06:26",
+    "pub_date": "2026-09-10 17:06:25",
     "author": "褚杏娟",
     "description": "DeepSeek 今天发布了DeepSeek-V4.1-Flash。 DeepSeek-V4.1-Flash是一款原生多模态MoE模型，支持最高100万Token上下文。模型拥有552B主干参数，另有196B Engram条件记忆参数；但在Prefill阶段每Token只激活8B参数，Decode阶段激活16B参数。而上一代的DeepSeek-V4-Flash，拥有284B主干参数，每Token激活13B参数。这意味着，新模型虽然主干规…",
     "content": "DeepSeek 今天发布了DeepSeek-V4.1-Flash。 DeepSeek-V4.1-Flash是一款原生多模态MoE模型，支持最高100万Token上下文。模型拥有552B主干参数，另有196B Engram条件记忆参数；但在Prefill阶段每Token只激活8B参数，Decode阶段激活16B参数。而上一代的DeepSeek-V4-Flash，拥有284B主干参数，每Token激活13B参数。这意味着，新模型虽然主干规模接近翻倍，但读取Prompt时实际参与计算的参数反而减少。 这一代模型的技术重…"
@@ -88,15 +671,15 @@ const jsonData = [
     "content": "五年过去，荣耀仍处于上市辅导阶段，而这批最早参与“荣耀IPO故事”的人，选择把钱拿回来。"
   },
   {
-    "id": "科技-IT 之家-https://www.ithome.com/1/000/891.htm",
-    "feed_name": "IT 之家",
+    "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6462888.html",
+    "feed_name": "人人都是产品经理",
     "category": "科技",
-    "title": "颜值性能双 buff！开学季装机“抄作业”满分推荐",
-    "link": "https://www.ithome.com/1/000/891.htm",
-    "pub_date": "2026-09-10 17:04:37",
-    "author": "",
-    "description": "又是一年开学季，对于大学生来说，一台陪伴大学四年的宿舍主机，既要胜任学科专业创作需求，还要能和舍友流畅开黑网游、畅玩主流单机大作。 PC 主机作为桌搭核心，大家都希望它又好看又有个性，这其中主板和显卡毫无疑问是机箱里的视觉 C 位，怎样选择才能兼顾个性和实用？小编今天给大家带来这套技嘉 B850 AORUS ELITE‑P ICE 雕妹主板 + RTX 5060 雕妹显卡组合就非常亮眼，当硬核性能撞上萌系少女睡衣雕妹，无论性能、颜值还是…",
-    "content": "又是一年开学季，对于大学生来说，一台陪伴大学四年的宿舍主机，既要胜任学科专业创作需求，还要能和舍友流畅开黑网游、畅玩主流单机大作。 PC 主机作为桌搭核心，大家都希望它又好看又有个性，这其中主板和显卡毫无疑问是机箱里的视觉 C 位，怎样选择才能兼顾个性和实用？小编今天给大家带来这套技嘉 B850 AORUS ELITE‑P ICE 雕妹主板 + RTX 5060 雕妹显卡组合就非常亮眼，当硬核性能撞上萌系少女睡衣雕妹，无论性能、颜值还是个性化直接拉满，大家跟着我直接抄作业就行。 技嘉 B850 AORUS ELIT…"
+    "title": "一个27岁的AI研究员从Anthropic辞职了，因为他担心AI会导致人类灭绝。",
+    "link": "https://www.woshipm.com/ai/6462888.html",
+    "pub_date": "2026-09-10 17:02:26",
+    "author": "数字生命卡兹克",
+    "description": "前OpenAI与Anthropic核心预训练研究员Jacob Coxon辞职并公开警告：AI正冲向自我改进的超级智能，业内高层私下认为十年内人类灭绝概率超10%。本文借Tim Urban十一年前的《人工智能革命》框架，重审智能爆炸、DPU与智能阶梯，揭示我们已站在那条虚线之上。 昨天呢，我在X上看到了一条流量已经过了1亿的帖子。 讲道理，我在X上已经很久很久没有见过这种流量的帖子了。 发帖的人叫Jacob Coxon。 刚刚从Anthr…",
+    "content": "前OpenAI与Anthropic核心预训练研究员Jacob Coxon辞职并公开警告：AI正冲向自我改进的超级智能，业内高层私下认为十年内人类灭绝概率超10%。本文借Tim Urban十一年前的《人工智能革命》框架，重审智能爆炸、DPU与智能阶梯，揭示我们已站在那条虚线之上。 昨天呢，我在X上看到了一条流量已经过了1亿的帖子。 讲道理，我在X上已经很久很久没有见过这种流量的帖子了。 发帖的人叫Jacob Coxon。 刚刚从Anthropic辞职。 他说，过去三年，他先后在OpenAI和Anthropic做大模型…"
   },
   {
     "id": "科技-超能网-http://www.expreview.com/108101.html",
@@ -121,17 +704,6 @@ const jsonData = [
     "content": "知名日本游戏制作人小岛秀夫证实在索尼取消对其正在开发中的谍战动作游戏项目 PHYSINT 的资助之后，他找到了新的合作伙伴——索尼 PS 的竞争对手微软 XBOX。此前索尼游戏资助小岛开发了《死亡搁浅》系统。小岛称在索尼于 5 月发出取消 PHYSINT 项目的通知之后，过去三个月他们一直在寻找新合作伙伴，称 PHYSINT 对他们非常重要。微软 XBOX CEO Asha Sharma 表示，“创作者可选择在哪里以及如何将他们的想法变为现实。我们感到荣幸，小岛先生选择与 XBOX 合作打造《PHYSINT》。他挑…"
   },
   {
-    "id": "科技-IT 之家-https://www.ithome.com/1/000/879.htm",
-    "feed_name": "IT 之家",
-    "category": "科技",
-    "title": "寒武纪回应“上调 AI 处理器价格”传闻：并未发布涨价相关消息",
-    "link": "https://www.ithome.com/1/000/879.htm",
-    "pub_date": "2026-09-10 16:42:40",
-    "author": "",
-    "description": "IT之家 9 月 10 日消息，近期有消息称，包括寒武纪在内的中国 AI 芯片厂商大幅上调现有及新一代 AI 处理器的售价。其中，寒武纪拟对其下一代暂定命名为 690 的芯片重新定价，较两个月前的参考报价上涨 20% 至 30%。 对此，21 财经以投资者身份致电寒武纪，公司接线工作人员表示，公司并未发布涨价相关消息，请投资者以公司在官方指定信息披露媒体披露的相关公告为准，切勿轻信市场上的相关传闻。公司无法对产品后续价格走势作出判断。 …",
-    "content": "IT之家 9 月 10 日消息，近期有消息称，包括寒武纪在内的中国 AI 芯片厂商大幅 上调现有及新一代 AI 处理器的售价 。其中，寒武纪拟对其下一代暂定命名为 690 的芯片重新定价，较两个月前的参考报价 上涨 20% 至 30% 。 对此，21 财经以投资者身份致电寒武纪，公司接线工作人员表示，公司 并未发布涨价相关消息 ，请投资者以公司在官方指定信息披露媒体披露的相关公告为准，切勿轻信市场上的相关传闻。公司无法对产品后续价格走势作出判断。 综合IT之家此前报道，寒武纪 2026 年上半年实现 营业收入 59…"
-  },
-  {
     "id": "科技-超能网-http://www.expreview.com/108099.html",
     "feed_name": "超能网",
     "category": "科技",
@@ -141,61 +713,6 @@ const jsonData = [
     "author": "吕嘉俭",
     "description": "近日，AOC旗下专业电竞品牌AGON就推出了新款AG277QSD显示器。AOC表示，随着游戏画面的精细度和显卡性能的持续升级，玩家对电竞显示器的需求，已从单纯追求高刷的初级阶段，迈向了“极致流畅”与“完美画质”的双重进阶，而新产品是行业首款HDR模式色彩调校的显示器。目前新产品已登陆电商平台，并开始销售了，显示价格为3999元。 AOC AGON AG277QSD 显示器，京东地址：点此前往>>> AG277QSD搭载了三星26.5英寸…",
     "content": "近日，AOC旗下专业电竞品牌AGON就推出了新款AG277QSD显示器。AOC表示，随着游戏画面的精细度和显卡性能的持续升级，玩家对电竞显示器的需求，已从单纯追求高刷的初级阶段，迈向了“极致流畅”与“完美画质”的双重进阶，而新产品是行业首款HDR模式色彩调校的显示器。目前新产品已登陆电商平台，并开始销售了，显示价格为3999元。 AOC AGON AG277QSD 显示器，京东地址： 点此前往&gt;&gt;&gt; AG277QSD搭载了三星26.5英寸的新一代QD-OLED Penta Tandem显示屏，采用…"
-  },
-  {
-    "id": "科技-快科技-https://news.mydrivers.com/1/1150/1150182.htm",
-    "feed_name": "快科技",
-    "category": "科技",
-    "title": "意大利汽车零部件协会呼吁欧盟：中国汽车只能卖到8%份额 超额就加征80%关税",
-    "link": "https://news.mydrivers.com/1/1150/1150182.htm",
-    "pub_date": "2026-09-10 16:33:29",
-    "author": "",
-    "description": "",
-    "content": "快科技9月10日消息，据路透社报道，意大利汽车零部件行业协会Anfia主席Roberto Vavassori近日向欧盟提出一项激进贸易政策建议： 对中国产汽车及零部件设定8%的市场份额配额，超出部分征收80%惩罚性关税。 目前欧盟仅对中国产电动车在10%基础进口关税之上加征反补贴税， 综合税率约18%至45%，而Vavassori主张的80%几乎是现有最高税率的近两倍。 他强调该政策应同时覆盖整车与零部件，因为零部件大约占到一辆汽车总价值的80%。 Vavassori在采访中表示：“我们对中国产业取得的成就抱有最大…"
-  },
-  {
-    "id": "科技-快科技-https://news.mydrivers.com/1/1150/1150179.htm",
-    "feed_name": "快科技",
-    "category": "科技",
-    "title": "成人向《制服女友3》今日开售：8大美女围着你转",
-    "link": "https://news.mydrivers.com/1/1150/1150179.htm",
-    "pub_date": "2026-09-10 16:26:16",
-    "author": "",
-    "description": "",
-    "content": "恋爱游戏系列新作《制服女友3》于今日正式发售。官方消息显示，本作由 Entergram 推出，作品舞台此次来到了日本九州的福冈县，玩家将在当地展开全新的校园恋爱故事。 《制服女友》系列以青春校园、恋爱互动以及角色陪伴为主要特色，玩家将通过日常交流、约会以及各种剧情事件，与游戏中的女主角逐渐建立关系。 此次第三作最大的变化之一，就是故事地点从以往的背景转向九州福冈，制作团队也希望借助当地风景与城市特色，为系列加入不同于前作的新鲜感。 值得一提的是，新作将有大量新服装登场，动画场景是前作的两倍，你将和8位性格各异的女生…"
-  },
-  {
-    "id": "科技-快科技-https://news.mydrivers.com/1/1150/1150178.htm",
-    "feed_name": "快科技",
-    "category": "科技",
-    "title": "王腾：ISHO App内测热度非常高！今天截止本轮内测报名",
-    "link": "https://news.mydrivers.com/1/1150/1150178.htm",
-    "pub_date": "2026-09-10 16:16:53",
-    "author": "",
-    "description": "",
-    "content": "快科技9月10日消息，日前，王腾的创业公司今日宜休ISHO首款App正式开启内测招募，吸引了不少网友参与。 今天王腾发文透露，ISHO App内测热度非常高，因为IOS TestFlight内测名额限制1万人，按照目前报名情况，预计今天会截止本轮内测报名。 今晚官方会按照大家提交顺序，继续发放内测码，预计会有更多小伙伴可以体验到了。 根据内测用户晒图显示，ISHO首款App主要专注于睡眠监测，可以根据手表测量的数据对睡眠情况进行分析，相比手表自带的分析会跟深入一些。 此外，App内还有AI助手，可以结合自己的睡眠情…"
-  },
-  {
-    "id": "科技-快科技-https://news.mydrivers.com/1/1150/1150177.htm",
-    "feed_name": "快科技",
-    "category": "科技",
-    "title": "高通亮相联通合作伙伴大会：生态合作从口号变成了产品",
-    "link": "https://news.mydrivers.com/1/1150/1150177.htm",
-    "pub_date": "2026-09-10 16:15:01",
-    "author": "",
-    "description": "",
-    "content": "快科技9月10日消息，AI正在进入从技术突破走向产业落地的新阶段，此时决定智能体验未来的，不再只是某个单一芯片性能或模型能力，而是连接终端、网络、算力、应用等一系列生态伙伴的协同能力。 9月9日至10日，2026中国联通合作伙伴大会在上海世博中心举行，本届大会围绕连接、算力、服务、安全四大方向，汇聚产业链上下游伙伴，共同探讨智能时代的技术演进与产业协作。 作为中国联通的长期合作伙伴，高通此次以“共联未来，让智能计算无处不在”为主题亮相大会。从手机、PC、智能眼镜、智能戒指等个人AI设备，到机器人等物理AI应用，再到…"
-  },
-  {
-    "id": "科技-快科技-https://news.mydrivers.com/1/1150/1150176.htm",
-    "feed_name": "快科技",
-    "category": "科技",
-    "title": "苹果iPhone 18 Pro系列、iPhone Duo首次在唯品会开启预售：支持分期免息、以旧换新补贴",
-    "link": "https://news.mydrivers.com/1/1150/1150176.htm",
-    "pub_date": "2026-09-10 16:14:50",
-    "author": "",
-    "description": "",
-    "content": "快科技9月10日消息，当地时间9月9日上午，苹果在位于加州Apple Park总部的乔布斯剧院正式举行了今年的秋季新品发布。 iPhone 18 Pro及iPhone 18 Pro Max如约与消费者见面，同时万众瞩目的苹果首款折叠屏手机iPhone Duo也终于亮相。 据了解，苹果iPhone 18 Pro系列将于9月12日晚8点、iPhone Duo系列将于10月16日晚8点开启预售。 值得一提的是，特卖电商平台唯品会将首次成为苹果新机预售平台，据唯品会相关负责人介绍，唯品会将为用户限时提供6期分期免息以及30…"
   },
   {
     "id": "科技-钛媒体-https://www.tmtpost.com/8135238.html",
@@ -275,6 +792,17 @@ const jsonData = [
     "content": "近日，英伟达推出了DLSS 5技术，玩家可以使用GeForce RTX 50系列显卡及最新的驱动程序来体验。DLSS 5的核心是3D-Guided Neural Rendering（3D引导神经渲染），《NBA 2K27》是首发支持游戏。与基于提示词或参考物的图像生成模型不同，DLSS 5 以游戏引擎渲染的帧（包括几何体、纹理与光照缓冲区）作为输入，并在渲染管线的最终阶段注入AI增强的图像细节，同时确保游戏画面的稳定，开发者也可以控制AI的生成范围和强度。 据TrendForce 报道 ，由于AI加速器热销，英伟达…"
   },
   {
+    "id": "科技-新浪专栏 / 创事记-https://finance.sina.com.cn/tech/csj/2026-09-10/doc-inirhvwy8595666.shtml",
+    "feed_name": "新浪专栏 / 创事记",
+    "category": "科技",
+    "title": "苹果把iPhone折起来，顺手补交了AI答卷",
+    "link": "https://finance.sina.com.cn/tech/csj/2026-09-10/doc-inirhvwy8595666.shtml",
+    "pub_date": "2026-09-10 15:26:12",
+    "author": "",
+    "description": "折叠屏迟到七年，Siri迟到两年，新 CEO特努斯这次把AI时代的答案补齐了。 如果有15999元的预算，你会考虑买苹果，小米，还是华为的折叠屏？ 随着苹果新品的发布，答案未必更容易了。 北京时间9月10日凌晨，苹果召开秋季发布会，一口带来了iPhone 18 Pro系列、AirPods 5、Apple Watch Series 12和Apple Watch Ultra 4，以及那个真正的“one more thing”——iPhone…",
+    "content": "折叠屏迟到七年，Siri迟到两年，新 CEO特努斯这次把AI时代的答案补齐了。 如果有 15999元的预算，你会考虑买苹果，小米，还是华为的折叠屏？ 随着苹果新品的发布，答案未必更容易了。 北京时间 9月10日凌晨，苹果召开秋季发布会，一口带来了iPhone 18 Pro系列、AirPods 5、Apple Watch Series 12和Apple Watch Ultra 4，以及那个真正的“one more thing”——iPhone Duo折叠屏。 没错，苹果的 折叠屏真没叫 Fold，Flex，Ultra…"
+  },
+  {
     "id": "科技-超能网-http://www.expreview.com/108096.html",
     "feed_name": "超能网",
     "category": "科技",
@@ -295,50 +823,6 @@ const jsonData = [
     "author": "",
     "description": "国内市场方面，8月制造业PMI为50.3%，较上月回升1.1个百分点，重回扩张区间，新订单、生产指数同步改善。非制造业商务活动指数51.2%，服务业景气边际修复。地产端，多地优化政策落地后，重点城市商品房成交环比有所改善，但同比仍处低位，政策传导效果仍需观察。央行维持流动性合理充裕，资金面平稳，市场等待8月社融、信贷数据验证信用扩张力度。",
     "content": "国内市场方面，8月制造业PMI为50.3%，较上月回升1.1个百分点，重回扩张区间，新订单、生产指数同步改善。非制造业商务活动指数51.2%，服务业景气边际修复。地产端，多地优化政策落地后，重点城市商品房成交环比有所改善，但同比仍处低位，政策传导效果仍需观察。央行维持流动性合理充裕，资金面平稳，市场等待8月社融、信贷数据验证信用扩张力度。"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8135313.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "上市公司TOP5济安评估（8月31日至9月6日）",
-    "link": "https://www.tmtpost.com/8135313.html",
-    "pub_date": "2026-09-10 15:23:08",
-    "author": "",
-    "description": "本周机构调研热度较上周有所回落，核心原因是半年报披露节奏变化导致的调研需求降温，半年报披露收官，调研热度环比下降。调研数据不仅反映了资金关注方向，也折射出当前行业景气度的变化趋势。谁是本周最受机构青睐的公司？",
-    "content": "本周机构调研热度较上周有所回落，核心原因是半年报披露节奏变化导致的调研需求降温，半年报披露收官，调研热度环比下降。调研数据不仅反映了资金关注方向，也折射出当前行业景气度的变化趋势。谁是本周最受机构青睐的公司？"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8135305.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "量化交易不违法，但未必道德——从金融哲学与全球市场现实重估算法交易",
-    "link": "https://www.tmtpost.com/8135305.html",
-    "pub_date": "2026-09-10 15:22:47",
-    "author": "",
-    "description": "时下国内许多普通投资者对量化交易颇有微词，而工具本身是中性，策略的盈利逻辑、外部系统效应，需要放到金融哲学伦理框架下评判。法律只能约束单家机构的个体行为，却很难约束大量合规主体叠加后形成的系统性伤害，这正是量化伦理矛盾的根源。",
-    "content": "时下国内许多普通投资者对量化交易颇有微词，而工具本身是中性，策略的盈利逻辑、外部系统效应，需要放到金融哲学伦理框架下评判。法律只能约束单家机构的个体行为，却很难约束大量合规主体叠加后形成的系统性伤害，这正是量化伦理矛盾的根源。"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8135303.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "价值判断：涨停板的投资机会和风险提示（9月8日）｜上市公司观察",
-    "link": "https://www.tmtpost.com/8135303.html",
-    "pub_date": "2026-09-10 15:22:28",
-    "author": "",
-    "description": "盘面上，农业（农产品加工、种植业、氮肥）、化肥、有色铜、传媒（中国出版3连板、读者传媒2连板）、油气、CRO 等板块领涨，液冷服务器、同花顺果指数、模拟芯片设计、集成电路制造 等板块跌幅居前，指数温和分化、题材结构切换较快，未现系统性极端波动。",
-    "content": "盘面上，农业（农产品加工、种植业、氮肥）、化肥、有色铜、传媒（中国出版3连板、读者传媒2连板）、油气、CRO 等板块领涨，液冷服务器、同花顺果指数、模拟芯片设计、集成电路制造 等板块跌幅居前，指数温和分化、题材结构切换较快，未现系统性极端波动。"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8135294.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "同样的好公司，为什么有的市值兑现快、有的慢",
-    "link": "https://www.tmtpost.com/8135294.html",
-    "pub_date": "2026-09-10 15:22:07",
-    "author": "",
-    "description": "一些上市公司把资本动作建立在短期市场波动或情绪之上，忽视了价值基础与战略协同，结果往往是融资成本高企、并购效果不佳、激励不到位，最终形成一场脱离基本面的市场博弈。",
-    "content": "一些上市公司把资本动作建立在短期市场波动或情绪之上，忽视了价值基础与战略协同，结果往往是融资成本高企、并购效果不佳、激励不到位，最终形成一场脱离基本面的市场博弈。"
   },
   {
     "id": "科技-超能网-http://www.expreview.com/108095.html",
@@ -374,17 +858,6 @@ const jsonData = [
     "content": "围绕负重手环从小众训练器械变成时尚配饰的过程，梳理 Bala 用软硅胶和模块化配重改造老式沙袋的起点，结合天猫类目成交同比增速与新老品牌格局，说明配饰化与碎片化健身如何打开运动小器械空间。 “通勤路上也能偷偷练手臂。”“看颜值没忍住下单了，一对79块就当少喝几杯奶茶了。” 今年夏天，不少女生的健身打卡照里，多了一对造型潮流的“新手镯”——负重手环，这个小器械也频繁出现在瑜伽、普拉提等健身博主的直播间和训练视频里。戴上之后，自律感和时髦度双双“加分”，瞬间戳中了无数运动女生的心巴。 8月中旬，关晓彤在彩排时，全程佩戴…"
   },
   {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8134953.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "Google Earth之后，高德为什么还要再造一个Earth？",
-    "link": "https://www.tmtpost.com/8134953.html",
-    "pub_date": "2026-09-10 15:01:08",
-    "author": "",
-    "description": "数字地球的终局不只是更好用的地图，更是物理世界的操作系统。",
-    "content": "数字地球的终局不只是更好用的地图，更是物理世界的操作系统。"
-  },
-  {
     "id": "科技-雷峰网-https://www.leiphone.com/category/ai/yLQMlOgEGqoVMGFA.html",
     "feed_name": "雷峰网",
     "category": "科技",
@@ -394,17 +867,6 @@ const jsonData = [
     "author": "郑佳美",
     "description": "导语：万级并行推理背后，是构造、修正与验证的完整闭环。 万级并行推理背后，是构造、修正与验证的完整闭环。 作者丨郑佳美 编辑丨岑 峰 9 月 8 日，OpenAI 公布了一套针对 Navier–Stokes 千禧年问题的有限时间奇点构造。一个仍在训练的内部模型，配合约 1 万个 Agent 持续搜索约 88 小时，随后又用 Lean 完成形式化。 按照 OpenAI 给出的结果，这套构造能够让三维流体在光滑外力和有限动能条件下，演化到局…",
     "content": "导语：万级并行推理背后，是构造、修正与验证的完整闭环。 万级并行推理背后，是构造、修正与验证的完整闭环。 &nbsp; &nbsp; 作者丨 郑佳美 &nbsp; &nbsp; 编辑丨岑 &nbsp; 峰 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb…"
-  },
-  {
-    "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6462764.html",
-    "feed_name": "人人都是产品经理",
-    "category": "科技",
-    "title": "开源鸿蒙跨平台框架 Flutter：生态进展全景与学习路线",
-    "link": "https://www.woshipm.com/ai/6462764.html",
-    "pub_date": "2026-09-10 14:55:40",
-    "author": "nutpi",
-    "description": "基于 AtomGit 上 CPF-Flutter、oh-flutter、hxa-flutter 三个组织与配套仓库的实地调研，盘点鸿蒙化 Flutter 的生态进展，说明三大组织的分工、规模与活跃度，并给出一条从环境搭建到插件适配的四阶段学习路线。 开源鸿蒙跨平台框架 Flutter：生态进展全景与学习路线： 基于 AtomGit 上 CPF-Flutter、oh-flutter、hxa-flutter 三个组织与 CPF-Flutte…",
-    "content": "基于 AtomGit 上 CPF-Flutter、oh-flutter、hxa-flutter 三个组织与配套仓库的实地调研，盘点鸿蒙化 Flutter 的生态进展，说明三大组织的分工、规模与活跃度，并给出一条从环境搭建到插件适配的四阶段学习路线。 开源鸿蒙跨平台框架 Flutter：生态进展全景与学习路线： 基于 AtomGit 上 CPF-Flutter、oh-flutter、hxa-flutter 三个组织与 CPF-Flutter/skills 仓库的实地调研，本文完整解读 Flutter 鸿蒙化（Flut…"
   },
   {
     "id": "科技-雷峰网-https://www.leiphone.com/category/ai/Gtp7w5jKvxsYNt2J.html",
@@ -514,7 +976,7 @@ const jsonData = [
     "pub_date": "2026-09-10 13:56:00",
     "author": "张嘉敏",
     "description": "导语：软件补能力、硬件扩场景，WorkBuddy如何联手软硬件伙伴？ AI办公大战硝烟再起：大厂不仅亲自下场，还跟生态伙伴联起手。 此前雷峰网在《大厂AI To B大战，这回战场为什么是办公？》一文中曾提到，各家手里的牌不同，打法也各有侧重： 腾讯C端基因重，做大WorkBuddy个人用户规模的同时，也在向企业端渗透；阿里手握大批企业客户，千问办公从B端直接切入；字节则把拥有庞大C端用户基数的豆包作为核心抓手，推出豆包工作。 过去两个月…",
-    "content": "导语：软件补能力、硬件扩场景，WorkBuddy如何联手软硬件伙伴？ AI办公大战硝烟再起：大厂不仅亲自下场，还跟生态伙伴联起手。 此前雷峰网在《 大厂AI To B大战，这回战场为什么是办公？ 》一文中曾提到，各家手里的牌不同，打法也各有侧重： 腾讯C端基因重，做大WorkBuddy个人用户规模的同时，也在向企业端渗透；阿里手握大批企业客户，千问办公从B端直接切入；字节则把拥有庞大C端用户基数的豆包作为核心抓手，推出豆包工作。 过去两个月，内部整合是三家大厂AI办公大战的主线；如今，收拢战线、押注一个核心办公产品…"
+    "content": "导语：软件补能力、硬件扩场景，WorkBuddy如何联手软硬件伙伴？ AI办公大战硝烟再起：大厂不仅亲自下场，还跟生态伙伴联起手。 此前雷峰网在《 大厂AI To B大战，这回战场为什么是办公？ 》一文中曾提到，各家手里的牌不同，打法也各有侧重： 腾讯C端基因重，做大WorkBuddy个人用户规模的同时，也在向企业端渗透；阿里手握大批企业客户，千问办公从B端直接切入；字节则把拥有庞大C端用户基数的豆包作为核心抓手，推出豆包工作。 过去两个月，内部整合是三家大厂AI办公大战的主线；如今，战线收拢、押注一个核心办公产品…"
   },
   {
     "id": "科技-人人都是产品经理-https://www.woshipm.com/it/6462306.html",
@@ -542,7 +1004,7 @@ const jsonData = [
     "id": "科技-InfoQ 中文-https://www.infoq.cn/article/d0NzJlH20aPXVmsZHdjW",
     "feed_name": "InfoQ 中文",
     "category": "科技",
-    "title": "14岁清华天才、普林斯顿最年轻终身教授王梦迪：AI 尚未发现新的基础科学｜附完整演讲",
+    "title": "14岁上清华、普林斯顿最年轻终身教授王梦迪：AI 尚未发现新的基础科学｜附完整演讲",
     "link": "https://www.infoq.cn/article/d0NzJlH20aPXVmsZHdjW",
     "pub_date": "2026-09-10 12:46:57",
     "author": "李冬梅",
@@ -559,6 +1021,17 @@ const jsonData = [
     "author": "作者：Leela Kumili",
     "description": "Airbnb 重新设计了其认证架构，使 Web、iOS 和 Android 端的登录流程更便于迭代调整。新系统将认证决策从客户端转移到了服务端策略引擎，该引擎根据用户和会话上下文选择最合适的身份验证校验方式。据 Airbnb 介绍，本次架构重构把身份验证相关代码量减少了 60%，Web 客户端包体积减小了 100 KB，成功认证率提高了 2.6%，重复账户创建减少了 27%。 Airbnb 的“先识别再校验”架构（来源：Airbnb 博…",
     "content": "Airbnb 重新设计了其认证架构，使 Web、iOS 和 Android 端的登录流程更便于迭代调整。新系统将认证决策从客户端转移到了服务端策略引擎，该引擎根据用户和会话上下文选择最合适的身份验证校验方式。据 Airbnb 介绍，本次架构重构把身份验证相关代码量减少了 60%，Web 客户端包体积减小了 100 KB，成功认证率提高了 2.6%，重复账户创建减少了 27%。 Airbnb 的“先识别再校验”架构（来源： Airbnb 博客文章 \"） 该架构将身份验证拆分为两个阶段。首先，用户使用电子邮件地址、电话…"
+  },
+  {
+    "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6460973.html",
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "HarmonyOS 7（API 26）正式发布：重点能力一览",
+    "link": "https://www.woshipm.com/ai/6460973.html",
+    "pub_date": "2026-09-10 12:27:36",
+    "author": "华为开发者联盟",
+    "description": "HarmonyOS 7（API 26）正式发布。 本次版本进一步拓展应用的智能化、空间化和多设备体验，并在性能、安全隐私等方面持续增强，为开发者带来更丰富的应用创新空间。开发者可以基于 HarmonyOS 7（API 26）正式版本 SDK 和配套开发工具开展应用开发、适配与验证。 从FAST Kit、3DGS 空间能力，到 DevEco Studio 性能优化、AI 辅助开发工具链，再到多设备适配和 DFX 维测能力，HarmonyO…",
+    "content": "HarmonyOS 7（API 26）正式发布。 本次版本进一步拓展应用的 智能化、空间化和多设备体验 ，并在 性能、安全隐私 等方面持续增强，为开发者带来更丰富的应用创新空间。开发者可以基于&nbsp;HarmonyOS 7（API 26）正式版本&nbsp;SDK&nbsp;和配套开发工具开展应用开发、适配与验证。 从FAST Kit、3DGS&nbsp;空间能力，到&nbsp;DevEco&nbsp;Studio&nbsp;性能优化、AI&nbsp;辅助开发工具链，再到多设备适配和&nbsp;DFX&nbsp…"
   },
   {
     "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6462679.html",
@@ -665,21 +1138,21 @@ const jsonData = [
     "category": "科技",
     "title": "OpenAI抄袭、威胁数学家？“AI攻克千禧难题”秀，终成 OpenAI 和 Anthropic 的大战",
     "link": "https://www.infoq.cn/article/Yv5sAmejcLyOYSSRdwI2",
-    "pub_date": "2026-09-10 11:22:48",
+    "pub_date": "2026-09-10 11:22:49",
     "author": "褚杏娟",
     "description": "OpenAI 宣布，称其已经找到纳维-斯托克斯问题（Navier-Stokes problem）的一个解法。这是数学界长期悬而未决的重大难题之一，如果相关证明最终成立，则无疑是一项重大成果。 然而，就在外界准备庆祝时，这一消息很快陷入争议：有人质疑OpenAI是否利用了其他研究者尚未公开的研究成果；此外，OpenAI还被指曾试图影响最终论文中该由谁获得这项成果的署名和贡献认定。 争议的一方，是纽约大学数学家Tristan Buckmas…",
     "content": "OpenAI 宣布，称其已经找到纳维-斯托克斯问题（Navier-Stokes problem）的一个解法。这是数学界长期悬而未决的重大难题之一，如果相关证明最终成立，则无疑是一项重大成果。 然而，就在外界准备庆祝时，这一消息很快陷入争议：有人质疑OpenAI是否利用了其他研究者尚未公开的研究成果；此外，OpenAI还被指曾试图影响最终论文中该由谁获得这项成果的署名和贡献认定。 争议的一方，是纽约大学数学家Tristan Buckmaster，以及受雇于Anthropic、但以个人身份参与研究的Levent Alp…"
   },
   {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8135029.html",
-    "feed_name": "钛媒体",
+    "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6461661.html",
+    "feed_name": "人人都是产品经理",
     "category": "科技",
-    "title": "中国算力“西进”，北部、西北部有望成为最大数据中心区域市场",
-    "link": "https://www.tmtpost.com/8135029.html",
-    "pub_date": "2026-09-10 11:20:04",
-    "author": "",
-    "description": "北部和西北部市场有望在2028年超越长三角，成为中国最大的数据中心区域市场。",
-    "content": "北部和西北部市场有望在2028年超越长三角，成为中国最大的数据中心区域市场。"
+    "title": "一文读懂 HarmonyOS 7.0 带来的十大重要升级（二）",
+    "link": "https://www.woshipm.com/ai/6461661.html",
+    "pub_date": "2026-09-10 11:20:48",
+    "author": "aqi00",
+    "description": "HarmonyOS 7.0 正式发布，在 6.1 基础上带来多项开发者关注的实用特性。本文聚焦 ArkUI 绘图与 Tabs 组件、ArkWeb 下载追踪、Camera Kit 对焦能力以及 Image Kit 格式支持五大升级，结合《鸿蒙 HarmonyOS 6 应用开发》一书逐一解析，助你快速掌握新版本的核心变化与落地场景。 HarmonyOS 7.0 已于 2026 年 9 月 7 日正式发布，该版本在 HarmonyOS 6.1…",
+    "content": "HarmonyOS 7.0 正式发布，在 6.1 基础上带来多项开发者关注的实用特性。本文聚焦 ArkUI 绘图与 Tabs 组件、ArkWeb 下载追踪、Camera Kit 对焦能力以及 Image Kit 格式支持五大升级，结合《鸿蒙 HarmonyOS 6 应用开发》一书逐一解析，助你快速掌握新版本的核心变化与落地场景。 HarmonyOS 7.0 已于 2026 年 9 月 7 日正式发布，该版本在 HarmonyOS 6.1 基础上增强了若干特性，让鸿蒙系统变得更智能更好用，下面结合《鸿蒙Harmony…"
   },
   {
     "id": "科技-InfoQ 中文-https://www.infoq.cn/article/7xE0eQlCGCSoM0wbmAoM",
@@ -687,43 +1160,10 @@ const jsonData = [
     "category": "科技",
     "title": "中科院江小涓谈 AI 新经济：AI正在改写中国企业“先国内、再出海”的老路径",
     "link": "https://www.infoq.cn/article/7xE0eQlCGCSoM0wbmAoM",
-    "pub_date": "2026-09-10 11:15:02",
+    "pub_date": "2026-09-10 11:15:01",
     "author": "李冬梅",
     "description": "过去，中国企业往往先在国内市场成长，再走向海外。AI正在改变这条路径。 9月9日，在2026 Inclusion·外滩大会《AI经济增长新范式与社会价值重构》见解论坛上，中国社会科学院大学教授、国务院原副秘书长江小涓表示，随着中国创新能力提升及AI技术快速发展，中国企业正在从过去“先国内、再海外”的全球化路径，进入“生而为全球”的原生全球化阶段。 “在AI时代，所有的创新产品、服务，生而就是为全球的。”江小涓说。在她看来，这一变化并不只…",
     "content": "过去，中国企业往往先在国内市场成长，再走向海外。AI正在改变这条路径。 9月9日，在2026 Inclusion·外滩大会《AI经济增长新范式与社会价值重构》见解论坛上，中国社会科学院大学教授、国务院原副秘书长江小涓表示，随着中国创新能力提升及AI技术快速发展，中国企业正在从过去“先国内、再海外”的全球化路径，进入“生而为全球”的原生全球化阶段。 “在AI时代，所有的创新产品、服务，生而就是为全球的。”江小涓说。在她看来，这一变化并不只是企业“出海”更早，而是技术研发、产品设计、商业模式乃至合规体系，从一开始就要面…"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8134608.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "扔掉遥控器，是具身智能的终极关卡",
-    "link": "https://www.tmtpost.com/8134608.html",
-    "pub_date": "2026-09-10 11:13:18",
-    "author": "",
-    "description": "机器人赛事揭示“遥控”争议，推动具身智能发展。",
-    "content": "机器人赛事揭示“遥控”争议，推动具身智能发展。"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8134765.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "苹果发布史上最贵iPhone，特努斯时代还没来",
-    "link": "https://www.tmtpost.com/8134765.html",
-    "pub_date": "2026-09-10 11:13:16",
-    "author": "",
-    "description": "苹果的权力交接将是一个缓慢的过程",
-    "content": "苹果的权力交接将是一个缓慢的过程"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8134994.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "免费的代价：中国开源大模型出海为什么开始收费",
-    "link": "https://www.tmtpost.com/8134994.html",
-    "pub_date": "2026-09-10 11:07:52",
-    "author": "",
-    "description": "智谱、月之暗面、MiniMax 同期出海，路径各不相同。共同点是：开源许可证正在成为收费工具。",
-    "content": "智谱、月之暗面、MiniMax 同期出海，路径各不相同。共同点是：开源许可证正在成为收费工具。"
   },
   {
     "id": "科技-人人都是产品经理-https://www.woshipm.com/it/6462684.html",
@@ -858,17 +1298,6 @@ const jsonData = [
     "content": "GPT-6 不再只是聊天或生成内容，而是能理解口播、处理素材、调用工具、持续修改并交付成片，真正坐到了电脑前。当它接管白领工作的中间过程，办公室里的位置会如何变化？ 最近，我用GPT-6剪了一条视频。 我先把口播原片交给它，让它完成粗剪。接着，我把需要使用的图片、视频和其他素材放进电脑，让它根据口播内容继续完成二次剪辑。 最后出来的成片，我只改了一处，还是我动嘴，让它动手的，然后视频就可以直接使用了。 GPT-5.6的时候我就尝试着做过这个工作，但效果总是差点意思，GPT-6的效果，说实话，已经差不多了。 更重要的…"
   },
   {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8134499.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "全球第一的梅卡曼德，遇上一道无解的“估值题”",
-    "link": "https://www.tmtpost.com/8134499.html",
-    "pub_date": "2026-09-10 10:13:13",
-    "author": "",
-    "description": "一个高增长叙事与盈利现实之间的拉扯",
-    "content": "一个高增长叙事与盈利现实之间的拉扯"
-  },
-  {
     "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6462589.html",
     "feed_name": "人人都是产品经理",
     "category": "科技",
@@ -900,28 +1329,6 @@ const jsonData = [
     "author": "QCon全球软件开发大会",
     "description": "从「构建 AI」到「驾驭 AI」，100+ 实战案例拆解 AI Native 时代的工程新实践！ 推理模型持续突破能力边界，Coding Agent 深度参与研发流程，Agent Runtime、Agent Framework 快速演进……AI 正在从回答问题的模型，演变为能够自主规划、调用工具、执行任务的软件系统。AI 不再只是软件中的一个能力，而开始成为软件系统的一部分。这意味着软件工程面对的挑战也发生了变化：团队需要思考的不再只是…",
     "content": "从「构建 AI」到「驾驭 AI」，100+ 实战案例拆解 AI Native 时代的工程新实践！ 推理模型持续突破能力边界，Coding Agent 深度参与研发流程，Agent Runtime、Agent Framework 快速演进……AI 正在从回答问题的模型，演变为能够自主规划、调用工具、执行任务的软件系统。AI 不再只是软件中的一个能力，而开始成为软件系统的一部分。这意味着软件工程面对的挑战也发生了变化：团队需要思考的不再只是如何训练模型、模型、部署模型 或优化 Prompt，而不是如何让具备自主能力的 …"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8134392.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "Momenta接近盈利后：L3新规出炉，曹旭东的“工程哲学”会失灵吗？",
-    "link": "https://www.tmtpost.com/8134392.html",
-    "pub_date": "2026-09-10 09:56:48",
-    "author": "",
-    "description": "Momenta做了八年标准化，但新规之下客户的“痛”点变了",
-    "content": "Momenta做了八年标准化，但新规之下客户的“痛”点变了"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8134448.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "小米的悬念",
-    "link": "https://www.tmtpost.com/8134448.html",
-    "pub_date": "2026-09-10 09:56:46",
-    "author": "",
-    "description": "二季报看到了底，上限在哪里？",
-    "content": "二季报看到了底，上限在哪里？"
   },
   {
     "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6462289.html",
@@ -968,28 +1375,6 @@ const jsonData = [
     "content": "芝奇昨天推出旗舰级DDR5内存——Trident Z5 Royal NeoX皇家戟X系列。该系列专为AMD平台深度优化，率先支持最新的AMD EXPO ULL细参数优化超频技术，在提供极致性能的同时，延续了皇家系列标志性的奢华设计语言。 本次推出的规格均为 32GB（16GB×2）容量套装，涵盖DDR5-6000 CL26、CL28、CL30 及CL36等多款低延迟配置，满足不同层级玩家的需求。相较传统支持AMD EXPO的DDR5内存，支持EXPO ULL的通过对多项内存细参数的精细调校，在相同频率下进一步降低存…"
   },
   {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8134795.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "iPhone涨1000、折叠屏15999元，苹果更大、更贵、更能打？",
-    "link": "https://www.tmtpost.com/8134795.html",
-    "pub_date": "2026-09-10 09:46:14",
-    "author": "",
-    "description": "国行AI还要等，旧款17也涨价了。",
-    "content": "国行AI还要等，旧款17也涨价了。"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8134244.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "理想、小米转身，“宁王”的客户名单正在缩水",
-    "link": "https://www.tmtpost.com/8134244.html",
-    "pub_date": "2026-09-10 09:46:12",
-    "author": "",
-    "description": "理想、小米转身，“宁王”的客户名单正在缩水",
-    "content": "理想、小米转身，“宁王”的客户名单正在缩水"
-  },
-  {
     "id": "科技-超能网-http://www.expreview.com/108084.html",
     "feed_name": "超能网",
     "category": "科技",
@@ -1032,17 +1417,6 @@ const jsonData = [
     "author": "果壳",
     "description": "哒女士阳台上新了。 不是咕咕，也不是蛆蛆，是大概有蛆蛆3倍大的肉虫子。 全文虫恐预警！ 所有图片已做滑动处理，可以放心观看 你可能已经知道故事的开头了 家住上海的哒女士这天和往常一样，毫无防备地拿出一桶陈化了快半年的堆肥土，扒拉扒拉—— 哗！咕地冒出一条手指粗的大白虫子！ 哒女士也和往常一样，默默把堆肥土盖了回去，仿佛无事发生过。 左滑查看与大白虫子的首次会晤 作为园艺小熊手，我自制堆肥已经有几年时间了。果皮、菜叶等湿垃圾进入堆肥桶中充…",
     "content": "哒女士阳台上新了。 不是咕咕，也不是蛆蛆，是大概有蛆蛆3倍大的肉虫子。 全文虫恐预警！ 所有图片已做滑动处理，可以放心观看 你可能已经知道故事的开头了 家住上海的哒女士这天和往常一样，毫无防备地拿出一桶陈化了快半年的堆肥土，扒拉扒拉—— 哗！咕地冒出一条 手指粗的大白虫子！ 哒女士也和往常一样，默默把堆肥土盖了回去，仿佛无事发生过。 左滑查看与大白虫子的首次会晤 作为园艺小熊手，我 自制堆肥已经有几年时间了。果皮、菜叶等湿垃圾进入堆肥桶中充分发酵之后，还需要陈化才能给植物使用，这时它们通常会被倒进空花盆中放置一段时…"
-  },
-  {
-    "id": "科技-新浪专栏 / 创事记-https://finance.sina.com.cn/tech/csj/2026-09-10/doc-inirhvwy8595666.shtml",
-    "feed_name": "新浪专栏 / 创事记",
-    "category": "科技",
-    "title": "苹果把iPhone折起来，顺手补交了AI答卷",
-    "link": "https://finance.sina.com.cn/tech/csj/2026-09-10/doc-inirhvwy8595666.shtml",
-    "pub_date": "2026-09-10 09:02:41",
-    "author": "",
-    "description": "折叠屏迟到七年，Siri迟到两年，新 CEO特努斯这次把AI时代的答案补齐了。 如果有15999元的预算，你会考虑买苹果，小米，还是华为的折叠屏？ 随着苹果新品的发布，答案未必更容易了。 北京时间9月10日凌晨，苹果召开秋季发布会，一口带来了iPhone 18 Pro系列、AirPods 5、Apple Watch Series 12和Apple Watch Ultra 4，以及那个真正的“one more thing”——iPhone…",
-    "content": "折叠屏迟到七年，Siri迟到两年，新 CEO特努斯这次把AI时代的答案补齐了。 如果有 15999元的预算，你会考虑买苹果，小米，还是华为的折叠屏？ 随着苹果新品的发布，答案未必更容易了。 北京时间 9月10日凌晨，苹果召开秋季发布会，一口带来了iPhone 18 Pro系列、AirPods 5、Apple Watch Series 12和Apple Watch Ultra 4，以及那个真正的“one more thing”——iPhone Duo折叠屏。 没错，苹果的 折叠屏真没叫 Fold，Flex，Ultra…"
   },
   {
     "id": "科技-极客公园-http://www.geekpark.net/news/370089",
@@ -1224,12 +1598,12 @@ const jsonData = [
     "id": "科技-InfoQ 中文-https://www.infoq.cn/article/QIIYxNtMINFNh4sCM3vu",
     "feed_name": "InfoQ 中文",
     "category": "科技",
-    "title": "技术已经够了，企业为什么还是落不了地？｜9.20 FDE 现场解码",
+    "title": "9 月 20 日杭州，FDE 现场解码：企业 AI 真正卡在技术，还是组织？",
     "link": "https://www.infoq.cn/article/QIIYxNtMINFNh4sCM3vu",
     "pub_date": "2026-09-09 18:39:47",
-    "author": "模力工厂",
-    "description": "很多企业做AI，都会经历一个有点尴尬的阶段。 Demo做出来了，演示效果也不错。但真要接进业务，就开始遇到各种问题：数据不干净、接口接不通、权限拿不到、模型效果不稳定，业务人员也不一定愿意改变原来的工作方式。 最后，Demo还在，项目却没有真正跑起来。 这也是FDE最近被频繁讨论的原因。 FDE全称Forward Deployed Engineer，通常译为“前线部署工程师”。这类人需要进入业务现场，既能理解企业的问题，也能动手解决工程…",
-    "content": "很多企业做AI，都会经历一个有点尴尬的阶段。 Demo做出来了，演示效果也不错。但真要接进业务，就开始遇到各种问题：数据不干净、接口接不通、权限拿不到、模型效果不稳定，业务人员也不一定愿意改变原来的工作方式。 最后，Demo还在，项目却没有真正跑起来。 这也是FDE最近被频繁讨论的原因。 FDE全称Forward Deployed Engineer，通常译为“前线部署工程师”。这类人需要进入业务现场，既能理解企业的问题，也能动手解决工程问题，还要推动AI应用接入系统、进入流程并持续运行。 但FDE是不是企业AI落地…"
+    "author": "模力工场",
+    "description": "很多企业的 AI 项目，卡住时并不是模型不够强。 Demo 能跑，内部试用也不错。可一旦进入真实业务，问题就开始出现：数据拿不到、系统接不进去、权限过不了、业务同事不愿意改流程，效果也很难持续衡量。 最后，项目停在了 Demo。 9 月 20 日下午，模力工场将在杭州云谷中心举办一场小规模 FDE 主题交流。我们不准备泛泛讨论“AI 的未来”，而是想把企业 AI 落地里那些具体、麻烦、绕不开的问题拿到现场聊清楚。 活动主题：FDE：企业…",
+    "content": "很多企业的 AI 项目，卡住时并不是模型不够强。 Demo 能跑，内部试用也不错。可一旦进入真实业务，问题就开始出现：数据拿不到、系统接不进去、权限过不了、业务同事不愿意改流程，效果也很难持续衡量。 最后，项目停在了 Demo。 9 月 20 日下午，模力工场将在杭州云谷中心举办一场小规模 FDE 主题交流。我们不准备泛泛讨论“AI 的未来”，而是想把企业 AI 落地里那些具体、麻烦、绕不开的问题拿到现场聊清楚。 活动主题：FDE：企业 AI 落地，真正难的是技术还是组织？ 时间：2026 年 9 月 20 日 1…"
   },
   {
     "id": "科技-爱范儿-https://www.ifanr.com/1679329?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -1384,380 +1758,6 @@ const jsonData = [
     "author": "",
     "description": "非营利组织费米探索者任务（Fermi Explorer Mission）公布了一项低成本星际方案，计划 2029 年底前发射小型探测器，飞向约 4.4 光年外的半人马座α星系统。路线由 AI 规划，全程耗时约 8 万年，总预算低于 1500 万美元。项目联合创始人兼主席菲利普·约翰斯顿在声明中称，旅程结束时无人能亲见结果，而这正是意义所在：“这是在迈出人类能够做到的第一步，也是为了激励后代继续突破我们所继承下来的极限”。任务设四项硬指标…",
     "content": "非营利组织费米探索者任务（Fermi Explorer Mission）公布了一项低成本星际方案，计划 2029 年底前发射小型探测器，飞向约 4.4 光年外的半人马座α星系统。路线由 AI 规划，全程耗时约 8 万年，总预算低于 1500 万美元。项目联合创始人兼主席菲利普·约翰斯顿在声明中称，旅程结束时无人能亲见结果，而这正是意义所在：“这是在迈出人类能够做到的第一步，也是为了激励后代继续突破我们所继承下来的极限”。任务设四项硬指标：探测器应朝半人马座α星系统飞行，8 万年内至少完成整个旅程的 99%；有效载荷…"
-  },
-  {
-    "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6462267.html",
-    "feed_name": "人人都是产品经理",
-    "category": "科技",
-    "title": "从“生图”到“做图”：GPT Image 2.5 工作流体验",
-    "link": "https://www.woshipm.com/ai/6462267.html",
-    "pub_date": "2026-09-09 16:32:11",
-    "author": "陈宇明",
-    "description": "OpenAI 新推出的 GPT Image 2.5 带来 Sketch 手绘分镜、图片标注和多轮局部编辑，让 AI 图片从一次性生成变成可反复迭代的创作流程，真正进入可控制的生产力阶段。 OpenAI 又突然更新了。 这次是 GPT Image 2.5。 更快、更清晰、人物一致性更强，多轮改图也更稳定，同时还加入了 Sketch、Templates、图片标注修改等新的创作方式。 但体验下来，我觉得这次最值得聊的，不是：它又画得更好了。 …",
-    "content": "OpenAI 新推出的 GPT Image 2.5 带来 Sketch 手绘分镜、图片标注和多轮局部编辑，让 AI 图片从一次性生成变成可反复迭代的创作流程，真正进入可控制的生产力阶段。 OpenAI 又突然更新了。 这次是 GPT Image 2.5 。 更快、更清晰、人物一致性更强，多轮改图也更稳定，同时还加入了 Sketch、Templates、图片标注修改等新的创作方式。 但体验下来，我觉得这次最值得聊的，不是： 它又画得更好了。 而是： 我们用 AI 做图的方式，正在发生变化。 以前更像是在“生图”。 现…"
-  },
-  {
-    "id": "科技-人人都是产品经理-https://www.woshipm.com/chuangye/6460713.html",
-    "feed_name": "人人都是产品经理",
-    "category": "科技",
-    "title": "硅谷开始给“还没想好做什么”的创业者发钱：投资节点正在前移",
-    "link": "https://www.woshipm.com/chuangye/6460713.html",
-    "pub_date": "2026-09-09 16:30:39",
-    "author": "张艾拉",
-    "description": "South Park Commons 把投资节点推到创业之前：不要求产品、团队甚至想法，只要人够有野心就给 100 万美元，用 SAFE 换 7% 股份。a16z 的 Speedrun、Z Fellows 与 ODF 也在抢早期创业者，钱正在变成赠品，网络才是真正产品。 最近看到一张创投圈的名单，整理了2026年创业者最值得申请的 25个项目。 YC、Techstars、500 Global、Antler、PearX、HF0、South…",
-    "content": "South Park Commons 把投资节点推到创业之前：不要求产品、团队甚至想法，只要人够有野心就给 100 万美元，用 SAFE 换 7% 股份。a16z 的 Speedrun、Z Fellows 与 ODF 也在抢早期创业者，钱正在变成赠品，网络才是真正产品。 最近看到一张创投圈的名单，整理了2026年创业者最值得申请的 25个项目。 YC、Techstars、500 Global、Antler、PearX、HF0、South Park Commons、ODF、a16z……乍看之下，就是另一份硅谷创业加速…"
-  },
-  {
-    "id": "科技-InfoQ 中文-https://www.infoq.cn/article/WlJkEfJxMgaK9o91ow2Z",
-    "feed_name": "InfoQ 中文",
-    "category": "科技",
-    "title": "Shopify 推出 Gisting 新技术：将大模型系统提示词压缩为主旨词元",
-    "link": "https://www.infoq.cn/article/WlJkEfJxMgaK9o91ow2Z",
-    "pub_date": "2026-09-09 16:30:00",
-    "author": "作者：Sergio De Simone",
-    "description": "Shopify 的工程团队推出了一项叫作 Gisting 的新技术\"，用于将冗长的 LLM 提示词压缩为精简的 “Gist” 词元集合，从而提升吞吐量并降低推理成本。 Spotify 强调，在推理阶段用简洁的 Gist 词元替代冗长文本可以降低端到端延迟、减少基础设施成本，并提升词元吞吐量，同时无需修改模型的核心权重。 公司表示，Gisting 技术将 Sidekick GraphQL 智能体的系统提示词从约 6000 个词元压缩至 1…",
-    "content": "Shopify 的工程团队推出了一项叫作 Gisting 的新技术 \"，用于将冗长的 LLM 提示词压缩为精简的 “Gist” 词元集合，从而提升吞吐量并降低推理成本。 Spotify 强调，在推理阶段用简洁的 Gist 词元替代冗长文本可以降低端到端延迟、减少基础设施成本，并提升词元吞吐量，同时无需修改模型的核心权重。 公司表示，Gisting 技术将 Sidekick GraphQL 智能体的系统提示词从约 6000 个词元压缩至 1500 个词元，且没有牺牲预测质量。这意味着上下文规模实现了 4:1 的压缩比…"
-  },
-  {
-    "id": "科技-超能网-http://www.expreview.com/108080.html",
-    "feed_name": "超能网",
-    "category": "科技",
-    "title": "2026Q2排名前十晶圆代工厂营收环比增长11.5%：中芯国际已逼近三星",
-    "link": "http://www.expreview.com/108080.html",
-    "pub_date": "2026-09-09 16:27:00",
-    "author": "吕嘉俭",
-    "description": "根据TrendForce最新的统计数据，2026年第二季度全球晶圆代工产业持续受到人工智能（AI）热潮带来的高性能计算（HPC）需求影响，另外相关IC需求也出现同步增长，加上电视和PC等消费性供应链提前备货效应延续，推动全球前十晶圆代工厂的营收在2026年第二季度环比增长11.5%，接近534.9亿美元。 从排名来看，前五大晶圆代工厂在2026年第一季度保持不变，依次为台积电（TSMC）、三星（Samsung）、中芯国际（SMIC）、联…",
-    "content": "根据TrendForce最新的统计 数据 ，2026年第二季度全球晶圆代工产业持续受到人工智能（AI）热潮带来的高性能计算（HPC）需求影响，另外相关IC需求也出现同步增长，加上电视和PC等消费性供应链提前备货效应延续，推动全球前十晶圆代工厂的营收在2026年第二季度环比增长11.5%，接近534.9亿美元。 从排名来看，前五大晶圆代工厂在2026年第一季度保持不变，依次为台积电（TSMC）、三星（Samsung）、中芯国际（SMIC）、联华电子（UMC）、以及格罗方德（GlobalFoundries）。另外第六至…"
-  },
-  {
-    "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6462278.html",
-    "feed_name": "人人都是产品经理",
-    "category": "科技",
-    "title": "AI 编程助手总在“失忆”？试试这个开源记忆层 AgentMemory",
-    "link": "https://www.woshipm.com/ai/6462278.html",
-    "pub_date": "2026-09-09 16:11:39",
-    "author": "AI李子",
-    "description": "这款开源记忆层 AgentMemory 在 GitHub 拿下 28k Star，把项目交互沉淀为可检索的工作记录，并以四层记忆模型、MCP 与 hooks 自动写入会话事件，让新会话开局即召回历史上下文与长期经验。 上周，我分享了火山引擎开源的OpenViking。它更像一套面向 Agent 的上下文数据库，适合把记忆、项目资料和技能统一组织起来。OpenViking 实战：把知识库、长期记忆和 Agent 技能统一到一个上下文文件系…",
-    "content": "这款开源记忆层 AgentMemory 在 GitHub 拿下 28k Star，把项目交互沉淀为可检索的工作记录，并以四层记忆模型、MCP 与 hooks 自动写入会话事件，让新会话开局即召回历史上下文与长期经验。 上周，我分享了火山引擎开源的 OpenViking 。它更像一套面向 Agent 的 上下文数据库 ，适合把记忆、项目资料和技能统一组织起来。OpenViking 实战：把知识库、长期记忆和 Agent 技能统一到一个上下文文件系统 文章发出后，有朋友反馈确实好用，也有人提出了另一个需求：如果我暂时不…"
-  },
-  {
-    "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6462263.html",
-    "feed_name": "人人都是产品经理",
-    "category": "科技",
-    "title": "一个页面5个小微入口，微信全面 AI 化",
-    "link": "https://www.woshipm.com/ai/6462263.html",
-    "pub_date": "2026-09-09 16:05:29",
-    "author": "产品笔记",
-    "description": "微信正在把 AI 小微深度塞进公众号文章页，右侧 AI 摘要、底部总结、复制触发问 AI、分享入口问小微，单页面已出现 5 个小微入口。与支付宝另开 AI tab 的讨巧做法不同，微信选择了更难的深度融合路径。 今天打开公众号看文章。 又发现了一个微信 AI 小微的入口，叫做「AI 摘要·人数」 往下滑动看文章时，会自动浮现在右侧。 50 人，是指这篇文章有 50 个人使用过 AI 摘要功能。 结果等我看到文章结束的位置时，这个功能又出…",
-    "content": "微信正在把 AI 小微深度塞进公众号文章页，右侧 AI 摘要、底部总结、复制触发问 AI、分享入口问小微，单页面已出现 5 个小微入口。与支付宝另开 AI tab 的讨巧做法不同，微信选择了更难的深度融合路径。 今天打开公众号看文章。 又发现了一个微信 AI 小微的入口， 叫做「AI 摘要·人数」 往下滑动看文章时，会自动浮现在右侧。 50 人，是指这篇文章有 50 个人使用过 AI 摘要功能。 结果等我看到文章结束的位置时，这个功能又出现先 ，显示在文章阅读数据旁。 点击进去，是默认是总结这篇文章内容。 同一个功…"
-  },
-  {
-    "id": "科技-雷峰网-https://www.leiphone.com/category/aihealth/8VqH5FyMaoSEnGPN.html",
-    "feed_name": "雷峰网",
-    "category": "科技",
-    "title": "蚂蚁阿福与河北肿瘤医院在癌症领域取得研究突破：用AI提前预测胃癌术后风险",
-    "link": "https://www.leiphone.com/category/aihealth/8VqH5FyMaoSEnGPN.html",
-    "pub_date": "2026-09-09 15:49:00",
-    "author": "周蕾",
-    "description": "导语：用AI从病理切片的数十亿像素的细胞形态里寻找答案。 近日，肿瘤学顶级期刊Annals of Oncology接收了一项来自中国的研究：人工智能模型DeepComp可以在胃癌手术开始之前，利用常规增强CT与常规临床资料，同时预测患者术后发生中重度并发症的概率与长期生存风险。 这是同一支团队近期登上顶级期刊的第三项研究。另外两项研究——预测胃癌术后早期复发的RSA模型、预测术后肝转移的RCSA模型研究论文，也已发表在国际专业期刊Nat…",
-    "content": "导语：用AI从病理切片的数十亿像素的细胞形态里寻找答案。&nbsp; 近日，肿瘤学顶级期刊 Annals of Oncology 接收了一项来自中国的研究：人工智能模型 DeepComp 可以在胃癌手术开始之前，利用常规增强 CT 与常规临床资料，同时预测患者术后发生中重度并发症的概率与长期生存风险。 这是同一支团队近期登上顶级期刊的第三项研究。另外两项研究 ——预测胃癌术后早期复发的 RSA 模型、预测术后肝转移的 RCSA 模型研究论文，也已发表在国际专业期刊 Nature Communications 上。三…"
-  },
-  {
-    "id": "科技-超能网-http://www.expreview.com/108076.html",
-    "feed_name": "超能网",
-    "category": "科技",
-    "title": "Arm推出Neoverse CSS N4：最多128核心，支持LPDDR6和PCIe 7.0标准",
-    "link": "http://www.expreview.com/108076.html",
-    "pub_date": "2026-09-09 15:49:00",
-    "author": "吕嘉俭",
-    "description": "Arm宣布，推出面向次世代代理式AI数据中心打造的Arm Neoverse CSS N4，提供了机柜级CPU密度、高效网络处理能力、以及与AI加速器的高速连接。这也是迄今为止最容易配置的Neoverse CSS，具备CPU核心、缓存、内存与I/O弹性选项。 Arm Neoverse CSS N4可配置8至128个CPU核心，原生支持FP8和MMLA，每核心提配置最高2MB的L2缓存，共享的系统级缓存最大可达256MB；采用3nm工艺制造…",
-    "content": "Arm 宣布 ，推出面向次世代代理式AI数据中心打造的Arm Neoverse CSS N4，提供了机柜级CPU密度、高效网络处理能力、以及与AI加速器的高速连接。这也是迄今为止最容易配置的Neoverse CSS，具备CPU核心、缓存、内存与I/O弹性选项。 Arm Neoverse CSS N4可配置8至128个CPU核心，原生支持FP8和MMLA，每核心提配置最高2MB的L2缓存，共享的系统级缓存最大可达256MB；采用3nm工艺制造，频率可达3.8GHz；支持LPDDR6 / DDR5 / MRDIMM内存…"
-  },
-  {
-    "id": "科技-InfoQ 中文-https://www.infoq.cn/article/B2trh9hRTevk90IxzLXx",
-    "feed_name": "InfoQ 中文",
-    "category": "科技",
-    "title": "百度把Agent推进家庭：百度搭子接入小度，从“管家”走向“办事”和“创造”",
-    "link": "https://www.infoq.cn/article/B2trh9hRTevk90IxzLXx",
-    "pub_date": "2026-09-09 15:44:01",
-    "author": "褚杏娟",
-    "description": "9月8日，小度宣布“超能小度”完成智能体化升级，百度搭子全面接入小度硬件，并同步推出家庭日程管理、儿童看护、长辈健康、生活服务等多类家庭智能体应用，以及小度添添闺蜜机Ultra、小度智能屏X9 Ultra、小度智能摄像机C1500、小度智能音箱Pro Max四款新品。 这次发布，百度开始把原本主要运行在电脑和个人任务中的Agent能力推进家庭空间。百度搭子承担任务理解、规划和Agent调度，小度则负责把这些能力适配到家庭成员、多设备和真…",
-    "content": "9月8日，小度宣布“超能小度”完成智能体化升级，百度搭子全面接入小度硬件，并同步推出家庭日程管理、儿童看护、长辈健康、生活服务等多类家庭智能体应用，以及小度添添闺蜜机Ultra、小度智能屏X9 Ultra、小度智能摄像机C1500、小度智能音箱Pro Max四款新品。 这次发布，百度开始把原本主要运行在电脑和个人任务中的Agent能力推进家庭空间。百度搭子承担任务理解、规划和Agent调度，小度则负责把这些能力适配到家庭成员、多设备和真实生活场景中。 据《AI产品榜·桌面榜（PC）2026年7月榜单》，百度搭子7月…"
-  },
-  {
-    "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6462342.html",
-    "feed_name": "人人都是产品经理",
-    "category": "科技",
-    "title": "换皮肤、上直播、养桌宠，AI办公开始卷情绪价值？",
-    "link": "https://www.woshipm.com/ai/6462342.html",
-    "pub_date": "2026-09-09 15:40:59",
-    "author": "文娱价值官",
-    "description": "腾讯、阿里、字节三巨头齐聚AI办公赛道，娱乐化运营成为新战场。WorkBuddy搬来皮肤与IP联动，千问以颜文字点缀交互，豆包工作则靠直播造梗。这场比拼背后，是各家资源禀赋与增长逻辑的较量，工具正从效率向情感价值延伸。 随着8月底豆包工作正式发布，国内AI办公赛道的三强格局正式落定。腾讯WorkBuddy、阿里千问办公、字节豆包工作三家悉数到位，围绕桌面生产力入口的正面竞争全面拉开。 随着AI办公产品加速走向大众化，用户群体从技术爱好者…",
-    "content": "腾讯、阿里、字节三巨头齐聚AI办公赛道，娱乐化运营成为新战场。WorkBuddy搬来皮肤与IP联动，千问以颜文字点缀交互，豆包工作则靠直播造梗。这场比拼背后，是各家资源禀赋与增长逻辑的较量，工具正从效率向情感价值延伸。 随着8月底豆包工作正式发布，国内AI办公赛道的三强格局正式落定。腾讯WorkBuddy、阿里千问办公、字节豆包工作三家悉数到位，围绕桌面生产力入口的正面竞争全面拉开。 随着AI办公产品加速走向大众化，用户群体从技术爱好者扩散到更广泛的职场人群，单纯的功能比拼逐渐进入同质化区间，竞争的维度也随之向外延…"
-  },
-  {
-    "id": "科技-InfoQ 中文-https://www.infoq.cn/article/ZebW8Yc4QTzrbdJxagCc",
-    "feed_name": "InfoQ 中文",
-    "category": "科技",
-    "title": "“超脑+狼族”最新全阵容亮相！京东物流打造供应链应用场景最多、规模最大的AI具身机器人军团",
-    "link": "https://www.infoq.cn/article/ZebW8Yc4QTzrbdJxagCc",
-    "pub_date": "2026-09-09 15:38:04",
-    "author": "京东物流",
-    "description": "9月9日，在JDD京东全球科技探索者大会上，京东物流“超脑+狼族”机器人应用军团最新全阵容亮相：“超脑”大模型负责供应链复杂场景下的智能决策与协同调度，“狼族”已在仓储、分拣、配送等环节落地“九狼”（9款产品、11款机器人），其中五款“狼族”机器人全新产品和技术在本次大会上推出。 物流是机器人应用前景最广阔的场景之一，京东物流致力于打造全球最大规模的具身机器人应用军团，目前已在供应链领域落地了应用场景最多、规模最大、品类最全的自研与联合…",
-    "content": "9月9日，在JDD京东全球科技探索者大会上，京东物流“超脑+狼族”机器人应用军团最新全阵容亮相：“超脑”大模型负责供应链复杂场景下的智能决策与协同调度，“狼族”已在仓储、分拣、配送等环节落地“九狼”（9款产品、11款机器人），其中五款“狼族”机器人全新产品和技术在本次大会上推出。 物流是机器人应用前景最广阔的场景之一，京东物流致力于打造全球最大规模的具身机器人应用军团，目前已在供应链领域落地了应用场景最多、规模最大、品类最全的自研与联合开发机器人集群，覆盖仓储、分拣、运输、配送等全链条，同时在5年内采购300万台机…"
-  },
-  {
-    "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6462341.html",
-    "feed_name": "人人都是产品经理",
-    "category": "科技",
-    "title": "半年赚880万美元，这家中国公司把“AI男友”卖进了全球AI收入榜前四",
-    "link": "https://www.woshipm.com/ai/6462341.html",
-    "pub_date": "2026-09-09 15:36:00",
-    "author": "扬帆出海",
-    "description": "Crushie AI以AI男友切入高ARPU女性市场，月活仅34.5万却贡献每用户30元月收入，上半年吸金880万美元。其养成式互动与高频迭代策略，为AI陪伴出海赛道提供了新范本。 2026年7月中旬，海外科技媒体Decrypt援引数据分析机构Appfigures Intelligence的一份报告显示，自2022年底ChatGPT发布以来，全球范围内（App Store与Google Play双端）的NSFW及恋爱陪伴类AI应用约21…",
-    "content": "Crushie AI以AI男友切入高ARPU女性市场，月活仅34.5万却贡献每用户30元月收入，上半年吸金880万美元。其养成式互动与高频迭代策略，为AI陪伴出海赛道提供了新范本。 2026年7月中旬，海外科技媒体Decrypt援引数据分析机构Appfigures Intelligence的一份报告显示，自2022年底ChatGPT发布以来，全球范围内（App Store与Google Play双端）的NSFW及恋爱陪伴类AI应用约214款，累计下载量已经突破1.653亿次，全球用户消费总额达到4.273亿美元（为…"
-  },
-  {
-    "id": "科技-雷峰网-https://www.leiphone.com/category/robot/tEzDlRIgiHsXV8B0.html",
-    "feed_name": "雷峰网",
-    "category": "科技",
-    "title": "从Demo到1000万次真实作业，万勋发布NOVA2.0柔性具身大脑",
-    "link": "https://www.leiphone.com/category/robot/tEzDlRIgiHsXV8B0.html",
-    "pub_date": "2026-09-09 15:32:00",
-    "author": "刘路遥",
-    "description": "导语：40+行业场景，20ms轨迹生成。 作为柔性具身智能的全球领航者，万勋科技于日前正式发布其第二代柔性具身大脑NOVA2.0（Neuromorphic Omniversal Versatile Architecture，神经元智能开放世界通用架构），同时也是行业首个开放世界全天候商业交付级具身智能架构——该架构脱胎并服务于40+真实行业场景超1000万次多维度极限工况作业，跨行业场景迁移、落地能力与应用价值已赢得全球客户广泛认可，并…",
-    "content": "导语：40+行业场景，20ms轨迹生成。 作为柔性具身智能的全球领航者，万勋科技于日前正式发布其第二代柔性具身大脑NOVA2.0（Neuromorphic Omniversal Versatile Architecture，神经元智能开放世界通用架构），同时也是行业首个开放世界全天候商业交付级具身智能架构——该架构脱胎并服务于40+真实行业场景超1000万次多维度极限工况作业，跨行业场景迁移、落地能力与应用价值已赢得全球客户广泛认可，并从中构建起极为稀缺的真实场景数据飞轮，为行业率先跑通了“真场景、真需求、真数据、…"
-  },
-  {
-    "id": "科技-InfoQ 中文-https://www.infoq.cn/article/xvtZXyhSgTlfB5y3NCFm",
-    "feed_name": "InfoQ 中文",
-    "category": "科技",
-    "title": "火山引擎 AI MediaKit X 懂车帝，探索汽车内容智能创作新方式",
-    "link": "https://www.infoq.cn/article/xvtZXyhSgTlfB5y3NCFm",
-    "pub_date": "2026-09-09 15:27:01",
-    "author": "火山引擎视频云",
-    "description": "一场新车测评、一次真实的驾驶体验，或是一段旅途中的随手记录，都可能成为用户认识一款车、做出购车选择的重要参考。 作为国内领先的汽车内容、工具与服务平台，懂车帝通过汽车资讯、专业测评和用户分享等多种内容，为用户提供覆盖选车、看车、买车和用车的服务。公开信息显示，截至 2025 年，懂车帝移动端日活跃用户已超过 1000 万，覆盖汽车兴趣用户超过 5 亿。面对车辆测评、用户原创内容和商业化投放等不同需求，平台需要高效处理来源多样、质量不一、…",
-    "content": "一场新车测评、一次真实的驾驶体验，或是一段旅途中的随手记录，都可能成为用户认识一款车、做出购车选择的重要参考。 作为国内领先的汽车内容、工具与服务平台，懂车帝通过汽车资讯、专业测评和用户分享等多种内容，为用户提供覆盖选车、看车、买车和用车的服务。公开信息显示，截至 2025 年，懂车帝移动端日活跃用户已超过 1000 万，覆盖汽车兴趣用户超过 5 亿。面对车辆测评、用户原创内容和商业化投放等不同需求，平台需要高效处理来源多样、质量不一、用途各异的视频素材。 在汽车内容消费持续升级的背景下，懂车帝接入火山引擎 AI …"
-  },
-  {
-    "id": "科技-新浪专栏 / 创事记-https://finance.sina.com.cn/tech/csj/2026-09-09/doc-inirfivu5664946.shtml",
-    "feed_name": "新浪专栏 / 创事记",
-    "category": "科技",
-    "title": "跌破1美元红线，2000亿灰飞烟灭，爱奇艺到底怎么了？",
-    "link": "https://finance.sina.com.cn/tech/csj/2026-09-09/doc-inirfivu5664946.shtml",
-    "pub_date": "2026-09-09 15:26:02",
-    "author": "",
-    "description": "近期，爱奇艺披露2026年第二季度财报，营收下滑超5%，净利润继续亏损。业绩公布后，公司股价连续下跌，累计重挫超30%，再创历史新低。 曾风光一时的爱奇艺，到底怎么了？ 01 经营亏损才是常态 2018年，爱奇艺头顶“中国版奈飞”的光环登陆纳斯达克，股价一度冲高至46美元，巅峰市值破310亿美元。 那是长视频最风光的年份，资本追捧、用户增长、故事性感，市场一度相信中国会诞生自己的Netflix。 如今，爱奇艺股价已跌破1美元红线，累计跌…",
-    "content": "近期，爱奇艺披露 2026年第二季度财报， 营收下滑超5%，净利润继续亏损。业绩公布后，公司股价连续下跌，累计重挫超30%，再创历史新低 。 曾风光一时的爱奇艺，到底怎么了？ 01 经营亏损才是常态 2018年，爱奇艺头顶“中国版奈飞”的光环登陆纳斯达克，股价一度冲高至46美元，巅峰市值破310亿美元。 那是长视频最风光的年份，资本追捧、用户增长、故事性感，市场一度相信中国会诞生自己的 Netflix。 如今，爱奇艺股价已跌破 1美元红线，累计跌幅超98%，市值蒸发超300亿美元，折合人民币超2000亿元。从万众期…"
-  },
-  {
-    "id": "科技-新浪专栏 / 创事记-https://finance.sina.com.cn/tech/csj/2026-09-09/doc-inirfivs8890344.shtml",
-    "feed_name": "新浪专栏 / 创事记",
-    "category": "科技",
-    "title": "7—8月教育行业融资报告：融资总金额6300万，资本继续押注AI与产业服务",
-    "link": "https://finance.sina.com.cn/tech/csj/2026-09-09/doc-inirfivs8890344.shtml",
-    "pub_date": "2026-09-09 15:23:56",
-    "author": "",
-    "description": "导语 2026年7—8月，国内教育行业共发生4起融资事件，可统计融资总金额约为6300万元人民币。其中，7月和8月各发生2起融资，项目分别分布在教育科技、职业教育和教育企业服务等领域。 7月下旬，福建魔方电子科技有限公司宣布战略投资厦门盈思云教育科技有限公司，具体投资金额未披露。盈思云主要围绕智慧校园场景，为学校提供校园管理平台及智能硬件，业务覆盖校园安全、德育、教务和消费管理等环节，并与支付宝开展合作，帮助学校推进信息化建设。此次合作…",
-    "content": "导语 2026年7—8月，国内教育行业共发生4起融资事件，可统计融资总金额约为6300万元人民币。其中，7月和8月各发生2起融资，项目分别分布在教育科技、职业教育和教育企业服务等领域。 7月下旬，福建魔方电子科技有限公司宣布战略投资厦门盈思云教育科技有限公司，具体投资金额未披露。盈思云主要围绕智慧校园场景，为学校提供校园管理平台及智能硬件，业务覆盖校园安全、德育、教务和消费管理等环节，并与支付宝开展合作，帮助学校推进信息化建设。此次合作将结合魔方科技的硬件制造能力和盈思云的校园运营能力，重点推进AI智能校徽及智慧校…"
-  },
-  {
-    "id": "科技-InfoQ 中文-https://www.infoq.cn/article/h4M6YGm3G7Zph5QEIV5R",
-    "feed_name": "InfoQ 中文",
-    "category": "科技",
-    "title": "pnpm 12 采用 Rust 语言重写了包管理器，在保留 pnpm 11 工作流的同时提升了安装速度",
-    "link": "https://www.infoq.cn/article/h4M6YGm3G7Zph5QEIV5R",
-    "pub_date": "2026-09-09 15:23:00",
-    "author": "作者：Daniel Curtis",
-    "description": "pnpm\" 发布 pnpm 12 版本，将原有的 TypeScript 和 Node.js 实现重写为原生 Rust 版本，同时刻意保留了 pnpm 11 的命令、参数、设置、锁定文件格式以及 node_modules 目录结构。此次发布旨在优化启动速度并降低文件系统开销，同时也不需要团队重新学习该包管理器或进行大规模迁移。 当缓存或 node_modules 目录已经存在时，性能提升最为显著。在 pnpm 定期更新的基准测试\"中，文件…",
-    "content": "pnpm \" 发布 pnpm 12 版本，将原有的 TypeScript 和 Node.js 实现重写为原生 Rust 版本，同时刻意保留了 pnpm 11 的命令、参数、设置、锁定文件格式以及 node_modules 目录结构。此次发布旨在优化启动速度并降低文件系统开销，同时也不需要团队重新学习该包管理器或进行大规模迁移。 当缓存或 node_modules 目录已经存在时，性能提升最为显著。在 pnpm 定期更新的基准测试 \"中，文件量较大的测试集，其全新安装时间从旧实现的 8.2 秒缩短至 Rust 实现的…"
-  },
-  {
-    "id": "科技-超能网-http://www.expreview.com/108075.html",
-    "feed_name": "超能网",
-    "category": "科技",
-    "title": "Arm CSS for Mobile 2发布：包含C2 CPU集群和Mali G2-Ultra NX GPU",
-    "link": "http://www.expreview.com/108075.html",
-    "pub_date": "2026-09-09 15:19:00",
-    "author": "吕嘉俭",
-    "description": "Arm宣布，推出第二代移动终端计算子系统Arm CSS for Mobile 2，这是一个面向智能体AI与AI原生图形的计算平台，将Arm C2 CPU集群、Arm Mali G2-Ultra NX GPU、SI L2系统互连、以及软件与开发工具整合至可配置平台中，协助合作伙伴和OEM代工厂针对性能、功耗和需求量身打造合适的定制SoC。 Arm C2 CPU集群包括了C2-Ultra CPU、C2-Pro CPU、以及第二代可扩展矩阵扩…",
-    "content": "Arm 宣布 ，推出第二代移动终端计算子系统Arm CSS for Mobile 2，这是一个面向智能体AI与AI原生图形的计算平台，将Arm C2 CPU集群、Arm Mali G2-Ultra NX GPU、SI L2系统互连、以及软件与开发工具整合至可配置平台中，协助合作伙伴和OEM代工厂针对性能、功耗和需求量身打造合适的定制SoC。 Arm C2 CPU集群包括了C2-Ultra CPU、C2-Pro CPU、以及第二代可扩展矩阵扩展（SME2）技术，在最新AI模型上性能增幅最高达1.7倍，单线程性能提升最…"
-  },
-  {
-    "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6462106.html",
-    "feed_name": "人人都是产品经理",
-    "category": "科技",
-    "title": "用 AI 做项目， 怎么避免“屎上雕花”？",
-    "link": "https://www.woshipm.com/ai/6462106.html",
-    "pub_date": "2026-09-09 15:17:23",
-    "author": "岚天",
-    "description": "当七八成工作交给Agent后，产品经理的核心价值转向规划与判断。本文从预约工具等实例出发，剖析如何打好地基：明确目标、场景、规则与验收，避免在错误方向上‘屎上雕花’。文章提供了一套与AI协作的实操方法，帮助你在执行外包的时代，真正掌控项目方向。 现在我的工作，按体量算，七八成都已经交给 Agent 了。原型让它做，代码让它写，我自己主要做规划和判断。 “规划和判断”这几个字，说起来很轻巧。 可如果只是等 AI 交出一个结果，觉得不满意，…",
-    "content": "当七八成工作交给Agent后，产品经理的核心价值转向规划与判断。本文从预约工具等实例出发，剖析如何打好地基：明确目标、场景、规则与验收，避免在错误方向上‘屎上雕花’。文章提供了一套与AI协作的实操方法，帮助你在执行外包的时代，真正掌控项目方向。 现在我的工作，按体量算，七八成都已经交给 Agent 了。原型让它做，代码让它写，我自己主要做规划和判断。 “规划和判断”这几个字，说起来很轻巧。 可如果只是等 AI 交出一个结果，觉得不满意，再让它改一版，这里面到底有多少规划，又有多少判断？ 这是我想写这篇文章的原因。大…"
-  },
-  {
-    "id": "科技-雷峰网-https://www.leiphone.com/category/industrynews/AMAyaUGizzaa1UTo.html",
-    "feed_name": "雷峰网",
-    "category": "科技",
-    "title": "去掉「AI」滤镜，IFA 2026还有哪些真亮点？",
-    "link": "https://www.leiphone.com/category/industrynews/AMAyaUGizzaa1UTo.html",
-    "pub_date": "2026-09-09 15:11:00",
-    "author": "刘路遥",
-    "description": "导语：“从门后死角到墙根一圈草，机器开始接手过去总要人补一遍的活。 ” 今年的IFA依然不缺“AI”。电视、冰箱、洗衣机、扫地机器人，每个展台都有一套关于智能的说辞。 但把“AI”暂时拿掉，更直观的变化其实是：机器人更忙了，分工也更细了。 擦窗、割草、泳池清洁、爬楼和机械臂，都不是今年才出现。今年更值得看的，是厂商开始处理一些更具体、也更麻烦的任务：门后的死角、墙根的一圈草、低矮家具下的积尘、泳池浅水区，以及一台机器做不完时，如何把任务…",
-    "content": "导语：“从门后死角到墙根一圈草，机器开始接手过去总要人补一遍的活。&nbsp;” 今年的IFA依然不缺“AI”。电视、冰箱、洗衣机、扫地机器人，每个展台都有一套关于智能的说辞。 但把“AI”暂时拿掉，更直观的变化其实是：机器人更忙了，分工也更细了。 擦窗、割草、泳池清洁、爬楼和机械臂，都不是今年才出现。今年更值得看的，是厂商开始处理一些更具体、也更麻烦的任务：门后的死角、墙根的一圈草、低矮家具下的积尘、泳池浅水区，以及一台机器做不完时，如何把任务拆给另一台机器。 机械臂是最明显的例子。前几年，它更像吸引围观的动作展…"
-  },
-  {
-    "id": "科技-极客公园-http://www.geekpark.net/news/370061",
-    "feed_name": "极客公园",
-    "category": "科技",
-    "title": "千问办公发布多人工作台，重写企业软件的最后一公里",
-    "link": "http://www.geekpark.net/news/370061",
-    "pub_date": "2026-09-09 15:07:04",
-    "author": "",
-    "description": "作者｜Cynthia 编辑｜郑玄 2026 年 2 月 3 日，由 Anthropic 带头，华尔街替 SaaS 写好了讣告。 几天前，Anthropic 正式官宣把 Claude Cowork 的插件能力扩展到法律、销售、金融等知识工作。与普通聊天机器人不同，这些插件可以携带部门工作流、调用外部工具和数据，并按照预设规则完成一段具体工作。 市场很快把这种能力翻译成了另一个词：替代。2 月 3 日，高盛一篮子美国软件股单日下跌 6%；彭…",
-    "content": "作者｜Cynthia 编辑｜郑玄 2026 年 2 月 3 日，由 Anthropic 带头，华尔街替 SaaS 写好了讣告。 几天前，Anthropic 正式官宣把 Claude Cowork 的插件能力扩展到法律、销售、金融等知识工作。与普通聊天机器人不同，这些插件可以携带部门工作流、调用外部工具和数据，并按照预设规则完成一段具体工作。 市场很快把这种能力翻译成了另一个词：替代。2 月 3 日，高盛一篮子美国软件股单日下跌 6%；彭博统计，当天软件、金融服务和资产管理相关股票合计蒸发约 2850 亿美元。一天之…"
-  },
-  {
-    "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6462311.html",
-    "feed_name": "人人都是产品经理",
-    "category": "科技",
-    "title": "活动复盘有用的诀窍：四步法+八大误区（附AI输入检查）",
-    "link": "https://www.woshipm.com/ai/6462311.html",
-    "pub_date": "2026-09-09 15:07:04",
-    "author": "接地气的陈老师",
-    "description": "活动分析总被批不深入？问题常出在目标设定与过程监控上。本文拆解冲量、清库存、定向提升三类活动，指出八大常见误区，并提醒AI工具虽能加速计算，却无法替代业务判断。掌握正确方法，才能让分析真正落地。 活动分析，是企业里常见的分析主题，也是被诟病：“分析不深入”“没有可落地结论”最多的专题。 注意！不是谁闹谁有理，有些职责纯属无理取闹。 现在这事儿更扎心了：把活动数据丢给AI，它能几秒钟给你生成一份图文并茂的复盘报告，结论写着“建议持续优化”…",
-    "content": "活动分析总被批不深入？问题常出在目标设定与过程监控上。本文拆解冲量、清库存、定向提升三类活动，指出八大常见误区，并提醒AI工具虽能加速计算，却无法替代业务判断。掌握正确方法，才能让分析真正落地。 活动分析，是企业里常见的分析主题，也是被诟病：“分析不深入”“没有可落地结论”最多的专题。 注意！不是谁闹谁有理，有些职责纯属无理取闹。 现在这事儿更扎心了：把活动数据丢给AI，它能几秒钟给你生成一份图文并茂的复盘报告，结论写着“建议持续优化”。 可这样的报告，该被Diss还是被Diss。 为啥？ 今天一篇文章，带大家清楚…"
-  },
-  {
-    "id": "科技-Solidot-https://www.solidot.org/story?sid=85327",
-    "feed_name": "Solidot",
-    "category": "科技",
-    "title": "Valve 要求澳大利亚玩家用信用卡验证年龄以访问 R18+ 游戏",
-    "link": "https://www.solidot.org/story?sid=85327",
-    "pub_date": "2026-09-09 15:05:00",
-    "author": "",
-    "description": "澳大利亚玩家通过社媒报告，Valve 要求澳大利亚玩家用信用卡验证年龄，之后才允许访问 Steam 商店的 R18+ 类游戏。玩家抱怨，他们的账号历史都超过 20 年了，如今却还被迫要通过信用卡去验证年龄。而在澳大利亚，信用卡并不像美国那样普及，大部分成年人都只有借记卡，为了访问 R18+ 游戏页面去申请信用卡有点小题大作。此前 Valve 也对访问 R18+ 游戏的英国玩家推行了信用卡年龄验证要求。",
-    "content": "澳大利亚玩家通过社媒报告，Valve 要求澳大利亚玩家用信用卡验证年龄，之后才允许访问 Steam 商店的 R18+ 类游戏。玩家抱怨，他们的账号历史都超过 20 年了，如今却还被迫要通过信用卡去验证年龄。而在澳大利亚，信用卡并不像美国那样普及，大部分成年人都只有借记卡，为了访问 R18+ 游戏页面去申请信用卡有点小题大作。此前 Valve 也对访问 R18+ 游戏的英国玩家推行了信用卡年龄验证要求。"
-  },
-  {
-    "id": "科技-人人都是产品经理-https://www.woshipm.com/chuangye/6461609.html",
-    "feed_name": "人人都是产品经理",
-    "category": "科技",
-    "title": "不做大模型，前法务负责人如何把经验做成垂直AI壁垒",
-    "link": "https://www.woshipm.com/chuangye/6461609.html",
-    "pub_date": "2026-09-09 14:56:31",
-    "author": "深思 SenseAI",
-    "description": "前Replit法务负责人Cecilia Ziniti创办GC AI，已服务约2100家公司。Easy Prompt把口语需求转明确指令，Exact Quote一键定位原文，Word插件直接改合同，并支持跨文档库问答。 9月4日，Crunchbase刊出了一篇创业者访谈。受访者Cecilia Ziniti曾是Replit的法务负责人，没学过编程，却离开了熟悉的工作，和一位工程师共同创办了GC AI。 按照她在采访中的说法，这家企业法律AI…",
-    "content": "前Replit法务负责人Cecilia Ziniti创办GC AI，已服务约2100家公司。Easy Prompt把口语需求转明确指令，Exact Quote一键定位原文，Word插件直接改合同，并支持跨文档库问答。 9月4日，Crunchbase刊出了一篇创业者访谈。受访者Cecilia Ziniti曾是Replit的法务负责人，没学过编程，却离开了熟悉的工作，和一位工程师共同创办了GC AI。 按照她在采访中的说法，这家企业法律AI公司已经服务约2100家公司。GC AI当前官网也给出了相近的客户数量。这是公司…"
-  },
-  {
-    "id": "科技-超能网-http://www.expreview.com/108074.html",
-    "feed_name": "超能网",
-    "category": "科技",
-    "title": "美商海盗船带来TC80电竞椅：为玩家、创作者和日常用户打造的舒适游戏座椅",
-    "link": "http://www.expreview.com/108074.html",
-    "pub_date": "2026-09-09 14:34:00",
-    "author": "吕嘉俭",
-    "description": "美商海盗船（CORSAIR）宣布，推出新款TC80电竞椅。美商海盗船表示，为玩家、创作者和日常用户打造的舒适游戏座椅，经过了30多项耐用性和安全测试，符合BIFMA X5.1和EN 1335标准，不但体现了其对对安全性、耐用性和人体工学支撑的重视，而且将人体工学舒适性与持久可靠性完美结合，使其更适合长时间工作或游戏。 TC80电竞椅采用了黑色耐磨织物，还有人造皮革材质，带有宽敞平整的座椅、柔软的软垫，使用了透气面料搭配仿皮装饰，拥有可拆…",
-    "content": "美商海盗船（CORSAIR） 宣布 ，推出新款TC80电竞椅。美商海盗船表示，为玩家、创作者和日常用户打造的舒适游戏座椅，经过了30多项耐用性和安全测试，符合BIFMA X5.1和EN 1335标准，不但体现了其对对安全性、耐用性和人体工学支撑的重视，而且将人体工学舒适性与持久可靠性完美结合，使其更适合长时间工作或游戏。 TC80电竞椅采用了黑色耐磨织物，还有人造皮革材质，带有宽敞平整的座椅、柔软的软垫，使用了透气面料搭配仿皮装饰，拥有可拆卸颈枕提供额外支撑，缓冲的头部和颈部压力，并配有两段式联动扶手，提供了理想的…"
-  },
-  {
-    "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6462099.html",
-    "feed_name": "人人都是产品经理",
-    "category": "科技",
-    "title": "一万个Agent，88小时，Open AI破解数学“千禧难题”",
-    "link": "https://www.woshipm.com/ai/6462099.html",
-    "pub_date": "2026-09-09 14:32:36",
-    "author": "有界UnKnown",
-    "description": "OpenAI 用大约 88 小时给出纳维-斯托克斯方程的解答，这道自 1934 年 Leray 起步、2000 年被列入七大悬赏的数学猜想，困住顶尖学者近 90 年。文章拆解流体奇点之争，看 AI 如何重写数学研究的协作方式。 一夜之间，OpenAI扔出一个让数学界炸锅的消息。 一个困了数学界近90年的千禧年难题，OpenAI用大约88小时找到了答案。 这道题叫Navier–Stokes（纳维–斯托克斯）。 1934年以来，Leray、…",
-    "content": "OpenAI 用大约 88 小时给出纳维-斯托克斯方程的解答，这道自 1934 年 Leray 起步、2000 年被列入七大悬赏的数学猜想，困住顶尖学者近 90 年。文章拆解流体奇点之争，看 AI 如何重写数学研究的协作方式。 一夜之间，OpenAI扔出一个让数学界炸锅的消息。 一个困了数学界近90年的千禧年难题，OpenAI用大约88小时找到了答案。 这道题叫Navier–Stokes（纳维–斯托克斯）。 1934年以来，Leray、Nirenberg、Caffarelli、Tao等一代代顶尖数学家不断逼近这个问…"
-  },
-  {
-    "id": "科技-InfoQ 中文-https://www.infoq.cn/article/4Bm4yEmkFQiB8hEcmMmW",
-    "feed_name": "InfoQ 中文",
-    "category": "科技",
-    "title": "ApsaraMQ × IBM Confluent 实时数据沙龙",
-    "link": "https://www.infoq.cn/article/4Bm4yEmkFQiB8hEcmMmW",
-    "pub_date": "2026-09-09 14:31:03",
-    "author": "陈姚戈",
-    "description": "AI 成为企业数据新消费者的当下，对数据架构提出了全新要求。 过去，实时数据主要供给业务系统、实时计算和数据分析；现在，Agent 还需要持续获得最新的业务状态，并把分散的数据转化为可以理解和调用的上下文。这意味着，从 Data Streaming 到 AI Context，企业的数据管道、计算与存储体系都需要重新考虑。 8 月 28 日，阿里云 ApsaraMQ 与 IBM Confluent 联合举办「AI 实时数据沙龙」。IBM …",
-    "content": "AI 成为企业数据新消费者的当下，对数据架构提出了全新要求。 过去，实时数据主要供给业务系统、实时计算和数据分析；现在，Agent 还需要持续获得最新的业务状态，并把分散的数据转化为可以理解和调用的上下文。这意味着，从 Data Streaming 到 AI Context，企业的数据管道、计算与存储体系都需要重新考虑。 8 月 28 日，阿里云 ApsaraMQ 与 IBM Confluent 联合举办「AI 实时数据沙龙」。IBM 中国科技事业部客户工程团队资深架构师吴敏达，阿里云 Kafka 产品负责人刘尧、…"
-  },
-  {
-    "id": "科技-InfoQ 中文-https://www.infoq.cn/article/ctAqA0IOsgsu2gRCHd9z",
-    "feed_name": "InfoQ 中文",
-    "category": "科技",
-    "title": "70%的项目注定被砍：Anthropic养了一支20人的“失败团队”，项目超过4人就“毕业”",
-    "link": "https://www.infoq.cn/article/ctAqA0IOsgsu2gRCHd9z",
-    "pub_date": "2026-09-09 14:27:43",
-    "author": "褚杏娟",
-    "description": "在Anthropic内部，一支规模仅约20人、名为Labs的小团队，正在成为公司产品创新的重要引擎。 这支团队由Anthropic联合创始人Ben Mann领导，主要负责从零孵化新的产品想法，成员中还包括Instagram联合创始人Mike Krieger等重量级人物。Claude Code、用于连接AI Agent与数据源的MCP，以及今年推出的Claude Design，都出自Labs或曾在这里完成早期孵化。 与传统产品团队不同，L…",
-    "content": "在Anthropic内部，一支规模仅约20人、名为Labs的小团队，正在成为公司产品创新的重要引擎。 这支团队由Anthropic联合创始人Ben Mann领导，主要负责从零孵化新的产品想法，成员中还包括Instagram联合创始人Mike Krieger等重量级人物。Claude Code、用于连接AI Agent与数据源的MCP，以及今年推出的Claude Design，都出自Labs或曾在这里完成早期孵化。 与传统产品团队不同，Labs并不追求高成功率。Ben Mann表示，这支团队更像真正意义上的创业孵化器…"
-  },
-  {
-    "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6460015.html",
-    "feed_name": "人人都是产品经理",
-    "category": "科技",
-    "title": "AI标识、版权存证、跨境互操作：AI痕迹追踪催生哪些新生意？",
-    "link": "https://www.woshipm.com/ai/6460015.html",
-    "pub_date": "2026-09-09 14:26:59",
-    "author": "全天候科技",
-    "description": "Claude 不可见水印、SynthID、微信小红书源头标注，把香农命题里的那句\"留有可辨识的印记\"重新演绎。AI 内容从能写、能画到能冒充真视频，痕迹追踪注定是一场长期拉锯。 1949年，贝尔实验室的克劳德·香农（Claude Shannon）发表了一篇名为《保密系统通信理论》的论文来探讨密码学，其理论探讨了一个后来不断被扩展的结论： 任何通信系统产生的消息，都无法完全摆脱其来源的统计特征。 因为每个字符都携带着发送者的概率习惯，分析…",
-    "content": "Claude 不可见水印、SynthID、微信小红书源头标注，把香农命题里的那句\"留有可辨识的印记\"重新演绎。AI 内容从能写、能画到能冒充真视频，痕迹追踪注定是一场长期拉锯。 1949年，贝尔实验室的克劳德·香农（Claude Shannon）发表了一篇名为《保密系统通信理论》的论文来探讨密码学，其理论探讨了一个后来不断被扩展的结论： 任何通信系统产生的消息，都无法完全摆脱其来源的统计特征。 因为每个字符都携带着发送者的概率习惯，分析足够多的字符，来源便会浮现。 香农讨论的是密码学，但这个洞见的适用范围远超密码学…"
-  },
-  {
-    "id": "科技-Solidot-https://www.solidot.org/story?sid=85326",
-    "feed_name": "Solidot",
-    "category": "科技",
-    "title": "《南方公园》改名为《南方美国》",
-    "link": "https://www.solidot.org/story?sid=85326",
-    "pub_date": "2026-09-09 14:23:46",
-    "author": "",
-    "description": "《南方公园（South Park）》创作者 Matt Stone 和 Trey Parker 宣布，“受苹果和 Google 的勇敢和爱国精神的启发，我们将把《南方公园》更名为《南方美国（South America）》。”美国总统特朗普上个月签署了行政令，将安大略湖（Lake Ontario）更名为美国湖（Lake America），去年他下令将墨西哥湾（Gulf of Mexico）更名为“美国湾”（Gulf of America）。…",
-    "content": "《南方公园（South Park）》创作者 Matt Stone 和 Trey Parker 宣布，“受苹果和 Google 的勇敢和爱国精神的启发，我们将把《南方公园》更名为《南方美国（South America）》。”美国总统特朗普上个月签署了行政令，将安大略湖（Lake Ontario）更名为美国湖（Lake America），去年他下令将墨西哥湾（Gulf of Mexico）更名为“美国湾”（Gulf of America）。《南方公园/南方美国》将于 9 月 16 日播出第 29 季第一集，它曾在 27…"
-  },
-  {
-    "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6462224.html",
-    "feed_name": "人人都是产品经理",
-    "category": "科技",
-    "title": "Seedance宇宙，和它的裂痕",
-    "link": "https://www.woshipm.com/ai/6462224.html",
-    "pub_date": "2026-09-09 14:18:00",
-    "author": "硅星人Pro",
-    "description": "Seedance 2.0曾以压倒性技术优势构建起视频模型市场的“宇宙”，但2.5发布后，高价与专业门槛让市场开始寻找绕行路径。MiniMax H3开源、阿里Wan3.0跟进，渠道与应用层纷纷探索混合调用与后训练优化，试图打破单一依赖。本文深度拆解这场围绕Seedance的攻防战，揭示视频模型市场格局的裂变与重构。 MiniMax H3 的开源，可能比外界看到得更仓促。 7 月 31 日，H3 与 Seedance 2.5 同日发布。外界…",
-    "content": "Seedance 2.0曾以压倒性技术优势构建起视频模型市场的“宇宙”，但2.5发布后，高价与专业门槛让市场开始寻找绕行路径。MiniMax H3开源、阿里Wan3.0跟进，渠道与应用层纷纷探索混合调用与后训练优化，试图打破单一依赖。本文深度拆解这场围绕Seedance的攻防战，揭示视频模型市场格局的裂变与重构。 MiniMax H3 的开源，可能比外界看到得更仓促。 7 月 31 日，H3 与 Seedance 2.5 同日发布。外界很容易把它理解成一次提前设计的开源狙击：Seedance 2.5 刚刚把原生生成…"
-  },
-  {
-    "id": "科技-超能网-http://www.expreview.com/108073.html",
-    "feed_name": "超能网",
-    "category": "科技",
-    "title": "罗技发布MX Keypad控制台：面向开发者的控制中心，带9个自定义全彩LCD键",
-    "link": "http://www.expreview.com/108073.html",
-    "pub_date": "2026-09-09 14:10:00",
-    "author": "吕嘉俭",
-    "description": "罗技宣布，推出MX Keypad控制台，提供了石墨色和浅灰色两种配色。罗技表示，这是一款专为多应用、多代理编程设计的AI控制中心，可以让开发者更好地掌握其不断演进的工作流程。 与市场上其他解决方案不同，MX Keypad控制台支持主流编程平台的跨应用程度兼容性，允许根据每个单独的工作流程进行无限制的定制。这种独特的多功能性和个性化设计，使得程序员能够统一其AI工作流程、复杂提示和开发工具，在整个堆栈中实现连续、无缝的协作体验。 MX K…",
-    "content": "罗技 宣布 ，推出MX Keypad控制台，提供了石墨色和浅灰色两种配色。罗技表示，这是一款专为多应用、多代理编程设计的AI控制中心，可以让开发者更好地掌握其不断演进的工作流程。 与市场上其他解决方案不同，MX Keypad控制台支持主流编程平台的跨应用程度兼容性，允许根据每个单独的工作流程进行无限制的定制。这种独特的多功能性和个性化设计，使得程序员能够统一其AI工作流程、复杂提示和开发工具，在整个堆栈中实现连续、无缝的协作体验。 MX Keypad控制台配有9个可自定义的全彩LCD按键，还有2个翻页键。用户可通过…"
-  },
-  {
-    "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6461535.html",
-    "feed_name": "人人都是产品经理",
-    "category": "科技",
-    "title": "DeepSeek Harness 里最值得一讲的插件：让 AI 自己组队干活",
-    "link": "https://www.woshipm.com/ai/6461535.html",
-    "pub_date": "2026-09-09 14:05:09",
-    "author": "子文",
-    "description": "Harness 的一款插件让 AI 从单兵作战变成小队协作：一句“调研竞品”就能拆成多路并行，实时看进度、卡在哪立刻知道。电商查退款异常、大促备品、写代码互审等场景，组队后时间从三步相加变成最慢那一步。 DeepSeek 那个叫 Harness 的 AI 助手，8 月 13 号才放出测试版，满打满算十天，网上带“插件”标签的作品已经七百多个了，最新数字到了 741。我翻了翻那份清单，大部分插件解决的还是单点问题：让 AI 记得住事、能直…",
-    "content": "Harness 的一款插件让 AI 从单兵作战变成小队协作：一句“调研竞品”就能拆成多路并行，实时看进度、卡在哪立刻知道。电商查退款异常、大促备品、写代码互审等场景，组队后时间从三步相加变成最慢那一步。 DeepSeek 那个叫 Harness 的 AI 助手，8 月 13 号才放出测试版，满打满算十天，网上带“插件”标签的作品已经七百多个了，最新数字到了 741。我翻了翻那份清单，大部分插件解决的还是单点问题：让 AI 记得住事、能直接读文件、少切几个窗口，这些都有用，但都是“给 AI 添本事”。真正让我觉得干活…"
-  },
-  {
-    "id": "科技-InfoQ 中文-https://www.infoq.cn/article/Qf5dY8QyzRUZaeA9JG5Z",
-    "feed_name": "InfoQ 中文",
-    "category": "科技",
-    "title": "如何在人工智能时代开展严谨且可持续的人工审核",
-    "link": "https://www.infoq.cn/article/Qf5dY8QyzRUZaeA9JG5Z",
-    "pub_date": "2026-09-09 14:01:38",
-    "author": "作者：Ben Linders",
-    "description": "在 Craft 大会\"上，Artie Shevchenko 发表了题为“代码健康守护者（Code Health Guardian\"）”的演讲。他指出，强制性的 AI 检查结合针对复杂变更的手动审核，有助于开发者保持敏锐的判断力。只要大多数开发者都是代码的所有者，那么在团队规模较小的情况下，就可以跳过低风险拉取请求（PR）的同行评审，并采用 AI 审批来提高开发速度。 Shevchenko 援引了 2025 年诺贝尔奖得主、经济史学家 J…",
-    "content": "在 Craft 大会 \"上，Artie Shevchenko 发表了题为“代码健康守护者（ Code Health Guardian \"）”的演讲。他指出，强制性的 AI 检查结合针对复杂变更的手动审核，有助于开发者保持敏锐的判断力。只要大多数开发者都是代码的所有者，那么在团队规模较小的情况下，就可以跳过低风险拉取请求（PR）的同行评审，并采用 AI 审批来提高开发速度。 Shevchenko 援引了 2025 年诺贝尔奖得主、经济史学家 Joel Mokyr 的观点。Mokyr 认为，只有当实践与对理论的深刻理解…"
   }
 ];
 
