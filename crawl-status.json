@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-09-14T00:36:01.216Z",
-  "ended_at": "2026-09-14T00:36:01.528Z",
-  "duration_ms": 312,
+  "started_at": "2026-09-14T11:19:47.142Z",
+  "ended_at": "2026-09-14T11:19:47.376Z",
+  "duration_ms": 234,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -17,16 +17,22 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 48,
-    "failed_sources": 11,
-    "circuit_open_sources": 11,
+    "cache_hit_sources": 47,
+    "failed_sources": 12,
+    "circuit_open_sources": 12,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1405,
-    "total_items_after_retention": 1202,
+    "total_items_after_dedupe": 1341,
+    "total_items_after_retention": 1137,
     "build_blocked": false
   },
   "critical_failures": [],
   "failures": [
+    {
+      "title": "求是网",
+      "url": "https://plink.anyfeeder.com/qstheory",
+      "reason": "The operation was aborted.",
+      "skippedByCircuit": true
+    },
     {
       "title": "网易新闻 / 今日关注",
       "url": "https://plink.anyfeeder.com/netease/today",
@@ -95,6 +101,11 @@
     }
   ],
   "circuit_open": [
+    {
+      "title": "求是网",
+      "url": "https://plink.anyfeeder.com/qstheory",
+      "reason": "The operation was aborted."
+    },
     {
       "title": "网易新闻 / 今日关注",
       "url": "https://plink.anyfeeder.com/netease/today",
