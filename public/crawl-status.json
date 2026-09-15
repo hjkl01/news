@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-09-14T11:19:47.142Z",
-  "ended_at": "2026-09-14T11:19:47.376Z",
-  "duration_ms": 234,
+  "started_at": "2026-09-15T01:07:51.203Z",
+  "ended_at": "2026-09-15T01:07:51.447Z",
+  "duration_ms": 244,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -21,15 +21,15 @@
     "failed_sources": 12,
     "circuit_open_sources": 12,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1341,
-    "total_items_after_retention": 1137,
+    "total_items_after_dedupe": 1365,
+    "total_items_after_retention": 1160,
     "build_blocked": false
   },
   "critical_failures": [],
   "failures": [
     {
-      "title": "求是网",
-      "url": "https://plink.anyfeeder.com/qstheory",
+      "title": "36氪",
+      "url": "https://www.36kr.com/feed",
       "reason": "The operation was aborted.",
       "skippedByCircuit": true
     },
@@ -102,8 +102,8 @@
   ],
   "circuit_open": [
     {
-      "title": "求是网",
-      "url": "https://plink.anyfeeder.com/qstheory",
+      "title": "36氪",
+      "url": "https://www.36kr.com/feed",
       "reason": "The operation was aborted."
     },
     {
