@@ -1,5 +1,148 @@
 const jsonData = [
   {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c6jrxzq3777wo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "區錦新案開審：澳門首宗閉門審訊國安案，我們知道多少？",
+    "link": "https://www.bbc.com/zhongwen/articles/c6jrxzq3777wo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-09-16 17:44:07",
+    "author": "",
+    "description": "Getty Images / 69岁的区锦新曾担任立法会议员长达20年，也是澳门六四悼念活动的组织者。他被控“颠覆国家政权”等罪名。 澳门首宗国安案件周三（9月16日）闭门开审，被告是民主派领袖区锦新，他被控“颠覆国家政权”等罪名，面临最高25年监禁。 69岁的区锦新曾担任立法会议员长达20年，也是澳门六四悼念活动的组织者。 他的案件进入法院程序后不对外公开，区锦新女儿曾表示，过去近一年无法联系父亲。而在开审当天，传媒被拒于法庭门外，外…",
+    "content": "Getty Images / 69岁的区锦新曾担任立法会议员长达20年，也是澳门六四悼念活动的组织者。他被控“颠覆国家政权”等罪名。 澳门首宗国安案件周三（9月16日）闭门开审，被告是民主派领袖区锦新，他被控“颠覆国家政权”等罪名，面临最高25年监禁。 69岁的区锦新曾担任立法会议员长达20年，也是澳门六四悼念活动的组织者。 他的案件进入法院程序后不对外公开，区锦新女儿曾表示，过去近一年无法联系父亲。而在开审当天，传媒被拒于法庭门外，外界只能等待政府新闻稿取得消息，较香港的国安案件更加封闭。 曾在澳门执业多年的葡裔…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cm750xv56v57o/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "除了末日警告，人工智能發展還在面臨著另一個威脅",
+    "link": "https://www.bbc.com/zhongwen/articles/cm750xv56v57o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-09-16 17:30:51",
+    "author": "",
+    "description": "BBC 数据中心里有一种诡异的低沉嗡鸣声。在那里，数以万计的晶片每秒进行数万亿次运算，推动着人工智能（artificial intelligence, AI；人工智慧）革命的车轮前进。 这些晶片为全球各地向先进人工智能模型发出的查询提供动力，生成文字、图像和视频。 它们的运算，本质上是构成晶片（芯片）的微型硅晶体管不断开合的过程，实际上是无声的。但与所有电脑一样，为这一过程提供动力的大量电力，几乎每一瓦最终都以热能的形式散出，而你听到的…",
+    "content": "BBC 数据中心里有一种诡异的低沉嗡鸣声。在那里，数以万计的晶片每秒进行数万亿次运算，推动着人工智能（artificial intelligence, AI；人工智慧）革命的车轮前进。 这些晶片为全球各地向先进人工智能模型发出的查询提供动力，生成文字、图像和视频。 它们的运算，本质上是构成晶片（芯片）的微型硅晶体管不断开合的过程，实际上是无声的。但与所有电脑一样，为这一过程提供动力的大量电力，几乎每一瓦最终都以热能的形式散出，而你听到的声音，正是数千台风扇缓慢运转的嗡鸣——它们的作用是防止热量烧毁成排的服务器机架。…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260916-%E9%A6%99%E5%B1%B1%E8%AE%BA%E5%9D%9B%E4%B8%AD%E5%9B%BD%E9%AB%98%E5%B1%82%E6%89%B9%E5%88%A4-%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89%E5%A4%8D%E6%B4%BB-%E6%97%A5%E6%9C%AC%E5%AE%98%E6%96%B9%E8%A2%AB%E6%8B%92%E4%B9%8B%E9%97%A8%E5%A4%96",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "香山论坛中国高层批判“军国主义复活” 日本官方被拒之门外 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260916-%E9%A6%99%E5%B1%B1%E8%AE%BA%E5%9D%9B%E4%B8%AD%E5%9B%BD%E9%AB%98%E5%B1%82%E6%89%B9%E5%88%A4-%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89%E5%A4%8D%E6%B4%BB-%E6%97%A5%E6%9C%AC%E5%AE%98%E6%96%B9%E8%A2%AB%E6%8B%92%E4%B9%8B%E9%97%A8%E5%A4%96",
+    "pub_date": "2026-09-16 15:45:03",
+    "author": "",
+    "description": "16/09/2026 - 09:27 中国国防部长董军16日在北京举行的年度安全保障会议第十三届北京香山论坛开幕式上致辞时表示：应对一切潜藏的霸权主义、军国主义，保持高度警惕。这一表态被视为对日本的间接批评。 9月15日，国际安全保障会议“香山论坛”在中国北京开幕，会期3天。约有100个国家和国际组织的代表参加，但去年曾参加会议的日本防卫省防卫研究所研究人员没有受到邀请，驻华武官也未能参加,日本方面由民间人士日本前首相鸠山由纪夫参加了对…",
+    "content": "16/09/2026 - 09:27 中国国防部长董军16日在北京举行的年度安全保障会议第十三届北京香山论坛开幕式上致辞时表示：应对一切潜藏的霸权主义、军国主义，保持高度警惕。这一表态被视为对日本的间接批评。 9月15日，国际安全保障会议“香山论坛”在中国北京开幕，会期3天。约有100个国家和国际组织的代表参加，但去年曾参加会议的日本防卫省防卫研究所研究人员没有受到邀请，驻华武官也未能参加,日本方面由民间人士日本前首相鸠山由纪夫参加了对谈。 据央视新闻报道：在2026北京香山论坛现场，日本前首相、日本东亚共同体研究…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260916-%E7%89%B9%E4%B9%A0%E4%BA%8C%E4%BC%9A%E9%A2%84%E8%AE%A124%E6%97%A5%E7%99%BB%E5%9C%BA-%E5%AF%B9%E5%8F%B0%E5%86%9B%E5%94%AE%E5%86%8D%E6%AC%A1%E6%88%90%E4%B8%BA%E7%BE%8E%E4%B8%AD%E8%B0%88%E5%88%A4%E6%9C%80%E6%95%8F%E6%84%9F%E7%AD%B9%E7%A0%81",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "特习二会预计24日登场 对台军售再次成为美中谈判最敏感筹码 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260916-%E7%89%B9%E4%B9%A0%E4%BA%8C%E4%BC%9A%E9%A2%84%E8%AE%A124%E6%97%A5%E7%99%BB%E5%9C%BA-%E5%AF%B9%E5%8F%B0%E5%86%9B%E5%94%AE%E5%86%8D%E6%AC%A1%E6%88%90%E4%B8%BA%E7%BE%8E%E4%B8%AD%E8%B0%88%E5%88%A4%E6%9C%80%E6%95%8F%E6%84%9F%E7%AD%B9%E7%A0%81",
+    "pub_date": "2026-09-16 15:45:03",
+    "author": "",
+    "description": "16/09/2026 - 09:43 特习两人今年将第二度举行峰会，并预计在24日于华盛顿登场。有媒体报导，北京已向华盛顿传达讯息，如果美国在两国元首会晤前批准新的对台军售，中方可能取消峰会。不过美中官方目前均未证实相关说法。 继美国总统特朗普 5月访问北京后，中国国家主席习近平也预计回访美国，这将是特习两人今年第二度举行峰会，并预计在24日于华盛顿登场，美方届时将以国宴接待。据《路透社》报导，辉达执行长黄仁勋也将为座上宾。 随着特习会…",
+    "content": "16/09/2026 - 09:43 特习两人今年将第二度举行峰会，并预计在24日于华盛顿登场。有媒体报导，北京已向华盛顿传达讯息，如果美国在两国元首会晤前批准新的对台军售，中方可能取消峰会。不过美中官方目前均未证实相关说法。 继美国总统特朗普 5月访问北京后，中国国家主席习近平也预计回访美国，这将是特习两人今年第二度举行峰会，并预计在24日于华盛顿登场，美方届时将以国宴接待。据《路透社》报导，辉达执行长黄仁勋也将为座上宾。 随着特习会倒数一周，美中持续就关税、人工智慧等议题进行磋商，而台湾是否也会进入两国领袖谈判…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cm207gqz55r0o/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "香港施政報告與首個五年規劃同步公佈",
+    "link": "https://www.bbc.com/zhongwen/articles/cm207gqz55r0o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-09-16 15:36:53",
+    "author": "",
+    "description": "Reuters / 香港行政长官李家超于2026年9月16日在中国香港立法会宣布首个五年规画，并发表年度施政报告。 香港行政长官首度同步发表香港首个五年规划及施政报告。 特首李家超星期三（9月16日）先发表香港首个规划，再发表其任内最后一份施政报告；其后立法会将首度合并讨论两份文件。 有评论形容，香港制订五年规划是“范式转移”，意味着“从西方式资本主义市场经济，改为接上中国特色社会主义市场经济”。李家超曾强调，五年规划不等同“计划经济”…",
+    "content": "Reuters / 香港行政长官李家超于2026年9月16日在中国香港立法会宣布首个五年规画，并发表年度施政报告。 香港行政长官首度同步发表香港首个五年规划及施政报告。 特首李家超星期三（9月16日）先发表香港首个规划，再发表其任内最后一份施政报告；其后立法会将首度合并讨论两份文件。 有评论形容，香港制订五年规划是“范式转移”，意味着“从西方式资本主义市场经济，改为接上中国特色社会主义市场经济”。李家超曾强调，五年规划不等同“计划经济”，会坚持香港的法治和资本主义制度。 李家超又称，安排两份文件一同发布，可让巿民了…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20260916/china-english-language-education/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "人工智能时代，中国人还需要学英语吗？",
+    "link": "https://cn.nytimes.com/china/20260916/china-english-language-education/dual",
+    "pub_date": "2026-09-16 15:36:02",
+    "author": "",
+    "description": "TIFFANY MAY, BERRY WANG2026年9月16日2023年，柳州市高培村小学的英语课。 CFOTO/Future Publishing, via Getty Images It started earlier this month when a math teacher in China posted a call on social media for the study of English to be made …",
+    "content": "TIFFANY MAY, BERRY WANG 2026年9月16日 2023年，柳州市高培村小学的英语课。 CFOTO/Future Publishing, via Getty Images It started earlier this month when a math teacher in China posted a call on social media for the study of English to be made optional in schools across the country…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cmn452ww8920o/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "OpenAI老闆稱世界「應恐懼」但「應信任」AI 公司 黃仁勳籲勿作虛假取捨",
+    "link": "https://www.bbc.com/zhongwen/articles/cmn452ww8920o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-09-16 15:07:09",
+    "author": "",
+    "description": "BBC and Getty Images / 为什么唐纳德·特朗普如此反对对 AI 进行监管？（英语影片） OpenAI首席执行官山姆·阿尔特曼（Sam Altman；奥特曼）认为，尽管公众对人工智能（artificial intelligence, AI；人工智慧）发展的各种风险的担忧日益加剧，但人们应该对他的公司和其他同行公司更有信心，相信它们在 AI 开发上会做正确的选择。 周二（9月15日）在旧金山（San Francisco）…",
+    "content": "BBC and Getty Images / 为什么唐纳德·特朗普如此反对对 AI 进行监管？（英语影片） OpenAI首席执行官山姆·阿尔特曼（Sam Altman；奥特曼）认为，尽管公众对人工智能（artificial intelligence, AI；人工智慧）发展的各种风险的担忧日益加剧，但人们应该对他的公司和其他同行公司更有信心，相信它们在 AI 开发上会做正确的选择。 周二（9月15日）在旧金山（San Francisco）举行的一场会议上，阿尔特曼表示：“世界应该相信我们会做正确的事，因为那就是正确的…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/education/20260916/he-might-end-up-the-worlds-most-educated-person/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "全球顶尖高校“学位收割机”：他为何一直求学？",
+    "link": "https://cn.nytimes.com/education/20260916/he-might-end-up-the-worlds-most-educated-person/dual",
+    "pub_date": "2026-09-16 13:06:02",
+    "author": "",
+    "description": "SCOTT CACCIOLA2026年9月16日 Early in the fall semester of the 2025-26 academic year, Lisa Belkin, an adjunct professor at Columbia University’s journalism school, realized that one of her students, Jamie Beaton, had yet to …",
+    "content": "SCOTT CACCIOLA 2026年9月16日 Early in the fall semester of the 2025-26 academic year, Lisa Belkin, an adjunct professor at Columbia University’s journalism school, realized that one of her students, Jamie Beaton, had yet to show up for class. 2025-26学年秋季学期初，哥伦比亚大…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cp931k7xx4do/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "2026台灣地方選舉：「九合一」為何重要？選舉時程是什麼？",
+    "link": "https://www.bbc.com/zhongwen/articles/cp931k7xx4do/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-09-16 12:47:26",
+    "author": "",
+    "description": "Getty Images / 台湾的地方选举又称“九合一”选举，图为2022年选举开票。 台湾将在今年11月28日举行“九合一”地方选举，选出直辖市长和县市长在内9类地方公职。 其中，蓝绿差距较小、全台人口最多的新北市，被视为决定胜负的重要战场。 分析指出，这场选举不仅是针对总统赖清德的执政信任票，亦是2028年总统大选的起跑赛。对于两岸路线遭党内质疑的国民党主席郑丽文而言，此役也是她能否取得总统大选提名的关键。 相较于“抗中保台”，此…",
+    "content": "Getty Images / 台湾的地方选举又称“九合一”选举，图为2022年选举开票。 台湾将在今年11月28日举行“九合一”地方选举，选出直辖市长和县市长在内9类地方公职。 其中，蓝绿差距较小、全台人口最多的新北市，被视为决定胜负的重要战场。 分析指出，这场选举不仅是针对总统赖清德的执政信任票，亦是2028年总统大选的起跑赛。对于两岸路线遭党内质疑的国民党主席郑丽文而言，此役也是她能否取得总统大选提名的关键。 相较于“抗中保台”，此次选举议题更聚焦于民生经济。选前三个月，赖清德宣布派发一万现金、在野阵营则提出三…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/culture/20260916/profiles-in-cowardice-jacob-weisberg/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "懦夫群像：为何这些权势人物向特朗普卑躬屈膝",
+    "link": "https://cn.nytimes.com/culture/20260916/profiles-in-cowardice-jacob-weisberg/dual",
+    "pub_date": "2026-09-16 12:06:02",
+    "author": "",
+    "description": "JOSEPH O’NEILL2026年9月16日2025年1月20日，特朗普总统就职典礼后，杰夫·贝佐斯现身国会大厦圆形大厅。 Pool photo by Chip Somodevilla PROFILES IN COWARDICE: A Study of Collaboration in the Trump Era, by Jacob Weisberg 《懦夫群像：特朗普时代的“共犯”研究》，雅各布·韦斯伯格 著(PROFILES I…",
+    "content": "JOSEPH O’NEILL 2026年9月16日 2025年1月20日，特朗普总统就职典礼后，杰夫·贝佐斯现身国会大厦圆形大厅。 Pool photo by Chip Somodevilla PROFILES IN COWARDICE: A Study of Collaboration in the Trump Era , by Jacob Weisberg 《懦夫群像：特朗普时代的“共犯”研究》，雅各布·韦斯伯格 著(PROFILES IN COWARDICE: A Study of Collaboration…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/op-column/20260916/ai-china-us-tech-future/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "遏制人工智能威胁为时已晚",
+    "link": "https://cn.nytimes.com/op-column/20260916/ai-china-us-tech-future/dual",
+    "pub_date": "2026-09-16 11:06:02",
+    "author": "",
+    "description": "托马斯·弗里德曼2026年9月16日 A festival of A.I. policy incoherence has exploded in recent weeks. It’s a response to A.I. agents’ going rogue on their developers, rogue actors’ beginning to use A.I. systems to create better weapons…",
+    "content": "托马斯·弗里德曼 2026年9月16日 A festival of A.I. policy incoherence has exploded in recent weeks. It’s a response to A.I. agents’ going rogue on their developers, rogue actors’ beginning to use A.I. systems to create better weapons and A.I. developers’ telling us they n…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20260916/thai-singha-beer-family-abuse-accusations/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "泰国啤酒豪门丑闻：弟弟指控哥哥性侵，家族试图“封口”",
+    "link": "https://cn.nytimes.com/asia-pacific/20260916/thai-singha-beer-family-abuse-accusations/dual",
+    "pub_date": "2026-09-16 10:06:02",
+    "author": "",
+    "description": "黄瑞黎2026年9月16日西拉努·斯科特在曼谷家中。 Lauren DeCicca for The New York Times For years, the Thai public knew Siranudh Scott as a scion of Thailand’s largest beer dynasty and a high-profile marine conservationist who publicly critici…",
+    "content": "黄瑞黎 2026年9月16日 西拉努·斯科特在曼谷家中。 Lauren DeCicca for The New York Times For years, the Thai public knew Siranudh Scott as a scion of Thailand’s largest beer dynasty and a high-profile marine conservationist who publicly criticized government officials for ignoring …"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/technology/20260916/binance-iran-china/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "美国司法部称两家中国公司利用必安帮助伊朗洗钱",
+    "link": "https://cn.nytimes.com/technology/20260916/binance-iran-china/dual",
+    "pub_date": "2026-09-16 10:06:02",
+    "author": "",
+    "description": "DAVID YAFFE-BELLANY, 傅才德2026年9月16日去年，币安的多名合规官员在内部标记了流经币该交易所的非法资金。 Gabby Jones/Bloomberg Two Chinese companies used accounts on the cryptocurrency exchange Binance to launder illegal proceeds from the sale of Iranian oil,…",
+    "content": "DAVID YAFFE-BELLANY, 傅才德 2026年9月16日 去年，币安的多名合规官员在内部标记了流经币该交易所的非法资金。 Gabby Jones/Bloomberg Two Chinese companies used accounts on the cryptocurrency exchange Binance to launder illegal proceeds from the sale of Iranian oil, the Justice Department said in court …"
+  },
+  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cm62eve2y6xeo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -220,28 +363,6 @@ const jsonData = [
     "content": "15/09/2026 - 18:12 据日本共同社周二（9月15日）报道，主办方NPO法人“日中电影节实行委员会”（东京方）宣布，原定每年10月配合东京国际电影节举办的年度「东京·中国电影周」今年取消举办。东京国际电影节将于10月26日至11月4日登场。 对此决定，报道援引主办方表示，尽管前期已推动各项筹备与协调工作，但综合整体环境因素后，最终判定今年难以顺利办理活动。 作为重要民间交流平台“东京·中国电影周”自2006年创办，旨在向日本观众介绍中国电影的魅力，并通过电影促进两国文化交流与增进相互理解。去年10月迎…"
   },
   {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260915-%E7%BE%8E%E6%97%A5%E6%94%BF%E5%BA%9C%E5%AF%B9%E5%86%B2%E7%BB%B3%E5%8E%BF%E7%9F%A5%E4%BA%8B%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%E6%84%9F%E5%88%B0%E6%AC%A3%E6%85%B0",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "美日政府对冲绳县知事选举结果感到欣慰 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260915-%E7%BE%8E%E6%97%A5%E6%94%BF%E5%BA%9C%E5%AF%B9%E5%86%B2%E7%BB%B3%E5%8E%BF%E7%9F%A5%E4%BA%8B%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%E6%84%9F%E5%88%B0%E6%AC%A3%E6%85%B0",
-    "pub_date": "2026-09-16 00:15:05",
-    "author": "",
-    "description": "15/09/2026 - 17:46 在日本冲绳县知事选举中，容忍冲绳县宜野湾市美军普天间机场迁至名护市边野古的古谢玄太以14万以上的得票差距战胜反对美军机场在县内迁移的现任知事玉城丹尼，容忍派时隔12年战胜反对派，为此美国政府和日本政府都感到欣慰。 内阁官房长官木原稔在14日的记者会上，就宜野湾市美军普天间机场迁至边野古一事表示，关于普天间机场的归还日期，“将在替代设施所提供手续完成后，与美方密切合作，争取尽早实现全面归还”。美国特朗…",
-    "content": "15/09/2026 - 17:46 在日本冲绳县知事选举中，容忍冲绳县宜野湾市美军普天间机场迁至名护市边野古的古谢玄太以14万以上的得票差距战胜反对美军机场在县内迁移的现任知事玉城丹尼，容忍派时隔12年战胜反对派，为此美国政府和日本政府都感到欣慰。 内阁官房长官木原稔在14日的记者会上，就宜野湾市美军普天间机场迁至边野古一事表示，关于普天间机场的归还日期，“将在替代设施所提供手续完成后，与美方密切合作，争取尽早实现全面归还”。美国特朗普政府在13日冲绳县知事选举中，希望容忍将美军军用机场迁至边野古的新候选人古谢玄…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260915-%E7%BE%8E%E5%9B%BD%E6%96%BD%E5%8E%8B-%E6%97%A5%E6%9C%AC%E6%8B%9F%E5%B0%86%E5%9B%BD%E9%98%B2%E5%BC%80%E6%94%AF%E6%8F%90%E9%AB%98%E8%87%B3gdp3-5",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "美国施压：日本拟将国防开支提高至GDP3.5% - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260915-%E7%BE%8E%E5%9B%BD%E6%96%BD%E5%8E%8B-%E6%97%A5%E6%9C%AC%E6%8B%9F%E5%B0%86%E5%9B%BD%E9%98%B2%E5%BC%80%E6%94%AF%E6%8F%90%E9%AB%98%E8%87%B3gdp3-5",
-    "pub_date": "2026-09-15 23:45:04",
-    "author": "",
-    "description": "15/09/2026 - 17:01 彭博社消息，在美国施压下，日本正考虑将中期国防开支目标设定为GDP的3.5%，与北约和其他美国盟国保持一致，此举可能会引发争议。 据日本时报网引述据知情人士透露，日本国防官员在与美国同行会晤时，已表示愿意大幅增加国防开支。目前正在考虑的一项方案，是效仿韩国做出的承诺，在10年内将国防支出提高至国内生产总值（GDP）的3.5%。 与美国的其他盟友一样，东京方面一直面临来自特朗普政府的压力，要求其提升自…",
-    "content": "15/09/2026 - 17:01 彭博社消息，在美国施压下，日本正考虑将中期国防开支目标设定为GDP的3.5%，与北约和其他美国盟国保持一致，此举可能会引发争议。 据日本时报网引述据知情人士透露，日本国防官员在与美国同行会晤时，已表示愿意大幅增加国防开支。目前正在考虑的一项方案，是效仿韩国做出的承诺，在10年内将国防支出提高至国内生产总值（GDP）的3.5%。 与美国的其他盟友一样，东京方面一直面临来自特朗普政府的压力，要求其提升自卫能力并减少对美军的依赖。高市早苗在今年3月结束的财年中，已提前两年将国防支出加…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cmvgyn5gywz1o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -308,17 +429,6 @@ const jsonData = [
     "content": "VIVIAN NEREIM 2026年9月15日 Vantor卫星照片显示上周遭袭后的沙特东西向输油管道。 Vantor, via Reuters Saudi Arabia has increasingly found itself caught in the middle of the war between the United States and Iran. Now, the kingdom’s leadership is assessing dwindling options on how to resp…"
   },
   {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cvzez8z9pzgeo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "Anthropic聯合創辦人籲強制設置AI「緊急關機」機制",
-    "link": "https://www.bbc.com/zhongwen/articles/cvzez8z9pzgeo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-09-15 11:34:19",
-    "author": "",
-    "description": "BBC / Anthropic共同创办人告诉BBC，AI“一天比一天更强大”。（英语影片） 人工智能（artificial intelligence, AI；人工智慧）公司之一 Anthropic 的联合创办人向BBC表示，未来企业可能需要强制配备一种可由第三方检查的人工智能“紧急关机”机制（kill switch）。 Anthropic 七名创办人之一杰克·克拉克（Jack Clark）表示，如果AI软件变得过于危险，须有方法能够将其…",
-    "content": "BBC / Anthropic共同创办人告诉BBC，AI“一天比一天更强大”。（英语影片） 人工智能（artificial intelligence, AI；人工智慧）公司之一 Anthropic 的联合创办人向BBC表示，未来企业可能需要强制配备一种可由第三方检查的人工智能“紧急关机”机制（kill switch）。 Anthropic 七名创办人之一杰克·克拉克（Jack Clark）表示，如果AI软件变得过于危险，须有方法能够将其完全关闭。社会“或许最终需要订立规则”。 克拉克说，包括 Anthropic 在…"
-  },
-  {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20260915/moscow-russia-putin-digital-surveillance/dual",
     "feed_name": "纽约时报双语版",
     "category": "国外",
@@ -339,39 +449,6 @@ const jsonData = [
     "author": "",
     "description": "Getty Images 玛德琳·哈尔珀特（Madeline Halpert） 马克·坡印廷（Mark Poynting） BBC气候与科学记者 美国国家环境保护局（EPA）局长宣布，旨在限制燃煤和燃气发电厂污染的规定将被撤销。 该机构还表示，将采取措施防止未来政府监管发电厂排放。 环境保护局表示，取消美国前总统乔·拜登（Joe Biden）执政时期大部分气候法规将节省3100亿美元（2.08万亿元人民币；9.84兆元新台币），并降低能…",
     "content": "Getty Images 玛德琳·哈尔珀特（Madeline Halpert） 马克·坡印廷（Mark Poynting） BBC气候与科学记者 美国国家环境保护局（EPA）局长宣布，旨在限制燃煤和燃气发电厂污染的规定将被撤销。 该机构还表示，将采取措施防止未来政府监管发电厂排放。 环境保护局表示，取消美国前总统乔·拜登（Joe Biden）执政时期大部分气候法规将节省3100亿美元（2.08万亿元人民币；9.84兆元新台币），并降低能源价格。 但环保团体警告，此举将对美国民众的健康和地球带来巨大代价。预计环境保护…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20260915/trump-ai-regulation-anthropic-dario-amodei/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "特朗普斥AI安全担忧为“骗局”，无意加强监管",
-    "link": "https://cn.nytimes.com/usa/20260915/trump-ai-regulation-anthropic-dario-amodei/dual",
-    "pub_date": "2026-09-15 10:36:02",
-    "author": "",
-    "description": "JONATHAN SWAN, MICHAEL GOLD2026年9月15日 President Trump on Monday rejected calls from leading artificial intelligence executives for new limits on the technology, writing on social media that the industry already has the o…",
-    "content": "JONATHAN SWAN, MICHAEL GOLD 2026年9月15日 President Trump on Monday rejected calls from leading artificial intelligence executives for new limits on the technology, writing on social media that the industry already has the only guardrail it needs: “a STRONG AND S…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20260915/china-ai-security-risks-anthropic/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "中国国安部长：人工智能可能对中共执政构成直接威胁",
-    "link": "https://cn.nytimes.com/china/20260915/china-ai-security-risks-anthropic/dual",
-    "pub_date": "2026-09-15 09:06:01",
-    "author": "",
-    "description": "郭莉莉2026年9月15日北京的人民大会堂。中国情报部门负责人呼吁加强党对人工智能的管控，并加强对该行业的政府监管。 Kenny Holston/The New York Times China’s top spy chief has warned that artificial intelligence could pose a direct threat to the Chinese Communist Party’s hold o…",
-    "content": "郭莉莉 2026年9月15日 北京的人民大会堂。中国情报部门负责人呼吁加强党对人工智能的管控，并加强对该行业的政府监管。 Kenny Holston/The New York Times China’s top spy chief has warned that artificial intelligence could pose a direct threat to the Chinese Communist Party’s hold on power, in what is the highest-level …"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c0qx5g04pnno/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "喜馬拉雅山冰川融化加速，印度經濟面臨什麼風險？",
-    "link": "https://www.bbc.com/zhongwen/articles/c0qx5g04pnno/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-09-15 08:17:23",
-    "author": "",
-    "description": "Nur Photo via Getty Images / 印度政府表示，56个冰湖已被列为“极高风险”。 喜马拉雅山脉（The Himalayas）正逼近一个危险的临界点。根据一项最新研究，喜马拉雅冰川目前的冰量流失速度，比10年前快了65%。 全球顾问公司 Systemiq 发表这项研究结果之际，正值尼泊尔—西藏经历泥石流，洪灾已造成逾1,300人死亡，导致大规模破坏，事件突显了冰川融化带来的风险。 报告指出，冰川消退后，可能会留下面…",
-    "content": "Nur Photo via Getty Images / 印度政府表示，56个冰湖已被列为“极高风险”。 喜马拉雅山脉（The Himalayas）正逼近一个危险的临界点。根据一项最新研究，喜马拉雅冰川目前的冰量流失速度，比10年前快了65%。 全球顾问公司 Systemiq 发表这项研究结果之际，正值尼泊尔—西藏经历泥石流，洪灾已造成逾1,300人死亡，导致大规模破坏，事件突显了冰川融化带来的风险。 报告指出，冰川消退后，可能会留下面积不断扩大的冰湖，而这些冰湖仅由不稳定的岩石与冰块堆积物所拦阻。与此同时，暖化亦…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c4gkqekn7q7o/simp?at_medium=RSS&at_campaign=rss",
@@ -429,50 +506,6 @@ const jsonData = [
     "content": "Getty Images 人工智能（AI）行业近日爆发一场罕见的公开争论。 上星期六（9月12日），Anthropic行政总裁达里奥·阿莫代伊（Dario Amodei）率先呼吁放缓人工智能发展步伐，OpenAI的山姆·奥特曼（Sam Altman）及xAI拥有者伊隆·马斯克（Elon Musk）两位竞争对手随即表态支持。 同一时间，数天前离开Anthropic的研究员雅各·科克森（Jacob Coxon）向BBC表示，开发这些系统的员工“真心为人类的未来感到恐惧”。 然而，美国总统唐纳德·特朗普（Donald T…"
   },
   {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20260914/nepal-tibet-floods-school-children/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "深入尼泊尔山洪灾区：毁灭、奇迹与悲痛",
-    "link": "https://cn.nytimes.com/world/20260914/nepal-tibet-floods-school-children/dual",
-    "pub_date": "2026-09-14 14:06:02",
-    "author": "",
-    "description": "MUJIB MASHAL, BINOD GHIMIRE2026年9月14日 Lam Yik Fei for The New York Times Taking a break from the noisy work of leading a school of over 500 students, Madhav Lamichhane would ride his motorbike down to the riverside Betra…",
-    "content": "MUJIB MASHAL, BINOD GHIMIRE 2026年9月14日 Lam Yik Fei for The New York Times Taking a break from the noisy work of leading a school of over 500 students, Madhav Lamichhane would ride his motorbike down to the riverside Betrawati Bazaar every week. The principal s…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/technology/20260914/anthropic-dario-amodei-ai-slowdown/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "Anthropic首席执行官呼吁放缓人工智能发展速度",
-    "link": "https://cn.nytimes.com/technology/20260914/anthropic-dario-amodei-ai-slowdown/dual",
-    "pub_date": "2026-09-14 13:06:02",
-    "author": "",
-    "description": "MIKE ISAAC2026年9月14日Anthropic首席执行官达里奥·阿莫迪，摄于2月。他在一篇文章中写道：“过去几个月里，我逐渐确信，要完全应对风险需要更加审慎。” Ludovic Marin/Agence France-Presse — Getty Images Dario Amodei, the chief executive of Anthropic, called for a global slowdown of art…",
-    "content": "MIKE ISAAC 2026年9月14日 Anthropic首席执行官达里奥·阿莫迪，摄于2月。他在一篇文章中写道：“过去几个月里，我逐渐确信，要完全应对风险需要更加审慎。” Ludovic Marin/Agence France-Presse — Getty Images Dario Amodei, the chief executive of Anthropic, called for a global slowdown of artificial intelligence development in a …"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20260914/india-china-trade/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "印度试图减少进口中国商品，却为何越买越多？",
-    "link": "https://cn.nytimes.com/business/20260914/india-china-trade/dual",
-    "pub_date": "2026-09-14 12:06:02",
-    "author": "",
-    "description": "ALEX TRAVELLI2026年9月14日在印度主办金砖峰会之际，对华贸易问题很可能与两国争议边界一道成为突出议题。 Manish Swarup/Associated Press To understand India’s trade imbalance with China, look inside Indian factories. 要理解印度与中国之间的贸易失衡，只需去印度的工厂看看就能找到答案。 Many of the bi…",
-    "content": "ALEX TRAVELLI 2026年9月14日 在印度主办金砖峰会之际，对华贸易问题很可能与两国争议边界一道成为突出议题。 Manish Swarup/Associated Press To understand India’s trade imbalance with China, look inside Indian factories. 要理解印度与中国之间的贸易失衡，只需去印度的工厂看看就能找到答案。 Many of the big machines are Chinese, as are the ele…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/technology/20260914/china-ai-attack-wechat/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "“一种新的核武器”：微信蠕虫事件敲响中国AI安全警钟",
-    "link": "https://cn.nytimes.com/technology/20260914/china-ai-attack-wechat/dual",
-    "pub_date": "2026-09-14 11:06:06",
-    "author": "",
-    "description": "郭莉莉, PEI-LIN WU2026年9月14日在中国，政府机构、企业以及近80%的公民都使用微信来处理业务、进行支付和沟通。 David Kirton/Reuters WeChat, a messaging app, is practically part of the national infrastructure in China, woven into daily communications, government serv…",
-    "content": "郭莉莉, PEI-LIN WU 2026年9月14日 在中国，政府机构、企业以及近80%的公民都使用微信来处理业务、进行支付和沟通。 David Kirton/Reuters WeChat, a messaging app, is practically part of the national infrastructure in China, woven into daily communications, government services and digital payments. 微信这款即时通讯应用在…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cn8ex870p05o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -487,7 +520,7 @@ const jsonData = [
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c4gr202jdzpo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
-    "title": "專家評中國修訂《國防動員法》：吸取俄烏教訓實現「平戰快速轉換」",
+    "title": "專家評中國修《國防動員法》：吸俄烏教訓實現「平戰快速轉換」",
     "link": "https://www.bbc.com/zhongwen/articles/c4gr202jdzpo/simp?at_medium=RSS&at_campaign=rss",
     "pub_date": "2026-09-14 08:19:09",
     "author": "",
@@ -605,17 +638,6 @@ const jsonData = [
     "content": "PROVIDED @大粒雞架 一名男子身着粉色清凉裙装，蹲在地上擦地。镜头暧昧地缓缓上移，数次掠过裙摆，男子朝镜头害羞一笑。画面一转，一名西装女性正专注工作，她走近男子，轻抚他的头；随后一个小男孩抱着一箱“好丈夫”拖把走向男子，说这是送给他最好的礼物。 评论区里，不少网友写道：“这个辣弟（对应‘美女’一词的新造词）好美”，或“这才是真正让我想下单的广告”。 这段影片首发于抖音，并非真实广告，而是对传统“好太太”系列家居广告的性别反转创作。这个夏天，“性转”已成为中国互联网上最受瞩目的创作热潮：数以千计的创作者涌入这…"
   },
   {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cp931k7xx4do/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "2026台灣地方選舉：「九合一」為何重要？選舉時程是什麼？",
-    "link": "https://www.bbc.com/zhongwen/articles/cp931k7xx4do/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-09-09 17:32:11",
-    "author": "",
-    "description": "Getty Images / 台湾的地方选举又称“九合一”选举，图为2022年选举开票。 台湾将在今年11月28日举行“九合一”地方选举，选出直辖市长和县市长在内9类地方公职。 其中，蓝绿差距较小、全台人口最多的新北市，被视为决定胜负的重要战场。 分析指出，这场选举不仅是针对总统赖清德的执政信任票，亦是2028年总统大选的起跑赛。对于两岸路线遭党内质疑的国民党主席郑丽文而言，此役也是她能否取得总统大选提名的关键。 相较于“抗中保台”，此…",
-    "content": "Getty Images / 台湾的地方选举又称“九合一”选举，图为2022年选举开票。 台湾将在今年11月28日举行“九合一”地方选举，选出直辖市长和县市长在内9类地方公职。 其中，蓝绿差距较小、全台人口最多的新北市，被视为决定胜负的重要战场。 分析指出，这场选举不仅是针对总统赖清德的执政信任票，亦是2028年总统大选的起跑赛。对于两岸路线遭党内质疑的国民党主席郑丽文而言，此役也是她能否取得总统大选提名的关键。 相较于“抗中保台”，此次选举议题更聚焦于民生经济。选前三个月，赖清德宣布派发一万现金、在野阵营则提出三…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cx2yn54wn4eo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -693,17 +715,6 @@ const jsonData = [
     "content": "BBC / 墨卡托投影是全球广泛使用的地图投影方式，但它对国家和大陆面积的描绘并不准确。 联合国（UN）刚刚呼吁用一张能够更准确反映非洲等各大洲真实大小的地图来取代目前主流的世界地图。 联合国大会通过的“修正地图”决议旨在纠正墨卡托地图（Mercator map）上的差异，该地图显示非洲大陆与格陵兰岛大小相似——尽管实际上非洲大陆比格陵兰岛大约14倍。 它采用了新的地图——等地球投影，这种投影能更好地表示陆地的真实大小——但它本身也存在一些问题。 事实上，多年来，人们曾多次尝试解决在平面矩形上精确表示球面的问题，每…"
   },
   {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c5yd4361y6no/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "《肖申克的救贖》中國公映：官方字幕翻譯何以引發爭議？",
-    "link": "https://www.bbc.com/zhongwen/articles/c5yd4361y6no/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-09-03 08:24:43",
-    "author": "",
-    "description": "Getty Images 8月28日，《肖申克的救赎》（The Shawshank Redemption，港译《月黑高飞》、台译《刺激1995》）修复版在中国内地公映，官方字幕的多处翻译选择随即引发网路热议。影片翻译、性别学者接受BBC中文采访，阐述了各自的理解。 500码被译成500米，体制化（institutionalized）译成“牢笼驯化”，同性恋（homosexual）译成“不同的人”，queer译成“变态”，就连那句吐槽识字…",
-    "content": "Getty Images 8月28日，《肖申克的救赎》（The Shawshank Redemption，港译《月黑高飞》、台译《刺激1995》）修复版在中国内地公映，官方字幕的多处翻译选择随即引发网路热议。影片翻译、性别学者接受BBC中文采访，阐述了各自的理解。 500码被译成500米，体制化（institutionalized）译成“牢笼驯化”，同性恋（homosexual）译成“不同的人”，queer译成“变态”，就连那句吐槽识字太难、“难得像中文”的台词，也被译成了“天书”。 其中争议最大的，是queer一…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cdj013krm3no/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -735,17 +746,6 @@ const jsonData = [
     "author": "",
     "description": "Getty Images 美国总统特朗普（Donald Trump，川普）今年5月访问北京，与中国国家主席习近平会谈后，美中双方定调建立“建设性战略稳定关系”，意图在竞争中寻找可控互动，避免冲突进一步升级。 然而，短短数月内，特朗普在全国电视演说中突然重提“中国干预美国大选”指控；美国随后以“强迫劳动”为由，对包括中国在内的多个经济体加征新的301条款关税（中国税率达12.5%），立即引发北京强烈不满与反击。 这些举措背后，双方各自打着…",
     "content": "Getty Images 美国总统特朗普（Donald Trump，川普）今年5月访问北京，与中国国家主席习近平会谈后，美中双方定调建立“建设性战略稳定关系”，意图在竞争中寻找可控互动，避免冲突进一步升级。 然而，短短数月内，特朗普在全国电视演说中突然重提“中国干预美国大选”指控；美国随后以“强迫劳动”为由，对包括中国在内的多个经济体加征新的301条款关税（中国税率达12.5%），立即引发北京强烈不满与反击。 这些举措背后，双方各自打着什么算盘？ 多名接受BBC中文访问的学者认为，目前双方仍在“管理竞争”的框架内互…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cgljn380r59o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "中美俄的太空攻防戰：衛星如何成為現代戰爭的第一擊？",
-    "link": "https://www.bbc.com/zhongwen/articles/cgljn380r59o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-08-01 17:56:01",
-    "author": "",
-    "description": "Getty Images 在现代战争中，环绕地球运行的人造卫星几乎未曾受到波及；但到了21世纪，太空或许已不再是安全的避风港。 2022年2月24日凌晨约3时，乌克兰及中欧数以千计的卫星数据机突然断线。数小时后，俄罗斯正式入侵乌克兰。 美国智库“战略与国际研究中心”（CSIS）航空航天安全项目主任卡丽·宾根（Kari Bingen）说：“俄乌战争打响的第一击，不是坦克驶进乌克兰，而是针对一套商业卫星系统发动网络攻击，后来被认定是俄罗斯政…",
-    "content": "Getty Images 在现代战争中，环绕地球运行的人造卫星几乎未曾受到波及；但到了21世纪，太空或许已不再是安全的避风港。 2022年2月24日凌晨约3时，乌克兰及中欧数以千计的卫星数据机突然断线。数小时后，俄罗斯正式入侵乌克兰。 美国智库“战略与国际研究中心”（CSIS）航空航天安全项目主任卡丽·宾根（Kari Bingen）说：“俄乌战争打响的第一击，不是坦克驶进乌克兰，而是针对一套商业卫星系统发动网络攻击，后来被认定是俄罗斯政府所为。” “他们为什么这样做？因为他们想削弱乌克兰军方和政府的通讯能力。” 现…"
   }
 ];
 
