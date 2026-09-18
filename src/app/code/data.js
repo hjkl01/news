@@ -1,5 +1,16 @@
 const jsonData = [
   {
+    "id": "技术-阮一峰的网络日志-http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
+    "feed_name": "阮一峰的网络日志",
+    "category": "技术",
+    "title": "科技爱好者周刊（第 413 期）：再见了，React Native",
+    "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
+    "pub_date": "2026-09-18 08:03:02",
+    "author": "阮一峰",
+    "description": "这里记录每周值得分享的科技内容，周五发布。（[通知] 下周五开始的中秋和十一假期，周刊休息。） 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面图 华东师范大学闵行校区新启用的西校门，仿造了它的前身之一光华大学的校门。（via） 再见了，React Native Spotify 宣布，放弃 React Native，改用 Swift 和 Kotlin 开…",
+    "content": "这里记录每周值得分享的科技内容，周五发布。（ [通知] 下周五开始的中秋和十一假期，周刊休息。 ） 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 华东师范大学闵行校区新启用的西校门，仿造了它的前身之一光华大学的校门。（ via ） 再见了，React Native Spotify 宣布 ，放弃 React Native，改用 Swift 和 Kotlin 开发它的移动版。 也就是说，它决定采用原生语言，开发 i…"
+  },
+  {
     "id": "技术-阮一峰的网络日志-http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html",
     "feed_name": "阮一峰的网络日志",
     "category": "技术",
@@ -31,17 +42,6 @@ const jsonData = [
     "author": "",
     "description": "本期共有 40 个项目，包含 C 项目 (1)，C# 项目 (3)，C++ 项目 (2)，Go 项目 (4)，Java 项目 (2)，JavaScript 项目 (4)，Kotlin 项目 (1)，Python 项目 (4)，Rust 项目 (3)，Skills (4)，Swift 项目 (2)，人工智能 (5)，其它 (5)",
     "content": "本期共有 40 个项目，包含 C 项目 (1)，C# 项目 (3)，C++ 项目 (2)，Go 项目 (4)，Java 项目 (2)，JavaScript 项目 (4)，Kotlin 项目 (1)，Python 项目 (4)，Rust 项目 (3)，Skills (4)，Swift 项目 (2)，人工智能 (5)，其它 (5)"
-  },
-  {
-    "id": "技术-阮一峰的网络日志-http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
-    "feed_name": "阮一峰的网络日志",
-    "category": "技术",
-    "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
-    "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
-    "pub_date": "2026-08-28 07:56:43",
-    "author": "阮一峰",
-    "description": "这里记录每周值得分享的科技内容，周五发布。 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面图 宁夏沙坡头景区的巨型蒙眼雕塑。（via） 你需要知道的 AI 三种机制 这是\"AI 小知识系列\"的第三篇，前两篇分别是《大模型需要多少内存》和《AI 缓存是什么》。 我分享一些自己的学习笔记，用来理清对于 AI 技术的理解。我尽量写得通俗，希望对大家有用。 今…",
-    "content": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 宁夏沙坡头景区的巨型蒙眼雕塑。（ via ） 你需要知道的 AI 三种机制 这是\"AI 小知识系列\"的第三篇，前两篇分别是 《大模型需要多少内存》 和 《AI 缓存是什么》 。 我分享一些自己的学习笔记，用来理清对于 AI 技术的理解。我尽量写得通俗，希望对大家有用。 今天谈一个基本问题： AI 为什么能够回答我们的提问，…"
   },
   {
     "id": "技术-HelloGitHub 月刊-https://hellogithub.com/periodical/volume/124",

@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-09-17T10:42:40.291Z",
-  "ended_at": "2026-09-17T10:42:40.548Z",
-  "duration_ms": 257,
+  "started_at": "2026-09-18T00:57:14.970Z",
+  "ended_at": "2026-09-18T00:57:15.191Z",
+  "duration_ms": 221,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -21,7 +21,7 @@
     "failed_sources": 11,
     "circuit_open_sources": 11,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1408,
+    "total_items_after_dedupe": 1409,
     "total_items_after_retention": 1204,
     "build_blocked": false
   },
@@ -36,7 +36,7 @@
     {
       "title": "SBS 中文",
       "url": "https://plink.anyfeeder.com/sbs/chinese",
-      "reason": "HTTP 503",
+      "reason": "HTTP 404",
       "skippedByCircuit": true
     },
     {
@@ -48,7 +48,7 @@
     {
       "title": "端传媒 / 最新",
       "url": "https://plink.anyfeeder.com/initium/latest",
-      "reason": "HTTP 503",
+      "reason": "HTTP 404",
       "skippedByCircuit": true
     },
     {
@@ -103,7 +103,7 @@
     {
       "title": "SBS 中文",
       "url": "https://plink.anyfeeder.com/sbs/chinese",
-      "reason": "HTTP 503"
+      "reason": "HTTP 404"
     },
     {
       "title": "VOA 美国之音",
@@ -113,7 +113,7 @@
     {
       "title": "端传媒 / 最新",
       "url": "https://plink.anyfeeder.com/initium/latest",
-      "reason": "HTTP 503"
+      "reason": "HTTP 404"
     },
     {
       "title": "端传媒 / 深度",
