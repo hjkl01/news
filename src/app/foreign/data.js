@@ -1,5 +1,225 @@
 const jsonData = [
   {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cw804230yrjzo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "「你有五年規劃，我有移民計劃」：一份香港未來發展藍圖，為何引發一些年輕人的離港焦慮？",
+    "link": "https://www.bbc.com/zhongwen/articles/cw804230yrjzo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-09-23 17:36:46",
+    "author": "",
+    "description": "Getty Images 9月16日，香港特首李家超发表香港首个五年规划文件，以及年度施政报告。 李家超说，这份规划是香港未来五年经济和社会发展的蓝图。教育局局长蔡若莲则形容，青年在五年规划实施中担当重要角色，“既是发展的受益者，亦是建设者与接班人”。 但在网络上，部分年轻人却开始讨论如何离开香港。他们对规划中的措施感到担忧，在社交平台上发问：“最少需要储多少钱”、“有冇师兄师姐帮初级大人分析点部署”。有人表示，“我知而家先谂（计划）太…",
+    "content": "Getty Images 9月16日，香港特首李家超发表香港首个五年规划文件，以及年度施政报告。 李家超说，这份规划是香港未来五年经济和社会发展的蓝图。教育局局长蔡若莲则形容，青年在五年规划实施中担当重要角色，“既是发展的受益者，亦是建设者与接班人”。 但在网络上，部分年轻人却开始讨论如何离开香港。他们对规划中的措施感到担忧，在社交平台上发问：“最少需要储多少钱”、“有冇师兄师姐帮初级大人分析点部署”。有人表示，“我知而家先谂（计划）太迟，但迟总好过等死”。 当中，有网民发布一张从飞机拍摄地面的照片，配文写上：“你…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cry8zw43qn4po/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "習特會前瞻：特朗普會再度爭取「釋放黎智英」嗎？",
+    "link": "https://www.bbc.com/zhongwen/articles/cry8zw43qn4po/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-09-23 17:17:53",
+    "author": "",
+    "description": "STR/AFP via Getty Images 中国国家主席习近平即将访问美国，与总统特朗普（Donald Trump）会面。外界关注，继今年5月访华之后，特朗普会否再度当面向习近平提出“释放黎智英”。 香港《壹传媒》创办人黎智英2020年底被捕，还押超过五年。他2025年12月被裁定《香港国安法》下“串谋勾结外国势力”等罪名成立，今年2月被判囚20年。78岁的他近年一直被单独囚禁，家人称其健康欠佳，港府官员则指控有人“捏造”其健康状…",
+    "content": "STR/AFP via Getty Images 中国国家主席习近平即将访问美国，与总统特朗普（Donald Trump）会面。外界关注，继今年5月访华之后，特朗普会否再度当面向习近平提出“释放黎智英”。 香港《壹传媒》创办人黎智英2020年底被捕，还押超过五年。他2025年12月被裁定《香港国安法》下“串谋勾结外国势力”等罪名成立，今年2月被判囚20年。78岁的他近年一直被单独囚禁，家人称其健康欠佳，港府官员则指控有人“捏造”其健康状况。 特朗普5月访华时曾向习近平点名提及黎智英，事后形容对方反应“并不正面”，称…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260923-%E7%89%B9%E4%B9%A0%E4%BC%9A%E5%89%8D-%E5%8F%B0%E6%B9%BE%E7%A7%B0%E5%B0%86%E7%BB%A7%E7%BB%AD%E4%B8%8E%E7%BE%8E%E5%9B%BD%E5%B0%B1%E5%86%9B%E5%94%AE%E9%97%AE%E9%A2%98%E4%BF%9D%E6%8C%81-%E5%AF%86%E5%88%87%E8%81%94%E7%B3%BB",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "特习会前 台湾称将继续与美国就军售问题保持“密切联系” - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260923-%E7%89%B9%E4%B9%A0%E4%BC%9A%E5%89%8D-%E5%8F%B0%E6%B9%BE%E7%A7%B0%E5%B0%86%E7%BB%A7%E7%BB%AD%E4%B8%8E%E7%BE%8E%E5%9B%BD%E5%B0%B1%E5%86%9B%E5%94%AE%E9%97%AE%E9%A2%98%E4%BF%9D%E6%8C%81-%E5%AF%86%E5%88%87%E8%81%94%E7%B3%BB",
+    "pub_date": "2026-09-23 17:15:03",
+    "author": "",
+    "description": "23/09/2026 - 10:54 在中国国家主席习近平抵达华盛顿与美国总统唐纳德·特朗普会晤之际，台湾方面表示，尽管面临来自中国的压力，他们仍然相信美国对台军售将继续进行。 综合美联社和路透社报道，中国一直向华盛顿施压，要求其停止对台军售，尤其是在今年5月特朗普与习近平在北京举行的峰会期间。会后，美国暂停了价值140亿美元的创纪录军售，特朗普称这些对台军售是与中国谈判的“非常好的筹码”。 据路透社本周二援引知情人士报导称，中国国家主…",
+    "content": "23/09/2026 - 10:54 在中国国家主席习近平抵达华盛顿与美国总统唐纳德·特朗普会晤之际，台湾方面表示，尽管面临来自中国的压力，他们仍然相信美国对台军售将继续进行。 综合美联社和路透社报道，中国一直向华盛顿施压，要求其停止对台军售，尤其是在今年5月特朗普与习近平在北京举行的峰会期间。会后，美国暂停了价值140亿美元的创纪录军售，特朗普称这些对台军售是与中国谈判的“非常好的筹码”。 据路透社本周二援引知情人士报导称，中国国家主席习近平本周访问华盛顿期间，预计将敦促特朗普依据1982年《八一七公报》停止对台…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260923-%E6%97%A5%E7%BE%8E%E9%A6%96%E8%84%91%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88-%E5%9B%B4%E7%BB%95%E4%B8%AD%E5%9B%BD%E9%97%AE%E9%A2%98%E7%AD%89%E5%9D%A6%E7%8E%87%E4%BA%A4%E6%8D%A2%E6%84%8F%E8%A7%81",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "日美首脑举行会谈 围绕中国问题等坦率交换意见 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260923-%E6%97%A5%E7%BE%8E%E9%A6%96%E8%84%91%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88-%E5%9B%B4%E7%BB%95%E4%B8%AD%E5%9B%BD%E9%97%AE%E9%A2%98%E7%AD%89%E5%9D%A6%E7%8E%87%E4%BA%A4%E6%8D%A2%E6%84%8F%E8%A7%81",
+    "pub_date": "2026-09-23 17:15:03",
+    "author": "",
+    "description": "23/09/2026 - 11:01 高市早苗首相于当地时间22日在访问美国纽约期间，与美国总统特朗普举行了会谈。高市日本时间23日在社交媒体“X”上表示，就中国、朝鲜等问题，与特朗普总统进行了坦率的意见交换。特别是对于她本人正下定决心致力解决的绑架问题，她再次强调了立即解决这一问题的重要性，并获得了特朗普总统的全面支持。她指出：除此之外，双方还就国际刑事法院（ICC）问题坦率交换了的意见。此前高市首相表示：美国制裁国际刑事法院日本籍院…",
+    "content": "23/09/2026 - 11:01 高市早苗首相于当地时间22日在访问美国纽约期间，与美国总统特朗普举行了会谈。高市日本时间23日在社交媒体“X”上表示，就中国、朝鲜等问题，与特朗普总统进行了坦率的意见交换。特别是对于她本人正下定决心致力解决的绑架问题，她再次强调了立即解决这一问题的重要性，并获得了特朗普总统的全面支持。她指出：除此之外，双方还就国际刑事法院（ICC）问题坦率交换了的意见。此前高市首相表示：美国制裁国际刑事法院日本籍院长赤根智子，“与重视法治的日本立场并不相容。我们对此高度重视，并认为事态非常严重…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c6wyzed39wn8o/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "習近平即將抵達華盛頓，美國學者、政客怎麼看？",
+    "link": "https://www.bbc.com/zhongwen/articles/c6wyzed39wn8o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-09-23 16:19:25",
+    "author": "",
+    "description": "Getty Images 美国总统唐纳德·特朗普将于本周在华盛顿接待中国领导人习近平，从人工智能到贸易，再到台湾问题，都将出现在这两位全球大国领导人的议程上。 预计习近平周三抵达安德鲁斯空军基地（Andrews Air Force Base）时，将由特朗普亲自迎接；周四则将在白宫举行欢迎仪式，包括军机飞越上空，以及近500名军人参加的检阅。 这是习近平十多年来首次访问美国，也是自特朗普开始第二个总统任期以来，两人的第三次会面。 令这场高…",
+    "content": "Getty Images 美国总统唐纳德·特朗普将于本周在华盛顿接待中国领导人习近平，从人工智能到贸易，再到台湾问题，都将出现在这两位全球大国领导人的议程上。 预计习近平周三抵达安德鲁斯空军基地（Andrews Air Force Base）时，将由特朗普亲自迎接；周四则将在白宫举行欢迎仪式，包括军机飞越上空，以及近500名军人参加的检阅。 这是习近平十多年来首次访问美国，也是自特朗普开始第二个总统任期以来，两人的第三次会面。 令这场高规格国事访问更添紧张的是，美中去年达成的贸易协议将于11月到期。 这份贸易休战协…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260923-%E6%97%A0%E5%9B%BD%E7%95%8C%E8%AE%B0%E8%80%85-%E6%8C%87%E5%9B%BD%E5%AE%89%E6%B3%95%E5%90%8E%E6%B8%AF%E5%AA%92%E6%88%90%E4%B8%AD%E5%9B%BD%E5%AE%A3%E4%BC%A0%E5%B7%A5%E5%85%B7-%E6%96%B0%E9%97%BB%E5%B7%A5%E4%BD%9C%E5%88%91%E4%BA%8B%E5%8C%96%E6%88%90%E9%A6%99%E6%B8%AF%E6%96%B0%E5%B8%B8%E6%80%81",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "「无国界记者」指国安法后港媒成中国宣传工具 新闻工作刑事化成香港新常态 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260923-%E6%97%A0%E5%9B%BD%E7%95%8C%E8%AE%B0%E8%80%85-%E6%8C%87%E5%9B%BD%E5%AE%89%E6%B3%95%E5%90%8E%E6%B8%AF%E5%AA%92%E6%88%90%E4%B8%AD%E5%9B%BD%E5%AE%A3%E4%BC%A0%E5%B7%A5%E5%85%B7-%E6%96%B0%E9%97%BB%E5%B7%A5%E4%BD%9C%E5%88%91%E4%BA%8B%E5%8C%96%E6%88%90%E9%A6%99%E6%B8%AF%E6%96%B0%E5%B8%B8%E6%80%81",
+    "pub_date": "2026-09-23 16:15:04",
+    "author": "",
+    "description": "23/09/2026 - 09:55 「无国界记者」（RSF）最新的研究追踪中国全球宣传机器的运作，指中国不仅压制境内媒体和言论自由，更试图把这类威权式的信息控制模式向外输出，建立「世界媒体新秩序」，以取代新闻工作，并指出，曾经是新闻自由堡垒的香港，已成为习近平治下中国宣传机器的一部分，成为替中共宣传的工具。 「无国界记者」在最新一期调查《宣传监察》报告中，追踪中国全球宣传机器的运作模式，详细列出中国宣传机器的十项运作系统和策略，包括透…",
+    "content": "23/09/2026 - 09:55 「无国界记者」（RSF）最新的研究追踪中国全球宣传机器的运作，指中国不仅压制境内媒体和言论自由，更试图把这类威权式的信息控制模式向外输出，建立「世界媒体新秩序」，以取代新闻工作，并指出，曾经是新闻自由堡垒的香港，已成为习近平治下中国宣传机器的一部分，成为替中共宣传的工具。 「无国界记者」在最新一期调查《宣传监察》报告中，追踪中国全球宣传机器的运作模式，详细列出中国宣传机器的十项运作系统和策略，包括透过中国国际电视台(CGTN)丶新华社等由中宣部控制的国营媒体，在全球160个国家…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260923-%E6%AC%A7%E7%9B%9F%E6%8C%87%E5%9B%BD%E5%AE%89%E5%B7%B2%E8%9E%8D%E5%85%A5%E9%A6%99%E6%B8%AF%E7%AE%A1%E6%B2%BB-%E6%B8%AF%E5%BA%9C%E5%8E%8B%E5%88%B6%E6%80%A7%E4%BD%BF%E7%94%A8%E5%9B%BD%E5%AE%89%E6%B3%95%E5%BE%8B%E6%8D%9F%E4%BA%BA%E6%9D%83-%E5%BD%B1%E5%93%8D%E7%BB%AD%E6%89%A9%E5%A4%A7",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "欧盟指国安已融入香港管治 港府压制性使用国安法律损人权 影响续扩大 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260923-%E6%AC%A7%E7%9B%9F%E6%8C%87%E5%9B%BD%E5%AE%89%E5%B7%B2%E8%9E%8D%E5%85%A5%E9%A6%99%E6%B8%AF%E7%AE%A1%E6%B2%BB-%E6%B8%AF%E5%BA%9C%E5%8E%8B%E5%88%B6%E6%80%A7%E4%BD%BF%E7%94%A8%E5%9B%BD%E5%AE%89%E6%B3%95%E5%BE%8B%E6%8D%9F%E4%BA%BA%E6%9D%83-%E5%BD%B1%E5%93%8D%E7%BB%AD%E6%89%A9%E5%A4%A7",
+    "pub_date": "2026-09-23 16:15:03",
+    "author": "",
+    "description": "23/09/2026 - 10:02 欧盟发表最新的香港政治与经济发展年度报告，批评港府在多宗国家安全案件中，压制性地使用国安相关法律，对异见者施以长期审前羁押等，侵犯人权，关注港府利用打击「软对抗」，针对独立书店丶文化活动和媒体等情况，敦促中国和香港政府恢复全面尊重法治丶基本自由及民主原则。港府对报告内容表示强烈不满和反对，重申任何外国或外部势力诋毁香港，均不会得逞。 自1997年香港由英国移交中国以来，欧盟委员会及欧盟外交与安全政策…",
+    "content": "23/09/2026 - 10:02 欧盟发表最新的香港政治与经济发展年度报告，批评港府在多宗国家安全案件中，压制性地使用国安相关法律，对异见者施以长期审前羁押等，侵犯人权，关注港府利用打击「软对抗」，针对独立书店丶文化活动和媒体等情况，敦促中国和香港政府恢复全面尊重法治丶基本自由及民主原则。港府对报告内容表示强烈不满和反对，重申任何外国或外部势力诋毁香港，均不会得逞。 自1997年香港由英国移交中国以来，欧盟委员会及欧盟外交与安全政策高级代表每年均向欧洲议会及理事会提交香港年度报告，检视香港在过去一年的政治及经济…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260923-%E9%AB%98%E9%9B%84%E5%B8%82%E4%B8%BE%E5%8A%9E%E5%9B%BD%E9%99%85%E5%84%BF%E7%AB%A5%E5%8F%8A%E9%9D%92%E5%B0%91%E5%B9%B4%E5%98%89%E5%B9%B4%E5%8D%8E-%E6%B3%95%E5%9B%BD%E4%B8%BB%E9%A2%98%E9%A6%86%E5%BA%86%E7%BB%8F%E5%85%B8%E6%96%87%E5%AD%A6-%E5%B0%8F%E7%8E%8B%E5%AD%90-80%E5%91%A8%E5%B9%B4",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "高雄市举办国际儿童及青少年嘉年华 法国主题馆庆经典文学《小王子》80周年 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260923-%E9%AB%98%E9%9B%84%E5%B8%82%E4%B8%BE%E5%8A%9E%E5%9B%BD%E9%99%85%E5%84%BF%E7%AB%A5%E5%8F%8A%E9%9D%92%E5%B0%91%E5%B9%B4%E5%98%89%E5%B9%B4%E5%8D%8E-%E6%B3%95%E5%9B%BD%E4%B8%BB%E9%A2%98%E9%A6%86%E5%BA%86%E7%BB%8F%E5%85%B8%E6%96%87%E5%AD%A6-%E5%B0%8F%E7%8E%8B%E5%AD%90-80%E5%91%A8%E5%B9%B4",
+    "pub_date": "2026-09-23 16:15:02",
+    "author": "",
+    "description": "23/09/2026 - 10:10 台湾国际儿童与青少年嘉年华于23到27日在高雄登场，法国作为今年主题馆展示《小王子》80周年纪念版。多位法国图文创作者受邀来台举办讲座与工作坊。 台湾国际儿童与青少年嘉年华于23到27日在高雄登场，文化部长李远、高雄市副市长李怀仁、法国在台协会主任庞维德（Fédéric Laplanche）与高雄市候选人赖瑞隆委员都现身开幕式。 李远上台致词时表示，他刚从法国参访回台，认为台湾与法国有许多相似的文化…",
+    "content": "23/09/2026 - 10:10 台湾国际儿童与青少年嘉年华于23到27日在高雄登场，法国作为今年主题馆展示《小王子》80周年纪念版。多位法国图文创作者受邀来台举办讲座与工作坊。 台湾国际儿童与青少年嘉年华于23到27日在高雄登场，文化部长李远、高雄市副市长李怀仁、法国在台协会主任庞维德（Fédéric Laplanche）与高雄市候选人赖瑞隆委员都现身开幕式。 李远上台致词时表示，他刚从法国参访回台，认为台湾与法国有许多相似的文化DNA，且法国在儿童教育观念走得很前面。今年适逢《小王子》（Le petit p…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260923-%E8%81%94%E5%A4%A7-%E7%A7%98%E4%B9%A6%E9%95%BF%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF%E6%95%A6%E4%BF%83%E7%BE%8E%E4%B8%AD%E5%BB%BA%E7%AB%8Bai%E5%AF%B9%E8%AF%9D%E6%9C%BA%E5%88%B6",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "联大：秘书长古特雷斯敦促美中建立AI对话机制 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260923-%E8%81%94%E5%A4%A7-%E7%A7%98%E4%B9%A6%E9%95%BF%E5%8F%A4%E7%89%B9%E9%9B%B7%E6%96%AF%E6%95%A6%E4%BF%83%E7%BE%8E%E4%B8%AD%E5%BB%BA%E7%AB%8Bai%E5%AF%B9%E8%AF%9D%E6%9C%BA%E5%88%B6",
+    "pub_date": "2026-09-23 15:45:04",
+    "author": "",
+    "description": "23/09/2026 - 09:39 联合国秘书长古特雷斯22日呼吁美国和中国在人工智能领域“建立对话、透明、信任与合作的渠道”。 联合国秘书长古特雷斯22日呼吁美国和中国在人工智能领域开展合作。他呼吁两国“建立对话、透明、信任与合作的渠道”。古特雷斯表示，“政府的首要职责是保护本国人民”。同时，“那些拥有最强人工智能能力的国家，对全人类承担着最大的责任”。 这一呼吁的背景，是最先进的人工智能模型越来越频繁地出现失控现象。然而，中美两国…",
+    "content": "23/09/2026 - 09:39 联合国秘书长古特雷斯22日呼吁美国和中国在人工智能领域“建立对话、透明、信任与合作的渠道”。 联合国秘书长古特雷斯22日呼吁美国和中国在人工智能领域开展合作。他呼吁两国“建立对话、透明、信任与合作的渠道”。古特雷斯表示，“政府的首要职责是保护本国人民”。同时，“那些拥有最强人工智能能力的国家，对全人类承担着最大的责任”。 这一呼吁的背景，是最先进的人工智能模型越来越频繁地出现失控现象。然而，中美两国政府都不愿对这些风险进行监管，也不愿过多干预人工智能的发展。原因是，两国都担心这…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cqjdvg991dmxo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "特朗普與習近平會面在即，中國的AI雄心正在烏蘭察布高歌猛進",
+    "link": "https://www.bbc.com/zhongwen/articles/cqjdvg991dmxo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-09-23 15:30:41",
+    "author": "",
+    "description": "BBC 在内蒙古广袤的草原上，农民正收获着饱满的马铃薯，而他们身旁还出现了一些新邻居：巨大的长方形建筑群，它们将为中国的AI平台提供动力。 拥有草原和火山地貌的乌兰察布（Ulanqab），乍看之下并不像数字科技发展的前沿。多年来，这里一直被官方称为中国的“马铃薯之都”。但就在唐纳德·特朗普（Donald Trump）与中国领导人习近平会面、讨论人工智能安全等议题之际，这里的田野上也竖起了一个个数据中心的建筑工地。 数百名头戴黄色安全帽的…",
+    "content": "BBC 在内蒙古广袤的草原上，农民正收获着饱满的马铃薯，而他们身旁还出现了一些新邻居：巨大的长方形建筑群，它们将为中国的AI平台提供动力。 拥有草原和火山地貌的乌兰察布（Ulanqab），乍看之下并不像数字科技发展的前沿。多年来，这里一直被官方称为中国的“马铃薯之都”。但就在唐纳德·特朗普（Donald Trump）与中国领导人习近平会面、讨论人工智能安全等议题之际，这里的田野上也竖起了一个个数据中心的建筑工地。 数百名头戴黄色安全帽的工人把沉重设备搬进工地，金属脚手架上焊花四溅。他们头顶上，巨大的起重机精准移动，…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/culture/20260923/redwood-ben-macintyre/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "最不寻常的冷战间谍：让他选择叛逃的性秘密",
+    "link": "https://cn.nytimes.com/culture/20260923/redwood-ben-macintyre/dual",
+    "pub_date": "2026-09-23 15:06:02",
+    "author": "",
+    "description": "JOSEPH FINDER2026年9月23日 REDWOOD: The Untold Story of the Cold War’s Most Extraordinary Spy, by Ben Macintyre 《红杉：揭秘最不寻常的冷战间谍》，作者：本·麦金泰尔 The British writer Ben Macintyre has made an illustrious career of taking dusty gove…",
+    "content": "JOSEPH FINDER 2026年9月23日 REDWOOD: The Untold Story of the Cold War’s Most Extraordinary Spy , by Ben Macintyre 《 红杉 ： 揭秘 最 不寻常的 冷战间谍》 ，作者：本·麦金泰尔 The British writer Ben Macintyre has made an illustrious career of taking dusty government archives and transformin…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c69v9207z2vwo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "日本以街道整潔無瑕而聞名，但為什麼公共垃圾桶卻如此難找？",
+    "link": "https://www.bbc.com/zhongwen/articles/c69v9207z2vwo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-09-23 14:50:29",
+    "author": "",
+    "description": "Getty Images 从1995年的致命袭击事件到根深蒂固的社会规范，日本垃圾桶稀少的原因，比表面看来更为复杂。 如果你花一天时间在东京观光，可能会发现自己一路拿着空咖啡杯、7-Eleven蛋三明治的包装纸，以及愈来愈强烈的困惑感。日本以重视整洁闻名，那么，为什么却找不到地方丢垃圾呢？ 这种困扰对许多旅客而言并不陌生，也因此催生了无数社群媒体影片，记录困惑的游客在一尘不染的街道上四处寻找垃圾桶的情景。 然而，答案比表面看起来更为复杂…",
+    "content": "Getty Images 从1995年的致命袭击事件到根深蒂固的社会规范，日本垃圾桶稀少的原因，比表面看来更为复杂。 如果你花一天时间在东京观光，可能会发现自己一路拿着空咖啡杯、7-Eleven蛋三明治的包装纸，以及愈来愈强烈的困惑感。日本以重视整洁闻名，那么，为什么却找不到地方丢垃圾呢？ 这种困扰对许多旅客而言并不陌生，也因此催生了无数社群媒体影片，记录困惑的游客在一尘不染的街道上四处寻找垃圾桶的情景。 然而，答案比表面看起来更为复杂。 威廉姆斯学院（Williams College）历史学教授、《垃圾：消费战后…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/opinion/20260923/trump-china-ai/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "面对人工智能威胁，这回真得喊“狼来了”",
+    "link": "https://cn.nytimes.com/opinion/20260923/trump-china-ai/dual",
+    "pub_date": "2026-09-23 14:06:03",
+    "author": "",
+    "description": "托马斯·弗里德曼2026年9月23日 “Looks like by April, you know, in theory, when it gets a little warmer, it miraculously goes away.” “看起来到了4月，你知道的，理论上来说，天气稍微暖和一点，它就会奇迹般地消失。” That’s what President Trump said about the Covid-19 outbrea…",
+    "content": "托马斯·弗里德曼 2026年9月23日 “Looks like by April, you know, in theory, when it gets a little warmer, it miraculously goes away.” “看起来到了4月，你知道的，理论上来说，天气稍微暖和一点，它就会奇迹般地消失。” That’s what President Trump said about the Covid-19 outbreak on Feb. 10, 2020, about a month befor…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cq39myp9dm9zo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "特朗普聯合國演說五個要點：古巴垮台、摧毀伊朗、格陵蘭基地，以及把AI改名SI",
+    "link": "https://www.bbc.com/zhongwen/articles/cq39myp9dm9zo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-09-23 12:24:56",
+    "author": "",
+    "description": "Getty Images and UNTV / 观看：特朗普威胁称，若无法达成协议，将把伊朗“彻底摧毁” 美国总统唐纳德·特朗普（Donald Trump）周二再次登上联合国（United Nations）的讲台，在世界各国领导人面前宣扬其政府的政策，并向在座的一些国家发出尖锐的威胁。 这篇冗长的演讲涉及面很广，涵盖伊朗战争、人工智能（AI）、古巴以及美国军队的角色等多重议题。 BBC采访这场演说的记者整理出当中五个尤其引人注目的关键时…",
+    "content": "Getty Images and UNTV / 观看：特朗普威胁称，若无法达成协议，将把伊朗“彻底摧毁” 美国总统唐纳德·特朗普（Donald Trump）周二再次登上联合国（United Nations）的讲台，在世界各国领导人面前宣扬其政府的政策，并向在座的一些国家发出尖锐的威胁。 这篇冗长的演讲涉及面很广，涵盖伊朗战争、人工智能（AI）、古巴以及美国军队的角色等多重议题。 BBC采访这场演说的记者整理出当中五个尤其引人注目的关键时刻。 1. 特朗普大力宣扬美国实力 作者：北美编辑莎拉·史密斯（Sarah Sm…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20260923/us-china-ai-competition/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "美中元首峰会聚焦人工智能议题，但恐难有实质进展",
+    "link": "https://cn.nytimes.com/business/20260923/us-china-ai-competition/dual",
+    "pub_date": "2026-09-23 12:06:02",
+    "author": "",
+    "description": "ANA SWANSON2026年9月23日特朗普总统与中国领导人习近平去年在韩国。特朗普放宽了向中国及其他国家提供人工智能技术的限制。 Haiyun Jiang/The New York Times U.S. and Chinese officials are setting up a dialogue about artificial intelligence and a hotline to report national secu…",
+    "content": "ANA SWANSON 2026年9月23日 特朗普总统与中国领导人习近平去年在韩国。特朗普放宽了向中国及其他国家提供人工智能技术的限制。 Haiyun Jiang/The New York Times U.S. and Chinese officials are setting up a dialogue about artificial intelligence and a hotline to report national security risks from the technology. The Un…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20260923/trump-takaichi-japan-china-economy/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "中日僵局难解，高市早苗向特朗普“求助”",
+    "link": "https://cn.nytimes.com/asia-pacific/20260923/trump-takaichi-japan-china-economy/dual",
+    "pub_date": "2026-09-23 11:06:01",
+    "author": "",
+    "description": "赫海威, 郭莉莉2026年9月23日日本首相高市早苗去年在东京与特朗普总统（未出现在照片中）会晤。高市早苗仍致力于说服特朗普维持在东亚的安全承诺。 Haiyun Jiang/The New York Times For almost a year, China has orchestrated a bruising campaign against Japan in retaliation for a comment by its pr…",
+    "content": "赫海威, 郭莉莉 2026年9月23日 日本首相高市早苗去年在东京与特朗普总统（未出现在照片中）会晤。高市早苗仍致力于说服特朗普维持在东亚的安全承诺。 Haiyun Jiang/The New York Times For almost a year, China has orchestrated a bruising campaign against Japan in retaliation for a comment by its prime minister, Sanae Takaichi, in defen…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20260922/south-korea-president-interview-sanctions-trump-north-korea/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "李在明接受时报专访，敦促美国放松对朝鲜的制裁",
+    "link": "https://cn.nytimes.com/asia-pacific/20260922/south-korea-president-interview-sanctions-trump-north-korea/dual",
+    "pub_date": "2026-09-23 11:06:01",
+    "author": "",
+    "description": "CHOE SANG-HUN2026年9月22日韩国总统李在明在首尔的总统官邸青瓦台与《纽约时报》交谈了约70分钟。 Chang W. Lee/The New York Times Breaking with decades of policy on North Korea, the president of South Korea, Lee Jae Myung, is now urging the United States to ea…",
+    "content": "CHOE SANG-HUN 2026年9月22日 韩国总统李在明在首尔的总统官邸青瓦台与《纽约时报》交谈了约70分钟。 Chang W. Lee/The New York Times Breaking with decades of policy on North Korea, the president of South Korea, Lee Jae Myung, is now urging the United States to ease sanctions on Pyongyang in exchange …"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20260923/china-rare-earth-summit/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "“习特会”最棘手议题之一：中国稀土出口管制",
+    "link": "https://cn.nytimes.com/business/20260923/china-rare-earth-summit/dual",
+    "pub_date": "2026-09-23 09:06:02",
+    "author": "",
+    "description": "KEITH BRADSHER2026年9月23日北京的国家博物馆内关于稀土生产的展览。 Maxim Shemetov/Reuters China’s restrictions on exports of crucial rare-earth metals and rare-earth magnets remain one of the most difficult unresolved issues as President Trump…",
+    "content": "KEITH BRADSHER 2026年9月23日 北京的国家博物馆内关于稀土生产的展览。 Maxim Shemetov/Reuters China’s restrictions on exports of crucial rare-earth metals and rare-earth magnets remain one of the most difficult unresolved issues as President Trump and Xi Jinping prepare to meet this w…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/ckp84p0pzydgo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "習近平訪美的「僵局控管」：中美如何枱上握手、枱下算計？",
+    "link": "https://www.bbc.com/zhongwen/articles/ckp84p0pzydgo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-09-23 08:29:23",
+    "author": "",
+    "description": "Getty Images 中国国家主席习近平预计将在9月23到25日到访华府与美国总统特朗普会面。这是习近平在5月于北京接待特朗普后，两人今年度的第二次会面，同时也是习近平自2015年9月以来，首度前往华盛顿进行国是访问。 四个月前在北京，两国在经贸方面建立了不少新的互动机制，成立了中美贸易与投资理事会、开展中美人工智能对话，并为两国关系下了一个新注脚：“中美建设性战略稳定关系”。 专家向BBC中文分析，本次会面将延展去年两国领导人在釜…",
+    "content": "Getty Images 中国国家主席习近平预计将在9月23到25日到访华府与美国总统特朗普会面。这是习近平在5月于北京接待特朗普后，两人今年度的第二次会面，同时也是习近平自2015年9月以来，首度前往华盛顿进行国是访问。 四个月前在北京，两国在经贸方面建立了不少新的互动机制，成立了中美贸易与投资理事会、开展中美人工智能对话，并为两国关系下了一个新注脚：“中美建设性战略稳定关系”。 专家向BBC中文分析，本次会面将延展去年两国领导人在釜山峰会时达成的为期一年的贸易战休兵，但针对中美间主要的分歧，从稀土安全、AI监管…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/crq5xp9n7gv2o/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "外星生命會讓我們生病嗎？太空微生物帶來哪些風險",
+    "link": "https://www.bbc.com/zhongwen/articles/crq5xp9n7gv2o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-09-23 08:29:19",
+    "author": "",
+    "description": "Science Photo Library via Getty Images 美国太空总署（NASA；美国国家航空暨太空总署／美国宇航局）的“毅力号”（Perseverance）火星探测车正在火星采集和分析岩石样本。天文学家正在宇宙中寻找可能拥有类似地球大气层的行星。我们也在聆听来自太空的无线电讯号，希望捕捉到可能由银河系遥远行星传来的讯息。 这些复杂任务都有一个共同目标：找出地球以外是否存在生命，或是否曾经存在生命。 人类数十年来一直…",
+    "content": "Science Photo Library via Getty Images 美国太空总署（NASA；美国国家航空暨太空总署／美国宇航局）的“毅力号”（Perseverance）火星探测车正在火星采集和分析岩石样本。天文学家正在宇宙中寻找可能拥有类似地球大气层的行星。我们也在聆听来自太空的无线电讯号，希望捕捉到可能由银河系遥远行星传来的讯息。 这些复杂任务都有一个共同目标：找出地球以外是否存在生命，或是否曾经存在生命。 人类数十年来一直在寻找地球以外的生命迹象，但任何外星生命未必像电影中的绿色外星人。事实上，天体生…"
+  },
+  {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260922-%E4%B8%AD%E4%B8%9C%E5%86%B2%E7%AA%81%E5%8A%A0%E5%B9%B2%E6%97%B1%EF%BC%8C%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6%E4%B8%BA%E4%BF%9D%E8%AF%81%E8%83%BD%E6%BA%90%E5%92%8C%E9%A5%AE%E7%94%A8%E6%B0%B4%E5%AE%9E%E6%96%BD%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81",
     "feed_name": "RFI 法国国际广播电台",
     "category": "国外",
@@ -154,72 +374,6 @@ const jsonData = [
     "content": "22/09/2026 - 19:30 特朗普说，与以色列的军事行动是为阻止伊朗取得核武，并警告如果外交协议无法达成，他可以“摧毁”伊朗。不过，特朗普同时表示，他相信美伊最终仍会达成协议，时间可能落在美国11月中期选举之后。 特朗普在约37分钟的演讲中表示，他正面临“重大决定”，选择包括与伊朗达成协议，让伊朗重建国家，或直接消灭伊朗伊斯兰共和国。 他说：“会不会与伊朗达成协议，让他们重建，创造一个比过去强大得多的国家，也许成为中东、甚至全世界最伟大的国家之一？或者我摧毁伊斯兰共和国，而且迅速做到，永远不给他们再次杀害…"
   },
   {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20260922-%E5%A5%94%E9%A9%B0%E9%AB%98%E7%AE%A1%E7%A7%B0%E5%BE%B7%E5%9B%BD%E7%94%9F%E4%BA%A7%E7%BC%BA%E4%B9%8F%E7%AB%9E%E4%BA%89%E5%8A%9B-%E4%B8%A4%E5%AE%B6%E5%B7%A5%E5%8E%82%E9%9D%A2%E4%B8%B4%E5%85%B3%E9%97%AD-%E5%AE%9D%E9%A9%ACceo-%E6%B2%A1%E4%BA%BA%E6%9C%9B%E7%9C%8B%E5%88%B0%E5%B1%80%E5%8A%BF%E5%8D%87%E7%BA%A7",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "奔驰高管称德国生产缺乏竞争力 两家工厂面临关闭 宝马CEO：没人望看到局势升级 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20260922-%E5%A5%94%E9%A9%B0%E9%AB%98%E7%AE%A1%E7%A7%B0%E5%BE%B7%E5%9B%BD%E7%94%9F%E4%BA%A7%E7%BC%BA%E4%B9%8F%E7%AB%9E%E4%BA%89%E5%8A%9B-%E4%B8%A4%E5%AE%B6%E5%B7%A5%E5%8E%82%E9%9D%A2%E4%B8%B4%E5%85%B3%E9%97%AD-%E5%AE%9D%E9%A9%ACceo-%E6%B2%A1%E4%BA%BA%E6%9C%9B%E7%9C%8B%E5%88%B0%E5%B1%80%E5%8A%BF%E5%8D%87%E7%BA%A7",
-    "pub_date": "2026-09-23 00:45:03",
-    "author": "",
-    "description": "22/09/2026 - 18:18 梅赛德斯-奔驰周二表示，按国际标准衡量，该公司在德国的生产缺乏竞争力，主要原因是劳动力成本高昂；此前，一位奔驰高管曾警告员工，两家在德国的工厂可能面临关闭。 梅赛德斯-奔驰在发给路透社的电邮声明中指出，希望保留在德国的工厂和就业岗位。声明补充道：“但要做到这一点，我们需要能够提升德国生产力的框架条件”。 周一，梅赛德斯-奔驰公司负责生产、质量与供应链管理部门的希贝（Michael Schiebe）向…",
-    "content": "22/09/2026 - 18:18 梅赛德斯-奔驰周二表示，按国际标准衡量，该公司在德国的生产缺乏竞争力，主要原因是劳动力成本高昂；此前，一位奔驰高管曾警告员工，两家在德国的工厂可能面临关闭。 梅赛德斯-奔驰在发给路透社的电邮声明中指出，希望保留在德国的工厂和就业岗位。声明补充道：“但要做到这一点，我们需要能够提升德国生产力的框架条件”。 周一，梅赛德斯-奔驰公司负责生产、质量与供应链管理部门的希贝（Michael Schiebe）向聚集在德国西南部辛德尔芬根工厂——这家拥有111年历史的制造基地——的员工们表示…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260922-%E6%AC%A7%E7%9B%9F%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%B1%80-%E4%B8%AD%E5%9B%BD%E5%85%B3%E8%81%94%E7%BD%91%E7%BB%9C%E5%85%A5%E4%BE%B5%E6%8C%81%E7%BB%AD%E5%85%B3%E6%B3%A8%E4%BA%A4%E9%80%9A%E8%BF%90%E8%BE%93%E9%A2%86%E5%9F%9F%EF%BC%8C%E5%8C%85%E6%8B%AC%E6%B5%B7%E4%BA%8B%E5%AE%9E%E4%BD%93",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "欧盟网络安全局：中国关联网络入侵持续关注交通运输领域，包括海事实体 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260922-%E6%AC%A7%E7%9B%9F%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%B1%80-%E4%B8%AD%E5%9B%BD%E5%85%B3%E8%81%94%E7%BD%91%E7%BB%9C%E5%85%A5%E4%BE%B5%E6%8C%81%E7%BB%AD%E5%85%B3%E6%B3%A8%E4%BA%A4%E9%80%9A%E8%BF%90%E8%BE%93%E9%A2%86%E5%9F%9F%EF%BC%8C%E5%8C%85%E6%8B%AC%E6%B5%B7%E4%BA%8B%E5%AE%9E%E4%BD%93",
-    "pub_date": "2026-09-22 23:45:03",
-    "author": "",
-    "description": "22/09/2026 - 17:10 欧盟网络安全局（ENISA）周二表示，一个知名中国黑客组织在2025年全年以“持续的频率”对多个欧盟成员国的海事实体发动了网络攻击。 欧盟网络安全局在其概述该集团所面临网络威胁的“2026年威胁态势”报告中指出，“影响欧盟的2025年网络威胁态势，继续受到多种威胁因素的共同影响——这些威胁有时由地缘政治事态发展所驱动，同时也受到数字生态系统日益增强的互联性的影响”。 报告指：“分布式拒绝服务（DDo…",
-    "content": "22/09/2026 - 17:10 欧盟网络安全局（ENISA）周二表示，一个知名中国黑客组织在2025年全年以“持续的频率”对多个欧盟成员国的海事实体发动了网络攻击。 欧盟网络安全局在其概述该集团所面临网络威胁的“2026年威胁态势”报告中指出，“影响欧盟的2025年网络威胁态势，继续受到多种威胁因素的共同影响——这些威胁有时由地缘政治事态发展所驱动，同时也受到数字生态系统日益增强的互联性的影响”。 报告指：“分布式拒绝服务（DDoS）攻击（51.3%）和未经授权的访问（39.5%）在影响欧盟成员国及欧盟境内组…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20260922-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E6%8D%AE%E6%8A%A5%E4%B8%8D%E5%A4%AA%E5%8F%AF%E8%83%BD%E6%9C%89%E4%B8%AD%E4%BC%81%E9%AB%98%E7%AE%A1%E4%BB%A3%E8%A1%A8%E5%9B%A2%E9%9A%8F%E8%A1%8C",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "习近平访华盛顿据报不太可能有中企高管代表团随行 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20260922-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E6%8D%AE%E6%8A%A5%E4%B8%8D%E5%A4%AA%E5%8F%AF%E8%83%BD%E6%9C%89%E4%B8%AD%E4%BC%81%E9%AB%98%E7%AE%A1%E4%BB%A3%E8%A1%A8%E5%9B%A2%E9%9A%8F%E8%A1%8C",
-    "pub_date": "2026-09-22 22:15:03",
-    "author": "",
-    "description": "22/09/2026 - 14:55 据《华尔街日报》援引知情人士报导称，中国国家主席习近平本周晚些时候赴华盛顿会晤美国总统特朗普时，不太可能有中方的企业高管代表团随行，这降低了人们对此次峰会能达成重大商业协议的预期。 据知情人士称，一些获悉习近平访美行程的业内人士此前曾预计，中方会组织一个由企业高管组成的代表团随同习近平访美。这些人士原本预期，中国企业高管将与来自美国科技及人工智能等领域的顶尖企业高管一道，出席将于周四晚在白宫东厅举行…",
-    "content": "22/09/2026 - 14:55 据《华尔街日报》援引知情人士报导称，中国国家主席习近平本周晚些时候赴华盛顿会晤美国总统特朗普时，不太可能有中方的企业高管代表团随行，这降低了人们对此次峰会能达成重大商业协议的预期。 据知情人士称，一些获悉习近平访美行程的业内人士此前曾预计，中方会组织一个由企业高管组成的代表团随同习近平访美。这些人士原本预期，中国企业高管将与来自美国科技及人工智能等领域的顶尖企业高管一道，出席将于周四晚在白宫东厅举行的国宴。 外界对于将或是否会有中国企业高管随习近平访美的情况知之甚少。中国外交部…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20260922-anthropic%E5%8F%91%E5%B8%83ai%E6%BB%A5%E7%94%A8%E6%8A%A5%E5%91%8A%E5%90%8E-%E4%B8%AD%E5%9B%BD%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8%E6%8D%AE%E6%8A%A5%E5%AF%B9deepseek%E5%92%8C%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E5%B1%95%E5%BC%80%E8%B0%83%E6%9F%A5",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "Anthropic发布AI滥用报告后 中国监管部门据报对DeepSeek和月之暗面展开调查 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20260922-anthropic%E5%8F%91%E5%B8%83ai%E6%BB%A5%E7%94%A8%E6%8A%A5%E5%91%8A%E5%90%8E-%E4%B8%AD%E5%9B%BD%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8%E6%8D%AE%E6%8A%A5%E5%AF%B9deepseek%E5%92%8C%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E5%B1%95%E5%BC%80%E8%B0%83%E6%9F%A5",
-    "pub_date": "2026-09-22 22:15:03",
-    "author": "",
-    "description": "22/09/2026 - 15:45 据科技媒体《信息报》援引知情人士报导称，在美国人工智能企业Anthropic指控中国人工智能公司深度求索（DeepSeek）和月之暗面（Moonshot AI）将敏感用户数据传输至Claude模型后，中国互联网监管机构正对这两家公司展开调查。 此前，Anthropic在其于月初发布的题为“检测并应对人工智能滥用：2026年9月”的报告中称，该公司阻断了来自七家基于中国实验室的滥用。被Anthropi…",
-    "content": "22/09/2026 - 15:45 据科技媒体《信息报》援引知情人士报导称，在美国人工智能企业Anthropic指控中国人工智能公司深度求索（DeepSeek）和月之暗面（Moonshot AI）将敏感用户数据传输至Claude模型后，中国互联网监管机构正对这两家公司展开调查。 此前，Anthropic在其于月初发布的题为“检测并应对人工智能滥用：2026年9月”的报告中称，该公司阻断了来自七家基于中国实验室的滥用。被Anthropic点名的人工智能实验室包括阿里巴巴、月之暗面、深度求索和小米。 Anthropi…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260922-f-35%E6%88%98%E6%9C%BA%E9%83%A8%E4%BB%B6%E8%BF%90%E8%BE%93%E4%B8%AD%E4%B8%A2%E5%A4%B1-%E6%BE%B3%E6%B4%B2%E9%98%B2%E9%95%BF%E7%A7%B0-%E4%B8%8D%E5%B1%9E%E4%BA%8E%E6%95%8F%E6%84%9F%E7%89%A9%E8%B5%84",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "F-35战机部件运输中丢失 澳洲防长称“不属于敏感物资” - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260922-f-35%E6%88%98%E6%9C%BA%E9%83%A8%E4%BB%B6%E8%BF%90%E8%BE%93%E4%B8%AD%E4%B8%A2%E5%A4%B1-%E6%BE%B3%E6%B4%B2%E9%98%B2%E9%95%BF%E7%A7%B0-%E4%B8%8D%E5%B1%9E%E4%BA%8E%E6%95%8F%E6%84%9F%E7%89%A9%E8%B5%84",
-    "pub_date": "2026-09-22 20:45:03",
-    "author": "",
-    "description": "22/09/2026 - 13:18 一批原本从澳大利亚运往美国的F-35战斗机零部件，在运输途中意外转运至香港，并在此后数月下落不明。澳大利亚政府对此展开调查。 澳大利亚代理总理兼国防部长马尔斯9月22日证实了这一事件。他表示，澳大利亚正在与美国以及F-35项目主承包商洛克希德·马丁公司合作调查，并将审查“在澳大利亚一方发生的一切”。不过，马尔斯强调，目前掌握的信息显示，这批零部件并不属于“敏感设备”或“敏感部件”。他说，澳大利亚方面…",
-    "content": "22/09/2026 - 13:18 一批原本从澳大利亚运往美国的F-35战斗机零部件，在运输途中意外转运至香港，并在此后数月下落不明。澳大利亚政府对此展开调查。 澳大利亚代理总理兼国防部长马尔斯9月22日证实了这一事件。他表示，澳大利亚正在与美国以及F-35项目主承包商洛克希德·马丁公司合作调查，并将审查“在澳大利亚一方发生的一切”。不过，马尔斯强调，目前掌握的信息显示，这批零部件并不属于“敏感设备”或“敏感部件”。他说，澳大利亚方面对参与F-35项目的方式“有信心”，而事件最终将由美国和洛克希德·马丁公司负责处…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260922-%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%A4%E5%90%8D%E6%9C%9D%E9%B2%9C%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%88%90%E5%91%98%E6%AC%B2%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%AF%BB%E6%B1%82%E6%94%BF%E6%B2%BB%E5%BA%87%E6%8A%A4",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "亚运会两名朝鲜代表团成员据报欲在日本寻求政治庇护 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260922-%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%A4%E5%90%8D%E6%9C%9D%E9%B2%9C%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%88%90%E5%91%98%E6%AC%B2%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%AF%BB%E6%B1%82%E6%94%BF%E6%B2%BB%E5%BA%87%E6%8A%A4",
-    "pub_date": "2026-09-22 20:45:03",
-    "author": "",
-    "description": "22/09/2026 - 14:14 据韩国《月刊朝鲜》周二报导，两名参加日本爱知-名古屋亚运会的朝鲜代表团成员有意寻求政治庇护。该杂志援引日本情报官员报导称，这两人是出席本届亚运会的180人朝鲜代表团成员；第20届亚运会于上周六（19日）在日本爱知·名古屋开幕。 《月刊朝鲜》报导指，参加此次亚运会的180人朝鲜代表团中，已有两人表示不愿返回朝鲜。据悉，这两人希望在日本而非韩国寻求政治庇护，目前正在探讨相关可能性。据称，该消息是通过与日…",
-    "content": "22/09/2026 - 14:14 据韩国《月刊朝鲜》周二报导，两名参加日本爱知-名古屋亚运会的朝鲜代表团成员有意寻求政治庇护。该杂志援引日本情报官员报导称，这两人是出席本届亚运会的180人朝鲜代表团成员；第20届亚运会于上周六（19日）在日本爱知·名古屋开幕。 《月刊朝鲜》报导指，参加此次亚运会的180人朝鲜代表团中，已有两人表示不愿返回朝鲜。据悉，这两人希望在日本而非韩国寻求政治庇护，目前正在探讨相关可能性。据称，该消息是通过与日本情报机构合作的、且与亲平壤的旅日朝鲜人总联合会（简称朝鲜总联）有关联的人士处获…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cr9dw3z7v01yo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -229,17 +383,6 @@ const jsonData = [
     "author": "",
     "description": "Getty Images 过去一个月，“双休”是否真正落地成为中国社交网路上最受关注的话题之一。一群自称“打工人”的企业员工开发了名为“双休购”的微信小程序，依据企业是否切实保障员工双休进行打分，满分五分，低于两分的企业将无法在平台展示商品。 这套逻辑简单而直接：让消费者的购买力成为一种“选票”，倒逼企业履行劳动法规定的用工义务。 在这个平台上，拥有政府背书的华为仅获得2.1分，有在职员工反映，若按劳动法规定每周只上40小时班便会遭主管…",
     "content": "Getty Images 过去一个月，“双休”是否真正落地成为中国社交网路上最受关注的话题之一。一群自称“打工人”的企业员工开发了名为“双休购”的微信小程序，依据企业是否切实保障员工双休进行打分，满分五分，低于两分的企业将无法在平台展示商品。 这套逻辑简单而直接：让消费者的购买力成为一种“选票”，倒逼企业履行劳动法规定的用工义务。 在这个平台上，拥有政府背书的华为仅获得2.1分，有在职员工反映，若按劳动法规定每周只上40小时班便会遭主管约谈，婚假、丧假、产假也被计入出勤考核，直接影响工资。相比之下，民营零售企业胖东…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cjp30pv25xd7o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "CNN 等三家美國媒體被禁入白宮後 起訴特朗普政府",
-    "link": "https://www.bbc.com/zhongwen/articles/cjp30pv25xd7o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-09-22 14:52:50",
-    "author": "",
-    "description": "Reuters / 观看：特朗普在星期一下午与纽约市长佐赫兰·马姆达尼（Zohran Mamdani）出席活动时，回答了有关禁令的提问 美国有线电视新闻网（CNN）、Politico 和 MS NOW（前身为MSNBC）这三家美国媒体，在被禁止进入白宫后表示，他们将起诉特朗普政府。 特朗普（Donald Trump）总统星期五宣布了这项禁令，指控这些机构就其团队撰写“虚构或谎言”的报道。这些公司表示，他们的记者在星期六被拒于白宫大楼门外…",
-    "content": "Reuters / 观看：特朗普在星期一下午与纽约市长佐赫兰·马姆达尼（Zohran Mamdani）出席活动时，回答了有关禁令的提问 美国有线电视新闻网（CNN）、Politico 和 MS NOW（前身为MSNBC）这三家美国媒体，在被禁止进入白宫后表示，他们将起诉特朗普政府。 特朗普（Donald Trump）总统星期五宣布了这项禁令，指控这些机构就其团队撰写“虚构或谎言”的报道。这些公司表示，他们的记者在星期六被拒于白宫大楼门外。 他们在周一发表的联合声明中表示，他们正在采取法律行动，“捍卫政府无权决定媒体…"
   },
   {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20260922/xi-trump-meeting-china-summit/dual",
@@ -297,28 +440,6 @@ const jsonData = [
     "content": "Reuters/Getty Images 当中国国家主席习近平星期三抵达华盛顿时，这将是他11年来首次对美国进行国事访问。 但他与美国的初次接触，早在他成为中国数十年来最有权势的领导人之前便已发生。 四十年前，习近平还只是一名来自中国北方的县级官员，前往美国中西部进行实地考察。 他在艾奥瓦州（爱荷华州，Iowa）逗留数天，学习农业知识，参观农场，并住在当地一户人家的郊区住宅中。 中国官方媒体大篇幅报道了他的这段寄宿经历，以及他与时任艾奥瓦州州长、后来在美国总统唐纳德·特朗普（Donald Trump）任内出任美国驻…"
   },
   {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20260922/china-agriculture-trade-soybeans/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "中国曾承诺购买更多美国农产品，但并未兑现",
-    "link": "https://cn.nytimes.com/business/20260922/china-agriculture-trade-soybeans/dual",
-    "pub_date": "2026-09-22 10:36:04",
-    "author": "",
-    "description": "黄瑞黎2026年9月22日5月，中国同意在2028年前每年购买至少170亿美元的美国农产品。中国此前已另行承诺加大对美国大豆的采购。 KC McGinnis for The New York Times When President Trump met with the Chinese leader Xi Jinping in Beijing in May, the United States announced that China …",
-    "content": "黄瑞黎 2026年9月22日 5月，中国同意在2028年前每年购买至少170亿美元的美国农产品。中国此前已另行承诺加大对美国大豆的采购。 KC McGinnis for The New York Times When President Trump met with the Chinese leader Xi Jinping in Beijing in May, the United States announced that China had agreed to sharply increase its pur…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20260922/china-generals-expelled-corruption/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "张又侠被开除党籍，将面临军事法庭审判",
-    "link": "https://cn.nytimes.com/china/20260922/china-generals-expelled-corruption/dual",
-    "pub_date": "2026-09-22 10:06:04",
-    "author": "",
-    "description": "储百亮2026年9月22日2025年，张又侠在北京人民大会堂。 Tingshu Wang/Reuters China’s Communist Party leaders expelled the country’s former top general, Zhang Youxia, from the party on Monday, accusing him of crimes and misdeeds ranging from tak…",
-    "content": "储百亮 2026年9月22日 2025年，张又侠在北京人民大会堂。 Tingshu Wang/Reuters China’s Communist Party leaders expelled the country’s former top general, Zhang Youxia, from the party on Monday, accusing him of crimes and misdeeds ranging from taking bribes to disloyalty to the party.…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c65y501pjww4o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -328,17 +449,6 @@ const jsonData = [
     "author": "",
     "description": "AFP via Getty Images 香港政府在首份五年计划，提出带头推动“以人民币支付政府开支”，引起外界关注港元地位会否受动摇。 根据特首李家超的说法，考虑用人民币而非港币结算的项目，包括公务员在中国大陆的培训费用，以及向广东省购买香港日常水源东江水的开支。 有经济学者对BBC中文指出，港府希望建立“示范作用”，未来甚至“可能连收税都收人民币”，增加其他国家在香港使用人民币买卖黄金、投资股票的信心。 分析指出，虽然港元作为法定货…",
     "content": "AFP via Getty Images 香港政府在首份五年计划，提出带头推动“以人民币支付政府开支”，引起外界关注港元地位会否受动摇。 根据特首李家超的说法，考虑用人民币而非港币结算的项目，包括公务员在中国大陆的培训费用，以及向广东省购买香港日常水源东江水的开支。 有经济学者对BBC中文指出，港府希望建立“示范作用”，未来甚至“可能连收税都收人民币”，增加其他国家在香港使用人民币买卖黄金、投资股票的信心。 分析指出，虽然港元作为法定货币角色不变，但随着中国减持美国国债，港府在外汇基金资产组合配置更多元化，未来购买…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20260922/china-trump-taiwan-arms-sales/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "脆弱的美中关系中最具破坏性的问题：对台军售",
-    "link": "https://cn.nytimes.com/world/20260922/china-trump-taiwan-arms-sales/dual",
-    "pub_date": "2026-09-22 09:06:04",
-    "author": "",
-    "description": "储百亮, AMY CHANG CHIEN2026年9月22日今年5月，特朗普总统与中国国家主席习近平在北京会晤。特朗普在寻求与中国建立务实关系的同时暂缓了对台军售。 Kenny Holston/The New York Times For China’s leader, Xi Jinping, one important goal of his meeting with President Trump this week may be …",
-    "content": "储百亮, AMY CHANG CHIEN 2026年9月22日 今年5月，特朗普总统与中国国家主席习近平在北京会晤。特朗普在寻求与中国建立务实关系的同时暂缓了对台军售。 Kenny Holston/The New York Times For China’s leader, Xi Jinping, one important goal of his meeting with President Trump this week may be persuading him to keep delaying $14 bi…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c9zrz24j8pdvo/simp?at_medium=RSS&at_campaign=rss",
@@ -385,94 +495,6 @@ const jsonData = [
     "content": "Getty Images 中国共产党中央政治局召开会议，决定中共第二十届中央委员会第五次全体会议（即五中全会）将于10月26日至29日在北京举行。 官方新华社星期一（9月21日）报导，政治局当天的会议审议了《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》讨论稿，并将提交五中全会审议。这意味着，本届五中全会将以“全面从严治党”、即党的自身建设为核心议题，这一安排打破了历次中央全会渐次形成的议题惯例。 更令外界关注的是军方人事。中央军委目前大面积缺员，七名成员中仅剩习近平和张升民二人。由于党章明确军委组成人员…"
   },
   {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20260921/trump-ai-safety-anthropic-openai-china/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "白宫内部关于人工智能威胁的复杂辩论",
-    "link": "https://cn.nytimes.com/usa/20260921/trump-ai-safety-anthropic-openai-china/dual",
-    "pub_date": "2026-09-21 16:06:03",
-    "author": "",
-    "description": "DAVID E. SANGER, JONATHAN SWAN, CECILIA KANG, DUSTIN VOLZ2026年9月21日去年，特朗普总统在白宫与戴维·萨克斯和马克·扎克伯格共进晚餐。 Haiyun Jiang/The New York Times President Trump made clear in the past week that he views fears that A.I. could lead to m…",
-    "content": "DAVID E. SANGER, JONATHAN SWAN, CECILIA KANG, DUSTIN VOLZ 2026年9月21日 去年，特朗普总统在白宫与戴维·萨克斯和马克·扎克伯格共进晚餐。 Haiyun Jiang/The New York Times President Trump made clear in the past week that he views fears that A.I. could lead to mass extinction as a “HOAX,” and that h…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/opinion/20260921/nyt-175-anniversary-sulzberger/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "时报出版人：175年、1500万篇报道讲述的美国故事",
-    "link": "https://cn.nytimes.com/opinion/20260921/nyt-175-anniversary-sulzberger/dual",
-    "pub_date": "2026-09-21 15:06:04",
-    "author": "",
-    "description": "A.G. SULZBERGER2026年9月21日 Above my desk hangs an engraving of an island. It depicts a still-young city in a still-young nation. Its cobblestone streets are lined with squat buildings, none taller than a church spire. No …",
-    "content": "A.G. SULZBERGER 2026年9月21日 Above my desk hangs an engraving of an island. It depicts a still-young city in a still-young nation. Its cobblestone streets are lined with squat buildings, none taller than a church spire. No bridges or tunnels in sight, schooners …"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/opinion/20260921/trump-china-ai/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "习近平以强势姿态访美，特朗普该与他讨论什么？",
-    "link": "https://cn.nytimes.com/opinion/20260921/trump-china-ai/dual",
-    "pub_date": "2026-09-21 12:06:04",
-    "author": "",
-    "description": "纪思道2026年9月21日 President Xi Jinping of China is throwing his weight around as he prepares to arrive in Washington. 中国国家主席习近平在准备抵达华盛顿之际，正在展示其影响力。 When Chinese and American leaders gathered for summits in the past, it was t…",
-    "content": "纪思道 2026年9月21日 President Xi Jinping of China is throwing his weight around as he prepares to arrive in Washington. 中国国家主席习近平在准备抵达华盛顿之际，正在展示其影响力。 When Chinese and American leaders gathered for summits in the past, it was the American president who held the card…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/ck0j32p3el72o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "莫斯科遭到烏克蘭450架無人機襲擊，市長稱規模「迄今最大」",
-    "link": "https://www.bbc.com/zhongwen/articles/ck0j32p3el72o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-09-21 08:10:13",
-    "author": "",
-    "description": "AP / 乌克兰无人机袭击后，莫斯科一家炼油厂起火 莫斯科市长表示，乌克兰对莫斯科地区发动了迄今为止最大规模的无人机袭击，击中了该市的主要炼油厂及一栋住宅楼。 莫斯科市长谢尔盖·索比亚宁（Sergei Sobyanin）表示，共有450架飞向首都的无人机被击落，并称这是“规模最大”的一次袭击。该地区的州长表示，至少有两人死亡、20人受伤。 乌克兰总统弗拉基米尔·泽连斯基（Volodymyr Zelensky）证实，基辅（Kyiv）方面已…",
-    "content": "AP / 乌克兰无人机袭击后，莫斯科一家炼油厂起火 莫斯科市长表示，乌克兰对莫斯科地区发动了迄今为止最大规模的无人机袭击，击中了该市的主要炼油厂及一栋住宅楼。 莫斯科市长谢尔盖·索比亚宁（Sergei Sobyanin）表示，共有450架飞向首都的无人机被击落，并称这是“规模最大”的一次袭击。该地区的州长表示，至少有两人死亡、20人受伤。 乌克兰总统弗拉基米尔·泽连斯基（Volodymyr Zelensky）证实，基辅（Kyiv）方面已用无人机和导弹击中该地区一处“关键”俄罗斯石油设施及一处物流基地，并称此举打击的…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/ck5yw8p8jy4zo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "特朗普稱美國將組建「人工智能部隊」並任命「AI沙皇」",
-    "link": "https://www.bbc.com/zhongwen/articles/ck5yw8p8jy4zo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-09-21 08:09:56",
-    "author": "",
-    "description": "AFP via Getty Images 美国总统特朗普（Donald Trump）宣布，他将组建一支“人工智能部队”（AI Force），并任命一位人工智能沙皇，此前外界对这项新兴技术发出了警告。 他在周六的社交媒体帖子中表示，其政府“绝不会以任何方式阻碍或扼杀”该产业的发展，并反驳了在更完善的保障措施到位之前放缓人工智能发展的呼声。 在他发表这篇贴文之际，一系列关于人工智能潜在危险的警告促使人们呼吁对该技术的发展采取协调一致的行动。…",
-    "content": "AFP via Getty Images 美国总统特朗普（Donald Trump）宣布，他将组建一支“人工智能部队”（AI Force），并任命一位人工智能沙皇，此前外界对这项新兴技术发出了警告。 他在周六的社交媒体帖子中表示，其政府“绝不会以任何方式阻碍或扼杀”该产业的发展，并反驳了在更完善的保障措施到位之前放缓人工智能发展的呼声。 在他发表这篇贴文之际，一系列关于人工智能潜在危险的警告促使人们呼吁对该技术的发展采取协调一致的行动。 特朗普没有提供其计划的细节或时间表。 “人工智能是下一场工业革命，或者说是下一…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cky9z175jgdlo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "香港首任特首董建華葬禮：規格比照霍英東 石泰峰致悼詞",
-    "link": "https://www.bbc.com/zhongwen/articles/cky9z175jgdlo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-09-20 19:21:43",
-    "author": "",
-    "description": "董建華辦公室 香港特别行政区首任行政长官董建华的公祭及出殡仪式，周日（9月20日）在香港举行。中国国家主席习近平及多名中共政治局常委并未亲自出席，但以致送花圈、发表唁电等不同形式表达哀悼。中共中央政治局委员、全国政协常务副主席石泰峰奉命出任治丧委员会主任，代表中央赴港主持丧礼。 董建华于9月8日因病逝世，享年89岁。作为香港回归后首位离世的行政长官，他的身后安排具有指标意义：这不仅是北京对其个人政治生涯的盖棺论定，也将成为未来历任香港特…",
-    "content": "董建華辦公室 香港特别行政区首任行政长官董建华的公祭及出殡仪式，周日（9月20日）在香港举行。中国国家主席习近平及多名中共政治局常委并未亲自出席，但以致送花圈、发表唁电等不同形式表达哀悼。中共中央政治局委员、全国政协常务副主席石泰峰奉命出任治丧委员会主任，代表中央赴港主持丧礼。 董建华于9月8日因病逝世，享年89岁。作为香港回归后首位离世的行政长官，他的身后安排具有指标意义：这不仅是北京对其个人政治生涯的盖棺论定，也将成为未来历任香港特首身后礼遇的参照范本。 治丧委员会由石泰峰牵头，副主任委员包括全国政协副主席梁振…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cwq63qj0119go/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "聯合國專家：有理由相信美國在伊朗襲擊行動中犯下戰爭罪",
-    "link": "https://www.bbc.com/zhongwen/articles/cwq63qj0119go/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-09-20 11:05:30",
-    "author": "",
-    "description": "WANA via Reuters / 阿妮塔·加塞米（Anita Ghasemi）在拉梅尔德体育综合设施袭击事件中受伤。 联合国人权专家表示，有合理理由相信，美国在伊朗发动的两次袭击中犯下战争罪，事件造成至少177名平民死亡。 由伊朗问题独立国际事实调查团发布的一份新报告指出，今年2月对米纳布（Minab）一所小学及拉梅尔德（Lamerd）一个体育综合设施发动的导弹袭击，构成无差别攻击，并导致平民死亡及民用基础设施受损。 美国此前否认曾…",
-    "content": "WANA via Reuters / 阿妮塔·加塞米（Anita Ghasemi）在拉梅尔德体育综合设施袭击事件中受伤。 联合国人权专家表示，有合理理由相信，美国在伊朗发动的两次袭击中犯下战争罪，事件造成至少177名平民死亡。 由伊朗问题独立国际事实调查团发布的一份新报告指出，今年2月对米纳布（Minab）一所小学及拉梅尔德（Lamerd）一个体育综合设施发动的导弹袭击，构成无差别攻击，并导致平民死亡及民用基础设施受损。 美国此前否认曾袭击拉梅尔德，并表示正调查米纳布事件的经过。一名美国国务院官员表示，美方不认同报…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cx980mjemv73o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "特朗普據報將赴機場迎接習近平，待遇比肩教宗和赫魯曉夫",
-    "link": "https://www.bbc.com/zhongwen/articles/cx980mjemv73o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-09-19 18:40:57",
-    "author": "",
-    "description": "Getty Images 路透社、彭博社等多家通讯社报导，一名美国高级官员周五（9月18日）向记者透露，美国总统特朗普（Donald Trump；川普）计划下周亲赴华盛顿郊外的安德鲁斯联合基地（Joint Base Andrews），迎接前来进行国事访问的中国国家主席习近平。 国事访问的礼宾程序高度程式化，但程式之中仍留有弹性空间，足以传递微妙的政治信号。东道国接机官员的级别，历来是观察双边关系温度最直接的风向标。 美国总统亲赴机场迎接…",
-    "content": "Getty Images 路透社、彭博社等多家通讯社报导，一名美国高级官员周五（9月18日）向记者透露，美国总统特朗普（Donald Trump；川普）计划下周亲赴华盛顿郊外的安德鲁斯联合基地（Joint Base Andrews），迎接前来进行国事访问的中国国家主席习近平。 国事访问的礼宾程序高度程式化，但程式之中仍留有弹性空间，足以传递微妙的政治信号。东道国接机官员的级别，历来是观察双边关系温度最直接的风向标。 美国总统亲赴机场迎接外国元首极为罕见。若不计教宗访美的特例，这将是超过 60 年来美国总统首次以这种…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cre30gqdn8xno/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -495,21 +517,10 @@ const jsonData = [
     "content": "人类真的可能被AI灭绝？我们可以如何阻止？ 人工智能（AI）快速发展之际，AI界对其潜在风险的公开讨论也越来越多。部分科学家甚至估计，未来十年AI导致人类灭绝的可能性超过一成。 但AI究竟可能如何对人类造成致命威胁？BBC网络安全记者乔．泰迪（Joe Tidy）探讨几种假设情境，包括AI入侵关键基础设施、利用机械人扩大自身能力，以及AI在没有直接指令的情况下逐步取得对人类的控制。 这些情境有多大可能成为现实？科学家所说的“P-doom”又是甚么？除了人类灭绝，AI还可能带来哪些现实世界的风险？"
   },
   {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/ckwyzg2v80elo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "「運動員無法伸直雙腿睡覺」：日本亞運為何爆發住宿爭議？",
-    "link": "https://www.bbc.com/zhongwen/articles/ckwyzg2v80elo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-09-18 17:24:15",
-    "author": "",
-    "description": "Getty Images / 日本亚洲运动会将于周六开幕，但由于赛程庞大，已有数个项目抢先开始。图为中国对菲律宾女子排球B组预赛，菲律宾队球员正在庆祝得分。 日本亚洲运动会将于周六（9月19日）开幕，住宿问题成为外界激烈批评的焦点。 其中，为数千名运动员而设的木制货柜屋，赛前被指漏水和床舖太小。 “身高超过两米（6呎7吋）的运动员，甚至无法在床上把腿伸直，这实在不合理。”韩国篮球协会副会长郑载龙（音译Jung Jae-yong）说。 他…",
-    "content": "Getty Images / 日本亚洲运动会将于周六开幕，但由于赛程庞大，已有数个项目抢先开始。图为中国对菲律宾女子排球B组预赛，菲律宾队球员正在庆祝得分。 日本亚洲运动会将于周六（9月19日）开幕，住宿问题成为外界激烈批评的焦点。 其中，为数千名运动员而设的木制货柜屋，赛前被指漏水和床舖太小。 “身高超过两米（6呎7吋）的运动员，甚至无法在床上把腿伸直，这实在不合理。”韩国篮球协会副会长郑载龙（音译Jung Jae-yong）说。 他向法新社形容，这些住宿设施是“历来最差的”。 本届赛事于名古屋市及爱知县举行，超…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cq62j7my13l3o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
-    "title": "當白宮舉行宴會時，台灣會出現在「菜單」上嗎？",
+    "title": "習近平訪美前瞻：當白宮舉行宴會時，台灣會出現在「菜單」上嗎？",
     "link": "https://www.bbc.com/zhongwen/articles/cq62j7my13l3o/simp?at_medium=RSS&at_campaign=rss",
     "pub_date": "2026-09-18 08:19:45",
     "author": "",
@@ -581,17 +592,6 @@ const jsonData = [
     "author": "",
     "description": "BBC / 贝姬·琼斯（Becky Jones）被告知自己只剩下几个月生命，尽管扫描结果从未显示脑部有肿瘤。 贝姬·琼斯（Becky Jones）21岁时，被告知患有末期脑癌，只剩数月寿命。 当时，她刚认识伴侣不久，并梦想投身警务工作，但未来却突然变得一片黯淡。 当时一名资深癌症顾问医生为她诊断，她随后接受了长达11年、彻底改变她人生的化疗。她经常感到恶心不适，无法参与家庭聚会，事业发展亦受阻，而且长期感觉“如履薄冰”。 如今她34岁，…",
     "content": "BBC / 贝姬·琼斯（Becky Jones）被告知自己只剩下几个月生命，尽管扫描结果从未显示脑部有肿瘤。 贝姬·琼斯（Becky Jones）21岁时，被告知患有末期脑癌，只剩数月寿命。 当时，她刚认识伴侣不久，并梦想投身警务工作，但未来却突然变得一片黯淡。 当时一名资深癌症顾问医生为她诊断，她随后接受了长达11年、彻底改变她人生的化疗。她经常感到恶心不适，无法参与家庭聚会，事业发展亦受阻，而且长期感觉“如履薄冰”。 如今她34岁，最近才得知自己根本从未患癌，实际上是一种脑部炎症，本可透过类固醇治疗。 这位育有…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cmvgyn5gywz1o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "《匹茲堡醫魂》拿走了六個艾美獎，它的忠粉都是真醫生",
-    "link": "https://www.bbc.com/zhongwen/articles/cmvgyn5gywz1o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-09-15 23:23:06",
-    "author": "",
-    "description": "HBO MAX / 主角罗宾纳维奇医生（Michael Robinavitch）由诺亚·怀尔饰演，是一名历经磨练且经验非常丰富的急诊医学顾问医生。 美国2026年度艾美奖（Emmy Awards）颁奖礼落幕，HBO Max 医疗连续剧《匹兹堡医魂》（The Pitt；匹兹堡医护前线）以25个提名成为提名大户，最终成功捧走了六座“艾美奖小金人”。 剧组星期一（9月14日）晚夺得的奖项计有最佳男主角、最佳剧集、最佳特效化妆、最佳客串演员、最…",
-    "content": "HBO MAX / 主角罗宾纳维奇医生（Michael Robinavitch）由诺亚·怀尔饰演，是一名历经磨练且经验非常丰富的急诊医学顾问医生。 美国2026年度艾美奖（Emmy Awards）颁奖礼落幕 ，HBO Max 医疗连续剧《匹兹堡医魂》（The Pitt；匹兹堡医护前线）以25个提名成为提名大户，最终成功捧走了六座“艾美奖小金人”。 剧组星期一（9月14日）晚夺得的奖项计有最佳男主角、最佳剧集、最佳特效化妆、最佳客串演员、最佳原创音乐与歌词，以及戏剧类最佳选角。 这套串流平台电视剧尤其受到货真价实的医…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c85yd2dnw25vo/simp?at_medium=RSS&at_campaign=rss",
