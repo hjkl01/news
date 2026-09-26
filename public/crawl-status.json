@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-09-25T10:53:05.459Z",
-  "ended_at": "2026-09-25T10:53:05.669Z",
+  "started_at": "2026-09-26T01:07:36.082Z",
+  "ended_at": "2026-09-26T01:07:36.292Z",
   "duration_ms": 210,
   "config": {
     "concurrency": 8,
@@ -17,12 +17,12 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 48,
-    "failed_sources": 11,
-    "circuit_open_sources": 11,
+    "cache_hit_sources": 46,
+    "failed_sources": 13,
+    "circuit_open_sources": 13,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1399,
-    "total_items_after_retention": 1161,
+    "total_items_after_dedupe": 1357,
+    "total_items_after_retention": 1121,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -79,6 +79,18 @@
       "title": "技術討論區 | 草榴社區 - t66y.com",
       "url": "https://rsshub.app/t66y/7",
       "reason": "HTTP 403",
+      "skippedByCircuit": true
+    },
+    {
+      "title": "IT 之家",
+      "url": "https://plink.anyfeeder.com/ithome/it",
+      "reason": "The operation was aborted.",
+      "skippedByCircuit": true
+    },
+    {
+      "title": "InfoQ 中文",
+      "url": "https://plink.anyfeeder.com/infoq/recommend",
+      "reason": "The operation was aborted.",
       "skippedByCircuit": true
     },
     {
@@ -139,6 +151,16 @@
       "title": "技術討論區 | 草榴社區 - t66y.com",
       "url": "https://rsshub.app/t66y/7",
       "reason": "HTTP 403"
+    },
+    {
+      "title": "IT 之家",
+      "url": "https://plink.anyfeeder.com/ithome/it",
+      "reason": "The operation was aborted."
+    },
+    {
+      "title": "InfoQ 中文",
+      "url": "https://plink.anyfeeder.com/infoq/recommend",
+      "reason": "The operation was aborted."
     },
     {
       "title": "FreeBuf 关注黑客",
