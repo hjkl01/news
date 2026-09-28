@@ -1,5 +1,16 @@
 const jsonData = [
   {
+    "id": "技术-HelloGitHub 月刊-https://hellogithub.com/periodical/volume/126",
+    "feed_name": "HelloGitHub 月刊",
+    "category": "技术",
+    "title": "HelloGitHub 第 126 期",
+    "link": "https://hellogithub.com/periodical/volume/126",
+    "pub_date": "2026-09-28 08:05:08",
+    "author": "",
+    "description": "本期共有 39 个项目，包含 C 项目 (1)，C# 项目 (3)，C++ 项目 (1)，Go 项目 (4)，JavaScript 项目 (5)，Python 项目 (5)，Rust 项目 (3)，Skills (4)，Swift 项目 (4)，人工智能 (5)，其它 (4)",
+    "content": "本期共有 39 个项目，包含 C 项目 (1)，C# 项目 (3)，C++ 项目 (1)，Go 项目 (4)，JavaScript 项目 (5)，Python 项目 (5)，Rust 项目 (3)，Skills (4)，Swift 项目 (4)，人工智能 (5)，其它 (4)"
+  },
+  {
     "id": "技术-阮一峰的网络日志-http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
     "feed_name": "阮一峰的网络日志",
     "category": "技术",
