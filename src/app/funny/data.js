@@ -1,25 +1,36 @@
 const jsonData = [
   {
-    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/15eab89b2a7f",
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/153820200c4e",
     "feed_name": "简书 / 首页",
     "category": "娱乐",
-    "title": "让专业的人管专业的事",
-    "link": "https://www.jianshu.com/p/15eab89b2a7f",
-    "pub_date": "2026-09-28 19:11:07",
-    "author": "code9ine",
-    "description": "习近平总书记强调：“各级领导干部要加快知识更新、加强实践锻炼，使专业素养和工作能力跟上时代节拍，避免少知而迷、无知而乱。”近日，中央组织部会同中央宣传部、教育部、科技部、国家卫生健康委修订印发“5个办法”，精准贴合行业发展规律，立起选人用人专业“标尺”，打破“模板化”惯性，推动干部选配从“岗位适配”向“专业赋能”提升。 现实工作中，部分事业单位选人用人存在“重行政履历、轻专业积淀”的倾向。少数领导干部缺少行业一线历练，对专业运行逻辑把握…",
-    "content": "习近平总书记强调：“各级领导干部要加快知识更新、加强实践锻炼，使专业素养和工作能力跟上时代节拍，避免少知而迷、无知而乱。”近日，中央组织部会同中央宣传部、教育部、科技部、国家卫生健康委修订印发“5个办法”，精准贴合行业发展规律，立起选人用人专业“标尺”，打破“模板化”惯性，推动干部选配从“岗位适配”向“专业赋能”提升。 现实工作中，部分事业单位选人用人存在“重行政履历、轻专业积淀”的倾向。少数领导干部缺少行业一线历练，对专业运行逻辑把握不深，面对改革任务和群众诉求时发力不准、靶向偏移。此次修订摒弃“一刀切”的管理模…"
+    "title": "小程序页面之间（传值）传递数据的方法",
+    "link": "https://www.jianshu.com/p/153820200c4e",
+    "pub_date": "2026-09-29 09:28:25",
+    "author": "萤火驻守心间",
+    "description": "1、给html元素添加data-*属性来传递值，然后通过e.currentTarget.dataset或onload的param参数获取（data- 名称不能有大写字母，不可以存放对象） 2、设置id 的方法标识来传值，通过e.currentTarget.id获取设置的id值，然后通过设置全局对象的方式来传递数据 3、在navigator中添加参数数值 4、使用全局遍历实现数据传递 5、页面跳转或重定向时，使用url带参数传递数据 6、…",
+    "content": "1、给html元素添加data-*属性来传递值，然后通过e.currentTarget.dataset或onload的param参数获取（data- 名称不能有大写字母，不可以存放对象） 2、设置id 的方法标识来传值，通过e.currentTarget.id获取设置的id值，然后通过设置全局对象的方式来传递数据 3、在navigator中添加参数数值 4、使用全局遍历实现数据传递 5、页面跳转或重定向时，使用url带参数传递数据 6、使用组件模板 template传递参数 7、使用缓存传递参数 8、使用数据库传递…"
   },
   {
-    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/93612043c642",
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/6c09b7723a5b",
     "feed_name": "简书 / 首页",
     "category": "娱乐",
-    "title": "JavaScript 面试系列：JavaScript 中执行上下文和执行栈是什么？",
-    "link": "https://www.jianshu.com/p/93612043c642",
-    "pub_date": "2026-09-28 19:11:06",
-    "author": "you的日常",
-    "description": "image.png 一、执行上下文 简单的来说，执行上下文是一种对Javascript代码执行环境的抽象概念，也就是说只要有Javascript代码运行，那么它就一定是运行在执行上下文中 执行上下文的类型分为三种： 全局执行上下文：只有一个，浏览器中的全局对象就是 window对象，this 指向这个全局对象 函数执行上下文：存在无数个，只有在函数被调用的时候才会被创建，每次调用函数都会创建一个新的执行上下文 Eval 函数执行上下文：…",
-    "content": "image.png 一、执行上下文 简单的来说，执行上下文是一种对 Javascript 代码执行环境的抽象概念，也就是说只要有 Javascript 代码运行，那么它就一定是运行在执行上下文中 执行上下文的类型分为三种： 全局执行上下文：只有一个，浏览器中的全局对象就是 window 对象， this 指向这个全局对象 函数执行上下文：存在无数个，只有在函数被调用的时候才会被创建，每次调用函数都会创建一个新的执行上下文 Eval 函数执行上下文： 指的是运行在 eval 函数中的代码，很少用而且不建议使用 下面给…"
+    "title": "第二十章 链接世界前沿的红地毯（15）",
+    "link": "https://www.jianshu.com/p/6c09b7723a5b",
+    "pub_date": "2026-09-29 09:28:25",
+    "author": "杨仕伦",
+    "description": "20.15 “信息循环的导向功能——人体的脑神经系统，与实物循环的供给功能——人体的心血管系统，是我们每一个人赖以生存的前提。企业首先要了解、掌握市场，同样以信息交换循环导向功能为前提。这两大功能互为依存互为竞争，分分秒秒都缺一不可。一旦运行不畅，生命就受到严重威胁。个人是如此，家庭、企业等社群组织也是如此。信息的交换循环，解决了对价值认识的导向问题。 “从科学技术层面来讲，包括人在内的万物，数十亿年来都只能围绕着信息与实物的两种资源，…",
+    "content": "20.15 似乎，邓经理对原理性内容的兴趣很浓厚，延续相应话题，庶盶道：“细究客观循环链，具有以客观价值化为导向、追逐结构优化的双重职能驱动特征。也就是以信息交换循环作为具体资源，形成对价值认识的导向功能。继之以具体的实物交换循环，实现各自的一系列、可持续的资源优化配置发展目标。 “信息循环的导向功能——人体的脑神经系统，与实物循环的供给功能——人体的心血管系统，是我们每一个人赖以生存的前提。企业首先要了解、掌握市场，同样以信息交换循环导向功能为前提。这两大功能互为依存互为竞争，分分秒秒都缺一不可。一旦运行不畅，生…"
+  },
+  {
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/08f3d2aa9a89",
+    "feed_name": "简书 / 首页",
+    "category": "娱乐",
+    "title": "跟着Nature Communication学作图：R语言ggplot2话点线图展示基因表达量的范围",
+    "link": "https://www.jianshu.com/p/08f3d2aa9a89",
+    "pub_date": "2026-09-29 09:13:47",
+    "author": "小明的数据分析笔记本",
+    "description": "论文 Microbiomes in the Challenger Deep slope and bottom-axis sediments https://www.nature.com/articles/s41467-022-29144-4#code-availability 对应代码链接 https://github.com/ucassee/Challenger-Deep-Microbes 论文里提供了大部分图的数据和代码，很好的学习…",
+    "content": "论文 Microbiomes in the Challenger Deep slope and bottom-axis sediments https://www.nature.com/articles/s41467-022-29144-4#code-availability 对应代码链接 https://github.com/ucassee/Challenger-Deep-Microbes 论文里提供了大部分图的数据和代码，很好的学习材料，感兴趣的同学可以找来参考，今天的推文重复一下论文中的Figure3b 示例…"
   },
   {
     "id": "娱乐-喷嚏图卦-https://www.dapenti.com/blog/more.asp?name=xilei&id=195807",

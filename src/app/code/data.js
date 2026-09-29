@@ -66,17 +66,6 @@ const jsonData = [
     "content": "本期共有 40 个项目，包含 C 项目 (2)，C# 项目 (2)，C++ 项目 (1)，Go 项目 (4)，Java 项目 (1)，JavaScript 项目 (5)，Python 项目 (5)，Rust 项目 (2)，Skills (3)，Swift 项目 (3)，人工智能 (5)，其它 (5)，开源书籍 (2)"
   },
   {
-    "id": "技术-HelloGitHub 月刊-https://hellogithub.com/periodical/volume/123",
-    "feed_name": "HelloGitHub 月刊",
-    "category": "技术",
-    "title": "HelloGitHub 第 123 期",
-    "link": "https://hellogithub.com/periodical/volume/123",
-    "pub_date": "2026-06-29 08:10:22",
-    "author": "",
-    "description": "本期共有 38 个项目，包含 C 项目 (2)，C# 项目 (1)，C++ 项目 (2)，Go 项目 (4)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (3)，Skills (4)，Swift 项目 (2)，人工智能 (5)，其它 (4)",
-    "content": "本期共有 38 个项目，包含 C 项目 (2)，C# 项目 (1)，C++ 项目 (2)，Go 项目 (4)，JavaScript 项目 (5)，Kotlin 项目 (1)，Python 项目 (5)，Rust 项目 (3)，Skills (4)，Swift 项目 (2)，人工智能 (5)，其它 (4)"
-  },
-  {
     "id": "技术-github all-https://github.com/paperclipai/paperclip",
     "feed_name": "github all",
     "category": "技术",
