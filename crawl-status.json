@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-09-30T01:47:31.236Z",
-  "ended_at": "2026-09-30T01:47:31.453Z",
-  "duration_ms": 217,
+  "started_at": "2026-09-30T11:38:51.492Z",
+  "ended_at": "2026-09-30T11:38:51.696Z",
+  "duration_ms": 204,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -17,12 +17,12 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 47,
-    "failed_sources": 12,
-    "circuit_open_sources": 12,
+    "cache_hit_sources": 48,
+    "failed_sources": 11,
+    "circuit_open_sources": 11,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1369,
-    "total_items_after_retention": 1154,
+    "total_items_after_dedupe": 1388,
+    "total_items_after_retention": 1178,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -79,12 +79,6 @@
       "title": "技術討論區 | 草榴社區 - t66y.com",
       "url": "https://rsshub.app/t66y/7",
       "reason": "HTTP 403",
-      "skippedByCircuit": true
-    },
-    {
-      "title": "MIT 科技评论 / 本周热榜",
-      "url": "https://plink.anyfeeder.com/mittrchina/hot",
-      "reason": "The operation was aborted.",
       "skippedByCircuit": true
     },
     {
@@ -145,11 +139,6 @@
       "title": "技術討論區 | 草榴社區 - t66y.com",
       "url": "https://rsshub.app/t66y/7",
       "reason": "HTTP 403"
-    },
-    {
-      "title": "MIT 科技评论 / 本周热榜",
-      "url": "https://plink.anyfeeder.com/mittrchina/hot",
-      "reason": "The operation was aborted."
     },
     {
       "title": "FreeBuf 关注黑客",
