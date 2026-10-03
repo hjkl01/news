@@ -11,39 +11,6 @@ const jsonData = [
     "content": "本期共有 39 个项目，包含 C 项目 (1)，C# 项目 (3)，C++ 项目 (1)，Go 项目 (4)，JavaScript 项目 (5)，Python 项目 (5)，Rust 项目 (3)，Skills (4)，Swift 项目 (4)，人工智能 (5)，其它 (4)"
   },
   {
-    "id": "技术-阮一峰的网络日志-http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
-    "feed_name": "阮一峰的网络日志",
-    "category": "技术",
-    "title": "科技爱好者周刊（第 413 期）：再见了，React Native",
-    "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
-    "pub_date": "2026-09-18 08:03:02",
-    "author": "阮一峰",
-    "description": "这里记录每周值得分享的科技内容，周五发布。（[通知] 下周五开始的中秋和十一假期，周刊休息。） 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面图 华东师范大学闵行校区新启用的西校门，仿造了它的前身之一光华大学的校门。（via） 再见了，React Native Shopify 宣布，放弃 React Native，改用 Swift 和 Kotlin 开…",
-    "content": "这里记录每周值得分享的科技内容，周五发布。（ [通知] 下周五开始的中秋和十一假期，周刊休息。 ） 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 华东师范大学闵行校区新启用的西校门，仿造了它的前身之一光华大学的校门。（ via ） 再见了，React Native Shopify 宣布 ，放弃 React Native，改用 Swift 和 Kotlin 开发它的移动版。 也就是说，它决定采用原生语言，开发 i…"
-  },
-  {
-    "id": "技术-阮一峰的网络日志-http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html",
-    "feed_name": "阮一峰的网络日志",
-    "category": "技术",
-    "title": "科技爱好者周刊（第 412 期）：禁止 issue，只用 PR",
-    "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html",
-    "pub_date": "2026-09-11 08:11:50",
-    "author": "阮一峰",
-    "description": "这里记录每周值得分享的科技内容，周五发布。 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面 上海前滩太古里举办的\"英雄联盟15周年\"展览。（via） 禁止 issue，只用 PR 上周，PHP 框架 Laravel 宣布了一个新规定：禁止提交 issue，只能提交 Pull Request。 乍一看，这个规定太荒谬了。用户不能提交 issue，怎么报告…",
-    "content": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面 上海前滩太古里举办的\"英雄联盟15周年\"展览。（ via ） 禁止 issue，只用 PR 上周，PHP 框架 Laravel 宣布了 一个新规定 ：禁止提交 issue，只能提交 Pull Request。 乍一看，这个规定太荒谬了。用户不能提交 issue，怎么报告问题呢？难道你要每个人都读懂源码，自己动手解决问题！ 但…"
-  },
-  {
-    "id": "技术-阮一峰的网络日志-http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html",
-    "feed_name": "阮一峰的网络日志",
-    "category": "技术",
-    "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
-    "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html",
-    "pub_date": "2026-09-04 07:59:05",
-    "author": "阮一峰",
-    "description": "这里记录每周值得分享的科技内容，周五发布。 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面图 宁夏西夏陵使用金属网，将残片还原成石像生。（via） OpenClaw 2.0 是一个缩影 本周，OpenClaw 发布了2.0版。 是不是很久没听到这个名字了？现在很少有人提到它，不过就是半年。 回想今年春节，它一夜走红，引发了全民热议。一时间，上门安装龙虾…",
-    "content": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 宁夏西夏陵使用金属网，将残片还原成石像生。（ via ） OpenClaw 2.0 是一个缩影 本周，OpenClaw 发布了 2.0版 。 是不是很久没听到这个名字了？现在很少有人提到它，不过就是半年。 回想今年春节，它一夜走红，引发了全民热议。一时间，上门安装龙虾成了热门服务，还真有不少人付费。 仅仅过了半年，它就成了…"
-  },
-  {
     "id": "技术-HelloGitHub 月刊-https://hellogithub.com/periodical/volume/125",
     "feed_name": "HelloGitHub 月刊",
     "category": "技术",
