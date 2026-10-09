@@ -1,5 +1,159 @@
 const jsonData = [
   {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261009-%E6%97%A5%E6%9C%AC%E5%89%8D%E5%A4%96%E7%9B%B8%E8%A1%A8%E7%A4%BA%E5%90%91%E7%8E%8B%E6%AF%85%E6%8F%90%E8%AE%AE%E4%B8%A4%E5%9B%BD%E6%94%BF%E5%BA%9C%E9%87%8D%E6%96%B0%E7%A1%AE%E8%AE%A4-%E6%97%A5%E4%B8%AD%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E-%E8%A8%80%E5%BD%92%E4%BA%8E%E5%A5%BD",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "日本前外相表示向王毅提议两国政府重新确认《日中联合声明》 言归于好 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261009-%E6%97%A5%E6%9C%AC%E5%89%8D%E5%A4%96%E7%9B%B8%E8%A1%A8%E7%A4%BA%E5%90%91%E7%8E%8B%E6%AF%85%E6%8F%90%E8%AE%AE%E4%B8%A4%E5%9B%BD%E6%94%BF%E5%BA%9C%E9%87%8D%E6%96%B0%E7%A1%AE%E8%AE%A4-%E6%97%A5%E4%B8%AD%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E-%E8%A8%80%E5%BD%92%E4%BA%8E%E5%A5%BD",
+    "pub_date": "2026-10-09 17:45:04",
+    "author": "",
+    "description": "09/10/2026 - 11:38 日本国际贸易振兴会会长、前外相岩屋毅8日接受共同社采访时透露，9月下旬在中国北京与中国外交部长王毅会谈时，他曾提议，为修复日中关系，两国政府应“正式重新确认1972年的《日中联合声明》”。对于中方批评日本推行“新型军国主义”，岩屋毅表示，这给人一种日本战后80年来作为和平国家的发展历程被全盘否定的印象，还会使那些重视日中关系的人也逐渐疏远中方。他对此提出了批评，而岩屋毅10月2日在其家乡大分县别府市…",
+    "content": "09/10/2026 - 11:38 日本国际贸易振兴会会长、前外相岩屋毅8日接受共同社采访时透露，9月下旬在中国北京与中国外交部长王毅会谈时，他曾提议，为修复日中关系，两国政府应“正式重新确认1972年的《日中联合声明》”。对于中方批评日本推行“新型军国主义”，岩屋毅表示，这给人一种日本战后80年来作为和平国家的发展历程被全盘否定的印象，还会使那些重视日中关系的人也逐渐疏远中方。他对此提出了批评，而岩屋毅10月2日在其家乡大分县别府市举行记者会，要求高市政权继续为改善日中关系作出努力。 根据《日中联合声明》，日本…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261009-%E8%A1%A8%E5%BD%B0%E4%BF%83%E8%BF%9B%E5%92%8C%E5%B9%B3%E4%B8%8E%E5%9B%BD%E9%99%85%E6%B3%95%E6%89%80%E4%BD%9C%E5%8A%AA%E5%8A%9B-%E5%8D%97%E9%9D%9E%E7%B1%8D%E5%89%8D%E4%BA%BA%E6%9D%83%E9%AB%98%E4%B8%93%E7%9A%AE%E8%8E%B1%E8%8E%B72026%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E5%A5%96",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "表彰促进和平与国际法所作努力 南非籍前人权高专皮莱获2026年诺贝尔和平奖 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261009-%E8%A1%A8%E5%BD%B0%E4%BF%83%E8%BF%9B%E5%92%8C%E5%B9%B3%E4%B8%8E%E5%9B%BD%E9%99%85%E6%B3%95%E6%89%80%E4%BD%9C%E5%8A%AA%E5%8A%9B-%E5%8D%97%E9%9D%9E%E7%B1%8D%E5%89%8D%E4%BA%BA%E6%9D%83%E9%AB%98%E4%B8%93%E7%9A%AE%E8%8E%B1%E8%8E%B72026%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E5%A5%96",
+    "pub_date": "2026-10-09 17:45:03",
+    "author": "",
+    "description": "09/10/2026 - 11:24 挪威诺贝尔委员会周五宣布，2026年诺贝尔和平奖授予南非女法官纳薇·皮莱（Navi Pillay）。她曾领导卢旺达种族灭绝问题国际法庭，并于去年指控以色列在加沙地带犯下种族灭绝罪。位于奥斯陆的挪威诺贝尔委员会主席弗里德内斯（Jorgen Watne Frydnes）表示：“今年的获奖者在确保战争罪、危害人类罪和种族灭绝罪得到起诉方面发挥了关键作用”。现年85岁的皮莱曾于2008年9月至2014年8月…",
+    "content": "09/10/2026 - 11:24 挪威诺贝尔委员会周五宣布，2026年诺贝尔和平奖授予南非女法官纳薇·皮莱（Navi Pillay）。她曾领导卢旺达种族灭绝问题国际法庭，并于去年指控以色列在加沙地带犯下种族灭绝罪。位于奥斯陆的挪威诺贝尔委员会主席弗里德内斯（Jorgen Watne Frydnes）表示：“今年的获奖者在确保战争罪、危害人类罪和种族灭绝罪得到起诉方面发挥了关键作用”。现年85岁的皮莱曾于2008年9月至2014年8月担任联合国人权事务高级专员，她是南非高等法院首位非白人女法官，并曾任国际刑事法院…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/crz98g94n9k5o/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "法國學生示威：憤怒背後隱藏著什麼？",
+    "link": "https://www.bbc.com/zhongwen/articles/crz98g94n9k5o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-10-09 17:42:25",
+    "author": "",
+    "description": "Reuters 自9月下旬以来，法国各地的学生一直在举行抗议活动，反对教育经费不足，并封锁了许多高中校园入口。 这场运动在一些地方演变成暴力事件——数百名学生、教师和警察受伤，数千人被捕，其中包括数量不明的外部滋事分子。 抗议者抱怨该国高中——15至18岁学生就读的学校——师资短缺和设施破旧。 巴黎学生玛达莱娜（Madalena）周二（10月6日）告诉BBC：“有时候我们的老师会缺席好几个星期，而且没有替补老师，”。 在当天，法国各地爆…",
+    "content": "Reuters 自9月下旬以来，法国各地的学生一直在举行抗议活动，反对教育经费不足，并封锁了许多高中校园入口。 这场运动在一些地方演变成暴力事件——数百名学生、教师和警察受伤，数千人被捕，其中包括数量不明的外部滋事分子。 抗议者抱怨该国高中——15至18岁学生就读的学校——师资短缺和设施破旧。 巴黎学生玛达莱娜（Madalena）周二（10月6日）告诉BBC：“有时候我们的老师会缺席好几个星期，而且没有替补老师，”。 在当天，法国各地爆发了数十万人参与的示威游行。这名学生补充说，在最近的热浪期间，学校的教学大楼里“…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261009-%E6%94%AF%E8%81%94%E4%BC%9A%E6%A1%88-%E6%9D%8E%E5%8D%93%E4%BA%BA%E5%B0%B1%E5%AE%9A%E7%BD%AA%E5%8F%8A%E5%88%A4%E5%88%91%E6%8F%90%E5%87%BA%E4%B8%8A%E8%AF%89",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "支联会案 李卓人就定罪及判刑提出上诉 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261009-%E6%94%AF%E8%81%94%E4%BC%9A%E6%A1%88-%E6%9D%8E%E5%8D%93%E4%BA%BA%E5%B0%B1%E5%AE%9A%E7%BD%AA%E5%8F%8A%E5%88%A4%E5%88%91%E6%8F%90%E5%87%BA%E4%B8%8A%E8%AF%89",
+    "pub_date": "2026-10-09 16:45:02",
+    "author": "",
+    "description": "09/10/2026 - 10:24 据《明报》报导，已解散的香港市民支援爱国民主运动联合会（简称支联会）前主席李卓人、前副主席何俊仁及邹幸彤被控煽动他人颠覆国家政权罪，何俊仁开审前认罪，支联会、李卓人及邹幸彤经审讯后被裁定罪成。法庭判处邹幸彤监禁7年3个月、李卓人监禁7年、何俊仁监禁5年2个月，支联会则罚款150万元。继邹幸彤早前就定罪及判刑提出上诉，李卓人也就定罪及判刑提出上诉。根据司法机构网页显示，案件聆讯尚未排期。 截至判刑当日…",
+    "content": "09/10/2026 - 10:24 据《明报》报导，已解散的香港市民支援爱国民主运动联合会（简称支联会）前主席李卓人、前副主席何俊仁及邹幸彤被控煽动他人颠覆国家政权罪，何俊仁开审前认罪，支联会、李卓人及邹幸彤经审讯后被裁定罪成。法庭判处邹幸彤监禁7年3个月、李卓人监禁7年、何俊仁监禁5年2个月，支联会则罚款150万元。继邹幸彤早前就定罪及判刑提出上诉，李卓人也就定罪及判刑提出上诉。根据司法机构网页显示，案件聆讯尚未排期。 截至判刑当日（2026年9月11日），李卓人已还押1442天，据《法庭线》按此推算，现年69…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261009-%E9%85%8D%E5%90%88%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E5%9B%BD%E9%99%85%E5%88%91%E4%BA%8B%E6%B3%95%E9%99%A2-%E4%BF%84%E7%BD%97%E6%96%AF%E8%A6%81%E6%B1%82%E5%BC%95%E6%B8%A1%E6%97%A5%E6%9C%AC%E7%B1%8D%E9%99%A2%E9%95%BF%E7%AD%89",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "配合美国制裁国际刑事法院 俄罗斯要求引渡日本籍院长等 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261009-%E9%85%8D%E5%90%88%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E5%9B%BD%E9%99%85%E5%88%91%E4%BA%8B%E6%B3%95%E9%99%A2-%E4%BF%84%E7%BD%97%E6%96%AF%E8%A6%81%E6%B1%82%E5%BC%95%E6%B8%A1%E6%97%A5%E6%9C%AC%E7%B1%8D%E9%99%A2%E9%95%BF%E7%AD%89",
+    "pub_date": "2026-10-09 16:15:03",
+    "author": "",
+    "description": "09/10/2026 - 08:16 俄罗斯最高检察院8日宣布，已向包括国际刑事法院（ICC）总部所在地荷兰在内的多个国家提出请求，要求引渡在俄罗斯被判有罪的国际刑事法院院长赤根智子等人。 近年来，美国日益加强了对国际刑事法院的对抗姿态。美国政府于8月18日，把国际刑事法院（ICC）日本人院长赤根智子和一名来自塞内加尔、隶属于检察官办公室的律师列入新的制裁对象。据国际刑事法院介绍，自2025年2月特朗普签署可以制裁国际刑事法院的总统令以…",
+    "content": "09/10/2026 - 08:16 俄罗斯最高检察院8日宣布，已向包括国际刑事法院（ICC）总部所在地荷兰在内的多个国家提出请求，要求引渡在俄罗斯被判有罪的国际刑事法院院长赤根智子等人。 近年来，美国日益加强了对国际刑事法院的对抗姿态。美国政府于8月18日，把国际刑事法院（ICC）日本人院长赤根智子和一名来自塞内加尔、隶属于检察官办公室的律师列入新的制裁对象。据国际刑事法院介绍，自2025年2月特朗普签署可以制裁国际刑事法院的总统令以来，被美国列入制裁对象的国际刑事法院检察官、法官等累计已达13人,俄罗斯要求引渡…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cvj6jz6e89n2o/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "扎克伯格有形象問題，為何Meta的業務卻蒸蒸日上？",
+    "link": "https://www.bbc.com/zhongwen/articles/cvj6jz6e89n2o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-10-09 16:04:54",
+    "author": "",
+    "description": "CQ-Roll Call, Inc via Getty Images / CTMG, Inc./Leah Gal 上个月，在公司一年一度的 Meta Connect 产品大会上，该公司主事者马克·扎克伯格（Mark Zuckerberg；祖克柏）发表主题演讲仅过三分钟，他的语调就变得近乎伤感。 “建造是一种爱的行为，”他双手插兜，低头看着地面说道：“这是我们传递信仰的方式，我们将自己的心血和灵魂倾注到我们所创造的东西中。” 在与数百名分…",
+    "content": "CQ-Roll Call, Inc via Getty Images / CTMG, Inc./Leah Gal 上个月，在公司一年一度的 Meta Connect 产品大会上，该公司主事者马克·扎克伯格（Mark Zuckerberg；祖克柏）发表主题演讲仅过三分钟，他的语调就变得近乎伤感。 “建造是一种爱的行为，”他双手插兜，低头看着地面说道：“这是我们传递信仰的方式，我们将自己的心血和灵魂倾注到我们所创造的东西中。” 在与数百名分析师和开发者交流时，扎克伯格还继续分享了 Meta 最新人工智慧产品的消息：其崭…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261009-%E9%A6%99%E6%B8%AF%E5%8F%95%E7%88%86%E5%BB%BA%E7%AD%91%E4%B8%91%E9%97%BB-%E5%85%AC%E7%A7%81%E8%90%A5%E5%90%88%E4%BD%9C%E4%BD%8F%E5%AE%85%E9%A1%B9%E7%9B%AE%E9%92%A2%E7%AD%8B%E9%85%8D%E7%BD%AE%E4%B8%A5%E9%87%8D%E8%BF%9D%E8%A7%84-%E5%8D%8A%E6%95%B0%E5%A4%A7%E6%A5%BC%E9%A1%BB%E6%8B%86%E5%8D%B8%E9%87%8D%E5%BB%BA",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "香港叕爆建筑丑闻 公私营合作住宅项目钢筋配置严重违规 半数大楼须拆卸重建 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261009-%E9%A6%99%E6%B8%AF%E5%8F%95%E7%88%86%E5%BB%BA%E7%AD%91%E4%B8%91%E9%97%BB-%E5%85%AC%E7%A7%81%E8%90%A5%E5%90%88%E4%BD%9C%E4%BD%8F%E5%AE%85%E9%A1%B9%E7%9B%AE%E9%92%A2%E7%AD%8B%E9%85%8D%E7%BD%AE%E4%B8%A5%E9%87%8D%E8%BF%9D%E8%A7%84-%E5%8D%8A%E6%95%B0%E5%A4%A7%E6%A5%BC%E9%A1%BB%E6%8B%86%E5%8D%B8%E9%87%8D%E5%BB%BA",
+    "pub_date": "2026-10-09 14:15:03",
+    "author": "",
+    "description": "09/10/2026 - 08:02 香港上亿豪宅ONE STANLEY被揭发钢筋数量严重不符图则引发各界关注建筑业界存在的问题後，之前被揭发钢筋配置严重偏离批准图则的观塘公私营合作住宅发展项目，发展商最终决定拆卸重建其中三幢住宅大楼，进一步动摇社会对香港建筑安全的信心。评论指，接连爆出问题，反映建筑质量问题，涉及监管松弛及制度性失效，令人担忧香港的专业制度正不断崩溃。 这次有半数大楼需要拆卸重建的「港人首次置业计划」（简称首置盘） 项…",
+    "content": "09/10/2026 - 08:02 香港上亿豪宅ONE STANLEY被揭发钢筋数量严重不符图则引发各界关注建筑业界存在的问题後，之前被揭发钢筋配置严重偏离批准图则的观塘公私营合作住宅发展项目，发展商最终决定拆卸重建其中三幢住宅大楼，进一步动摇社会对香港建筑安全的信心。评论指，接连爆出问题，反映建筑质量问题，涉及监管松弛及制度性失效，令人担忧香港的专业制度正不断崩溃。 这次有半数大楼需要拆卸重建的「港人首次置业计划」（简称首置盘） 项目，位于观塘安达臣道，由香港首富李嘉诚创办的长江实业与政府合作发展，该项目原定于…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261009-%E5%89%8D%E6%B0%91%E4%B8%BB%E6%B4%BE%E8%AE%AE%E5%91%98%E6%9E%97%E5%8D%93%E5%BB%B7%E6%B6%89%E5%A6%A8%E7%A2%8D%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3%E7%BD%AA%E8%84%B1-%E5%BE%8B%E6%94%BF%E5%8F%B8%E4%B8%8D%E6%9C%8D%E4%B8%8A%E8%AF%89%E9%81%AD%E9%A9%B3%E5%9B%9E",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "前民主派议员林卓廷涉妨碍司法公正罪脱 律政司不服上诉遭驳回 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261009-%E5%89%8D%E6%B0%91%E4%B8%BB%E6%B4%BE%E8%AE%AE%E5%91%98%E6%9E%97%E5%8D%93%E5%BB%B7%E6%B6%89%E5%A6%A8%E7%A2%8D%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3%E7%BD%AA%E8%84%B1-%E5%BE%8B%E6%94%BF%E5%8F%B8%E4%B8%8D%E6%9C%8D%E4%B8%8A%E8%AF%89%E9%81%AD%E9%A9%B3%E5%9B%9E",
+    "pub_date": "2026-10-09 14:15:02",
+    "author": "",
+    "description": "09/10/2026 - 08:07 在《港区国安法》实施后，屡遭检控定罪的前民主派立法会议员林卓廷，年前获法庭裁定一宗在2019年发生的意图妨碍司法公正罪名不成立後，负责港府刑事检控工作的律政司不服其无罪裁决，提出上诉。上诉庭今（9日）早颁下判词，指控方未能证明被指遭删除的示威照片或影片确实曾经存在，因此驳回律政司针对无罪裁决提出的上诉，维持林卓廷等人相关控罪不成立的裁决。 正就民主派初选「47人案」及2019年元朗地铁站无差别袭击的…",
+    "content": "09/10/2026 - 08:07 在《港区国安法》实施后，屡遭检控定罪的前民主派立法会议员林卓廷，年前获法庭裁定一宗在2019年发生的意图妨碍司法公正罪名不成立後，负责港府刑事检控工作的律政司不服其无罪裁决，提出上诉。上诉庭今（9日）早颁下判词，指控方未能证明被指遭删除的示威照片或影片确实曾经存在，因此驳回律政司针对无罪裁决提出的上诉，维持林卓廷等人相关控罪不成立的裁决。 正就民主派初选「47人案」及2019年元朗地铁站无差别袭击的「721暴动案」服刑的林卓廷，因2019年7月6日在「光复屯门公园」游行后，于屯…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261009/microsoft-visas-green-cards/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "美政府暂停微软等科技公司绿卡项目资格",
+    "link": "https://cn.nytimes.com/usa/20261009/microsoft-visas-green-cards/dual",
+    "pub_date": "2026-10-09 14:06:04",
+    "author": "",
+    "description": "ERICA L. GREEN2026年10月9日“我们要向微软传达的信息是：你们是一家伟大的美国公司，但你们必须雇用优秀的美国就业者，”副总统万斯周四在华盛顿表示。 Demetrius Freeman for The New York Times Vice President JD Vance announced on Thursday that Microsoft would be suspended from using a vis…",
+    "content": "ERICA L. GREEN 2026年10月9日 “我们要向微软传达的信息是：你们是一家伟大的美国公司，但你们必须雇用优秀的美国就业者，”副总统万斯周四在华盛顿表示。 Demetrius Freeman for The New York Times Vice President JD Vance announced on Thursday that Microsoft would be suspended from using a visa program that allowed foreign workers…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20261009/china-ai-overuse/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "AI无处不在：中国面临过度依赖人工智能的挑战",
+    "link": "https://cn.nytimes.com/china/20261009/china-ai-overuse/dual",
+    "pub_date": "2026-10-09 13:06:04",
+    "author": "",
+    "description": "YAN ZHUANG2026年10月9日中国政府正在对人工智能应用和聊天机器人的使用实施监管，原因是担心该技术可能会干扰人际关系并破坏社会秩序。 Kevin Frayer/Getty Images As China’s government pushes its citizens to embrace artificial intelligence, it is confronting a problem partly of its o…",
+    "content": "YAN ZHUANG 2026年10月9日 中国政府正在对人工智能应用和聊天机器人的使用实施监管，原因是担心该技术可能会干扰人际关系并破坏社会秩序。 Kevin Frayer/Getty Images As China’s government pushes its citizens to embrace artificial intelligence, it is confronting a problem partly of its own making: overreliance on the technol…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cqr7yvg2n4kvo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "美國要網上直播軍法槍決胡德堡基地槍擊案兇手",
+    "link": "https://www.bbc.com/zhongwen/articles/cqr7yvg2n4kvo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-10-09 12:39:43",
+    "author": "",
+    "description": "AFP via Getty Images 美国国防部长皮特·赫格塞思（Pete Hegseth）表示，公众将能够观看一名前美国陆军少校以行刑队枪决方式被处决。 美国国防部一名官员向BBC表示，2009年在胡德堡（Fort Hood）枪杀13名手无寸铁美军士兵的纳达尔·马里克·哈桑（Nidal Hasan）将被直播处决。 外界认为，这将是美国近一个世纪以来首次公开处决。长期代表死刑犯的律师约翰·米尔斯（John Mills）表示，决定直播…",
+    "content": "AFP via Getty Images 美国国防部长皮特·赫格塞思（Pete Hegseth）表示，公众将能够观看一名前美国陆军少校以行刑队枪决方式被处决。 美国国防部一名官员向BBC表示，2009年在胡德堡（Fort Hood）枪杀13名手无寸铁美军士兵的纳达尔·马里克·哈桑（Nidal Hasan）将被直播处决。 外界认为，这将是美国近一个世纪以来首次公开处决。长期代表死刑犯的律师约翰·米尔斯（John Mills）表示，决定直播处决在“现代时代前所未有”，而且处于“法律基础不明确的领域”。 赫格塞思表示：“…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261009/russia-ukraine-war-ev-sales/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "战争造成燃油短缺，俄罗斯人开始拥抱中国电动汽车",
+    "link": "https://cn.nytimes.com/world/20261009/russia-ukraine-war-ev-sales/dual",
+    "pub_date": "2026-10-09 11:36:03",
+    "author": "",
+    "description": "IVAN NECHEPURENKO2026年10月9日6月，莫斯科一处加油站的排队情况。 Pavel Bednyakov/Associated Press Sergei Tselikov, Russia’s leading auto industry expert, has owned more than 20 vehicles, including a Volvo, a Volkswagen and a Range Rover. Al…",
+    "content": "IVAN NECHEPURENKO 2026年10月9日 6月，莫斯科一处加油站的排队情况。 Pavel Bednyakov/Associated Press Sergei Tselikov, Russia’s leading auto industry expert, has owned more than 20 vehicles, including a Volvo, a Volkswagen and a Range Rover. All had gasoline engines. 谢尔盖·采利科夫是俄罗斯首屈…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261009/russia-plague-outbreak/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "为何俄罗斯鼠疫疑云引发全世界担忧",
+    "link": "https://cn.nytimes.com/world/20261009/russia-plague-outbreak/dual",
+    "pub_date": "2026-10-09 10:36:03",
+    "author": "",
+    "description": "NEIL MACFARQUHAR2026年10月9日周三，位于俄罗斯伊尔库茨克的西伯利亚与远东伊尔库茨克抗鼠疫研究所。死亡的研究人员生前曾在该实验室工作。 Associated Press As rumors swirled this week that a woman working in a Siberian lab may have died of the plague, news programs on Russian stat…",
+    "content": "NEIL MACFARQUHAR 2026年10月9日 周三，位于俄罗斯伊尔库茨克的西伯利亚与远东伊尔库茨克抗鼠疫研究所。死亡的研究人员生前曾在该实验室工作。 Associated Press As rumors swirled this week that a woman working in a Siberian lab may have died of the plague, news programs on Russian state television paid scant attention. The…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20261009/china-military-base-laos/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "中国在老挝启用新空军基地，进一步向东南亚投射军力",
+    "link": "https://cn.nytimes.com/asia-pacific/20261009/china-military-base-laos/dual",
+    "pub_date": "2026-10-09 10:36:03",
+    "author": "",
+    "description": "储百亮, JOSH HOLDER2026年10月9日 China has begun operating a new air force base in Laos, marking another step in Beijing’s efforts to establish military footholds abroad and project power into Southeast Asia. 中国已开始启用位于老挝的一座新空军…",
+    "content": "储百亮, JOSH HOLDER 2026年10月9日 China has begun operating a new air force base in Laos, marking another step in Beijing’s efforts to establish military footholds abroad and project power into Southeast Asia. 中国已开始启用位于老挝的一座新空军基地。这标志着北京在海外建立军事据点、向东南亚投射军力的努力又迈出了一步。 S…"
+  },
+  {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20261009/south-korea-bank-hack-china-us-ai/dual",
     "feed_name": "纽约时报双语版",
     "category": "国外",
@@ -187,39 +341,6 @@ const jsonData = [
     "content": "08/10/2026 - 22:28 主地面作战系统（MGCS，Main Ground Combat System）旨在取代法军的“勒克莱尔”（Leclerc）主战坦克和德军的“豹2”（Leopard 2）主战坦克。 本预计在2040年至2045年左右投入使用。 它不仅是一辆单一的坦克，而是一个以新型主战坦克为核心的“系统之系统”（System of Systems），涵盖大口径火炮坦克、重型导弹装甲车、激光武器机器人支援车辆以及各类无人机等互联平台。 设计的技术采用人工智能、超高速连接（作战云）、大功率混合动力系…"
   },
   {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261008-%E6%B3%95%E6%95%99%E8%82%B2%E9%83%A8%E9%95%BF%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E8%AF%89%E6%B1%82-3000%E5%90%8D%E4%BB%A3%E8%AF%BE%E6%95%99%E5%B8%88%E5%B0%86%E5%B0%B1%E4%BD%8D",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "法教育部长回应学生诉求 3000名代课教师将就位 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261008-%E6%B3%95%E6%95%99%E8%82%B2%E9%83%A8%E9%95%BF%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E8%AF%89%E6%B1%82-3000%E5%90%8D%E4%BB%A3%E8%AF%BE%E6%95%99%E5%B8%88%E5%B0%86%E5%B0%B1%E4%BD%8D",
-    "pub_date": "2026-10-09 08:45:04",
-    "author": "",
-    "description": "08/10/2026 - 22:24 教育部长爱德华·杰弗雷表示：“ 有114所高中被我列为‘红色’（高风险）学校；400所被列为‘橙色’（高风险）学校。”他在接受TF1电视台晚间新闻采访时解释道。 教育部长补充道：“我们有3000名代课教师目前尚未到岗。在接下来的几个小时里，代课教师将陆续抵达师资少的高中”。此外，部长还表示，他将“授权各学区负责人招聘比目前允许的更多教师”，这将增加“数百名”教师。 他进一步解释道：“我们还将提前向校…",
-    "content": "08/10/2026 - 22:24 教育部长爱德华·杰弗雷表示：“ 有114所高中被我列为‘红色’（高风险）学校；400所被列为‘橙色’（高风险）学校。”他在接受TF1电视台晚间新闻采访时解释道。 教育部长补充道：“我们有3000名代课教师目前尚未到岗。在接下来的几个小时里，代课教师将陆续抵达师资少的高中”。此外，部长还表示，他将“授权各学区负责人招聘比目前允许的更多教师”，这将增加“数百名”教师。 他进一步解释道：“我们还将提前向校长们拨出数十万小时的额外课时，我们称之为‘教师契约’，以便他们能够安排学校内部的…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261008-%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E9%A9%AC%E6%96%AF%E5%85%8B%E9%A2%81%E5%8F%91-%E5%9B%BD%E5%AE%B6%E7%A7%91%E5%AD%A6%E5%A5%96%E7%AB%A0",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "特朗普向马斯克颁发“国家科学奖章” - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261008-%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E9%A9%AC%E6%96%AF%E5%85%8B%E9%A2%81%E5%8F%91-%E5%9B%BD%E5%AE%B6%E7%A7%91%E5%AD%A6%E5%A5%96%E7%AB%A0",
-    "pub_date": "2026-10-09 08:45:03",
-    "author": "",
-    "description": "08/10/2026 - 23:14 但所有人的目光都聚焦在埃隆·马斯克身上。在特朗普2025年总统任期开始的头几个月里，他频繁出入白宫，并且曾负责联邦政府的预算削减工作。 “埃隆·马斯克是我们当代的托马斯·爱迪生，”特朗普称赞这位亿万富翁是“国宝”。特朗普在题为“科学：新黄金时代”的峰会上补充道：“埃隆，我要祝贺你。你是我的朋友，也是一位真正杰出的人。” 科技巨头戴尔公司创始人兼首席执行官迈克尔·戴尔和微软首席执行官萨蒂亚·纳德拉荣获…",
-    "content": "08/10/2026 - 23:14 但所有人的目光都聚焦在埃隆·马斯克身上。在特朗普2025年总统任期开始的头几个月里，他频繁出入白宫，并且曾负责联邦政府的预算削减工作。 “埃隆·马斯克是我们当代的托马斯·爱迪生，”特朗普称赞这位亿万富翁是“国宝”。特朗普在题为“科学：新黄金时代”的峰会上补充道：“埃隆，我要祝贺你。你是我的朋友，也是一位真正杰出的人。” 科技巨头戴尔公司创始人兼首席执行官迈克尔·戴尔和微软首席执行官萨蒂亚·纳德拉荣获国家技术与创新奖章。 埃隆·马斯克在特朗普2024年总统竞选期间是其坚定支持者，…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261008-%E7%BE%8E%E5%9B%BD%E5%8D%83%E4%B8%87%E7%BE%8E%E5%85%83%E6%82%AC%E8%B5%8F%E4%B8%AD%E5%9B%BD%E9%BB%91%E5%AE%A2%E5%BC%A0%E5%AE%87",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "美国千万美元悬赏中国黑客张宇 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261008-%E7%BE%8E%E5%9B%BD%E5%8D%83%E4%B8%87%E7%BE%8E%E5%85%83%E6%82%AC%E8%B5%8F%E4%B8%AD%E5%9B%BD%E9%BB%91%E5%AE%A2%E5%BC%A0%E5%AE%87",
-    "pub_date": "2026-10-09 08:45:02",
-    "author": "",
-    "description": "08/10/2026 - 22:21 周三（10月7日），美国联邦调查局（FBI）转发了国务院对中国黑客张宇的千万美元悬赏公告，指张宇受上海国安厅指使，未经授权侵入美国高校及科学家开展的COVID-19（新冠病毒，中共肺炎）相关研究，企图窃取信息。 美国国务院“正义奖励计划”的新闻稿写道，张宇是中国公民，也是上海势炎科技有限公司（Shanghai Firetech Information Science and Technology C…",
-    "content": "08/10/2026 - 22:21 周三（10月7日），美国联邦调查局（FBI）转发了国务院对中国黑客张宇的千万美元悬赏公告，指张宇受上海国安厅指使，未经授权侵入美国高校及科学家开展的COVID-19（新冠病毒，中共肺炎）相关研究，企图窃取信息。 美国国务院“正义奖励计划”的新闻稿写道，张宇是中国公民，也是上海势炎科技有限公司（Shanghai Firetech Information Science and Technology Company, Ltd.）的董事，他受中国国家安全部（MSS）上海市国家安全厅（…"
-  },
-  {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/technology/20261009/china-ai-research-recruitment/dual",
     "feed_name": "纽约时报双语版",
     "category": "国外",
@@ -251,39 +372,6 @@ const jsonData = [
     "author": "",
     "description": "Getty Images 你醒了过来，头痛欲裂。 接着，第二波恐惧袭来：一种低沉的、啃噬着你的恐惧，担心自己可能做了什么。 你翻看昨晚的讯息记录，笃定自己说错了什么话。 你会反复回想那些让你担心冒犯他人、让自己难堪，或是两者兼具的对话。 “那是一种挥之不去的恐惧感，”25岁的埃莉诺·托宾（Eleanor Tobin）向BBC说道，她在伦敦从事行销和活动策划工作。 她又说：“如果我一天的开始是检查我的物品清单——惊慌地检查我的包、手机是否…",
     "content": "Getty Images 你醒了过来，头痛欲裂。 接着，第二波恐惧袭来：一种低沉的、啃噬着你的恐惧，担心自己可能做了什么。 你翻看昨晚的讯息记录，笃定自己说错了什么话。 你会反复回想那些让你担心冒犯他人、让自己难堪，或是两者兼具的对话。 “那是一种挥之不去的恐惧感，”25岁的埃莉诺·托宾（Eleanor Tobin）向BBC说道，她在伦敦从事行销和活动策划工作。 她又说：“如果我一天的开始是检查我的物品清单——惊慌地检查我的包、手机是否带齐——我知道这种焦虑会渗透到我做的每一件事中，而不仅仅是重温前一晚发生的事情。…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261008-%E8%A7%A3%E6%94%BE%E6%8A%A5-%E5%8F%88%E4%B8%80%E5%90%8D%E5%8D%9A%E4%B8%BB%E5%A4%B1%E8%81%94%EF%BC%8C%E4%B8%AD%E5%9B%BD%E7%BB%A7%E7%BB%AD%E6%89%93%E5%8E%8B%E5%8A%B3%E5%B7%A5%E7%BB%84%E7%BB%87",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "解放报：又一名博主失联，中国继续打压劳工组织 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261008-%E8%A7%A3%E6%94%BE%E6%8A%A5-%E5%8F%88%E4%B8%80%E5%90%8D%E5%8D%9A%E4%B8%BB%E5%A4%B1%E8%81%94%EF%BC%8C%E4%B8%AD%E5%9B%BD%E7%BB%A7%E7%BB%AD%E6%89%93%E5%8E%8B%E5%8A%B3%E5%B7%A5%E7%BB%84%E7%BB%87",
-    "pub_date": "2026-10-08 18:45:04",
-    "author": "",
-    "description": "08/10/2026 - 12:36 《解放报》亚太版周三（10月7日）报道，中国博主冯睿（Feng Rui），网名«小五»（Xiao Wu），多年来一直在记录中国的劳工状况。在失联超过两周后，他的支持者团体确认他已被当局拘留。 报道开头写道，“小五在哪里？”自 9 月中期以来，这个疑问一直在网民中流传，大家都在担心这位中国劳工权益倡导者的安危。据其声援团体周三发布的公告显示，本名冯锐的这位博主已于 9 月 14 日在广州被警方以涉嫌“…",
-    "content": "08/10/2026 - 12:36 《解放报》亚太版周三（10月7日）报道，中国博主冯睿（Feng Rui），网名«小五»（Xiao Wu），多年来一直在记录中国的劳工状况。在失联超过两周后，他的支持者团体确认他已被当局拘留。 报道开头写道，“小五在哪里？”自 9 月中期以来，这个疑问一直在网民中流传，大家都在担心这位中国劳工权益倡导者的安危。据其声援团体周三发布的公告显示，本名冯锐的这位博主已于 9 月 14 日在广州被警方以涉嫌“寻衅滋事罪”刑事拘留。 冯睿化名在微信上运营着一个名为“恰帕斯东风台”（Chia…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261008-%E6%B3%B0%E5%9B%BD%E5%90%AF%E5%8A%A8%E9%92%88%E5%AF%B9%E4%B8%AD%E5%9B%BD%E8%91%97%E5%90%8D%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E7%99%BD%E5%85%86%E4%B8%9C%E7%9A%84%E5%BC%95%E6%B8%A1%E7%A8%8B%E5%BA%8F",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "泰国启动针对中国著名调查记者白兆东的引渡程序 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261008-%E6%B3%B0%E5%9B%BD%E5%90%AF%E5%8A%A8%E9%92%88%E5%AF%B9%E4%B8%AD%E5%9B%BD%E8%91%97%E5%90%8D%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E7%99%BD%E5%85%86%E4%B8%9C%E7%9A%84%E5%BC%95%E6%B8%A1%E7%A8%8B%E5%BA%8F",
-    "pub_date": "2026-10-08 18:45:03",
-    "author": "",
-    "description": "08/10/2026 - 12:40 据法新社报导，泰国当局周四（8日）启动了针对中国著名调查记者白兆东的引渡程序；该记者遭中方通缉，并已在泰国被拘留数月。 据无国界记者组织（RSF）称，56岁的白兆东曾在中国揭露政府腐败问题长达二十余年，后于2023年离开中国，以逃避“来自国家日益加剧的迫害”。 无国界记者表示，被联合国认定为难民的白兆东于2024年抵达泰国，并自今年1月起一直被拘留在该国。中国外交部发言人林剑曾在7月份表示，白兆东涉…",
-    "content": "08/10/2026 - 12:40 据法新社报导，泰国当局周四（8日）启动了针对中国著名调查记者白兆东的引渡程序；该记者遭中方通缉，并已在泰国被拘留数月。 据无国界记者组织（RSF）称，56岁的白兆东曾在中国揭露政府腐败问题长达二十余年，后于2023年离开中国，以逃避“来自国家日益加剧的迫害”。 无国界记者表示，被联合国认定为难民的白兆东于2024年抵达泰国，并自今年1月起一直被拘留在该国。中国外交部发言人林剑曾在7月份表示，白兆东涉嫌敲诈勒索和受贿，并称中方已向泰国提交了引渡请求。据无国界记者查看的泰国法院文件…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20261008-%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%96%BD%E6%B3%B0%E5%9B%A0%E8%BF%88%E5%B0%94%E6%8B%9F%E6%9C%AA%E6%9D%A5%E5%87%A0%E5%91%A8%E5%86%85%E8%AE%BF%E5%8D%8E-%E6%B3%95%E6%80%BB%E7%BB%9F%E5%A4%96%E4%BA%8B%E9%A1%BE%E9%97%AE%E5%8D%9A%E7%BA%B3%E5%B0%86%E5%9C%A8%E5%8D%8E%E4%BC%9A%E7%8E%8B%E6%AF%85",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "德国总统施泰因迈尔拟未来几周内访华 法总统外事顾问博纳将在华会王毅 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20261008-%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%96%BD%E6%B3%B0%E5%9B%A0%E8%BF%88%E5%B0%94%E6%8B%9F%E6%9C%AA%E6%9D%A5%E5%87%A0%E5%91%A8%E5%86%85%E8%AE%BF%E5%8D%8E-%E6%B3%95%E6%80%BB%E7%BB%9F%E5%A4%96%E4%BA%8B%E9%A1%BE%E9%97%AE%E5%8D%9A%E7%BA%B3%E5%B0%86%E5%9C%A8%E5%8D%8E%E4%BC%9A%E7%8E%8B%E6%AF%85",
-    "pub_date": "2026-10-08 18:45:03",
-    "author": "",
-    "description": "08/10/2026 - 12:05 据《南华早报》援引知情人士报导称，尽管德中两国因贸易问题导致关系紧张，德国总统施泰因迈尔（Frank-Walter Steinmeier）仍计划在未来几周内访问中国。这将是施泰因迈尔自2018年以来首次正式访华。他曾任德国外长，其长达10年的总统任期将于明年3月结束。此次访问将与德国总理默茨（Friedrich Merz）本月对日本和韩国的访问在时间上重合。 德国总统是国家元首，而政治权力主要掌握在…",
-    "content": "08/10/2026 - 12:05 据《南华早报》援引知情人士报导称，尽管德中两国因贸易问题导致关系紧张，德国总统施泰因迈尔（Frank-Walter Steinmeier）仍计划在未来几周内访问中国。这将是施泰因迈尔自2018年以来首次正式访华。他曾任德国外长，其长达10年的总统任期将于明年3月结束。此次访问将与德国总理默茨（Friedrich Merz）本月对日本和韩国的访问在时间上重合。 德国总统是国家元首，而政治权力主要掌握在总理领导的政府手中，这使得施泰因迈尔的职位在很大程度上具有象征意义。不过，总统在…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cqlymyyze8mjo/simp?at_medium=RSS&at_campaign=rss",
@@ -352,50 +440,6 @@ const jsonData = [
     "content": "高雨莘 2026年10月8日 Matt Rota For years, the mood in China has been darkening. 多年来，中国的社会情绪日益沉郁。 A weakening economy has left many disillusioned, a state of mind expressed privately and across the heavily controlled internet in lowered expectations and quiet anxiety…"
   },
   {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261008/california-child-abuse-surrogate/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "中国移民夫妇在加州被控虐待十余名代孕子女",
-    "link": "https://cn.nytimes.com/usa/20261008/california-child-abuse-surrogate/dual",
-    "pub_date": "2026-10-08 12:06:04",
-    "author": "",
-    "description": "AMY QIN, SOUMYA KARLAMANGLA, LAUREN HERSTIK2026年10月8日 A Southern California couple were arrested and charged on Tuesday with crimes related to the abuse of 15 of their children, nearly all of whom were born to surrogate …",
-    "content": "AMY QIN, SOUMYA KARLAMANGLA, LAUREN HERSTIK 2026年10月8日 A Southern California couple were arrested and charged on Tuesday with crimes related to the abuse of 15 of their children, nearly all of whom were born to surrogate mothers, prosecutors said. 检察官表示，南加州一对夫…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261008/russia-plague-fears-what-to-know/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "俄罗斯暴发了鼠疫吗？这里是我们了解到的信息",
-    "link": "https://cn.nytimes.com/world/20261008/russia-plague-fears-what-to-know/dual",
-    "pub_date": "2026-10-08 12:06:04",
-    "author": "",
-    "description": "《纽约时报》2026年10月8日一名安保人员站在俄罗斯谢列霍夫镇一家传染病医院的门口向外张望，该镇的伊尔库茨克抗鼠疫研究所一名员工在此去世。 Tatyana Makeyeva/Agence France-Presse — Getty Images Is there an outbreak of plague in Russia? 俄罗斯是否暴发了鼠疫？ The short answer: We don’t know. The sligh…",
-    "content": "《纽约时报》 2026年10月8日 一名安保人员站在俄罗斯谢列霍夫镇一家传染病医院的门口向外张望，该镇的伊尔库茨克抗鼠疫研究所一名员工在此去世。 Tatyana Makeyeva/Agence France-Presse — Getty Images Is there an outbreak of plague in Russia? 俄罗斯是否暴发了鼠疫？ The short answer: We don’t know. The slightly longer answer: A woman who works i…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261008/china-exports-currency/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "人民币疲软与出口退税：中国出口繁荣背后的两大政策",
-    "link": "https://cn.nytimes.com/business/20261008/china-exports-currency/dual",
-    "pub_date": "2026-10-08 11:06:03",
-    "author": "",
-    "description": "KEITH BRADSHER2026年10月8日去年，广州一处服装制造区的工人们。 Qilai Shen for The New York Times China has kept its export engine roaring with a combination of tax rebates and a weak currency, helping sustain economic growth at home while se…",
-    "content": "KEITH BRADSHER 2026年10月8日 去年，广州一处服装制造区的工人们。 Qilai Shen for The New York Times China has kept its export engine roaring with a combination of tax rebates and a weak currency, helping sustain economic growth at home while sending a surge of Chinese goods into ma…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261008/china-europe-trade-manufacturing/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "中国的“自力更生”战略正在颠覆中欧贸易格局",
-    "link": "https://cn.nytimes.com/business/20261008/china-europe-trade-manufacturing/dual",
-    "pub_date": "2026-10-08 10:36:02",
-    "author": "",
-    "description": "黄瑞黎2026年10月8日去年在慕尼黑车展上，中国最大电动汽车制造商比亚迪的一款汽车。 Felix Schmitt for The New York Times To understand Europe’s growing alarm over its trade deficit with China, consider a striking statistic: China now sends six containers of go…",
-    "content": "黄瑞黎 2026年10月8日 去年在慕尼黑车展上，中国最大电动汽车制造商比亚迪的一款汽车。 Felix Schmitt for The New York Times To understand Europe’s growing alarm over its trade deficit with China, consider a striking statistic: China now sends six containers of goods to Europe for every one it gets ba…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c69wzrwr2z1eo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -405,28 +449,6 @@ const jsonData = [
     "author": "",
     "description": "BBC/Getty Images 我们都听说过北极（North Pole），那是一片冰封世界，有海冰、北极熊、北极光（Northern Lights）和午夜太阳。 但你知道吗？其实北极并不是一个很容易界定的概念，而且北极还不只一个。 事实上，按照英国探险家兼气候科学家费莉西蒂·阿斯顿（Felicity Aston）的说法，“地球上可以说有很多个北极”。 她在BBC播客《无限猴笼》（The Infinite Monkey Cage）中表示…",
     "content": "BBC/Getty Images 我们都听说过北极（North Pole），那是一片冰封世界，有海冰、北极熊、北极光（Northern Lights）和午夜太阳。 但你知道吗？其实北极并不是一个很容易界定的概念，而且北极还不只一个。 事实上，按照英国探险家兼气候科学家费莉西蒂·阿斯顿（Felicity Aston）的说法，“地球上可以说有很多个北极”。 她在BBC播客《无限猴笼》（The Infinite Monkey Cage）中表示：“无论以任何定义来看，两个绝对称得上北极的地方，就是磁北极（magnetic …"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20260929/jonathan-mckinsey-new-york-times-shooting-california/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "一对湾区夫妇被控枪杀跨性别女婿",
-    "link": "https://cn.nytimes.com/usa/20260929/jonathan-mckinsey-new-york-times-shooting-california/dual",
-    "pub_date": "2026-10-08 09:36:02",
-    "author": "",
-    "description": "SOUMYA KARLAMANGLA, AMY QIN2026年9月29日40岁的乔纳森·麦金西周六被发现死于一个停车场，身中数枪。停车场位于加州都柏林的都柏林体育场，这是一座体育综合设施和游乐场。 via LinkedIn A Bay Area couple have been accused of shooting and killing their son-in-law in a suburban sports park on S…",
-    "content": "SOUMYA KARLAMANGLA, AMY QIN 2026年9月29日 40岁的乔纳森·麦金西周六被发现死于一个停车场，身中数枪。停车场位于加州都柏林的都柏林体育场，这是一座体育综合设施和游乐场。 via LinkedIn A Bay Area couple have been accused of shooting and killing their son-in-law in a suburban sports park on Saturday afternoon, the local police sa…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cwvgdlgq3110o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "派拉蒙合併華納兄弟：可能以四種方式影響你的生活",
-    "link": "https://www.bbc.com/zhongwen/articles/cwvgdlgq3110o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-08 09:10:42",
-    "author": "",
-    "description": "历时数月，派拉蒙天空之舞（Paramount Skydance）终于完成了与华纳兄弟探索公司（Warner Bros Discovery）总额1100亿美元（828亿英镑）的合并。 这笔交易将两家老牌好莱坞巨头合为一体，把《哈利·波特》（Harry Potter）和《权力的游戏》（Game of Thrones）等系列作品聚到一起，组成一个名为天空之舞（Skydance）的娱乐巨头。 然而，在这一里程碑背后，是对合并后企业可以做什么、不…",
-    "content": "历时数月，派拉蒙天空之舞（Paramount Skydance）终于完成了与华纳兄弟探索公司（Warner Bros Discovery）总额1100亿美元（828亿英镑）的合并。 这笔交易将两家老牌好莱坞巨头合为一体，把《哈利·波特》（Harry Potter）和《权力的游戏》（Game of Thrones）等系列作品聚到一起，组成一个名为天空之舞（Skydance）的娱乐巨头。 然而，在这一里程碑背后，是对合并后企业可以做什么、不可以做什么的严格规定，从每年必须制作多少部电影，到旗下新闻编辑部的编辑独立性。 …"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cq5ynx00d4leo/simp?at_medium=RSS&at_campaign=rss",
@@ -605,17 +627,6 @@ const jsonData = [
     "content": "BBC 在巴塞隆拿的街头，火红与金色相间的中国龙（里面的人想必热得满身大汗）在欢欣的人群中穿梭起舞。来自中国的杂技演员则透过翻滚、抛接和高高掷起球形灯笼，引来阵阵惊叹。仿佛施了魔法一般，灯笼内的蜡烛始终保持直立。 上海本周创下历史，成为首个获邀担任“巴塞隆拿慈悲圣母节”主宾城市的亚洲大都市。这个著名文化节庆以热闹喧腾见称，其大型街头巡游主要用来展现流传数百年的加泰隆尼亚传统。 因此，眼前的景象格外难得：身穿天鹅绒服饰的加泰隆尼亚风笛手，摇曳生姿地走过巴塞隆拿的主要林荫大道。他们奏出的中世纪旋律，与伴随一群群中国表演…"
   },
   {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cmz9z9e4247vo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "中國開始打擊AI戀愛關係，是過度干預還是先見之明？",
-    "link": "https://www.bbc.com/zhongwen/articles/cmz9z9e4247vo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-01 16:12:13",
-    "author": "",
-    "description": "BBC 2024年初，中国东南部城市黄石的一名年轻男子，据报在中国版TikTok“抖音”上发布了一则讯息，标题写道：“告别这个世界”。 短短几分钟内，抖音的自杀预防团队便启动应对机制。这支全天24小时运作的团队，将该男子发布的内容分享给黄石市五个派出所。 警方透过地理定位，确认他其中一段影片拍摄于当地一个公园后，找到当时情绪极度低落的他，并阻止了他自杀。 这个故事出自抖音制作、并于去年在中国官方媒体发布的一部纪录片。纪录片称，仅在202…",
-    "content": "BBC 2024年初，中国东南部城市黄石的一名年轻男子，据报在中国版TikTok“抖音”上发布了一则讯息，标题写道：“告别这个世界”。 短短几分钟内，抖音的自杀预防团队便启动应对机制。这支全天24小时运作的团队，将该男子发布的内容分享给黄石市五个派出所。 警方透过地理定位，确认他其中一段影片拍摄于当地一个公园后，找到当时情绪极度低落的他，并阻止了他自杀。 这个故事出自抖音制作、并于去年在中国官方媒体发布的一部纪录片。纪录片称，仅在2025年上半年，抖音的自杀预防团队便成功介入了400宗企图自杀个案。 这让外界得以一…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/ck3rerpdp7x9o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -625,17 +636,6 @@ const jsonData = [
     "author": "",
     "description": "Reuters 一架从阿联酋杜拜飞往以色列的客机上，在9月30日发生企图空中劫机事件。其中一名机师刺伤另一名副机师后，机上乘客在机人员协助下闯进驾驶舱并合力制伏施袭者，目击画面记录了惊险的瞬间。 涉事客机属于“杜拜航空”（Flydubai），当时正从杜拜飞往以色列，事发后一度失控骤降约1.5万英尺。乘客描述称，涉事机师似乎企图让飞机坠毁。 客机随后发出求救讯号，触发重大安全警报，以色列紧急出动战机拦截该航班。最终，机上其他机制接手操控飞…",
     "content": "Reuters 一架从阿联酋杜拜飞往以色列的客机上，在9月30日发生企图空中劫机事件。其中一名机师刺伤另一名副机师后，机上乘客在机人员协助下闯进驾驶舱并合力制伏施袭者，目击画面记录了惊险的瞬间。 涉事客机属于“杜拜航空”（Flydubai），当时正从杜拜飞往以色列，事发后一度失控骤降约1.5万英尺。乘客描述称，涉事机师似乎企图让飞机坠毁。 客机随后发出求救讯号，触发重大安全警报，以色列紧急出动战机拦截该航班。最终，机上其他机制接手操控飞机，紧急降落于沙特阿拉伯，涉嫌施袭的机师被逮捕。 以色列即将举行大选，当局尚未透…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/crz9zd51289jo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "貓眼如何啟發機器人的照相機技術發展",
-    "link": "https://www.bbc.com/zhongwen/articles/crz9zd51289jo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-09-30 12:54:09",
-    "author": "",
-    "description": "iStock / 猫眼为何会在黑暗中“发光”？ 珀西·肖（Percy Shaw）于1933年一个大雾瀰漫的夜晚驾车回家时，路边出现一道光，令他猛然停下。 传说那是一只猫，其眼睛反射了汽车头灯的光线，并将光直接反射回他眼中。 珀西的外甥孙女格伦达·肖（Glenda Shaw）在2022年接受BBC《见证历史》（Witness History）播客访问时表示：“这就是其中一种偶然事件。他看到某样反射光的东西，促使他停了下来，而当他仔细查看时…",
-    "content": "iStock / 猫眼为何会在黑暗中“发光”？ 珀西·肖（Percy Shaw）于1933年一个大雾瀰漫的夜晚驾车回家时，路边出现一道光，令他猛然停下。 传说那是一只猫，其眼睛反射了汽车头灯的光线，并将光直接反射回他眼中。 珀西的外甥孙女格伦达·肖（Glenda Shaw）在2022年接受BBC《见证历史》（Witness History）播客访问时表示：“这就是其中一种偶然事件。他看到某样反射光的东西，促使他停了下来，而当他仔细查看时，才意识到自己正处于错误的行车道上。如果他继续直行，就会坠落悬崖。” 那一刻不仅…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cm5ye14v6n8xo/simp?at_medium=RSS&at_campaign=rss",
