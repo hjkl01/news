@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-10-09T12:20:35.548Z",
-  "ended_at": "2026-10-09T12:20:35.724Z",
-  "duration_ms": 176,
+  "started_at": "2026-10-10T02:01:37.936Z",
+  "ended_at": "2026-10-10T02:01:38.089Z",
+  "duration_ms": 153,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -21,8 +21,8 @@
     "failed_sources": 13,
     "circuit_open_sources": 13,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1357,
-    "total_items_after_retention": 1155,
+    "total_items_after_dedupe": 1342,
+    "total_items_after_retention": 1130,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -88,15 +88,15 @@
       "skippedByCircuit": true
     },
     {
-      "title": "FreeBuf 关注黑客",
-      "url": "https://plink.anyfeeder.com/freebuf",
-      "reason": "HTTP 405",
+      "title": "极客公园",
+      "url": "https://www.geekpark.net/rss",
+      "reason": "The operation was aborted.",
       "skippedByCircuit": true
     },
     {
-      "title": "Epic Game",
-      "url": "https://www.epicbundle.com/feed/",
-      "reason": "Unexpected close tag\nLine: 92\nColumn: 7\nChar: >",
+      "title": "FreeBuf 关注黑客",
+      "url": "https://plink.anyfeeder.com/freebuf",
+      "reason": "HTTP 405",
       "skippedByCircuit": true
     },
     {
@@ -158,14 +158,14 @@
       "reason": "HTTP 403"
     },
     {
+      "title": "极客公园",
+      "url": "https://www.geekpark.net/rss",
+      "reason": "The operation was aborted."
+    },
+    {
       "title": "FreeBuf 关注黑客",
       "url": "https://plink.anyfeeder.com/freebuf",
       "reason": "HTTP 405"
-    },
-    {
-      "title": "Epic Game",
-      "url": "https://www.epicbundle.com/feed/",
-      "reason": "Unexpected close tag\nLine: 92\nColumn: 7\nChar: >"
     },
     {
       "title": "微博 / 热搜榜",
