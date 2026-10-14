@@ -1,5 +1,192 @@
 const jsonData = [
   {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261014-%E4%BF%84%E7%BD%97%E6%96%AF%E7%A9%BA%E8%A2%AD%E4%B9%8C%E5%85%8B%E5%85%B0%E8%83%BD%E6%BA%90%E8%AE%BE%E6%96%BD-%E8%87%B3%E5%B0%916%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "俄罗斯空袭乌克兰能源设施 至少6人死亡 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261014-%E4%BF%84%E7%BD%97%E6%96%AF%E7%A9%BA%E8%A2%AD%E4%B9%8C%E5%85%8B%E5%85%B0%E8%83%BD%E6%BA%90%E8%AE%BE%E6%96%BD-%E8%87%B3%E5%B0%916%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+    "pub_date": "2026-10-14 17:15:02",
+    "author": "",
+    "description": "14/10/2026 - 11:05 据基辅当局称，俄罗斯周二晚间对乌克兰的空袭造成至少6人死亡，空袭目标是能源基础设施，，且导致基辅多个街区停电。泽连斯基称，这是对美国提出的“能源停火”的蔑视。 法新社报道，过去两周，俄罗斯军方恢复了对乌克兰能源基础设施的轰炸行动，导致大范围停电，并引发民众对又一个严冬的担忧。 据地区官员称，周二晚间，首都基辅有3人死亡，中部第聂伯罗彼得罗夫斯克州有2人死亡，东南部扎波罗热州有1名居民死亡。基辅市长维…",
+    "content": "14/10/2026 - 11:05 据基辅当局称，俄罗斯周二晚间对乌克兰的空袭造成至少6人死亡，空袭目标是能源基础设施，，且导致基辅多个街区停电。泽连斯基称，这是对美国提出的“能源停火”的蔑视。 法新社报道，过去两周，俄罗斯军方恢复了对乌克兰能源基础设施的轰炸行动，导致大范围停电，并引发民众对又一个严冬的担忧。 据地区官员称，周二晚间，首都基辅有3人死亡，中部第聂伯罗彼得罗夫斯克州有2人死亡，东南部扎波罗热州有1名居民死亡。基辅市长维塔利·克利奇科在社交平台Telegram上写道：“基辅及其周边地区的能源设施遭到…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cwm235qpgrrdo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "從今以後，不擇手段？普京新策略要讓烏克蘭全國片瓦無存",
+    "link": "https://www.bbc.com/zhongwen/articles/cwm235qpgrrdo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-10-14 17:09:43",
+    "author": "",
+    "description": "Getty Images/BBC 乌克兰局势正发生惊人逆转：身处前线的士兵如今会打电话回首都基辅（Kyiv）家中，询问家人是否安全。 居住在基辅的彼得·迪金森（Peter Dickinson）向BBC国际部（BBC World Service）表示：“现在人们谈论基辅时，会说它是一座前线城市。” “基本上，现在它和那些地理位置正处于战线上的城市一样危险，甚至可能更危险。” 俄罗斯近数星期加强以导弹和无人机袭击乌克兰首都及其他主要城市，攻…",
+    "content": "Getty Images/BBC 乌克兰局势正发生惊人逆转：身处前线的士兵如今会打电话回首都基辅（Kyiv）家中，询问家人是否安全。 居住在基辅的彼得·迪金森（Peter Dickinson）向BBC国际部（BBC World Service）表示：“现在人们谈论基辅时，会说它是一座前线城市。” “基本上，现在它和那些地理位置正处于战线上的城市一样危险，甚至可能更危险。” 俄罗斯近数星期加强以导弹和无人机袭击乌克兰首都及其他主要城市，攻击民用目标，包括学校、医院、酒店、数据中心、列车和桥梁。 例如在9月30日，无人…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261014-%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%AE%BF%E9%97%AE%E4%BF%84%E7%BD%97%E6%96%AF%E5%8D%A0%E6%8D%AE%E7%9A%84%E6%8B%A9%E6%8D%89%E5%B2%9B-%E6%97%A5%E5%A4%96%E7%9B%B8%E8%A1%A8%E7%A4%BA%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "黑龙江代表团访问俄罗斯占据的择捉岛 日外相表示无法接受 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261014-%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%AE%BF%E9%97%AE%E4%BF%84%E7%BD%97%E6%96%AF%E5%8D%A0%E6%8D%AE%E7%9A%84%E6%8B%A9%E6%8D%89%E5%B2%9B-%E6%97%A5%E5%A4%96%E7%9B%B8%E8%A1%A8%E7%A4%BA%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97",
+    "pub_date": "2026-10-14 16:45:03",
+    "author": "",
+    "description": "14/10/2026 - 10:19 日本外相茂木敏充14日在众议院预算委员会上就中国黑龙江省考察团访问择捉岛一事表示，对于第三国进入北方四岛并开展活动、仿佛北方四岛属于俄罗斯领土一样的行为，日本绝对无法接受，日本首相高市早苗13日晚对记者谈及中国代表团的访问时表示：目前正在确认事实。我们将适时作出妥善应对。” 由中国黑龙江省的企业家及行政官员组成的代表团于 2026 年 10 月 9 日至 11 日访问了俄罗斯远东萨哈林州实际控制的择…",
+    "content": "14/10/2026 - 10:19 日本外相茂木敏充14日在众议院预算委员会上就中国黑龙江省考察团访问择捉岛一事表示，对于第三国进入北方四岛并开展活动、仿佛北方四岛属于俄罗斯领土一样的行为，日本绝对无法接受，日本首相高市早苗13日晚对记者谈及中国代表团的访问时表示：目前正在确认事实。我们将适时作出妥善应对。” 由中国黑龙江省的企业家及行政官员组成的代表团于 2026 年 10 月 9 日至 11 日访问了俄罗斯远东萨哈林州实际控制的择捉岛。 据俄罗斯媒体报道，作为招商引资考察活动的一部分，代表团成员包括曾进口俄罗…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261014-%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%89%E4%B8%BE%E9%80%A0%E5%8A%BF%E5%AE%A3%E5%B8%83%E5%8F%B0%E6%B9%BE%E5%90%8C%E6%84%8F%E8%B4%AD%E4%B9%B0%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A030%EF%BC%85%E5%A4%A9%E7%84%B6%E6%B0%94%E5%B9%B6%E6%8A%95%E8%B5%8444%E4%BA%BF%E7%BE%8E%E5%85%83",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "特朗普选举造势宣布台湾同意购买阿拉斯加30％天然气并投资44亿美元 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261014-%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%89%E4%B8%BE%E9%80%A0%E5%8A%BF%E5%AE%A3%E5%B8%83%E5%8F%B0%E6%B9%BE%E5%90%8C%E6%84%8F%E8%B4%AD%E4%B9%B0%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A030%EF%BC%85%E5%A4%A9%E7%84%B6%E6%B0%94%E5%B9%B6%E6%8A%95%E8%B5%8444%E4%BA%BF%E7%BE%8E%E5%85%83",
+    "pub_date": "2026-10-14 16:45:02",
+    "author": "",
+    "description": "14/10/2026 - 10:36 美国总统特朗普13日在阿拉斯加州一场造势大会中，宣称台湾已同意在未来20年内采购阿拉斯加天然气管线开发计画中30%的天然气，并将额外投资44亿美元。台湾经济部表示，合作方向还包括开采后每年采购600万吨阿拉斯加液化天然气。 根据《路透社》报导，美国总统特朗普13日在阿拉斯加州一场造势大会中，宣称台湾已同意在未来20年内，采购阿拉斯加天然气管线开发计画中30%的天然气，并将额外投资44亿美元。台湾的投…",
+    "content": "14/10/2026 - 10:36 美国总统特朗普13日在阿拉斯加州一场造势大会中，宣称台湾已同意在未来20年内采购阿拉斯加天然气管线开发计画中30%的天然气，并将额外投资44亿美元。台湾经济部表示，合作方向还包括开采后每年采购600万吨阿拉斯加液化天然气。 根据《路透社》报导，美国总统特朗普13日在阿拉斯加州一场造势大会中，宣称台湾已同意在未来20年内，采购阿拉斯加天然气管线开发计画中30%的天然气，并将额外投资44亿美元。台湾的投资将建立在南韩承诺投入的500亿美元之上，是历来规模最大的承诺及交易之一。特朗普…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cmqln6xl303no/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "「我會跟電視說話」：中國這些孤獨的人付錢感受溫暖",
+    "link": "https://www.bbc.com/zhongwen/articles/cmqln6xl303no/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-10-14 16:42:17",
+    "author": "",
+    "description": "BBC / 观看：为什么中国孤独的人会雇用“临时孩子”？（英语影片） “最大的困难真是寂寞。有的时候想说话，所以我就跟电视说哈。” 91岁的杨女士居住在中国繁华的首都北京郊区。丈夫过世后，她感到非常孤独，甚至考虑过安乐死。 “我问过儿子，但他告诉我这是犯法的。我告诉他，如果有一天合法了，我想去做——我不想活了。” 由于患有青光眼，视力逐渐衰退，她甚至无法完成调节空调控制等基本操作。 BBC / 91岁的杨女士患有青光眼，视力逐渐衰退，她…",
+    "content": "BBC / 观看：为什么中国孤独的人会雇用“临时孩子”？（英语影片） “最大的困难真是寂寞。有的时候想说话，所以我就跟电视说哈。” 91岁的杨女士居住在中国繁华的首都北京郊区。丈夫过世后，她感到非常孤独，甚至考虑过安乐死。 “我问过儿子，但他告诉我这是犯法的。我告诉他，如果有一天合法了，我想去做——我不想活了。” 由于患有青光眼，视力逐渐衰退，她甚至无法完成调节空调控制等基本操作。 BBC / 91岁的杨女士患有青光眼，视力逐渐衰退，她发现自己越来越难以独自完成简单的任务和日常生活。 像杨女士这样的案例在中国城市变…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261014-%E4%B8%A4%E4%B8%AD%E8%B5%84%E7%96%91ipo%E9%80%A0%E5%B8%82%E5%8F%97%E6%9F%A5-%E6%B8%AF%E8%AF%81%E7%9B%91%E4%BC%9A%E5%86%BB%E7%BB%93%E9%80%BE46%E4%BA%BF%E8%B5%84%E4%BA%A7-%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%AB%98%E9%A2%9D",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "两中资疑IPO造市受查 港证监会冻结逾46亿资产 史上最高额 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261014-%E4%B8%A4%E4%B8%AD%E8%B5%84%E7%96%91ipo%E9%80%A0%E5%B8%82%E5%8F%97%E6%9F%A5-%E6%B8%AF%E8%AF%81%E7%9B%91%E4%BC%9A%E5%86%BB%E7%BB%93%E9%80%BE46%E4%BA%BF%E8%B5%84%E4%BA%A7-%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%AB%98%E9%A2%9D",
+    "pub_date": "2026-10-14 16:15:03",
+    "author": "",
+    "description": "14/10/2026 - 09:50 曾多次拿下全球新股上市(IPO)集资金额年度冠军的香港，监管证券市场的法定机构昨(13日)重磅出击，调查两大怀疑以欺诈的「造市」手段操纵 IPO 的集团，并冻结集团大批客户资金共 46.7 亿港元(下同，折合约5.3亿欧元)，金额打破历来纪录。 香港证券及期货事务监察委员会（证监会）昨在开市前便勒令涉事的四川百茶百道实业股份有限公司(茶百道)停牌，是该会不足两个月内第三次运用法家权力勒令上市公司停牌…",
+    "content": "14/10/2026 - 09:50 曾多次拿下全球新股上市(IPO)集资金额年度冠军的香港，监管证券市场的法定机构昨(13日)重磅出击，调查两大怀疑以欺诈的「造市」手段操纵 IPO 的集团，并冻结集团大批客户资金共 46.7 亿港元(下同，折合约5.3亿欧元)，金额打破历来纪录。 香港证券及期货事务监察委员会（证监会）昨在开市前便勒令涉事的四川百茶百道实业股份有限公司(茶百道)停牌，是该会不足两个月内第三次运用法家权力勒令上市公司停牌。同日收市时，该会公布，对涉嫌参与「茶百道」和天聚地合（苏州）科技股份有限公司（…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261014-%E9%A6%99%E6%B8%AF%E9%A6%96%E5%8A%9Eapec%E8%B4%A2%E9%95%BF%E4%BC%9A%E8%AE%AE-%E5%85%B3%E7%B3%BB%E7%B4%A7%E5%BC%A0%E4%B8%8B%E4%B8%A4%E5%B2%B8%E8%B4%A2%E9%95%BF%E5%90%8C%E5%8F%B0%E5%85%B1%E5%95%86%E9%87%91%E8%9E%8D%E6%94%BF%E7%AD%96",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "香港首办APEC财长会议 关系紧张下两岸财长同台共商金融政策 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261014-%E9%A6%99%E6%B8%AF%E9%A6%96%E5%8A%9Eapec%E8%B4%A2%E9%95%BF%E4%BC%9A%E8%AE%AE-%E5%85%B3%E7%B3%BB%E7%B4%A7%E5%BC%A0%E4%B8%8B%E4%B8%A4%E5%B2%B8%E8%B4%A2%E9%95%BF%E5%90%8C%E5%8F%B0%E5%85%B1%E5%95%86%E9%87%91%E8%9E%8D%E6%94%BF%E7%AD%96",
+    "pub_date": "2026-10-14 16:15:02",
+    "author": "",
+    "description": "14/10/2026 - 10:04 首次在香港举行的亚太经济合作组织(APEC)财长会议下周二(20日)起一连两日召开，中国财政部长蓝佛安将主持会议，而台湾财长庄翠筠亦会来港出席，意味两岸财长会在中国军事威吓台湾日盛的情况下共商金融政策。至於谁将以特使身份代表台湾出席领导人峰会则未有定案。 中国财政部今(14日)早公布，蓝佛安将率领中国代表团出席并主持会议。21个APEC经济体的财长或代表丶有关国际组织负责人和伙伴方高级代表将出席会议…",
+    "content": "14/10/2026 - 10:04 首次在香港举行的亚太经济合作组织(APEC)财长会议下周二(20日)起一连两日召开，中国财政部长蓝佛安将主持会议，而台湾财长庄翠筠亦会来港出席，意味两岸财长会在中国军事威吓台湾日盛的情况下共商金融政策。至於谁将以特使身份代表台湾出席领导人峰会则未有定案。 中国财政部今(14日)早公布，蓝佛安将率领中国代表团出席并主持会议。21个APEC经济体的财长或代表丶有关国际组织负责人和伙伴方高级代表将出席会议，届时，副财政部长廖岷会代表中方发言。 会议重点讨论四项议题，包括支持民生发展的…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/culture/20261014/ashley-st-clair-interview-elon-musk/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "拒绝4000万美元保密协议，她讲述马斯克的“真相”",
+    "link": "https://cn.nytimes.com/culture/20261014/ashley-st-clair-interview-elon-musk/dual",
+    "pub_date": "2026-10-14 14:36:04",
+    "author": "",
+    "description": "CORALIE KRAFT2026年10月14日 Ashley St. Clair is sick of people asking her the same questions about Elon Musk. “People treat me like I’m some Elon psychoanalyst,” she said during a visit to The New York Times in September. “…",
+    "content": "CORALIE KRAFT 2026年10月14日 Ashley St. Clair is sick of people asking her the same questions about Elon Musk. “People treat me like I’m some Elon psychoanalyst,” she said during a visit to The New York Times in September. “They want to know, ‘What’s it like to h…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261014/guilfoyle-fall/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "从特朗普“准儿媳”到被解职的美国驻希腊大使",
+    "link": "https://cn.nytimes.com/usa/20261014/guilfoyle-fall/dual",
+    "pub_date": "2026-10-14 13:06:03",
+    "author": "",
+    "description": "ELISABETH BUMILLER2026年10月14日 It started out so well for her. 起初，她的一切都那么顺利。 Kimberly Guilfoyle, the U.S. ambassador to Greece until she was effectively fired on live television on Tuesday when the new White House press s…",
+    "content": "ELISABETH BUMILLER 2026年10月14日 It started out so well for her. 起初，她的一切都那么顺利。 Kimberly Guilfoyle, the U.S. ambassador to Greece until she was effectively fired on live television on Tuesday when the new White House press secretary said that President Trump had …"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/crpdgz701dyzo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "梵蒂岡證實教宗患上肺腺癌，但手術成功",
+    "link": "https://www.bbc.com/zhongwen/articles/crpdgz701dyzo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-10-14 12:37:43",
+    "author": "",
+    "description": "Reuters / 教宗良十四世周二抵达罗马杰梅里医院，准备接受手术。 梵蒂冈在一份医疗公告中表示，罗马天主教教宗良十四世（Pope Leo XIV）被诊断出患有肺癌，但已成功接受手术，切除了右肺下叶。 71岁的教宗周二（10月13日）在罗马杰梅里医院杰梅里医院（Gemelli Hospital）接受了90分钟的手术，随后被诊断出患有肺腺癌。 梵蒂冈方面表示：“手术很成功，没有出现并发症。”声明还补充说：“术后教宗正常甦醒，短暂观察后返…",
+    "content": "Reuters / 教宗良十四世周二抵达罗马杰梅里医院，准备接受手术。 梵蒂冈在一份医疗公告中表示，罗马天主教教宗良十四世（Pope Leo XIV）被诊断出患有肺癌，但已成功接受手术，切除了右肺下叶。 71岁的教宗周二（10月13日）在罗马杰梅里医院杰梅里医院（Gemelli Hospital）接受了90分钟的手术，随后被诊断出患有肺腺癌。 梵蒂冈方面表示：“手术很成功，没有出现并发症。”声明还补充说：“术后教宗正常甦醒，短暂观察后返回房间。” 梵蒂冈方面称，肿块是在“例行检查”中首次发现。教宗预计将在医院留医一…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261014-%E5%9B%BD%E4%B8%BA%E4%BD%95%E6%84%BF%E6%84%8F%E5%B0%B1%E6%B7%B7%E5%90%88%E5%8A%A8%E5%8A%9B%E6%B1%BD%E8%BD%A6-%E9%99%90%E5%88%B6%E8%87%AA%E5%B7%B1%E5%AF%B9%E6%AC%A7%E6%B4%B2%E7%9A%84%E5%87%BA%E5%8F%A3",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "中国为何愿意就混合动力汽车 限制对欧洲的出口？ - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261014-%E5%9B%BD%E4%B8%BA%E4%BD%95%E6%84%BF%E6%84%8F%E5%B0%B1%E6%B7%B7%E5%90%88%E5%8A%A8%E5%8A%9B%E6%B1%BD%E8%BD%A6-%E9%99%90%E5%88%B6%E8%87%AA%E5%B7%B1%E5%AF%B9%E6%AC%A7%E6%B4%B2%E7%9A%84%E5%87%BA%E5%8F%A3",
+    "pub_date": "2026-10-14 11:45:03",
+    "author": "",
+    "description": "14/10/2026 - 05:34 中国承诺将对欧盟的混合动力汽车出口削减一半以上。这一政策转变的原因在于双方汽车产业都面临困境，而大规模贸易战的阴影也已笼罩数月之久。那么，中国为何愿意就混合动力汽车，来限制自己对欧洲的出口呢？ 10 月 9 日的星期五，欧盟贸易专员马罗斯·谢夫乔维奇结束了对北京的外交访问，并达成了他此行的目的：与欧盟中央政府就向欧洲大陆出口混合动力汽车达成协议。 终于，北京和布鲁塞尔就混合动力汽车达成协议： 在被视…",
+    "content": "14/10/2026 - 05:34 中国承诺将对欧盟的混合动力汽车出口削减一半以上。这一政策转变的原因在于双方汽车产业都面临困境，而大规模贸易战的阴影也已笼罩数月之久。那么，中国为何愿意就混合动力汽车，来限制自己对欧洲的出口呢？ 10 月 9 日的星期五，欧盟贸易专员马罗斯·谢夫乔维奇结束了对北京的外交访问，并达成了他此行的目的：与欧盟中央政府就向欧洲大陆出口混合动力汽车达成协议。 终于，北京和布鲁塞尔就混合动力汽车达成协议： 在被视为最后对话机会的两天后，中国确实承诺减少对欧洲的混合动力汽车出口。计划在四年内将…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c3n07pkpk5ggo/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "台灣選舉解讀：「北藍南綠」的政治版圖是否「鐵板一塊」？",
+    "link": "https://www.bbc.com/zhongwen/articles/c3n07pkpk5ggo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-10-14 11:36:37",
+    "author": "",
+    "description": "Reuters / 台北市长期被视为国民党的重要票仓，国民党籍市长蒋万安于2022年当选台北市长，今年将争取连任。 台湾将于11月底举行地方选举，选出直辖市长、县市长及县市议员。 蓝绿两大政党在地方执政版图的消长备受关注。一般认为，国民党的核心支持者较集中于北部地区，民进党则在南部具有较深厚的支持基础。 然而，在人口结构、产业发展及政治环境变化下，这种长期形成的政治版图已逐渐松动，近年的选举结果都显示“北蓝南绿”并非一成不变。 BBC中…",
+    "content": "Reuters / 台北市长期被视为国民党的重要票仓，国民党籍市长蒋万安于2022年当选台北市长，今年将争取连任。 台湾将于11月底举行地方选举，选出直辖市长、县市长及县市议员。 蓝绿两大政党在地方执政版图的消长备受关注。一般认为，国民党的核心支持者较集中于北部地区，民进党则在南部具有较深厚的支持基础。 然而，在人口结构、产业发展及政治环境变化下，这种长期形成的政治版图已逐渐松动，近年的选举结果都显示“北蓝南绿”并非一成不变。 BBC中文访问多位政治学者，分析台湾选举政治“基本盘”的缘由和变数，以及在本届地方选举，…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/science/20261014/inhabitable-planets-solar-system/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "比地球更适宜居住的星球？确实存在",
+    "link": "https://cn.nytimes.com/science/20261014/inhabitable-planets-solar-system/dual",
+    "pub_date": "2026-10-14 11:36:04",
+    "author": "",
+    "description": "NATALIE WOLCHOVER2026年10月14日 Merijn Hos and Jurriaan Hos A few years ago, in a lab in Berlin, the astrobiologist Iva Vilović was thrilled when she observed garden cress sprouting under a light designed to mimic a “K-dwar…",
+    "content": "NATALIE WOLCHOVER 2026年10月14日 Merijn Hos and Jurriaan Hos A few years ago, in a lab in Berlin, the astrobiologist Iva Vilović was thrilled when she observed garden cress sprouting under a light designed to mimic a “K-dwarf” star — an orange-hued star that’s co…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261014/farm-raised-fish-aquaculture-overfishing/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "水产养殖业的肮脏秘密：你吃的海鲜背后不为人知的阴暗面",
+    "link": "https://cn.nytimes.com/world/20261014/farm-raised-fish-aquaculture-overfishing/dual",
+    "pub_date": "2026-10-14 11:36:04",
+    "author": "",
+    "description": "IAN URBINA2026年10月14日 Photography by Hannah Whitaker Our appetite for seafood is growing. In the last 60 years, the global consumption of fish has more than doubled. As demand has increased, so have dangerous levels of o…",
+    "content": "IAN URBINA 2026年10月14日 Photography by Hannah Whitaker Our appetite for seafood is growing. In the last 60 years, the global consumption of fish has more than doubled. As demand has increased, so have dangerous levels of overfishing: One-third of the world’s fi…"
+  },
+  {
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/crvg9n72v9p2o/simp?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC 中文版",
+    "category": "国外",
+    "title": "AI翻譯：還有多久會完全取代人類？",
+    "link": "https://www.bbc.com/zhongwen/articles/crvg9n72v9p2o/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-10-14 10:38:13",
+    "author": "",
+    "description": "Ariella Baltié / 阿里埃拉·巴尔蒂（Ariella Baltié）专门从事法律翻译工作，她表示误译的后果可以很严重。 法国人在下大雨时会说“Il pleut des cordes”。 直译是“天上在下绳子”（It's raining ropes）。这类惯用语，往往会难倒人工智能翻译。 “你可以想像，这会令人工智能陷入怎样的两难。”法国国家科学研究中心（CNRS）专攻自动翻译的研究主任弗朗索瓦·伊冯（François Yv…",
+    "content": "Ariella Baltié / 阿里埃拉·巴尔蒂（Ariella Baltié）专门从事法律翻译工作，她表示误译的后果可以很严重。 法国人在下大雨时会说“Il pleut des cordes”。 直译是“天上在下绳子”（It's raining ropes）。这类惯用语，往往会难倒人工智能翻译。 “你可以想像，这会令人工智能陷入怎样的两难。”法国国家科学研究中心（CNRS）专攻自动翻译的研究主任弗朗索瓦·伊冯（François Yvon）说。 他表示，训练良好的系统会知道，天上并不是真的掉下绳子，因此会使用英语…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20261014/japan-cyberattack-artificial-intelligence/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "人工智能推波助澜，网络攻击席卷日本",
+    "link": "https://cn.nytimes.com/asia-pacific/20261014/japan-cyberattack-artificial-intelligence/dual",
+    "pub_date": "2026-10-14 10:36:04",
+    "author": "",
+    "description": "TIFFANY MAY, KIUKO NOTOYA2026年10月14日日本遭遇了一波网络攻击，企业和政府均受影响。 Haiyun Jiang/The New York Times A wave of cyberattacks has wreaked havoc in Japan over the past few weeks, leaving virtually no industry untouched and the govern…",
+    "content": "TIFFANY MAY, KIUKO NOTOYA 2026年10月14日 日本遭遇了一波网络攻击，企业和政府均受影响。 Haiyun Jiang/The New York Times A wave of cyberattacks has wreaked havoc in Japan over the past few weeks, leaving virtually no industry untouched and the government searching for answers about how t…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261014/north-korea-it-workers-fbi/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "FBI捣毁涉朝鲜IT诈骗网络：盗用身份获取美国工作岗位",
+    "link": "https://cn.nytimes.com/usa/20261014/north-korea-it-workers-fbi/dual",
+    "pub_date": "2026-10-14 10:06:03",
+    "author": "",
+    "description": "DUSTIN VOLZ2026年10月14日美国官员称，近年来，朝鲜通过远程IT工作者项目规避了国际制裁，赚取了数十亿美元的现金。 Anthony Wallace/Agence France-Presse — Getty Images The F.B.I. last month disrupted a widespread network of American facilitators accused of aiding the No…",
+    "content": "DUSTIN VOLZ 2026年10月14日 美国官员称，近年来，朝鲜通过远程IT工作者项目规避了国际制裁，赚取了数十亿美元的现金。 Anthony Wallace/Agence France-Presse — Getty Images The F.B.I. last month disrupted a widespread network of American facilitators accused of aiding the North Korean government in securing remo…"
+  },
+  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cmg47k6z44w7o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -165,17 +352,6 @@ const jsonData = [
     "content": "13/10/2026 - 15:40 中央社13日电：中共20届五中全会将于10月26日起在北京召开；X平台「爆点周刊」（BaodianTimes）引述密档披露中共为此次会议部署18项维稳安保措施，包括加强有关敏感外国人情报收集和行为预判。 据报导，近日，中共中央维护政治安全和社会稳定工作领导小组办公室向各省自治区直辖市和新疆生产建设兵团维护政治安全和社会稳定工作议事协调机构（工作机制）、中央政法委、中央维护政治安全和安全稳定工作领导小组各成员单位、各专项工作小组及相关成员单位下发了「关于做好二十届五中全会期间维护…"
   },
   {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c63r584g9xwpo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "中共中央紀委：薄熙來前搭檔黃奇帆接受調查",
-    "link": "https://www.bbc.com/zhongwen/articles/c63r584g9xwpo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-13 21:34:13",
-    "author": "",
-    "description": "China News Service / 黄奇帆在薄熙来、王立军系列丑闻爆发后留守重庆至2016年。 中共反贪腐机关宣布，已离任多时的前重庆市市长黄奇帆被立案调查。 中共中央纪律检查委员会星期二（10月13日）宣布，74岁的黄奇帆“涉嫌严重违纪违法”，正接受纪律审查和监察调查。通报一如惯例未说明其具体罪嫌，但一般意味着是贪污腐败。 黄奇帆2001年起于重庆任职，2010年起出任市长兼中共市委副书记，不久后便爆发市委书记薄熙来与副市长兼公…",
-    "content": "China News Service / 黄奇帆在薄熙来、王立军系列丑闻爆发后留守重庆至2016年。 中共反贪腐机关宣布，已离任多时的前重庆市市长黄奇帆被立案调查。 中共中央纪律检查委员会星期二（10月13日）宣布，74岁的黄奇帆“涉嫌严重违纪违法”，正接受纪律审查和监察调查。通报一如惯例未说明其具体罪嫌，但一般意味着是贪污腐败。 黄奇帆2001年起于重庆任职，2010年起出任市长兼中共市委副书记，不久后便爆发市委书记薄熙来与副市长兼公安局长王立军系列丑闻。黄奇帆任职市长直到2016年底。 黄奇帆退任市长后仍不时作…"
-  },
-  {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261013-%E9%BB%91%E6%B5%B7%E5%95%86%E8%88%B9%E5%86%8D%E9%81%87%E8%A2%AD11%E4%BA%BA%E5%A4%B1%E8%B8%AA-%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%E5%8F%AC%E8%A7%81%E4%BF%84%E5%A4%A7%E4%BD%BF-%E5%8C%97%E7%BA%A6%E8%B0%83%E6%95%B4%E9%83%A8%E7%BD%B2-%E6%AC%A7%E7%9B%9F%E5%BC%BA%E7%83%88%E8%B0%B4%E8%B4%A3",
     "feed_name": "RFI 法国国际广播电台",
     "category": "国外",
@@ -187,48 +363,15 @@ const jsonData = [
     "content": "13/10/2026 - 14:07 保加利亚总理周二宣布，再有两艘商船在黑海保加利亚近海遭到袭击。此次袭击造成11人失踪，并导致北约调整部署，拉德夫总理随后召见了俄罗斯大使。 保加利亚总理鲁门·拉德夫（Roumen Radev）强调道：“我们没有确凿清晰的证据来指控任何一方，但从逻辑上讲，结果更倾向于俄罗斯”。 法新社说，这是这个位于北约东翼的国家领导人首次直接指责俄罗斯。该国一直试图在巩固其欧洲-北约联盟地位的同时，对莫斯科采取更温和的态度。 上周首次袭击时，他并未这样做。 而这次，在周一至周二夜间，发生了两次…"
   },
   {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261013-%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E9%99%A2-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%8F%8D%E5%AF%B9%E4%B8%AD%E5%9B%BD-%E8%83%81%E8%BF%AB%E5%92%8C%E6%94%BB%E5%87%BB-%E8%A1%8C%E4%BD%BF%E4%B8%BB%E6%9D%83%E6%9D%83%E5%88%A9%E7%9A%84%E5%9B%BD%E5%AE%B6",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "美国国务院：特朗普政府反对中国“胁迫和攻击”行使主权权利的国家 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261013-%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E9%99%A2-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%8F%8D%E5%AF%B9%E4%B8%AD%E5%9B%BD-%E8%83%81%E8%BF%AB%E5%92%8C%E6%94%BB%E5%87%BB-%E8%A1%8C%E4%BD%BF%E4%B8%BB%E6%9D%83%E6%9D%83%E5%88%A9%E7%9A%84%E5%9B%BD%E5%AE%B6",
-    "pub_date": "2026-10-13 20:45:03",
-    "author": "",
-    "description": "13/10/2026 - 14:24 路透社13日消息，美国国务院表示，特朗普政府反对中国针对行使自己主权权利的国家实施“胁迫和攻击”。此前，北京因伯利兹和巴拉圭两名部长与台湾的联系而对他们实施制裁。 巴拉圭和伯利兹是与台湾保持正式外交关系的12个国家中的两个。中国称台湾是中国的一个省，无权像一个国家那样行事，台北当局对此观点予以强烈驳斥。 中方的这些制裁被认为在很大程度上仅具有象征意义，因为台湾外交盟友的部长们通常不会前往中国。此前，…",
-    "content": "13/10/2026 - 14:24 路透社13日消息，美国国务院表示，特朗普政府反对中国针对行使自己主权权利的国家实施“胁迫和攻击”。此前，北京因伯利兹和巴拉圭两名部长与台湾的联系而对他们实施制裁。 巴拉圭和伯利兹是与台湾保持正式外交关系的12个国家中的两个。中国称台湾是中国的一个省，无权像一个国家那样行事，台北当局对此观点予以强烈驳斥。 中方的这些制裁被认为在很大程度上仅具有象征意义，因为台湾外交盟友的部长们通常不会前往中国。此前，北京曾主要针对支持民主治理的台湾的西方政界人士实施过类似措施。 美国国务院发言人…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261013-%E9%9F%A9%E5%9B%BD%E5%B0%86%E6%8E%A8%E8%BF%9B%E5%BB%BA%E8%AE%BE%E9%9F%A9%E5%9B%BD%E5%9E%8B%E4%B8%89%E8%BD%B4%E4%BD%93%E7%B3%BB-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%8A%E6%9C%89%E4%BA%BA%E4%B8%8E%E6%97%A0%E4%BA%BA%E5%8D%8F%E5%90%8C%E4%BD%9C%E6%88%98%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%88%98%E5%8A%9B",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "韩国将推进建设韩国型三轴体系、人工智能及有人与无人协同作战系统的战力 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261013-%E9%9F%A9%E5%9B%BD%E5%B0%86%E6%8E%A8%E8%BF%9B%E5%BB%BA%E8%AE%BE%E9%9F%A9%E5%9B%BD%E5%9E%8B%E4%B8%89%E8%BD%B4%E4%BD%93%E7%B3%BB-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%8A%E6%9C%89%E4%BA%BA%E4%B8%8E%E6%97%A0%E4%BA%BA%E5%8D%8F%E5%90%8C%E4%BD%9C%E6%88%98%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%88%98%E5%8A%9B",
-    "pub_date": "2026-10-13 20:45:02",
-    "author": "",
-    "description": "13/10/2026 - 14:32 韩联社报道，韩国防卫事业厅还表示，负责拦截朝鲜远程火炮的韩国型远程火炮拦截系统即将进入试验评估阶段，F-35A战机第二批引进项目首架飞机预计将于明年下半年交付。对于核动力潜艇项目，防卫事业厅将着手核动力推进系统研发并制定潜艇建造项目计划，争取到2030年代中期下水首艇，到2030年后期实现列装。 在军工出口方面，防卫事业厅将与美国在舰艇海外建造、陆军地面系统项目等方面的合作；与中东开展武器系统本土化…",
-    "content": "13/10/2026 - 14:32 韩联社报道，韩国防卫事业厅还表示，负责拦截朝鲜远程火炮的韩国型远程火炮拦截系统即将进入试验评估阶段，F-35A战机第二批引进项目首架飞机预计将于明年下半年交付。对于核动力潜艇项目，防卫事业厅将着手核动力推进系统研发并制定潜艇建造项目计划，争取到2030年代中期下水首艇，到2030年后期实现列装。 在军工出口方面，防卫事业厅将与美国在舰艇海外建造、陆军地面系统项目等方面的合作；与中东开展武器系统本土化、技术转让等中长期战略合作；与欧洲在武器出口、军工供应链等方面谋求可持续合作方案…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cxzd63n7e631o/simp?at_medium=RSS&at_campaign=rss",
+    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c63r584g9xwpo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
-    "title": "中期選舉前夕油價降不下，特朗普難題加劇",
-    "link": "https://www.bbc.com/zhongwen/articles/cxzd63n7e631o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-13 17:55:53",
+    "title": "中共中央紀委：薄熙來前搭檔黃奇帆接受調查",
+    "link": "https://www.bbc.com/zhongwen/articles/c63r584g9xwpo/simp?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-10-13 19:57:07",
     "author": "",
-    "description": "Getty Images / 特朗普周五宣布与俄罗斯总统普京达成一项新的柴油协议。 距离决定国会控制权的中期选举仅剩几周，美国选民已开始在一些关键州份投票。总统特朗普则把目光转向海外——尤其是俄罗斯。他希望借助外力，解决他最紧迫的问题之一：油价。 但世界局势鲜少提供简单答案，其他地方的发展，有可能破坏他降低燃油价格的努力，在带来任何政治效益之前就已受挫。 上周五，特朗普宣布与俄罗斯总统普京达成一项新协议，俄罗斯将在未来数月内，向美国提供…",
-    "content": "Getty Images / 特朗普周五宣布与俄罗斯总统普京达成一项新的柴油协议。 距离决定国会控制权的中期选举仅剩几周，美国选民已开始在一些关键州份投票。总统特朗普则把目光转向海外——尤其是俄罗斯。他希望借助外力，解决他最紧迫的问题之一：油价。 但世界局势鲜少提供简单答案，其他地方的发展，有可能破坏他降低燃油价格的努力，在带来任何政治效益之前就已受挫。 上周五，特朗普宣布与俄罗斯总统普京达成一项新协议，俄罗斯将在未来数月内，向美国提供数亿吨柴油。这个决定开启了一个旋风般的周末。 高昂的能源价格，令美国选民日益不满…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261013-%E4%B8%AD%E7%9F%B3%E6%B2%B9%E5%AD%90%E5%85%AC%E5%8F%B8%E5%9C%A8%E5%B0%BC%E6%97%A5%E5%B0%94%E5%8F%91%E7%94%9F%E5%96%B7%E6%B6%8C%E6%B3%84%E6%BC%8F%E5%B7%B2%E8%B6%85%E4%B8%A4%E5%91%A8%EF%BC%8C%E5%B0%BC%E6%96%B9%E7%A7%B0%E6%9E%84%E6%88%90-%E6%9E%81%E4%B8%A5%E9%87%8D%E7%8E%AF%E5%A2%83%E4%BA%8B%E6%95%85",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "中石油子公司在尼日尔发生喷涌泄漏已超两周，尼方称构成“极严重环境事故” - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261013-%E4%B8%AD%E7%9F%B3%E6%B2%B9%E5%AD%90%E5%85%AC%E5%8F%B8%E5%9C%A8%E5%B0%BC%E6%97%A5%E5%B0%94%E5%8F%91%E7%94%9F%E5%96%B7%E6%B6%8C%E6%B3%84%E6%BC%8F%E5%B7%B2%E8%B6%85%E4%B8%A4%E5%91%A8%EF%BC%8C%E5%B0%BC%E6%96%B9%E7%A7%B0%E6%9E%84%E6%88%90-%E6%9E%81%E4%B8%A5%E9%87%8D%E7%8E%AF%E5%A2%83%E4%BA%8B%E6%95%85",
-    "pub_date": "2026-10-13 17:15:02",
-    "author": "",
-    "description": "13/10/2026 - 10:56 综合法新社、路透社消息，尼日尔东北部沙漠地区自9月底以来持续发生原油和天然气喷涌事件。尼日尔石油部10月13日星期一晚间发布公报称，这一事件已构成“程度极其严重”的环境事故。 根据尼日尔石油部的通报，事故发生在9月25日，地点位于阿加德姆石油区块的古梅里W8井，距离尼日尔首都尼亚美大约1700公里。事故没有造成人员死亡，但有两名员工受伤，被送往医院接受治疗。尼日尔石油部公报称，事故中，大量的原油和天…",
-    "content": "13/10/2026 - 10:56 综合法新社、路透社消息，尼日尔东北部沙漠地区自9月底以来持续发生原油和天然气喷涌事件。尼日尔石油部10月13日星期一晚间发布公报称，这一事件已构成“程度极其严重”的环境事故。 根据尼日尔石油部的通报，事故发生在9月25日，地点位于阿加德姆石油区块的古梅里W8井，距离尼日尔首都尼亚美大约1700公里。事故没有造成人员死亡，但有两名员工受伤，被送往医院接受治疗。尼日尔石油部公报称，事故中，大量的原油和天然气喷射至10米以上的高度。尼日尔电视台晚间新闻画面显示，原油从井中喷出，浮油沿…"
+    "description": "Reuters / 黄奇帆在薄熙来、王立军系列丑闻爆发后留守重庆至2016年。 中共反贪腐机关宣布，已离任多时的前重庆市市长黄奇帆被立案调查。 中共中央纪律检查委员会星期二（10月13日）宣布，74岁的黄奇帆“涉嫌严重违纪违法”，正接受纪律审查和监察调查。通报一如惯例未说明其具体罪嫌，但一般意味着是贪污腐败。 黄奇帆2001年起于重庆任职，2010年起出任市长兼中共市委副书记，不久后便爆发市委书记薄熙来与副市长兼公安局长王立军系列丑闻。…",
+    "content": "Reuters / 黄奇帆在薄熙来、王立军系列丑闻爆发后留守重庆至2016年。 中共反贪腐机关宣布，已离任多时的前重庆市市长黄奇帆被立案调查。 中共中央纪律检查委员会星期二（10月13日）宣布，74岁的黄奇帆“涉嫌严重违纪违法”，正接受纪律审查和监察调查。通报一如惯例未说明其具体罪嫌，但一般意味着是贪污腐败。 黄奇帆2001年起于重庆任职，2010年起出任市长兼中共市委副书记，不久后便爆发市委书记薄熙来与副市长兼公安局长王立军系列丑闻。黄奇帆任职市长直到2016年底。 黄奇帆退任市长后仍不时作为经济学家发表公开演说…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c862yzkgzwero/simp?at_medium=RSS&at_campaign=rss",
@@ -240,39 +383,6 @@ const jsonData = [
     "author": "",
     "description": "Getty Images / 尊界是华为和江淮汽车联合开发的高档电动车车系。 中国知名车媒懂车帝近日发布对电动车尊界V800的测试影片，显示多辆测试车在紧急制动过程中制动踏板支架断裂。事件迅速引发舆论关注，但相关影片随后在多个平台被下架，在官方定调之前，多数主流媒体亦保持沉默。 影片10月8日发布后快速冲上微博热搜，仅次日，测评影片陆续无法在多个平台正常查看，多家主流媒体亦未持续跟进相关争议，直至11日中共官方《人民日报》发文，才再次带…",
     "content": "Getty Images / 尊界是华为和江淮汽车联合开发的高档电动车车系。 中国知名车媒懂车帝近日发布对电动车尊界V800的测试影片，显示多辆测试车在紧急制动过程中制动踏板支架断裂。事件迅速引发舆论关注，但相关影片随后在多个平台被下架，在官方定调之前，多数主流媒体亦保持沉默。 影片10月8日发布后快速冲上微博热搜，仅次日，测评影片陆续无法在多个平台正常查看，多家主流媒体亦未持续跟进相关争议，直至11日中共官方《人民日报》发文，才再次带动中国多家官方媒体集中跟进。 香港浸会大学传理学院副教授闾丘露薇对BBC中文分析…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261013-%E6%9C%9D%E9%B2%9C%E5%8F%91%E5%B0%84%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9-%E6%97%A5%E7%BE%8E%E9%9F%A9%E5%BD%93%E5%B1%80%E7%B4%A7%E6%80%A5%E4%B8%BE%E8%A1%8C%E5%8D%8F%E8%AE%AE",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "朝鲜发射弹道导弹 日美韩当局紧急举行协议 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261013-%E6%9C%9D%E9%B2%9C%E5%8F%91%E5%B0%84%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9-%E6%97%A5%E7%BE%8E%E9%9F%A9%E5%BD%93%E5%B1%80%E7%B4%A7%E6%80%A5%E4%B8%BE%E8%A1%8C%E5%8D%8F%E8%AE%AE",
-    "pub_date": "2026-10-13 16:45:03",
-    "author": "",
-    "description": "13/10/2026 - 10:29 10月13日，针对朝鲜于10月12日发射弹道导弹一事，日美韩三国外交部门负责朝鲜事务的官员举行了电话磋商。参加磋商的有日本外务省亚洲大洋洲局审议官有吉孝史、韩国外交部朝鲜半岛政策局局长白镛填（音译：白永镇），以及美国国务院助理国务卿代理戴维·维拉佐尔。 三方再次确认，朝鲜发射弹道导弹的行为违反了联合国安理会相关决议，并要求朝鲜停止此类威胁地区及国际社会和平与安全的挑衅行为。 三方再次确认，日美韩将继…",
-    "content": "13/10/2026 - 10:29 10月13日，针对朝鲜于10月12日发射弹道导弹一事，日美韩三国外交部门负责朝鲜事务的官员举行了电话磋商。参加磋商的有日本外务省亚洲大洋洲局审议官有吉孝史、韩国外交部朝鲜半岛政策局局长白镛填（音译：白永镇），以及美国国务院助理国务卿代理戴维·维拉佐尔。 三方再次确认，朝鲜发射弹道导弹的行为违反了联合国安理会相关决议，并要求朝鲜停止此类威胁地区及国际社会和平与安全的挑衅行为。 三方再次确认，日美韩将继续保持密切协调与合作。 日本防卫省12日发布消息：12日上午9时许（日本时间），…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261013-%E4%B8%AD%E5%9B%BD%E5%B0%86%E8%B7%A8%E5%A2%83%E9%95%87%E5%8E%8B%E4%BC%B8%E5%90%91%E5%8F%B0%E6%B9%BE%E4%B8%A4%E5%8F%8B%E9%82%A6%E6%94%BF%E8%A6%81-%E5%8F%B0%E6%B9%BE%E8%87%B4%E5%8A%9B%E6%8A%B5%E5%88%B6%E4%BB%BB%E4%BD%95%E9%9C%B8%E6%9D%83%E6%9E%81%E6%9D%83%E7%9A%84%E6%89%A9%E5%BC%A0",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "中国将跨境镇压伸向台湾两友邦政要 台湾致力抵制任何霸权极权的扩张 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261013-%E4%B8%AD%E5%9B%BD%E5%B0%86%E8%B7%A8%E5%A2%83%E9%95%87%E5%8E%8B%E4%BC%B8%E5%90%91%E5%8F%B0%E6%B9%BE%E4%B8%A4%E5%8F%8B%E9%82%A6%E6%94%BF%E8%A6%81-%E5%8F%B0%E6%B9%BE%E8%87%B4%E5%8A%9B%E6%8A%B5%E5%88%B6%E4%BB%BB%E4%BD%95%E9%9C%B8%E6%9D%83%E6%9E%81%E6%9D%83%E7%9A%84%E6%89%A9%E5%BC%A0",
-    "pub_date": "2026-10-13 16:45:03",
-    "author": "",
-    "description": "13/10/2026 - 10:35 中国外交部对台湾友邦巴拉圭与贝里斯两位友台政要祭出「饭制措施」。台湾官员表示，中国此举为对台跨国镇压的新模式。且台湾将持续抵制任何霸权极权的扩张。 中国外交部12日发出两份外交部令，对巴拉圭资通讯科技部长比亚德（Gustavo Villate）和贝里斯外交暨外贸部长冯赛卡（Francis Fonseca）实施「反制措施」，包括冻结两人在中国境内财产、不予签发签证、不准入境等。 中国外交部发言人毛宁表…",
-    "content": "13/10/2026 - 10:35 中国外交部对台湾友邦巴拉圭与贝里斯两位友台政要祭出「饭制措施」。台湾官员表示，中国此举为对台跨国镇压的新模式。且台湾将持续抵制任何霸权极权的扩张。 中国外交部12日发出两份外交部令，对巴拉圭资通讯科技部长比亚德（Gustavo Villate）和贝里斯外交暨外贸部长冯赛卡（Francis Fonseca）实施「反制措施」，包括冻结两人在中国境内财产、不予签发签证、不准入境等。 中国外交部发言人毛宁表示，这些政客甘当台湾「倚外谋独」的棋子，访问台湾，并接待「台独」分裂分子窜访，严…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261013-%E9%A6%99%E6%B8%AF%E9%BB%84%E4%B9%8B%E9%94%8B%E7%8B%B1%E4%B8%AD%E5%85%AD%E6%B8%A1%E7%94%9F%E8%BE%B0-%E6%AC%A7%E6%B4%B2%E8%AE%AE%E4%BC%9A%E6%8A%A5%E5%91%8A%E4%BF%83%E6%94%BE%E9%BB%84%E4%B9%8B%E9%94%8B%E7%AD%89%E6%94%BF%E6%B2%BB%E7%8A%AF%E6%9A%82%E6%9C%AA%E5%A6%82%E6%84%BF",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "香港黄之锋狱中六渡生辰 欧洲议会报告促放黄之锋等政治犯暂未如愿 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261013-%E9%A6%99%E6%B8%AF%E9%BB%84%E4%B9%8B%E9%94%8B%E7%8B%B1%E4%B8%AD%E5%85%AD%E6%B8%A1%E7%94%9F%E8%BE%B0-%E6%AC%A7%E6%B4%B2%E8%AE%AE%E4%BC%9A%E6%8A%A5%E5%91%8A%E4%BF%83%E6%94%BE%E9%BB%84%E4%B9%8B%E9%94%8B%E7%AD%89%E6%94%BF%E6%B2%BB%E7%8A%AF%E6%9A%82%E6%9C%AA%E5%A6%82%E6%84%BF",
-    "pub_date": "2026-10-13 14:45:03",
-    "author": "",
-    "description": "13/10/2026 - 08:26 今(13日)天是在囚泛民主派年轻核心之一的黄之锋三十岁生辰，在此之前不足一星期，欧洲议会通过「关於欧盟与中国政治关系的建议」，当中呼吁释放黄之锋等多位香港政治犯，并暂停引渡安排。中国外交部和港府表明反对，但人权团体则藉此点明，议会的建议表示，欧盟与北京打交道时，不能不管香港，敦促欧盟成员国向中国政府提出要求。 自15岁就读中学时便已投身政治的黄之锋，有七次判刑纪录，除头两次是因为2014年雨伞运动及…",
-    "content": "13/10/2026 - 08:26 今(13日)天是在囚泛民主派年轻核心之一的黄之锋三十岁生辰，在此之前不足一星期，欧洲议会通过「关於欧盟与中国政治关系的建议」，当中呼吁释放黄之锋等多位香港政治犯，并暂停引渡安排。中国外交部和港府表明反对，但人权团体则藉此点明，议会的建议表示，欧盟与北京打交道时，不能不管香港，敦促欧盟成员国向中国政府提出要求。 自15岁就读中学时便已投身政治的黄之锋，有七次判刑纪录，除头两次是因为2014年雨伞运动及相关抗争行动外，其馀五次均与2019年反对修订逃犯条例运动相关，最长刑期是参与民…"
   },
   {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261013/russia-diesel-trump/dual",
@@ -289,9 +399,9 @@ const jsonData = [
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cmeweg5eg7ljo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
-    "title": "中國民兵船「首現台灣東部海域」意味著什麼？",
+    "title": "從台海到太平洋：中國民兵船「首現東部海域」意味著什麼？",
     "link": "https://www.bbc.com/zhongwen/articles/cmeweg5eg7ljo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-13 13:31:07",
+    "pub_date": "2026-10-13 13:14:53",
     "author": "",
     "description": "Reuters / 台湾安捷航空（Apex Aviation）发布的侦查报告显示，今年8月有一艘具有中共海上民兵背景的中国渔船，在台湾东部海域活动。 路透社近日报导，一艘被辨识为中国海上民兵船的渔船，今年8月在台湾东部太平洋外海与另外两艘中国船只共同活动，并称这是此类船只“首次”被发现在台湾东部海域出没。 军事学者向BBC中文分析，这类船只可能承担海上监控、情报蒐集等任务。由于近年台湾社会对海底电缆安全格外关注，也有部分专家讨论，此类船…",
     "content": "Reuters / 台湾安捷航空（Apex Aviation）发布的侦查报告显示，今年8月有一艘具有中共海上民兵背景的中国渔船，在台湾东部海域活动。 路透社近日报导，一艘被辨识为中国海上民兵船的渔船，今年8月在台湾东部太平洋外海与另外两艘中国船只共同活动，并称这是此类船只“首次”被发现在台湾东部海域出没。 军事学者向BBC中文分析，这类船只可能承担海上监控、情报蒐集等任务。由于近年台湾社会对海底电缆安全格外关注，也有部分专家讨论，此类船只可能涉及对海底基础设施的侦察活动。 美国国务院一名发言人向台湾媒体表示，美方持…"
@@ -341,17 +451,6 @@ const jsonData = [
     "content": "JAMES PATON 2026年10月13日 位于英国利兹的一家比亚迪展厅。在欧洲售出的汽车中，大约每10辆就有一辆是中国汽车。 Owen Richards for The New York Times BYD, China’s dominant maker of electric vehicles, aims to open so many outlets in Germany that no one has to travel more than 20 minutes to buy one of its ca…"
   },
   {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261013/tandem-solar-panels-us-china/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "美国研发新型太阳能电池板，或挑战中国垄断地位",
-    "link": "https://cn.nytimes.com/business/20261013/tandem-solar-panels-us-china/dual",
-    "pub_date": "2026-10-13 08:36:05",
-    "author": "",
-    "description": "IVAN PENN2026年10月13日 Producers of solar panels in the United States say they are on the cusp of a technological breakthrough that could upend the industry and even threaten China’s grip on it. 美国太阳能板生产商表示，他们即将迎来一项技术突破，这项…",
-    "content": "IVAN PENN 2026年10月13日 Producers of solar panels in the United States say they are on the cusp of a technological breakthrough that could upend the industry and even threaten China’s grip on it. 美国太阳能板生产商表示，他们即将迎来一项技术突破，这项突破可能颠覆整个行业，甚至威胁到中国在该行业的垄断地位。 The manufa…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cm20wlw680w9o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -377,78 +476,23 @@ const jsonData = [
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cqy0rd16x33lo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
-    "title": "胡塞武裝空襲對華重要窗口利雅德機場 中東衝突又一危險時刻",
+    "title": "胡塞武裝空襲沙特利雅德機場 中東衝突又一危險時刻",
     "link": "https://www.bbc.com/zhongwen/articles/cqy0rd16x33lo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-12 19:06:34",
+    "pub_date": "2026-10-12 15:51:51",
     "author": "",
-    "description": "APTN 沙特阿拉伯利雅德哈立德国王机场（King Khalid Airport, Riyadh）星期六、日（10月10、11日）先后遭受导弹袭击，是这个本已充满紧张与冲突的地区又一个危险时刻。 两次袭击共造成14人死亡、300多人受伤。该机场是沙特王国最重要的基础设施之一。 也门胡塞（Houthis）武装其后警告航空公司不要使用沙特机场，引发外界对该地区民航航空安全的忧虑。 沙特阿拉伯被杀了个措手不及。 近几星期来，胡塞武装加强了对沙…",
-    "content": "APTN 沙特阿拉伯利雅德哈立德国王机场（King Khalid Airport, Riyadh）星期六、日（10月10、11日）先后遭受导弹袭击，是这个本已充满紧张与冲突的地区又一个危险时刻。 两次袭击共造成14人死亡、300多人受伤。该机场是沙特王国最重要的基础设施之一。 也门胡塞（Houthis）武装其后警告航空公司不要使用沙特机场，引发外界对该地区民航航空安全的忧虑。 沙特阿拉伯被杀了个措手不及。 近几星期来，胡塞武装加强了对沙特阿拉伯领土的攻击，但过去数天的袭击目标直指该国的关键基础设施，即首都的主要机场…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20261012/china-essay-higgins-surveillance/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "“草木皆兵”：一个更富裕强大的中国在害怕什么？",
-    "link": "https://cn.nytimes.com/china/20261012/china-essay-higgins-surveillance/dual",
-    "pub_date": "2026-10-12 14:06:03",
-    "author": "",
-    "description": "ANDREW HIGGINS2026年10月12日今年1月，时报记者安德鲁·希金斯乘车经过天安门广场。1989年6月，他曾亲历军队对抗议腐败、不平等和通货膨胀的民众展开武力镇压的现场。 It was an enjoyable day of temple and factory visits organized by China Daily, the Communist Party’s English-language mouthpiec…",
-    "content": "ANDREW HIGGINS 2026年10月12日 今年1月，时报记者安德鲁·希金斯乘车经过天安门广场。1989年6月，他曾亲历军队对抗议腐败、不平等和通货膨胀的民众展开武力镇压的现场。 It was an enjoyable day of temple and factory visits organized by China Daily, the Communist Party’s English-language mouthpiece, but it ended on an uncomfortable no…"
+    "description": "APTN 沙特阿拉伯雅德哈立德国王机场（King Khalid Airport, Riyadh）星期六、日（10月10、11日）先后遭受导弹袭击，是这个本已充满紧张与冲突的地区又一个危险时刻。 两次袭击共造成14人死亡、300多人受伤。该机场是沙特王国最重要的基础设施之一。 也门胡塞（Houthis）武装其后警告航空公司不要使用沙特机场，引发外界对该地区民航航空安全的忧虑。 沙特阿拉伯被杀了个措手不及。 近几星期来，胡塞武装加强了对沙特…",
+    "content": "APTN 沙特阿拉伯雅德哈立德国王机场（King Khalid Airport, Riyadh）星期六、日（10月10、11日）先后遭受导弹袭击，是这个本已充满紧张与冲突的地区又一个危险时刻。 两次袭击共造成14人死亡、300多人受伤。该机场是沙特王国最重要的基础设施之一。 也门胡塞（Houthis）武装其后警告航空公司不要使用沙特机场，引发外界对该地区民航航空安全的忧虑。 沙特阿拉伯被杀了个措手不及。 近几星期来，胡塞武装加强了对沙特阿拉伯领土的攻击，但过去数天的袭击目标直指该国的关键基础设施，即首都的主要机场，…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c3vgx1jxyejyo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
-    "title": "走進印度新一輪Z世代主導的「蟑螂」抗議",
+    "title": "走進印度新一輪Z世代主導的「蟑螂」抗議——圖輯",
     "link": "https://www.bbc.com/zhongwen/articles/c3vgx1jxyejyo/simp?at_medium=RSS&at_campaign=rss",
     "pub_date": "2026-10-12 12:29:00",
     "author": "",
     "description": "Getty Images / 在孟买的一次抗议活动中，一名抗议者被拘留后在警车内高喊口号。 德里的抗议活动在周末持续。印度Z世代领导的蟑螂人民党（Cockroach Janta Party, CJP）表示，他们不会放弃要求该国最高选举官员辞职的诉求。 星期六至日（10月10至11日）的示威活动发生在在CJP领导的、以教育为主题的早期抗议活动之后，这些抗议活动最终导致印度教育部长辞职。 这一次，数百万人反映自己名字从选民名册中消失后，CJ…",
     "content": "Getty Images / 在孟买的一次抗议活动中，一名抗议者被拘留后在警车内高喊口号。 德里的抗议活动在周末持续。印度Z世代领导的蟑螂人民党（Cockroach Janta Party, CJP）表示，他们不会放弃要求该国最高选举官员辞职的诉求。 星期六至日（10月10至11日）的示威活动发生在在CJP领导的、以教育为主题的早期抗议活动之后，这些抗议活动最终导致印度教育部长辞职。 这一次，数百万人反映自己名字从选民名册中消失后，CJP 要求印度最高选举官员辞职。 该团体与反对党派一起声称，选民名单更新过程存在偏…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/opinion/20261012/plague-siberia-russia-lab/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "俄罗斯疑似鼠疫死亡病例为何令人担忧",
-    "link": "https://cn.nytimes.com/opinion/20261012/plague-siberia-russia-lab/dual",
-    "pub_date": "2026-10-12 11:36:04",
-    "author": "",
-    "description": "GIGI KWIK GRONVALL2026年10月12日 Bina Thorsen A 28-year-old woman who worked at an anti-plague research laboratory in Siberia died on Oct. 2, raising concerns and many questions. Russian officials have said that the woman d…",
-    "content": "GIGI KWIK GRONVALL 2026年10月12日 Bina Thorsen A 28-year-old woman who worked at an anti-plague research laboratory in Siberia died on Oct. 2, raising concerns and many questions. Russian officials have said that the woman died from a pneumonia of unknown origin …"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261012/correspondent-banking-russia-sanctions-evasion/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "一家中国小银行如何帮助俄罗斯规避制裁进入华尔街",
-    "link": "https://cn.nytimes.com/business/20261012/correspondent-banking-russia-sanctions-evasion/dual",
-    "pub_date": "2026-10-12 11:06:05",
-    "author": "",
-    "description": "AARON KROLIK2026年10月12日中国的地区性银行浙江稠州商业银行在吉尔吉斯斯坦、蒙古、哈萨克斯坦和乌兹别克斯坦拥有大量业务，这些国家与俄罗斯有密切的经济联系。 Costfoto/NurPhoto, via Getty Images The Bank of America account ending in 0252 was not what you might expect. 这个尾号为0252的美国银行账户并非你想象的那…",
-    "content": "AARON KROLIK 2026年10月12日 中国的地区性银行浙江稠州商业银行在吉尔吉斯斯坦、蒙古、哈萨克斯坦和乌兹别克斯坦拥有大量业务，这些国家与俄罗斯有密切的经济联系。 Costfoto/NurPhoto, via Getty Images The Bank of America account ending in 0252 was not what you might expect. 这个尾号为0252的美国银行账户并非你想象的那样。 It did not belong to a person or a …"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261012/russia-plague/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "鼠疫疑云超一周，俄罗斯仍未作出官方解释",
-    "link": "https://cn.nytimes.com/world/20261012/russia-plague/dual",
-    "pub_date": "2026-10-12 10:36:04",
-    "author": "",
-    "description": "PAUL SONNE, JULIAN E. BARNES2026年10月12日位于俄罗斯伊尔库茨克的西伯利亚及远东地区抗鼠疫研究所，摄于周三。该所一名28岁研究人员死于不明原因的肺炎。” Associated Press More than a week after a young plague researcher’s mysterious death from pneumonia, Russia has still not publ…",
-    "content": "PAUL SONNE, JULIAN E. BARNES 2026年10月12日 位于俄罗斯伊尔库茨克的西伯利亚及远东地区抗鼠疫研究所，摄于周三。该所一名28岁研究人员死于不明原因的肺炎。” Associated Press More than a week after a young plague researcher’s mysterious death from pneumonia, Russia has still not publicly identified the pathogen that kill…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261012/china-european-union-trade/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "中欧就混动汽车贸易达成谅解，避免经贸摩擦升级",
-    "link": "https://cn.nytimes.com/business/20261012/china-european-union-trade/dual",
-    "pub_date": "2026-10-12 09:06:04",
-    "author": "",
-    "description": "KEITH BRADSHER2026年10月12日欧盟委员会贸易和经济安全委员马罗什·谢夫乔维奇在北京出席记者会。 Kyodo, via Reuters Connect High-level talks in Beijing between the European Union and China ended on Friday with an unexpected agreement that could pull the two s…",
-    "content": "KEITH BRADSHER 2026年10月12日 欧盟委员会贸易和经济安全委员马罗什·谢夫乔维奇在北京出席记者会。 Kyodo, via Reuters Connect High-level talks in Beijing between the European Union and China ended on Friday with an unexpected agreement that could pull the two sides back from an imminent trade war. …"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c6lyk8d5d7ygo/simp?at_medium=RSS&at_campaign=rss",
@@ -476,7 +520,7 @@ const jsonData = [
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cw30empz9qyvo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
-    "title": "種族歧視風波爆發時，與Lisa共處一室是什麼感受？",
+    "title": "種族歧視風波爆發時，與Blackpink成員Lisa共處一室是什麼感受？",
     "link": "https://www.bbc.com/zhongwen/articles/cw30empz9qyvo/simp?at_medium=RSS&at_campaign=rss",
     "pub_date": "2026-10-11 14:44:19",
     "author": "",
@@ -572,17 +616,6 @@ const jsonData = [
     "content": "BBC / 谁养大了台湾AV产业？ 台湾被视为“亚洲唯一能合法拍摄无码成人影片”的地区，并曾在2020年前后迎来产业快速扩张。 有AV演员向BBC中文表示，高峰时期全台片商超过20家，每月产出180至300支作品。学者估计，相关成人娱乐产业产值可达新台币200亿元。 然而，随着大型片商“麻豆传媒”于2026年突然停运，台湾成人影片产业的兴衰再度受到关注。 多名从业者透露，产业在疫情期间快速成长，背后可能与中国市场需求、线上博弈广告及灰色资金流入有关。近年随着资金退潮及龙头企业倒下，整个产业正面临巨大挑战。 BBC中…"
   },
   {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cmd7q5glg9llo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "口譯與施壓：台灣楊双子德國活動捲入政治爭議的前前後後",
-    "link": "https://www.bbc.com/zhongwen/articles/cmd7q5glg9llo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-08 13:29:23",
-    "author": "",
-    "description": "Orina Zhao/BBC News Chinese / 杨双子（中）近日巡回德国宣传其得奖作品《臺湾漫游录》的德文版，包括在首都柏林举行朗读会。 台湾作家杨双子近日在德国多地出席《臺湾漫游录》德文版宣传活动，近日在慕尼黑文学馆举行的场次陷入政治风波。 台湾驻慕尼黑代表处称，中国驻慕尼黑总领事馆曾要求取消杨双子的活动，并表示愿意出资、另行安排中国作家取而代之，引发外界关注北京方面是否有施压。 慕尼黑文学馆馆长塔妮娅·格拉夫（Tanja…",
-    "content": "Orina Zhao/BBC News Chinese / 杨双子（中）近日巡回德国宣传其得奖作品《臺湾漫游录》的德文版，包括在首都柏林举行朗读会。 台湾作家杨双子近日在德国多地出席《臺湾漫游录》德文版宣传活动，近日在慕尼黑文学馆举行的场次陷入政治风波。 台湾驻慕尼黑代表处称，中国驻慕尼黑总领事馆曾要求取消杨双子的活动，并表示愿意出资、另行安排中国作家取而代之，引发外界关注北京方面是否有施压。 慕尼黑文学馆馆长塔妮娅·格拉夫（Tanja Graf）回应BBC中文查询时，否认有关说法，表示馆方从未被要求取消杨双子的活…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cq5ynx00d4leo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -603,39 +636,6 @@ const jsonData = [
     "author": "",
     "description": "BBC/Getty Images 我们都听说过北极（North Pole），那是一片冰封世界，有海冰、北极熊、北极光（Northern Lights）和午夜太阳。 但你知道吗？其实北极并不是一个很容易界定的概念，而且北极还不只一个。 事实上，按照英国探险家兼气候科学家费莉西蒂·阿斯顿（Felicity Aston）的说法，“地球上可以说有很多个北极”。 她在BBC播客《无限猴笼》（The Infinite Monkey Cage）中表示…",
     "content": "BBC/Getty Images 我们都听说过北极（North Pole），那是一片冰封世界，有海冰、北极熊、北极光（Northern Lights）和午夜太阳。 但你知道吗？其实北极并不是一个很容易界定的概念，而且北极还不只一个。 事实上，按照英国探险家兼气候科学家费莉西蒂·阿斯顿（Felicity Aston）的说法，“地球上可以说有很多个北极”。 她在BBC播客《无限猴笼》（The Infinite Monkey Cage）中表示：“无论以任何定义来看，两个绝对称得上北极的地方，就是磁北极（magnetic …"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/ck0j0wv57jw7o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "台北選戰：蔣萬安的2028前哨戰，沈伯洋能否靠「洋流」突圍？",
-    "link": "https://www.bbc.com/zhongwen/articles/ck0j0wv57jw7o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-06 08:11:21",
-    "author": "",
-    "description": "AFP and gettyimages / 原先不被看好的沈伯洋（左），从9月开始声势高涨，给本享有执政优势的现任市长蒋万安（右）带来了挑战。 台湾的“九合一”地方选举将于11月28日举行。 这场选举将奠定执政的民进党及在野的国民党、民众党之间的势力消长，不仅被视为是总统赖清德的“期中考”，更是2028总统大选的前哨战。 外界密切关注俗称“六都”的六个直辖市的选情。在首都台北，寻求连任的国民党籍现任市长蒋万安，被视作2028年总统大选的…",
-    "content": "AFP and gettyimages / 原先不被看好的沈伯洋（左），从9月开始声势高涨，给本享有执政优势的现任市长蒋万安（右）带来了挑战。 台湾的“九合一”地方选举将于11月28日举行。 这场选举将奠定执政的民进党及在野的国民党、民众党之间的势力消长，不仅被视为是总统赖清德的“期中考”，更是2028总统大选的前哨战。 外界密切关注俗称“六都”的六个直辖市的选情。在首都台北，寻求连任的国民党籍现任市长蒋万安，被视作2028年总统大选的热门人选之一，这次选战打得是否漂亮，是他进一步问鼎中央的关键。 政治大学选举研究…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cknv0d8qd7v7o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "「他們叫他爸爸」：震驚韓國的殘障院舍住戶性侵案",
-    "link": "https://www.bbc.com/zhongwen/articles/cknv0d8qd7v7o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-05 18:15:06",
-    "author": "",
-    "description": "Getty Images “我内心一直很痛苦，所以我来讲出我的故事。” 这是（Seo Mi-hyeon；音译）第一次对警方说的话。 由于患有智障，徐美贤难以组织较长的句子，只能透过简短的词语和手势沟通。但对于自己遭受侵犯的经历，她的记忆却十分清晰。 她是韩国（南韩）一所公营照护机构的三名院友之一。该机构院长性侵她们，这宗案件震惊全国，也引发外界对国家为身心障碍人士提供照护制度的严重质疑。 本月稍早，首尔一家法院判处该院长15年监禁。由于…",
-    "content": "Getty Images “我内心一直很痛苦，所以我来讲出我的故事。” 这是（Seo Mi-hyeon；音译）第一次对警方说的话。 由于患有智障，徐美贤难以组织较长的句子，只能透过简短的词语和手势沟通。但对于自己遭受侵犯的经历，她的记忆却十分清晰。 她是韩国（南韩）一所公营照护机构的三名院友之一。该机构院长性侵她们，这宗案件震惊全国，也引发外界对国家为身心障碍人士提供照护制度的严重质疑。 本月稍早，首尔一家法院判处该院长15年监禁。由于司法规定，他仅以姓氏金（Kim）公开身分。金某已就定罪提出上诉。 距离徐美贤首次…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c3lylw2yx1pvo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "寒背又疼痛？五個保護頸部的運動",
-    "link": "https://www.bbc.com/zhongwen/articles/c3lylw2yx1pvo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-05 08:15:14",
-    "author": "",
-    "description": "BBC/Getty / 现代生活，包括频繁使用手机和手提电脑，对我们的颈部十分不利。 有时候，我们值得想一想人类头部究竟有多重。 任职于伦敦皇后医院、英国国民保健署（NHS）的脊椎神经外科顾问医生安东尼·戈什（Anthony Ghosh）说，当你挺直坐着或站立时，头部施加在颈部的力只有约12磅（5.4公斤），并不会构成问题。 然而，全球数以十亿计的人每天都有很长时间弯腰驼背。当我们俯身使用手提电脑和智能手机时，颈部承受的重量分布会大幅改…",
-    "content": "BBC/Getty / 现代生活，包括频繁使用手机和手提电脑，对我们的颈部十分不利。 有时候，我们值得想一想人类头部究竟有多重。 任职于伦敦皇后医院、英国国民保健署（NHS）的脊椎神经外科顾问医生安东尼·戈什（Anthony Ghosh）说，当你挺直坐着或站立时，头部施加在颈部的力只有约12磅（5.4公斤），并不会构成问题。 然而，全球数以十亿计的人每天都有很长时间弯腰驼背。当我们俯身使用手提电脑和智能手机时，颈部承受的重量分布会大幅改变。 戈什说，在这种令人不适的低头姿势下，头部施加在颈部的力会增至约60磅（27…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c6pwg52xjp8jo/simp?at_medium=RSS&at_campaign=rss",
