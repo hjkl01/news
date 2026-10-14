@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-10-14T01:31:53.918Z",
-  "ended_at": "2026-10-14T01:31:54.095Z",
-  "duration_ms": 177,
+  "started_at": "2026-10-14T10:55:06.499Z",
+  "ended_at": "2026-10-14T10:55:06.673Z",
+  "duration_ms": 174,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -17,12 +17,12 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 47,
-    "failed_sources": 12,
-    "circuit_open_sources": 12,
+    "cache_hit_sources": 46,
+    "failed_sources": 13,
+    "circuit_open_sources": 13,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1359,
-    "total_items_after_retention": 1147,
+    "total_items_after_dedupe": 1250,
+    "total_items_after_retention": 1042,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -88,6 +88,12 @@
       "skippedByCircuit": true
     },
     {
+      "title": "人人都是产品经理",
+      "url": "https://plink.anyfeeder.com/woshipm/popular",
+      "reason": "The operation was aborted.",
+      "skippedByCircuit": true
+    },
+    {
       "title": "FreeBuf 关注黑客",
       "url": "https://plink.anyfeeder.com/freebuf",
       "reason": "HTTP 405",
@@ -150,6 +156,11 @@
       "title": "阮一峰的网络日志",
       "url": "https://www.ruanyifeng.com/blog/atom.xml",
       "reason": "HTTP 403"
+    },
+    {
+      "title": "人人都是产品经理",
+      "url": "https://plink.anyfeeder.com/woshipm/popular",
+      "reason": "The operation was aborted."
     },
     {
       "title": "FreeBuf 关注黑客",
