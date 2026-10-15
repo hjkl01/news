@@ -1,5 +1,137 @@
 const jsonData = [
   {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261015-%E5%8F%97%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8A%80%E6%9C%AF%E9%9C%80%E6%B1%82%E9%A9%B1%E5%8A%A8%EF%BC%8C%E5%8F%B0%E7%A7%AF%E7%94%B5%E4%BB%8A%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%BA%A6%E5%87%80%E5%88%A9%E6%B6%A6%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "受人工智能技术需求驱动，台积电今年第三季度净利润再创历史新高 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261015-%E5%8F%97%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8A%80%E6%9C%AF%E9%9C%80%E6%B1%82%E9%A9%B1%E5%8A%A8%EF%BC%8C%E5%8F%B0%E7%A7%AF%E7%94%B5%E4%BB%8A%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%BA%A6%E5%87%80%E5%88%A9%E6%B6%A6%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
+    "pub_date": "2026-10-15 17:15:02",
+    "author": "",
+    "description": "15/10/2026 - 11:11 全球先进芯片制造龙头企业台积电15日宣布，受全球人工智能技术对高阶芯片的强劲需求带动，今年第三季度，该集团归属母公司的净利润增长再创历史新高，达到7630.6亿元新台币，大约相当于210亿欧元，同比上涨达69%，高于伦敦证券交易所集团此前收集到的专家预估。 这已经是台积电净利润连续第六个季度破记录增长。该集团今年前三个季度的累计营收因此同比增长41%。毛利率与去年同期相比攀升7.8个百分点。 法新社…",
+    "content": "15/10/2026 - 11:11 全球先进芯片制造龙头企业台积电15日宣布，受全球人工智能技术对高阶芯片的强劲需求带动，今年第三季度，该集团归属母公司的净利润增长再创历史新高，达到7630.6亿元新台币，大约相当于210亿欧元，同比上涨达69%，高于伦敦证券交易所集团此前收集到的专家预估。 这已经是台积电净利润连续第六个季度破记录增长。该集团今年前三个季度的累计营收因此同比增长41%。毛利率与去年同期相比攀升7.8个百分点。 法新社15日引述市场分析人士指出，全球对这家高阶芯片制造商提供的人工智能芯片制造以及它…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261015-%E6%9C%9D%E9%B2%9C%E8%BF%9B%E8%A1%8C%E4%B8%A4%E7%A7%8D%E6%BD%9C%E5%B0%84%E5%B7%A1%E8%88%AA%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9%E8%AF%95%E5%B0%84",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "朝鲜进行两种潜射巡航弹道导弹试射 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261015-%E6%9C%9D%E9%B2%9C%E8%BF%9B%E8%A1%8C%E4%B8%A4%E7%A7%8D%E6%BD%9C%E5%B0%84%E5%B7%A1%E8%88%AA%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9%E8%AF%95%E5%B0%84",
+    "pub_date": "2026-10-15 16:45:04",
+    "author": "",
+    "description": "15/10/2026 - 10:16 朝鲜官媒周四（10月15日）报道，朝鲜进行了两种从潜艇发射的战略巡航导弹试射，以检验其水下作战系统的战备状态。 朝中社称，朝鲜周三向日本海方向试射了这些导弹，并指未对“邻国的安全造成任何负面影响”。 此次试射，正值朝韩关系因边境非军事区（DMZ）地雷爆炸事件数周以来紧张升级，爆炸导致三名韩国士兵受伤。 朝中社报道称，此次最新试射“旨在检验水下作战系统的战备状态”，展示了平壤“军事威慑手段的高度可靠、…",
+    "content": "15/10/2026 - 10:16 朝鲜官媒周四（10月15日）报道，朝鲜进行了两种从潜艇发射的战略巡航导弹试射，以检验其水下作战系统的战备状态。 朝中社称，朝鲜周三向日本海方向试射了这些导弹，并指未对“邻国的安全造成任何负面影响”。 此次试射，正值朝韩关系因边境非军事区（DMZ）地雷爆炸事件数周以来紧张升级，爆炸导致三名韩国士兵受伤。 朝中社报道称，此次最新试射“旨在检验水下作战系统的战备状态”，展示了平壤“军事威慑手段的高度可靠、可信和有效性”。 朝中社发布的照片显示，一枚导弹垂直从海中射出，尾随白色烟柱。另…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261015-%E4%B8%93%E5%88%A9%E5%B7%B4%E5%A3%AB%E7%94%B3%E8%AF%B7%E5%8A%A0%E7%A5%A8%E4%BB%B7%E8%BF%91%E4%B8%A4%E6%88%90-%E5%AE%98%E5%91%98%E8%AE%AE%E5%91%98%E7%AB%9F%E5%B8%AE%E5%8F%A3-%E8%AF%84%E8%AE%BA%E6%8C%87%E6%98%AF%E6%B2%A1%E6%8A%97%E8%A1%A1%E5%8A%9B%E9%87%8F%E7%9A%84%E6%96%B0%E9%A6%99%E6%B8%AF%E5%AE%BF%E5%91%BD",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "专利巴士申请加票价近两成 官员议员竟帮口 评论指是没抗衡力量的新香港宿命 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261015-%E4%B8%93%E5%88%A9%E5%B7%B4%E5%A3%AB%E7%94%B3%E8%AF%B7%E5%8A%A0%E7%A5%A8%E4%BB%B7%E8%BF%91%E4%B8%A4%E6%88%90-%E5%AE%98%E5%91%98%E8%AE%AE%E5%91%98%E7%AB%9F%E5%B8%AE%E5%8F%A3-%E8%AF%84%E8%AE%BA%E6%8C%87%E6%98%AF%E6%B2%A1%E6%8A%97%E8%A1%A1%E5%8A%9B%E9%87%8F%E7%9A%84%E6%96%B0%E9%A6%99%E6%B8%AF%E5%AE%BF%E5%91%BD",
+    "pub_date": "2026-10-15 16:45:03",
+    "author": "",
+    "description": "15/10/2026 - 10:39 香港四家专利巴士公司申请大幅加价，加幅由17.7%至8.1%不等，加幅之大，引起市民叫苦已是必然，但相关政策局在向立法会提交的文件则更多是为巴士公司解释，由爱国者垄断的立法会，其议员亦没有代市民叫屈，被报章社评形容官员和议员都是在「为加价保驾护航」；更有评论形容议员是， 巴士公司的「另类发言人」，预料小市民继续默默承受这种在没有民间社会抗衡力量下的「宿命」。 在2019年社会运动被打压之前，公用事业…",
+    "content": "15/10/2026 - 10:39 香港四家专利巴士公司申请大幅加价，加幅由17.7%至8.1%不等，加幅之大，引起市民叫苦已是必然，但相关政策局在向立法会提交的文件则更多是为巴士公司解释，由爱国者垄断的立法会，其议员亦没有代市民叫屈，被报章社评形容官员和议员都是在「为加价保驾护航」；更有评论形容议员是， 巴士公司的「另类发言人」，预料小市民继续默默承受这种在没有民间社会抗衡力量下的「宿命」。 在2019年社会运动被打压之前，公用事业的加价申请幅度不单未见有被传媒形容为「狮子开大口」，更会引起立法会内尚有民主派的…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261015-%E5%9B%B4%E7%BB%95%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%AE%BF%E4%BF%84%E5%8F%8A%E6%8B%98%E6%8D%95%E6%97%A5%E6%9C%AC%E8%AE%B0%E8%80%85-%E6%97%A5%E5%90%91%E4%BF%84%E6%8F%90%E5%87%BA%E4%BA%A4%E6%B6%89%E5%92%8C%E5%BC%BA%E7%83%88%E6%8A%97%E8%AE%AE",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "围绕黑龙江代表团访俄及拘捕日本记者 日向俄提出交涉和强烈抗议 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261015-%E5%9B%B4%E7%BB%95%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%AE%BF%E4%BF%84%E5%8F%8A%E6%8B%98%E6%8D%95%E6%97%A5%E6%9C%AC%E8%AE%B0%E8%80%85-%E6%97%A5%E5%90%91%E4%BF%84%E6%8F%90%E5%87%BA%E4%BA%A4%E6%B6%89%E5%92%8C%E5%BC%BA%E7%83%88%E6%8A%97%E8%AE%AE",
+    "pub_date": "2026-10-15 16:45:03",
+    "author": "",
+    "description": "15/10/2026 - 10:18 10月14日，日本外务省欧洲局局长中村仁威召见俄罗斯驻日大使尼古拉·诺兹德廖夫，就俄罗斯联邦安全局（FSB）宣布在萨哈林州拘留一名日本公民，并单方面对外发布相关消息表示强烈抗议，同时对中国黑龙江省有关人员等访问择捉岛一事，向俄方提出交涉。 俄罗斯联邦安全局10月13日发布的消息称，在萨哈林州一名日本公民因涉嫌“间谍罪”遭俄方拘捕，中村局长要求俄方尽快提供相关信息。此外，他还强烈要求俄方人道、公平、公…",
+    "content": "15/10/2026 - 10:18 10月14日，日本外务省欧洲局局长中村仁威召见俄罗斯驻日大使尼古拉·诺兹德廖夫，就俄罗斯联邦安全局（FSB）宣布在萨哈林州拘留一名日本公民，并单方面对外发布相关消息表示强烈抗议，同时对中国黑龙江省有关人员等访问择捉岛一事，向俄方提出交涉。 俄罗斯联邦安全局10月13日发布的消息称，在萨哈林州一名日本公民因涉嫌“间谍罪”遭俄方拘捕，中村局长要求俄方尽快提供相关信息。此外，他还强烈要求俄方人道、公平、公正地对待被拘留的日本公民。 中村局长指出，目前日本政府尚未收到俄方就被拘留日本公…"
+  },
+  {
+    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261015-%E5%88%A9%E7%94%A8%E6%B8%AF%E5%AA%92%E7%88%86%E6%96%99%E4%B8%AD%E5%9B%BD%E4%BC%81%E5%9B%BE%E5%B9%B2%E6%89%B0%E5%8F%B0%E6%B9%BE%E9%80%89%E4%B8%BE-%E6%81%90%E5%8A%A0%E6%B7%B1%E5%8F%B0%E6%B9%BE%E7%A4%BE%E4%BC%9A%E5%AF%B9%E7%AB%8B%E4%B8%8E%E4%B8%A4%E6%9E%81%E5%8C%96",
+    "feed_name": "RFI 法国国际广播电台",
+    "category": "国外",
+    "title": "利用港媒爆料中国企图干扰台湾选举 恐加深台湾社会对立与两极化 - RFI - 法国国际广播电台",
+    "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261015-%E5%88%A9%E7%94%A8%E6%B8%AF%E5%AA%92%E7%88%86%E6%96%99%E4%B8%AD%E5%9B%BD%E4%BC%81%E5%9B%BE%E5%B9%B2%E6%89%B0%E5%8F%B0%E6%B9%BE%E9%80%89%E4%B8%BE-%E6%81%90%E5%8A%A0%E6%B7%B1%E5%8F%B0%E6%B9%BE%E7%A4%BE%E4%BC%9A%E5%AF%B9%E7%AB%8B%E4%B8%8E%E4%B8%A4%E6%9E%81%E5%8C%96",
+    "pub_date": "2026-10-15 16:45:02",
+    "author": "",
+    "description": "15/10/2026 - 10:36 台湾学者叶耀元分析，中国透过香港媒体操作相关讯息，试图介入台湾选举，这类认知作战未必能改变选民立场，却可能加深台湾社会对立与两极化，对民主发展造成不良影响。 港媒《大公文汇网》13日报导，民进党籍台北市长候选人沈伯洋父亲沉土城名下兆亿公司在2025年被中国实施惩戒后，又用名下另一家公司VWAY 继续在中国赚钱，仅半年多时间贸易额就有近70万美元。 大陆国台办发言人陈斌华14日则在记者会上表示，沈伯洋…",
+    "content": "15/10/2026 - 10:36 台湾学者叶耀元分析，中国透过香港媒体操作相关讯息，试图介入台湾选举，这类认知作战未必能改变选民立场，却可能加深台湾社会对立与两极化，对民主发展造成不良影响。 港媒《大公文汇网》13日报导，民进党籍台北市长候选人沈伯洋父亲沉土城名下兆亿公司在2025年被中国实施惩戒后，又用名下另一家公司VWAY 继续在中国赚钱，仅半年多时间贸易额就有近70万美元。 大陆国台办发言人陈斌华14日则在记者会上表示，沈伯洋一边鼓噪反中抗中，阻碍两岸交流合作，一边会同亲属，想方设法从中国赚钱，丑陋行径令…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261015/ukraine-starlink-energy/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "星盾使用受限、俄方袭击升级：乌克兰“腹背受敌”",
+    "link": "https://cn.nytimes.com/world/20261015/ukraine-starlink-energy/dual",
+    "pub_date": "2026-10-15 14:36:04",
+    "author": "",
+    "description": "CONSTANT MÉHEUT2026年10月15日周三，基辅一栋公寓楼遭袭现场，消防员正在进行灭火作业。 Evgeniy Maloletka/Associated Press Nearly five years into its fight for national survival, Ukraine has entered a moment of intense vulnerability, under growing pressu…",
+    "content": "CONSTANT MÉHEUT 2026年10月15日 周三，基辅一栋公寓楼遭袭现场，消防员正在进行灭火作业。 Evgeniy Maloletka/Associated Press Nearly five years into its fight for national survival, Ukraine has entered a moment of intense vulnerability, under growing pressure not only from Russia but also now f…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261015/youth-aging-europe-pension-ukraine-starshield/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "老龄化的欧洲，愤怒的年轻人",
+    "link": "https://cn.nytimes.com/world/20261015/youth-aging-europe-pension-ukraine-starshield/dual",
+    "pub_date": "2026-10-15 13:36:04",
+    "author": "",
+    "description": "KATRIN BENNHOLD2026年10月15日周二在法国波尔多发生的一场学生抗议活动。 Christophe Archambault/Agence France-Presse — Getty Images Over the last few years we’ve seen the rise of a formidable political force: Gen Z protesters. They have toppled g…",
+    "content": "KATRIN BENNHOLD 2026年10月15日 周二在法国波尔多发生的一场学生抗议活动。 Christophe Archambault/Agence France-Presse — Getty Images Over the last few years we’ve seen the rise of a formidable political force: Gen Z protesters. They have toppled governments in Bangladesh, Nepal, Peru …"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261015/trump-press-secretary-katie-zacharia-lawyer/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "新任白宫新闻秘书在中国做过律师吗？我们进行了事实核查",
+    "link": "https://cn.nytimes.com/usa/20261015/trump-press-secretary-katie-zacharia-lawyer/dual",
+    "pub_date": "2026-10-15 12:36:05",
+    "author": "",
+    "description": "SHAWN McCREESH2026年10月15日 Is President Trump’s new press secretary a lawyer — or did she just play one on TV? 特朗普总统的新任新闻秘书是一名真正的律师，还是只是在电视上演过律师？ Three days into her job, Katie Zacharia is facing questions about whether s…",
+    "content": "SHAWN McCREESH 2026年10月15日 Is President Trump’s new press secretary a lawyer — or did she just play one on TV? 特朗普总统的新任新闻秘书是一名真正的律师，还是只是在电视上演过律师？ Three days into her job, Katie Zacharia is facing questions about whether she has embroidered her credentials. She…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20261015/korea-assassins-movie/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "阴谋、疑团和争议：朴正熙暗杀事件电影加剧韩国文化战争",
+    "link": "https://cn.nytimes.com/asia-pacific/20261015/korea-assassins-movie/dual",
+    "pub_date": "2026-10-15 12:06:04",
+    "author": "",
+    "description": "CHOE SANG-HUN2026年10月15日 On Aug. 15, 1974, the South Korean leader Park Chung-hee was delivering an address at Seoul’s National Theater when an assassin charged down an aisle, brandishing a .38-caliber Smith & Wesson. 19…",
+    "content": "CHOE SANG-HUN 2026年10月15日 On Aug. 15, 1974, the South Korean leader Park Chung-hee was delivering an address at Seoul’s National Theater when an assassin charged down an aisle, brandishing a .38-caliber Smith & Wesson. 1974年8月15日，韩国领导人朴正熙正在首尔的国立剧场发表演讲时，一名刺客沿着过…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261015/trump-administration-kimberly-guilfoyle-women/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "那些从特朗普内阁中“消失”的女性",
+    "link": "https://cn.nytimes.com/usa/20261015/trump-administration-kimberly-guilfoyle-women/dual",
+    "pub_date": "2026-10-15 11:36:04",
+    "author": "",
+    "description": "ERICA L. GREEN2026年10月15日前白宫新闻秘书卡罗琳·莱维特于8月离任。 Shelby Tauber for The New York Times The ouster of Kimberly Guilfoyle, who until this week was the U.S. ambassador to Greece, was surprising in its particulars. It was announ…",
+    "content": "ERICA L. GREEN 2026年10月15日 前白宫新闻秘书卡罗琳·莱维特于8月离任。 Shelby Tauber for The New York Times The ouster of Kimberly Guilfoyle, who until this week was the U.S. ambassador to Greece, was surprising in its particulars. It was announced on live TV, during the first-ever …"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/technology/20261015/chinese-ai-agents-rogue/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "中国人工智能加入“失控”大军：腾讯AI被指越界操作",
+    "link": "https://cn.nytimes.com/technology/20261015/chinese-ai-agents-rogue/dual",
+    "pub_date": "2026-10-15 10:36:04",
+    "author": "",
+    "description": "DYLAN FREEDMAN2026年10月15日 Artificial intelligence researchers uncovered Chinese-made A.I. agents that had gone rogue this month, trying to bypass anti-robot protections on websites and using a security credential for an …",
+    "content": "DYLAN FREEDMAN 2026年10月15日 Artificial intelligence researchers uncovered Chinese-made A.I. agents that had gone rogue this month, trying to bypass anti-robot protections on websites and using a security credential for an online mapping service that had been ex…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261015/china-exports-trade-surplus/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "中国出口激增，年度贸易顺差有望再次刷新纪录",
+    "link": "https://cn.nytimes.com/business/20261015/china-exports-trade-surplus/dual",
+    "pub_date": "2026-10-15 09:06:05",
+    "author": "",
+    "description": "KEITH BRADSHER2026年10月15日货币疲软使中国商品在海外更具竞争力，同时提高了国内进口产品的成本。 Gilles Sabrié for The New York Times A record-setting surge in China’s exports dwarfed its imports in September, as the country’s vast manufacturing sector churn…",
+    "content": "KEITH BRADSHER 2026年10月15日 货币疲软使中国商品在海外更具竞争力，同时提高了国内进口产品的成本。 Gilles Sabrié for The New York Times A record-setting surge in China’s exports dwarfed its imports in September, as the country’s vast manufacturing sector churned out cars, solar panels, electrical …"
+  },
+  {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261014-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%98%AF%E5%90%A6%E8%A2%AB%E8%83%8C%E5%8F%9B%E4%BA%86",
     "feed_name": "RFI 法国国际广播电台",
     "category": "国外",
@@ -165,17 +297,6 @@ const jsonData = [
     "content": "14/10/2026 - 14:18 中朝跨鸭绿江新桥周四将正式通车，在之前一个月，朝俄首座公路桥开通。据韩联社介绍，中朝这座“新桥”在2014年竣工，因各种问题推迟开通。 据中国官媒周三报道，横跨中朝边境鸭绿江的一座新桥将于周四（15日）通车。 法新社说，这座连接中国丹东市与世界上最封闭国家之一的大桥的开通，标志着朝鲜和强大邻国与合作伙伴（中国）之间的实体联系近期持续加强。 中国外交部发言人毛宁今天在记者会上表示，这将“进一步促进两国之间的经贸流通和人员往来，并改善两国人民的生活水平”。 据韩联社报道，这座全长3…"
   },
   {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261014-%E7%BE%8E%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8A%95%E8%B5%84doctolib%E5%92%8C%E4%B8%89%E5%AE%B6%E6%B3%95%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "美国科技巨头英伟达投资Doctolib和三家法国人工智能初创公司 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261014-%E7%BE%8E%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8A%95%E8%B5%84doctolib%E5%92%8C%E4%B8%89%E5%AE%B6%E6%B3%95%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8",
-    "pub_date": "2026-10-14 18:45:02",
-    "author": "",
-    "description": "14/10/2026 - 12:17 英伟达正在加强其在欧洲业务，这家美国芯片巨头今天周二宣布投资法国医疗预约平台Doctolib的股份以及三家法国人工智能初创公司。 英伟达首席执行官黄仁勋在巴黎举行的一场活动上表示，这项投资旨在“在欧洲推动人工智能革新”, 此次活动是黄仁勋欧洲之行的一部分 , 他随后将前往伦敦、斯德哥尔摩和柏林。 黄仁勋还宣布投资了三法国人工智能公司：法美合资的机器人人工智能初创公司Genesis AI；开发人工智能…",
-    "content": "14/10/2026 - 12:17 英伟达正在加强其在欧洲业务，这家美国芯片巨头今天周二宣布投资法国医疗预约平台Doctolib的股份以及三家法国人工智能初创公司。 英伟达首席执行官黄仁勋在巴黎举行的一场活动上表示，这项投资旨在“在欧洲推动人工智能革新”, 此次活动是黄仁勋欧洲之行的一部分 , 他随后将前往伦敦、斯德哥尔摩和柏林。 黄仁勋还宣布投资了三法国人工智能公司：法美合资的机器人人工智能初创公司Genesis AI；开发人工智能驱动的商业规划软件的法国初创公司Pigment；以及将生成式人工智能应用于化学工…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cx054n50gm37o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -185,17 +306,6 @@ const jsonData = [
     "author": "",
     "description": "TASS / 俄罗斯联邦安全局称，被捕记者为《北海道新闻》的今井裕纪（Yuki Imai；音译），他是在远东萨哈林州（库页岛）被逮捕。 俄罗斯当局以涉嫌从事间谍活动为由拘捕一名日本记者，指控他为东京蒐集与莫斯科国防能力有关的资讯。 据报导，这名记者是《北海道新闻》的今井裕纪（Yuki Imai；音译），他在俄罗斯远东萨哈林州（Sakhalin；中国旧称库页岛）被拘留，当时距离其离开俄罗斯仅余一天。他其后被押送至莫斯科，一家法院下令将他羁…",
     "content": "TASS / 俄罗斯联邦安全局称，被捕记者为《北海道新闻》的今井裕纪（Yuki Imai；音译），他是在远东萨哈林州（库页岛）被逮捕。 俄罗斯当局以涉嫌从事间谍活动为由拘捕一名日本记者，指控他为东京蒐集与莫斯科国防能力有关的资讯。 据报导，这名记者是《北海道新闻》的今井裕纪（Yuki Imai；音译），他在俄罗斯远东萨哈林州（Sakhalin；中国旧称库页岛）被拘留，当时距离其离开俄罗斯仅余一天。他其后被押送至莫斯科，一家法院下令将他羁押候审。 日本表示，仍在寻求有关拘捕事件的详情，且尚未能与今井取得联系。 此次拘…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261014-%E4%BF%84%E7%BD%97%E6%96%AF%E7%A9%BA%E8%A2%AD%E4%B9%8C%E5%85%8B%E5%85%B0%E8%83%BD%E6%BA%90%E8%AE%BE%E6%96%BD-%E8%87%B3%E5%B0%916%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "俄罗斯空袭乌克兰能源设施 至少6人死亡 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261014-%E4%BF%84%E7%BD%97%E6%96%AF%E7%A9%BA%E8%A2%AD%E4%B9%8C%E5%85%8B%E5%85%B0%E8%83%BD%E6%BA%90%E8%AE%BE%E6%96%BD-%E8%87%B3%E5%B0%916%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-    "pub_date": "2026-10-14 17:15:02",
-    "author": "",
-    "description": "14/10/2026 - 11:05 据基辅当局称，俄罗斯周二晚间对乌克兰的空袭造成至少6人死亡，空袭目标是能源基础设施，，且导致基辅多个街区停电。泽连斯基称，这是对美国提出的“能源停火”的蔑视。 法新社报道，过去两周，俄罗斯军方恢复了对乌克兰能源基础设施的轰炸行动，导致大范围停电，并引发民众对又一个严冬的担忧。 据地区官员称，周二晚间，首都基辅有3人死亡，中部第聂伯罗彼得罗夫斯克州有2人死亡，东南部扎波罗热州有1名居民死亡。基辅市长维…",
-    "content": "14/10/2026 - 11:05 据基辅当局称，俄罗斯周二晚间对乌克兰的空袭造成至少6人死亡，空袭目标是能源基础设施，，且导致基辅多个街区停电。泽连斯基称，这是对美国提出的“能源停火”的蔑视。 法新社报道，过去两周，俄罗斯军方恢复了对乌克兰能源基础设施的轰炸行动，导致大范围停电，并引发民众对又一个严冬的担忧。 据地区官员称，周二晚间，首都基辅有3人死亡，中部第聂伯罗彼得罗夫斯克州有2人死亡，东南部扎波罗热州有1名居民死亡。基辅市长维塔利·克利奇科在社交平台Telegram上写道：“基辅及其周边地区的能源设施遭到…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cwm235qpgrrdo/simp?at_medium=RSS&at_campaign=rss",
@@ -209,28 +319,6 @@ const jsonData = [
     "content": "Getty Images/BBC 乌克兰局势正发生惊人逆转：身处前线的士兵如今会打电话回首都基辅（Kyiv）家中，询问家人是否安全。 居住在基辅的彼得·迪金森（Peter Dickinson）向BBC国际部（BBC World Service）表示：“现在人们谈论基辅时，会说它是一座前线城市。” “基本上，现在它和那些地理位置正处于战线上的城市一样危险，甚至可能更危险。” 俄罗斯近数星期加强以导弹和无人机袭击乌克兰首都及其他主要城市，攻击民用目标，包括学校、医院、酒店、数据中心、列车和桥梁。 例如在9月30日，无人…"
   },
   {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261014-%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%AE%BF%E9%97%AE%E4%BF%84%E7%BD%97%E6%96%AF%E5%8D%A0%E6%8D%AE%E7%9A%84%E6%8B%A9%E6%8D%89%E5%B2%9B-%E6%97%A5%E5%A4%96%E7%9B%B8%E8%A1%A8%E7%A4%BA%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "黑龙江代表团访问俄罗斯占据的择捉岛 日外相表示无法接受 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261014-%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%AE%BF%E9%97%AE%E4%BF%84%E7%BD%97%E6%96%AF%E5%8D%A0%E6%8D%AE%E7%9A%84%E6%8B%A9%E6%8D%89%E5%B2%9B-%E6%97%A5%E5%A4%96%E7%9B%B8%E8%A1%A8%E7%A4%BA%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97",
-    "pub_date": "2026-10-14 16:45:03",
-    "author": "",
-    "description": "14/10/2026 - 10:19 日本外相茂木敏充14日在众议院预算委员会上就中国黑龙江省考察团访问择捉岛一事表示，对于第三国进入北方四岛并开展活动、仿佛北方四岛属于俄罗斯领土一样的行为，日本绝对无法接受，日本首相高市早苗13日晚对记者谈及中国代表团的访问时表示：目前正在确认事实。我们将适时作出妥善应对。” 由中国黑龙江省的企业家及行政官员组成的代表团于 2026 年 10 月 9 日至 11 日访问了俄罗斯远东萨哈林州实际控制的择…",
-    "content": "14/10/2026 - 10:19 日本外相茂木敏充14日在众议院预算委员会上就中国黑龙江省考察团访问择捉岛一事表示，对于第三国进入北方四岛并开展活动、仿佛北方四岛属于俄罗斯领土一样的行为，日本绝对无法接受，日本首相高市早苗13日晚对记者谈及中国代表团的访问时表示：目前正在确认事实。我们将适时作出妥善应对。” 由中国黑龙江省的企业家及行政官员组成的代表团于 2026 年 10 月 9 日至 11 日访问了俄罗斯远东萨哈林州实际控制的择捉岛。 据俄罗斯媒体报道，作为招商引资考察活动的一部分，代表团成员包括曾进口俄罗…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261014-%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%89%E4%B8%BE%E9%80%A0%E5%8A%BF%E5%AE%A3%E5%B8%83%E5%8F%B0%E6%B9%BE%E5%90%8C%E6%84%8F%E8%B4%AD%E4%B9%B0%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A030%EF%BC%85%E5%A4%A9%E7%84%B6%E6%B0%94%E5%B9%B6%E6%8A%95%E8%B5%8444%E4%BA%BF%E7%BE%8E%E5%85%83",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "特朗普选举造势宣布台湾同意购买阿拉斯加30％天然气并投资44亿美元 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261014-%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%89%E4%B8%BE%E9%80%A0%E5%8A%BF%E5%AE%A3%E5%B8%83%E5%8F%B0%E6%B9%BE%E5%90%8C%E6%84%8F%E8%B4%AD%E4%B9%B0%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A030%EF%BC%85%E5%A4%A9%E7%84%B6%E6%B0%94%E5%B9%B6%E6%8A%95%E8%B5%8444%E4%BA%BF%E7%BE%8E%E5%85%83",
-    "pub_date": "2026-10-14 16:45:02",
-    "author": "",
-    "description": "14/10/2026 - 10:36 美国总统特朗普13日在阿拉斯加州一场造势大会中，宣称台湾已同意在未来20年内采购阿拉斯加天然气管线开发计画中30%的天然气，并将额外投资44亿美元。台湾经济部表示，合作方向还包括开采后每年采购600万吨阿拉斯加液化天然气。 根据《路透社》报导，美国总统特朗普13日在阿拉斯加州一场造势大会中，宣称台湾已同意在未来20年内，采购阿拉斯加天然气管线开发计画中30%的天然气，并将额外投资44亿美元。台湾的投…",
-    "content": "14/10/2026 - 10:36 美国总统特朗普13日在阿拉斯加州一场造势大会中，宣称台湾已同意在未来20年内采购阿拉斯加天然气管线开发计画中30%的天然气，并将额外投资44亿美元。台湾经济部表示，合作方向还包括开采后每年采购600万吨阿拉斯加液化天然气。 根据《路透社》报导，美国总统特朗普13日在阿拉斯加州一场造势大会中，宣称台湾已同意在未来20年内，采购阿拉斯加天然气管线开发计画中30%的天然气，并将额外投资44亿美元。台湾的投资将建立在南韩承诺投入的500亿美元之上，是历来规模最大的承诺及交易之一。特朗普…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cmqln6xl303no/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -240,17 +328,6 @@ const jsonData = [
     "author": "",
     "description": "BBC / 观看：为什么中国孤独的人会雇用“临时孩子”？（英语影片） “最大的困难真是寂寞。有的时候想说话，所以我就跟电视说哈。” 91岁的杨女士居住在中国繁华的首都北京郊区。丈夫过世后，她感到非常孤独，甚至考虑过安乐死。 “我问过儿子，但他告诉我这是犯法的。我告诉他，如果有一天合法了，我想去做——我不想活了。” 由于患有青光眼，视力逐渐衰退，她甚至无法完成调节空调控制等基本操作。 BBC / 91岁的杨女士患有青光眼，视力逐渐衰退，她…",
     "content": "BBC / 观看：为什么中国孤独的人会雇用“临时孩子”？（英语影片） “最大的困难真是寂寞。有的时候想说话，所以我就跟电视说哈。” 91岁的杨女士居住在中国繁华的首都北京郊区。丈夫过世后，她感到非常孤独，甚至考虑过安乐死。 “我问过儿子，但他告诉我这是犯法的。我告诉他，如果有一天合法了，我想去做——我不想活了。” 由于患有青光眼，视力逐渐衰退，她甚至无法完成调节空调控制等基本操作。 BBC / 91岁的杨女士患有青光眼，视力逐渐衰退，她发现自己越来越难以独自完成简单的任务和日常生活。 像杨女士这样的案例在中国城市变…"
-  },
-  {
-    "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261014-%E4%B8%A4%E4%B8%AD%E8%B5%84%E7%96%91ipo%E9%80%A0%E5%B8%82%E5%8F%97%E6%9F%A5-%E6%B8%AF%E8%AF%81%E7%9B%91%E4%BC%9A%E5%86%BB%E7%BB%93%E9%80%BE46%E4%BA%BF%E8%B5%84%E4%BA%A7-%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%AB%98%E9%A2%9D",
-    "feed_name": "RFI 法国国际广播电台",
-    "category": "国外",
-    "title": "两中资疑IPO造市受查 港证监会冻结逾46亿资产 史上最高额 - RFI - 法国国际广播电台",
-    "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261014-%E4%B8%A4%E4%B8%AD%E8%B5%84%E7%96%91ipo%E9%80%A0%E5%B8%82%E5%8F%97%E6%9F%A5-%E6%B8%AF%E8%AF%81%E7%9B%91%E4%BC%9A%E5%86%BB%E7%BB%93%E9%80%BE46%E4%BA%BF%E8%B5%84%E4%BA%A7-%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%AB%98%E9%A2%9D",
-    "pub_date": "2026-10-14 16:15:03",
-    "author": "",
-    "description": "14/10/2026 - 09:50 曾多次拿下全球新股上市(IPO)集资金额年度冠军的香港，监管证券市场的法定机构昨(13日)重磅出击，调查两大怀疑以欺诈的「造市」手段操纵 IPO 的集团，并冻结集团大批客户资金共 46.7 亿港元(下同，折合约5.3亿欧元)，金额打破历来纪录。 香港证券及期货事务监察委员会（证监会）昨在开市前便勒令涉事的四川百茶百道实业股份有限公司(茶百道)停牌，是该会不足两个月内第三次运用法家权力勒令上市公司停牌…",
-    "content": "14/10/2026 - 09:50 曾多次拿下全球新股上市(IPO)集资金额年度冠军的香港，监管证券市场的法定机构昨(13日)重磅出击，调查两大怀疑以欺诈的「造市」手段操纵 IPO 的集团，并冻结集团大批客户资金共 46.7 亿港元(下同，折合约5.3亿欧元)，金额打破历来纪录。 香港证券及期货事务监察委员会（证监会）昨在开市前便勒令涉事的四川百茶百道实业股份有限公司(茶百道)停牌，是该会不足两个月内第三次运用法家权力勒令上市公司停牌。同日收市时，该会公布，对涉嫌参与「茶百道」和天聚地合（苏州）科技股份有限公司（…"
   },
   {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/culture/20261014/ashley-st-clair-interview-elon-musk/dual",
@@ -308,17 +385,6 @@ const jsonData = [
     "content": "NATALIE WOLCHOVER 2026年10月14日 Merijn Hos and Jurriaan Hos A few years ago, in a lab in Berlin, the astrobiologist Iva Vilović was thrilled when she observed garden cress sprouting under a light designed to mimic a “K-dwarf” star — an orange-hued star that’s co…"
   },
   {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261014/farm-raised-fish-aquaculture-overfishing/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "水产养殖业的肮脏秘密：你吃的海鲜背后不为人知的阴暗面",
-    "link": "https://cn.nytimes.com/world/20261014/farm-raised-fish-aquaculture-overfishing/dual",
-    "pub_date": "2026-10-14 11:36:04",
-    "author": "",
-    "description": "IAN URBINA2026年10月14日 Photography by Hannah Whitaker Our appetite for seafood is growing. In the last 60 years, the global consumption of fish has more than doubled. As demand has increased, so have dangerous levels of o…",
-    "content": "IAN URBINA 2026年10月14日 Photography by Hannah Whitaker Our appetite for seafood is growing. In the last 60 years, the global consumption of fish has more than doubled. As demand has increased, so have dangerous levels of overfishing: One-third of the world’s fi…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/crvg9n72v9p2o/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -328,28 +394,6 @@ const jsonData = [
     "author": "",
     "description": "Ariella Baltié / 阿里埃拉·巴尔蒂（Ariella Baltié）专门从事法律翻译工作，她表示误译的后果可以很严重。 法国人在下大雨时会说“Il pleut des cordes”。 直译是“天上在下绳子”（It's raining ropes）。这类惯用语，往往会难倒人工智能翻译。 “你可以想像，这会令人工智能陷入怎样的两难。”法国国家科学研究中心（CNRS）专攻自动翻译的研究主任弗朗索瓦·伊冯（François Yv…",
     "content": "Ariella Baltié / 阿里埃拉·巴尔蒂（Ariella Baltié）专门从事法律翻译工作，她表示误译的后果可以很严重。 法国人在下大雨时会说“Il pleut des cordes”。 直译是“天上在下绳子”（It's raining ropes）。这类惯用语，往往会难倒人工智能翻译。 “你可以想像，这会令人工智能陷入怎样的两难。”法国国家科学研究中心（CNRS）专攻自动翻译的研究主任弗朗索瓦·伊冯（François Yvon）说。 他表示，训练良好的系统会知道，天上并不是真的掉下绳子，因此会使用英语…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20261014/japan-cyberattack-artificial-intelligence/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "人工智能推波助澜，网络攻击席卷日本",
-    "link": "https://cn.nytimes.com/asia-pacific/20261014/japan-cyberattack-artificial-intelligence/dual",
-    "pub_date": "2026-10-14 10:36:04",
-    "author": "",
-    "description": "TIFFANY MAY, KIUKO NOTOYA2026年10月14日日本遭遇了一波网络攻击，企业和政府均受影响。 Haiyun Jiang/The New York Times A wave of cyberattacks has wreaked havoc in Japan over the past few weeks, leaving virtually no industry untouched and the govern…",
-    "content": "TIFFANY MAY, KIUKO NOTOYA 2026年10月14日 日本遭遇了一波网络攻击，企业和政府均受影响。 Haiyun Jiang/The New York Times A wave of cyberattacks has wreaked havoc in Japan over the past few weeks, leaving virtually no industry untouched and the government searching for answers about how t…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261014/north-korea-it-workers-fbi/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "FBI捣毁涉朝鲜IT诈骗网络：盗用身份获取美国工作岗位",
-    "link": "https://cn.nytimes.com/usa/20261014/north-korea-it-workers-fbi/dual",
-    "pub_date": "2026-10-14 10:06:03",
-    "author": "",
-    "description": "DUSTIN VOLZ2026年10月14日美国官员称，近年来，朝鲜通过远程IT工作者项目规避了国际制裁，赚取了数十亿美元的现金。 Anthony Wallace/Agence France-Presse — Getty Images The F.B.I. last month disrupted a widespread network of American facilitators accused of aiding the No…",
-    "content": "DUSTIN VOLZ 2026年10月14日 美国官员称，近年来，朝鲜通过远程IT工作者项目规避了国际制裁，赚取了数十亿美元的现金。 Anthony Wallace/Agence France-Presse — Getty Images The F.B.I. last month disrupted a widespread network of American facilitators accused of aiding the North Korean government in securing remo…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cmg47k6z44w7o/simp?at_medium=RSS&at_campaign=rss",
@@ -396,17 +440,6 @@ const jsonData = [
     "content": "Getty Images / 尊界是华为和江淮汽车联合开发的高档电动车车系。 中国知名车媒懂车帝近日发布对电动车尊界V800的测试影片，显示多辆测试车在紧急制动过程中制动踏板支架断裂。事件迅速引发舆论关注，但相关影片随后在多个平台被下架，在官方定调之前，多数主流媒体亦保持沉默。 影片10月8日发布后快速冲上微博热搜，仅次日，测评影片陆续无法在多个平台正常查看，多家主流媒体亦未持续跟进相关争议，直至11日中共官方《人民日报》发文，才再次带动中国多家官方媒体集中跟进。 香港浸会大学传理学院副教授闾丘露薇对BBC中文分析…"
   },
   {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261013/russia-diesel-trump/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "俄乌陷入经济战，特朗普助普京一臂之力",
-    "link": "https://cn.nytimes.com/world/20261013/russia-diesel-trump/dual",
-    "pub_date": "2026-10-13 13:36:03",
-    "author": "",
-    "description": "CONSTANT MÉHEUT2026年10月13日上个月，莫斯科一家炼油厂发生火灾，浓烟升腾。据当局称，此次火灾是由乌克兰无人机袭击引发的。 Reuters With the front lines largely frozen, Russia and Ukraine have turned the war into a contest of economic endurance. Kyiv has gone after Russia…",
-    "content": "CONSTANT MÉHEUT 2026年10月13日 上个月，莫斯科一家炼油厂发生火灾，浓烟升腾。据当局称，此次火灾是由乌克兰无人机袭击引发的。 Reuters With the front lines largely frozen, Russia and Ukraine have turned the war into a contest of economic endurance. Kyiv has gone after Russia’s oil refineries. Moscow has hit Ukra…"
-  },
-  {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cmeweg5eg7ljo/simp?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC 中文版",
     "category": "国外",
@@ -427,39 +460,6 @@ const jsonData = [
     "author": "",
     "description": "AFP via Getty Images / 据报道，受影响的两家连锁超市之一 Intermarché 在法国拥有超过2000家门市，但只有一部分门市遭到黑客攻击。 数百家法国超市遭受网路攻击，导致其冰箱和冰柜过热，造成价值数百万欧元的生鲜和冷冻食品变质。 据一家受影响的连锁超市称，骇客控制了调节冷藏设备温度的软体，迫使一些冷藏设备在一夜之间升温至50摄氏度。 U合作社（Coopérative U）的执行长表示，旗下多家超市遭到了“极其…",
     "content": "AFP via Getty Images / 据报道，受影响的两家连锁超市之一 Intermarché 在法国拥有超过2000家门市，但只有一部分门市遭到黑客攻击。 数百家法国超市遭受网路攻击，导致其冰箱和冰柜过热，造成价值数百万欧元的生鲜和冷冻食品变质。 据一家受影响的连锁超市称，骇客控制了调节冷藏设备温度的软体，迫使一些冷藏设备在一夜之间升温至50摄氏度。 U合作社（Coopérative U）的执行长表示，旗下多家超市遭到了“极其严重且史无前例”的攻击。 该连锁超市的100多家门市成为攻击目标，Interma…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261013/cornell-assault-frat-israel/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "为何大学校园强奸案反复重演？",
-    "link": "https://cn.nytimes.com/usa/20261013/cornell-assault-frat-israel/dual",
-    "pub_date": "2026-10-13 11:36:05",
-    "author": "",
-    "description": "KATRIN BENNHOLD2026年10月13日康奈尔大学Chi Phi兄弟会所。 Lauren Petracca for The New York Times Last weekend, over brunch, my 14-year-old daughter brought up the alleged rape at Cornell, one of America’s top universities. I was surpr…",
-    "content": "KATRIN BENNHOLD 2026年10月13日 康奈尔大学Chi Phi兄弟会所。 Lauren Petracca for The New York Times Last weekend, over brunch, my 14-year-old daughter brought up the alleged rape at Cornell, one of America’s top universities. I was surprised. She had a lot to say; it was all…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/culture/20261013/what-to-know-about-the-new-elon-musk-documentary/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "全球首富的崛起之路：马斯克纪录片讲了些什么",
-    "link": "https://cn.nytimes.com/culture/20261013/what-to-know-about-the-new-elon-musk-documentary/dual",
-    "pub_date": "2026-10-13 11:36:05",
-    "author": "",
-    "description": "MATTHEW HUFF2026年10月13日纪录片里的马斯克。 Bleeker Street Alex Gibney opens his documentary about the tech titan Elon Musk with a question: “How could Musk assume so much power, and why had we given it to him?” 亚历克斯·吉布尼关于科技巨头埃隆·马斯…",
-    "content": "MATTHEW HUFF 2026年10月13日 纪录片里的马斯克。 Bleeker Street Alex Gibney opens his documentary about the tech titan Elon Musk with a question: “How could Musk assume so much power, and why had we given it to him?” 亚历克斯·吉布尼 关于科技巨头埃隆·马斯克的纪录片 以这样一个问题开场：“马斯克怎么能获得这么大的权力，而我们又为…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261013/europe-china-evs-hybrids/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "欧洲为何对中国电动汽车爱恨交加",
-    "link": "https://cn.nytimes.com/business/20261013/europe-china-evs-hybrids/dual",
-    "pub_date": "2026-10-13 10:36:05",
-    "author": "",
-    "description": "JAMES PATON2026年10月13日位于英国利兹的一家比亚迪展厅。在欧洲售出的汽车中，大约每10辆就有一辆是中国汽车。 Owen Richards for The New York Times BYD, China’s dominant maker of electric vehicles, aims to open so many outlets in Germany that no one has to travel mor…",
-    "content": "JAMES PATON 2026年10月13日 位于英国利兹的一家比亚迪展厅。在欧洲售出的汽车中，大约每10辆就有一辆是中国汽车。 Owen Richards for The New York Times BYD, China’s dominant maker of electric vehicles, aims to open so many outlets in Germany that no one has to travel more than 20 minutes to buy one of its ca…"
   },
   {
     "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cm20wlw680w9o/simp?at_medium=RSS&at_campaign=rss",
