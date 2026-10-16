@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-10-15T10:37:00.289Z",
-  "ended_at": "2026-10-15T10:37:00.490Z",
-  "duration_ms": 201,
+  "started_at": "2026-10-16T00:57:06.338Z",
+  "ended_at": "2026-10-16T00:57:06.562Z",
+  "duration_ms": 224,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -17,12 +17,12 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 46,
-    "failed_sources": 13,
-    "circuit_open_sources": 13,
+    "cache_hit_sources": 47,
+    "failed_sources": 12,
+    "circuit_open_sources": 12,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1321,
-    "total_items_after_retention": 1111,
+    "total_items_after_dedupe": 1372,
+    "total_items_after_retention": 1162,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -72,7 +72,7 @@
     {
       "title": "路由器交流",
       "url": "https://www.acwifi.net/feed",
-      "reason": "HTTP 500",
+      "reason": "Invalid character in tag name\nLine: 0\nColumn: 384\nChar: ;",
       "skippedByCircuit": true
     },
     {
@@ -85,12 +85,6 @@
       "title": "阮一峰的网络日志",
       "url": "https://www.ruanyifeng.com/blog/atom.xml",
       "reason": "HTTP 403",
-      "skippedByCircuit": true
-    },
-    {
-      "title": "InfoQ 中文",
-      "url": "https://plink.anyfeeder.com/infoq/recommend",
-      "reason": "The operation was aborted.",
       "skippedByCircuit": true
     },
     {
@@ -145,7 +139,7 @@
     {
       "title": "路由器交流",
       "url": "https://www.acwifi.net/feed",
-      "reason": "HTTP 500"
+      "reason": "Invalid character in tag name\nLine: 0\nColumn: 384\nChar: ;"
     },
     {
       "title": "技術討論區 | 草榴社區 - t66y.com",
@@ -156,11 +150,6 @@
       "title": "阮一峰的网络日志",
       "url": "https://www.ruanyifeng.com/blog/atom.xml",
       "reason": "HTTP 403"
-    },
-    {
-      "title": "InfoQ 中文",
-      "url": "https://plink.anyfeeder.com/infoq/recommend",
-      "reason": "The operation was aborted."
     },
     {
       "title": "FreeBuf 关注黑客",
