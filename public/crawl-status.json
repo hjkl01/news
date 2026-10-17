@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-10-16T10:23:50.071Z",
-  "ended_at": "2026-10-16T10:23:50.262Z",
-  "duration_ms": 191,
+  "started_at": "2026-10-17T00:58:01.173Z",
+  "ended_at": "2026-10-17T00:58:01.390Z",
+  "duration_ms": 217,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -17,12 +17,12 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 45,
-    "failed_sources": 14,
-    "circuit_open_sources": 14,
+    "cache_hit_sources": 46,
+    "failed_sources": 13,
+    "circuit_open_sources": 13,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1237,
-    "total_items_after_retention": 1028,
+    "total_items_after_dedupe": 1340,
+    "total_items_after_retention": 1132,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -30,7 +30,7 @@
     {
       "title": "中国新闻网 要闻导读",
       "url": "https://www.chinanews.com.cn/rss/importnews.xml",
-      "reason": "Invalid character in entity name\nLine: 121\nColumn: 53\nChar: <",
+      "reason": "Invalid character in entity name\nLine: 125\nColumn: 53\nChar: <",
       "skippedByCircuit": true
     },
     {
@@ -94,12 +94,6 @@
       "skippedByCircuit": true
     },
     {
-      "title": "人人都是产品经理",
-      "url": "https://plink.anyfeeder.com/woshipm/popular",
-      "reason": "The operation was aborted.",
-      "skippedByCircuit": true
-    },
-    {
       "title": "FreeBuf 关注黑客",
       "url": "https://plink.anyfeeder.com/freebuf",
       "reason": "HTTP 405",
@@ -116,7 +110,7 @@
     {
       "title": "中国新闻网 要闻导读",
       "url": "https://www.chinanews.com.cn/rss/importnews.xml",
-      "reason": "Invalid character in entity name\nLine: 121\nColumn: 53\nChar: <"
+      "reason": "Invalid character in entity name\nLine: 125\nColumn: 53\nChar: <"
     },
     {
       "title": "网易新闻 / 今日关注",
@@ -167,11 +161,6 @@
       "title": "阮一峰的网络日志",
       "url": "https://www.ruanyifeng.com/blog/atom.xml",
       "reason": "HTTP 403"
-    },
-    {
-      "title": "人人都是产品经理",
-      "url": "https://plink.anyfeeder.com/woshipm/popular",
-      "reason": "The operation was aborted."
     },
     {
       "title": "FreeBuf 关注黑客",
