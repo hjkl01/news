@@ -1,36 +1,47 @@
 const jsonData = [
   {
-    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/5f7cbefda406",
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/450601beb20b",
     "feed_name": "简书 / 首页",
     "category": "娱乐",
-    "title": "使用nvm在Windows上管理Node版本",
-    "link": "https://www.jianshu.com/p/5f7cbefda406",
-    "pub_date": "2026-10-17 17:37:58",
-    "author": "胡小喵_",
-    "description": "1.卸载Windows上安装的Node.js 首先需要卸载我们现在安装的Node.js，控制面板->卸载程序->卸载Node.js 2.下载安装配置nvm 1.下载 GitHub下载链接:https://github.com/coreybutler/nvm-windows/releases 需要下载黄色方框圈中的nvm-setup.exe或者nvm-setup.zip,安装包形式的不用配置环境就可以使用。 2.安装 直接一路next直到…",
-    "content": "1.卸载Windows上安装的Node.js 首先需要卸载我们现在安装的Node.js，控制面板-&gt;卸载程序-&gt;卸载Node.js 2.下载安装配置nvm 1.下载 GitHub下载链接: https://github.com/coreybutler/nvm-windows/releases 需要下载黄色方框圈中的 nvm-setup.exe 或者 nvm-setup.zip ,安装包形式的不用配置环境就可以使用。 2.安装 直接一路next直到安装。控制台输入 nvm ，出现以下界面则表示安装成功。 …"
+    "title": "20个常用的Python库",
+    "link": "https://www.jianshu.com/p/450601beb20b",
+    "pub_date": "2026-10-18 08:14:52",
+    "author": "汲之郎",
+    "description": "Requests.Kenneth Reitz写的最富盛名的http库。每个Python程序员都应该有它。 Scrapy.如果你从事爬虫相关的工作，那么这个库也是必不可少的。用过它之后你就不会再想用别的同类库了。 wxPython.Python的一个GUI（图形用户界面）工具。我主要用它替代tkinter。你一定会爱上它的。 Pillow.它是PIL（Python图形库）的一个友好分支。对于用户比PIL更加友好，对于任何在图形领域工作的人…",
+    "content": "Requests.Kenneth Reitz写的最富盛名的http库。每个Python程序员都应该有它。 Scrapy.如果你从事爬虫相关的工作，那么这个库也是必不可少的。用过它之后你就不会再想用别的同类库了。 wxPython.Python的一个GUI（图形用户界面）工具。我主要用它替代tkinter。你一定会爱上它的。 Pillow.它是PIL（Python图形库）的一个友好分支。对于用户比PIL更加友好，对于任何在图形领域工作的人是必备的库。 SQLAlchemy.一个数据库的库。对它的评价褒贬参半。是否使用…"
   },
   {
-    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/b952ac9c51f2",
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/110e739b2028",
     "feed_name": "简书 / 首页",
     "category": "娱乐",
-    "title": "想法",
-    "link": "https://www.jianshu.com/p/b952ac9c51f2",
-    "pub_date": "2026-10-17 17:37:58",
-    "author": "风中逐梦",
-    "description": "每个人，头脑中总会冒出一些想法，而这些想法，有一些也的确会让自己受益，只不过大多数人都没有去做，为何？无非是想等自己都准备好了再动手。结果，准备来准备去，事情还没完全准备好，自己先“凉”了。 其实，有了想法，未必要都全都准备好再动手。可以先动起来，边做边补充。因为人的热情是有时效的，如果迟迟不动手，热情会冷却，动力会冷，想法也就只能停留在纸面。想与做，在很多时候，做更重要。做起来，让自己的热情不要冷却，缺什么补什么，在行动中不断完善，这…",
-    "content": "每个人，头脑中总会冒出一些想法，而这些想法，有一些也的确会让自己受益，只不过大多数人都没有去做，为何？无非是想等自己都准备好了再动手。结果，准备来准备去，事情还没完全准备好，自己先“凉”了。 其实，有了想法，未必要都全都准备好再动手。可以先动起来，边做边补充。因为人的热情是有时效的，如果迟迟不动手，热情会冷却，动力会冷，想法也就只能停留在纸面。想与做，在很多时候，做更重要。做起来，让自己的热情不要冷却，缺什么补什么，在行动中不断完善，这才是最好的路子。 想法有了，一定要做起来。哪怕是因为没有准备充分而失败，总也好过…"
+    "title": "324页清华教授撰写【Python3 菜鸟查询手册学习】笔记在互联网上火了，完整版PDF开放下载",
+    "link": "https://www.jianshu.com/p/110e739b2028",
+    "pub_date": "2026-10-18 08:14:52",
+    "author": "程序媛_lisa",
+    "description": "Python前景怎么样？ 当你在学习这门语言的时候，你会不会担心以后找不到一份满意的工作？ 事实上，人生当中，每一次的学习，最后都会让你通过这项技能，让你遇到适合自已的工作。 或许在当下，你花了钱，有些后悔，没有学到知识，但是半年后，一年后，几年后，对你来说，你一定会感谢自已。 学习Python的未来前景如下： Python言语有一个特点就是没有什么特别强势的，可是它能够使用都非常的多范畴，并且效率高的可怕，Python的使用范畴非常多…",
+    "content": "Python前景怎么样？ 当你在学习这门语言的时候，你会不会担心以后找不到一份满意的工作？ 事实上，人生当中，每一次的学习，最后都会让你通过这项技能，让你遇到适合自已的工作。 或许在当下，你花了钱，有些后悔，没有学到知识，但是半年后，一年后，几年后，对你来说，你一定会感谢自已。 学习Python的未来前景如下： Python言语有一个特点就是没有什么特别强势的，可是它能够使用都非常的多范畴，并且效率高的可怕，Python的使用范畴非常多，现在据了解国内应该是没有太多人学习Python，而Python的招聘和薪酬确实…"
   },
   {
-    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/af0460eacd96",
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/2d8adeac385a",
     "feed_name": "简书 / 首页",
     "category": "娱乐",
-    "title": "CocoaPods安装 (清除重装)",
-    "link": "https://www.jianshu.com/p/af0460eacd96",
-    "pub_date": "2026-10-17 17:37:56",
-    "author": "心猿意码_",
-    "description": "CocoaPods官网 Homebrew官网 一、全新安装前，先检查是否有安装残留（删除CocoaPods） 1、如果之前装过cocopods，最好先卸载掉，卸载命令： sudo gem uninstall cocoapods 2、先查看本地安装过的cocopods相关东西，命令如下： gem list --local | grep cocoapods 会显示如下： cocoapods-core (0.39.0) cocoapods-d…",
-    "content": "CocoaPods官网 Homebrew官网 一、全新安装前，先检查是否有安装残留（删除CocoaPods） 1、如果之前装过cocopods，最好先卸载掉，卸载命令： sudo gem uninstall cocoapods 2、先查看本地安装过的cocopods相关东西，命令如下： gem list --local | grep cocoapods 会显示如下： cocoapods-core (0.39.0) cocoapods-downloader (0.9.3) cocoapods-plugins (0.4…"
+    "title": "跟着Nature Communications学作图：R语言ggplot2平滑曲线折线图",
+    "link": "https://www.jianshu.com/p/2d8adeac385a",
+    "pub_date": "2026-10-18 08:14:52",
+    "author": "小明的数据分析笔记本",
+    "description": "论文 A highly conserved core bacterial microbiota with nitrogen-fixation capacity inhabits the xylem sap in maize plants https://www.nature.com/articles/s41467-022-31113-w 本地pdf s41467-022-31113-w.pdf 数据代码链接 https://github…",
+    "content": "论文 A highly conserved core bacterial microbiota with nitrogen-fixation capacity inhabits the xylem sap in maize plants https://www.nature.com/articles/s41467-022-31113-w 本地pdf s41467-022-31113-w.pdf 数据代码链接 https://github.com/PlantNutrition/Liyu 今天的推文我们重复一下论文中的…"
+  },
+  {
+    "id": "娱乐-喷嚏图卦-https://www.dapenti.com/blog/more.asp?name=xilei&id=196191",
+    "feed_name": "喷嚏图卦",
+    "category": "娱乐",
+    "title": "【喷嚏图卦20261017】个人是养老第一责任人",
+    "link": "https://www.dapenti.com/blog/more.asp?name=xilei&id=196191",
+    "pub_date": "2026-10-17 17:13:00",
+    "author": "xilei",
+    "description": "【1】贵阳一在建环城高速项目发生土体垮塌致3人死亡 据新华社，记者从贵州省相关部门获悉，10月16日上午，在建G6002贵阳环城高速公路扩容工程施工现场发生土体垮塌事故，造成3名施工人员不幸遇难。 事故发生后，省、市应急、交通及属地政府相关部门赶赴现场，立即开展抢险救援、险情排查、善后处置等工作。目前，事故调查组已启动事故原因调查，同步统筹遇难人员家属安抚、善后赔偿等相关事宜。 【2】山东民政厅厅长：个人是养老第一责任人。发挥“有爱家庭…",
+    "content": "【1】贵阳一在建环城高速项目发生土体垮塌致3人死亡 据新华社，记者从贵州省相关部门获悉，10月16日上午，在建G6002贵阳环城高速公路扩容工程施工现场发生土体垮塌事故，造成3名施工人员不幸遇难。 事故发生后，省、市应急、交通及属地政府相关部门赶赴现场，立即开展抢险救援、险情排查、善后处置等工作。目前，事故调查组已启动事故原因调查，同步统筹遇难人员家属安抚、善后赔偿等相关事宜。 【2】山东民政厅厅长：个人是养老第一责任人。发挥“有爱家庭”作用 ，提前规划养老生活 【3】中央纪委国家监委网站：不论职务高低、贡献大小、…"
   },
   {
     "id": "娱乐-喷嚏图卦-https://www.dapenti.com/blog/more.asp?name=xilei&id=196177",
@@ -53,17 +64,6 @@ const jsonData = [
     "author": "xilei",
     "description": "【1】彭博社：国行 Apple 智能计划在 12 月上线，随 iOS 27.3 发布。 知情人士透露，首批上线的功能包含 Genmoji 自定义表情、通知摘要、写作工具以及从照片中移除特定元素等功能，即坊间俗称的「跑马灯」版本，而非 WWDC26 中发布的 Siri AI。 【2】国际机构报告：AI代理从腾讯云沙盒“越狱”入侵高德系统 一个国际研究团队发现，疑似来自中国的失控人工智能（AI）代理从腾讯云沙盒环境中越狱，试图入侵阿里旗下高…",
     "content": "【1】彭博社：国行 Apple 智能计划在 12 月上线，随 iOS 27.3 发布。 知情人士透露，首批上线的功能包含 Genmoji 自定义表情、通知摘要、写作工具以及从照片中移除特定元素等功能，即坊间俗称的「跑马灯」版本，而非 WWDC26 中发布的 Siri AI。 【2】国际机构报告：AI代理从腾讯云沙盒“越狱”入侵高德系统 一个国际研究团队发现，疑似来自中国的失控人工智能（AI）代理从腾讯云沙盒环境中越狱，试图入侵阿里旗下高德地图的系统，进一步加剧了外界对于科技公司可能失去对AI控制的担忧。 【3】库克…"
-  },
-  {
-    "id": "娱乐-喷嚏图卦-https://www.dapenti.com/blog/more.asp?name=xilei&id=196131",
-    "feed_name": "喷嚏图卦",
-    "category": "娱乐",
-    "title": "【喷嚏图卦20261014】好日子来了",
-    "link": "https://www.dapenti.com/blog/more.asp?name=xilei&id=196131",
-    "pub_date": "2026-10-14 16:31:00",
-    "author": "xilei",
-    "description": "【1】黄奇帆落马 近年来以学者身份活跃的十八届中央委员、重庆原市长黄奇帆，退休8年后官宣落马。10月13日，中央纪委国家监委网站通报该消息。 坊间一度有“政坛不倒翁”之说的黄奇帆，在一个月前还有公开出席活动。据厦门发改委网站，9月8日，第八届“丝路海运”国际合作论坛在福建厦门开幕，重庆市政府原市长黄奇帆作主旨演讲。 另据财新获悉，宁波银行杭州分行计划于10月26日举办的一场论坛上，黄奇帆原作为主讲嘉宾发表2小时主旨演讲，但在社交媒体上即…",
-    "content": "【1】黄奇帆落马 近年来以学者身份活跃的十八届中央委员、重庆原市长黄奇帆，退休8年后官宣落马。10月13日，中央纪委国家监委网站通报该消息。 坊间一度有“政坛不倒翁”之说的黄奇帆，在一个月前还有公开出席活动。据厦门发改委网站，9月8日，第八届“丝路海运”国际合作论坛在福建厦门开幕，重庆市政府原市长黄奇帆作主旨演讲。 另据财新获悉，宁波银行杭州分行计划于10月26日举办的一场论坛上，黄奇帆原作为主讲嘉宾发表2小时主旨演讲，但在社交媒体上即流传该活动“因故取消”的消息。 【2】国家税务总局：单位欠缴社保，最高罚3倍，1…"
   }
 ];
 
