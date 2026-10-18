@@ -1,36 +1,25 @@
 const jsonData = [
   {
-    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/450601beb20b",
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/ccc01ad6527d",
     "feed_name": "简书 / 首页",
     "category": "娱乐",
-    "title": "20个常用的Python库",
-    "link": "https://www.jianshu.com/p/450601beb20b",
-    "pub_date": "2026-10-18 08:14:52",
-    "author": "汲之郎",
-    "description": "Requests.Kenneth Reitz写的最富盛名的http库。每个Python程序员都应该有它。 Scrapy.如果你从事爬虫相关的工作，那么这个库也是必不可少的。用过它之后你就不会再想用别的同类库了。 wxPython.Python的一个GUI（图形用户界面）工具。我主要用它替代tkinter。你一定会爱上它的。 Pillow.它是PIL（Python图形库）的一个友好分支。对于用户比PIL更加友好，对于任何在图形领域工作的人…",
-    "content": "Requests.Kenneth Reitz写的最富盛名的http库。每个Python程序员都应该有它。 Scrapy.如果你从事爬虫相关的工作，那么这个库也是必不可少的。用过它之后你就不会再想用别的同类库了。 wxPython.Python的一个GUI（图形用户界面）工具。我主要用它替代tkinter。你一定会爱上它的。 Pillow.它是PIL（Python图形库）的一个友好分支。对于用户比PIL更加友好，对于任何在图形领域工作的人是必备的库。 SQLAlchemy.一个数据库的库。对它的评价褒贬参半。是否使用…"
+    "title": "37. 解数独",
+    "link": "https://www.jianshu.com/p/ccc01ad6527d",
+    "pub_date": "2026-10-18 17:19:44",
+    "author": "一直流浪",
+    "description": "37. 解数独（难度：困难） 题目链接：https://leetcode-cn.com/problems/sudoku-solver/ 编写一个程序，通过已填充的空格来解决数独问题。 一个数独的解法需遵循如下规则： 数字 1-9 在每一行只能出现一次。 数字 1-9 在每一列只能出现一次。 数字 1-9 在每一个以粗实线分隔的 3x3 宫内只能出现一次。 空白格用 '.' 表示。 一个数独。 答案被标成红色。 Note: 给定的数独序列…",
+    "content": "37. 解数独（难度：困难） 题目链接： https://leetcode-cn.com/problems/sudoku-solver/ 编写一个程序，通过已填充的空格来解决数独问题。 一个数独的解法需 遵循如下规则 ： 数字 1-9 在每一行只能出现一次。 数字 1-9 在每一列只能出现一次。 数字 1-9 在每一个以粗实线分隔的 3x3 宫内只能出现一次。 空白格用 '.' 表示。 一个数独。 答案被标成红色。 Note: 给定的数独序列只包含数字 1-9 和字符 '.' 。 你可以假设给定的数独只有唯一解。 …"
   },
   {
-    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/110e739b2028",
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/02dc021e031c",
     "feed_name": "简书 / 首页",
     "category": "娱乐",
-    "title": "324页清华教授撰写【Python3 菜鸟查询手册学习】笔记在互联网上火了，完整版PDF开放下载",
-    "link": "https://www.jianshu.com/p/110e739b2028",
-    "pub_date": "2026-10-18 08:14:52",
-    "author": "程序媛_lisa",
-    "description": "Python前景怎么样？ 当你在学习这门语言的时候，你会不会担心以后找不到一份满意的工作？ 事实上，人生当中，每一次的学习，最后都会让你通过这项技能，让你遇到适合自已的工作。 或许在当下，你花了钱，有些后悔，没有学到知识，但是半年后，一年后，几年后，对你来说，你一定会感谢自已。 学习Python的未来前景如下： Python言语有一个特点就是没有什么特别强势的，可是它能够使用都非常的多范畴，并且效率高的可怕，Python的使用范畴非常多…",
-    "content": "Python前景怎么样？ 当你在学习这门语言的时候，你会不会担心以后找不到一份满意的工作？ 事实上，人生当中，每一次的学习，最后都会让你通过这项技能，让你遇到适合自已的工作。 或许在当下，你花了钱，有些后悔，没有学到知识，但是半年后，一年后，几年后，对你来说，你一定会感谢自已。 学习Python的未来前景如下： Python言语有一个特点就是没有什么特别强势的，可是它能够使用都非常的多范畴，并且效率高的可怕，Python的使用范畴非常多，现在据了解国内应该是没有太多人学习Python，而Python的招聘和薪酬确实…"
-  },
-  {
-    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/2d8adeac385a",
-    "feed_name": "简书 / 首页",
-    "category": "娱乐",
-    "title": "跟着Nature Communications学作图：R语言ggplot2平滑曲线折线图",
-    "link": "https://www.jianshu.com/p/2d8adeac385a",
-    "pub_date": "2026-10-18 08:14:52",
-    "author": "小明的数据分析笔记本",
-    "description": "论文 A highly conserved core bacterial microbiota with nitrogen-fixation capacity inhabits the xylem sap in maize plants https://www.nature.com/articles/s41467-022-31113-w 本地pdf s41467-022-31113-w.pdf 数据代码链接 https://github…",
-    "content": "论文 A highly conserved core bacterial microbiota with nitrogen-fixation capacity inhabits the xylem sap in maize plants https://www.nature.com/articles/s41467-022-31113-w 本地pdf s41467-022-31113-w.pdf 数据代码链接 https://github.com/PlantNutrition/Liyu 今天的推文我们重复一下论文中的…"
+    "title": "《美人余》全集免费观看-《美人余》电视剧在线观看高清完整版-《美人余》剧情介绍-《美人余》大结局-《美人余》李一桐都市情感剧-《美人余》无删减版资源",
+    "link": "https://www.jianshu.com/p/02dc021e031c",
+    "pub_date": "2026-10-18 17:19:44",
+    "author": "强东瓜摊",
+    "description": "上线三天冲进热播榜前三的《美人余》，把\"赘婿吃绝户\"拍成了照妖镜？附《美人余》在线观看高清完整版追剧指南、《美人余》剧情介绍、《美人余》大结局走向分析 《美人余》是10月9号刚上的剧，我周末一口气把更新的几集全刷了。 说实话，都市情感剧我看得不多，这类题材要么悬浮要么狗血，很难有让我熬夜看的。这部是个例外。李一桐演的余梦，是江浙沪独生女，家境好，工作稳定，结婚五年，丈夫狄立人是公认的模范丈夫。模范到什么程度呢，早上做早餐，纪念日送礼物，…",
+    "content": "上线三天冲进热播榜前三的《美人余》，把\"赘婿吃绝户\"拍成了照妖镜？附《美人余》在线观看高清完整版追剧指南、《美人余》剧情介绍、《美人余》大结局走向分析 《美人余》是10月9号刚上的剧，我周末一口气把更新的几集全刷了。 说实话，都市情感剧我看得不多，这类题材要么悬浮要么狗血，很难有让我熬夜看的。这部是个例外。李一桐演的余梦，是江浙沪独生女，家境好，工作稳定，结婚五年，丈夫狄立人是公认的模范丈夫。模范到什么程度呢，早上做早餐，纪念日送礼物，朋友圈里全是\"羡慕死我了\"。 然后在她结婚五周年纪念日那天，她发现这一切全是假的…"
   },
   {
     "id": "娱乐-喷嚏图卦-https://www.dapenti.com/blog/more.asp?name=xilei&id=196191",
