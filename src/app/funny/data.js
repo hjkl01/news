@@ -1,25 +1,25 @@
 const jsonData = [
   {
-    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/b81a624f28b0",
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/bcf82e4fa2b6",
     "feed_name": "简书 / 首页",
     "category": "娱乐",
-    "title": "退稿",
-    "link": "https://www.jianshu.com/p/b81a624f28b0",
-    "pub_date": "2026-10-20 18:08:54",
+    "title": "SpringBoot代码集",
+    "link": "https://www.jianshu.com/p/bcf82e4fa2b6",
+    "pub_date": "2026-10-21 08:12:33",
     "author": "",
-    "description": "打开简书之前，我先开了中国作家网投稿后台，看到投稿直接是不通过，没有任何通知和退回信息。 23年连续投稿10篇通过了，当时还有几篇退回都有告知具体退回情况，这次又是无声的退回。 每次退回没有信息，我就在想原因是什么？事情情感的不丰富还是无法达成这个平台的发表要求，想起23年连续投稿的十篇，还没有此刻写的有感觉，或许真的是文字越来越职场味道，少了一些随笔的韵味，少了一些缱绻到来的温情。 文字是需要打磨的，更是需要通过模仿来实现。 还有种退…",
-    "content": "打开简书之前，我先开了中国作家网投稿后台，看到投稿直接是不通过，没有任何通知和退回信息。 23年连续投稿10篇通过了，当时还有几篇退回都有告知具体退回情况，这次又是无声的退回。 每次退回没有信息，我就在想原因是什么？事情情感的不丰富还是无法达成这个平台的发表要求，想起23年连续投稿的十篇，还没有此刻写的有感觉，或许真的是文字越来越职场味道，少了一些随笔的韵味，少了一些缱绻到来的温情。 文字是需要打磨的，更是需要通过模仿来实现。 还有种退稿的可能，是换了审核人，因此我的文字风格无法达成这个这篇审核的内容，或者大主题不…"
+    "description": "一、获取Spring容器对象 1.1 实现BeanFactoryAware接口 实现BeanFactoryAware接口，然后重写setBeanFactory方法，就能从该方法中获取到Spring容器对象。 @Service public class PersonService implements BeanFactoryAware { private BeanFactory beanFactory; @Override public …",
+    "content": "一、获取Spring容器对象 1.1 实现BeanFactoryAware接口 实现BeanFactoryAware接口，然后重写 setBeanFactory 方法，就能从该方法中获取到Spring容器对象。 @Service public class PersonService implements BeanFactoryAware { private BeanFactory beanFactory; @Override public void setBeanFactory(BeanFactory beanFa…"
   },
   {
-    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/c594b1e6d4e1",
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/f50a31957c68",
     "feed_name": "简书 / 首页",
     "category": "娱乐",
-    "title": "心灵一号问道｜真正的东方生活，从来不用刻意摆拍",
-    "link": "https://www.jianshu.com/p/c594b1e6d4e1",
-    "pub_date": "2026-10-20 18:08:53",
+    "title": "Spring Boot项目自定义启动Banner",
+    "link": "https://www.jianshu.com/p/f50a31957c68",
+    "pub_date": "2026-10-21 08:12:33",
     "author": "",
-    "description": "不知道从什么时候起，东方生活变成了朋友圈的九宫格：精心摆盘的茶席、特意熨烫的汉服、调了半小时的光线，拍完照就悉数撤掉，茶凉了，人也累了。仿佛东方雅致是一种表演，是专门做出来给别人看的。摆的元素越多，越有东方那味儿。 但真正身处东方文化里的人都知道：真正的东方生活，从来不用刻意摆拍。 2026 年，中国服装设计师协会正式提出，新中式美学已经进入 3.0 时代：彻底告别早期立领、盘扣、纹样等表层符号的简单堆砌，转向更为含蓄、内敛的精神内核表…",
-    "content": "不知道从什么时候起，东方生活变成了朋友圈的九宫格：精心摆盘的茶席、特意熨烫的汉服、调了半小时的光线，拍完照就悉数撤掉，茶凉了，人也累了。仿佛东方雅致是一种表演，是专门做出来给别人看的。摆的元素越多，越有东方那味儿。 但真正身处东方文化里的人都知道：真正的东方生活，从来不用刻意摆拍。 2026 年，中国服装设计师协会正式提出，新中式美学已经进入 3.0 时代：彻底告别早期立领、盘扣、纹样等表层符号的简单堆砌，转向更为含蓄、内敛的精神内核表达。从 “看得见的中国风”，转向 “感受得到的东方气韵”，已经成为全行业的共识。…"
+    "description": "一、什么是banner SpringBoot项目启动的时候会打印一个图案，这个图案就是所说的banner，默认的banner是像下面这个样子， 其实这个图案是可以改变的，可以用自定义的图案。 1.原版.PNG 二、自定义banner 首先在resource下面创建一个banner.txt文件，SpringBoot项目启动的时候会打印这个文件的内容，比如 2.自定义.PNG 代码如下： ${AnsiColor.BRIGHT_YELLOW}…",
+    "content": "一、什么是banner SpringBoot项目启动的时候会打印一个图案，这个图案就是所说的banner，默认的banner是像下面这个样子， 其实这个图案是可以改变的，可以用自定义的图案。 1.原版.PNG 二、自定义banner 首先在resource下面创建一个banner.txt文件，SpringBoot项目启动的时候会打印这个文件的内容，比如 2.自定义.PNG 代码如下： ${AnsiColor.BRIGHT_YELLOW} ///////////////////////////////////////…"
   },
   {
     "id": "娱乐-喷嚏图卦-https://www.dapenti.com/blog/more.asp?name=xilei&id=196250",
