@@ -1,5 +1,60 @@
 const jsonData = [
   {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/opinion/20261027/ai-computer-chips-semiconductor-arizona-industry/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "可能拯救美国制造业的台积电工厂",
+    "link": "https://cn.nytimes.com/opinion/20261027/ai-computer-chips-semiconductor-arizona-industry/dual",
+    "pub_date": "2026-10-27 15:06:03",
+    "author": "",
+    "description": "DAN WANG2026年10月27日 On July 5 the Northwest Chinese Baptist Church in Phoenix opened its weekly Mandarin service with a verse from the Old Testament. A pianist, a guitarist and a drummer prepared to lead the 100 congrega…",
+    "content": "DAN WANG 2026年10月27日 On July 5 the Northwest Chinese Baptist Church in Phoenix opened its weekly Mandarin service with a verse from the Old Testament. A pianist, a guitarist and a drummer prepared to lead the 100 congregants in song. The deacon read out the pr…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/opinion/20261027/midterms-trump-america/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "关乎美国国运的一次中期选举",
+    "link": "https://cn.nytimes.com/opinion/20261027/midterms-trump-america/dual",
+    "pub_date": "2026-10-27 13:36:02",
+    "author": "",
+    "description": "纪思道2026年10月27日 America’s midterm elections will probably be determined primarily by issues like affordability. But what is at stake goes far beyond the quotidian concerns that many voters are focused on. 美国中期选举可能主要由生活成本等…",
+    "content": "纪思道 2026年10月27日 America’s midterm elections will probably be determined primarily by issues like affordability. But what is at stake goes far beyond the quotidian concerns that many voters are focused on. 美国中期选举可能主要由生活成本等议题决定。但真正涉及的利害关系远超许多选民关注的日常事务。 The princ…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261027/anthropic-going-public-stakes/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "Anthropic上市关乎什么？几乎所有一切",
+    "link": "https://cn.nytimes.com/business/20261027/anthropic-going-public-stakes/dual",
+    "pub_date": "2026-10-27 12:06:02",
+    "author": "",
+    "description": "ERIN GRIFFITH, LAUREN HIRSCH2026年10月27日Anthropic旧金山总部。该公司的挂牌上市将成为检验此轮人工智能繁荣持续性的关键试金石。 David Paul Morris/Bloomberg When Anthropic goes public as soon as next month, its initial offering will be more than just a coming-out…",
+    "content": "ERIN GRIFFITH, LAUREN HIRSCH 2026年10月27日 Anthropic旧金山总部。该公司的挂牌上市将成为检验此轮人工智能繁荣持续性的关键试金石。 David Paul Morris/Bloomberg When Anthropic goes public as soon as next month, its initial offering will be more than just a coming-out party for the artificial intelligence…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261027/serbia-election-vucic-nationalist-populists/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "塞尔维亚大选暴露右翼民粹潮流新弱点",
+    "link": "https://cn.nytimes.com/world/20261027/serbia-election-vucic-nationalist-populists/dual",
+    "pub_date": "2026-10-27 10:36:03",
+    "author": "",
+    "description": "ANDREW HIGGINS2026年10月27日周一，塞尔维亚长期执政的领导人亚历山大·武契奇在贝尔格莱德承认败选后，“学生名单——学生获胜”竞选名单的支持者们欢庆胜利。 Djordje Kojadinovic/Reuters When voters in Hungary rejected their seemingly invincible populist leader Viktor Orban in April, Andrej …",
+    "content": "ANDREW HIGGINS 2026年10月27日 周一，塞尔维亚长期执政的领导人亚历山大·武契奇在贝尔格莱德承认败选后，“学生名单——学生获胜”竞选名单的支持者们欢庆胜利。 Djordje Kojadinovic/Reuters When voters in Hungary rejected their seemingly invincible populist leader Viktor Orban in April, Andrej Borovac, a young designer in neighbori…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261027/brazil-election-president-lula-bolsonaro/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "卢拉逆转赢得巴西总统大选，打击拉美右翼浪潮",
+    "link": "https://cn.nytimes.com/world/20261027/brazil-election-president-lula-bolsonaro/dual",
+    "pub_date": "2026-10-27 09:36:02",
+    "author": "",
+    "description": "ANA LONOVA, ADAM B. ELLICK2026年10月27日周日，赢得连任的卢拉在圣保罗。 Andre Penner/Associated Press Brazilian voters on Sunday handed the leftist president, Luiz Inácio Lula da Silva, a fourth term in office and a surprise victory over F…",
+    "content": "ANA LONOVA, ADAM B. ELLICK 2026年10月27日 周日，赢得连任的卢拉在圣保罗。 Andre Penner/Associated Press Brazilian voters on Sunday handed the leftist president, Luiz Inácio Lula da Silva, a fourth term in office and a surprise victory over Flávio Bolsonaro, his right-wing challe…"
+  },
+  {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20261026/china-communist-party-xi-forever-purge/dual",
     "feed_name": "纽约时报双语版",
     "category": "国外",
@@ -53,61 +108,6 @@ const jsonData = [
     "author": "",
     "description": "CHOE SANG-HUN, 储百亮2026年10月26日朝鲜官方媒体上周六发布的一张照片显示，朝鲜领导人金正恩走过新鸭绿江大桥时挥手致意。 KCNA, via Reuters North Korea’s leader, Kim Jong-un, visited neighboring China on Saturday in his first visit there in more than a year, meeting with…",
     "content": "CHOE SANG-HUN, 储百亮 2026年10月26日 朝鲜官方媒体上周六发布的一张照片显示，朝鲜领导人金正恩走过新鸭绿江大桥时挥手致意。 KCNA, via Reuters North Korea’s leader, Kim Jong-un, visited neighboring China on Saturday in his first visit there in more than a year, meeting with a senior official and declaring grati…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20261023/earthquake-tibet-china/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "西藏那曲发生7.0级地震，十余人死亡",
-    "link": "https://cn.nytimes.com/china/20261023/earthquake-tibet-china/dual",
-    "pub_date": "2026-10-23 13:06:03",
-    "author": "",
-    "description": "艾莎2026年10月23日 A 7.0-magnitude earthquake struck China’s southwestern region of Tibet on Thursday, killing at least 16 people and sending others fleeing outdoors, according to Chinese state media. 据中国官方媒体报道，周四，一场7.0级地震袭击了…",
-    "content": "艾莎 2026年10月23日 A 7.0-magnitude earthquake struck China’s southwestern region of Tibet on Thursday, killing at least 16 people and sending others fleeing outdoors, according to Chinese state media. 据中国官方媒体报道，周四，一场7.0级地震袭击了中国西南部的西藏地区，造成至少16人死亡，许多人被迫逃到户外。 The ear…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/culture/20261023/music-against-the-night-yiyun-li/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "李翊云新作：“小有名气”者的宿命与悲欢",
-    "link": "https://cn.nytimes.com/culture/20261023/music-against-the-night-yiyun-li/dual",
-    "pub_date": "2026-10-23 13:06:03",
-    "author": "",
-    "description": "RADHIKA JONES2026年10月23日 MUSIC AGAINST THE NIGHT, by Yiyun Li 《抗衡黑夜的音乐》(MUSIC AGAINST THE NIGHT)，李翊云著 Is it worse to come within grasping distance of a dream than never to have gotten close? In “Music Against the Night,”…",
-    "content": "RADHIKA JONES 2026年10月23日 MUSIC AGAINST THE NIGHT , by Yiyun Li 《抗衡黑夜的音乐》(MUSIC AGAINST THE NIGHT)，李翊云著 Is it worse to come within grasping distance of a dream than never to have gotten close? In “Music Against the Night,” her new novel about the intertwined l…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261023/putin-trump-ukraine-war/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "普京的“棋局”：重塑美俄关系而无需作出任何让步",
-    "link": "https://cn.nytimes.com/world/20261023/putin-trump-ukraine-war/dual",
-    "pub_date": "2026-10-23 12:36:04",
-    "author": "",
-    "description": "VALERIE HOPKINS2026年10月23日去年，特朗普总统与俄罗斯总统普京在阿拉斯加的安克雷奇会面。 Doug Mills/The New York Times Last October, President Trump imposed significant sanctions on Russia’s two largest oil companies, complaining that negotiations with …",
-    "content": "VALERIE HOPKINS 2026年10月23日 去年，特朗普总统与俄罗斯总统普京在阿拉斯加的安克雷奇会面。 Doug Mills/The New York Times Last October, President Trump imposed significant sanctions on Russia’s two largest oil companies, complaining that negotiations with President Vladimir V. Putin over endin…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261023/php-vulnerability-websites-cybersecurity-ai/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "AI识别PHP重大漏洞，多国政府和企业网站临时关停",
-    "link": "https://cn.nytimes.com/world/20261023/php-vulnerability-websites-cybersecurity-ai/dual",
-    "pub_date": "2026-10-23 11:06:04",
-    "author": "",
-    "description": "LYNSEY CHUTEL, AMELIA NIERENBERG, BRIAN O. OTIENO2026年10月23日荷兰首相罗布·耶滕上周在布鲁塞尔。他表示，内阁正密切关注PHP漏洞引发的网络安全隐患。 Geert Vanden Wijngaert/Associated Press Japan’s prime minister. A hospital in Germany. Taxpayers in France. An I.T. …",
-    "content": "LYNSEY CHUTEL, AMELIA NIERENBERG, BRIAN O. OTIENO 2026年10月23日 荷兰首相罗布·耶滕上周在布鲁塞尔。他表示，内阁正密切关注PHP漏洞引发的网络安全隐患。 Geert Vanden Wijngaert/Associated Press Japan’s prime minister. A hospital in Germany. Taxpayers in France. An I.T. firm in Kenya. 日本首相。德国一家医院。法国纳税人。肯尼亚一家…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20261023/taiwan-typhoon-champi-mayors/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "在台湾，台风不仅是自然灾害，还可能决定政治人物的命运",
-    "link": "https://cn.nytimes.com/asia-pacific/20261023/taiwan-typhoon-champi-mayors/dual",
-    "pub_date": "2026-10-23 10:06:03",
-    "author": "",
-    "description": "郭莉莉, PEI-LIN WU2026年10月23日周四，随着台风“蔷琵”逼近该地区，台湾北部基隆市海岸涌起巨浪。 Chiang Ying-Ying/Associated Press In Taiwan, typhoons are not just tropical storms that cause flooding and damage. They can make or break a mayor’s chance at re-e…",
-    "content": "郭莉莉, PEI-LIN WU 2026年10月23日 周四，随着台风“蔷琵”逼近该地区，台湾北部基隆市海岸涌起巨浪。 Chiang Ying-Ying/Associated Press In Taiwan, typhoons are not just tropical storms that cause flooding and damage. They can make or break a mayor’s chance at re-election for reasons one might not expe…"
   },
   {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261022-%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E8%BF%87%E4%B8%A4%E4%BA%BF%E9%83%A8%E6%89%8B%E6%9C%BA%E6%96%B0%E5%8F%8D%E8%AF%88%E7%A8%8B%E5%BA%8F%E8%AF%86%E5%88%AB%E7%9B%98%E9%97%AE%E6%B5%8F%E8%A7%88%E5%A2%99%E5%A4%96%E8%B4%A2%E7%BB%8F%E7%BD%91%E7%AB%99%E4%BA%BA%E5%91%98",
