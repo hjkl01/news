@@ -1,5 +1,49 @@
 const jsonData = [
   {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/health/20261028/ai-chatgpt-medication-epilepsy-death/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "ChatGPT的致命“用药指导”和一名华人女子的悲剧死亡",
+    "link": "https://cn.nytimes.com/health/20261028/ai-chatgpt-medication-epilepsy-death/dual",
+    "pub_date": "2026-10-28 15:36:03",
+    "author": "",
+    "description": "TEDDY ROSENBLUTH2026年10月28日亚利桑那州立大学毕业典礼上的万博雯。 via Qun Wan and Meiqin Xu Qun Wan was in the middle of a heated call with his daughter, Bowen Wan, when the phone suddenly went silent. 万群（音）正与女儿万博雯（音）在电话里争执不下，听筒那头却突然没有了声音。 …",
+    "content": "TEDDY ROSENBLUTH 2026年10月28日 亚利桑那州立大学毕业典礼上的万博雯。 via Qun Wan and Meiqin Xu Qun Wan was in the middle of a heated call with his daughter, Bowen Wan, when the phone suddenly went silent. 万群（音）正与女儿万博雯（音）在电话里争执不下，听筒那头却突然没有了声音。 The conversation, in early February, h…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20261028/korea-tensions-border-dmz-mdl/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "朝韩边境线争端引发半岛新紧张局势",
+    "link": "https://cn.nytimes.com/asia-pacific/20261028/korea-tensions-border-dmz-mdl/dual",
+    "pub_date": "2026-10-28 13:36:03",
+    "author": "",
+    "description": "CHOE SANG-HUN2026年10月28日周一，韩国金浦的一处观景台，可见看到朝鲜士兵正在修建带刺铁丝网边境围栏。 Kim Hong-Ji/Reuters Last month, three South Korean soldiers were injured in land mine explosions on the western edge of the boundary with North Korea. The blas…",
+    "content": "CHOE SANG-HUN 2026年10月28日 周一，韩国金浦的一处观景台，可见看到朝鲜士兵正在修建带刺铁丝网边境围栏。 Kim Hong-Ji/Reuters Last month, three South Korean soldiers were injured in land mine explosions on the western edge of the boundary with North Korea. The blasts were followed by angry exchanges be…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261028/russia-fund-sanctions-trump/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "特朗普考虑解除对普京“小金库”的制裁",
+    "link": "https://cn.nytimes.com/usa/20261028/russia-fund-sanctions-trump/dual",
+    "pub_date": "2026-10-28 13:06:04",
+    "author": "",
+    "description": "ANTON TROIANOVSKI2026年10月28日特朗普总统的特使史蒂夫·威特科夫、贾里德·库什纳与俄罗斯直接投资基金负责人基里尔·德米特里耶夫上月在莫斯科。 Ramil Sitdikov/Reuters The Trump administration is exploring a new concession to Russia: lifting sanctions on the country’s flagship gove…",
+    "content": "ANTON TROIANOVSKI 2026年10月28日 特朗普总统的特使史蒂夫·威特科夫、贾里德·库什纳与俄罗斯直接投资基金负责人基里尔·德米特里耶夫上月在莫斯科。 Ramil Sitdikov/Reuters The Trump administration is exploring a new concession to Russia: lifting sanctions on the country’s flagship government investment fund, long viewed by…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261028/china-stocks-losses-government-intervention/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "“国家队”救市不灵了？中国股市颓势折射经济困境",
+    "link": "https://cn.nytimes.com/business/20261028/china-stocks-losses-government-intervention/dual",
+    "pub_date": "2026-10-28 10:06:04",
+    "author": "",
+    "description": "艾莎, MURPHY ZHAO2026年10月28日中国国家主席习近平召集了高级领导人，以制定政府的施政纲领，但经济问题很可能要让位于政治问题。 Florence Lo/Reuters As investor pessimism pushed China’s stock market into a bear market last week, officials responded as they often do, deploying…",
+    "content": "艾莎, MURPHY ZHAO 2026年10月28日 中国国家主席习近平召集了高级领导人，以制定政府的施政纲领，但经济问题很可能要让位于政治问题。 Florence Lo/Reuters As investor pessimism pushed China’s stock market into a bear market last week, officials responded as they often do, deploying a group of state-owned funds to arres…"
+  },
+  {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261028/neura-robotics-germany-china-ai/dual",
     "feed_name": "纽约时报双语版",
     "category": "国外",
@@ -64,50 +108,6 @@ const jsonData = [
     "author": "",
     "description": "ANA LONOVA, ADAM B. ELLICK2026年10月27日周日，赢得连任的卢拉在圣保罗。 Andre Penner/Associated Press Brazilian voters on Sunday handed the leftist president, Luiz Inácio Lula da Silva, a fourth term in office and a surprise victory over F…",
     "content": "ANA LONOVA, ADAM B. ELLICK 2026年10月27日 周日，赢得连任的卢拉在圣保罗。 Andre Penner/Associated Press Brazilian voters on Sunday handed the leftist president, Luiz Inácio Lula da Silva, a fourth term in office and a surprise victory over Flávio Bolsonaro, his right-wing challe…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20261026/china-communist-party-xi-forever-purge/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "“自我革命”、持续清洗：习近平为下一任期铺路",
-    "link": "https://cn.nytimes.com/china/20261026/china-communist-party-xi-forever-purge/dual",
-    "pub_date": "2026-10-26 15:06:04",
-    "author": "",
-    "description": "储百亮2026年10月26日预计中国国家主席习近平明年将连任执政的共产党领导人，开启第四个任期。他曾警告称，有太多官员未能忠实地执行他的命令。 Ng Han Guan/Associated Press For more than a decade, the Chinese leader Xi Jinping has used a storm of corruption probes and loyalty campaigns to br…",
-    "content": "储百亮 2026年10月26日 预计中国国家主席习近平明年将连任执政的共产党领导人，开启第四个任期。他曾警告称，有太多官员未能忠实地执行他的命令。 Ng Han Guan/Associated Press For more than a decade, the Chinese leader Xi Jinping has used a storm of corruption probes and loyalty campaigns to bring the country’s officials to heel. 十…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261026/obama-trump-competing-rallies-midterms/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "中期选举集会，奥巴马特朗普针锋相对",
-    "link": "https://cn.nytimes.com/usa/20261026/obama-trump-competing-rallies-midterms/dual",
-    "pub_date": "2026-10-26 14:06:04",
-    "author": "",
-    "description": "TIM BALK2026年10月26日 Haiyun Jiang/The New York Times; Victor J. Blue for The New York Times Former President Barack Obama returned to the campaign trail on Saturday for midterm rallies in Cleveland and Detroit, setting up…",
-    "content": "TIM BALK 2026年10月26日 Haiyun Jiang/The New York Times; Victor J. Blue for The New York Times Former President Barack Obama returned to the campaign trail on Saturday for midterm rallies in Cleveland and Detroit, setting up a rare split screen with President Tru…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261026/changpeng-zhao-binance/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "探访加密货币大佬赵长鹏：亿万富翁天堂里的前罪犯",
-    "link": "https://cn.nytimes.com/business/20261026/changpeng-zhao-binance/dual",
-    "pub_date": "2026-10-26 12:36:04",
-    "author": "",
-    "description": "DAVID YAFFE-BELLANY2026年10月26日 I. I. One morning in June, the cryptocurrency mogul Changpeng Zhao pulled up to the St. Regis resort in Abu Dhabi in a white Nissan S.U.V. Mr. Zhao is the richest man in crypto, worth an es…",
-    "content": "DAVID YAFFE-BELLANY 2026年10月26日 I. I. One morning in June, the cryptocurrency mogul Changpeng Zhao pulled up to the St. Regis resort in Abu Dhabi in a white Nissan S.U.V. Mr. Zhao is the richest man in crypto, worth an estimated $114 billion, and he lives in a…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/opinion/20261026/ai-second-big-bang/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "人类已经引发了第二次宇宙大爆炸",
-    "link": "https://cn.nytimes.com/opinion/20261026/ai-second-big-bang/dual",
-    "pub_date": "2026-10-26 10:36:04",
-    "author": "",
-    "description": "托马斯·弗里德曼2026年10月26日 According to the columnist Thomas L. Friedman, humanity has set off a second Big Bang — and we are not ready for it. In this video, he explains why the rise of artificial intelligence and other “godli…",
-    "content": "托马斯·弗里德曼 2026年10月26日 According to the columnist Thomas L. Friedman, humanity has set off a second Big Bang — and we are not ready for it. In this video, he explains why the rise of artificial intelligence and other “godlike” powers will require us to build hea…"
   },
   {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261022-%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E8%BF%87%E4%B8%A4%E4%BA%BF%E9%83%A8%E6%89%8B%E6%9C%BA%E6%96%B0%E5%8F%8D%E8%AF%88%E7%A8%8B%E5%BA%8F%E8%AF%86%E5%88%AB%E7%9B%98%E9%97%AE%E6%B5%8F%E8%A7%88%E5%A2%99%E5%A4%96%E8%B4%A2%E7%BB%8F%E7%BD%91%E7%AB%99%E4%BA%BA%E5%91%98",
