@@ -1,5 +1,71 @@
 const jsonData = [
   {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/style/20261029/cheesecake-factory-obama-trump-midterm-elections/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "奥巴马特朗普“口水战”中的芝乐坊",
+    "link": "https://cn.nytimes.com/style/20261029/cheesecake-factory-obama-trump-midterm-elections/dual",
+    "pub_date": "2026-10-29 14:36:03",
+    "author": "",
+    "description": "KIM SEVERSON2026年10月29日芝乐坊定义了“高档休闲餐饮”，精准把握了美国食客的心理与胃口。 Timothy Hiatt/Getty Images for The Cheesecake Factory First, the man responsible for the way the Cheesecake Factory looks wants you to know he isn’t mad. And his fee…",
+    "content": "KIM SEVERSON 2026年10月29日 芝乐坊定义了“高档休闲餐饮”，精准把握了美国食客的心理与胃口。 Timothy Hiatt/Getty Images for The Cheesecake Factory First, the man responsible for the way the Cheesecake Factory looks wants you to know he isn’t mad. And his feelings aren’t hurt. 首先，负责芝乐坊(Cheesecake…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261029/trump-midterms-white-house-mood/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "人员动荡、派系对立：中期选举前的白宫阴霾密布",
+    "link": "https://cn.nytimes.com/usa/20261029/trump-midterms-white-house-mood/dual",
+    "pub_date": "2026-10-29 14:06:04",
+    "author": "",
+    "description": "KATIE ROGERS2026年10月29日周一，特朗普总统在密西西比州参加完一场竞选集会后。 Doug Mills/The New York Times President Trump’s private dining room, located just off the Oval Office, is where he goes to watch television, make phone calls and sift thro…",
+    "content": "KATIE ROGERS 2026年10月29日 周一，特朗普总统在密西西比州参加完一场竞选集会后。 Doug Mills/The New York Times President Trump’s private dining room, located just off the Oval Office, is where he goes to watch television, make phone calls and sift through stacks of printed-out news article…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261029/israel-election-vote-results-takeaways/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "一场“无人获胜”的选举：以色列大选的四个初步结论",
+    "link": "https://cn.nytimes.com/world/20261029/israel-election-vote-results-takeaways/dual",
+    "pub_date": "2026-10-29 13:36:04",
+    "author": "",
+    "description": "DAVID M. HALBFINGER2026年10月29日左：前以色列国防军总参谋长埃森科特；右：以色列总理内塔尼亚胡 Amir Cohen/Reuters; Alexi J. Rosenfeld/Getty Images The results of Israel’s pivotal parliamentary election will not be finalized at least until Thursday and it…",
+    "content": "DAVID M. HALBFINGER 2026年10月29日 左：前以色列国防军总参谋长埃森科特；右：以色列总理内塔尼亚胡 Amir Cohen/Reuters; Alexi J. Rosenfeld/Getty Images The results of Israel’s pivotal parliamentary election will not be finalized at least until Thursday and it could be weeks until it is clear what…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261029/flavio-bolsonaro-us-miami-brazil-trump/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "博索纳罗败选后逃往美国，宣称自己为巴西合法领导人",
+    "link": "https://cn.nytimes.com/world/20261029/flavio-bolsonaro-us-miami-brazil-trump/dual",
+    "pub_date": "2026-10-29 12:06:04",
+    "author": "",
+    "description": "ANA LONOVA, 黄安伟, ALICE MACIEL, LUCÍA CHOLAKIAN HERRERA2026年10月29日弗拉维奥·博尔索纳罗周三抵达迈阿密奥帕洛卡机场。 Eva Marie Uzcategui/Reuters Flávio Bolsonaro, the candidate defeated in Brazil’s elections, landed in Miami on Wednesday, declarin…",
+    "content": "ANA LONOVA, 黄安伟, ALICE MACIEL, LUCÍA CHOLAKIAN HERRERA 2026年10月29日 弗拉维奥·博尔索纳罗周三抵达迈阿密奥帕洛卡机场。 Eva Marie Uzcategui/Reuters Flávio Bolsonaro, the candidate defeated in Brazil’s elections, landed in Miami on Wednesday, declaring himself the legitimate leader of the…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261029/spain-train-crash-rescue-victims/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "“被困在扭曲的金属和残骸中”：西班牙致命列车事故现场",
+    "link": "https://cn.nytimes.com/world/20261029/spain-train-crash-rescue-victims/dual",
+    "pub_date": "2026-10-29 10:36:02",
+    "author": "",
+    "description": "JASON HOROWITZ, JOSÉ BAUTISTA, CARLOS BARRAGAN2026年10月29日周三，在西班牙乌尔达发生的一起两列火车相撞事故现场，应急救援人员正在开展救援工作。 Manu Fernandez/Associated Press Traveling home on a high-speed train from Madrid to Seville in Spain, Fernando Seco was a…",
+    "content": "JASON HOROWITZ, JOSÉ BAUTISTA, CARLOS BARRAGAN 2026年10月29日 周三，在西班牙乌尔达发生的一起两列火车相撞事故现场，应急救援人员正在开展救援工作。 Manu Fernandez/Associated Press Traveling home on a high-speed train from Madrid to Seville in Spain, Fernando Seco was annoyed when congestion caused the trai…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261029/us-china-biotech-trade-ban/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "美国将中国基因组学公司华大列入贸易黑名单",
+    "link": "https://cn.nytimes.com/business/20261029/us-china-biotech-trade-ban/dual",
+    "pub_date": "2026-10-29 10:06:01",
+    "author": "",
+    "description": "REBECCA ROBBINS, ANA SWANSON2026年10月29日去年，华大在北京一场展览上的展台。特朗普政府将这家长期受到美国官员质疑的中国大型基因组学公司列入贸易黑名单，旨在禁止使用中国强迫劳动生产的产品进入美国。 Ren Chao/Xinhua, via Getty Images The Trump administration on Wednesday added BGI, a major Chinese genom…",
+    "content": "REBECCA ROBBINS, ANA SWANSON 2026年10月29日 去年，华大在北京一场展览上的展台。特朗普政府将这家长期受到美国官员质疑的中国大型基因组学公司列入贸易黑名单，旨在禁止使用中国强迫劳动生产的产品进入美国。 Ren Chao/Xinhua, via Getty Images The Trump administration on Wednesday added BGI, a major Chinese genomics company that U.S. officials have l…"
+  },
+  {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261029/spain-saic-ferrol-china/dual",
     "feed_name": "纽约时报双语版",
     "category": "国外",
@@ -42,72 +108,6 @@ const jsonData = [
     "author": "",
     "description": "ANTON TROIANOVSKI2026年10月28日特朗普总统的特使史蒂夫·威特科夫、贾里德·库什纳与俄罗斯直接投资基金负责人基里尔·德米特里耶夫上月在莫斯科。 Ramil Sitdikov/Reuters The Trump administration is exploring a new concession to Russia: lifting sanctions on the country’s flagship gove…",
     "content": "ANTON TROIANOVSKI 2026年10月28日 特朗普总统的特使史蒂夫·威特科夫、贾里德·库什纳与俄罗斯直接投资基金负责人基里尔·德米特里耶夫上月在莫斯科。 Ramil Sitdikov/Reuters The Trump administration is exploring a new concession to Russia: lifting sanctions on the country’s flagship government investment fund, long viewed by…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261028/china-stocks-losses-government-intervention/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "“国家队”救市不灵了？中国股市颓势折射经济困境",
-    "link": "https://cn.nytimes.com/business/20261028/china-stocks-losses-government-intervention/dual",
-    "pub_date": "2026-10-28 10:06:04",
-    "author": "",
-    "description": "艾莎, MURPHY ZHAO2026年10月28日中国国家主席习近平召集了高级领导人，以制定政府的施政纲领，但经济问题很可能要让位于政治问题。 Florence Lo/Reuters As investor pessimism pushed China’s stock market into a bear market last week, officials responded as they often do, deploying…",
-    "content": "艾莎, MURPHY ZHAO 2026年10月28日 中国国家主席习近平召集了高级领导人，以制定政府的施政纲领，但经济问题很可能要让位于政治问题。 Florence Lo/Reuters As investor pessimism pushed China’s stock market into a bear market last week, officials responded as they often do, deploying a group of state-owned funds to arres…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261028/neura-robotics-germany-china-ai/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "“机器人健身房”：欧洲在机器人领域追赶中国",
-    "link": "https://cn.nytimes.com/business/20261028/neura-robotics-germany-china-ai/dual",
-    "pub_date": "2026-10-28 09:06:04",
-    "author": "",
-    "description": "JAMES PATON2026年10月28日 Neura Robotics is not a household name. It’s not even the most prominent business in Metzingen, a German town of 22,000 people that is also home to the fashion brand Hugo Boss. 纽鼐机器人(Neura Robotics…",
-    "content": "JAMES PATON 2026年10月28日 Neura Robotics is not a household name. It’s not even the most prominent business in Metzingen, a German town of 22,000 people that is also home to the fashion brand Hugo Boss. 纽鼐机器人(Neura Robotics)并非家喻户晓的名字，甚至不是梅青根最显眼的企业——这座人口2万余人的德国小镇…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/opinion/20261027/ai-computer-chips-semiconductor-arizona-industry/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "可能拯救美国制造业的台积电工厂",
-    "link": "https://cn.nytimes.com/opinion/20261027/ai-computer-chips-semiconductor-arizona-industry/dual",
-    "pub_date": "2026-10-27 15:06:03",
-    "author": "",
-    "description": "DAN WANG2026年10月27日 On July 5 the Northwest Chinese Baptist Church in Phoenix opened its weekly Mandarin service with a verse from the Old Testament. A pianist, a guitarist and a drummer prepared to lead the 100 congrega…",
-    "content": "DAN WANG 2026年10月27日 On July 5 the Northwest Chinese Baptist Church in Phoenix opened its weekly Mandarin service with a verse from the Old Testament. A pianist, a guitarist and a drummer prepared to lead the 100 congregants in song. The deacon read out the pr…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/opinion/20261027/midterms-trump-america/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "关乎美国国运的一次中期选举",
-    "link": "https://cn.nytimes.com/opinion/20261027/midterms-trump-america/dual",
-    "pub_date": "2026-10-27 13:36:02",
-    "author": "",
-    "description": "纪思道2026年10月27日 America’s midterm elections will probably be determined primarily by issues like affordability. But what is at stake goes far beyond the quotidian concerns that many voters are focused on. 美国中期选举可能主要由生活成本等…",
-    "content": "纪思道 2026年10月27日 America’s midterm elections will probably be determined primarily by issues like affordability. But what is at stake goes far beyond the quotidian concerns that many voters are focused on. 美国中期选举可能主要由生活成本等议题决定。但真正涉及的利害关系远超许多选民关注的日常事务。 The princ…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261027/anthropic-going-public-stakes/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "Anthropic上市关乎什么？几乎所有一切",
-    "link": "https://cn.nytimes.com/business/20261027/anthropic-going-public-stakes/dual",
-    "pub_date": "2026-10-27 12:06:02",
-    "author": "",
-    "description": "ERIN GRIFFITH, LAUREN HIRSCH2026年10月27日Anthropic旧金山总部。该公司的挂牌上市将成为检验此轮人工智能繁荣持续性的关键试金石。 David Paul Morris/Bloomberg When Anthropic goes public as soon as next month, its initial offering will be more than just a coming-out…",
-    "content": "ERIN GRIFFITH, LAUREN HIRSCH 2026年10月27日 Anthropic旧金山总部。该公司的挂牌上市将成为检验此轮人工智能繁荣持续性的关键试金石。 David Paul Morris/Bloomberg When Anthropic goes public as soon as next month, its initial offering will be more than just a coming-out party for the artificial intelligence…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261027/serbia-election-vucic-nationalist-populists/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "塞尔维亚大选暴露右翼民粹潮流新弱点",
-    "link": "https://cn.nytimes.com/world/20261027/serbia-election-vucic-nationalist-populists/dual",
-    "pub_date": "2026-10-27 10:36:03",
-    "author": "",
-    "description": "ANDREW HIGGINS2026年10月27日周一，塞尔维亚长期执政的领导人亚历山大·武契奇在贝尔格莱德承认败选后，“学生名单——学生获胜”竞选名单的支持者们欢庆胜利。 Djordje Kojadinovic/Reuters When voters in Hungary rejected their seemingly invincible populist leader Viktor Orban in April, Andrej …",
-    "content": "ANDREW HIGGINS 2026年10月27日 周一，塞尔维亚长期执政的领导人亚历山大·武契奇在贝尔格莱德承认败选后，“学生名单——学生获胜”竞选名单的支持者们欢庆胜利。 Djordje Kojadinovic/Reuters When voters in Hungary rejected their seemingly invincible populist leader Viktor Orban in April, Andrej Borovac, a young designer in neighbori…"
   },
   {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261022-%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E8%BF%87%E4%B8%A4%E4%BA%BF%E9%83%A8%E6%89%8B%E6%9C%BA%E6%96%B0%E5%8F%8D%E8%AF%88%E7%A8%8B%E5%BA%8F%E8%AF%86%E5%88%AB%E7%9B%98%E9%97%AE%E6%B5%8F%E8%A7%88%E5%A2%99%E5%A4%96%E8%B4%A2%E7%BB%8F%E7%BD%91%E7%AB%99%E4%BA%BA%E5%91%98",
