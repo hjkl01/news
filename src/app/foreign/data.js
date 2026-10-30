@@ -1,5 +1,49 @@
 const jsonData = [
   {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/climate/20261030/glass-skyscrapers-heat-climate-change/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "玻璃摩天大楼：壮丽的城市天际线有多“热”？",
+    "link": "https://cn.nytimes.com/climate/20261030/glass-skyscrapers-heat-climate-change/dual",
+    "pub_date": "2026-10-30 13:36:03",
+    "author": "",
+    "description": "CHICO HARLAN, ZUNAIRA SAIEED2026年10月30日 Ulet Ifansasti for The New York Times One thousand feet above city traffic, from her new 74th-floor apartment, Anastasia Zeeman has the kind of enchanting views that only floor-to-…",
+    "content": "CHICO HARLAN, ZUNAIRA SAIEED 2026年10月30日 Ulet Ifansasti for The New York Times One thousand feet above city traffic, from her new 74th-floor apartment, Anastasia Zeeman has the kind of enchanting views that only floor-to-ceiling glass can offer. She looks out …"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261030/israel-election-coalition-scenarios/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "大选未产生明确获胜者，谁能最终成为以色列总理？",
+    "link": "https://cn.nytimes.com/world/20261030/israel-election-coalition-scenarios/dual",
+    "pub_date": "2026-10-30 12:36:02",
+    "author": "",
+    "description": "JOHNATAN REISS, ADINA RENNER, PABLO ROBLES2026年10月30日注：数据更新至美东时间10月29日5时。各党派必须赢得至少3.25%的全国选票才能进入拥有120个席位的以色列议会。来源：以色列中央选举委员会，经以色列公共广播公司转引。 Israel’s high-stakes parliamentary election on Tuesday produced no clear winner a…",
+    "content": "JOHNATAN REISS, ADINA RENNER, PABLO ROBLES 2026年10月30日 注：数据更新至美东时间10月29日5时。各党派必须赢得至少3.25%的全国选票才能进入拥有120个席位的以色列议会。来源：以色列中央选举委员会，经以色列公共广播公司转引。 Israel’s high-stakes parliamentary election on Tuesday produced no clear winner after most of the votes were counted. 以…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20261030/china-ai-videos-sun-wukong-lin-daiyu/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "孙悟空爱上林黛玉：中国AI短剧怎么成了“不当婚恋”",
+    "link": "https://cn.nytimes.com/china/20261030/china-ai-videos-sun-wukong-lin-daiyu/dual",
+    "pub_date": "2026-10-30 12:36:02",
+    "author": "",
+    "description": "TIFFANY MAY2026年10月30日一段人工智能生成视频的画面截图，画面中的孙悟空和林黛玉分别出自中国古典名著《西游记》和《红楼梦》。这两部作品均于上世纪80年代被改编成电视剧。 In wholesome videos that have delighted the Chinese internet in recent weeks, the Monkey King in a yellow martial arts outfit …",
+    "content": "TIFFANY MAY 2026年10月30日 一段人工智能生成视频的画面截图，画面中的孙悟空和林黛玉分别出自中国古典名著《西游记》和《红楼梦》。这两部作品均于上世纪80年代被改编成电视剧。 In wholesome videos that have delighted the Chinese internet in recent weeks, the Monkey King in a yellow martial arts outfit and a maiden swathed in embroidered si…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261030/flavio-bolsonaro-trump-brazil-us/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "特朗普帮助博索纳罗逃离巴西前往美国",
+    "link": "https://cn.nytimes.com/world/20261030/flavio-bolsonaro-trump-brazil-us/dual",
+    "pub_date": "2026-10-30 10:36:02",
+    "author": "",
+    "description": "黄安伟, ANA LONOVA, HAMED ALEAZIZ, TYLER PAGER2026年10月30日弗拉维奥·博索纳罗周三抵达迈阿密附近的奥帕洛卡机场。 Ricardo Arduengo/Agence France-Presse — Getty Images Flávio Bolsonaro, the Brazilian presidential candidate who faces multiple criminal inv…",
+    "content": "黄安伟, ANA LONOVA, HAMED ALEAZIZ, TYLER PAGER 2026年10月30日 弗拉维奥·博索纳罗周三抵达迈阿密附近的奥帕洛卡机场。 Ricardo Arduengo/Agence France-Presse — Getty Images Flávio Bolsonaro, the Brazilian presidential candidate who faces multiple criminal investigations, is staying in Florida on …"
+  },
+  {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20261030/china-communist-party-purges/dual",
     "feed_name": "纽约时报双语版",
     "category": "国外",
@@ -64,50 +108,6 @@ const jsonData = [
     "author": "",
     "description": "ANA LONOVA, 黄安伟, ALICE MACIEL, LUCÍA CHOLAKIAN HERRERA2026年10月29日弗拉维奥·博尔索纳罗周三抵达迈阿密奥帕洛卡机场。 Eva Marie Uzcategui/Reuters Flávio Bolsonaro, the candidate defeated in Brazil’s elections, landed in Miami on Wednesday, declarin…",
     "content": "ANA LONOVA, 黄安伟, ALICE MACIEL, LUCÍA CHOLAKIAN HERRERA 2026年10月29日 弗拉维奥·博尔索纳罗周三抵达迈阿密奥帕洛卡机场。 Eva Marie Uzcategui/Reuters Flávio Bolsonaro, the candidate defeated in Brazil’s elections, landed in Miami on Wednesday, declaring himself the legitimate leader of the…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261029/spain-train-crash-rescue-victims/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "“被困在扭曲的金属和残骸中”：西班牙致命列车事故现场",
-    "link": "https://cn.nytimes.com/world/20261029/spain-train-crash-rescue-victims/dual",
-    "pub_date": "2026-10-29 10:36:02",
-    "author": "",
-    "description": "JASON HOROWITZ, JOSÉ BAUTISTA, CARLOS BARRAGAN2026年10月29日周三，在西班牙乌尔达发生的一起两列火车相撞事故现场，应急救援人员正在开展救援工作。 Manu Fernandez/Associated Press Traveling home on a high-speed train from Madrid to Seville in Spain, Fernando Seco was a…",
-    "content": "JASON HOROWITZ, JOSÉ BAUTISTA, CARLOS BARRAGAN 2026年10月29日 周三，在西班牙乌尔达发生的一起两列火车相撞事故现场，应急救援人员正在开展救援工作。 Manu Fernandez/Associated Press Traveling home on a high-speed train from Madrid to Seville in Spain, Fernando Seco was annoyed when congestion caused the trai…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261029/us-china-biotech-trade-ban/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "美国将中国基因组学公司华大列入贸易黑名单",
-    "link": "https://cn.nytimes.com/business/20261029/us-china-biotech-trade-ban/dual",
-    "pub_date": "2026-10-29 10:06:01",
-    "author": "",
-    "description": "REBECCA ROBBINS, ANA SWANSON2026年10月29日去年，华大在北京一场展览上的展台。特朗普政府将这家长期受到美国官员质疑的中国大型基因组学公司列入贸易黑名单，旨在禁止使用中国强迫劳动生产的产品进入美国。 Ren Chao/Xinhua, via Getty Images The Trump administration on Wednesday added BGI, a major Chinese genom…",
-    "content": "REBECCA ROBBINS, ANA SWANSON 2026年10月29日 去年，华大在北京一场展览上的展台。特朗普政府将这家长期受到美国官员质疑的中国大型基因组学公司列入贸易黑名单，旨在禁止使用中国强迫劳动生产的产品进入美国。 Ren Chao/Xinhua, via Getty Images The Trump administration on Wednesday added BGI, a major Chinese genomics company that U.S. officials have l…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261029/spain-saic-ferrol-china/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "西班牙港口城市热情拥抱中国投资，经济机遇背后暗藏隐忧",
-    "link": "https://cn.nytimes.com/world/20261029/spain-saic-ferrol-china/dual",
-    "pub_date": "2026-10-29 09:36:02",
-    "author": "",
-    "description": "JASON HOROWITZ2026年10月29日西班牙费罗尔港的船只，摄于2020年。这座城市正因热情欢迎中国企业进入西班牙乃至西欧市场而受到关注。 Daniel Rodrigues for The New York Times The port town of Ferrol has long been synonymous with Spanish national defense. 费罗尔这座港口城市长期以来一直是西班牙国防的代名…",
-    "content": "JASON HOROWITZ 2026年10月29日 西班牙费罗尔港的船只，摄于2020年。这座城市正因热情欢迎中国企业进入西班牙乃至西欧市场而受到关注。 Daniel Rodrigues for The New York Times The port town of Ferrol has long been synonymous with Spanish national defense. 费罗尔这座港口城市长期以来一直是西班牙国防的代名词。 After the Spanish Navy built its ar…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/health/20261028/ai-chatgpt-medication-epilepsy-death/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "ChatGPT的致命“用药指导”和一名华人女子的悲剧死亡",
-    "link": "https://cn.nytimes.com/health/20261028/ai-chatgpt-medication-epilepsy-death/dual",
-    "pub_date": "2026-10-28 15:36:03",
-    "author": "",
-    "description": "TEDDY ROSENBLUTH2026年10月28日亚利桑那州立大学毕业典礼上的万博雯。 via Qun Wan and Meiqin Xu Qun Wan was in the middle of a heated call with his daughter, Bowen Wan, when the phone suddenly went silent. 万群（音）正与女儿万博雯（音）在电话里争执不下，听筒那头却突然没有了声音。 …",
-    "content": "TEDDY ROSENBLUTH 2026年10月28日 亚利桑那州立大学毕业典礼上的万博雯。 via Qun Wan and Meiqin Xu Qun Wan was in the middle of a heated call with his daughter, Bowen Wan, when the phone suddenly went silent. 万群（音）正与女儿万博雯（音）在电话里争执不下，听筒那头却突然没有了声音。 The conversation, in early February, h…"
   },
   {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261022-%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E8%BF%87%E4%B8%A4%E4%BA%BF%E9%83%A8%E6%89%8B%E6%9C%BA%E6%96%B0%E5%8F%8D%E8%AF%88%E7%A8%8B%E5%BA%8F%E8%AF%86%E5%88%AB%E7%9B%98%E9%97%AE%E6%B5%8F%E8%A7%88%E5%A2%99%E5%A4%96%E8%B4%A2%E7%BB%8F%E7%BD%91%E7%AB%99%E4%BA%BA%E5%91%98",
