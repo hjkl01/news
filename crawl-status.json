@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-10-30T02:19:45.399Z",
-  "ended_at": "2026-10-30T02:19:45.609Z",
-  "duration_ms": 210,
+  "started_at": "2026-10-30T11:54:42.564Z",
+  "ended_at": "2026-10-30T11:54:42.733Z",
+  "duration_ms": 169,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -17,12 +17,12 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 46,
-    "failed_sources": 13,
-    "circuit_open_sources": 13,
+    "cache_hit_sources": 47,
+    "failed_sources": 12,
+    "circuit_open_sources": 12,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1342,
-    "total_items_after_retention": 1131,
+    "total_items_after_dedupe": 1380,
+    "total_items_after_retention": 1170,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -88,12 +88,6 @@
       "skippedByCircuit": true
     },
     {
-      "title": "极客公园",
-      "url": "https://www.geekpark.net/rss",
-      "reason": "The operation was aborted.",
-      "skippedByCircuit": true
-    },
-    {
       "title": "FreeBuf 关注黑客",
       "url": "https://plink.anyfeeder.com/freebuf",
       "reason": "HTTP 405",
@@ -156,11 +150,6 @@
       "title": "阮一峰的网络日志",
       "url": "https://www.ruanyifeng.com/blog/atom.xml",
       "reason": "HTTP 403"
-    },
-    {
-      "title": "极客公园",
-      "url": "https://www.geekpark.net/rss",
-      "reason": "The operation was aborted."
     },
     {
       "title": "FreeBuf 关注黑客",
