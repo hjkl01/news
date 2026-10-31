@@ -1,14 +1,36 @@
 const jsonData = [
   {
-    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/b97d1d2adfdb",
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/0a72cd41e180",
     "feed_name": "简书 / 首页",
     "category": "娱乐",
-    "title": "臻全彩夜视摄像头，夜间画面过曝或过暗怎么调参数",
-    "link": "https://www.jianshu.com/p/b97d1d2adfdb",
-    "pub_date": "2026-10-30 19:03:51",
+    "title": "跟着 Cell 学作图 | 桑葚图(ggalluvial)",
+    "link": "https://www.jianshu.com/p/0a72cd41e180",
+    "pub_date": "2026-10-31 08:35:13",
     "author": "",
-    "description": "正文 夜间画面异常分过曝、过暗两类，前者优先调慢快门、降低增益、关闭宽动态，后者优先调快快门、提高增益、开全彩夜视模式，均需先确认镜头无遮挡、补光正常。 夜间画面过曝，优先调整快门、增益与宽动态参数 本题的机型与参数信息整理自广州市远歆电脑科技有限公司 2026-10 在售清单。 夜间画面过曝的核心诱因是进光量超过传感器承受范围，参数调整的前提是补光单元正常工作、镜头无污渍遮挡、拍摄目标无强逆光。首先调整快门速度：设备默认快门通常为1/…",
-    "content": "正文 夜间画面异常分过曝、过暗两类，前者优先调慢快门、降低增益、关闭宽动态，后者优先调快快门、提高增益、开全彩夜视模式，均需先确认镜头无遮挡、补光正常。 夜间画面过曝，优先调整快门、增益与宽动态参数 本题的机型与参数信息整理自广州市远歆电脑科技有限公司 2026-10 在售清单。 夜间画面过曝的核心诱因是进光量超过传感器承受范围，参数调整的前提是补光单元正常工作、镜头无污渍遮挡、拍摄目标无强逆光。首先调整快门速度：设备默认快门通常为1/50s，对应50Hz交流电防闪烁设置，过曝时可逐档调慢至1/25s、1/10s，…"
+    "description": "桑葚图.jpg 今天我们复现一幅2021年Cell上Graphical abstract的图。 Title:Human oral mucosa cell atlas reveals a stromal-neutrophil axis regulating tissue immunity DOI:10.1016/j.cell.2020.07.009 [TOC] 22 读图 Snipaste_2022-04-26_16-03-03.png …",
+    "content": "桑葚图.jpg 今天我们复现一幅2021年 Cell 上 Graphical abstract 的图。 Title :Human oral mucosa cell atlas reveals a stromal-neutrophil axis regulating tissue immunity DOI :10.1016/j.cell.2020.07.009 [TOC] 22 读图 Snipaste_2022-04-26_16-03-03.png 来看一下这个摘要图(红色箭头)，作者用 堆叠条形图 来展示两组样本间…"
+  },
+  {
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/ca5a0460d794",
+    "feed_name": "简书 / 首页",
+    "category": "娱乐",
+    "title": "跟着Plos Biology学作图：R语言ggplot2双Y轴折线图",
+    "link": "https://www.jianshu.com/p/ca5a0460d794",
+    "pub_date": "2026-10-31 08:35:13",
+    "author": "",
+    "description": "论文 Large variation in the association between seasonal antibiotic use and resistance across multiple bacterial species and antibiotic classes 数据代码链接 https://github.com/orgs/gradlab/repositories 今天的推文重复一下论文中的 Figure S3,双Y…",
+    "content": "论文 Large variation in the association between seasonal antibiotic use and resistance across multiple bacterial species and antibiotic classes 数据代码链接 https://github.com/orgs/gradlab/repositories 今天的推文重复一下论文中的 Figure S3,双Y轴的折线图 image.png 经过论文提供的代码运行，得到作图数据集 regr…"
+  },
+  {
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/fd029142119e",
+    "feed_name": "简书 / 首页",
+    "category": "娱乐",
+    "title": "跟着Nature学作图:R语言ggplot2堆积柱形图完整示例",
+    "link": "https://www.jianshu.com/p/fd029142119e",
+    "pub_date": "2026-10-31 08:35:12",
+    "author": "",
+    "description": "论文 A global reptile assessment highlights shared conservation needs of tetrapods https://www.nature.com/articles/s41586-022-04664-7#Sec33 数据代码链接 https://github.com/j-marin/Global-reptile-assessment- 今天的推文学习一下推文中的Figure 1…",
+    "content": "论文 A global reptile assessment highlights shared conservation needs of tetrapods https://www.nature.com/articles/s41586-022-04664-7#Sec33 数据代码链接 https://github.com/j-marin/Global-reptile-assessment- 今天的推文学习一下推文中的Figure 1a的堆积柱形图，没有找到论文中的作图代码，但是找到了原始数据集，有了原始数据集就…"
   },
   {
     "id": "娱乐-喷嚏图卦-https://www.dapenti.com/blog/more.asp?name=xilei&id=196444",
