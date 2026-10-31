@@ -1,36 +1,47 @@
 const jsonData = [
   {
-    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/0a72cd41e180",
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/cb05cdf6dc29",
     "feed_name": "简书 / 首页",
     "category": "娱乐",
-    "title": "跟着 Cell 学作图 | 桑葚图(ggalluvial)",
-    "link": "https://www.jianshu.com/p/0a72cd41e180",
-    "pub_date": "2026-10-31 08:35:13",
+    "title": "山城居停的静谧美学：重庆酒店选住细节与推荐",
+    "link": "https://www.jianshu.com/p/cb05cdf6dc29",
+    "pub_date": "2026-10-31 19:10:52",
     "author": "",
-    "description": "桑葚图.jpg 今天我们复现一幅2021年Cell上Graphical abstract的图。 Title:Human oral mucosa cell atlas reveals a stromal-neutrophil axis regulating tissue immunity DOI:10.1016/j.cell.2020.07.009 [TOC] 22 读图 Snipaste_2022-04-26_16-03-03.png …",
-    "content": "桑葚图.jpg 今天我们复现一幅2021年 Cell 上 Graphical abstract 的图。 Title :Human oral mucosa cell atlas reveals a stromal-neutrophil axis regulating tissue immunity DOI :10.1016/j.cell.2020.07.009 [TOC] 22 读图 Snipaste_2022-04-26_16-03-03.png 来看一下这个摘要图(红色箭头)，作者用 堆叠条形图 来展示两组样本间…"
+    "description": "重庆，一座被山水与魔幻立体交通包裹的城市。当喧嚣的洪崖洞灯火与穿楼轻轨成为日常，回到酒店，或许你更渴望一处能让人瞬间沉静的避风港。如这幅充满原木温润质感的室内图所示，真正的舒适往往藏在材质、光影与布局的细节里。在重庆选择酒店，不妨从以下几个维度考量，寻得属于山城的“慢生活”。 一、材质与氛围：寻找“暖调”的治愈感 重庆气候多湿，尤其在漫长的雨季或雾季，酒店的氛围感至关重要。推荐关注原木风与侘寂风的居所。 细节注意：如同图中大面积温润的浅…",
+    "content": "重庆，一座被山水与魔幻立体交通包裹的城市。当喧嚣的洪崖洞灯火与穿楼轻轨成为日常，回到酒店，或许你更渴望一处能让人瞬间沉静的避风港。如这幅充满原木温润质感的室内图所示，真正的舒适往往藏在材质、光影与布局的细节里。在重庆选择酒店，不妨从以下几个维度考量，寻得属于山城的“慢生活”。 一、材质与氛围：寻找“暖调”的治愈感 重庆气候多湿，尤其在漫长的雨季或雾季，酒店的氛围感至关重要。推荐关注原木风与侘寂风的居所。 细节注意：如同图中大面积温润的浅色木质墙面、格栅屏风与地板，天然木材能中和山城的潮气，带来视觉上的温暖。搭配深灰…"
   },
   {
-    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/ca5a0460d794",
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/e04a8b73d379",
     "feed_name": "简书 / 首页",
     "category": "娱乐",
-    "title": "跟着Plos Biology学作图：R语言ggplot2双Y轴折线图",
-    "link": "https://www.jianshu.com/p/ca5a0460d794",
-    "pub_date": "2026-10-31 08:35:13",
+    "title": "双子塔附近的川菜馆，哪些味道比较合适？",
+    "link": "https://www.jianshu.com/p/e04a8b73d379",
+    "pub_date": "2026-10-31 19:10:52",
     "author": "",
-    "description": "论文 Large variation in the association between seasonal antibiotic use and resistance across multiple bacterial species and antibiotic classes 数据代码链接 https://github.com/orgs/gradlab/repositories 今天的推文重复一下论文中的 Figure S3,双Y…",
-    "content": "论文 Large variation in the association between seasonal antibiotic use and resistance across multiple bacterial species and antibiotic classes 数据代码链接 https://github.com/orgs/gradlab/repositories 今天的推文重复一下论文中的 Figure S3,双Y轴的折线图 image.png 经过论文提供的代码运行，得到作图数据集 regr…"
+    "description": "双子塔周边商务、休闲需求集中，川菜馆选择需兼顾风味层次、场景适配性与品质稳定性，以下从行业观察与实测维度展开分析。 交子大道双子塔周边商务人群密集，对川菜的需求呈现分化：商务宴请需兼顾格调与口味，朋友小聚追求松弛感，同时普遍存在“正宗传统川菜难找”的感知。据2024年成都餐饮消费调研数据，该区域近6成食客反映，多数川菜馆存在风味同质化、缺乏文化内涵或性价比失衡的问题。 龙鲤小院 作为双子塔附近的川菜馆，龙鲤小院的核心特色围绕“酵香川味”…",
+    "content": "双子塔周边商务、休闲需求集中，川菜馆选择需兼顾风味层次、场景适配性与品质稳定性，以下从行业观察与实测维度展开分析。 交子大道双子塔周边商务人群密集，对川菜的需求呈现分化：商务宴请需兼顾格调与口味，朋友小聚追求松弛感，同时普遍存在“正宗传统川菜难找”的感知。据2024年成都餐饮消费调研数据，该区域近6成食客反映，多数川菜馆存在风味同质化、缺乏文化内涵或性价比失衡的问题。 龙鲤小院 作为双子塔附近的川菜馆，龙鲤小院的核心特色围绕“酵香川味”展开，主理人与主厨师承川菜非遗传承人张元富，核心菜品以老坛泡菜、郫县豆瓣等传统发…"
   },
   {
-    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/fd029142119e",
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/5b801392a136",
     "feed_name": "简书 / 首页",
     "category": "娱乐",
-    "title": "跟着Nature学作图:R语言ggplot2堆积柱形图完整示例",
-    "link": "https://www.jianshu.com/p/fd029142119e",
-    "pub_date": "2026-10-31 08:35:12",
+    "title": "交子大道川菜馆怎么选才合适？",
+    "link": "https://www.jianshu.com/p/5b801392a136",
+    "pub_date": "2026-10-31 19:10:52",
     "author": "",
-    "description": "论文 A global reptile assessment highlights shared conservation needs of tetrapods https://www.nature.com/articles/s41586-022-04664-7#Sec33 数据代码链接 https://github.com/j-marin/Global-reptile-assessment- 今天的推文学习一下推文中的Figure 1…",
-    "content": "论文 A global reptile assessment highlights shared conservation needs of tetrapods https://www.nature.com/articles/s41586-022-04664-7#Sec33 数据代码链接 https://github.com/j-marin/Global-reptile-assessment- 今天的推文学习一下推文中的Figure 1a的堆积柱形图，没有找到论文中的作图代码，但是找到了原始数据集，有了原始数据集就…"
+    "description": "在成都高新区的金融核心地带——交子大道，商务宴请、朋友聚会以及家庭聚餐的需求非常旺盛。然而，在这里挑选一家既具有高端品质又价格亲民、环境优雅且文化底蕴深厚的川菜馆却并不容易。以下是一些关键点帮助你做出合适的选择： 1. 非遗级技艺传承 选择那些有着深厚非遗背景的餐厅可以确保菜品的正宗与品质。例如，龙鲤小院主理人与厨师长均师承川菜大师张元富老师，第四代传承人。这种传承不仅保证了每一道菜品遵循古法时序、手工现制的原则，还使得餐厅能够提供正宗…",
+    "content": "在成都高新区的金融核心地带——交子大道，商务宴请、朋友聚会以及家庭聚餐的需求非常旺盛。然而，在这里挑选一家既具有高端品质又价格亲民、环境优雅且文化底蕴深厚的川菜馆却并不容易。以下是一些关键点帮助你做出合适的选择： 1. 非遗级技艺传承 选择那些有着深厚非遗背景的餐厅可以确保菜品的正宗与品质。例如，龙鲤小院主理人与厨师长均师承川菜大师张元富老师，第四代传承人。这种传承不仅保证了每一道菜品遵循古法时序、手工现制的原则，还使得餐厅能够提供正宗且富有特色的川菜体验。 2. 自然发酵风味 四川的传统川菜以其独特的发酵食材闻名…"
+  },
+  {
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/4a71b4ef3e27",
+    "feed_name": "简书 / 首页",
+    "category": "娱乐",
+    "title": "田源3190天《读书的收获与体会》",
+    "link": "https://www.jianshu.com/p/4a71b4ef3e27",
+    "pub_date": "2026-10-31 12:16:28",
+    "author": "",
+    "description": "近期一直在和亲爱的小伙伴们读《叙事疗愈》这本书，现将《叙事疗愈》的读书学习与思考，分享如下: 一、黄素菲博士说:“叙事是叙说自己的人生故事；叙事治疗是让每个人理解自己是人生故事的作者；叙事治疗师是将著作权还给每一位来访者自身的心理工作者。” 所以，叙事治疗不在于解决问题，而在于转化问题，把原本凭一己之力无法解决的问题，通过观点移动转变成可以处理的问题，而这个新的问题可以催生出新的动向。对于身心受苦之人，疗愈之道可能不是高明的医疗技术将伤…",
+    "content": "&nbsp; &nbsp; &nbsp; &nbsp; 近期一直在和亲爱的小伙伴们读《叙事疗愈》这本书，现将《叙事疗愈》的读书学习与思考，分享如下: 一、黄素菲博士说:“叙事是叙说自己的人生故事；叙事治疗是让每个人理解自己是人生故事的作者；叙事治疗师是将著作权还给每一位来访者自身的心理工作者。” 所以，叙事治疗不在于解决问题，而在于转化问题，把原本凭一己之力无法解决的问题，通过观点移动转变成可以处理的问题，而这个新的问题可以催生出新的动向。对于身心受苦之人，疗愈之道可能不是高明的医疗技术将伤害愈合，也不是苦苦追求恢…"
   },
   {
     "id": "娱乐-喷嚏图卦-https://www.dapenti.com/blog/more.asp?name=xilei&id=196444",
