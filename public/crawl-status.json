@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-11-01T12:24:42.990Z",
-  "ended_at": "2026-11-01T12:24:43.241Z",
-  "duration_ms": 251,
+  "started_at": "2026-11-02T02:02:02.340Z",
+  "ended_at": "2026-11-02T02:02:02.601Z",
+  "duration_ms": 261,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -21,8 +21,8 @@
     "failed_sources": 12,
     "circuit_open_sources": 12,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1340,
-    "total_items_after_retention": 1096,
+    "total_items_after_dedupe": 1354,
+    "total_items_after_retention": 1117,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -82,9 +82,9 @@
       "skippedByCircuit": true
     },
     {
-      "title": "超能网",
-      "url": "https://plink.anyfeeder.com/expreview",
-      "reason": "Forward-slash in opening tag not followed by >\nLine: 9\nColumn: 21\nChar: s",
+      "title": "极客公园",
+      "url": "https://www.geekpark.net/rss",
+      "reason": "The operation was aborted.",
       "skippedByCircuit": true
     },
     {
@@ -147,9 +147,9 @@
       "reason": "HTTP 403"
     },
     {
-      "title": "超能网",
-      "url": "https://plink.anyfeeder.com/expreview",
-      "reason": "Forward-slash in opening tag not followed by >\nLine: 9\nColumn: 21\nChar: s"
+      "title": "极客公园",
+      "url": "https://www.geekpark.net/rss",
+      "reason": "The operation was aborted."
     },
     {
       "title": "FreeBuf 关注黑客",

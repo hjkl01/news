@@ -1,5 +1,16 @@
 const jsonData = [
   {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20261102/mosquito-laser-ai/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "“激光灭蚊防空系统”：中国企业推出人工智能灭蚊设备",
+    "link": "https://cn.nytimes.com/china/20261102/mosquito-laser-ai/dual",
+    "pub_date": "2026-11-02 09:06:03",
+    "author": "",
+    "description": "KEITH BRADSHER2026年11月2日 For anyone kept awake by the infernal whine of mosquitoes, artificial intelligence may be coming to the rescue — armed with a laser. 对于那些被蚊子该死的嗡嗡声折磨得夜不能寐的人来说，人工智能可能正携激光赶来相救。 A Chinese company has…",
+    "content": "KEITH BRADSHER 2026年11月2日 For anyone kept awake by the infernal whine of mosquitoes, artificial intelligence may be coming to the rescue — armed with a laser. 对于那些被蚊子该死的嗡嗡声折磨得夜不能寐的人来说，人工智能可能正携激光赶来相救。 A Chinese company has started marketing a $1,000 A.I.-enable…"
+  },
+  {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/climate/20261030/glass-skyscrapers-heat-climate-change/dual",
     "feed_name": "纽约时报双语版",
     "category": "国外",
@@ -97,17 +108,6 @@ const jsonData = [
     "author": "",
     "description": "DAVID M. HALBFINGER2026年10月29日左：前以色列国防军总参谋长埃森科特；右：以色列总理内塔尼亚胡 Amir Cohen/Reuters; Alexi J. Rosenfeld/Getty Images The results of Israel’s pivotal parliamentary election will not be finalized at least until Thursday and it…",
     "content": "DAVID M. HALBFINGER 2026年10月29日 左：前以色列国防军总参谋长埃森科特；右：以色列总理内塔尼亚胡 Amir Cohen/Reuters; Alexi J. Rosenfeld/Getty Images The results of Israel’s pivotal parliamentary election will not be finalized at least until Thursday and it could be weeks until it is clear what…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261029/flavio-bolsonaro-us-miami-brazil-trump/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "博索纳罗败选后逃往美国，宣称自己为巴西合法领导人",
-    "link": "https://cn.nytimes.com/world/20261029/flavio-bolsonaro-us-miami-brazil-trump/dual",
-    "pub_date": "2026-10-29 12:06:04",
-    "author": "",
-    "description": "ANA LONOVA, 黄安伟, ALICE MACIEL, LUCÍA CHOLAKIAN HERRERA2026年10月29日弗拉维奥·博尔索纳罗周三抵达迈阿密奥帕洛卡机场。 Eva Marie Uzcategui/Reuters Flávio Bolsonaro, the candidate defeated in Brazil’s elections, landed in Miami on Wednesday, declarin…",
-    "content": "ANA LONOVA, 黄安伟, ALICE MACIEL, LUCÍA CHOLAKIAN HERRERA 2026年10月29日 弗拉维奥·博尔索纳罗周三抵达迈阿密奥帕洛卡机场。 Eva Marie Uzcategui/Reuters Flávio Bolsonaro, the candidate defeated in Brazil’s elections, landed in Miami on Wednesday, declaring himself the legitimate leader of the…"
   },
   {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261022-%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E8%BF%87%E4%B8%A4%E4%BA%BF%E9%83%A8%E6%89%8B%E6%9C%BA%E6%96%B0%E5%8F%8D%E8%AF%88%E7%A8%8B%E5%BA%8F%E8%AF%86%E5%88%AB%E7%9B%98%E9%97%AE%E6%B5%8F%E8%A7%88%E5%A2%99%E5%A4%96%E8%B4%A2%E7%BB%8F%E7%BD%91%E7%AB%99%E4%BA%BA%E5%91%98",
