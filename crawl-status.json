@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-11-02T14:20:21.771Z",
-  "ended_at": "2026-11-02T14:20:21.989Z",
-  "duration_ms": 218,
+  "started_at": "2026-11-03T03:49:11.423Z",
+  "ended_at": "2026-11-03T03:49:11.733Z",
+  "duration_ms": 310,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -21,8 +21,8 @@
     "failed_sources": 11,
     "circuit_open_sources": 11,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1392,
-    "total_items_after_retention": 1183,
+    "total_items_after_dedupe": 1377,
+    "total_items_after_retention": 1155,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -66,7 +66,7 @@
     {
       "title": "NodeLoc",
       "url": "https://www.nodeloc.com/atom/discussions",
-      "reason": "HTTP 404",
+      "reason": "The operation was aborted.",
       "skippedByCircuit": true
     },
     {
@@ -128,7 +128,7 @@
     {
       "title": "NodeLoc",
       "url": "https://www.nodeloc.com/atom/discussions",
-      "reason": "HTTP 404"
+      "reason": "The operation was aborted."
     },
     {
       "title": "路由器交流",
