@@ -1,5 +1,38 @@
 const jsonData = [
   {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261103/malaysia-data-center-china/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "全球人工智能热潮中的“黑马”：马来西亚",
+    "link": "https://cn.nytimes.com/business/20261103/malaysia-data-center-china/dual",
+    "pub_date": "2026-11-03 11:06:03",
+    "author": "",
+    "description": "ADAM SATARIANO, XINYUN WU2026年11月3日 Ulet Ifansasti for The New York Times Across a stretch of southern Malaysia once carpeted with palm-oil and pineapple plantations, signs of China’s global technology ambitions are taki…",
+    "content": "ADAM SATARIANO, XINYUN WU 2026年11月3日 Ulet Ifansasti for The New York Times Across a stretch of southern Malaysia once carpeted with palm-oil and pineapple plantations, signs of China’s global technology ambitions are taking shape. 在马来西亚南部一片曾遍布棕榈和菠萝种植园的地带，中国全球科…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261103/midterms-election-2026-senate-house-congress/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "一文读懂美国中期选举：两党各持何种立场，选情如何",
+    "link": "https://cn.nytimes.com/usa/20261103/midterms-election-2026-senate-house-congress/dual",
+    "pub_date": "2026-11-03 10:36:02",
+    "author": "",
+    "description": "TIM BALK2026年11月3日周五，迈阿密选举总部进行的提前投票。 Ruth Fremson/The New York Times The United States has reached the midterm elections, and voters will have an opportunity to deliver a judgment on the country’s direction two years int…",
+    "content": "TIM BALK 2026年11月3日 周五，迈阿密选举总部进行的提前投票。 Ruth Fremson/The New York Times The United States has reached the midterm elections, and voters will have an opportunity to deliver a judgment on the country’s direction two years into President Trump’s second term. 美国已进入…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/opinion/20261103/us-china-ai-manufacturing-exports-weapons/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "人工智能时代，美中关系将迎来重大变革",
+    "link": "https://cn.nytimes.com/opinion/20261103/us-china-ai-manufacturing-exports-weapons/dual",
+    "pub_date": "2026-11-03 07:36:02",
+    "author": "",
+    "description": "托马斯·弗里德曼2026年11月3日 Jason Allen Lee At Beijing Capital International Airport, it is now required after landing to send carry-on bags through a scanner before leaving the arrivals building. As I approached the scanner belt…",
+    "content": "托马斯·弗里德曼 2026年11月3日 Jason Allen Lee At Beijing Capital International Airport, it is now required after landing to send carry-on bags through a scanner before leaving the arrivals building. As I approached the scanner belt with my bags, though, I saw a sign tha…"
+  },
+  {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20261102/china-tiananmen-kristof/dual",
     "feed_name": "纽约时报双语版",
     "category": "国外",
@@ -75,39 +108,6 @@ const jsonData = [
     "author": "",
     "description": "CHICO HARLAN, ZUNAIRA SAIEED2026年10月30日 Ulet Ifansasti for The New York Times One thousand feet above city traffic, from her new 74th-floor apartment, Anastasia Zeeman has the kind of enchanting views that only floor-to-…",
     "content": "CHICO HARLAN, ZUNAIRA SAIEED 2026年10月30日 Ulet Ifansasti for The New York Times One thousand feet above city traffic, from her new 74th-floor apartment, Anastasia Zeeman has the kind of enchanting views that only floor-to-ceiling glass can offer. She looks out …"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261030/israel-election-coalition-scenarios/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "大选未产生明确获胜者，谁能最终成为以色列总理？",
-    "link": "https://cn.nytimes.com/world/20261030/israel-election-coalition-scenarios/dual",
-    "pub_date": "2026-10-30 12:36:02",
-    "author": "",
-    "description": "JOHNATAN REISS, ADINA RENNER, PABLO ROBLES2026年10月30日注：数据更新至美东时间10月29日5时。各党派必须赢得至少3.25%的全国选票才能进入拥有120个席位的以色列议会。来源：以色列中央选举委员会，经以色列公共广播公司转引。 Israel’s high-stakes parliamentary election on Tuesday produced no clear winner a…",
-    "content": "JOHNATAN REISS, ADINA RENNER, PABLO ROBLES 2026年10月30日 注：数据更新至美东时间10月29日5时。各党派必须赢得至少3.25%的全国选票才能进入拥有120个席位的以色列议会。来源：以色列中央选举委员会，经以色列公共广播公司转引。 Israel’s high-stakes parliamentary election on Tuesday produced no clear winner after most of the votes were counted. 以…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20261030/china-ai-videos-sun-wukong-lin-daiyu/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "孙悟空爱上林黛玉：中国AI短剧怎么成了“不当婚恋”",
-    "link": "https://cn.nytimes.com/china/20261030/china-ai-videos-sun-wukong-lin-daiyu/dual",
-    "pub_date": "2026-10-30 12:36:02",
-    "author": "",
-    "description": "TIFFANY MAY2026年10月30日一段人工智能生成视频的画面截图，画面中的孙悟空和林黛玉分别出自中国古典名著《西游记》和《红楼梦》。这两部作品均于上世纪80年代被改编成电视剧。 In wholesome videos that have delighted the Chinese internet in recent weeks, the Monkey King in a yellow martial arts outfit …",
-    "content": "TIFFANY MAY 2026年10月30日 一段人工智能生成视频的画面截图，画面中的孙悟空和林黛玉分别出自中国古典名著《西游记》和《红楼梦》。这两部作品均于上世纪80年代被改编成电视剧。 In wholesome videos that have delighted the Chinese internet in recent weeks, the Monkey King in a yellow martial arts outfit and a maiden swathed in embroidered si…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261030/flavio-bolsonaro-trump-brazil-us/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "特朗普帮助博索纳罗逃离巴西前往美国",
-    "link": "https://cn.nytimes.com/world/20261030/flavio-bolsonaro-trump-brazil-us/dual",
-    "pub_date": "2026-10-30 10:36:02",
-    "author": "",
-    "description": "黄安伟, ANA LONOVA, HAMED ALEAZIZ, TYLER PAGER2026年10月30日弗拉维奥·博索纳罗周三抵达迈阿密附近的奥帕洛卡机场。 Ricardo Arduengo/Agence France-Presse — Getty Images Flávio Bolsonaro, the Brazilian presidential candidate who faces multiple criminal inv…",
-    "content": "黄安伟, ANA LONOVA, HAMED ALEAZIZ, TYLER PAGER 2026年10月30日 弗拉维奥·博索纳罗周三抵达迈阿密附近的奥帕洛卡机场。 Ricardo Arduengo/Agence France-Presse — Getty Images Flávio Bolsonaro, the Brazilian presidential candidate who faces multiple criminal investigations, is staying in Florida on …"
   },
   {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261022-%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E8%BF%87%E4%B8%A4%E4%BA%BF%E9%83%A8%E6%89%8B%E6%9C%BA%E6%96%B0%E5%8F%8D%E8%AF%88%E7%A8%8B%E5%BA%8F%E8%AF%86%E5%88%AB%E7%9B%98%E9%97%AE%E6%B5%8F%E8%A7%88%E5%A2%99%E5%A4%96%E8%B4%A2%E7%BB%8F%E7%BD%91%E7%AB%99%E4%BA%BA%E5%91%98",
