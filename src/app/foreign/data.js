@@ -1,5 +1,16 @@
 const jsonData = [
   {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261104/midterm-elections-trump-democrats-republicans-key-themes/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "聚焦美国中期选举：结果出炉后值得关注的六大问题",
+    "link": "https://cn.nytimes.com/usa/20261104/midterm-elections-trump-democrats-republicans-key-themes/dual",
+    "pub_date": "2026-11-04 10:06:04",
+    "author": "",
+    "description": "REID J. EPSTEIN2026年11月4日周日，安克雷奇的选民们。民主党计划在该州参议院竞选中推举一名搅局的候选人，此举激怒了共和党人。 Erin Schaff/The New York Times For the last two months, President Trump has offered a consistent plea: Pretend he’s on the ballot. 过去两个月来，特朗普总统一直反复…",
+    "content": "REID J. EPSTEIN 2026年11月4日 周日，安克雷奇的选民们。民主党计划在该州参议院竞选中推举一名搅局的候选人，此举激怒了共和党人。 Erin Schaff/The New York Times For the last two months, President Trump has offered a consistent plea: Pretend he’s on the ballot. 过去两个月来，特朗普总统一直反复向选民发出一个呼吁：就当他的名字也在选票上。 The midterm ele…"
+  },
+  {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/opinion/20261103/trump-taiwan-china/dual",
     "feed_name": "纽约时报双语版",
     "category": "国外",
@@ -97,17 +108,6 @@ const jsonData = [
     "author": "",
     "description": "艾莎2026年11月2日中国前副总理、曾任该国最高级别女官员之一的刘延东于上周三在北京逝世。 Stanley Chou/Getty Images Liu Yandong, one of the few women to reach the upper echelons of the Chinese Communist Party, but whose career also illustrated the limits for wome…",
     "content": "艾莎 2026年11月2日 中国前副总理、曾任该国最高级别女官员之一的刘延东于上周三在北京逝世。 Stanley Chou/Getty Images Liu Yandong, one of the few women to reach the upper echelons of the Chinese Communist Party, but whose career also illustrated the limits for women in China’s ruling elite , died on We…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20261102/japan-vivant-spy-show-china/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "日剧《Vivant》被指“辱华”，三丽鸥取消联名合作",
-    "link": "https://cn.nytimes.com/asia-pacific/20261102/japan-vivant-spy-show-china/dual",
-    "pub_date": "2026-11-02 10:06:02",
-    "author": "",
-    "description": "赫海威, HISAKO UENO2026年11月2日北京方面称，热门日本剧集《别班》宣扬对华负面看法。 Andy Wong/Associated Press China’s recent pressure campaign against Japan has involved critical minerals, tourism, seafood and even pandas. Now Beijing is taking the di…",
-    "content": "赫海威, HISAKO UENO 2026年11月2日 北京方面称，热门日本剧集《别班》宣扬对华负面看法。 Andy Wong/Associated Press China’s recent pressure campaign against Japan has involved critical minerals, tourism, seafood and even pandas. Now Beijing is taking the dispute to the cultural sphere, targetin…"
   },
   {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261022-%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E8%BF%87%E4%B8%A4%E4%BA%BF%E9%83%A8%E6%89%8B%E6%9C%BA%E6%96%B0%E5%8F%8D%E8%AF%88%E7%A8%8B%E5%BA%8F%E8%AF%86%E5%88%AB%E7%9B%98%E9%97%AE%E6%B5%8F%E8%A7%88%E5%A2%99%E5%A4%96%E8%B4%A2%E7%BB%8F%E7%BD%91%E7%AB%99%E4%BA%BA%E5%91%98",
