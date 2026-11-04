@@ -1,5 +1,71 @@
 const jsonData = [
   {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261104/midterm-election-rebuke-of-trump-era/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "愤怒的选民开启特朗普时代终结的序幕",
+    "link": "https://cn.nytimes.com/usa/20261104/midterm-election-rebuke-of-trump-era/dual",
+    "pub_date": "2026-11-04 18:06:03",
+    "author": "",
+    "description": "PETER BAKER2026年11月4日“我不在选票上，因为我不在选票上，我们无法让足够多的人出来投票，”特朗普周二晚在接受《纽约时报》采访时表示。 Doug Mills/The New York Times President Trump implored voters over the course of the midterm campaign to “pretend I’m on the ballot.” He said it…",
+    "content": "PETER BAKER 2026年11月4日 “我不在选票上，因为我不在选票上，我们无法让足够多的人出来投票，”特朗普周二晚在接受《纽约时报》采访时表示。 Doug Mills/The New York Times President Trump implored voters over the course of the midterm campaign to “pretend I’m on the ballot.” He said it not once, not twice, but 47 times thi…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261104/midterms-2026-election-day-trump/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "美国中期选举：民主党赢得两院控制权，选民否决特朗普",
+    "link": "https://cn.nytimes.com/usa/20261104/midterms-2026-election-day-trump/dual",
+    "pub_date": "2026-11-04 15:36:01",
+    "author": "",
+    "description": "REID J. EPSTEIN, KELLEN BROWNING2026年11月4日 Democrats seized control of the Senate and were projected to win the House, according to New York Times projections, as voters delivered a blistering rebuke to President Trump i…",
+    "content": "REID J. EPSTEIN, KELLEN BROWNING 2026年11月4日 Democrats seized control of the Senate and were projected to win the House, according to New York Times projections, as voters delivered a blistering rebuke to President Trump in a midterm rout that resets the balanc…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261104/trump-midterm-election-results/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "特朗普：将接受选举结果，准备与民主党合作",
+    "link": "https://cn.nytimes.com/usa/20261104/trump-midterm-election-results/dual",
+    "pub_date": "2026-11-04 15:36:01",
+    "author": "",
+    "description": "ERICA L. GREEN, TYLER PAGER2026年11月4日特朗普总统周日在艾奥瓦州迪比克的一场竞选集会上。 Doug Mills/The New York Times President Trump said on Tuesday night that he was “absolutely willing” to accept the results of the midterm elections, and was p…",
+    "content": "ERICA L. GREEN, TYLER PAGER 2026年11月4日 特朗普总统周日在艾奥瓦州迪比克的一场竞选集会上。 Doug Mills/The New York Times President Trump said on Tuesday night that he was “absolutely willing” to accept the results of the midterm elections, and was prepared to work with Democrats. 特朗普总统周…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20261104/snake-catcher-bangkok-thailand/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "捕蛇但不杀蛇：曼谷头号捕蛇人的难题",
+    "link": "https://cn.nytimes.com/asia-pacific/20261104/snake-catcher-bangkok-thailand/dual",
+    "pub_date": "2026-11-04 13:36:02",
+    "author": "",
+    "description": "HANNAH BEECH, LAUREN DeCICCA2026年11月4日 Lauren DeCicca for The New York Times Once you see a snake in Bangkok, the snakiest capital in the world, you see snakes everywhere. Loops of electrical wire look like snakes. Gas p…",
+    "content": "HANNAH BEECH, LAUREN DeCICCA 2026年11月4日 Lauren DeCicca for The New York Times Once you see a snake in Bangkok, the snakiest capital in the world, you see snakes everywhere. Loops of electrical wire look like snakes. Gas pump hoses look like snakes. Vines, gree…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261104/iran-nuclear-weapons-war/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "越来越多伊朗人呼吁发展核武器对抗美国",
+    "link": "https://cn.nytimes.com/world/20261104/iran-nuclear-weapons-war/dual",
+    "pub_date": "2026-11-04 12:06:02",
+    "author": "",
+    "description": "ERIKA SOLOMON2026年11月4日 From pulpits at Friday prayers to street rallies, Iranian clerics and officials are increasingly urging the country’s leaders to reverse their longtime pledge not to pursue nuclear weapons. 从周五礼拜时…",
+    "content": "ERIKA SOLOMON 2026年11月4日 From pulpits at Friday prayers to street rallies, Iranian clerics and officials are increasingly urging the country’s leaders to reverse their longtime pledge not to pursue nuclear weapons. 从周五礼拜时的布道讲坛到街头集会，越来越多的伊朗神职人员和官员呼吁国家领导人改变长期以来不…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261104/binance-hack-report/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "币安称黑客为63亿美元窃案筹备数月",
+    "link": "https://cn.nytimes.com/business/20261104/binance-hack-report/dual",
+    "pub_date": "2026-11-04 10:36:03",
+    "author": "",
+    "description": "EMMY MARTIN2026年11月4日黑客利用一台电脑和一个内部人工智能工具控制了币安钱包团队两名工程师的电脑。 Gabby Jones/Bloomberg Binance, the world’s largest cryptocurrency exchange, said on Tuesday that the hackers behind last week’s $6.3 billion theft had spent mont…",
+    "content": "EMMY MARTIN 2026年11月4日 黑客利用一台电脑和一个内部人工智能工具控制了币安钱包团队两名工程师的电脑。 Gabby Jones/Bloomberg Binance , the world’s largest cryptocurrency exchange , said on Tuesday that the hackers behind last week’s $6.3 billion theft had spent months preparing for the heist, luring a…"
+  },
+  {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261104/midterm-elections-trump-democrats-republicans-key-themes/dual",
     "feed_name": "纽约时报双语版",
     "category": "国外",
@@ -42,72 +108,6 @@ const jsonData = [
     "author": "",
     "description": "ADAM SATARIANO, XINYUN WU2026年11月3日 Ulet Ifansasti for The New York Times Across a stretch of southern Malaysia once carpeted with palm-oil and pineapple plantations, signs of China’s global technology ambitions are taki…",
     "content": "ADAM SATARIANO, XINYUN WU 2026年11月3日 Ulet Ifansasti for The New York Times Across a stretch of southern Malaysia once carpeted with palm-oil and pineapple plantations, signs of China’s global technology ambitions are taking shape. 在马来西亚南部一片曾遍布棕榈和菠萝种植园的地带，中国全球科…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261103/midterms-election-2026-senate-house-congress/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "一文读懂美国中期选举：两党各持何种立场，选情如何",
-    "link": "https://cn.nytimes.com/usa/20261103/midterms-election-2026-senate-house-congress/dual",
-    "pub_date": "2026-11-03 10:36:02",
-    "author": "",
-    "description": "TIM BALK2026年11月3日周五，迈阿密选举总部进行的提前投票。 Ruth Fremson/The New York Times The United States has reached the midterm elections, and voters will have an opportunity to deliver a judgment on the country’s direction two years int…",
-    "content": "TIM BALK 2026年11月3日 周五，迈阿密选举总部进行的提前投票。 Ruth Fremson/The New York Times The United States has reached the midterm elections, and voters will have an opportunity to deliver a judgment on the country’s direction two years into President Trump’s second term. 美国已进入…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/opinion/20261103/us-china-ai-manufacturing-exports-weapons/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "人工智能时代，美中关系将迎来重大变革",
-    "link": "https://cn.nytimes.com/opinion/20261103/us-china-ai-manufacturing-exports-weapons/dual",
-    "pub_date": "2026-11-03 07:36:02",
-    "author": "",
-    "description": "托马斯·弗里德曼2026年11月3日 Jason Allen Lee At Beijing Capital International Airport, it is now required after landing to send carry-on bags through a scanner before leaving the arrivals building. As I approached the scanner belt…",
-    "content": "托马斯·弗里德曼 2026年11月3日 Jason Allen Lee At Beijing Capital International Airport, it is now required after landing to send carry-on bags through a scanner before leaving the arrivals building. As I approached the scanner belt with my bags, though, I saw a sign tha…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20261102/china-tiananmen-kristof/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "在天安门屠杀现场，我目睹了中国人民非凡的勇气",
-    "link": "https://cn.nytimes.com/china/20261102/china-tiananmen-kristof/dual",
-    "pub_date": "2026-11-02 14:36:02",
-    "author": "",
-    "description": "纪思道2026年11月2日 This story is part of a series marking 175 years of eyewitness journalism from The New York Times. Read more here. 本文是《纽约时报》为纪念创刊175周年来坚守现场报道而推出的系列报道之一。阅读更多内容。 As I pedaled my bicycle toward the gunfire and…",
-    "content": "纪思道 2026年11月2日 This story is part of a series marking 175 years of eyewitness journalism from The New York Times. Read more here. 本文是《纽约时报》为纪念创刊175周年来坚守现场报道而推出的系列报道之一 。 阅读更多内容。 As I pedaled my bicycle toward the gunfire and Tiananmen Square, dodging people in …"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261102/trump-speeches-rallies-age/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "失言、发怒、关注“屁股”：特朗普的言论变得更粗俗",
-    "link": "https://cn.nytimes.com/usa/20261102/trump-speeches-rallies-age/dual",
-    "pub_date": "2026-11-02 13:36:02",
-    "author": "",
-    "description": "PETER BAKER, DYLAN FREEDMAN2026年11月2日 Alex Kent/The New York Times As he opened his speech at a recent campaign rally in Greenville, N.C., President Trump told the story of the Willie Horton crime case that helped sink t…",
-    "content": "PETER BAKER, DYLAN FREEDMAN 2026年11月2日 Alex Kent/The New York Times As he opened his speech at a recent campaign rally in Greenville, N.C., President Trump told the story of the Willie Horton crime case that helped sink the presidential campaign of the Democra…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/technology/20261102/binance-hack-crypto-north-korea/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "币安63亿美元黑客攻击事件始末",
-    "link": "https://cn.nytimes.com/technology/20261102/binance-hack-crypto-north-korea/dual",
-    "pub_date": "2026-11-02 12:06:02",
-    "author": "",
-    "description": "DAVID YAFFE-BELLANY2026年11月2日全球最大加密货币交易所币安表示，这起被业内称为史上最大规模加密货币黑客攻击的事件涉及约63亿美元资金。 SeongJoon Cho/Bloomberg At about 4:20 p.m. on Thursday, a string of unusual transactions started to cause alarm at Binance, the world’s lar…",
-    "content": "DAVID YAFFE-BELLANY 2026年11月2日 全球最大加密货币交易所币安表示，这起被业内称为史上最大规模加密货币黑客攻击的事件涉及约63亿美元资金。 SeongJoon Cho/Bloomberg At about 4:20 p.m. on Thursday, a string of unusual transactions started to cause alarm at Binance, the world’s largest cryptocurrency exchange. 周四下午4点20…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/obits/20261102/liu-yandong-dead/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "中国前副总理刘延东去世：跻身共产党高层的少数女性之一",
-    "link": "https://cn.nytimes.com/obits/20261102/liu-yandong-dead/dual",
-    "pub_date": "2026-11-02 10:36:02",
-    "author": "",
-    "description": "艾莎2026年11月2日中国前副总理、曾任该国最高级别女官员之一的刘延东于上周三在北京逝世。 Stanley Chou/Getty Images Liu Yandong, one of the few women to reach the upper echelons of the Chinese Communist Party, but whose career also illustrated the limits for wome…",
-    "content": "艾莎 2026年11月2日 中国前副总理、曾任该国最高级别女官员之一的刘延东于上周三在北京逝世。 Stanley Chou/Getty Images Liu Yandong, one of the few women to reach the upper echelons of the Chinese Communist Party, but whose career also illustrated the limits for women in China’s ruling elite , died on We…"
   },
   {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261022-%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E8%BF%87%E4%B8%A4%E4%BA%BF%E9%83%A8%E6%89%8B%E6%9C%BA%E6%96%B0%E5%8F%8D%E8%AF%88%E7%A8%8B%E5%BA%8F%E8%AF%86%E5%88%AB%E7%9B%98%E9%97%AE%E6%B5%8F%E8%A7%88%E5%A2%99%E5%A4%96%E8%B4%A2%E7%BB%8F%E7%BD%91%E7%AB%99%E4%BA%BA%E5%91%98",
