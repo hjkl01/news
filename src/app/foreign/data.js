@@ -1,5 +1,16 @@
 const jsonData = [
   {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261105/midterms-trump-foreign-policy-world/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "“特朗普全面惨败”上热搜，世界如何看待美国中期选举？",
+    "link": "https://cn.nytimes.com/usa/20261105/midterms-trump-foreign-policy-world/dual",
+    "pub_date": "2026-11-05 09:06:02",
+    "author": "",
+    "description": "JIM TANKERSLEY, DAMIEN CAVE, ANNIE CORREAL2026年11月5日周日，堪萨斯州萨利纳的一场集会后，特朗普总统在走下舞台前向支持者道别。他所属的共和党在中期选举中表现不佳。 Doug Mills/The New York Times For two years, the world has weathered President Trump’s domineering unilateralism, …",
+    "content": "JIM TANKERSLEY, DAMIEN CAVE, ANNIE CORREAL 2026年11月5日 周日，堪萨斯州萨利纳的一场集会后，特朗普总统在走下舞台前向支持者道别。他所属的共和党在中期选举中表现不佳。 Doug Mills/The New York Times For two years, the world has weathered President Trump’s domineering unilateralism, enduring up-and-down tariffs, a war wi…"
+  },
+  {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261104/midterm-election-rebuke-of-trump-era/dual",
     "feed_name": "纽约时报双语版",
     "category": "国外",
@@ -97,17 +108,6 @@ const jsonData = [
     "author": "",
     "description": "DAVID PIERSON, BERRY WANG2026年11月3日一台盾构机正在中国一家工厂组装。北京近期采取行动，管制数十项技术的出口，其中包括这类机器。 CHINATOPIX, via Associated Press They are among the biggest machines in the world: steel cylinders, some as long as a football field, armed…",
     "content": "DAVID PIERSON, BERRY WANG 2026年11月3日 一台盾构机正在中国一家工厂组装。北京近期采取行动，管制数十项技术的出口，其中包括这类机器。 CHINATOPIX, via Associated Press They are among the biggest machines in the world: steel cylinders, some as long as a football field, armed with rotating discs that can chew thr…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261103/malaysia-data-center-china/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "全球人工智能热潮中的“黑马”：马来西亚",
-    "link": "https://cn.nytimes.com/business/20261103/malaysia-data-center-china/dual",
-    "pub_date": "2026-11-03 11:06:03",
-    "author": "",
-    "description": "ADAM SATARIANO, XINYUN WU2026年11月3日 Ulet Ifansasti for The New York Times Across a stretch of southern Malaysia once carpeted with palm-oil and pineapple plantations, signs of China’s global technology ambitions are taki…",
-    "content": "ADAM SATARIANO, XINYUN WU 2026年11月3日 Ulet Ifansasti for The New York Times Across a stretch of southern Malaysia once carpeted with palm-oil and pineapple plantations, signs of China’s global technology ambitions are taking shape. 在马来西亚南部一片曾遍布棕榈和菠萝种植园的地带，中国全球科…"
   },
   {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261022-%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E8%BF%87%E4%B8%A4%E4%BA%BF%E9%83%A8%E6%89%8B%E6%9C%BA%E6%96%B0%E5%8F%8D%E8%AF%88%E7%A8%8B%E5%BA%8F%E8%AF%86%E5%88%AB%E7%9B%98%E9%97%AE%E6%B5%8F%E8%A7%88%E5%A2%99%E5%A4%96%E8%B4%A2%E7%BB%8F%E7%BD%91%E7%AB%99%E4%BA%BA%E5%91%98",
