@@ -1,25 +1,36 @@
 const jsonData = [
   {
-    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/86f7b725ea86",
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/776c9a34d683",
     "feed_name": "简书 / 首页",
     "category": "娱乐",
-    "title": "【读书笔记】《 Hadoop构建数据仓库实践》第1章",
-    "link": "https://www.jianshu.com/p/86f7b725ea86",
-    "pub_date": "2026-11-05 21:03:31",
+    "title": "Node使用 MongoDB",
+    "link": "https://www.jianshu.com/p/776c9a34d683",
+    "pub_date": "2026-11-06 10:38:58",
     "author": "",
-    "description": "02-《 Hadoop构建数据仓库实践》.jpg 第1章 数据仓库简介 1.1 什么是数据仓库 Inmon将数据仓库描述为一个面向主题的、集成的、随时间变化的、非易失的数据集合，用于支持管理者的决策过程。 1.3 数据仓库架构 1.3.2 主要数据仓库架构 在数据仓库技术演化过程中，产生了几种主要的架构方法，包括数据集市架构、Inmon企业信息工厂架构、Kimball数据仓库架构和混合型数据仓库架构。 1. 数据集市架构 数据集市是按主…",
-    "content": "02-《 Hadoop构建数据仓库实践》.jpg 第1章 数据仓库简介 1.1 什么是数据仓库 Inmon将数据仓库描述为一个面向主题的、集成的、随时间变化的、非易失的数据集合，用于支持管理者的决策过程。 1.3 数据仓库架构 1.3.2 主要数据仓库架构 在数据仓库技术演化过程中，产生了几种主要的架构方法，包括数据集市架构、Inmon企业信息工厂架构、Kimball数据仓库架构和混合型数据仓库架构。 1. 数据集市架构 数据集市是按主题域组织的数据集合，用于支持部门级的决策。有两种类型的数据集市：独立数据集市和从…"
+    "description": "最近项目中需要使用MongoDB做数据存储，从安装到简单使用做下记录 Mac安装MongoDB Mac上使用 brew 安装MongoDB相对比较简单 brew tap mongodb/brew brew install mongodb-community //可以在后面跟版本号，安装指定版本brew install mongodb-community@6.0 安装信息： 配置文件：/usr/local/etc/mongod.conf …",
+    "content": "最近项目中需要使用MongoDB做数据存储，从安装到简单使用做下记录 Mac安装MongoDB Mac上使用 brew 安装MongoDB相对比较简单 brew tap mongodb/brew brew install mongodb-community //可以在后面跟版本号，安装指定版本brew install mongodb-community@6.0 安装信息： 配置文件：/usr/local/etc/mongod.conf 日志文件路径：/usr/local/var/log/mongodb 数据存放路径…"
   },
   {
-    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/617a467bfe40",
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/c508cb8c7f64",
     "feed_name": "简书 / 首页",
     "category": "娱乐",
-    "title": "GitBook 本地使用排雷，及导出基本可用的 PDF 版本",
-    "link": "https://www.jianshu.com/p/617a467bfe40",
-    "pub_date": "2026-11-05 21:03:31",
+    "title": "雾中藏刀！李宗翰刘炫锐《心理游戏》进京，每句台词可能骗你",
+    "link": "https://www.jianshu.com/p/c508cb8c7f64",
+    "pub_date": "2026-11-06 10:38:56",
     "author": "",
-    "description": "原文地址：https://alphahinex.github.io/2022/09/18/gitbook-export-fine-enough-pdf/ cover description: \"总结了离线环境使用 GitBook 以及将 GitBook 编写的文档导出成 PDF 时可能会遇到的问题和解决办法\" GitBook 简介 GitBook 是一个现代的文档平台，提供了基于 Markdown 等方式的在线协作编辑文档方式，并可以方…",
-    "content": "原文地址： https://alphahinex.github.io/2022/09/18/gitbook-export-fine-enough-pdf/ cover description: \"总结了离线环境使用 GitBook 以及将 GitBook 编写的文档导出成 PDF 时可能会遇到的问题和解决办法\" date: 2022.09.18 10:34 categories: - Book tags: [GitBook] keywords: GitBook, PDF, graceful-fs, ebook-co…"
+    "description": "灯光渐暗，舞台中央悄然矗立起一座能在朦胧雾气与澄澈透明之间自由切换的奇异装置，像一枚悬浮的水晶魔方，把整座剧场罩进亦真亦幻的氛围里。 心理悬疑话剧《心理游戏》中文版，就以这座装置为核心意象，开启了中国舞台的首轮巡演。 台上站着李宗翰与刘炫锐两位演员，用沉稳而富有张力的表演，把观众一步步拽进一场关于认知与欺骗的深渊。 提醒你一句：从现在起，你说的每句话、看的每个画面——都可能不是你以为的那样。 先把这个\"局\"的设计者亮出来：安东尼·霍洛维…",
+    "content": "灯光渐暗，舞台中央悄然矗立起一座能在朦胧雾气与澄澈透明之间自由切换的奇异装置，像一枚悬浮的水晶魔方，把整座剧场罩进亦真亦幻的氛围里。 心理悬疑话剧《心理游戏》中文版，就以这座装置为核心意象，开启了中国舞台的首轮巡演。 台上站着李宗翰与刘炫锐两位演员，用沉稳而富有张力的表演，把观众一步步拽进一场关于认知与欺骗的深渊。 提醒你一句：从现在起，你说的每句话、看的每个画面——都可能不是你以为的那样。 先把这个\"局\"的设计者亮出来：安东尼·霍洛维茨，英国当代文坛举足轻重的悬疑叙事大师，笔下的故事总能在最后一刻翻转乾坤，让读者…"
+  },
+  {
+    "id": "娱乐-简书 / 首页-https://www.jianshu.com/p/add1de06b97b",
+    "feed_name": "简书 / 首页",
+    "category": "娱乐",
+    "title": "刺梨泡酒怎么做，别急着封罐先看这几处再决定",
+    "link": "https://www.jianshu.com/p/add1de06b97b",
+    "pub_date": "2026-11-06 10:38:54",
+    "author": "",
+    "description": "刺梨这东西，扎手时让人皱眉，泡进酒里又叫人惦记。去年我急着封罐，结果三个月后开坛，香气闷着，酸涩也冒头。后来才明白，刺梨泡酒怎么做，别急着封罐先看这几处，真不是一句空话。 我的配比按3000毫升酒来：鲜刺梨去刺去籽后净重1500克，黄冰糖600克，42度清香型小曲酒3000毫升。玻璃坛要无油无水，刺梨晾干表面水分，切开去籽，一层果一层糖铺进去，最后沿壁倒酒，留出坛口空间。酒每增减500毫升，刺梨跟着增减250克，糖增减100克，别凭手感…",
+    "content": "刺梨这东西，扎手时让人皱眉，泡进酒里又叫人惦记。去年我急着封罐，结果三个月后开坛，香气闷着，酸涩也冒头。后来才明白，刺梨泡酒怎么做，别急着封罐先看这几处，真不是一句空话。 我的配比按3000毫升酒来：鲜刺梨去刺去籽后净重1500克，黄冰糖600克，42度清香型小曲酒3000毫升。玻璃坛要无油无水，刺梨晾干表面水分，切开去籽，一层果一层糖铺进去，最后沿壁倒酒，留出坛口空间。酒每增减500毫升，刺梨跟着增减250克，糖增减100克，别凭手感乱抓。 坛子提前用开水烫过晾干，果面一定不能带生水；糖别全压在最上面，分层铺更均…"
   },
   {
     "id": "娱乐-喷嚏图卦-https://www.dapenti.com/blog/more.asp?name=xilei&id=196580",

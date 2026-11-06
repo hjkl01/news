@@ -1,5 +1,27 @@
 const jsonData = [
   {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261106/house-republicans-nvidia-jensen-huang-china/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "众议院领导人要求黄仁勋出席简报会，说明与中国高管往来",
+    "link": "https://cn.nytimes.com/usa/20261106/house-republicans-nvidia-jensen-huang-china/dual",
+    "pub_date": "2026-11-06 10:06:02",
+    "author": "",
+    "description": "TRIPP MICKLE2026年11月6日要求英伟达首席执行官黄仁勋出席简报会标志着共和党国会领导层态度的转变——此前他们对科技行业大多采取放任态度。 Manuel Orbegozo for The New York Times The Republican leaders of three influential House committees on Thursday asked Jensen Huang, the chief e…",
+    "content": "TRIPP MICKLE 2026年11月6日 要求英伟达首席执行官黄仁勋出席简报会标志着共和党国会领导层态度的转变——此前他们对科技行业大多采取放任态度。 Manuel Orbegozo for The New York Times The Republican leaders of three influential House committees on Thursday asked Jensen Huang, the chief executive of Nvidia, to voluntarily app…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261106/softbank-robotics-china-block/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "中国阻止软银以54亿美元收购ABB机器人业务",
+    "link": "https://cn.nytimes.com/business/20261106/softbank-robotics-china-block/dual",
+    "pub_date": "2026-11-06 08:36:02",
+    "author": "",
+    "description": "ADAM SATARIANO2026年11月6日 ​Chinese authorities thwarted a multibillion-dollar effort by the Japanese tech giant SoftBank to expand further into robotics, showing Beijing’s willingness to intervene in global business deals…",
+    "content": "ADAM SATARIANO 2026年11月6日 ​Chinese authorities thwarted a multibillion-dollar effort by the Japanese tech giant SoftBank to expand further into robotics, showing Beijing’s willingness to intervene in global business deals that may impact its own technology amb…"
+  },
+  {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261105/chinese-restaurant-edinburgh-viral-social-media/dual",
     "feed_name": "纽约时报双语版",
     "category": "国外",
@@ -86,28 +108,6 @@ const jsonData = [
     "author": "",
     "description": "PETER BAKER2026年11月4日“我不在选票上，因为我不在选票上，我们无法让足够多的人出来投票，”特朗普周二晚在接受《纽约时报》采访时表示。 Doug Mills/The New York Times President Trump implored voters over the course of the midterm campaign to “pretend I’m on the ballot.” He said it…",
     "content": "PETER BAKER 2026年11月4日 “我不在选票上，因为我不在选票上，我们无法让足够多的人出来投票，”特朗普周二晚在接受《纽约时报》采访时表示。 Doug Mills/The New York Times President Trump implored voters over the course of the midterm campaign to “pretend I’m on the ballot.” He said it not once, not twice, but 47 times thi…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261104/midterms-2026-election-day-trump/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "美国中期选举：民主党赢得两院控制权，选民否决特朗普",
-    "link": "https://cn.nytimes.com/usa/20261104/midterms-2026-election-day-trump/dual",
-    "pub_date": "2026-11-04 15:36:01",
-    "author": "",
-    "description": "REID J. EPSTEIN, KELLEN BROWNING2026年11月4日 Democrats seized control of the Senate and were projected to win the House, according to New York Times projections, as voters delivered a blistering rebuke to President Trump i…",
-    "content": "REID J. EPSTEIN, KELLEN BROWNING 2026年11月4日 Democrats seized control of the Senate and were projected to win the House, according to New York Times projections, as voters delivered a blistering rebuke to President Trump in a midterm rout that resets the balanc…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261104/trump-midterm-election-results/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "特朗普：将接受选举结果，准备与民主党合作",
-    "link": "https://cn.nytimes.com/usa/20261104/trump-midterm-election-results/dual",
-    "pub_date": "2026-11-04 15:36:01",
-    "author": "",
-    "description": "ERICA L. GREEN, TYLER PAGER2026年11月4日特朗普总统周日在艾奥瓦州迪比克的一场竞选集会上。 Doug Mills/The New York Times President Trump said on Tuesday night that he was “absolutely willing” to accept the results of the midterm elections, and was p…",
-    "content": "ERICA L. GREEN, TYLER PAGER 2026年11月4日 特朗普总统周日在艾奥瓦州迪比克的一场竞选集会上。 Doug Mills/The New York Times President Trump said on Tuesday night that he was “absolutely willing” to accept the results of the midterm elections, and was prepared to work with Democrats. 特朗普总统周…"
   },
   {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261022-%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E8%BF%87%E4%B8%A4%E4%BA%BF%E9%83%A8%E6%89%8B%E6%9C%BA%E6%96%B0%E5%8F%8D%E8%AF%88%E7%A8%8B%E5%BA%8F%E8%AF%86%E5%88%AB%E7%9B%98%E9%97%AE%E6%B5%8F%E8%A7%88%E5%A2%99%E5%A4%96%E8%B4%A2%E7%BB%8F%E7%BD%91%E7%AB%99%E4%BA%BA%E5%91%98",
