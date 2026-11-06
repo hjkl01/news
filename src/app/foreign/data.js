@@ -1,5 +1,38 @@
 const jsonData = [
   {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/culture/20261106/kpop-newjeans-contract/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "剥削与掌控：NewJeans秘密合同揭露K-pop阴暗面",
+    "link": "https://cn.nytimes.com/culture/20261106/kpop-newjeans-contract/dual",
+    "pub_date": "2026-11-06 15:36:02",
+    "author": "",
+    "description": "SARAH HURTES, JIN YU YOUNG2026年11月6日 Jung Yeon-Je/Agence France-Presse — Getty Images Two years ago, the five members of the record-shattering girl group NewJeans, some still in their teens, did what no K-pop stars of th…",
+    "content": "SARAH HURTES, JIN YU YOUNG 2026年11月6日 Jung Yeon-Je/Agence France-Presse — Getty Images Two years ago, the five members of the record-shattering girl group NewJeans, some still in their teens, did what no K-pop stars of their stature had done in a generation: T…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261106/trump-midterms-losses-republicans/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "“敌人是我们自己”：揭秘特朗普团队的历史性崩溃",
+    "link": "https://cn.nytimes.com/usa/20261106/trump-midterms-losses-republicans/dual",
+    "pub_date": "2026-11-06 14:06:02",
+    "author": "",
+    "description": "SHANE GOLDMACHER, JONATHAN SWAN, MAGGIE HABERMAN2026年11月6日上个月，特朗普总统在蒙大拿州卡利斯佩尔市参加了一场竞选集会。 Doug Mills/The New York Times Six days before the election, more than two dozen of President Donald Trump’s top strategists logged …",
+    "content": "SHANE GOLDMACHER, JONATHAN SWAN, MAGGIE HABERMAN 2026年11月6日 上个月，特朗普总统在蒙大拿州卡利斯佩尔市参加了一场竞选集会。 Doug Mills/The New York Times Six days before the election, more than two dozen of President Donald Trump’s top strategists logged onto a private video call. 选举前六天，唐纳德·特…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261106/stocks-midterms-artificial-intelligence/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "中期选举结果引发对人工智能监管焦虑，美股暴跌",
+    "link": "https://cn.nytimes.com/business/20261106/stocks-midterms-artificial-intelligence/dual",
+    "pub_date": "2026-11-06 11:36:02",
+    "author": "",
+    "description": "JOE RENNISON2026年11月6日标准普尔500指数每日变化。数据来源：LSEG。 By The New York Times Stocks had their worst day in nearly two years as investors’ concerns about weaknesses in the A.I. industry re-emerged after Democratic midterm victori…",
+    "content": "JOE RENNISON 2026年11月6日 标准普尔500指数每日变化。数据来源：LSEG。 By The New York Times Stocks had their worst day in nearly two years as investors’ concerns about weaknesses in the A.I. industry re-emerged after Democratic midterm victories raised the prospect of tighter regu…"
+  },
+  {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261106/house-republicans-nvidia-jensen-huang-china/dual",
     "feed_name": "纽约时报双语版",
     "category": "国外",
@@ -75,39 +108,6 @@ const jsonData = [
     "author": "",
     "description": "SHANE GOLDMACHER, PATRICIA MAZZEI2026年11月5日周二在奥斯汀举行的詹姆斯·塔拉里科的开票派对。他赢得了得克萨斯州参议员席位，民主党在这场选举中取得压倒性胜利。 Haiyun Jiang/The New York Times Democrats marched to a landslide victory in the midterm elections on Tuesday as voters ac…",
     "content": "SHANE GOLDMACHER, PATRICIA MAZZEI 2026年11月5日 周二在奥斯汀举行的詹姆斯·塔拉里科的开票派对。他赢得了得克萨斯州参议员席位，民主党在这场选举中取得压倒性胜利。 Haiyun Jiang/The New York Times Democrats marched to a landslide victory in the midterm elections on Tuesday as voters across the country raged at President Tr…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261105/midterms-mood/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "美国选民为何拒绝特朗普的共和党",
-    "link": "https://cn.nytimes.com/usa/20261105/midterms-mood/dual",
-    "pub_date": "2026-11-05 11:06:32",
-    "author": "",
-    "description": "SABRINA TAVERNISE2026年11月5日 From Texas to Maine, Democratic voters thronged to the polls on Tuesday. Independents turned their backs on President Trump. And Republicans seemed to be slipping out of the thrall of a presid…",
-    "content": "SABRINA TAVERNISE 2026年11月5日 From Texas to Maine, Democratic voters thronged to the polls on Tuesday. Independents turned their backs on President Trump. And Republicans seemed to be slipping out of the thrall of a president who has defined American politics f…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261105/midterms-trump-foreign-policy-world/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "“特朗普全面惨败”上热搜，世界如何看待美国中期选举？",
-    "link": "https://cn.nytimes.com/usa/20261105/midterms-trump-foreign-policy-world/dual",
-    "pub_date": "2026-11-05 09:06:02",
-    "author": "",
-    "description": "JIM TANKERSLEY, DAMIEN CAVE, ANNIE CORREAL2026年11月5日周日，堪萨斯州萨利纳的一场集会后，特朗普总统在走下舞台前向支持者道别。他所属的共和党在中期选举中表现不佳。 Doug Mills/The New York Times For two years, the world has weathered President Trump’s domineering unilateralism, …",
-    "content": "JIM TANKERSLEY, DAMIEN CAVE, ANNIE CORREAL 2026年11月5日 周日，堪萨斯州萨利纳的一场集会后，特朗普总统在走下舞台前向支持者道别。他所属的共和党在中期选举中表现不佳。 Doug Mills/The New York Times For two years, the world has weathered President Trump’s domineering unilateralism, enduring up-and-down tariffs, a war wi…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261104/midterm-election-rebuke-of-trump-era/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "愤怒的选民开启特朗普时代终结的序幕",
-    "link": "https://cn.nytimes.com/usa/20261104/midterm-election-rebuke-of-trump-era/dual",
-    "pub_date": "2026-11-04 18:06:03",
-    "author": "",
-    "description": "PETER BAKER2026年11月4日“我不在选票上，因为我不在选票上，我们无法让足够多的人出来投票，”特朗普周二晚在接受《纽约时报》采访时表示。 Doug Mills/The New York Times President Trump implored voters over the course of the midterm campaign to “pretend I’m on the ballot.” He said it…",
-    "content": "PETER BAKER 2026年11月4日 “我不在选票上，因为我不在选票上，我们无法让足够多的人出来投票，”特朗普周二晚在接受《纽约时报》采访时表示。 Doug Mills/The New York Times President Trump implored voters over the course of the midterm campaign to “pretend I’m on the ballot.” He said it not once, not twice, but 47 times thi…"
   },
   {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261022-%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E8%BF%87%E4%B8%A4%E4%BA%BF%E9%83%A8%E6%89%8B%E6%9C%BA%E6%96%B0%E5%8F%8D%E8%AF%88%E7%A8%8B%E5%BA%8F%E8%AF%86%E5%88%AB%E7%9B%98%E9%97%AE%E6%B5%8F%E8%A7%88%E5%A2%99%E5%A4%96%E8%B4%A2%E7%BB%8F%E7%BD%91%E7%AB%99%E4%BA%BA%E5%91%98",
