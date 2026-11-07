@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-11-07T02:30:41.067Z",
-  "ended_at": "2026-11-07T02:30:41.268Z",
-  "duration_ms": 201,
+  "started_at": "2026-11-07T12:10:47.313Z",
+  "ended_at": "2026-11-07T12:10:47.522Z",
+  "duration_ms": 209,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -21,8 +21,8 @@
     "failed_sources": 11,
     "circuit_open_sources": 11,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1385,
-    "total_items_after_retention": 1144,
+    "total_items_after_dedupe": 1383,
+    "total_items_after_retention": 1158,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -72,7 +72,7 @@
     {
       "title": "路由器交流",
       "url": "https://www.acwifi.net/feed",
-      "reason": "The operation was aborted.",
+      "reason": "Invalid character in tag name\nLine: 0\nColumn: 384\nChar: ;",
       "skippedByCircuit": true
     },
     {
@@ -133,7 +133,7 @@
     {
       "title": "路由器交流",
       "url": "https://www.acwifi.net/feed",
-      "reason": "The operation was aborted."
+      "reason": "Invalid character in tag name\nLine: 0\nColumn: 384\nChar: ;"
     },
     {
       "title": "技術討論區 | 草榴社區 - t66y.com",
