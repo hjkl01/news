@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-11-08T12:31:25.957Z",
-  "ended_at": "2026-11-08T12:31:26.171Z",
-  "duration_ms": 214,
+  "started_at": "2026-11-09T02:18:29.546Z",
+  "ended_at": "2026-11-09T02:18:29.806Z",
+  "duration_ms": 260,
   "config": {
     "concurrency": 8,
     "cache_enabled": true,
@@ -17,12 +17,12 @@
   "summary": {
     "total_sources": 59,
     "fetched_sources": 0,
-    "cache_hit_sources": 47,
-    "failed_sources": 12,
-    "circuit_open_sources": 12,
+    "cache_hit_sources": 48,
+    "failed_sources": 11,
+    "circuit_open_sources": 11,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1352,
-    "total_items_after_retention": 1110,
+    "total_items_after_dedupe": 1385,
+    "total_items_after_retention": 1149,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -79,12 +79,6 @@
       "title": "技術討論區 | 草榴社區 - t66y.com",
       "url": "https://rsshub.app/t66y/7",
       "reason": "HTTP 403",
-      "skippedByCircuit": true
-    },
-    {
-      "title": "极客公园",
-      "url": "https://www.geekpark.net/rss",
-      "reason": "The operation was aborted.",
       "skippedByCircuit": true
     },
     {
@@ -145,11 +139,6 @@
       "title": "技術討論區 | 草榴社區 - t66y.com",
       "url": "https://rsshub.app/t66y/7",
       "reason": "HTTP 403"
-    },
-    {
-      "title": "极客公园",
-      "url": "https://www.geekpark.net/rss",
-      "reason": "The operation was aborted."
     },
     {
       "title": "FreeBuf 关注黑客",
