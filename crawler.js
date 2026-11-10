@@ -1,7 +1,9 @@
 const fs = require('fs');
 const path = require('path');
 const Parser = require('rss-parser');
-const moment = require('moment');
+const dayjs = require('dayjs');
+const customParseFormat = require('dayjs/plugin/customParseFormat');
+dayjs.extend(customParseFormat);
 
 const DEFAULT_CONCURRENCY = 8;
 const DEFAULT_CACHE_TTL_MINUTES = 30;
@@ -31,18 +33,25 @@ function normalizePubDate(pubDate) {
 
   const parsed = new Date(pubDate);
   if (!Number.isNaN(parsed.getTime())) {
-    return moment(parsed).format('YYYY-MM-DD HH:mm:ss');
+    return dayjs(parsed).format('YYYY-MM-DD HH:mm:ss');
   }
 
-  const momentParsed = moment(pubDate, [
+  const formats = [
     'ddd, DD MMM YYYY HH:mm:ss ZZ',
     'ddd, DD MMM YYYY HH:mm:ss Z',
-    'YYYY-MM-DD HH:mm:ss',
-    moment.ISO_8601
-  ], true);
+    'YYYY-MM-DD HH:mm:ss'
+  ];
 
-  if (momentParsed.isValid()) {
-    return momentParsed.format('YYYY-MM-DD HH:mm:ss');
+  for (const fmt of formats) {
+    const parsedFmt = dayjs(pubDate, fmt, true);
+    if (parsedFmt.isValid()) {
+      return parsedFmt.format('YYYY-MM-DD HH:mm:ss');
+    }
+  }
+
+  const isoParsed = dayjs(pubDate);
+  if (isoParsed.isValid()) {
+    return isoParsed.format('YYYY-MM-DD HH:mm:ss');
   }
 
   return '';
@@ -64,7 +73,7 @@ function dedupeByTitleAndLink(items) {
 }
 
 function keepRecentThreeMonths(items) {
-  const threshold = moment().subtract(3, 'months').valueOf();
+  const threshold = dayjs().subtract(3, 'month').valueOf();
   return items.filter((item) => {
     if (!item.pub_date) return true;
     const ts = new Date(item.pub_date).getTime();
