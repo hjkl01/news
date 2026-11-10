@@ -5,8 +5,8 @@ const dayjs = require('dayjs');
 const customParseFormat = require('dayjs/plugin/customParseFormat');
 dayjs.extend(customParseFormat);
 
-const DEFAULT_CONCURRENCY = 8;
-const DEFAULT_CACHE_TTL_MINUTES = 30;
+const DEFAULT_CONCURRENCY = 16;
+const DEFAULT_CACHE_TTL_MINUTES = 180;
 const DEFAULT_FAILURE_COOLDOWN_MINUTES = 20;
 const DEFAULT_CRITICAL_FAILURE_THRESHOLD = 1;
 const CACHE_FILE = path.join(__dirname, 'public', 'rss-cache.json');
