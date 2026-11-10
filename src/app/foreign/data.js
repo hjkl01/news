@@ -1,5 +1,49 @@
 const jsonData = [
   {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261110/jensen-huang-affair-nvidia/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "黄仁勋对英伟达的全面控制是否意味着他难以被惩罚",
+    "link": "https://cn.nytimes.com/business/20261110/jensen-huang-affair-nvidia/dual",
+    "pub_date": "2026-11-10 11:06:02",
+    "author": "",
+    "description": "KALLEY HUANG, TRIPP MICKLE2026年11月10日黄仁勋是英伟达的最大个人股东，他的子女也是公司的高管。 Eric Lee for The New York Times Over the past four years, Jensen Huang has become the maestro of the artificial intelligence boom and its most essential bi…",
+    "content": "KALLEY HUANG, TRIPP MICKLE 2026年11月10日 黄仁勋是英伟达的最大个人股东，他的子女也是公司的高管。 Eric Lee for The New York Times Over the past four years, Jensen Huang has become the maestro of the artificial intelligence boom and its most essential billionaire executive. 过去四年里，黄仁勋已成为人工智能热…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261110/nvidia-megaspeed-investigation-huang/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "美国商务部就芯片展开的调查在英伟达介入后中止",
+    "link": "https://cn.nytimes.com/usa/20261110/nvidia-megaspeed-investigation-huang/dual",
+    "pub_date": "2026-11-10 10:36:02",
+    "author": "",
+    "description": "ANA SWANSON, DEVLIN BARRETT2026年11月10日英伟达周日表示，已对黄仁勋展开调查。此前，他承认曾与一家涉嫌向中国走私芯片的新加坡公司的高管有过亲密关系。 Manuel Orbegozo for The New York Times Investigators at the Commerce Department were deep into a monthslong investigation of a S…",
+    "content": "ANA SWANSON, DEVLIN BARRETT 2026年11月10日 英伟达周日表示，已对黄仁勋展开调查。此前，他承认曾与一家涉嫌向中国走私芯片的新加坡公司的高管有过亲密关系。 Manuel Orbegozo for The New York Times Investigators at the Commerce Department were deep into a monthslong investigation of a Singaporean company that they suspected…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261110/trump-jensen-huang-spy/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "黄仁勋对特朗普称自己不知婚外情对象疑似中国间谍",
+    "link": "https://cn.nytimes.com/usa/20261110/trump-jensen-huang-spy/dual",
+    "pub_date": "2026-11-10 10:06:03",
+    "author": "",
+    "description": "LUKE BROADWATER, MAGGIE HABERMAN2026年11月10日英伟达首席执行官黄仁勋，摄于今年早些时候。他与一名疑似中国间谍的关系震动了他的公司，这家强大的芯片制造商正驱动着支撑美国经济的数据中心繁荣。 Manuel Orbegozo for The New York Times President Trump said Monday that Jensen Huang, the chief executive …",
+    "content": "LUKE BROADWATER, MAGGIE HABERMAN 2026年11月10日 英伟达首席执行官黄仁勋，摄于今年早些时候。他与一名疑似中国间谍的关系震动了他的公司，这家强大的芯片制造商正驱动着支撑美国经济的数据中心繁荣。 Manuel Orbegozo for The New York Times President Trump said Monday that Jensen Huang, the chief executive of Nvidia, told him that he was not aw…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20261110/jensen-huang-china-spying/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "北京否认与黄仁勋有亲密关系的女性为中国间谍",
+    "link": "https://cn.nytimes.com/china/20261110/jensen-huang-china-spying/dual",
+    "pub_date": "2026-11-10 09:06:02",
+    "author": "",
+    "description": "ADAM SATARIANO2026年11月10日英伟达首席执行官黄仁勋10月在华盛顿。黄仁勋承认与一名商界高管有亲密关系，美国官员怀疑该高管向中国情报部门提供情报。 Demetrius Freeman for The New York Times A Chinese government spokesman on Monday rejected claims that a woman romantically involved wit…",
+    "content": "ADAM SATARIANO 2026年11月10日 英伟达首席执行官黄仁勋10月在华盛顿。黄仁勋承认与一名商界高管有亲密关系，美国官员怀疑该高管向中国情报部门提供情报。 Demetrius Freeman for The New York Times A Chinese government spokesman on Monday rejected claims that a woman romantically involved with Jensen Huang, the chief executive of…"
+  },
+  {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20261109/thailand-kfc-curse-doctors/dual",
     "feed_name": "纽约时报双语版",
     "category": "国外",
@@ -64,50 +108,6 @@ const jsonData = [
     "author": "",
     "description": "DAVID PIERSON, BERRY WANG2026年11月9日今年9月，中国领导人习近平与美国总统特朗普在华盛顿的美国国家档案馆。 Haiyun Jiang/The New York Times In early 1945, the leaders of the United States, the Soviet Union and Britain met in the Crimean city of Yalta and str…",
     "content": "DAVID PIERSON, BERRY WANG 2026年11月9日 今年9月，中国领导人习近平与美国总统特朗普在华盛顿的美国国家档案馆。 Haiyun Jiang/The New York Times In early 1945, the leaders of the United States, the Soviet Union and Britain met in the Crimean city of Yalta and struck a secret deal promising Moscow spe…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/culture/20261106/kpop-newjeans-contract/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "剥削与掌控：NewJeans秘密合同揭露K-pop阴暗面",
-    "link": "https://cn.nytimes.com/culture/20261106/kpop-newjeans-contract/dual",
-    "pub_date": "2026-11-06 15:36:02",
-    "author": "",
-    "description": "SARAH HURTES, JIN YU YOUNG2026年11月6日 Jung Yeon-Je/Agence France-Presse — Getty Images Two years ago, the five members of the record-shattering girl group NewJeans, some still in their teens, did what no K-pop stars of th…",
-    "content": "SARAH HURTES, JIN YU YOUNG 2026年11月6日 Jung Yeon-Je/Agence France-Presse — Getty Images Two years ago, the five members of the record-shattering girl group NewJeans, some still in their teens, did what no K-pop stars of their stature had done in a generation: T…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261106/trump-midterms-losses-republicans/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "“敌人是我们自己”：揭秘特朗普团队的历史性崩溃",
-    "link": "https://cn.nytimes.com/usa/20261106/trump-midterms-losses-republicans/dual",
-    "pub_date": "2026-11-06 14:06:02",
-    "author": "",
-    "description": "SHANE GOLDMACHER, JONATHAN SWAN, MAGGIE HABERMAN2026年11月6日上个月，特朗普总统在蒙大拿州卡利斯佩尔市参加了一场竞选集会。 Doug Mills/The New York Times Six days before the election, more than two dozen of President Donald Trump’s top strategists logged …",
-    "content": "SHANE GOLDMACHER, JONATHAN SWAN, MAGGIE HABERMAN 2026年11月6日 上个月，特朗普总统在蒙大拿州卡利斯佩尔市参加了一场竞选集会。 Doug Mills/The New York Times Six days before the election, more than two dozen of President Donald Trump’s top strategists logged onto a private video call. 选举前六天，唐纳德·特…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261106/stocks-midterms-artificial-intelligence/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "中期选举结果引发对人工智能监管焦虑，美股暴跌",
-    "link": "https://cn.nytimes.com/business/20261106/stocks-midterms-artificial-intelligence/dual",
-    "pub_date": "2026-11-06 11:36:02",
-    "author": "",
-    "description": "JOE RENNISON2026年11月6日标准普尔500指数每日变化。数据来源：LSEG。 By The New York Times Stocks had their worst day in nearly two years as investors’ concerns about weaknesses in the A.I. industry re-emerged after Democratic midterm victori…",
-    "content": "JOE RENNISON 2026年11月6日 标准普尔500指数每日变化。数据来源：LSEG。 By The New York Times Stocks had their worst day in nearly two years as investors’ concerns about weaknesses in the A.I. industry re-emerged after Democratic midterm victories raised the prospect of tighter regu…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261106/house-republicans-nvidia-jensen-huang-china/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "众议院领导人要求黄仁勋出席简报会，说明与中国高管往来",
-    "link": "https://cn.nytimes.com/usa/20261106/house-republicans-nvidia-jensen-huang-china/dual",
-    "pub_date": "2026-11-06 10:06:02",
-    "author": "",
-    "description": "TRIPP MICKLE2026年11月6日要求英伟达首席执行官黄仁勋出席简报会标志着共和党国会领导层态度的转变——此前他们对科技行业大多采取放任态度。 Manuel Orbegozo for The New York Times The Republican leaders of three influential House committees on Thursday asked Jensen Huang, the chief e…",
-    "content": "TRIPP MICKLE 2026年11月6日 要求英伟达首席执行官黄仁勋出席简报会标志着共和党国会领导层态度的转变——此前他们对科技行业大多采取放任态度。 Manuel Orbegozo for The New York Times The Republican leaders of three influential House committees on Thursday asked Jensen Huang, the chief executive of Nvidia, to voluntarily app…"
   },
   {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261022-%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E8%BF%87%E4%B8%A4%E4%BA%BF%E9%83%A8%E6%89%8B%E6%9C%BA%E6%96%B0%E5%8F%8D%E8%AF%88%E7%A8%8B%E5%BA%8F%E8%AF%86%E5%88%AB%E7%9B%98%E9%97%AE%E6%B5%8F%E8%A7%88%E5%A2%99%E5%A4%96%E8%B4%A2%E7%BB%8F%E7%BD%91%E7%AB%99%E4%BA%BA%E5%91%98",
