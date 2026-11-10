@@ -8,24 +8,21 @@ concurrency:
 
 on:
   schedule:
-    # delay
+    # Asia/Shanghai ~06:58
     - cron: "58 22 * * *"
-    # - cron: "58 6 * * *"
-    # - cron: "58 13 * * *"
-    - cron: '58 5 * * *'
-  # push:
-  #   branches:
-  #     - master
+    # Asia/Shanghai ~13:58
+    - cron: "58 5 * * *"
   watch:
     types: [started]
+  workflow_dispatch:
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository 🛎️
-        uses: actions/checkout@v4.1.1
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
       - name: Set Timezone
         uses: szenius/set-timezone@v2.0
@@ -35,33 +32,32 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
           cache: npm
 
       - name: Install Packages
-        run: |
-          npm install
+        run: npm ci || npm install
 
       - name: Build
-        run: |
-          npm run build:ci
+        run: npm run build:ci
 
       - name: Commit files
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add .
-          git diff --cached --quiet || git commit -m "Add Changes By Action Bot `date`"
+          git diff --cached --quiet || git commit -m "Add Changes By Action Bot $(date)"
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GH_TOKEN }}
           branch: master
 
-      - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@v4.5.0
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: out # The folder the action should deploy.
+          folder: out
           token: ${{ secrets.GH_TOKEN }}
           branch: gh-pages
           force: true
