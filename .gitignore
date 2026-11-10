@@ -35,3 +35,12 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 .worktrees/
+
+# generated crawl artifacts (regenerated in CI / prebuild)
+# keep crawl-status.json tracked for visibility; ignore heavy caches if desired
+# /public/rss-cache.json
+# /public/rss-items.json
+
+# alternate package manager lockfiles (prefer a single manager)
+# yarn.lock
+# pnpm-lock.yaml
