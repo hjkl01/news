@@ -31,11 +31,6 @@
             "category": "新闻"
         },
         {
-            "title": "网易新闻 / 今日关注",
-            "url": "https://plink.anyfeeder.com/netease/today",
-            "category": "新闻"
-        },
-        {
             "title": "新华网 / 新华社新闻",
             "url": "https://plink.anyfeeder.com/newscn/whxw",
             "category": "新闻"
@@ -69,26 +64,6 @@
             "title": "界面新闻: 新闻",
             "url": "https://plink.anyfeeder.com/jiemian/news",
             "category": "新闻"
-        },
-        {
-            "title": "SBS 中文",
-            "url": "https://plink.anyfeeder.com/sbs/chinese",
-            "category": "国外"
-        },
-        {
-            "title": "VOA 美国之音",
-            "url": "https://plink.anyfeeder.com/voa/chinese",
-            "category": "国外"
-        },
-        {
-            "title": "端传媒 / 最新",
-            "url": "https://plink.anyfeeder.com/initium/latest",
-            "category": "国外"
-        },
-        {
-            "title": "端传媒 / 深度",
-            "url": "https://plink.anyfeeder.com/initium/feature",
-            "category": "国外"
         },
         {
             "title": "BBC 中文版",
@@ -141,11 +116,6 @@
             "url": "https://mshibanami.github.io/GitHubTrendingRSS/weekly/lua.xml"
         },
         {
-            "title": "全球主机交流论坛",
-            "category": "论坛",
-            "url": "https://hostloc.com/forum.php?mod=rss"
-        },
-        {
             "title": "NodeSeek",
             "category": "论坛",
             "url": "https://rss.nodeseek.com/"
@@ -156,24 +126,9 @@
             "url": "https://bbs.archlinuxcn.org/extern.php?action=feed&type=rss"
         },
         {
-            "title": "NodeLoc",
-            "category": "论坛",
-            "url": "https://www.nodeloc.com/atom/discussions"
-        },
-        {
             "title": "V2EX",
             "category": "论坛",
             "url": "https://v2ex.com/index.xml"
-        },
-        {
-            "title": "路由器交流",
-            "category": "技术",
-            "url": "https://www.acwifi.net/feed"
-        },
-        {
-            "title": "技術討論區 | 草榴社區 - t66y.com",
-            "category": "论坛",
-            "url": "https://rsshub.app/t66y/7"
         },
         {
             "title": "HelloGitHub 月刊",
@@ -261,11 +216,6 @@
             "category": "科技"
         },
         {
-            "title": "FreeBuf 关注黑客",
-            "url": "https://plink.anyfeeder.com/freebuf",
-            "category": "科技"
-        },
-        {
             "title": "观止·每日一文",
             "url": "https://plink.anyfeeder.com/meiriyiwen",
             "category": "科技"
@@ -291,9 +241,74 @@
             "category": "娱乐"
         },
         {
-            "title": "微博 / 热搜榜",
-            "url": "https://plink.anyfeeder.com/weibo/search/hot",
-            "category": "娱乐"
+            "title": "Hacker News",
+            "category": "技术",
+            "url": "https://news.ycombinator.com/rss"
+        },
+        {
+            "title": "Lobsters",
+            "category": "技术",
+            "url": "https://lobste.rs/rss"
+        },
+        {
+            "title": "The Verge",
+            "category": "科技",
+            "url": "https://www.theverge.com/rss/index.xml"
+        },
+        {
+            "title": "TechCrunch",
+            "category": "科技",
+            "url": "https://techcrunch.com/feed/"
+        },
+        {
+            "title": "Ars Technica",
+            "category": "科技",
+            "url": "https://feeds.arstechnica.com/arstechnica/index"
+        },
+        {
+            "title": "Wired",
+            "category": "科技",
+            "url": "https://www.wired.com/feed/rss"
+        },
+        {
+            "title": "机器之心",
+            "category": "科技",
+            "url": "https://www.jiqizhixin.com/rss"
+        },
+        {
+            "title": "美团技术团队",
+            "category": "技术",
+            "url": "https://tech.meituan.com/feed/"
+        },
+        {
+            "title": "Seebug Paper",
+            "category": "技术",
+            "url": "https://paper.seebug.org/rss/"
+        },
+        {
+            "title": "十年之约",
+            "category": "技术",
+            "url": "https://www.foreverblog.cn/daily.xml"
+        },
+        {
+            "title": "BBC World",
+            "category": "国外",
+            "url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        {
+            "title": "NPR News",
+            "category": "国外",
+            "url": "https://feeds.npr.org/1001/rss.xml"
+        },
+        {
+            "title": "安全客",
+            "category": "技术",
+            "url": "https://api.anquanke.com/data/v1/rss"
+        },
+        {
+            "title": "MIT Technology Review",
+            "category": "科技",
+            "url": "https://www.technologyreview.com/feed/"
         }
     ]
 }
