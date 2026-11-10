@@ -239,6 +239,76 @@
             "title": "豆瓣最受欢迎的影评",
             "url": "https://plink.anyfeeder.com/douban/review/movie",
             "category": "娱乐"
+        },
+        {
+            "title": "Hacker News",
+            "category": "技术",
+            "url": "https://news.ycombinator.com/rss"
+        },
+        {
+            "title": "Lobsters",
+            "category": "技术",
+            "url": "https://lobste.rs/rss"
+        },
+        {
+            "title": "The Verge",
+            "category": "科技",
+            "url": "https://www.theverge.com/rss/index.xml"
+        },
+        {
+            "title": "TechCrunch",
+            "category": "科技",
+            "url": "https://techcrunch.com/feed/"
+        },
+        {
+            "title": "Ars Technica",
+            "category": "科技",
+            "url": "https://feeds.arstechnica.com/arstechnica/index"
+        },
+        {
+            "title": "Wired",
+            "category": "科技",
+            "url": "https://www.wired.com/feed/rss"
+        },
+        {
+            "title": "机器之心",
+            "category": "科技",
+            "url": "https://www.jiqizhixin.com/rss"
+        },
+        {
+            "title": "美团技术团队",
+            "category": "技术",
+            "url": "https://tech.meituan.com/feed/"
+        },
+        {
+            "title": "Seebug Paper",
+            "category": "技术",
+            "url": "https://paper.seebug.org/rss/"
+        },
+        {
+            "title": "十年之约",
+            "category": "技术",
+            "url": "https://www.foreverblog.cn/daily.xml"
+        },
+        {
+            "title": "BBC World",
+            "category": "国外",
+            "url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        {
+            "title": "NPR News",
+            "category": "国外",
+            "url": "https://feeds.npr.org/1001/rss.xml"
+        },
+        {
+            "title": "安全客",
+            "category": "技术",
+            "url": "https://api.anquanke.com/data/v1/rss"
+        },
+        {
+            "title": "MIT Technology Review",
+            "category": "科技",
+            "url": "https://www.technologyreview.com/feed/"
         }
     ]
 }
