@@ -2,7 +2,7 @@
 3:"/_next/static/chunks/1vfqzwo-d97k6.js"
 4:I[47257,["$3"],"ClientPageRoot"]
 5:"/_next/static/chunks/1iwnmy7nv8eho.js"
-6:"/_next/static/chunks/3f-d4_ir5snby.js"
+6:"/_next/static/chunks/08680mzbw9d43.js"
 7:I[39329,["$3","$5","$6"],"default"]
 a:I[97367,["$3"],"OutletBoundary"]
 b:"$Sreact.suspense"
@@ -12,8 +12,8 @@ f:"ViewportBoundary"
 12:I[97367,["$3"],"$11"]
 13:I[27201,["$3"],"IconMark"]
 e:X
-1:[["children",{"s":"__PAGE__","h":128,"d":{"r":["$","$2","c",{"children":[["$","$L4",null,{"Component":"$7","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@8","$@9"]}}],[["$","script","script-0",{"src":"/_next/static/chunks/1iwnmy7nv8eho.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/3f-d4_ir5snby.js","async":true}]],["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],"p":"$@d","v":null,"s":"$e"}}]]
-0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L10",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L12",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"NewsHub - 聚合全球资讯"}],["$","meta","1",{"name":"description","content":"一个现代化的新闻聚合平台，精选全球优质内容"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L13","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@14","v":null,"s":"$e"}},"a":"$@15","u":"$@16","b":"ykfv8HszWXtHOD8WvCx-E"}
+1:[["children",{"s":"__PAGE__","h":128,"d":{"r":["$","$2","c",{"children":[["$","$L4",null,{"Component":"$7","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@8","$@9"]}}],[["$","script","script-0",{"src":"/_next/static/chunks/1iwnmy7nv8eho.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/08680mzbw9d43.js","async":true}]],["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],"p":"$@d","v":null,"s":"$e"}}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L10",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L12",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"NewsHub - 聚合全球资讯"}],["$","meta","1",{"name":"description","content":"一个现代化的新闻聚合平台，精选全球优质内容"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L13","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@14","v":null,"s":"$e"}},"a":"$@15","u":"$@16","b":"yIuYqWA3LnKGzHKebwNxV"}
 8:{}
 9:"$1:0:1:d:r:props:children:0:props:serverProvidedParams:params"
 c:null
