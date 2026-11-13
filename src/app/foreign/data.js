@@ -1,14 +1,333 @@
 const jsonData = [
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
-    "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
-    "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-12 22:11:51",
+    "title": "Australian footballers will not be charged after hotel incident, police say",
+    "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-13 11:02:54",
     "author": "",
-    "description": "As the boss of the AI resigns, some names have emerged as potential successors.",
-    "content": "As the boss of the AI resigns, some names have emerged as potential successors."
+    "description": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+    "content": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+    "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-13 10:39:00",
+    "author": "",
+    "description": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+    "content": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy."
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261113/jensen-huang-economy-nvidia-ai/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "黄仁勋下台会成为人工智能泡沫破裂的开端吗",
+    "link": "https://cn.nytimes.com/business/20261113/jensen-huang-economy-nvidia-ai/dual",
+    "pub_date": "2026-11-13 10:36:04",
+    "author": "",
+    "description": "BEN CASSELMAN2026年11月13日在其他行业陷入困境之际，数据中心建设热潮成为美国经济增长的重要推动力，而英伟达一直在为这股建设热潮提供融资支持。 Callaghan O'Hare for The New York Times As investors have pumped trillions of dollars into artificial intelligence companies, chipmakers an…",
+    "content": "BEN CASSELMAN 2026年11月13日 在其他行业陷入困境之际，数据中心建设热潮成为美国经济增长的重要推动力，而英伟达一直在为这股建设热潮提供融资支持。 Callaghan O'Hare for The New York Times As investors have pumped trillions of dollars into artificial intelligence companies, chipmakers and data center developers, the economy …"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/technology/20261113/nvidia-colette-kress-jensen-huang/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "关于英伟达临时CEO克雷斯，我们知道些什么",
+    "link": "https://cn.nytimes.com/technology/20261113/nvidia-colette-kress-jensen-huang/dual",
+    "pub_date": "2026-11-13 10:36:04",
+    "author": "",
+    "description": "ADAM SATARIANO, KALLEY HUANG2026年11月13日英伟达于周四发布首席财务官科莱特·克雷斯的照片。 Nvidia, via Reuters Nvidia said on Thursday that Colette Kress, the company’s chief financial officer, would be the company’s interim chief executive office…",
+    "content": "ADAM SATARIANO, KALLEY HUANG 2026年11月13日 英伟达于周四发布首席财务官科莱特·克雷斯的照片。 Nvidia, via Reuters Nvidia said on Thursday that Colette Kress, the company’s chief financial officer, would be the company’s interim chief executive officer, following the resignation of its lo…"
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+    "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-13 10:01:35",
+    "author": "",
+    "description": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+    "content": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU."
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261113/nvidia-megaspeed-alice-huang/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "新加坡政府：在调查黄乐公司时美国几乎未予协助",
+    "link": "https://cn.nytimes.com/world/20261113/nvidia-megaspeed-alice-huang/dual",
+    "pub_date": "2026-11-13 09:36:04",
+    "author": "",
+    "description": "孟建国2026年11月13日Megaspeed位于新加坡的办公室。该公司由黄乐掌管，她是涉及英伟达首席执行官黄仁勋间谍案的核心人物。 Taryn Ng/Agence France-Presse — Getty Images Singapore’s government said on Thursday the United States had provided little help in its investigation into…",
+    "content": "孟建国 2026年11月13日 Megaspeed位于新加坡的办公室。该公司由黄乐掌管，她是涉及英伟达首席执行官黄仁勋间谍案的核心人物。 Taryn Ng/Agence France-Presse — Getty Images Singapore’s government said on Thursday the United States had provided little help in its investigation into Alice Huang, the woman at the center …"
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Is Outlook down? Widespread outage hits Microsoft email and other apps",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps",
+    "pub_date": "2026-11-13 09:26:24",
+    "author": "",
+    "description": "A widespread outage has hit Microsoft platforms including Outlook, with many users encountering trouble using their email accounts.",
+    "content": "A widespread outage has hit Microsoft platforms including Outlook, with many users encountering trouble using their email accounts."
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20261113/china-spy-espionage-romance/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "“美人计”：中国间谍机构如何利用亲密关系套取情报",
+    "link": "https://cn.nytimes.com/china/20261113/china-spy-espionage-romance/dual",
+    "pub_date": "2026-11-13 09:06:04",
+    "author": "",
+    "description": "郭莉莉2026年11月13日2024年，英伟达首席执行官黄仁勋与黄乐在台湾台北。美国官员表示，一个间谍机构招募了她，以收集有关黄仁勋的情报。 Obtained By Reuters At the height of the Cold War, a top official in China’s intelligence agency said that his country would never use seduction to e…",
+    "content": "郭莉莉 2026年11月13日 2024年，英伟达首席执行官黄仁勋与黄乐在台湾台北。美国官员表示，一个间谍机构招募了她，以收集有关黄仁勋的情报。 Obtained By Reuters At the height of the Cold War, a top official in China’s intelligence agency said that his country would never use seduction to entrap a person. 在冷战正酣之时，中国情报机构的一名高官曾表示…"
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+    "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-13 08:20:24",
+    "author": "",
+    "description": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
+    "content": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
+    "link": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-13 07:42:52",
+    "author": "",
+    "description": "BBC's Bernd Debusmann breaks down why Defence Secretary Hegseth's group was reprimanded at Arlington National Cemetery and the history behind its strict rules of conduct.",
+    "content": "BBC's Bernd Debusmann breaks down why Defence Secretary Hegseth's group was reprimanded at Arlington National Cemetery and the history behind its strict rules of conduct."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
+    "link": "https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson",
+    "pub_date": "2026-11-13 07:36:19",
+    "author": "",
+    "description": "Holscher, a state senator, overcame a more well-known Republican who had Trump's endorsement in the state that has gone to the GOP in most other statewide races.",
+    "content": "Holscher, a state senator, overcame a more well-known Republican who had Trump's endorsement in the state that has gone to the GOP in most other statewide races."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/12/g-s1-151187/holscher-kansas-masterson-governor-midterms",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
+    "link": "https://www.npr.org/2026/11/12/g-s1-151187/holscher-kansas-masterson-governor-midterms",
+    "pub_date": "2026-11-13 06:52:49",
+    "author": "",
+    "description": "Holscher, a state senator, overcame a more well-known Republican who had Trump's endorsement in the state that has gone to the GOP in most other statewide races.",
+    "content": "Holscher, a state senator, overcame a more well-known Republican who had Trump's endorsement in the state that has gone to the GOP in most other statewide races."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/12/nx-s1-6039266/jensen-huang-china-honey-trap-nvidia-spies-sex-alice-huang",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "What's a Honey Trap? The spy tactic that helped topple Jensen Huang",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6039266/jensen-huang-china-honey-trap-nvidia-spies-sex-alice-huang",
+    "pub_date": "2026-11-13 06:45:40",
+    "author": "",
+    "description": "Jensen Huang, CEO of Nvidia, the leading AI chipmaker, resigned after admitting an extramarital affair with a woman the U.S. says is a Chinese spy. This espionage tactic is known as a honey trap.",
+    "content": "Jensen Huang, CEO of Nvidia, the leading AI chipmaker, resigned after admitting an extramarital affair with a woman the U.S. says is a Chinese spy. This espionage tactic is known as a honey trap."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Search for British woman missing from Tui cruise in Atlantic called off",
+    "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-13 05:27:21",
+    "author": "",
+    "description": "The 72-year-old is believed to have gone overboard from the Tui ship on Monday as it headed towards the Caribbean.",
+    "content": "The 72-year-old is believed to have gone overboard from the Tui ship on Monday as it headed towards the Caribbean."
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/technology/20261113/heres-the-latest/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "黄仁勋辞任英伟达CEO，公司首席财务官克雷斯临时接任",
+    "link": "https://cn.nytimes.com/technology/20261113/heres-the-latest/dual",
+    "pub_date": "2026-11-13 05:06:04",
+    "author": "",
+    "description": "TRIPP MICKLE, MAGGIE HABERMAN2026年11月13日在硅谷，很少有高管像英伟达联合创始人兼首席执行官黄仁勋那样，与自己所在的公司如此密不可分。 Manuel Orbegozo for The New York Times Jensen Huang, the co-founder and chief executive of the Silicon Valley chip giant Nvidia, resig…",
+    "content": "TRIPP MICKLE, MAGGIE HABERMAN 2026年11月13日 在硅谷，很少有高管像英伟达联合创始人兼首席执行官黄仁勋那样，与自己所在的公司如此密不可分。 Manuel Orbegozo for The New York Times Jensen Huang, the co-founder and chief executive of the Silicon Valley chip giant Nvidia, resigned on Thursday, according to the comp…"
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+    "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-13 04:09:16",
+    "author": "",
+    "description": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+    "content": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Jensen Huang has resigned, what's next for Nvidia?",
+    "link": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-13 03:33:37",
+    "author": "",
+    "description": "The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI.",
+    "content": "The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+    "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-13 03:23:02",
+    "author": "",
+    "description": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+    "content": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-13 02:47:35",
+    "author": "",
+    "description": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
+    "content": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "'Punch in the gut': Homes sales fall to their lowest in 16 years",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years",
+    "pub_date": "2026-11-13 02:44:00",
+    "author": "",
+    "description": "Existing homes sales in October declined 8.8% from a year earlier, according to the National Association of Realtors.",
+    "content": "Existing homes sales in October declined 8.8% from a year earlier, according to the National Association of Realtors."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/sections/the-picture-show/2026/11/12/g-s1-153229/brooklyn-building-collapse-photos",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Casualties continue to rise after Brooklyn building collapses",
+    "link": "https://www.npr.org/sections/the-picture-show/2026/11/12/g-s1-153229/brooklyn-building-collapse-photos",
+    "pub_date": "2026-11-13 02:15:00",
+    "author": "",
+    "description": "First responders continue to search for survivors after a building in Brooklyn collapsed, leaving at least eight dead and dozens injured.",
+    "content": "First responders continue to search for survivors after a building in Brooklyn collapsed, leaving at least eight dead and dozens injured."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Democrats want to stop Trump's arch, golf course and more. What are their options?",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight",
+    "pub_date": "2026-11-13 01:13:54",
+    "author": "",
+    "description": "As Trump's arch and other projects make their way through the courts, many critics are looking to Congress to stop them. Democrats have a few tools, including funding and oversight.",
+    "content": "As Trump's arch and other projects make their way through the courts, many critics are looking to Congress to stop them. Democrats have a few tools, including funding and oversight."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+    "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-13 01:11:48",
+    "author": "",
+    "description": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
+    "content": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+    "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-13 00:54:12",
+    "author": "",
+    "description": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+    "content": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/12/g-s1-153219/the-deliberate-sinking-of-the-ss-united-states",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "The SS United States takes its final voyage to the bottom of the Gulf of Mexico",
+    "link": "https://www.npr.org/2026/11/12/g-s1-153219/the-deliberate-sinking-of-the-ss-united-states",
+    "pub_date": "2026-11-13 00:20:04",
+    "author": "",
+    "description": "A ship bigger than the Titanic is being sunk off the coast of Florida to make an artificial reef.",
+    "content": "A ship bigger than the Titanic is being sunk off the coast of Florida to make an artificial reef."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/12/nx-s1-6038860/dc-logan-circle-shooting",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Witnesses describe the D.C. shooting that left 1 dead, 4 injured",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6038860/dc-logan-circle-shooting",
+    "pub_date": "2026-11-13 00:12:53",
+    "author": "",
+    "description": "A gunman opened fire at a gym in Washington, D.C.'s Logan Circle Thursday morning. One person has been confirmed killed and four others injured. The gunman is dead, according to police.",
+    "content": "A gunman opened fire at a gym in Washington, D.C.'s Logan Circle Thursday morning. One person has been confirmed killed and four others injured. The gunman is dead, according to police."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
+    "pub_date": "2026-11-12 23:26:34",
+    "author": "",
+    "description": "Jared Kushner and Steve Witkoff went to the Kremlin to brief Russian President Vladimir Putin and are scheduled to fly later to Ireland for talks with Ukrainian President Volodymyr Zelenskyy.",
+    "content": "Jared Kushner and Steve Witkoff went to the Kremlin to brief Russian President Vladimir Putin and are scheduled to fly later to Ireland for talks with Ukrainian President Volodymyr Zelenskyy."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+    "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-12 23:18:20",
+    "author": "",
+    "description": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
+    "content": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns"
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
+    "link": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-12 22:12:55",
+    "author": "",
+    "description": "The Democratic candidate won in a southern state that had not seated a black senator since 1874.",
+    "content": "The Democratic candidate won in a southern state that had not seated a black senator since 1874."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
+    "link": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-12 21:58:49",
+    "author": "",
+    "description": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says.",
+    "content": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
@@ -22,17 +341,6 @@ const jsonData = [
     "content": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia."
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Millions of Ebola dollars going missing as virus spreads, medical charity warns",
-    "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-12 21:02:37",
-    "author": "",
-    "description": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
-    "content": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns"
-  },
-  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -44,136 +352,15 @@ const jsonData = [
     "content": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate."
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/cqz0k70990zpo?at_medium=RSS&at_campaign=rss",
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
-    "title": "Watch: The latest in the Jensen Huang Nvidia scandal",
-    "link": "https://www.bbc.co.uk/news/videos/cqz0k70990zpo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-12 20:42:44",
+    "title": "Five new miniature frog species found in eastern Himalayas",
+    "link": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-12 19:07:19",
     "author": "",
-    "description": "The BBC's China correspondent Laura Bicker explains the timeline of events and what's next for Nvidia as its board considers whether to oust the CEO.",
-    "content": "The BBC's China correspondent Laura Bicker explains the timeline of events and what's next for Nvidia as its board considers whether to oust the CEO."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-    "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-12 20:26:01",
-    "author": "",
-    "description": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-    "content": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
-    "link": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
-    "pub_date": "2026-11-12 20:15:48",
-    "author": "",
-    "description": "After more than a week of counting ballots, Scott Colom has narrowly won the Mississippi Senate seat. And, the White House has sent a letter warning Democrats who plan to investigate the administration.",
-    "content": "After more than a week of counting ballots, Scott Colom has narrowly won the Mississippi Senate seat. And, the White House has sent a letter warning Democrats who plan to investigate the administration."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-    "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-12 20:14:51",
-    "author": "",
-    "description": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
-    "content": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "British woman missing from cruise ship in Atlantic",
-    "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-12 18:13:35",
-    "author": "",
-    "description": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean.",
-    "content": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/12/nx-s1-6037438/scott-colom-defied-the-odds-mississippi-democratic-senator",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "How Scott Colom defied the odds to go from district attorney to Mississippi's Democratic US Senator",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6037438/scott-colom-defied-the-odds-mississippi-democratic-senator",
-    "pub_date": "2026-11-12 18:00:00",
-    "author": "",
-    "description": "In a state that hasn't had a Democrat in office since 1980 and hasn't sent a Black Senator to Washington since the 1870s, Colom's win represents a massive upset in state politics.",
-    "content": "In a state that hasn't had a Democrat in office since 1980 and hasn't sent a Black Senator to Washington since the 1870s, Colom's win represents a massive upset in state politics."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/12/nx-s1-6029640/black-voter-turnout-congress-redistricting",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "A blue wave helped offset for now a falling tally of Black members in the U.S. House",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6029640/black-voter-turnout-congress-redistricting",
-    "pub_date": "2026-11-12 18:00:00",
-    "author": "",
-    "description": "A Supreme Court ruling that further weakened the Voting Rights Act paved the way for a record drop in Black representation in Congress. But a midterm blue wave helped hold off such a decline for now.",
-    "content": "A Supreme Court ruling that further weakened the Voting Rights Act paved the way for a record drop in Black representation in Congress. But a midterm blue wave helped hold off such a decline for now."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/12/nx-s1-6037381/senate-legislation-public-review",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Senators don't always share bill text online before votes. They should, advocates say",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6037381/senate-legislation-public-review",
-    "pub_date": "2026-11-12 18:00:00",
-    "author": "",
-    "description": "The text of what lawmakers are considering isn't always made available for public review before it is voted on. A group of open governance advocates is calling on Senate leadership for a change.",
-    "content": "The text of what lawmakers are considering isn't always made available for public review before it is voted on. A group of open governance advocates is calling on Senate leadership for a change."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/12/nx-s1-5718547/ice-schools-state-laws-federal-immigration",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "At least 23 states considered laws governing ICE and schools this year",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-5718547/ice-schools-state-laws-federal-immigration",
-    "pub_date": "2026-11-12 18:00:00",
-    "author": "",
-    "description": "When ICE agents show up at a school, educators rely on a patchwork of policies to know what to do. This year, many state legislatures tried to update those policies.",
-    "content": "When ICE agents show up at a school, educators rely on a patchwork of policies to know what to do. This year, many state legislatures tried to update those policies."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/12/nx-s1-6027967/accreditation-trump-higher-education",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Trump proposed a 'secret weapon' to police colleges. It will soon become reality",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6027967/accreditation-trump-higher-education",
-    "pub_date": "2026-11-12 18:00:00",
-    "author": "",
-    "description": "In a 2023 campaign speech, Trump pledged to reclaim universities from what he called the radical left. His Education Department just finalized a rule to help him do it.",
-    "content": "In a 2023 campaign speech, Trump pledged to reclaim universities from what he called the radical left. His Education Department just finalized a rule to help him do it."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/12/nx-s1-6031461/kennedy-center-ticketmaster-conflict-of-interest",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Kennedy Center plans Ticketmaster switch, raising conflict of interest concerns",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6031461/kennedy-center-ticketmaster-conflict-of-interest",
-    "pub_date": "2026-11-12 18:00:00",
-    "author": "",
-    "description": "The Kennedy Center's former president Richard Grenell was a paid board member of Ticketmaster's parent company at the same time the two parties were negotiating.",
-    "content": "The Kennedy Center's former president Richard Grenell was a paid board member of Ticketmaster's parent company at the same time the two parties were negotiating."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Israeli strike on a Gaza hospital kills 6 people, health authorities say",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital",
-    "pub_date": "2026-11-12 17:29:30",
-    "author": "",
-    "description": "The victims included a surgeon, and dozens more were injured. Israel said it was targeting a Hamas commander and other militants.",
-    "content": "The victims included a surgeon, and dozens more were injured. Israel said it was targeting a Hamas commander and other militants."
+    "description": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape.",
+    "content": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
@@ -185,17 +372,6 @@ const jsonData = [
     "author": "",
     "description": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
     "content": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
-    "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-12 15:59:33",
-    "author": "",
-    "description": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
-    "content": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
@@ -286,17 +462,6 @@ const jsonData = [
     "content": "ANA SWANSON, TRIPP MICKLE 2026年11月12日 左为斯科特·贝森特，右为霍华德·卢特尼克。 The New York Times Treasury Secretary Scott Bessent confronted Commerce Secretary Howard Lutnick last week over his handling of a Singaporean company at the heart of revelations about Chinese spying o…"
   },
   {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/11/nx-s1-6030853/ss-united-states-artificial-reef-sinking",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "World's fastest ocean liner is sunk to break another record: largest artificial reef",
-    "link": "https://www.npr.org/2026/11/11/nx-s1-6030853/ss-united-states-artificial-reef-sinking",
-    "pub_date": "2026-11-12 11:10:32",
-    "author": "",
-    "description": "The SS United States broke trans-Atlantic speed records. On Wednesday, it was sunk off the Florida coast and will become a diving destination and home for marine life.",
-    "content": "The SS United States broke trans-Atlantic speed records. On Wednesday, it was sunk off the Florida coast and will become a diving destination and home for marine life."
-  },
-  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -306,50 +471,6 @@ const jsonData = [
     "author": "",
     "description": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
     "content": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\"."
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/technology/20261112/jensen-huang-nvidia-affair/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "黄仁勋再被曝婚外情：知情人称其与英伟达一名女高管有染",
-    "link": "https://cn.nytimes.com/technology/20261112/jensen-huang-nvidia-affair/dual",
-    "pub_date": "2026-11-12 10:06:04",
-    "author": "",
-    "description": "RYAN MAC, TRIPP MICKLE, GEORGIA GEE2026年11月12日今年3月，英伟达首席执行官黄仁勋在加利福尼亚州圣何塞举行的公司年度大会上。 Manuel Orbegozo for The New York Times Jensen Huang, the leader of Nvidia who is under investigation for an affair with a woman who U.S.…",
-    "content": "RYAN MAC, TRIPP MICKLE, GEORGIA GEE 2026年11月12日 今年3月，英伟达首席执行官黄仁勋在加利福尼亚州圣何塞举行的公司年度大会上。 Manuel Orbegozo for The New York Times Jensen Huang, the leader of Nvidia who is under investigation for an affair with a woman who U.S. intelligence determined is a Chinese …"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/technology/20261112/nvidia-jensen-huang/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "英伟达董事会将召开会议，讨论黄仁勋去留",
-    "link": "https://cn.nytimes.com/technology/20261112/nvidia-jensen-huang/dual",
-    "pub_date": "2026-11-12 09:06:04",
-    "author": "",
-    "description": "TRIPP MICKLE, MAGGIE HABERMAN2026年11月12日在硅谷，很少有高管像英伟达联合创始人兼首席执行官黄仁勋那样，与自己所在的公司如此密不可分。 Manuel Orbegozo for The New York Times Nvidia’s board of directors was expected to meet on Wednesday to discuss the future of Jensen H…",
-    "content": "TRIPP MICKLE, MAGGIE HABERMAN 2026年11月12日 在硅谷，很少有高管像英伟达联合创始人兼首席执行官黄仁勋那样，与自己所在的公司如此密不可分。 Manuel Orbegozo for The New York Times Nvidia’s board of directors was expected to meet on Wednesday to discuss the future of Jensen Huang, the chief executive of Nvidia, a…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261112/bomb-threats-europe-schools-flights/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "欧洲接连发生炸弹威胁事件，意大利数百所学校紧急疏散",
-    "link": "https://cn.nytimes.com/world/20261112/bomb-threats-europe-schools-flights/dual",
-    "pub_date": "2026-11-12 08:36:02",
-    "author": "",
-    "description": "JONATHAN WOLFE, LEO SANDS, ELISABETTA POVOLEDO, ALI WATKINS2026年11月12日周三，意大利都灵一所学校外，学生们因炸弹威胁被疏散。 Marco Alpozzi/LaPresse, via Associated Press Hundreds of schools in Italy and elsewhere in Europe were evacuated on Wednesd…",
-    "content": "JONATHAN WOLFE, LEO SANDS, ELISABETTA POVOLEDO, ALI WATKINS 2026年11月12日 周三，意大利都灵一所学校外，学生们因炸弹威胁被疏散。 Marco Alpozzi/LaPresse, via Associated Press Hundreds of schools in Italy and elsewhere in Europe were evacuated on Wednesday after receiving emailed bomb threat…"
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Democrat Scott Colom wins the closest Senate race in the country",
-    "link": "https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country",
-    "pub_date": "2026-11-12 07:33:59",
-    "author": "",
-    "description": "Mississippi hadn't elected a Democrat to the U.S. Senate in more than 40 years.",
-    "content": "Mississippi hadn't elected a Democrat to the U.S. Senate in more than 40 years."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
@@ -372,17 +493,6 @@ const jsonData = [
     "author": "",
     "description": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet.",
     "content": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "African writing award probe finds 'no evidence' winning story was AI generated",
-    "link": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-12 04:00:54",
-    "author": "",
-    "description": "Zimbabwean writer Simbarashe Kundizeza has also vehemently denied the allegation made in a US magazine.",
-    "content": "Zimbabwean writer Simbarashe Kundizeza has also vehemently denied the allegation made in a US magazine."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
@@ -429,17 +539,6 @@ const jsonData = [
     "content": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy."
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
-    "link": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-11 21:25:47",
-    "author": "",
-    "description": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment.",
-    "content": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment."
-  },
-  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -462,28 +561,6 @@ const jsonData = [
     "content": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded."
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
-    "link": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-11 19:33:24",
-    "author": "",
-    "description": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
-    "content": "The Tamil Nadu government has ordered an internal audit of library collections across the state."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cwx282zrlyrgo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "'My darling girl, you are everything to me' - auctioned letters reveal WWI love story",
-    "link": "https://www.bbc.co.uk/news/articles/cwx282zrlyrgo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-11 18:27:37",
-    "author": "",
-    "description": "How two strangers and love letters from Gunner Willie Webber to wife Gladys led to a unique act of remembrance.",
-    "content": "How two strangers and love letters from Gunner Willie Webber to wife Gladys led to a unique act of remembrance."
-  },
-  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -493,28 +570,6 @@ const jsonData = [
     "author": "",
     "description": "Real Madrid player Vinícius Jr sent a surprise message to 13-year-old fan Zaher who lost both his legs after being hit by a drone in Khartoum, in 2024.",
     "content": "Real Madrid player Vinícius Jr sent a surprise message to 13-year-old fan Zaher who lost both his legs after being hit by a drone in Khartoum, in 2024."
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261111/trump-midterm-elections-chaos/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "特朗普应对失败的“经典”方式：制造混乱",
-    "link": "https://cn.nytimes.com/usa/20261111/trump-midterm-elections-chaos/dual",
-    "pub_date": "2026-11-11 14:06:04",
-    "author": "",
-    "description": "KATIE ROGERS2026年11月11日 Coping with loss looks different for everyone, and President Trump has processed the country’s nearly wholesale rejection of the Republican Party in the midterm elections in his own way. 每个人应对失败的方…",
-    "content": "KATIE ROGERS 2026年11月11日 Coping with loss looks different for everyone, and President Trump has processed the country’s nearly wholesale rejection of the Republican Party in the midterm elections in his own way. 每个人应对失败的方式都不一样，而特朗普总统正以他自己的方式来消化这个国家在中期选举中对共和党近乎…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/opinion/20261111/rich-people-martha-stewart-midterms/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "富人越来越富，也越来越坏",
-    "link": "https://cn.nytimes.com/opinion/20261111/rich-people-martha-stewart-midterms/dual",
-    "pub_date": "2026-11-11 14:06:04",
-    "author": "",
-    "description": "MOLLY JONG-FAST2026年11月11日 Ryan Evans The weekend before Election Day, I opened up Instagram and saw an image so jarring that I first thought it was A.I.-generated. Martha Stewart had dressed up as a poor person for Hall…",
-    "content": "MOLLY JONG-FAST 2026年11月11日 Ryan Evans The weekend before Election Day, I opened up Instagram and saw an image so jarring that I first thought it was A.I.-generated. Martha Stewart had dressed up as a poor person for Halloween. She wore ripped jeans and a weat…"
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
