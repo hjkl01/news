@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-11-14T02:52:21.894Z",
-  "ended_at": "2026-11-14T02:52:22.116Z",
-  "duration_ms": 222,
+  "started_at": "2026-11-14T12:46:33.830Z",
+  "ended_at": "2026-11-14T12:46:34.034Z",
+  "duration_ms": 204,
   "config": {
     "concurrency": 16,
     "cache_enabled": true,
@@ -17,16 +17,22 @@
   "summary": {
     "total_sources": 62,
     "fetched_sources": 0,
-    "cache_hit_sources": 61,
-    "failed_sources": 1,
-    "circuit_open_sources": 1,
+    "cache_hit_sources": 60,
+    "failed_sources": 2,
+    "circuit_open_sources": 2,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1655,
-    "total_items_after_retention": 1443,
+    "total_items_after_dedupe": 1629,
+    "total_items_after_retention": 1402,
     "build_blocked": false
   },
   "critical_failures": [],
   "failures": [
+    {
+      "title": "极客公园",
+      "url": "https://www.geekpark.net/rss",
+      "reason": "The operation was aborted.",
+      "skippedByCircuit": true
+    },
     {
       "title": "机器之心",
       "url": "https://www.jiqizhixin.com/rss",
@@ -35,6 +41,11 @@
     }
   ],
   "circuit_open": [
+    {
+      "title": "极客公园",
+      "url": "https://www.geekpark.net/rss",
+      "reason": "The operation was aborted."
+    },
     {
       "title": "机器之心",
       "url": "https://www.jiqizhixin.com/rss",
