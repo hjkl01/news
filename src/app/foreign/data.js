@@ -1,5 +1,126 @@
 const jsonData = [
   {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-14 19:41:20",
+    "author": "",
+    "description": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+    "content": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+    "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-14 19:30:10",
+    "author": "",
+    "description": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
+    "content": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+    "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-14 18:42:20",
+    "author": "",
+    "description": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
+    "content": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/14/nx-s1-6040507/democrats-male-candidates-masculinity-trump",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "As Democrats win big, thirst traps of male candidates take social media by storm",
+    "link": "https://www.npr.org/2026/11/14/nx-s1-6040507/democrats-male-candidates-masculinity-trump",
+    "pub_date": "2026-11-14 18:00:00",
+    "author": "",
+    "description": "It's everywhere on social media: Democrats celebrating the attractive men voters elected in the midterms. But it's bigger than a meme and says a lot about politics of masculinity in the age of Trump.",
+    "content": "It's everywhere on social media: Democrats celebrating the attractive men voters elected in the midterms. But it's bigger than a meme and says a lot about politics of masculinity in the age of Trump."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "An organ transplant controversy tests 'the dead donor rule'",
+    "link": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
+    "pub_date": "2026-11-14 18:00:00",
+    "author": "",
+    "description": "New guidelines are supposed to protect organ donors in a retrieval procedure that keeps blood flowing through livers, kidneys, lungs and hearts. But bioethicists have troubling questions.",
+    "content": "New guidelines are supposed to protect organ donors in a retrieval procedure that keeps blood flowing through livers, kidneys, lungs and hearts. But bioethicists have troubling questions."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
+    "link": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
+    "pub_date": "2026-11-14 18:00:00",
+    "author": "",
+    "description": "Democrats have been given a huge opportunity with majorities in both the House and Senate — but the balance of priorities, timing, messaging and discipline are all going to be major tests.",
+    "content": "Democrats have been given a huge opportunity with majorities in both the House and Senate — but the balance of priorities, timing, messaging and discipline are all going to be major tests."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "What we know about the ground stop and what to do if you're affected",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-14 15:42:11",
+    "author": "",
+    "description": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+    "content": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Microsoft says services fully restored after day-long global outage",
+    "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-14 14:42:27",
+    "author": "",
+    "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+    "content": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+    "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-14 13:52:31",
+    "author": "",
+    "description": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+    "content": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
+    "link": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
+    "pub_date": "2026-11-14 13:12:43",
+    "author": "",
+    "description": "Kreiss-Tomkins, a former state legislator, ran a campaign emphasizing bipartisanship in the the state that usually votes Republican. At 37, he'll be the youngest governor in the state's history.",
+    "content": "Kreiss-Tomkins, a former state legislator, ran a campaign emphasizing bipartisanship in the the state that usually votes Republican. At 37, he'll be the youngest governor in the state's history."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+    "link": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-14 09:47:36",
+    "author": "",
+    "description": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”.",
+    "content": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”."
+  },
+  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -113,34 +234,12 @@ const jsonData = [
     "id": "国外-NPR News-https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports",
     "feed_name": "NPR News",
     "category": "国外",
-    "title": "FAA lifts the nationwide ground stop for all U.S. airports",
+    "title": "Old tech blamed for the ground stop that caused flight chaos: 'It got overloaded'",
     "link": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports",
     "pub_date": "2026-11-14 05:55:13",
     "author": "",
     "description": "The nationwide ground stop that paralyzed the U.S. aviation system on Friday has ended, according to Federal Aviation Administration.",
     "content": "The nationwide ground stop that paralyzed the U.S. aviation system on Friday has ended, according to Federal Aviation Administration."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
-    "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-14 05:15:24",
-    "author": "",
-    "description": "All passengers have been accounted for after a cargo ship collided with a docked cruise ship.",
-    "content": "All passengers have been accounted for after a cargo ship collided with a docked cruise ship."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
-    "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-14 05:14:22",
-    "author": "",
-    "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-    "content": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers."
   },
   {
     "id": "国外-NPR News-https://www.npr.org/2026/11/13/nx-s1-6040044/dem-senate-leader-fight",
@@ -152,17 +251,6 @@ const jsonData = [
     "author": "",
     "description": "Democrats say they have a mandate to deliver change, but as the party gets ready to retake the majority in both the House and Senate, there are divides over who should lead it.",
     "content": "Democrats say they have a mandate to deliver change, but as the party gets ready to retake the majority in both the House and Senate, there are divides over who should lead it."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/13/nx-s1-6039273/east-po-hearing-nov-13",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "The government says it will close a beloved D.C. park Sunday. Will a judge step in?",
-    "link": "https://www.npr.org/2026/11/13/nx-s1-6039273/east-po-hearing-nov-13",
-    "pub_date": "2026-11-14 05:06:05",
-    "author": "",
-    "description": "Federal judge Ana Reyes grilled the government on Friday about its plans for East Potomac Park, and indicated she could order it to remain open despite President Trump's renovation wishes.",
-    "content": "Federal judge Ana Reyes grilled the government on Friday about its plans for East Potomac Park, and indicated she could order it to remain open despite President Trump's renovation wishes."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
@@ -187,26 +275,15 @@ const jsonData = [
     "content": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes."
   },
   {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "What's Trump's strategy now with Iran? To keep things as they are",
-    "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
-    "pub_date": "2026-11-14 03:02:04",
-    "author": "",
-    "description": "President Trump says the \"status quo\" is what Gulf Arab allies want as the Iran war hits a stalemate and the U.S. midterms force a pivot from threats of attacks to economic pressure.",
-    "content": "President Trump says the \"status quo\" is what Gulf Arab allies want as the Iran war hits a stalemate and the U.S. midterms force a pivot from threats of attacks to economic pressure."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cw4gn0ky2pgdo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
-    "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-    "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-14 02:36:57",
+    "title": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
+    "link": "https://www.bbc.co.uk/news/articles/cw4gn0ky2pgdo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-14 03:01:36",
     "author": "",
-    "description": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-    "content": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage."
+    "description": "On Saturday, the biggest and longest-running international song contest will make a leap into unknown territory.",
+    "content": "On Saturday, the biggest and longest-running international song contest will make a leap into unknown territory."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
@@ -220,15 +297,15 @@ const jsonData = [
     "content": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer."
   },
   {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california",
-    "feed_name": "NPR News",
+    "id": "国外-BBC World-https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
     "category": "国外",
-    "title": "The Trump administration's voter roll crusade could continue",
-    "link": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california",
-    "pub_date": "2026-11-14 01:00:00",
+    "title": "Estonia bans Russian athletes as backlash intensifies",
+    "link": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-14 01:54:33",
     "author": "",
-    "description": "Election officials are preparing for the Trump administration's pressure tactics over potential noncitizens on state voter rolls to continue, though recent court rulings pose new obstacles.",
-    "content": "Election officials are preparing for the Trump administration's pressure tactics over potential noncitizens on state voter rolls to continue, though recent court rulings pose new obstacles."
+    "description": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine.",
+    "content": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
@@ -242,17 +319,6 @@ const jsonData = [
     "content": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says."
   },
   {
-    "id": "国外-NPR News-https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Does Europe regret its bet on U.S. defense?",
-    "link": "https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense",
-    "pub_date": "2026-11-14 00:17:43",
-    "author": "",
-    "description": "Europe bet big on American defense technology and they're now paying the price. Years-long backlogs are underway due to production delays and the U.S. own military needs.",
-    "content": "Europe bet big on American defense technology and they're now paying the price. Years-long backlogs are underway due to production delays and the U.S. own military needs."
-  },
-  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -262,17 +328,6 @@ const jsonData = [
     "author": "",
     "description": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
     "content": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "At least 24 killed after bus collides with truck in north-east India",
-    "link": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-13 23:16:50",
-    "author": "",
-    "description": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified.",
-    "content": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
@@ -297,28 +352,6 @@ const jsonData = [
     "content": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov."
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-    "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-13 20:22:30",
-    "author": "",
-    "description": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
-    "content": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
-    "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-13 19:43:27",
-    "author": "",
-    "description": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
-    "content": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot."
-  },
-  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -328,17 +361,6 @@ const jsonData = [
     "author": "",
     "description": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
     "content": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
-    "link": "https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-13 16:20:28",
-    "author": "",
-    "description": "Claims the entire Australian team knew of the 2018 sandpaper cheating plot are dividing the cricket world.",
-    "content": "Claims the entire Australian team knew of the 2018 sandpaper cheating plot are dividing the cricket world."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
@@ -493,17 +515,6 @@ const jsonData = [
     "author": "",
     "description": "ANAND GIRIDHARADAS2026年11月12日 It has been a hard week, even for the thick-skinned. 这一周过得可真不容易，哪怕对那些脸皮厚的人来说也是如此。 The news that Jensen Huang, a co-founder of Nvidia, admitted to an affair with a woman whom U.S. intelligenc…",
     "content": "ANAND GIRIDHARADAS 2026年11月12日 It has been a hard week, even for the thick-skinned. 这一周过得可真不容易，哪怕对那些脸皮厚的人来说也是如此。 The news that Jensen Huang, a co-founder of Nvidia, admitted to an affair with a woman whom U.S. intelligence regards as a Chinese spy, has shaken …"
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
-    "link": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-12 05:43:35",
-    "author": "",
-    "description": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet.",
-    "content": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet."
   },
   {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261022-%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E8%BF%87%E4%B8%A4%E4%BA%BF%E9%83%A8%E6%89%8B%E6%9C%BA%E6%96%B0%E5%8F%8D%E8%AF%88%E7%A8%8B%E5%BA%8F%E8%AF%86%E5%88%AB%E7%9B%98%E9%97%AE%E6%B5%8F%E8%A7%88%E5%A2%99%E5%A4%96%E8%B4%A2%E7%BB%8F%E7%BD%91%E7%AB%99%E4%BA%BA%E5%91%98",
