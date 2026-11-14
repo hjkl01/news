@@ -1,36 +1,300 @@
 const jsonData = [
   {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+    "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-14 08:03:56",
+    "author": "",
+    "description": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
+    "content": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+    "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-14 08:03:52",
+    "author": "",
+    "description": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+    "content": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Setback for SpaceX Starship rocket's double-catch test",
+    "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-14 08:01:01",
+    "author": "",
+    "description": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+    "content": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+    "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-14 07:40:45",
+    "author": "",
+    "description": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+    "content": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+    "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-14 07:11:51",
+    "author": "",
+    "description": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
+    "content": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+    "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-14 07:00:31",
+    "author": "",
+    "description": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+    "content": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
+    "pub_date": "2026-11-14 06:36:46",
+    "author": "",
+    "description": "Department of Homeland Security Secretary Markwayne Mullin spoke to at the White House on Friday afternoon after the FAA issues a total ground stop. NPR was there for the briefing.",
+    "content": "Department of Homeland Security Secretary Markwayne Mullin spoke to at the White House on Friday afternoon after the FAA issues a total ground stop. NPR was there for the briefing."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/13/nx-s1-6040397/stuck-on-the-tarmac-without-information-travelers-share-their-ground-stop-experiences",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Stuck on the tarmac without information: Travelers share their ground stop experiences",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6040397/stuck-on-the-tarmac-without-information-travelers-share-their-ground-stop-experiences",
+    "pub_date": "2026-11-14 06:36:45",
+    "author": "",
+    "description": "Passengers stuck on airplanes on tarmacs across the country during the FAA ground stop on Friday share their stories.",
+    "content": "Passengers stuck on airplanes on tarmacs across the country during the FAA ground stop on Friday share their stories."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/13/nx-s1-6040388/what-we-know-about-the-faa-nationwide-ground-stop",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "What we know about the FAA nationwide ground stop",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6040388/what-we-know-about-the-faa-nationwide-ground-stop",
+    "pub_date": "2026-11-14 06:27:38",
+    "author": "",
+    "description": "The Federal Aviation Administration took an extraordinary step Friday afternoon by issuing a nationwide ground stop. No planes are taking off at any airport and millions of passengers are stranded.",
+    "content": "The Federal Aviation Administration took an extraordinary step Friday afternoon by issuing a nationwide ground stop. No planes are taking off at any airport and millions of passengers are stranded."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/13/nx-s1-6040409/trump-mail-in-voting",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6040409/trump-mail-in-voting",
+    "pub_date": "2026-11-14 06:18:55",
+    "author": "",
+    "description": "Some Republican state officials are reviving a bid for mail-in voting restrictions for the 2028 election by appealing a court order blocking the Postal Service from carrying out a revised ballot rule.",
+    "content": "Some Republican state officials are reviving a bid for mail-in voting restrictions for the 2028 election by appealing a court order blocking the Postal Service from carrying out a revised ballot rule."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "FAA lifts the nationwide ground stop for all U.S. airports",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports",
+    "pub_date": "2026-11-14 05:55:13",
+    "author": "",
+    "description": "The nationwide ground stop that paralyzed the U.S. aviation system on Friday has ended, according to Federal Aviation Administration.",
+    "content": "The nationwide ground stop that paralyzed the U.S. aviation system on Friday has ended, according to Federal Aviation Administration."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+    "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-14 05:15:24",
+    "author": "",
+    "description": "All passengers have been accounted for after a cargo ship collided with a docked cruise ship.",
+    "content": "All passengers have been accounted for after a cargo ship collided with a docked cruise ship."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
+    "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-14 05:14:22",
+    "author": "",
+    "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+    "content": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/13/nx-s1-6040044/dem-senate-leader-fight",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "With his challenge to Schumer, Van Hollen forces a debate over Democrats' mandate",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6040044/dem-senate-leader-fight",
+    "pub_date": "2026-11-14 05:06:09",
+    "author": "",
+    "description": "Democrats say they have a mandate to deliver change, but as the party gets ready to retake the majority in both the House and Senate, there are divides over who should lead it.",
+    "content": "Democrats say they have a mandate to deliver change, but as the party gets ready to retake the majority in both the House and Senate, there are divides over who should lead it."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/13/nx-s1-6039273/east-po-hearing-nov-13",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "The government says it will close a beloved D.C. park Sunday. Will a judge step in?",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6039273/east-po-hearing-nov-13",
+    "pub_date": "2026-11-14 05:06:05",
+    "author": "",
+    "description": "Federal judge Ana Reyes grilled the government on Friday about its plans for East Potomac Park, and indicated she could order it to remain open despite President Trump's renovation wishes.",
+    "content": "Federal judge Ana Reyes grilled the government on Friday about its plans for East Potomac Park, and indicated she could order it to remain open despite President Trump's renovation wishes."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+    "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-14 03:53:57",
+    "author": "",
+    "description": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+    "content": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Democratic Senate leader Schumer set to face leadership challenge",
+    "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-14 03:03:10",
+    "author": "",
+    "description": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
+    "content": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "What's Trump's strategy now with Iran? To keep things as they are",
+    "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+    "pub_date": "2026-11-14 03:02:04",
+    "author": "",
+    "description": "President Trump says the \"status quo\" is what Gulf Arab allies want as the Iran war hits a stalemate and the U.S. midterms force a pivot from threats of attacks to economic pressure.",
+    "content": "President Trump says the \"status quo\" is what Gulf Arab allies want as the Iran war hits a stalemate and the U.S. midterms force a pivot from threats of attacks to economic pressure."
+  },
+  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
-    "title": "What we know about the global Microsoft outage",
+    "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
     "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-13 21:34:53",
+    "pub_date": "2026-11-14 02:36:57",
     "author": "",
-    "description": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
-    "content": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful."
+    "description": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+    "content": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage."
   },
   {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/13/nx-s1-6038932/mauricio-pochettino-usmnt-manchester-united",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Manchester United names USMNT coach Mauricio Pochettino as its manager",
-    "link": "https://www.npr.org/2026/11/13/nx-s1-6038932/mauricio-pochettino-usmnt-manchester-united",
-    "pub_date": "2026-11-13 21:32:23",
-    "author": "",
-    "description": "Mauricio Pochettino is out as head coach of the U.S. men's national soccer team. Pochettino led the U.S. to the round of 16 at last year's World Cup. He's departing to coach Manchester United.",
-    "content": "Mauricio Pochettino is out as head coach of the U.S. men's national soccer team. Pochettino led the U.S. to the round of 16 at last year's World Cup. He's departing to coach Manchester United."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
-    "title": "UN watchdog 'increasingly concerned' over Iran nuclear site",
-    "link": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-13 20:28:28",
+    "title": "The Peruvian city that has embraced Pope Leo as one of its own",
+    "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-14 02:34:45",
     "author": "",
-    "description": "It says it has never been able to inspect a uranium enrichment plant at Isfahan which Iran announced over a year ago.",
-    "content": "It says it has never been able to inspect a uranium enrichment plant at Isfahan which Iran announced over a year ago."
+    "description": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
+    "content": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "The Trump administration's voter roll crusade could continue",
+    "link": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california",
+    "pub_date": "2026-11-14 01:00:00",
+    "author": "",
+    "description": "Election officials are preparing for the Trump administration's pressure tactics over potential noncitizens on state voter rolls to continue, though recent court rulings pose new obstacles.",
+    "content": "Election officials are preparing for the Trump administration's pressure tactics over potential noncitizens on state voter rolls to continue, though recent court rulings pose new obstacles."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+    "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-14 00:40:31",
+    "author": "",
+    "description": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+    "content": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Does Europe regret its bet on U.S. defense?",
+    "link": "https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense",
+    "pub_date": "2026-11-14 00:17:43",
+    "author": "",
+    "description": "Europe bet big on American defense technology and they're now paying the price. Years-long backlogs are underway due to production delays and the U.S. own military needs.",
+    "content": "Europe bet big on American defense technology and they're now paying the price. Years-long backlogs are underway due to production delays and the U.S. own military needs."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+    "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-13 23:42:52",
+    "author": "",
+    "description": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
+    "content": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "At least 24 killed after bus collides with truck in north-east India",
+    "link": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-13 23:16:50",
+    "author": "",
+    "description": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified.",
+    "content": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
+    "link": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-13 23:09:40",
+    "author": "",
+    "description": "The ship was intentionally sunk off the coast of Florida in order to create the world's largest artificial ocean reef.",
+    "content": "The ship was intentionally sunk off the coast of Florida in order to create the world's largest artificial ocean reef."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+    "link": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-13 21:11:23",
+    "author": "",
+    "description": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov.",
+    "content": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
@@ -44,28 +308,6 @@ const jsonData = [
     "content": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself."
   },
   {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
-    "link": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
-    "pub_date": "2026-11-13 20:07:12",
-    "author": "",
-    "description": "Nvidia's chief financial officer has been appointed interim CEO after Jensen Huang stepped down from the role. And, Sen. Chris Van Hollen says he will challenge Chuck Schumer for majority leader.",
-    "content": "Nvidia's chief financial officer has been appointed interim CEO after Jensen Huang stepped down from the role. And, Sen. Chris Van Hollen says he will challenge Chuck Schumer for majority leader."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/13/g-s1-153274/world-kindness-day-altruism-generosity",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Happy World Kindness Day! Check out our kind photos of kindness to humans -- and cats",
-    "link": "https://www.npr.org/2026/11/13/g-s1-153274/world-kindness-day-altruism-generosity",
-    "pub_date": "2026-11-13 20:06:28",
-    "author": "",
-    "description": "Friday, November 13 is World Kindness Day. Your mission: Do something kind. Small acts of kindness definitely count!",
-    "content": "Friday, November 13 is World Kindness Day. Your mission: Do something kind. Small acts of kindness definitely count!"
-  },
-  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -77,92 +319,15 @@ const jsonData = [
     "content": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot."
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss",
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
-    "title": "Nigerian university in mourning after four students die at post-exam party",
-    "link": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-13 19:37:08",
+    "title": "Rosalía scoops historic third best album award at Latin Grammys",
+    "link": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-13 19:38:54",
     "author": "",
-    "description": "The university has banned all parties, while investigations are underway to find the cause of the students' deaths.",
-    "content": "The university has banned all parties, while investigations are underway to find the cause of the students' deaths."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/13/nx-s1-6039203/kratom-7-oh-dea-addiction-opioid",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Kratom and 7-OH can feel like 'a miracle.' They can also be addictive",
-    "link": "https://www.npr.org/2026/11/13/nx-s1-6039203/kratom-7-oh-dea-addiction-opioid",
-    "pub_date": "2026-11-13 19:00:00",
-    "author": "",
-    "description": "In the last decade, strong support for kratom and 7-OH products have kept them federally legal. That's started to change. A crackdown for some highly potent products related to kratom is coming.",
-    "content": "In the last decade, strong support for kratom and 7-OH products have kept them federally legal. That's started to change. A crackdown for some highly potent products related to kratom is coming."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/13/nx-s1-6039845/hegseth-awards-medal-to-soldier-who-chastised-him",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Hegseth awards medal to soldier who chastised him",
-    "link": "https://www.npr.org/2026/11/13/nx-s1-6039845/hegseth-awards-medal-to-soldier-who-chastised-him",
-    "pub_date": "2026-11-13 18:27:08",
-    "author": "",
-    "description": "Pete Hegseth was yelled at by a sentinel for poor decorum at Arlington National Cemetery. Now the Secretary of Defense has given him a medal.",
-    "content": "Pete Hegseth was yelled at by a sentinel for poor decorum at Arlington National Cemetery. Now the Secretary of Defense has given him a medal."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/13/nx-s1-6032777/rivers-in-the-sky-are-raining-down-on-the-pacific-northwest-what-are-they",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Rivers in the sky are raining down on the Pacific Northwest. What are they?",
-    "link": "https://www.npr.org/2026/11/13/nx-s1-6032777/rivers-in-the-sky-are-raining-down-on-the-pacific-northwest-what-are-they",
-    "pub_date": "2026-11-13 18:01:00",
-    "author": "",
-    "description": "Atmospheric rivers are large bands of water vapor in the sky. They are dumping trillions of gallons of water on Washington and Oregon, just as high tides and winds batter shorelines.",
-    "content": "Atmospheric rivers are large bands of water vapor in the sky. They are dumping trillions of gallons of water on Washington and Oregon, just as high tides and winds batter shorelines."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/13/nx-s1-6039312/spacex-nasa-starship-iss-dragon-falcon-musk",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "SpaceX's giant rocket may leave NASA in the dust",
-    "link": "https://www.npr.org/2026/11/13/nx-s1-6039312/spacex-nasa-starship-iss-dragon-falcon-musk",
-    "pub_date": "2026-11-13 18:00:00",
-    "author": "",
-    "description": "As it races to develop its new massive rocket, the space launch company is preparing to retire NASA's main ride to the International Space Station.",
-    "content": "As it races to develop its new massive rocket, the space launch company is preparing to retire NASA's main ride to the International Space Station."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/13/nx-s1-6029408/google-ai-search-schools",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
-    "link": "https://www.npr.org/2026/11/13/nx-s1-6029408/google-ai-search-schools",
-    "pub_date": "2026-11-13 18:00:00",
-    "author": "",
-    "description": "The forthcoming move has left some parents and educators frustrated and wondering about the company's motivations.",
-    "content": "The forthcoming move has left some parents and educators frustrated and wondering about the company's motivations."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/13/nx-s1-6038701/midterm-election-voter-turnout-south",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "These two voter turnout trends explain what happened across the South in the election",
-    "link": "https://www.npr.org/2026/11/13/nx-s1-6038701/midterm-election-voter-turnout-south",
-    "pub_date": "2026-11-13 18:00:00",
-    "author": "",
-    "description": "In six states across the Deep South, a drastic swing to the left this election was driven by high Black voter turnout and compounded by a sharp decline in voting rates across Republican-heavy areas.",
-    "content": "In six states across the Deep South, a drastic swing to the left this election was driven by high Black voter turnout and compounded by a sharp decline in voting rates across Republican-heavy areas."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/13/nx-s1-6032717/diabetes-insurance-insulin-price",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Fed up with the healthcare industry, this red state capped insulin prices for patients",
-    "link": "https://www.npr.org/2026/11/13/nx-s1-6032717/diabetes-insurance-insulin-price",
-    "pub_date": "2026-11-13 18:00:00",
-    "author": "",
-    "description": "Republicans and Democrats in North Dakota worked together to limit what people with diabetes have to pay for insulin, joining a growing bipartisan push across the country to protect patients.",
-    "content": "Republicans and Democrats in North Dakota worked together to limit what people with diabetes have to pay for insulin, joining a growing bipartisan push across the country to protect patients."
+    "description": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
+    "content": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss",
@@ -198,17 +363,6 @@ const jsonData = [
     "content": "STEPHEN WITT 2026年11月13日 We live in the age of artificial intelligence — an age that Jensen Huang, perhaps more than any other single person, has made possible. The systems we are building with Nvidia’s equipment will transform our society and culture in ways …"
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Whatever happened to the $300,000 diamond that went missing in F1 crash?",
-    "link": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-13 14:12:20",
-    "author": "",
-    "description": "Whatever happened to the diamond that went missing after the Formula 1 car it was attached to crashed?",
-    "content": "Whatever happened to the diamond that went missing after the Formula 1 car it was attached to crashed?"
-  },
-  {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261113/nvidia-ceo-huang-ai-memes/dual",
     "feed_name": "纽约时报双语版",
     "category": "国外",
@@ -218,17 +372,6 @@ const jsonData = [
     "author": "",
     "description": "ZANE IRWIN2026年11月13日英伟达董事会周四宣布，联合创始人兼首席执行官黄仁勋已辞职。 Anthony Wallace/Agence France-Presse — Getty Images Jensen Huang and his leather-clad likeness had become synonymous with the technological giant he co-founded, Nvidia. …",
     "content": "ZANE IRWIN 2026年11月13日 英伟达董事会周四宣布，联合创始人兼首席执行官黄仁勋已辞职。 Anthony Wallace/Agence France-Presse — Getty Images Jensen Huang and his leather-clad likeness had become synonymous with the technological giant he co-founded, Nvidia. They were so entwined that, this year,…"
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-    "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-13 11:57:01",
-    "author": "",
-    "description": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
-    "content": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs."
   },
   {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261113/trump-jensen-huang-nvidia/dual",
@@ -251,28 +394,6 @@ const jsonData = [
     "author": "",
     "description": "DON CLARK2026年11月13日预计很少有候选人能够延续黄仁勋在英伟达所推行的超扁平化管理结构。据估计，约有60名员工直接向他汇报工作。 Kenny Holston/The New York Times Finding a successor to Jensen Huang at Nvidia is being compared to replacing Steve Jobs at Apple. In many ways, it…",
     "content": "DON CLARK 2026年11月13日 预计很少有候选人能够延续黄仁勋在英伟达所推行的超扁平化管理结构。据估计，约有60名员工直接向他汇报工作。 Kenny Holston/The New York Times Finding a successor to Jensen Huang at Nvidia is being compared to replacing Steve Jobs at Apple. In many ways, it’s actually harder. 为英伟达寻找黄仁勋的继任者正被拿来和…"
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Australian footballers will not be charged after hotel incident, police say",
-    "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-13 11:02:54",
-    "author": "",
-    "description": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
-    "content": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
-    "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-13 10:48:29",
-    "author": "",
-    "description": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
-    "content": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months."
   },
   {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261113/jensen-huang-economy-nvidia-ai/dual",
@@ -308,17 +429,6 @@ const jsonData = [
     "content": "The world’s biggest and longest-running song contest is coming to Asia, with eleven countries competing in Bangkok, Thailand on Saturday."
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-    "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-13 10:01:35",
-    "author": "",
-    "description": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
-    "content": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU."
-  },
-  {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261113/nvidia-megaspeed-alice-huang/dual",
     "feed_name": "纽约时报双语版",
     "category": "国外",
@@ -341,28 +451,6 @@ const jsonData = [
     "content": "郭莉莉 2026年11月13日 2024年，英伟达首席执行官黄仁勋与黄乐在台湾台北。美国官员表示，一个间谍机构招募了她，以收集有关黄仁勋的情报。 Obtained By Reuters At the height of the Cold War, a top official in China’s intelligence agency said that his country would never use seduction to entrap a person. 在冷战正酣之时，中国情报机构的一名高官曾表示…"
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cqly4ljvr4pjo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Why midterm vote-counting is taking so long in America's largest state",
-    "link": "https://www.bbc.co.uk/news/articles/cqly4ljvr4pjo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-13 08:35:05",
-    "author": "",
-    "description": "Alaskans are still waiting for the full results, including in the close Senate race between Republican Dan Sullivan and Democrat Mary Peltola.",
-    "content": "Alaskans are still waiting for the full results, including in the close Senate race between Republican Dan Sullivan and Democrat Mary Peltola."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-    "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-13 08:20:24",
-    "author": "",
-    "description": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
-    "content": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back."
-  },
-  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -383,39 +471,6 @@ const jsonData = [
     "author": "",
     "description": "TRIPP MICKLE, MAGGIE HABERMAN2026年11月13日在硅谷，很少有高管像英伟达联合创始人兼首席执行官黄仁勋那样，与自己所在的公司如此密不可分。 Manuel Orbegozo for The New York Times Jensen Huang, the co-founder and chief executive of the Silicon Valley chip giant Nvidia, resig…",
     "content": "TRIPP MICKLE, MAGGIE HABERMAN 2026年11月13日 在硅谷，很少有高管像英伟达联合创始人兼首席执行官黄仁勋那样，与自己所在的公司如此密不可分。 Manuel Orbegozo for The New York Times Jensen Huang, the co-founder and chief executive of the Silicon Valley chip giant Nvidia, resigned on Thursday, according to the comp…"
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-    "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-13 04:09:16",
-    "author": "",
-    "description": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
-    "content": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-    "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-13 02:47:35",
-    "author": "",
-    "description": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
-    "content": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
-    "link": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-12 22:12:55",
-    "author": "",
-    "description": "The Democratic candidate won in a southern state that had not seated a black senator since 1874.",
-    "content": "The Democratic candidate won in a southern state that had not seated a black senator since 1874."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
@@ -449,17 +504,6 @@ const jsonData = [
     "author": "",
     "description": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet.",
     "content": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
-    "link": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-11 17:28:36",
-    "author": "",
-    "description": "Real Madrid player Vinícius Jr sent a surprise message to 13-year-old fan Zaher who lost both his legs after being hit by a drone in Khartoum, in 2024.",
-    "content": "Real Madrid player Vinícius Jr sent a surprise message to 13-year-old fan Zaher who lost both his legs after being hit by a drone in Khartoum, in 2024."
   },
   {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261022-%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E8%BF%87%E4%B8%A4%E4%BA%BF%E9%83%A8%E6%89%8B%E6%9C%BA%E6%96%B0%E5%8F%8D%E8%AF%88%E7%A8%8B%E5%BA%8F%E8%AF%86%E5%88%AB%E7%9B%98%E9%97%AE%E6%B5%8F%E8%A7%88%E5%A2%99%E5%A4%96%E8%B4%A2%E7%BB%8F%E7%BD%91%E7%AB%99%E4%BA%BA%E5%91%98",
