@@ -1,5 +1,522 @@
 const jsonData = [
   {
+    "id": "科技-The Verge-https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+    "feed_name": "The Verge",
+    "category": "科技",
+    "title": "An overview of Jensen Huang’s messy days",
+    "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+    "pub_date": "2026-11-15 21:00:00",
+    "author": "Terrence O’Brien",
+    "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepba…",
+    "content": "This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien . The Stepback arrives in our subscribers' inboxes…"
+  },
+  {
+    "id": "科技-果壳网 / 科学人-https://www.guokr.com/article/470710/",
+    "feed_name": "果壳网 / 科学人",
+    "category": "科技",
+    "title": "走路一步一痛、双腿粗细不一，我赌上跛脚的风险选择了手术",
+    "link": "https://www.guokr.com/article/470710/",
+    "pub_date": "2026-11-15 20:15:03",
+    "author": "",
+    "description": "右小腿到底是哪天开始疼的呢？我已经记不清了。早在2012年体育中考时，我的右小腿就已经隐隐作痛了。我将腿疼的事情告诉了我妈，由于身处高考大省、学业紧张，她当时并没有带我去医院，而是自己去到县里医院，向医生转达了我的症状。 医生认为这是青春期生长发育过快导致的疼痛，因此我妈买了补剂回来想试试有没有用。高中时期，我断断续续地喝着补剂。右小腿的疼痛时轻时重，但这疼痛与高考相比实在微不足道，于是这个“小病”就被一直拖到高考结束以后。 “这里面可…",
+    "content": "右小腿到底是哪天开始疼的呢？我已经记不清了。早在2012年体育中考时，我的右小腿就已经隐隐作痛了。我将腿疼的事情告诉了我妈，由于身处高考大省、学业紧张，她当时并没有带我去医院，而是自己去到县里医院，向医生转达了我的症状。 医生认为这是青春期生长发育过快导致的疼痛，因此我妈买了补剂回来想试试有没有用。高中时期，我断断续续地喝着补剂。右小腿的疼痛时轻时重，但这疼痛与高考相比实在微不足道，于是这个“小病”就被一直拖到高考结束以后。 “这里面可能长了东西” 上了大学以后，我的运动量一下子多了起来，右小腿的疼痛也越来越无法忽…"
+  },
+  {
+    "id": "科技-Solidot-https://www.solidot.org/story?sid=85890",
+    "feed_name": "Solidot",
+    "category": "科技",
+    "title": "亚洲象种群数量减少变得更孤立",
+    "link": "https://www.solidot.org/story?sid=85890",
+    "pub_date": "2026-11-15 20:12:20",
+    "author": "",
+    "description": "对斯里兰卡野生亚洲象的一项为期 12 年的研究显示，种群数量的逐渐减少可令动物社群跨越一个社会临界点，从而使长期形成的关系破裂，群体变得更小且更孤立，并威胁物种的长期生存。研究人员分析了斯里兰卡 443 头野生雌性亚洲象为期 12 年的个体观察数据。M他们发现，种群个体的逐渐流失使这一亚洲象种群跨越了社会临界点，从根本上重塑了其社会网络。随着死亡和永久离群的个体日益超过新加入的个体，象群规模变小、群体数量增多且日益孤立；到2018 年时…",
+    "content": "对斯里兰卡野生亚洲象的一项为期 12 年的研究显示，种群数量的逐渐减少可令动物社群跨越一个社会临界点，从而使长期形成的关系破裂，群体变得更小且更孤立，并威胁物种的长期生存。研究人员分析了斯里兰卡 443 头野生雌性亚洲象为期 12 年的个体观察数据。M他们发现，种群个体的逐渐流失使这一亚洲象种群跨越了社会临界点，从根本上重塑了其社会网络。随着死亡和永久离群的个体日益超过新加入的个体，象群规模变小、群体数量增多且日益孤立；到2018 年时，在最初被追踪的雌象中，近 69% 已从研究种群中消失。研究结果显示，这种碎片化…"
+  },
+  {
+    "id": "科技-Ars Technica-https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
+    "feed_name": "Ars Technica",
+    "category": "科技",
+    "title": "How the world’s fires changed while humanity hit pause",
+    "link": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
+    "pub_date": "2026-11-15 20:07:34",
+    "author": "",
+    "description": "COVID-19 lockdowns cut global fire activity by 12.3 percent.",
+    "content": "COVID-19 lockdowns cut global fire activity by 12.3 percent."
+  },
+  {
+    "id": "科技-Wired-https://www.wired.com/story/best-paper-planners/",
+    "feed_name": "Wired",
+    "category": "科技",
+    "title": "The 4 Best Planners of 2027: Roterunner, Hobonichi, Cloth & Paper",
+    "link": "https://www.wired.com/story/best-paper-planners/",
+    "pub_date": "2026-11-15 20:01:00",
+    "author": "",
+    "description": "If digital calendars are leaving you lacking, these WIRED-tested paper agendas and notebooks could change your life.",
+    "content": "If digital calendars are leaving you lacking, these WIRED-tested paper agendas and notebooks could change your life."
+  },
+  {
+    "id": "科技-Wired-https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+    "feed_name": "Wired",
+    "category": "科技",
+    "title": "AI DJs Completely Kill My Groove",
+    "link": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+    "pub_date": "2026-11-15 20:00:00",
+    "author": "",
+    "description": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
+    "content": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe."
+  },
+  {
+    "id": "科技-IT 之家-https://www.ithome.com/1/027/437.htm",
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "移动沙丘上的“风车林”，国内首例沙漠腹地风电项目并网发电",
+    "link": "https://www.ithome.com/1/027/437.htm",
+    "pub_date": "2026-11-15 19:58:05",
+    "author": "",
+    "description": "IT之家 11 月 15 日消息，中国电建今日发文，近日，中国电建总承包的国内首例沙漠腹地风电项目 —— 蒙能阿电入乌 30 万千瓦风电项目首批机组并网发电，为极端环境条件下建设“沙戈荒”大基地提供可借鉴实践样本。 IT之家获悉，蒙能阿电入乌 30 万千瓦风电项目位于内蒙古自治区阿拉善盟乌兰布和沙漠腹地，总装机容量 300 兆瓦，包括 30 台单机容量 10 兆瓦风力发电机组、39 公里架空集电线路、2 座 220 千伏升压站。此次并网…",
+    "content": "IT之家 11 月 15 日消息，中国电建今日发文，近日，中国电建总承包的 国内首例沙漠腹地风电项目 —— 蒙能阿电入乌 30 万千瓦风电项目首批机组并网发电，为极端环境条件下建设“沙戈荒”大基地提供可借鉴实践样本。 IT之家获悉，蒙能阿电入乌 30 万千瓦风电项目位于内蒙古自治区阿拉善盟乌兰布和沙漠腹地，总装机容量 300 兆瓦，包括 30 台单机容量 10 兆瓦风力发电机组、39 公里架空集电线路、2 座 220 千伏升压站。此次并网的首批机组共 16 台，装机容量 160 兆瓦。 该项目是 200 万千瓦“阿…"
+  },
+  {
+    "id": "科技-IT 之家-https://www.ithome.com/1/027/435.htm",
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "初代 XBOX 游戏机迎上市 25 周年：奠定微软主机业务根基，未来平台发展方向仍不明朗",
+    "link": "https://www.ithome.com/1/027/435.htm",
+    "pub_date": "2026-11-15 19:38:04",
+    "author": "",
+    "description": "IT之家 11 月 15 日消息，据 Tom’s Hardware 报道，微软初代 XBOX 于 2001 年 11 月 15 日在北美市场正式发售，如今已迎来上市 25 周年。 这款主机本质上是一台采用定制硬件的 PC，搭载英特尔 Pentium III 处理器和英伟达 GPU，机身采用体积庞大的黑绿色外壳，主要竞争对手包括索尼 PlayStation 2、任天堂 GameCube 和世嘉 Dreamcast。 尽管面对实力强劲的对手…",
+    "content": "IT之家 11 月 15 日消息，据 Tom’s Hardware 报道，微软初代 XBOX 于 2001 年 11 月 15 日在北美市场正式发售，如今已迎来上市 25 周年。 这款主机本质上是一台采用定制硬件的 PC，搭载英特尔 Pentium III 处理器和英伟达 GPU，机身采用体积庞大的黑绿色外壳，主要竞争对手包括索尼 PlayStation 2、任天堂 GameCube 和世嘉 Dreamcast。 尽管面对实力强劲的对手，XBOX 凭借出色的硬件配置，以及《光环：战斗进化》（Halo: Combat…"
+  },
+  {
+    "id": "科技-Wired-https://www.wired.com/review/evercade-nexus/",
+    "feed_name": "Wired",
+    "category": "科技",
+    "title": "Evercade Nexus Review: The Best Retro Handheld Yet",
+    "link": "https://www.wired.com/review/evercade-nexus/",
+    "pub_date": "2026-11-15 19:30:00",
+    "author": "",
+    "description": "Evercade’s best handheld yet is a major level-up for the retro specialist.",
+    "content": "Evercade’s best handheld yet is a major level-up for the retro specialist."
+  },
+  {
+    "id": "科技-Wired-https://www.wired.com/review/logitech-yeti-2/",
+    "feed_name": "Wired",
+    "category": "科技",
+    "title": "Logitech Yeti 2 Review: An All-In-One Studio Setup",
+    "link": "https://www.wired.com/review/logitech-yeti-2/",
+    "pub_date": "2026-11-15 19:30:00",
+    "author": "",
+    "description": "The follow-up to the iconic Yeti microphone is here, and its upgrades make it worthy of the legacy.",
+    "content": "The follow-up to the iconic Yeti microphone is here, and its upgrades make it worthy of the legacy."
+  },
+  {
+    "id": "科技-IT 之家-https://www.ithome.com/1/027/433.htm",
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "黄仁勋卸任后，英伟达新任 CEO 面临重建员工信任难题",
+    "link": "https://www.ithome.com/1/027/433.htm",
+    "pub_date": "2026-11-15 19:19:40",
+    "author": "",
+    "description": "IT之家 11 月 15 日消息，据 Business Insider 报道，去年在一场 NBA 科技峰会上，时任英伟达首席执行官黄仁勋曾谈到自己的管理风格，称公司内部一直坚持开放、透明的沟通方式。 “我所有的时间都花在保持透明上。”黄仁勋当时表示。长期以来，他因带领英伟达实现惊人增长而备受赞誉。 然而，如今有关黄仁勋婚外情的报道，却暴露出他所宣称的坦诚原则与其私下行为之间可能存在的巨大落差。据报道，黄仁勋涉嫌与公司一名直接下属、另一名…",
+    "content": "IT之家 11 月 15 日消息，据 Business Insider 报道，去年在一场 NBA 科技峰会上，时任英伟达首席执行官黄仁勋曾谈到自己的管理风格，称公司内部一直坚持开放、透明的沟通方式。 “我所有的时间都花在保持透明上。”黄仁勋当时表示。长期以来，他因带领英伟达实现惊人增长而备受赞誉。 然而，如今有关黄仁勋婚外情的报道，却暴露出他所宣称的坦诚原则与其私下行为之间可能存在的巨大落差。据报道，黄仁勋涉嫌与公司一名直接下属、另一名员工以及一名客户发生婚外情。 黄仁勋离职后，英伟达下一任首席执行官将面临一项艰巨…"
+  },
+  {
+    "id": "科技-Wired-https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+    "feed_name": "Wired",
+    "category": "科技",
+    "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+    "link": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+    "pub_date": "2026-11-15 19:00:00",
+    "author": "",
+    "description": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
+    "content": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits."
+  },
+  {
+    "id": "科技-IT 之家-https://www.ithome.com/1/027/431.htm",
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "2026 年度电影总票房破 320 亿，《飞驰人生 3》《欢迎来龙餐馆》《功夫女足》暂列前三",
+    "link": "https://www.ithome.com/1/027/431.htm",
+    "pub_date": "2026-11-15 18:58:44",
+    "author": "",
+    "description": "IT之家 11 月 15 日消息，据猫眼专业版数据，截至 11 月 15 日，2026 年年度总票房（含预售）突破 320 亿。 《飞驰人生 3》《欢迎来龙餐馆》《功夫女足》暂列年度票房榜前三位，IT之家附前十名单： 飞驰人生 3 欢迎来龙餐馆 功夫女足 八仙！ 给阿嬷的情书 蜘蛛侠：崭新之日 镖人：风起大漠 惊蛰无声 熊出没 · 年年有熊 奥德赛 IT之家小伙伴记得用最会买购买电影票，享受折扣价的同时还可以获得返利，预计每张票可以节省…",
+    "content": "IT之家 11 月 15 日消息，据猫眼专业版数据，截至 11 月 15 日，2026 年年度总票房（含预售） 突破 320 亿 。 《飞驰人生 3》《欢迎来龙餐馆》《功夫女足》暂列年度票房榜前三位，IT之家附前十名单： 飞驰人生 3 欢迎来龙餐馆 功夫女足 八仙！ 给阿嬷的情书 蜘蛛侠：崭新之日 镖人：风起大漠 惊蛰无声 熊出没 · 年年有熊 奥德赛 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！ 广告声明：文内含有的对外跳转链接（包括不限于超链接、二…"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8205846.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "鱼你在一起落子海外百店，中餐出海开启“体系化时代”",
+    "link": "https://www.tmtpost.com/8205846.html",
+    "pub_date": "2026-11-15 18:58:04",
+    "author": "",
+    "description": "企业的使命是让世界爱上中国味道，一定是要历经走出去、走进去、走上去的过程，“不止输出一道菜，更要输出中国餐饮出海范式”。",
+    "content": "企业的使命是让世界爱上中国味道，一定是要历经走出去、走进去、走上去的过程，“不止输出一道菜，更要输出中国餐饮出海范式”。"
+  },
+  {
+    "id": "科技-Wired-https://www.wired.com/story/droughts-are-getting-too-extreme-even-for-cactuses/",
+    "feed_name": "Wired",
+    "category": "科技",
+    "title": "It’s Getting Too Dry for Even Cactuses to Survive",
+    "link": "https://www.wired.com/story/droughts-are-getting-too-extreme-even-for-cactuses/",
+    "pub_date": "2026-11-15 18:30:00",
+    "author": "",
+    "description": "As droughts worsen due to climate change, new research shows that hundreds of cactus species could lose the majority of their habitats by 2100.",
+    "content": "As droughts worsen due to climate change, new research shows that hundreds of cactus species could lose the majority of their habitats by 2100."
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8205754.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "本田净利大涨66%，汽车业务却还在亏钱",
+    "link": "https://www.tmtpost.com/8205754.html",
+    "pub_date": "2026-11-15 18:05:24",
+    "author": "",
+    "description": "净利大涨背后，本田汽车仍亏损，摩托车与北美混动撑起利润。",
+    "content": "净利大涨背后，本田汽车仍亏损，摩托车与北美混动撑起利润。"
+  },
+  {
+    "id": "科技-快科技-https://news.mydrivers.com/1/1165/1165900.htm",
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "小红书美女博主扎堆晒GTA6预购 真心期待还是蹭热度",
+    "link": "https://news.mydrivers.com/1/1165/1165900.htm",
+    "pub_date": "2026-11-15 18:02:48",
+    "author": "",
+    "description": "",
+    "content": "随着《GTA6》预购与预载开启，小红书出现一批女性博主展示付款截图与预载画面的内容。博主形象精致，场景多为客厅或主机前，视觉呈现带有明显的生活化与时尚化特征。由于游戏本身热度极高，相关笔记迅速获得关注。支持真实期待的一方认为，女性玩家群体长期存在，公开晒预购是兴趣表达与身份认同的一种方式，不应因外貌或平台属性就否定其玩家身份。质疑方则指出，部分内容更侧重个人形象展示而非游戏本身，存在借现象级产品热度获取流量、强化人设的可能。 随着《GTA6》预购和预载陆续开启，小红书上出现大量女性博主晒出预购付款截图、预载画面和主…"
+  },
+  {
+    "id": "科技-爱范儿-https://www.ifanr.com/1689473?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "feed_name": "爱范儿",
+    "category": "科技",
+    "title": "六年磨一「球」，好听、好看、好贵｜HomePod mini 2 体验",
+    "link": "https://www.ifanr.com/1689473?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "pub_date": "2026-11-15 18:00:17",
+    "author": "",
+    "description": "小身材，大嗓门 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "content": "小身材，大嗓门 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+    "id": "科技-Wired-https://www.wired.com/story/mac-mini-deal-11-13-2026/",
+    "feed_name": "Wired",
+    "category": "科技",
+    "title": "M6 Mac Mini Early Black Friday Sale (2026)",
+    "link": "https://www.wired.com/story/mac-mini-deal-11-13-2026/",
+    "pub_date": "2026-11-15 18:00:00",
+    "author": "",
+    "description": "Not only is it the best mini computer you can buy, but it’s currently on sale, starting at just $779.",
+    "content": "Not only is it the best mini computer you can buy, but it’s currently on sale, starting at just $779."
+  },
+  {
+    "id": "科技-Wired-https://www.wired.com/story/new-species-of-giant-fungus-discovered-in-china-grows-up-to-20-inches-tall/",
+    "feed_name": "Wired",
+    "category": "科技",
+    "title": "New Species of Giant Fungus Discovered in China Grows up to 20 Inches Tall",
+    "link": "https://www.wired.com/story/new-species-of-giant-fungus-discovered-in-china-grows-up-to-20-inches-tall/",
+    "pub_date": "2026-11-15 18:00:00",
+    "author": "",
+    "description": "Dubbed Dianjunus rex, the huge fungus emerged shortly after the mass extinction that wiped out the dinosaurs.",
+    "content": "Dubbed Dianjunus rex, the huge fungus emerged shortly after the mass extinction that wiped out the dinosaurs."
+  },
+  {
+    "id": "科技-快科技-https://news.mydrivers.com/1/1165/1165899.htm",
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "中国砒霜治疗成国际方案！白血病生存率大幅提升",
+    "link": "https://news.mydrivers.com/1/1165/1165899.htm",
+    "pub_date": "2026-11-15 17:57:57",
+    "author": "",
+    "description": "",
+    "content": "上世纪80年代初，急性早幼粒细胞白血病（APL）几乎等同于死刑判决，死亡率高达80%以上。1986年，一名5岁女孩被送到医院时已处于疾病终末期，奄奄一息，家人甚至已经开始准备后事。中国研究团队决定尝试一种当时尚属探索性的方案——使用维生素A的衍生物进行治疗。一个月后，女孩的病情完全缓解，这个结果在当时几乎无法想象。 这次治疗为后续研究打开了突破口。中国团队在此基础上联合开创了“全反式维甲酸+三氧化二砷”的联合疗法，也就是后来被国际医学界称为“上海方案”的治疗路径。砒霜，这个传统认知中的毒物，在精确剂量和规范方案下成…"
+  },
+  {
+    "id": "科技-快科技-https://news.mydrivers.com/1/1165/1165898.htm",
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "女子因拒绝给HR带咖啡被取消面试！BOSS直聘出手了",
+    "link": "https://news.mydrivers.com/1/1165/1165898.htm",
+    "pub_date": "2026-11-15 17:48:18",
+    "author": "",
+    "description": "",
+    "content": "快科技11月15日消息，据媒体报道， 近日，一名江苏求职者在网上发帖吐槽，自己跨城参加面试，却因为拒绝给HR买咖啡，直接被取消面试资格，引发网友热议。 BOSS直聘官方对此回应称，涉事招聘者存在不合理要求，已暂停其招聘账号权限。 据当事人小王（化名）介绍，11月13日，她前往一家公司参加面试。还没见到面试官，对方HR便通过消息要求她先购买两杯饮品，并特别交代其中一杯要不含咖啡因，同时明确表示费用不予报销。 面对这一要求小王选择拒绝，随后HR才改口表示咖啡钱可以报销，但同时表示公司不招“斤斤计较”的员工。 更让小王意…"
+  },
+  {
+    "id": "科技-IT 之家-https://www.ithome.com/1/027/418.htm",
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "消息称黄仁勋参与英伟达新 CEO 遴选，已与至少一位潜在候选人通话",
+    "link": "https://www.ithome.com/1/027/418.htm",
+    "pub_date": "2026-11-15 17:45:52",
+    "author": "",
+    "description": "IT之家 11 月 15 日消息，据华盛顿邮报报道，多年来，黄仁勋常开玩笑地说，作为英伟达的联合创始人兼首席执行官，他执掌这家公司已超三十年，几乎没有人能接替他。 “永远不会再有第二个我，”他在今年 1 月的一次采访中说道，“原因就在于我是在这家公司里一步步成长起来的。” 然而，黄仁勋本周的突然辞职，让英伟达不得不面对一项棘手的难题：为这位长期将自己塑造成“不可替代”的首席执行官寻找继任者。 一位消息人士透露，尽管保持低调，但黄仁勋目前…",
+    "content": "IT之家 11 月 15 日消息，据华盛顿邮报报道，多年来，黄仁勋常开玩笑地说，作为英伟达的联合创始人兼首席执行官，他执掌这家公司已超三十年，几乎没有人能接替他。 “永远不会再有第二个我，”他在今年 1 月的一次采访中说道，“原因就在于我是在这家公司里一步步成长起来的。” 然而，黄仁勋本周的突然辞职，让英伟达不得不面对一项棘手的难题：为这位长期将自己塑造成“不可替代”的首席执行官寻找继任者。 一位消息人士透露， 尽管保持低调，但黄仁勋目前正在参与到继任进程中，并且已经与至少一位潜在候选人进行了通话 。 IT之家注意…"
+  },
+  {
+    "id": "科技-快科技-https://news.mydrivers.com/1/1165/1165897.htm",
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "最快女护士张水华再夺冠：奖金8万元 近一个月已收获4冠1亚",
+    "link": "https://news.mydrivers.com/1/1165/1165897.htm",
+    "pub_date": "2026-11-15 17:34:00",
+    "author": "",
+    "description": "",
+    "content": "快科技11月15日消息，据媒体报道， 2026年南昌马拉松鸣枪开跑，曾被称为“最快女护士”的张水华以2小时31分58秒的成绩获得女子全程马拉松冠军，再次成为马拉松圈关注的焦点。 据南昌马拉松官方信息，本届赛事奖金全面提升，其中马拉松项目男女冠军奖金均为8万元，半程马拉松男女冠军奖金提升至1.5万元。 事实上，这已经不是张水华近期第一次站上领奖台。近一个月以来，她在多项马拉松赛事中接连取得佳绩。 11月8日，在广西河池罗城半程马拉松比赛中，张水华以1小时15分54秒的成绩获得女子组冠军，并刷新赛会纪录，获得奖金1万元…"
+  },
+  {
+    "id": "科技-IT 之家-https://www.ithome.com/1/027/411.htm",
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "消息称苹果 iPhone 18 Pro 系列手机销量已达 782.87 万台",
+    "link": "https://www.ithome.com/1/027/411.htm",
+    "pub_date": "2026-11-15 17:06:10",
+    "author": "",
+    "description": "感谢IT之家网友 Autumn_Dream 的线索投递！ IT之家 11 月 15 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 今日爆料，截至 2026 年第 45 周（11 月 1 日至 11 月 7 日），苹果 iPhone 18 Pro 系列手机销量达到 782.87 万台。 参考IT之家此前报道，在 9 月 10 日的苹果 2026 年秋季发布会上，iPhone 18 Pro 系列正式发布，包括 18 Pro 和 …",
+    "content": "感谢IT之家网友 Autumn_Dream 的线索投递！ IT之家 11 月 15 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 今日爆料，截至 2026 年第 45 周（11 月 1 日至 11 月 7 日）， 苹果 iPhone 18 Pro 系列手机销量达到 782.87 万台 。 参考IT之家此前报道，在 9 月 10 日的苹果 2026 年秋季发布会上， iPhone 18 Pro 系列正式发布 ，包括 18 Pro 和 18 Pro Max，起售价分别为 9999 元和 10999 元。 i…"
+  },
+  {
+    "id": "科技-IT 之家-https://www.ithome.com/1/027/410.htm",
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "遭受网络攻击后，世嘉日服 11 款街机游戏陆续恢复线上功能",
+    "link": "https://www.ithome.com/1/027/410.htm",
+    "pub_date": "2026-11-15 17:03:14",
+    "author": "",
+    "description": "IT之家 11 月 15 日消息，世嘉于 11 月 2 日通报公司部分服务器遭到黑客非法访问，临时关闭部分日服街机游戏的在线服务。目前公司宣布相应服务陆续恢复运行，玩家可以重新使用在线游玩及 IC 卡功能。 具体来看，最初暂停服务的 13 款游戏中《SEGA NET 麻雀 MJ Arcade》和《HOUSE OF THE DEAD ～SCARLET DAWN～》经确认暂时无法恢复服务。实际恢复运行的世嘉街机游戏共 11 款，IT之家随附…",
+    "content": "IT之家 11 月 15 日消息，世嘉于 11 月 2 日通报公司部分服务器遭到黑客非法访问， 临时关闭部分日服街机游戏的在线服务 。目前公司宣布相应服务陆续恢复运行，玩家可以重新使用在线游玩及 IC 卡功能。 具体来看，最初暂停服务的 13 款游戏中《SEGA NET 麻雀 MJ Arcade》和《HOUSE OF THE DEAD ～SCARLET DAWN～》经确认暂时无法恢复服务。实际恢复运行的世嘉街机游戏共 11 款，IT之家随附列表： 《ONGEKI》（音击） 《Card Maker》 《舰队 Coll…"
+  },
+  {
+    "id": "科技-快科技-https://news.mydrivers.com/1/1165/1165896.htm",
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "2年跑40万公里！小米SU7车主晒电池健康度：还有91.08%",
+    "link": "https://news.mydrivers.com/1/1165/1165896.htm",
+    "pub_date": "2026-11-15 16:59:17",
+    "author": "",
+    "description": "",
+    "content": "快科技11月15日消息， 一位小米SU7车主晒出用车记录：提车约2年，车辆已经跑到40万公里。 更引人关注的是，他查询到的动力电池健康度仍有91.08%，并表示目前实际续航还能跑500公里左右。 40万公里是什么概念？按2年730天粗略计算，平均每天要跑约548公里。对不少家庭来说，这是30年才能积累的里程，这位车主却把它压缩在了短短2年里。 车机截图显示，车辆“生涯总计”里程达到400000km，累计用电63455kWh，界面显示的百公里电耗为15.6kWh。 跑了这么远，电池还剩多少容量，自然是大家最关心的问题…"
+  },
+  {
+    "id": "科技-IT 之家-https://www.ithome.com/1/027/400.htm",
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "快手公益启动“启智星计划”：利用 AI 创新教育、未来三年将覆盖 2000 所乡村学校",
+    "link": "https://www.ithome.com/1/027/400.htm",
+    "pub_date": "2026-11-15 16:39:40",
+    "author": "",
+    "description": "IT之家 11 月 15 日消息，快手公益宣布启动“启智星”AI 赋能教育共建计划，将在 10 个县域各建立由教育局、学校、基金会三方协作的共建单元，为 10 所案例校引入“一校一策”教学方法。 官方同步公布 30 个可复制、可迁移的人工智能应用案例，教师们使用 AI 进行双语教学、分层教学，打造科创体育融合、红色思政等场景。‏ 快手表示，未来三年，将为超过 2000 所乡村学校、3 万名教师引入相应 AI 案例，可服务超过 500 万…",
+    "content": "IT之家 11 月 15 日消息，快手公益宣布启动“启智星”AI 赋能教育共建计划，将在 10 个县域各建立由教育局、学校、基金会三方协作的共建单元，为 10 所案例校引入“一校一策”教学方法。 官方同步公布 30 个可复制、可迁移的人工智能应用案例，教师们使用 AI 进行双语教学、分层教学，打造科创体育融合、红色思政等场景。‏ 快手表示，未来三年，将为超过 2000 所乡村学校、3 万名教师引入相应 AI 案例，可服务超过 500 万人次乡村学生。"
+  },
+  {
+    "id": "科技-果壳网 / 科学人-https://www.guokr.com/article/470708/",
+    "feed_name": "果壳网 / 科学人",
+    "category": "科技",
+    "title": "逆袭斯坦福，依然撕不掉大专标签",
+    "link": "https://www.guokr.com/article/470708/",
+    "pub_date": "2026-11-15 16:15:04",
+    "author": "",
+    "description": "本文授权转载自“南风窗”，点击上方关注。 ID：SouthReviews 作者：肖瑶 编辑：吴擎 10月中旬，美国约翰斯·霍普金斯大学为表彰博士后何世豪“在支持他人职业成长方面所展现的慷慨、提携与倡导”，向这位来自中国山东小城的研究员颁发了“Career Impact Award”（职业发展影响力奖）。 这是这所世界闻名的医学院一项需要与全校教授、教职员工、博后及校友一起竞争的荣誉，每年获奖者一般只有三四个人。 采访开始时，何世豪同南风…",
+    "content": "本文授权转载自“南风窗”，点击上方关注。 ID：SouthReviews 作者：肖瑶 编辑：吴擎 10月中旬，美国约翰斯·霍普金斯大学为表彰博士后何世豪“在支持他人职业成长方面所展现的慷慨、提携与倡导”，向这位来自中国山东小城的研究员颁发了“Career Impact Award”（职业发展影响力奖）。 这是这所世界闻名的医学院一项需要与全校教授、教职员工、博后及校友一起竞争的荣誉，每年获奖者一般只有三四个人。 采访开始时，何世豪同南风窗记者分享了这个好消息。何世豪是该奖项成立以来第一个获奖的中国人。 在公开资料和…"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8205798.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "当Gemini被戏称为“美国豆包”，张一鸣也活成了“中国布林”",
+    "link": "https://www.tmtpost.com/8205798.html",
+    "pub_date": "2026-11-15 16:06:47",
+    "author": "",
+    "description": "在太平洋两岸的科技版图上，一种奇妙的镜像正在发生。",
+    "content": "在太平洋两岸的科技版图上，一种奇妙的镜像正在发生。"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8205257.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "T-EDGE 2026前瞻①｜AI如何重写影视业的成本、资本与权力",
+    "link": "https://www.tmtpost.com/8205257.html",
+    "pub_date": "2026-11-15 15:37:00",
+    "author": "",
+    "description": "AI改写行业，谁先交卷？钛媒体《智能大迁移》将从十个问题出发，观察AI如何从模型之争落地到千行百业。接下来我们还会整理更多的话题，通过中美技术趋势和行业观察，看不同行业的智能迁移。",
+    "content": "AI改写行业，谁先交卷？钛媒体《智能大迁移》将从十个问题出发，观察AI如何从模型之争落地到千行百业。接下来我们还会整理更多的话题，通过中美技术趋势和行业观察，看不同行业的智能迁移。"
+  },
+  {
+    "id": "科技-InfoQ 中文-https://www.infoq.cn/article/1N801doFOEl2Swqey5Jy",
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "Yelp AI 助手融合原生 UI 与服务端驱动 UI",
+    "link": "https://www.infoq.cn/article/1N801doFOEl2Swqey5Jy",
+    "pub_date": "2026-11-15 15:00:00",
+    "author": "",
+    "description": "Yelp 为其 AI 助手采用了混合用户界面架构\"，将原生移动控件与服务器驱动的对话渲染相结合，实现跨平台界面的快速迭代。该方案基于 Yelp 的 CHAOS 框架（全称 Content Hosting Architecture with Optimization Strategies，带优化策略的内容托管架构）渲染对话内容，导航栏与消息输入框则保留原生实现。 Yelp 助手于 2024 年在 iOS 上推出，帮助用户向本地服务从业者提…",
+    "content": "Yelp 为其 AI 助手采用了混合用户界面架构 \"，将原生移动控件与服务器驱动的对话渲染相结合，实现跨平台界面的快速迭代。该方案基于 Yelp 的 CHAOS 框架（全称 Content Hosting Architecture with Optimization Strategies，带优化策略的内容托管架构）渲染对话内容，导航栏与消息输入框则保留原生实现。 Yelp 助手于 2024 年在 iOS 上推出，帮助用户向本地服务从业者提交服务需求。此后，它逐步扩展至查询商户相关信息，并可完成预订、预约、点餐等操作…"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8205694.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "国产芯片融资潮，来势凶猛",
+    "link": "https://www.tmtpost.com/8205694.html",
+    "pub_date": "2026-11-15 14:48:19",
+    "author": "",
+    "description": "从新架构到新产线，资本加注整条产业链。",
+    "content": "从新架构到新产线，资本加注整条产业链。"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8205592.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "【数智周报】黄仁勋辞任英伟达CEO ，CFO克雷斯任临时CEO；阿里拟分拆平头哥港股独立上市；Anthropic启动IPO路演，估值较峰值近腰斩……",
+    "link": "https://www.tmtpost.com/8205592.html",
+    "pub_date": "2026-11-15 14:19:18",
+    "author": "",
+    "description": "（11月9日-14日） DeepSeek发布全家桶应用API；谷歌发布Gemini 4 Hydrogen；微软全球服务中断十小时致歉；美国人工智能建设遭遇电力瓶颈……",
+    "content": "（11月9日-14日） DeepSeek发布全家桶应用API；谷歌发布Gemini 4 Hydrogen；微软全球服务中断十小时致歉；美国人工智能建设遭遇电力瓶颈……"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8205717.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "全球芯片股较峰值回撤近四成，AI泡沫破了吗？",
+    "link": "https://www.tmtpost.com/8205717.html",
+    "pub_date": "2026-11-15 12:19:48",
+    "author": "",
+    "description": "非AI板块却创了新高。",
+    "content": "非AI板块却创了新高。"
+  },
+  {
+    "id": "科技-果壳网 / 科学人-https://www.guokr.com/article/470707/",
+    "feed_name": "果壳网 / 科学人",
+    "category": "科技",
+    "title": "买来的炸鸡，骨头还是红色的，真的熟了吗？能吃吗？",
+    "link": "https://www.guokr.com/article/470707/",
+    "pub_date": "2026-11-15 12:15:03",
+    "author": "",
+    "description": "此前多次有网友问我： 我买回来的烧鸡、熟肉，为什么煮熟了之后中间还是粉红色的？难道不该是变成褐色的么？ 于是我给大家贴了图。我买的熟食鸡，也有这种情况。 产品是酱鸡，表面是褐色的，肉的中心是粉红色的，鸡骨头颜色也这么红，为什么呢？ 答案来啦。 鸡肉和鸡骨头是红色，有两种可能性。一是中心加热温度低，没有被氧化；二是加入了亚硝酸钠发色剂。 肉类在未煮熟之前是红色的；小鸡的骨头，包括骨髓，在未熟时也是红色的。因为肉的肌红蛋白中含有血红素，红骨…",
+    "content": "此前多次有网友问我： 我买回来的烧鸡、熟肉，为什么煮熟了之后中间还是粉红色的？难道不该是变成褐色的么？ 于是我给大家贴了图。我买的熟食鸡，也有这种情况。 产品是酱鸡，表面是褐色的，肉的中心是粉红色的，鸡骨头颜色也这么红，为什么呢？ 答案来啦。 鸡肉和鸡骨头是红色，有两种可能性。 一是中心加热温度低，没有被氧化；二是加入了亚硝酸钠发色剂。 肉类在未煮熟之前是红色的；小鸡的骨头，包括骨髓，在未熟时也是红色的。因为肉的肌红蛋白中含有血红素，红骨髓、血红细胞中也含有血红素。 但是，血红素中螯合的二价铁离子，在烹调之后可能因…"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8205652.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "全球供应链“安全优先”的账单，最后寄给了谁？",
+    "link": "https://www.tmtpost.com/8205652.html",
+    "pub_date": "2026-11-15 10:56:35",
+    "author": "",
+    "description": "全球供应链彻底从 “效率优先” 转向 “安全优先”。看似宏观的产业韧性升级，实则层层转嫁隐性成本。供应商牺牲利润换入场资格、客户抬升采购成本、财政兜底补贴，而最弱势的中小企业，最终成为供应链安全账单的最终承担者。",
+    "content": "全球供应链彻底从 “效率优先” 转向 “安全优先”。看似宏观的产业韧性升级，实则层层转嫁隐性成本。供应商牺牲利润换入场资格、客户抬升采购成本、财政兜底补贴，而最弱势的中小企业，最终成为供应链安全账单的最终承担者。"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8205587.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "“柔性产能”：“中国制造”最硬的底牌和最贵的账单",
+    "link": "https://www.tmtpost.com/8205587.html",
+    "pub_date": "2026-11-15 10:50:23",
+    "author": "",
+    "description": "柔性产能是中国制造最硬的底牌，危机来临时可快速转产、释放产能，构筑产业缓冲。但这份韧性并非免费，闲置产能带来的成本沿着产业链层层下沉，由企业、经营者与一线劳动者承担。宏大产业优势背后，藏着一笔持续滚动的昂贵账单。",
+    "content": "柔性产能是中国制造最硬的底牌，危机来临时可快速转产、释放产能，构筑产业缓冲。但这份韧性并非免费，闲置产能带来的成本沿着产业链层层下沉，由企业、经营者与一线劳动者承担。宏大产业优势背后，藏着一笔持续滚动的昂贵账单。"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8205600.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "黄仁勋离职风波冷思考：中国AI自主化与海外依赖张力之辩",
+    "link": "https://www.tmtpost.com/8205600.html",
+    "pub_date": "2026-11-15 10:50:20",
+    "author": "",
+    "description": "英伟达创始人兼CEO黄仁勋离职风波不只是一起涉及芯片转运和出口管制的调查，更折射出中国AI产业面临的现实处境",
+    "content": "英伟达创始人兼CEO黄仁勋离职风波不只是一起涉及芯片转运和出口管制的调查，更折射出中国AI产业面临的现实处境"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8205602.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "光通信热潮退去，可川科技股价“膝斩”七成，实控人左手减持右手接盘新公司",
+    "link": "https://www.tmtpost.com/8205602.html",
+    "pub_date": "2026-11-15 10:50:09",
+    "author": "",
+    "description": "可川科技追“光”两年，相关业务未贡献营收，实控人套现后转头接盘新公司。",
+    "content": "可川科技追“光”两年，相关业务未贡献营收，实控人套现后转头接盘新公司。"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8205615.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "没续约LPL的赞助商要后悔得拍大腿了",
+    "link": "https://www.tmtpost.com/8205615.html",
+    "pub_date": "2026-11-15 10:50:00",
+    "author": "",
+    "description": "LPL太需要一个冠军了。",
+    "content": "LPL太需要一个冠军了。"
+  },
+  {
+    "id": "科技-爱范儿-https://www.ifanr.com/1689501?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "feed_name": "爱范儿",
+    "category": "科技",
+    "title": "刚刚，马斯克再创历史，人类首次用「筷子」夹住星舰飞船",
+    "link": "https://www.ifanr.com/1689501?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "pub_date": "2026-11-15 10:47:36",
+    "author": "",
+    "description": "再创历史 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "content": "再创历史 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8205551.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "AI撞上美国“新世界”：暴跌、监管、政治博弈，数据中心何去何从？",
+    "link": "https://www.tmtpost.com/8205551.html",
+    "pub_date": "2026-11-15 10:30:54",
+    "author": "",
+    "description": "AI叙事正式转变？",
+    "content": "AI叙事正式转变？"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8205553.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "黄仁勋和“平头哥”，都在等一个厉娜！",
+    "link": "https://www.tmtpost.com/8205553.html",
+    "pub_date": "2026-11-15 10:30:50",
+    "author": "",
+    "description": "黄仁勋和“平头哥”，都在等一个厉娜！",
+    "content": "黄仁勋和“平头哥”，都在等一个厉娜！"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8205381.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "算力狂飙而净利率跌破5%：为什么工业AI算不出实体企业的真利润？",
+    "link": "https://www.tmtpost.com/8205381.html",
+    "pub_date": "2026-11-15 10:30:45",
+    "author": "",
+    "description": "聊天对话框省不出利润率，物理AI真正的金矿藏在“同源耦合”的水下。当算力狂飙遇上制造业5%净利率泥潭，全行业都把工业决策引擎的账算小了十倍。",
+    "content": "聊天对话框省不出利润率，物理AI真正的金矿藏在“同源耦合”的水下。当算力狂飙遇上制造业5%净利率泥潭，全行业都把工业决策引擎的账算小了十倍。"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8205565.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "一条推文蒸发近3万亿：美国ASI禁令引爆科技股雪崩",
+    "link": "https://www.tmtpost.com/8205565.html",
+    "pub_date": "2026-11-15 10:30:42",
+    "author": "",
+    "description": "一夜近 3 万亿市值蒸发，市场将暴跌归咎于马斯克转发推文。实则议员 AI 监管表态只是情绪导火索，真正击穿 AI 行情的是美国地方算力限流、能耗管控引发的社会许可危机，AI 无限扩产的资本叙事彻底终结。",
+    "content": "一夜近 3 万亿市值蒸发，市场将暴跌归咎于马斯克转发推文。实则议员 AI 监管表态只是情绪导火索，真正击穿 AI 行情的是美国地方算力限流、能耗管控引发的社会许可危机，AI 无限扩产的资本叙事彻底终结。"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8205584.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "Kimi估值500亿美元，月之暗面为什么急着拆掉海外架构？",
+    "link": "https://www.tmtpost.com/8205584.html",
+    "pub_date": "2026-11-15 10:30:39",
+    "author": "",
+    "description": "只看估值，月之暗面的故事已经足够耀眼。",
+    "content": "只看估值，月之暗面的故事已经足够耀眼。"
+  },
+  {
     "id": "科技-InfoQ 中文-https://www.infoq.cn/article/fZSEkDatL9xajG8PVi7G",
     "feed_name": "InfoQ 中文",
     "category": "科技",
@@ -9,28 +526,6 @@ const jsonData = [
     "author": "",
     "description": "当 Agent 真正进入企业流程，哪些工作可以交给 AI ？50 + 实战案例揭晓答案！ AI 正在从回答问题的辅助工具，走向理解目标、调用系统、完成任务的工作承担者。当 Agent 真正进入企业流程，问题不再是 “如何把 AI 做出来”，而是哪些工作可以交给 AI、结果如何验收、权限、成本与风险如何收住。随着大模型向推理、工具调用、多模态和长任务延伸，开发重心正从单次调用转向上下文、工具、执行环境与反馈回路的设计，Coding Age…",
     "content": "当 Agent 真正进入企业流程，哪些工作可以交给 AI ？50 + 实战案例揭晓答案！ AI 正在从回答问题的辅助工具，走向理解目标、调用系统、完成任务的工作承担者。当 Agent 真正进入企业流程，问题不再是 “如何把 AI 做出来”，而是哪些工作可以交给 AI、结果如何验收、权限、成本与风险如何收住。随着大模型向推理、工具调用、多模态和长任务延伸，开发重心正从单次调用转向上下文、工具、执行环境与反馈回路的设计，Coding Agent 也从代码补全演进为能理解代码库、运行测试、完成复杂任务的工程协作者。Ope…"
-  },
-  {
-    "id": "科技-IT 之家-https://www.ithome.com/1/027/270.htm",
-    "feed_name": "IT 之家",
-    "category": "科技",
-    "title": "老外今年考“中文四六级”人数首破百万人次，169 国设 1500 余个考点",
-    "link": "https://www.ithome.com/1/027/270.htm",
-    "pub_date": "2026-11-15 09:21:43",
-    "author": "",
-    "description": "IT之家 11 月 15 日消息，11 月 13 日至 15 日，2026 世界中文大会在北京举行，来自 160 多个国家和地区的约 5000 名代表参会。 据央视新闻报道，今年中文水平考试（HSK）考生人数首次突破 100 万人次。随着中文学习需求不断增长，中文的应用场景也在不断拓展。 IT之家注：中文水平考试（HSK），被不少网友称为“外国人的四六级”，目前已在 169 个国家设立了 1500 余个考点，考点覆盖国家数量居全球语言考…",
-    "content": "IT之家 11 月 15 日消息，11 月 13 日至 15 日，2026 世界中文大会在北京举行，来自 160 多个国家和地区的约 5000 名代表参会。 据央视新闻报道， 今年中文水平考试（HSK）考生人数首次突破 100 万人次 。随着中文学习需求不断增长，中文的应用场景也在不断拓展。 IT之家注：中文水平考试（HSK），被不少网友称为“外国人的四六级”， 目前已在 169 个国家设立了 1500 余个考点 ，考点覆盖国家数量居全球语言考试首位，累计服务考生超过 900 万人次。与此同时，全球中文学习的规模也…"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8205610.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "Edge AI Daily 早报（11月15日）",
-    "link": "https://www.tmtpost.com/8205610.html",
-    "pub_date": "2026-11-15 09:09:35",
-    "author": "",
-    "description": "黄仁勋离任英伟达触发多线连锁：超11.5万人联署要求其回任，马斯克等科技高管声援，董事会曾就继任接触Arm CEO雷内·哈斯的传闻浮出，创始人依赖与制度化治理的张力凸显。亚洲政府重估单一AI基础设施供应商风险，韩国锁定26万颗先进GPU供应并叠加本土芯片，中国重申出口管制，台湾推进台北总部项目。",
-    "content": "黄仁勋离任英伟达触发多线连锁：超11.5万人联署要求其回任，马斯克等科技高管声援，董事会曾就继任接触Arm CEO雷内·哈斯的传闻浮出，创始人依赖与制度化治理的张力凸显。亚洲政府重估单一AI基础设施供应商风险，韩国锁定26万颗先进GPU供应并叠加本土芯片，中国重申出口管制，台湾推进台北总部项目。"
   },
   {
     "id": "科技-InfoQ 中文-https://www.infoq.cn/article/0IpE2EOypcqMFtL7z4z1",
@@ -55,28 +550,6 @@ const jsonData = [
     "content": "It felt like stepping into the future."
   },
   {
-    "id": "科技-快科技-https://news.mydrivers.com/1/1165/1165851.htm",
-    "feed_name": "快科技",
-    "category": "科技",
-    "title": "《英雄联盟》S16总决赛中国战队BLG夺冠！雷鸟创新不夺冠就退款承诺无需兑现",
-    "link": "https://news.mydrivers.com/1/1165/1165851.htm",
-    "pub_date": "2026-11-15 08:37:20",
-    "author": "",
-    "description": "",
-    "content": "快科技11月15日消息，今日，2026英雄联盟全球总决赛冠亚军决赛上演巅峰对决，中国LPL赛区BLG战队以3:1击败韩国LCK赛区GEN战队，成功夺得S16全球总决赛冠军。 随着BLG成功登顶，此前雷鸟创新推出的“BLG不夺冠，雷鸟全退款”活动也迎来最终结果， 由于BLG成功夺冠，活动约定的退款条件并未触发，雷鸟创新此前的退款承诺无需兑现。 据了解，雷鸟创新于今年10月23日联合哔哩哔哩推出雷鸟GT Max bilibili限定版AR眼镜，并同步发起“不夺冠就退款”活动。 根据活动规则，活动期间在雷鸟官方旗舰店购买…"
-  },
-  {
-    "id": "科技-快科技-https://news.mydrivers.com/1/1165/1165850.htm",
-    "feed_name": "快科技",
-    "category": "科技",
-    "title": "花七万多加装辅助驾驶却一直报错？车主：女儿把这台保时捷叫傻子车",
-    "link": "https://news.mydrivers.com/1/1165/1165850.htm",
-    "pub_date": "2026-11-15 08:19:21",
-    "author": "",
-    "description": "",
-    "content": "快科技11月15日消息，据“1818黄金眼”报道， 宁波梅先生花150多万元购买了一辆保时捷帕拉梅拉，其中额外花了7万多元加装辅助驾驶功能。 然而提车两年多来，这些花钱买的功能频繁报错，始终无法正常使用。 据介绍，梅先生的这辆车是2024款燃油版保时捷帕拉梅拉，2023年12月19日在宁波兴宁保时捷中心购入，总价约152万元，其中辅助驾驶选装包约7.1万元。 提车当天开出4S店，车机屏幕就弹出了“主动车道保持系统不可用”的报错提示。此后各类辅助驾驶功能轮番报错，有时一屏弹出七八条。 梅先生演示时，车辆驶过树荫或上下…"
-  },
-  {
     "id": "科技-TechCrunch-https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
     "feed_name": "TechCrunch",
     "category": "科技",
@@ -88,28 +561,6 @@ const jsonData = [
     "content": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak …"
   },
   {
-    "id": "科技-快科技-https://news.mydrivers.com/1/1165/1165849.htm",
-    "feed_name": "快科技",
-    "category": "科技",
-    "title": "本田认输！CR-V氢燃料电池车停产 整个生命周期只租出约300台",
-    "link": "https://news.mydrivers.com/1/1165/1165849.htm",
-    "pub_date": "2026-11-15 08:06:29",
-    "author": "",
-    "description": "",
-    "content": "快科技11月15日消息，据CarBuzz报道， 本田已正式停止CR-V e:FCEV氢燃料电池车型的生产，不再推出2027款车型。 这款北美首款量产可插电氢燃料电池SUV在整个生命周期内仅租出约300台，黯然落幕。 本田官方确认，2026款CR-V e:FCEV的生产与销售工作已全部终止，最后一台车辆数月前离开经销商渠道，最后一单租赁合同于今年7月完成交付。该车自2024年2月发布，仅在美国加州以租赁模式投放，不支持直接购买。 据悉，本田CR-V e:FCEV它同时搭载氢燃料电池系统和一块17.7kWh动力电池，支…"
-  },
-  {
-    "id": "科技-快科技-https://news.mydrivers.com/1/1165/1165848.htm",
-    "feed_name": "快科技",
-    "category": "科技",
-    "title": "LPL史上首次一穿四！《英雄联盟》S16决赛BLG 3:1击败GEN夺冠：时隔5年再夺S赛冠军",
-    "link": "https://news.mydrivers.com/1/1165/1165848.htm",
-    "pub_date": "2026-11-15 08:04:53",
-    "author": "",
-    "description": "",
-    "content": "快科技11月15日消息，今日，《英雄联盟》2026全球总决赛冠亚军决赛正式落下帷幕， 中国LPL赛区BLG战队以3:1击败韩国LCK赛区GEN战队，夺得S16全球总决赛冠军，这也是BLG队史首个全球总决赛冠军。 值得关注的是，BLG本届全球总决赛一路过关斩将，先后击败HLE、DK、T1和GEN四支韩国LCK赛区战队，完成史无前例的“一穿四”壮举。 这也让BLG成为首支在单届全球总决赛中连续击败四支LCK战队并最终夺冠的中国LPL战队， 创造了中国赛区新的历史。 与此同时，这也是LPL赛区时隔5年再次夺得《英雄联盟》…"
-  },
-  {
     "id": "科技-极客公园-http://www.geekpark.net/news/373993",
     "feed_name": "极客公园",
     "category": "科技",
@@ -119,61 +570,6 @@ const jsonData = [
     "author": "",
     "description": "曝小米与「AMG 之父」创办的 HWA 秘密合作，希望打造「载入史册」新车 当地时间 11 月 5 日，意媒 Quattroruote 援引不具名知情人士消息称，小米与 HWA 或在秘密合作开发一款超高性能汽车，部分知名零部件供应商也有望参与其中。 双方据称希望打造一款性能前所未有、足以载入汽车史册的车型。新车的具体形式仍未确定，既有可能是全新的旗舰车型，也有可能是小米现有两款车型（SU7/YU7）的极致性能版。 过去几周，多辆采用更激…",
     "content": "曝小米与「AMG 之父」创办的 HWA 秘密合作，希望打造「载入史册」新车 当地时间 11 月 5 日，意媒 Quattroruote 援引不具名知情人士消息称，小米与 HWA 或在秘密合作开发一款超高性能汽车，部分知名零部件供应商也有望参与其中。 双方据称希望打造一款性能前所未有、足以载入汽车史册的车型。新车的具体形式仍未确定，既有可能是全新的旗舰车型，也有可能是小米现有两款车型（SU7/YU7）的极致性能版。 过去几周，多辆采用更激进设计的 SU7 Ultra 测试车现身纽博格林赛道。该媒体分析称，不排除小米已…"
-  },
-  {
-    "id": "科技-IT 之家-https://www.ithome.com/1/027/257.htm",
-    "feed_name": "IT 之家",
-    "category": "科技",
-    "title": "IT早报 1115：SpaceX 首次完成“筷子夹星舰飞船”；百万级 CAR-T 抗癌药首次进医保；古尔曼重申苹果 iPhone 18 明年春发布；比亚迪辟谣收购某数字能源...",
-    "link": "https://www.ithome.com/1/027/257.htm",
-    "pub_date": "2026-11-15 07:55:12",
-    "author": "",
-    "description": "“IT早报”时间，大家好，现在是 2026 年 11 月 15 日星期日，今天的重要科技资讯有： 1. 创造历史：美国 SpaceX 首次实现筷子夹星舰飞船 SpaceX 在星舰第 15 次试飞中首次用发射塔“筷子”机械臂捕获轨道返回的星舰上面级，虽未完全回收整枚火箭，但仍是星舰项目重要里程碑，目前正调查助推器中止着陆的原因。>> 查看详情 2. 配 A20 芯片：古尔曼重申苹果 iPhone 18/18e 明年春季将登场 在最新一期 …",
-    "content": "“IT早报”时间，大家好，现在是 2026 年 11 月 15 日星期日，今天的重要科技资讯有： 1. 创造历史：美国 SpaceX 首次实现筷子夹星舰飞船 SpaceX 在星舰第 15 次试飞中首次用发射塔“筷子”机械臂捕获轨道返回的星舰上面级，虽未完全回收整枚火箭，但仍是星舰项目重要里程碑，目前正调查助推器中止着陆的原因。&gt;&gt; 查看详情 2. 配 A20 芯片：古尔曼重申苹果 iPhone 18/18e 明年春季将登场 在最新一期 Power On 访谈节目中，彭博社的马克 · 古尔曼（Mark G…"
-  },
-  {
-    "id": "科技-快科技-https://news.mydrivers.com/1/1165/1165847.htm",
-    "feed_name": "快科技",
-    "category": "科技",
-    "title": "波及全球！微软多项服务大规模宕机 现已全面恢复",
-    "link": "https://news.mydrivers.com/1/1165/1165847.htm",
-    "pub_date": "2026-11-15 07:41:05",
-    "author": "",
-    "description": "",
-    "content": "快科技11月15日消息， 近日微软旗下Microsoft 365、Outlook、Teams、还有其他应用在全球范围内大规模宕机， 由于持续中断，影响了大批的用户，包括人工智能（AI）企业OpenAI和Anthropic所使用的连接组件。当地时间2026年11月13日星期五，微软确认其服务已全面恢复。 这次故障始于美国东部时间11月12日星期四，问题出现在微软的邮件后端Exchange Online，大约一小时内，Downdetector就记录了来自74个国家和地区的报告，峰值大概有13万条Outlook报告。 微…"
-  },
-  {
-    "id": "科技-IT 之家-https://www.ithome.com/1/027/254.htm",
-    "feed_name": "IT 之家",
-    "category": "科技",
-    "title": "微软 XBOX 商店出现标价 1999 美元的《GTA6》游戏，疑为盒装兑换码占位商品",
-    "link": "https://www.ithome.com/1/027/254.htm",
-    "pub_date": "2026-11-15 07:30:59",
-    "author": "",
-    "description": "IT之家 11 月 15 日消息，近日部分海外玩家发现，微软 XBOX 商店上架了《GTA6》游戏全新版本，标价高达 1,999.99 美元（IT之家注：现汇率约合 13,370 元人民币）。目前该商品已经下架，其离谱的价格可能与实体盒装兑换码的购买流程有关。 从玩家分享的商店截图可以看到，普通消费者在 XBOX 商店选购《GTA6》时，看到的仍然是 79.99 美元（现汇率约合 534.7 元人民币）普通版和 99.99 美元（现汇率…",
-    "content": "IT之家 11 月 15 日消息，近日部分海外玩家发现，微软 XBOX 商店上架了《GTA6》游戏全新版本，标价高达 1,999.99 美元 （IT之家注：现汇率约合 13,370 元人民币） 。目前该商品已经下架， 其离谱的价格可能与实体盒装兑换码的购买流程有关 。 从玩家分享的商店截图可以看到，普通消费者在 XBOX 商店选购《GTA6》时，看到的仍然是 79.99 美元 （现汇率约合 534.7 元人民币） 普通版和 99.99 美元 （现汇率约合 668.4 元人民币） 终极版选项。1,999 美元 （现汇…"
-  },
-  {
-    "id": "科技-IT 之家-https://www.ithome.com/1/027/252.htm",
-    "feed_name": "IT 之家",
-    "category": "科技",
-    "title": "一天暴涨 6 万：请愿恢复黄仁勋英伟达 CEO 职务人数突破 12 万人，马斯克也参与签名",
-    "link": "https://www.ithome.com/1/027/252.htm",
-    "pub_date": "2026-11-15 07:18:00",
-    "author": "",
-    "description": "IT之家 11 月 15 日消息，今年 11 月 12 日，英伟达董事会今日宣布，黄仁勋辞去总裁、首席执行官及董事会成员职务，即刻生效。英伟达执行副总裁兼 CFO 科莱特 · 克雷斯同意出任临时 CEO，在董事会选出正式继任者前兼任这一职务，并继续担任执行副总裁和 CFO。 随后，一个名为“Stand with Jensen”的请愿活动在网上流传开来，要求英伟达董事会恢复黄仁勋的 CEO 职务。截至IT之家发文，该活动已收集超过 12 …",
-    "content": "IT之家 11 月 15 日消息，今年 11 月 12 日，英伟达董事会今日宣布，黄仁勋辞去总裁、首席执行官及董事会成员职务，即刻生效。英伟达执行副总裁兼 CFO 科莱特 · 克雷斯同意出任临时 CEO，在董事会选出正式继任者前兼任这一职务，并继续担任执行副总裁和 CFO。 随后，一个名为“Stand with Jensen”的请愿活动在网上流传开来，要求英伟达董事会恢复黄仁勋的 CEO 职务。截至IT之家发文， 该活动已收集超过 12 万个签名 ， 较昨天增长约 6.3 万人次 。 该网站显示，本次活动的组织者和…"
-  },
-  {
-    "id": "科技-IT 之家-https://www.ithome.com/1/027/251.htm",
-    "feed_name": "IT 之家",
-    "category": "科技",
-    "title": "香港迪士尼乐园票务系统遭入侵，约 1.7 万个门票二维码疑似被盗",
-    "link": "https://www.ithome.com/1/027/251.htm",
-    "pub_date": "2026-11-15 07:12:05",
-    "author": "",
-    "description": "感谢IT之家网友 软媒用户1238620 的线索投递！ IT之家 11 月 15 日消息，据香港电台昨天报道，香港迪士尼乐园近日侦测到公司电脑系统出现异常活动，约 1.7 万个门票二维码疑似被盗取。官方已就此事报警，并即时停止官网乐园门票、预订酒店服务。 IT之家从原报道获悉，香港警方表示，昨日接获某公司报案，指怀疑有网络事件。经初步调查，案件暂时被列入“有犯罪或不诚实意图而取用电脑”，交由大屿山景区重案组跟进，暂未有人被捕。 香港迪士…",
-    "content": "感谢IT之家网友 软媒用户1238620 的线索投递！ IT之家 11 月 15 日消息，据香港电台昨天报道，香港迪士尼乐园近日侦测到公司电脑系统出现异常活动，约 1.7 万个门票二维码疑似被盗取。官方已就此事报警，并即时停止官网乐园门票、预订酒店服务。 IT之家从原报道获悉，香港警方表示，昨日接获某公司报案，指怀疑有网络事件。经初步调查， 案件暂时被列入“有犯罪或不诚实意图而取用电脑” ，交由大屿山景区重案组跟进，暂未有人被捕。 香港迪士尼对此回应称， 公司发现网络事件后已报警 ，并及时采取跟进及防范措施。乐园强…"
   },
   {
     "id": "科技-The Verge-https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
@@ -297,17 +693,6 @@ const jsonData = [
     "content": "DeepSeek 宣布 ，正式开放全家桶应用API：在原有API中开启对应参数，即可获得深度思考搜索、文件输入等对话功能；语音及相关底层能力也已开放独立接口（含 OCR、ASR、TTS 等），支持单独或组合调用。开发者可以在自己的应用中轻松实现复杂的对话功能，甚至1:1复刻出完整的DeepSeek App。 这次更新里，将DeepSeek App的各项交互功能直接整合进原有API。开启对应参数后，相关工具调用与上下文拼接均由服务端自动完成。目前V4.1-Flash 模型（deepseek-flash）已在Messa…"
   },
   {
-    "id": "科技-IT 之家-https://www.ithome.com/1/027/247.htm",
-    "feed_name": "IT 之家",
-    "category": "科技",
-    "title": "马斯克再度力挺黄仁勋：没有他，英伟达将失去部分关键合作",
-    "link": "https://www.ithome.com/1/027/247.htm",
-    "pub_date": "2026-11-14 23:28:14",
-    "author": "",
-    "description": "IT之家 11 月 14 日消息，今天（14 日）晚间，马斯克在 X 平台发文称，随着黄仁勋离任 CEO，英伟达将失去一些至关重要的商业合作。 马斯克称赞黄仁勋在供应链管理方面表现出色，指出英伟达许多交易都是靠黄仁勋与合作方握手达成的，并没有签署书面合同。 紧接着，马斯克又补充说：“如果黄仁勋答应向我交付算力，或者我要求加快零部件供应，他每次都能说到做到。当然，我们之后还是会补上采购订单，但我从来没有怀疑过他会兑现承诺。” 据IT之家了…",
-    "content": "IT之家 11 月 14 日消息，今天（14 日）晚间，马斯克在 X 平台发文称，随着黄仁勋离任 CEO，英伟达将 失去一些至关重要的商业合作 。 马斯克称赞黄仁勋在供应链管理方面表现出色，指出英伟达许多交易都是靠黄仁勋 与合作方握手达成的 ， 并没有签署书面合同 。 紧接着，马斯克又补充说：“如果黄仁勋答应向我交付算力，或者我要求加快零部件供应， 他每次都能说到做到 。当然，我们之后还是会补上采购订单，但我从来没有怀疑过他会兑现承诺。” 据IT之家了解，就在昨天，马斯克发文回应网友关于“ 约 1600 名英伟达员…"
-  },
-  {
     "id": "科技-超能网-http://www.expreview.com/109499.html",
     "feed_name": "超能网",
     "category": "科技",
@@ -341,17 +726,6 @@ const jsonData = [
     "content": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy communi…"
   },
   {
-    "id": "科技-IT 之家-https://www.ithome.com/1/027/241.htm",
-    "feed_name": "IT 之家",
-    "category": "科技",
-    "title": "受空管系统故障影响，11 月 14 日美国仍有超 3300 架次航班被取消",
-    "link": "https://www.ithome.com/1/027/241.htm",
-    "pub_date": "2026-11-14 22:25:29",
-    "author": "",
-    "description": "IT之家 11 月 14 日消息，据央视新闻报道，当地时间 11 月 14 日，航班追踪网站 FlightAware 的数据显示，在 13 日空管系统出现通信故障、导致全美所有飞机停飞后，14 日，美国境内及往返美国的航班已有超过 3300 架次被取消。 截至美国东部时间 14 日 6 时 15 分（IT之家注：北京时间 14 日 19 时 15 分），达美航空已取消当日计划航班的 19%，联合航空取消了 16%，美国航空则取消了 14…",
-    "content": "IT之家 11 月 14 日消息，据央视新闻报道，当地时间 11 月 14 日，航班追踪网站 FlightAware 的数据显示，在 13 日空管系统出现通信故障、导致全美所有飞机停飞后，14 日， 美国境内及往返美国的航班已有超过 3300 架次被取消 。 截至美国东部时间 14 日 6 时 15 分 （IT之家注：北京时间 14 日 19 时 15 分） ，达美航空已取消当日计划航班的 19%，联合航空取消了 16%，美国航空则取消了 14%。 美国联邦航空管理局 13 日发布全美地面停飞令，暂停国内机场航班起…"
-  },
-  {
     "id": "科技-The Verge-https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
     "feed_name": "The Verge",
     "category": "科技",
@@ -372,17 +746,6 @@ const jsonData = [
     "author": "",
     "description": "11 月 13 日，探月与航天工程中心发布通知，天问四号有效载荷研制方案开展征集。天问四号任务将执行环绕木星、环绕木卫四、着陆木卫四三大任务。木卫四或 Callisto 是太阳系第三大卫星，也是木星第二大卫星，仅次于木卫三。木卫四的直径为水星直径的 99%，但是质量只有它的三分之一。木卫四由近乎等量的岩石和水所构成，其表面下 100 公里处可能有一个液态水构成的地下海洋，可能具有孕育生命的基本条件。",
     "content": "11 月 13 日，探月与航天工程中心发布通知，天问四号有效载荷研制方案开展征集。天问四号任务将执行环绕木星、环绕木卫四、着陆木卫四三大任务。木卫四或 Callisto 是太阳系第三大卫星，也是木星第二大卫星，仅次于木卫三。木卫四的直径为水星直径的 99%，但是质量只有它的三分之一。木卫四由近乎等量的岩石和水所构成，其表面下 100 公里处可能有一个液态水构成的地下海洋，可能具有孕育生命的基本条件。"
-  },
-  {
-    "id": "科技-IT 之家-https://www.ithome.com/1/027/239.htm",
-    "feed_name": "IT 之家",
-    "category": "科技",
-    "title": "“像一大群蜜蜂”：亚马逊 Prime Air 送货无人机噪音过大，遭当地居民投诉",
-    "link": "https://www.ithome.com/1/027/239.htm",
-    "pub_date": "2026-11-14 22:09:32",
-    "author": "",
-    "description": "IT之家 11 月 14 日消息，据休斯顿纪事报报道，亚马逊旗下的超快无人机配送服务 Prime Air 曾承诺，无论是午间零食、日用百货还是紧急医疗用品，只要重量在 5 磅（IT之家注：约 2.3 千克）以内，最快都能在 30 分钟内通过空中直送消费者家门口，然而当地居民对该服务并不买账。 在亚马逊开展该项服务的得克萨斯州各社区中，噪音污染已成为居民频繁投诉的焦点。 “刚推出时，这确实挺酷、挺新奇的，但现在简直快把我逼疯了。”当地居民…",
-    "content": "IT之家 11 月 14 日消息，据休斯顿纪事报报道，亚马逊旗下的超快无人机配送服务 Prime Air 曾承诺，无论是午间零食、日用百货还是紧急医疗用品，只要重量在 5 磅 （IT之家注：约 2.3 千克） 以内，最快都能在 30 分钟内通过空中直送消费者家门口，然而当地居民对该服务并不买账。 在亚马逊开展该项服务的得克萨斯州各社区中，噪音污染已成为居民频繁投诉的焦点。 “刚推出时，这确实挺酷、挺新奇的，但现在简直快把我逼疯了。”当地居民表示，“ 这听起来就像一大群蜜蜂在耳边盘旋，音量比普通的蜂群大得多，而且从早…"
   },
   {
     "id": "科技-The Verge-https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
@@ -550,28 +913,6 @@ const jsonData = [
     "content": "英伟达向全体员工发送内部备忘录，创始人兼首席执行官（CEO）黄仁勋承认有婚外情，向妻子、子女、以及英伟达员工道歉，并承担责任并承诺配合调查。随着媒体不断爆出黄仁勋或存在其他婚外情，英伟达 宣布 黄仁勋已经辞去总裁、首席执行官及董事会成员职务，结束33年公司领导生涯。同时现任英伟达执行副总裁兼首席财务官（CFO）Colette Kress已同意担任临时首席执行官，直到确定永久继任者。 据TomsHardware 报道 ，英伟达董事会已经与Arm首席执行官（CEO）Rene Haas接洽，成为了黄仁勋的潜在继任者。有知…"
   },
   {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8205427.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "库克接班，可能真是英伟达的最优解",
-    "link": "https://www.tmtpost.com/8205427.html",
-    "pub_date": "2026-11-14 18:37:06",
-    "author": "",
-    "description": "再找一个黄仁勋很难，先找一个库克呢？",
-    "content": "再找一个黄仁勋很难，先找一个库克呢？"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8205391.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "ADC载荷迭代迈入加速期",
-    "link": "https://www.tmtpost.com/8205391.html",
-    "pub_date": "2026-11-14 18:37:01",
-    "author": "",
-    "description": "从分子竞争到平台比拼。",
-    "content": "从分子竞争到平台比拼。"
-  },
-  {
     "id": "科技-Wired-https://www.wired.com/story/best-pickleball-paddles/",
     "feed_name": "Wired",
     "category": "科技",
@@ -649,61 +990,6 @@ const jsonData = [
     "content": "Here’s how to get your bird and all the trimmings on a budget."
   },
   {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8205459.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "A股一级行业，PS偏离度分布与深潜分析",
-    "link": "https://www.tmtpost.com/8205459.html",
-    "pub_date": "2026-11-14 17:58:58",
-    "author": "",
-    "description": "就结论而言，偏离度剔除了市场整体水位，使行业间的相对贵贱在横截面与时间序列上都可比；但它只衡量相对贵贱，并不回答这份贵贱是否合理——偏离度为正，未必是高估；偏离度为负，也未必是低估。",
-    "content": "就结论而言，偏离度剔除了市场整体水位，使行业间的相对贵贱在横截面与时间序列上都可比；但它只衡量相对贵贱，并不回答这份贵贱是否合理——偏离度为正，未必是高估；偏离度为负，也未必是低估。"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8205450.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "营收增长与PS变化：A股一级行业五年估值位移的经济含义",
-    "link": "https://www.tmtpost.com/8205450.html",
-    "pub_date": "2026-11-14 17:57:36",
-    "author": "",
-    "description": "PS的变化，本质是两条曲线的差。五年合起来看，扩张落在收入与市值两端，利润没有跟上——市值跑赢收入的那一段距离，来自估值水位与收入结构，不是盈利改善。",
-    "content": "PS的变化，本质是两条曲线的差。五年合起来看，扩张落在收入与市值两端，利润没有跟上——市值跑赢收入的那一段距离，来自估值水位与收入结构，不是盈利改善。"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8205442.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "价值判断：跌停板的投资机会和风险提示（11月13日）｜上市公司观察",
-    "link": "https://www.tmtpost.com/8205442.html",
-    "pub_date": "2026-11-14 17:57:13",
-    "author": "",
-    "description": "跌停的构成分三路。一路被隔夜外围直接砸下来：英伟达宣布黄仁勋辞任首席执行官，股价收跌四个多点，元件跌逾八个点、通信设备跌逾六个点，沪电股份、景旺电子、华正新材封死跌停。一路是前期靠机器人概念上来的高位股，襄阳轴承连拉八个板后熄火，尾盘被摁在地板；大业股份的腱绳停在送样，午后同样跌停。第三路是医疗器械的集体走弱，南卫股份跌幅居前。本期三只都是本轮第一根跌停，收盘对济安定价的溢价仍在六成三至近一倍。",
-    "content": "跌停的构成分三路。一路被隔夜外围直接砸下来：英伟达宣布黄仁勋辞任首席执行官，股价收跌四个多点，元件跌逾八个点、通信设备跌逾六个点，沪电股份、景旺电子、华正新材封死跌停。一路是前期靠机器人概念上来的高位股，襄阳轴承连拉八个板后熄火，尾盘被摁在地板；大业股份的腱绳停在送样，午后同样跌停。第三路是医疗器械的集体走弱，南卫股份跌幅居前。本期三只都是本轮第一根跌停，收盘对济安定价的溢价仍在六成三至近一倍。"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8205437.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "价值判断：涨停板的投资机会和风险提示（11月13日）｜上市公司观察",
-    "link": "https://www.tmtpost.com/8205437.html",
-    "pub_date": "2026-11-14 17:57:00",
-    "author": "",
-    "description": "本期五只标的分两头：三只首板、收盘低于济安定价四成四至六成九，分属色纺纱、汽车橡塑与港口机械；两只连板、高于九成五至一倍二，分属汽车胶管与输水管道。",
-    "content": "本期五只标的分两头：三只首板、收盘低于济安定价四成四至六成九，分属色纺纱、汽车橡塑与港口机械；两只连板、高于九成五至一倍二，分属汽车胶管与输水管道。"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8205430.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "美国精英阶层并非学术分歧，而是政治博弈与利益选择",
-    "link": "https://www.tmtpost.com/8205430.html",
-    "pub_date": "2026-11-14 17:56:39",
-    "author": "",
-    "description": "美债问题早已不只是金融学或经济学的学术争论，更是利益分配、政治周期与全球权力博弈交织而成的现实选择。",
-    "content": "美债问题早已不只是金融学或经济学的学术争论，更是利益分配、政治周期与全球权力博弈交织而成的现实选择。"
-  },
-  {
     "id": "科技-超能网-http://www.expreview.com/109495.html",
     "feed_name": "超能网",
     "category": "科技",
@@ -713,39 +999,6 @@ const jsonData = [
     "author": "吕嘉俭",
     "description": "今年7月初，索尼PlayStation宣布，从2028年1月起，所有PlayStation主机上发布的新游戏实体游戏光盘生产将停止，未来新游戏将仅以数字形式在PlayStation商店和零售商处提供。该决定引发了今年游戏界的一大话题，就是有关实体版游戏未来何去何从，成为了厂商、媒体和玩家争论的一个焦点。 据TECHPOWERUP报道，近日Take-Two首席执行官Strauss Zelnick在接受媒体采访时表示，实体版游戏会继续存在，…",
     "content": "今年7月初，索尼PlayStation宣布，从2028年1月起，所有PlayStation主机上发布的新游戏实体游戏光盘生产将停止，未来新游戏将仅以数字形式在PlayStation商店和零售商处提供。该决定引发了今年游戏界的一大话题，就是有关实体版游戏未来何去何从，成为了厂商、媒体和玩家争论的一个焦点。 据TECHPOWERUP 报道 ，近日Take-Two首席执行官Strauss Zelnick在接受媒体采访时表示，实体版游戏会继续存在，不过预计会像黑胶唱片那样，规模缩小到一个较小的细分市场，变得小众。 Take…"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8205404.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "中国越野车，正在打两场不同的仗",
-    "link": "https://www.tmtpost.com/8205404.html",
-    "pub_date": "2026-11-14 17:17:43",
-    "author": "",
-    "description": "在国内，越野车正从少数人的专业爱好走向大众消费；在海外，中国品牌则开始从产品竞争转向体系竞争。",
-    "content": "在国内，越野车正从少数人的专业爱好走向大众消费；在海外，中国品牌则开始从产品竞争转向体系竞争。"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8205248.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "当广告开始被追更：肌肉唐僧唱摇滚，AI改写游戏获客",
-    "link": "https://www.tmtpost.com/8205248.html",
-    "pub_date": "2026-11-14 16:54:00",
-    "author": "",
-    "description": "素材可以量产，好创意却不能一键生成。",
-    "content": "素材可以量产，好创意却不能一键生成。"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8201267.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "字节的2029与腾讯的“一半人”",
-    "link": "https://www.tmtpost.com/8201267.html",
-    "pub_date": "2026-11-14 16:39:41",
-    "author": "",
-    "description": "不管是什么时间，大厂都想为AI“争取时间”。",
-    "content": "不管是什么时间，大厂都想为AI“争取时间”。"
   },
   {
     "id": "科技-果壳网 / 科学人-https://www.guokr.com/article/470706/",
@@ -759,17 +1012,6 @@ const jsonData = [
     "content": "本文转载自微信公众号： 好奇博士实验室（ID：bb2b2bb） 又是一个放假的 好日子 没想到，这种奇怪的发明还真不少 今天就给大家盘点一下—— 一般认为现代跑步机的源头 是 19世纪初的英国 当时工程师威廉·库比特 应他治安官朋友的请求 发明出一种延长的人力踏轮 用来消磨无所事事的囚犯们的时间 这种装置很快在全英国的监狱推广 犯人们一开始觉得很新鲜 监狱官方也报告称 这种装置对犯人们的健康有益 进入20世纪，这种踏轮基本在监狱绝迹了 不过在室内固定地点跑步/爬楼的思路 延续了下来 最终演化成了1952年的 第一台…"
   },
   {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8204575.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "黄仁勋传",
-    "link": "https://www.tmtpost.com/8204575.html",
-    "pub_date": "2026-11-14 15:57:00",
-    "author": "",
-    "description": "黄仁勋事业回顾。",
-    "content": "黄仁勋事业回顾。"
-  },
-  {
     "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6493965.html",
     "feed_name": "人人都是产品经理",
     "category": "科技",
@@ -779,17 +1021,6 @@ const jsonData = [
     "author": "",
     "description": "10月31日 DeepSeek Harness 谈 super-agent，11月13日 Anthropic 写 always-on agents。作者照着后者在开源项目 FanBox 里做了一版，随 2.20.0 发布：agent 停下等你，手机收到它一句话。 一、背景 这篇文章的缘起呢，是最近看到的两篇非常好的关于agent系统设计的文章。 10月31日，DeepSeek Harness团队发了一篇《Super-agent设计探索：…",
     "content": "10月31日 DeepSeek Harness 谈 super-agent，11月13日 Anthropic 写 always-on agents。作者照着后者在开源项目 FanBox 里做了一版，随 2.20.0 发布：agent 停下等你，手机收到它一句话。 一、背景 这篇文章的缘起呢，是最近看到的两篇非常好的关于agent系统设计的文章。 10月31日，DeepSeek Harness团队发了一篇《Super-agent设计探索：迈向更自主的Agent系统》。11月13日，Anthropic发了一篇Build…"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8205255.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "开始“纯过日子”，双11年轻人不再“包装”自己的生活",
-    "link": "https://www.tmtpost.com/8205255.html",
-    "pub_date": "2026-11-14 15:30:00",
-    "author": "",
-    "description": "双11的第十八年，年轻人交出了算盘。",
-    "content": "双11的第十八年，年轻人交出了算盘。"
   },
   {
     "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6493967.html",
@@ -803,17 +1034,6 @@ const jsonData = [
     "content": "MiniMax H3 Image 发布当天开源，10 秒出 4K，Mcode 与 API 都能直接调。作者烧掉 5 万积分，按分镜与解构爆炸图、3A 游戏与动漫资产、超长文本排版、跨风格融合四类跑了 12 组实测，每组附提示语。 就这两天，GoodCase突然一股脑涌进来几十条AI生图的高赞投稿， 我一开始还在想大家是不是又拿哪个模型琢磨出什么新玩法，想点进去看看能不能打包成skill。 里面不仅有复古网页捏人界面，严丝合缝的机甲三视图线稿，带完整UI的GTA暴雨实机，细节拉满的3A蒸汽朋克立体城邦，游戏手柄机械拆…"
   },
   {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8205240.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "愿望单17万，国产独游又出了款冷门黑马",
-    "link": "https://www.tmtpost.com/8205240.html",
-    "pub_date": "2026-11-14 15:26:00",
-    "author": "",
-    "description": "把美丽而无用的东西，做成让人上头的游戏。",
-    "content": "把美丽而无用的东西，做成让人上头的游戏。"
-  },
-  {
     "id": "科技-人人都是产品经理-https://www.woshipm.com/evaluating/6493070.html",
     "feed_name": "人人都是产品经理",
     "category": "科技",
@@ -823,39 +1043,6 @@ const jsonData = [
     "author": "",
     "description": "有的 App 想刷 TikTok 必须先赢一局小游戏，有的要用摄像头识别深蹲动作才能打怪。今天整理了 8 款独立开发者的小产品，功能都很简单，却都带着一点原来还可以这样玩的巧思。 我经常会刷到一些很“小众”，或者很“匪夷所思”的 App，今天整理了几个我觉得还挺有趣的小产品，分享给大家。 这些 App 中，有些功能非常简单，但却能让人产生一种“原来还可以这样玩”的感觉。 比如有个 App，你想刷 TikTok，必须先赢一局小游戏；还有一…",
     "content": "有的 App 想刷 TikTok 必须先赢一局小游戏，有的要用摄像头识别深蹲动作才能打怪。今天整理了 8 款独立开发者的小产品，功能都很简单，却都带着一点原来还可以这样玩的巧思。 我经常会刷到一些很“小众”，或者很“匪夷所思”的 App，今天整理了几个我觉得还挺有趣的小产品，分享给大家。 这些 App 中，有些功能非常简单，但却能让人产生一种“原来还可以这样玩”的感觉。 比如有个 App，你想刷 TikTok，必须先赢一局小游戏；还有一个产品，会在一天里随机问你几次正在干什么，第二天再告诉你，昨天的时间都花到哪里去…"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8205239.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "AI时代，公司越来越扁平，也越来越官僚",
-    "link": "https://www.tmtpost.com/8205239.html",
-    "pub_date": "2026-11-14 15:21:00",
-    "author": "",
-    "description": "未来最有活力的公司，也许不是每件事都管得最细的公司，而是有人敢说：这条规则，该改了。",
-    "content": "未来最有活力的公司，也许不是每件事都管得最细的公司，而是有人敢说：这条规则，该改了。"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8205220.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "特斯拉和SpaceX最快12月合并？没那么简单，还有3.47万亿美元卡在弃权票上",
-    "link": "https://www.tmtpost.com/8205220.html",
-    "pub_date": "2026-11-14 15:13:00",
-    "author": "",
-    "description": "SpaceX 与特斯拉推进全股票合并谈判，面临股东表决、多国监管等多重不确定性。",
-    "content": "SpaceX 与特斯拉推进全股票合并谈判，面临股东表决、多国监管等多重不确定性。"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8205215.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "国能卖壳，宝丰接盘，英力特这笔交易赌的不是光伏，是出清期的生存权",
-    "link": "https://www.tmtpost.com/8205215.html",
-    "pub_date": "2026-11-14 15:08:00",
-    "author": "",
-    "description": "国能出清亏损英力特，宝丰接壳注入光伏谋新融资平台。",
-    "content": "国能出清亏损英力特，宝丰接壳注入光伏谋新融资平台。"
   },
   {
     "id": "科技-InfoQ 中文-https://www.infoq.cn/article/XrW1cdg9NFRkemvqLiZc",
@@ -1298,17 +1485,6 @@ const jsonData = [
     "content": "2026年7月，微信AI公布Hidden Decoding，让已有大模型通过增加内部计算继续提升能力。作者名单里，2022年WeLM的几位老成员与近年加入的研究者并肩出现，一条跨越四年的研究线由此清晰起来。 2026年7月，微信AI公布Hidden Decoding，尝试让已有大模型通过增加内部计算继续提升能力。作者名单里，几位参与2022年WeLM的老成员，与近年加入的研究者并肩出现。 周霄、余厚金、陈昱文和杨宇的名字横跨两篇论文，新的经历也在汇入。刘瑷玮从清华来到微信，参与模型架构与预训练；王锡淮带着多智能体强…"
   },
   {
-    "id": "科技-The Verge-https://www.theverge.com/news/1033489/faa-ground-stop",
-    "feed_name": "The Verge",
-    "category": "科技",
-    "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-    "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
-    "pub_date": "2026-11-14 09:53:04",
-    "author": "Richard Lawler",
-    "description": "A view of an information board at the Chicago O'Hare International Airport, filled with waiting passengers on November 13, 2026. Photo by Jacek Boczarski/Anadolu via Getty Images) | Anadolu via Getty Images Takeoffs from…",
-    "content": "A view of an information board at the Chicago O'Hare International Airport, filled with waiting passengers on November 13, 2026. Photo by Jacek Boczarski/Anadolu via Getty Images) | Anadolu via Getty Images Takeoffs from airports throughout the US largely stop…"
-  },
-  {
     "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6493680.html",
     "feed_name": "人人都是产品经理",
     "category": "科技",
@@ -1582,182 +1758,6 @@ const jsonData = [
     "author": "",
     "description": "Countless businesses, schools, hospitals, and governments have found out the hard way what it means to rely on a single company’s systems to get things done. And next time could be even worse.",
     "content": "Countless businesses, schools, hospitals, and governments have found out the hard way what it means to rely on a single company’s systems to get things done. And next time could be even worse."
-  },
-  {
-    "id": "科技-Solidot-https://www.solidot.org/story?sid=85883",
-    "feed_name": "Solidot",
-    "category": "科技",
-    "title": "旅行者 1 号距离地球的距离达到一光日",
-    "link": "https://www.solidot.org/story?sid=85883",
-    "pub_date": "2026-11-14 01:14:47",
-    "author": "",
-    "description": "北京时间 11 月 18 日 18 时 16 分 07 秒，旅行者 1 号与地球的距离将达到约 259 亿公里，相当于光在真空中传播 24 小时的距离，也就是“一光日”。如果将一光年划分为 365 个刻度，每格代表一个光日，那么 1977 年 9 月 5 日启程的旅行者 1 号，经过近半个世纪的飞行，终于抵达了第一格。今年 10 月，旅行者 1 号曾经历一场短暂的通信中断。NASA JPL 称，18 日和 19 日，NASA 深空网络连…",
-    "content": "北京时间 11 月 18 日 18 时 16 分 07 秒，旅行者 1 号与地球的距离将达到约 259 亿公里，相当于光在真空中传播 24 小时的距离，也就是“一光日”。如果将一光年划分为 365 个刻度，每格代表一个光日，那么 1977 年 9 月 5 日启程的旅行者 1 号，经过近半个世纪的飞行，终于抵达了第一格。今年 10 月，旅行者 1 号曾经历一场短暂的通信中断。NASA JPL 称，18 日和 19 日，NASA 深空网络连续两次未能收到探测器预期发出的信号。直到 20 日，信号才重新出现，异常原因仍在…"
-  },
-  {
-    "id": "科技-Solidot-https://www.solidot.org/story?sid=85882",
-    "feed_name": "Solidot",
-    "category": "科技",
-    "title": "非洲加速发展太阳能",
-    "link": "https://www.solidot.org/story?sid=85882",
-    "pub_date": "2026-11-14 01:07:22",
-    "author": "",
-    "description": "在津巴布韦首都哈拉雷（Harare）的一个工业区，如果想要寻找一个新的发电项目，你需要抬起头。Limpopo Way Power 太阳能发电站没有传统的独立厂区，而是将一排排太阳能电池板铺在两座仓库的屋顶上，它通过协议向工厂供电。在非洲和亚洲的很多地区，太阳能革命随处可见。能源智库 Ember 的报告预测，2026 年非洲太阳能新增装机量有望达到 17 GW，同比增长 45%。报告作者之一的 African Tech Futures L…",
-    "content": "在津巴布韦首都哈拉雷（Harare）的一个工业区，如果想要寻找一个新的发电项目，你需要抬起头。Limpopo Way Power 太阳能发电站没有传统的独立厂区，而是将一排排太阳能电池板铺在两座仓库的屋顶上，它通过协议向工厂供电。在非洲和亚洲的很多地区，太阳能革命随处可见。能源智库 Ember 的报告预测，2026 年非洲太阳能新增装机量有望达到 17 GW，同比增长 45%。报告作者之一的 African Tech Futures Lab 研究总监 Joel Nana 表示，我们正见证一场自下而上的革命。多种因素…"
-  },
-  {
-    "id": "科技-雷峰网-https://www.leiphone.com/category/ai/lpK3LQWqmpZP8jcG.html",
-    "feed_name": "雷峰网",
-    "category": "科技",
-    "title": "浙大彭思达：从元宇宙到具身智能，一个三维视觉研究者的八年 | 世界模型50人",
-    "link": "https://www.leiphone.com/category/ai/lpK3LQWqmpZP8jcG.html",
-    "pub_date": "2026-11-14 00:50:00",
-    "author": "",
-    "description": "导语：八年研究，两个落地系统，超六万GitHub Stars。 八年研究，两个落地系统，超六万GitHub Stars。 作者丨李秋悦 编辑丨吴 彤 一支女团跳舞，镜头不必再听导演安排，观众甚至能看到拍摄时不存在的机位。 传统MV拍摄，摄影机架在哪里，观众看到的就是哪个角度。现在用多台摄像机同时记录舞者动作，再重建出一个三维动态场景，镜头可以任意调换位置；从队形正面绕到侧面，穿过舞者之间，甚至换一个从未真正架设过的机位，重新观看刚才的表…",
-    "content": "导语：八年研究，两个落地系统，超六万GitHub Stars。 八年研究，两个落地系统，超六万GitHub Stars。 &nbsp; &nbsp; 作者丨 李秋悦 &nbsp; &nbsp; 编辑丨 吴 &nbsp; 彤 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &…"
-  },
-  {
-    "id": "科技-Ars Technica-https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
-    "feed_name": "Ars Technica",
-    "category": "科技",
-    "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
-    "link": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
-    "pub_date": "2026-11-14 00:26:32",
-    "author": "",
-    "description": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
-    "content": "\"SignDrop\" exploit lets local users gain all-powerful System rights."
-  },
-  {
-    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-    "feed_name": "TechCrunch",
-    "category": "科技",
-    "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-    "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-    "pub_date": "2026-11-14 00:00:12",
-    "author": "",
-    "description": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-    "content": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers."
-  },
-  {
-    "id": "科技-Wired-https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
-    "feed_name": "Wired",
-    "category": "科技",
-    "title": "Jensen Huang and the End of the Founder Fairy Tale",
-    "link": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
-    "pub_date": "2026-11-14 00:00:00",
-    "author": "",
-    "description": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
-    "content": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals."
-  },
-  {
-    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "feed_name": "TechCrunch",
-    "category": "科技",
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "pub_date": "2026-11-13 23:58:00",
-    "author": "",
-    "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-    "content": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
-  },
-  {
-    "id": "科技-爱范儿-https://www.ifanr.com/1689409?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "feed_name": "爱范儿",
-    "category": "科技",
-    "title": "iPhone 20 爆料汇总：一整块玻璃，藏着苹果下一个十年",
-    "link": "https://www.ifanr.com/1689409?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "pub_date": "2026-11-13 23:44:48",
-    "author": "",
-    "description": "iPhone 20 会是一台伟大的产品吗？ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-    "content": "iPhone 20 会是一台伟大的产品吗？ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
-  },
-  {
-    "id": "科技-Ars Technica-https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
-    "feed_name": "Ars Technica",
-    "category": "科技",
-    "title": "Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says",
-    "link": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
-    "pub_date": "2026-11-13 23:26:53",
-    "author": "",
-    "description": "Governments, hospitals, courts scrambled by global Microsoft outage.",
-    "content": "Governments, hospitals, courts scrambled by global Microsoft outage."
-  },
-  {
-    "id": "科技-Ars Technica-https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/",
-    "feed_name": "Ars Technica",
-    "category": "科技",
-    "title": "It's the end of the world as we know it, per a physicist's 1960 prediction",
-    "link": "https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/",
-    "pub_date": "2026-11-13 23:09:39",
-    "author": "",
-    "description": "Heinz von Foerster thought population would grow exponentially and \"squeeze\" us all to death.",
-    "content": "Heinz von Foerster thought population would grow exponentially and \"squeeze\" us all to death."
-  },
-  {
-    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
-    "feed_name": "TechCrunch",
-    "category": "科技",
-    "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
-    "link": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
-    "pub_date": "2026-11-13 22:57:55",
-    "author": "",
-    "description": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
-    "content": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident."
-  },
-  {
-    "id": "科技-Ars Technica-https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas/",
-    "feed_name": "Ars Technica",
-    "category": "科技",
-    "title": "Screenless GPS: Slate Auto says, \"Remember the road atlas\"",
-    "link": "https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas/",
-    "pub_date": "2026-11-13 22:45:04",
-    "author": "",
-    "description": "What’s more fitting than a spiral-bound map for a bare-bones two-door pickup?",
-    "content": "What’s more fitting than a spiral-bound map for a bare-bones two-door pickup?"
-  },
-  {
-    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
-    "feed_name": "TechCrunch",
-    "category": "科技",
-    "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
-    "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
-    "pub_date": "2026-11-13 22:44:48",
-    "author": "",
-    "description": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
-    "content": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises."
-  },
-  {
-    "id": "科技-Ars Technica-https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/",
-    "feed_name": "Ars Technica",
-    "category": "科技",
-    "title": "Scientists warn 1.5°C climate change threshold could arrive by 2029",
-    "link": "https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/",
-    "pub_date": "2026-11-13 22:29:15",
-    "author": "",
-    "description": "Climate action has stalled for five years as fossil fuel development keeps growing.",
-    "content": "Climate action has stalled for five years as fossil fuel development keeps growing."
-  },
-  {
-    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
-    "feed_name": "TechCrunch",
-    "category": "科技",
-    "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
-    "link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
-    "pub_date": "2026-11-13 21:15:20",
-    "author": "",
-    "description": "Microsoft's daylong outage began with Outlook and Teams and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
-    "content": "Microsoft's daylong outage began with Outlook and Teams and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service."
-  },
-  {
-    "id": "科技-MIT Technology Review-https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
-    "feed_name": "MIT Technology Review",
-    "category": "科技",
-    "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
-    "link": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
-    "pub_date": "2026-11-13 21:10:00",
-    "author": "",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong?…",
-    "content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech commu…"
   }
 ];
 

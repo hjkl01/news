@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-11-15T02:20:08.067Z",
-  "ended_at": "2026-11-15T02:20:08.283Z",
-  "duration_ms": 216,
+  "started_at": "2026-11-15T13:13:54.789Z",
+  "ended_at": "2026-11-15T13:13:55.017Z",
+  "duration_ms": 228,
   "config": {
     "concurrency": 16,
     "cache_enabled": true,
@@ -17,28 +17,16 @@
   "summary": {
     "total_sources": 62,
     "fetched_sources": 0,
-    "cache_hit_sources": 59,
-    "failed_sources": 3,
-    "circuit_open_sources": 3,
+    "cache_hit_sources": 61,
+    "failed_sources": 1,
+    "circuit_open_sources": 1,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1594,
-    "total_items_after_retention": 1367,
+    "total_items_after_dedupe": 1658,
+    "total_items_after_retention": 1430,
     "build_blocked": false
   },
   "critical_failures": [],
   "failures": [
-    {
-      "title": "澎湃新闻",
-      "url": "https://plink.anyfeeder.com/thepaper",
-      "reason": "The operation was aborted.",
-      "skippedByCircuit": true
-    },
-    {
-      "title": "BBC 中文版",
-      "url": "https://plink.anyfeeder.com/bbc/cn",
-      "reason": "HTTP 503",
-      "skippedByCircuit": true
-    },
     {
       "title": "机器之心",
       "url": "https://www.jiqizhixin.com/rss",
@@ -47,16 +35,6 @@
     }
   ],
   "circuit_open": [
-    {
-      "title": "澎湃新闻",
-      "url": "https://plink.anyfeeder.com/thepaper",
-      "reason": "The operation was aborted."
-    },
-    {
-      "title": "BBC 中文版",
-      "url": "https://plink.anyfeeder.com/bbc/cn",
-      "reason": "HTTP 503"
-    },
     {
       "title": "机器之心",
       "url": "https://www.jiqizhixin.com/rss",
