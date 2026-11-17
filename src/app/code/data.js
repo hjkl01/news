@@ -1,12 +1,441 @@
 const jsonData = [
   {
-    "id": "技术-Lobsters-https://linebender.org/wiki/curves/squircle/",
+    "id": "技术-Hacker News-https://support.apple.com/en-us/149699",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+    "link": "https://support.apple.com/en-us/149699",
+    "pub_date": "2026-11-17 10:17:04",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://get.mem.ai/blog/mem-is-shutting-down",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Mem Is Shutting Down",
+    "link": "https://get.mem.ai/blog/mem-is-shutting-down",
+    "pub_date": "2026-11-17 10:13:41",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://blog.antonio.cx/running-agents-with-lend",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Running coding agents without handing them my credentials",
+    "link": "https://blog.antonio.cx/running-agents-with-lend",
+    "pub_date": "2026-11-17 09:18:56",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Pentagon fails ninth straight audit despite progress in organizing finances",
+    "link": "https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/",
+    "pub_date": "2026-11-17 08:23:21",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://twitter.com/id_aa_carmack/status/2122478083319992513",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Why 3dfx 1 cards had such a washed out color output?",
+    "link": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
+    "pub_date": "2026-11-17 08:16:24",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://github.com/0nelight/sutra-os",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Show HN: Sutra-OS – A self-hosted ontology platform",
+    "link": "https://github.com/0nelight/sutra-os",
+    "pub_date": "2026-11-17 07:25:41",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Optimizely compromised, served malware on Zoom, GitLab",
+    "link": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+    "pub_date": "2026-11-17 07:00:34",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+    "link": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+    "pub_date": "2026-11-17 06:58:20",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Lobsters-https://garyodernichts.blogspot.com/2026/11/improving-wii-us-wii-mode.html",
     "feed_name": "Lobsters",
     "category": "技术",
-    "title": "Squircles",
-    "link": "https://linebender.org/wiki/curves/squircle/",
-    "pub_date": "2026-11-16 21:56:54",
-    "author": "linebender.org via pushcx",
+    "title": "Improving the Wii U's Wii Mode",
+    "link": "https://garyodernichts.blogspot.com/2026/11/improving-wii-us-wii-mode.html",
+    "pub_date": "2026-11-17 06:39:54",
+    "author": "garyodernichts.blogspot.com via calvin",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Lobsters-https://lobste.rs/s/ki1l5r/proof_use_as_requirement_for_open_source",
+    "feed_name": "Lobsters",
+    "category": "技术",
+    "title": "\"Proof of use\" as a requirement for open source contributions?",
+    "link": "https://lobste.rs/s/ki1l5r/proof_use_as_requirement_for_open_source",
+    "pub_date": "2026-11-17 06:25:45",
+    "author": " by twp",
+    "description": "As an open source maintainer, I get a lot of AI slop PRs. Some of these have genuine value. Most address edge cases that almost never occur in real life. It's not that they're not fixing real problems, it's that they're …",
+    "content": "As an open source maintainer, I get a lot of AI slop PRs. Some of these have genuine value. Most address edge cases that almost never occur in real life. It's not that they're not fixing real problems, it's that they're fixing problems that nobody is ever like…"
+  },
+  {
+    "id": "技术-Hacker News-https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "How to Break into Security, Ptacek Edition (2012)",
+    "link": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
+    "pub_date": "2026-11-17 06:19:23",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://www.cnn.com/2026/11/16/us/united-airlines-outage",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "United Airlines experiencing a widespread system outage, airline says",
+    "link": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
+    "pub_date": "2026-11-17 06:14:38",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Lobsters-https://www.youtube.com/watch?v=op51SyyPJmw",
+    "feed_name": "Lobsters",
+    "category": "技术",
+    "title": "Safe Systems-programming with Mutable Value Semantics | Dave Abrahams",
+    "link": "https://www.youtube.com/watch?v=op51SyyPJmw",
+    "pub_date": "2026-11-17 06:13:03",
+    "author": "youtube.com via trousers",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://www.spamhaus.org/sender-guidelines/",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Spamhaus new email sender requirements in November",
+    "link": "https://www.spamhaus.org/sender-guidelines/",
+    "pub_date": "2026-11-17 05:47:19",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://www.bugmenot.com/",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "BugMeNot has closed",
+    "link": "https://www.bugmenot.com/",
+    "pub_date": "2026-11-17 05:32:17",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://opencode.ai/product/browse",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "OpenCode Browse",
+    "link": "https://opencode.ai/product/browse",
+    "pub_date": "2026-11-17 05:20:37",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "My Quest to push native Three.js quality match AAA Game Engines",
+    "link": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
+    "pub_date": "2026-11-17 05:07:43",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
+    "link": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+    "pub_date": "2026-11-17 04:48:08",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://www.cs.cmu.edu/learn/",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+    "link": "https://www.cs.cmu.edu/learn/",
+    "pub_date": "2026-11-17 04:43:36",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://news.ycombinator.com/item?id=50522776",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+    "link": "https://news.ycombinator.com/item?id=50522776",
+    "pub_date": "2026-11-17 04:29:48",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Chemistry is Actually Geometry",
+    "link": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+    "pub_date": "2026-11-17 04:22:18",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://blog.startifact.com/posts/how-rust-changed-me/",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Rust changed me as a developer",
+    "link": "https://blog.startifact.com/posts/how-rust-changed-me/",
+    "pub_date": "2026-11-17 04:16:50",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Lobsters-https://yashgarg.dev/posts/where-did-the-ack-go/",
+    "feed_name": "Lobsters",
+    "category": "技术",
+    "title": "Where did the ACK go?",
+    "link": "https://yashgarg.dev/posts/where-did-the-ack-go/",
+    "pub_date": "2026-11-17 03:19:20",
+    "author": "yashgarg.dev by yashgarg",
+    "description": "Breaking things with JioFiber, SIP and Asterisk. Comments",
+    "content": "Breaking things with JioFiber, SIP and Asterisk. Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+    "link": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+    "pub_date": "2026-11-17 02:31:30",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Lobsters-https://blog.startifact.com/posts/how-rust-changed-me/",
+    "feed_name": "Lobsters",
+    "category": "技术",
+    "title": "How Rust Changed Me As A Developer",
+    "link": "https://blog.startifact.com/posts/how-rust-changed-me/",
+    "pub_date": "2026-11-17 02:17:29",
+    "author": "blog.startifact.com by faassen",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Lobsters-https://www.prux.org/posts/goodbye-swift-hello-rust/",
+    "feed_name": "Lobsters",
+    "category": "技术",
+    "title": "On Leaving Swift for Rust",
+    "link": "https://www.prux.org/posts/goodbye-swift-hello-rust/",
+    "pub_date": "2026-11-17 01:56:45",
+    "author": "prux.org by marcprux",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://www.harmonic.fun/news/aristotle-rust-verification/",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Aristotle Expands into Rust",
+    "link": "https://www.harmonic.fun/news/aristotle-rust-verification/",
+    "pub_date": "2026-11-17 01:34:41",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Grazing sheep in fields with solar arrays",
+    "link": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+    "pub_date": "2026-11-17 01:27:46",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://burntsushi.net/jiff/",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Jiff 1.0: A datetime library for Rust",
+    "link": "https://burntsushi.net/jiff/",
+    "pub_date": "2026-11-17 00:53:39",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Lobsters-https://michael.bacarella.com/2026/11/16/janet-reno-vs-my-friend-coolio/",
+    "feed_name": "Lobsters",
+    "category": "技术",
+    "title": "Janet Reno was talking about my friend Coolio (computer criminal)",
+    "link": "https://michael.bacarella.com/2026/11/16/janet-reno-vs-my-friend-coolio/",
+    "pub_date": "2026-11-17 00:43:58",
+    "author": "michael.bacarella.com by scanner_brightly",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Lobsters-https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-1/",
+    "feed_name": "Lobsters",
+    "category": "技术",
+    "title": "Quality IMAP, Part 1: Your Mailbox Is A Database",
+    "link": "https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-1/",
+    "pub_date": "2026-11-17 00:25:38",
+    "author": "aerogramme.deuxfleurs.fr via gasche",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://trmnl.com/blog/introducing-frame",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Frame – 31.5\" color ePaper display",
+    "link": "https://trmnl.com/blog/introducing-frame",
+    "pub_date": "2026-11-17 00:23:22",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-十年之约-https://www.foreverblog.cn/daily/read/44/163037/rss",
+    "feed_name": "十年之约",
+    "category": "技术",
+    "title": "Thanks，广州",
+    "link": "https://www.foreverblog.cn/daily/read/44/163037/rss",
+    "pub_date": "2026-11-17 00:00:32",
+    "author": "",
+    "description": "编辑推荐：四个人在观绿茶居吃了一百出头，炸芋角和鸭脚扎都是大店吃不到的做法。 原文：“很少的动物表演，动物们也是想上班就上，不想上就闭门谢客睡觉，精神状态很美。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-17.html",
+    "content": "编辑推荐：四个人在观绿茶居吃了一百出头，炸芋角和鸭脚扎都是大店吃不到的做法。 原文：“很少的动物表演，动物们也是想上班就上，不想上就闭门谢客睡觉，精神状态很美。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-17.html"
+  },
+  {
+    "id": "技术-十年之约-https://www.foreverblog.cn/daily/read/44/162982/rss",
+    "feed_name": "十年之约",
+    "category": "技术",
+    "title": "一个人住以后，连洗衣服都得从头学",
+    "link": "https://www.foreverblog.cn/daily/read/44/162982/rss",
+    "pub_date": "2026-11-17 00:00:32",
+    "author": "",
+    "description": "编辑推荐：第一次用滚筒洗衣机，找不到放洗衣粉的槽，拍照片问豆包，蹲下拉开抽屉才找到，倒洗衣液时手还抖。 原文：“我蹲在旁边看，玻璃门里慢慢起了一层水雾，衣服在里面翻了个个儿。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-17.html",
+    "content": "编辑推荐：第一次用滚筒洗衣机，找不到放洗衣粉的槽，拍照片问豆包，蹲下拉开抽屉才找到，倒洗衣液时手还抖。 原文：“我蹲在旁边看，玻璃门里慢慢起了一层水雾，衣服在里面翻了个个儿。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-17.html"
+  },
+  {
+    "id": "技术-十年之约-https://www.foreverblog.cn/daily/read/44/163123/rss",
+    "feed_name": "十年之约",
+    "category": "技术",
+    "title": "为什么人们不因桌椅凌乱而困扰",
+    "link": "https://www.foreverblog.cn/daily/read/44/163123/rss",
+    "pub_date": "2026-11-17 00:00:32",
+    "author": "",
+    "description": "编辑推荐：客人拍完照把书和椅子丢在原处，作者从南北差异想到咖啡馆成了不用交流的地方。 原文：“碰上客人多的时候，几乎每个桌上都有书、每个座椅都离原来的位置差出三四米去。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-17.html",
+    "content": "编辑推荐：客人拍完照把书和椅子丢在原处，作者从南北差异想到咖啡馆成了不用交流的地方。 原文：“碰上客人多的时候，几乎每个桌上都有书、每个座椅都离原来的位置差出三四米去。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-17.html"
+  },
+  {
+    "id": "技术-十年之约-https://www.foreverblog.cn/daily/read/44/163014/rss",
+    "feed_name": "十年之约",
+    "category": "技术",
+    "title": "中年人学古琴（一）",
+    "link": "https://www.foreverblog.cn/daily/read/44/163014/rss",
+    "pub_date": "2026-11-17 00:00:32",
+    "author": "",
+    "description": "编辑推荐：四十多岁开始学古琴，第一周只练挑和勾两个指法，指甲根碰弦疼，中指第一关节会折。 原文：“每天基本练十五分钟到半小时，经过一周的练习，挑和勾基本能顺序弹下来” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-17.html",
+    "content": "编辑推荐：四十多岁开始学古琴，第一周只练挑和勾两个指法，指甲根碰弦疼，中指第一关节会折。 原文：“每天基本练十五分钟到半小时，经过一周的练习，挑和勾基本能顺序弹下来” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-17.html"
+  },
+  {
+    "id": "技术-十年之约-https://www.foreverblog.cn/daily/read/44/163049/rss",
+    "feed_name": "十年之约",
+    "category": "技术",
+    "title": "2026 关西八日游下篇",
+    "link": "https://www.foreverblog.cn/daily/read/44/163049/rss",
+    "pub_date": "2026-11-17 00:00:32",
+    "author": "",
+    "description": "编辑推荐：在竹田站低头研究换乘路线，对面列车就关门开走了，只好抓个戴耳机的小哥问路，对方掏出手机帮忙查下一班。 原文：“门口的工作人员盯着手表一秒一秒地倒数，时间一到才准时放行” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-17.html",
+    "content": "编辑推荐：在竹田站低头研究换乘路线，对面列车就关门开走了，只好抓个戴耳机的小哥问路，对方掏出手机帮忙查下一班。 原文：“门口的工作人员盯着手表一秒一秒地倒数，时间一到才准时放行” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-17.html"
+  },
+  {
+    "id": "技术-Lobsters-https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/",
+    "feed_name": "Lobsters",
+    "category": "技术",
+    "title": "Enabling the parallel frontend on nightly",
+    "link": "https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/",
+    "pub_date": "2026-11-16 23:22:38",
+    "author": "blog.rust-lang.org via fanf",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Lobsters-https://blog.feld.me/posts/2026/11/local-mirror-for-freebsd-pkgbase/",
+    "feed_name": "Lobsters",
+    "category": "技术",
+    "title": "Local Mirror for FreeBSD pkgbase",
+    "link": "https://blog.feld.me/posts/2026/11/local-mirror-for-freebsd-pkgbase/",
+    "pub_date": "2026-11-16 22:47:48",
+    "author": "blog.feld.me via fanf",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+    "link": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+    "pub_date": "2026-11-16 21:18:22",
+    "author": "",
     "description": "Comments",
     "content": "Comments"
   },
@@ -44,23 +473,12 @@ const jsonData = [
     "content": "Comments"
   },
   {
-    "id": "技术-Lobsters-https://picolisp.com/wiki/?tpc-h",
-    "feed_name": "Lobsters",
-    "category": "技术",
-    "title": "TPC-H Benchmark in PicoLisp DB",
-    "link": "https://picolisp.com/wiki/?tpc-h",
-    "pub_date": "2026-11-16 20:43:56",
-    "author": "picolisp.com via tankf33der",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+    "id": "技术-Hacker News-https://arcentry.com/blog/do-repeat-yourself/",
     "feed_name": "Hacker News",
     "category": "技术",
-    "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
-    "link": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
-    "pub_date": "2026-11-16 19:39:31",
+    "title": "Do Repeat Yourself",
+    "link": "https://arcentry.com/blog/do-repeat-yourself/",
+    "pub_date": "2026-11-16 20:06:46",
     "author": "",
     "description": "Comments",
     "content": "Comments"
@@ -88,28 +506,6 @@ const jsonData = [
     "content": "What are you doing this week? Feel free to share! Keep in mind it’s OK to do nothing at all, too."
   },
   {
-    "id": "技术-Hacker News-https://www.monirbounadi.com/Bounadi_JMP.pdf",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Coffeehouses and the Rise of Science [pdf]",
-    "link": "https://www.monirbounadi.com/Bounadi_JMP.pdf",
-    "pub_date": "2026-11-16 19:03:16",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://s2.dev/blog/dns-server",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "It's always DNS, so why are we running our own?",
-    "link": "https://s2.dev/blog/dns-server",
-    "pub_date": "2026-11-16 17:19:38",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
     "id": "技术-Lobsters-https://ingrids.space/posts/you-wont-win-at-copyright/",
     "feed_name": "Lobsters",
     "category": "技术",
@@ -121,34 +517,12 @@ const jsonData = [
     "content": "Comments"
   },
   {
-    "id": "技术-Hacker News-https://github.com/ages2001/WINUDF",
+    "id": "技术-Hacker News-https://linebender.org/wiki/curves/squircle/",
     "feed_name": "Hacker News",
     "category": "技术",
-    "title": "Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME",
-    "link": "https://github.com/ages2001/WINUDF",
-    "pub_date": "2026-11-16 16:00:13",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://worksinprogress.co/issue/the-future-of-war/",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "How Should Armies Fight?",
-    "link": "https://worksinprogress.co/issue/the-future-of-war/",
-    "pub_date": "2026-11-16 15:57:40",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "“…and the proof is checked in Lean”",
-    "link": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
-    "pub_date": "2026-11-16 15:38:19",
+    "title": "Squircles",
+    "link": "https://linebender.org/wiki/curves/squircle/",
+    "pub_date": "2026-11-16 15:55:10",
     "author": "",
     "description": "Comments",
     "content": "Comments"
@@ -164,13 +538,24 @@ const jsonData = [
     "content": ""
   },
   {
-    "id": "技术-Hacker News-https://pub.cba.mit.edu/863.26/site/",
+    "id": "技术-Hacker News-https://www.armscontrolwonk.com/archive/201309/atomic-nuked-veteran/",
     "feed_name": "Hacker News",
     "category": "技术",
-    "title": "How to make almost anything",
-    "link": "https://pub.cba.mit.edu/863.26/site/",
-    "pub_date": "2026-11-16 13:50:37",
+    "title": "Atomic Nuked Veteran",
+    "link": "https://www.armscontrolwonk.com/archive/201309/atomic-nuked-veteran/",
+    "pub_date": "2026-11-16 14:29:54",
     "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Lobsters-https://iter.ca/post/ubo-uxss/",
+    "feed_name": "Lobsters",
+    "category": "技术",
+    "title": "Universal XSS in uBlock Origin from website-driven element picker",
+    "link": "https://iter.ca/post/ubo-uxss/",
+    "pub_date": "2026-11-16 13:12:27",
+    "author": "iter.ca via pgr0ss",
     "description": "Comments",
     "content": "Comments"
   },
@@ -208,28 +593,6 @@ const jsonData = [
     "content": "Comments"
   },
   {
-    "id": "技术-Hacker News-https://qwen.ai/blog?id=qwen4-max",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Qwen4-Max",
-    "link": "https://qwen.ai/blog?id=qwen4-max",
-    "pub_date": "2026-11-16 10:14:44",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://iter.ca/post/ubo-uxss/",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Universal XSS in uBlock Origin from website-driven element picker",
-    "link": "https://iter.ca/post/ubo-uxss/",
-    "pub_date": "2026-11-16 10:04:48",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
     "id": "技术-安全客-https://www.anquanke.com/post/id/316483",
     "feed_name": "安全客",
     "category": "技术",
@@ -240,17 +603,6 @@ const jsonData = [
     "content": ""
   },
   {
-    "id": "技术-Lobsters-https://nix.dev/manual/nix/2.35/advanced-topics/eval-profiler",
-    "feed_name": "Lobsters",
-    "category": "技术",
-    "title": "Nix: Using the eval-profiler",
-    "link": "https://nix.dev/manual/nix/2.35/advanced-topics/eval-profiler",
-    "pub_date": "2026-11-16 09:28:22",
-    "author": "nix.dev via tomeraberbach",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
     "id": "技术-Lobsters-https://fzakaria.com/2026/11/14/beer-drv-drv-drv",
     "feed_name": "Lobsters",
     "category": "技术",
@@ -258,83 +610,6 @@ const jsonData = [
     "link": "https://fzakaria.com/2026/11/14/beer-drv-drv-drv",
     "pub_date": "2026-11-16 08:47:28",
     "author": "fzakaria.com by fzakaria",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-    "link": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-    "pub_date": "2026-11-16 08:21:54",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Lobsters-https://sunshowers.io/posts/nextest-install-scripts/",
-    "feed_name": "Lobsters",
-    "category": "技术",
-    "title": "Designing nextest's install scripts",
-    "link": "https://sunshowers.io/posts/nextest-install-scripts/",
-    "pub_date": "2026-11-16 08:14:56",
-    "author": "sunshowers.io via soareschen",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "What's Next for Nvidia?",
-    "link": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
-    "pub_date": "2026-11-16 07:55:55",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://tangled.org/nvim-mini.org/mini.nvim",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Mini.nvim Is Now on Tangled",
-    "link": "https://tangled.org/nvim-mini.org/mini.nvim",
-    "pub_date": "2026-11-16 07:55:41",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Lobsters-https://www.redox-os.org/news/this-month-261031/",
-    "feed_name": "Lobsters",
-    "category": "技术",
-    "title": "This Month in Redox - October 2026",
-    "link": "https://www.redox-os.org/news/this-month-261031/",
-    "pub_date": "2026-11-16 07:05:45",
-    "author": "redox-os.org via gnafuthegreat",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Preserving 30 years of Salon journalism",
-    "link": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
-    "pub_date": "2026-11-16 07:00:11",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Lobsters-https://transactional.blog/talk/please-implement-a-quorum-database",
-    "feed_name": "Lobsters",
-    "category": "技术",
-    "title": "Please Implement A Quorum Database",
-    "link": "https://transactional.blog/talk/please-implement-a-quorum-database",
-    "pub_date": "2026-11-16 06:44:13",
-    "author": "transactional.blog via eatonphil",
     "description": "Comments",
     "content": "Comments"
   },
@@ -350,89 +625,12 @@ const jsonData = [
     "content": "Comments"
   },
   {
-    "id": "技术-Hacker News-https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+    "id": "技术-Hacker News-https://retrocomputing.stackexchange.com/questions/11765",
     "feed_name": "Hacker News",
     "category": "技术",
-    "title": "Old Bitly links are being hijacked",
-    "link": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-    "pub_date": "2026-11-16 06:11:43",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Lobsters-https://www.ykiko.me/en/articles/2105384023094834022/",
-    "feed_name": "Lobsters",
-    "category": "技术",
-    "title": "clice v1.0 Released: Welcome to Modern C++",
-    "link": "https://www.ykiko.me/en/articles/2105384023094834022/",
-    "pub_date": "2026-11-16 05:19:35",
-    "author": "ykiko.me via jeaye",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Lobsters-https://bughunters.google.com/blog/preventing-cross-service-udp-loops-in-quic",
-    "feed_name": "Lobsters",
-    "category": "技术",
-    "title": "Blog: Preventing Cross-Service UDP Loops in QUIC",
-    "link": "https://bughunters.google.com/blog/preventing-cross-service-udp-loops-in-quic",
-    "pub_date": "2026-11-16 04:34:37",
-    "author": "bughunters.google.com via freddyb",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://baron.by.dai.studio/",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "WebGL Flight Simulator with seed generated terrain",
-    "link": "https://baron.by.dai.studio/",
-    "pub_date": "2026-11-16 04:20:05",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://ductus.sorenblank.com",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Handwriting, as a Font",
-    "link": "https://ductus.sorenblank.com",
-    "pub_date": "2026-11-16 03:42:13",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://bruceroettgers.eu/blog/protomaps/",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-    "link": "https://bruceroettgers.eu/blog/protomaps/",
-    "pub_date": "2026-11-16 03:26:22",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://www.youtube.com/watch?v=7_JF3etiAv8",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "A short explainer on how El Niño works [video]",
-    "link": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-    "pub_date": "2026-11-16 02:23:21",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Crows make decisions faster than we can",
-    "link": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-    "pub_date": "2026-11-16 01:53:31",
+    "title": "Why did modems have speakers? (2019)",
+    "link": "https://retrocomputing.stackexchange.com/questions/11765",
+    "pub_date": "2026-11-16 05:27:29",
     "author": "",
     "description": "Comments",
     "content": "Comments"
@@ -515,39 +713,6 @@ const jsonData = [
     "content": "Comments"
   },
   {
-    "id": "技术-Lobsters-https://lucypero.com/lucynes.html",
-    "feed_name": "Lobsters",
-    "category": "技术",
-    "title": "A NES emulator written in Odin",
-    "link": "https://lucypero.com/lucynes.html",
-    "pub_date": "2026-11-15 20:37:33",
-    "author": "lucypero.com via heavyrain266",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Lobsters-https://blog.kizu.dev/cursors/",
-    "feed_name": "Lobsters",
-    "category": "技术",
-    "title": "cursor:pointer on buttons",
-    "link": "https://blog.kizu.dev/cursors/",
-    "pub_date": "2026-11-15 17:15:40",
-    "author": "blog.kizu.dev via two",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Lobsters-https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
-    "feed_name": "Lobsters",
-    "category": "技术",
-    "title": "25 of my favourite modern NES games",
-    "link": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
-    "pub_date": "2026-11-15 10:40:40",
-    "author": "jordi.inversethought.com by JordiGH",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
     "id": "技术-十年之约-https://www.foreverblog.cn/daily/read/42/162491/rss",
     "feed_name": "十年之约",
     "category": "技术",
@@ -581,67 +746,12 @@ const jsonData = [
     "content": "编辑推荐：作者遍检《南齐书》《梁书》《南史》，只见到“兰陵令”这类官名，找不到一位到任的县令，这县名挂得实在空。 原文：“一个号称‘帝王乡’的县，历任治民之官竟在正史中集体失语，这在政治逻辑上极不正常。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-15.html"
   },
   {
-    "id": "技术-Hacker News-https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/",
+    "id": "技术-Hacker News-https://alperenkeles.com/posts/formal-verification-is-not-verifiable/",
     "feed_name": "Hacker News",
     "category": "技术",
-    "title": "OOS – an open operating system for the Rigol Scopes",
-    "link": "https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/",
-    "pub_date": "2026-11-14 05:36:59",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://www.themain.com/articles/expozine-montreal-independent-print-scene-arcmtl",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Expozine at 25: Has the Independent Print Scene Outgrown Expozine?",
-    "link": "https://www.themain.com/articles/expozine-montreal-independent-print-scene-arcmtl",
-    "pub_date": "2026-11-14 04:36:25",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://www.vqronline.org/essays/opportunivores-dilemma",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "The Opportunivore's Dilemma",
-    "link": "https://www.vqronline.org/essays/opportunivores-dilemma",
-    "pub_date": "2026-11-14 04:08:36",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://muni.works/research/vcad",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Exact Gradients Through a BRep Kernel",
-    "link": "https://muni.works/research/vcad",
-    "pub_date": "2026-11-14 02:24:54",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "A quest to create the perfect whiskey glass",
-    "link": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
-    "pub_date": "2026-11-14 01:37:32",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Researchers track whole body movement with just a smartwatch",
-    "link": "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch",
-    "pub_date": "2026-11-14 01:29:49",
+    "title": "Formal Verification Is Not Verifiable",
+    "link": "https://alperenkeles.com/posts/formal-verification-is-not-verifiable/",
+    "pub_date": "2026-11-14 23:07:48",
     "author": "",
     "description": "Comments",
     "content": "Comments"
@@ -680,28 +790,6 @@ const jsonData = [
     "content": "编辑推荐：一桩十一年前的法援案子，同一处房子，老人、村委会、堂弟各有各的说法。 原文：“门头进去就是一个大厅，摆的全是他家祖先牌位，没其他摆设。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-14.html"
   },
   {
-    "id": "技术-Hacker News-https://www.dfsantos.com/en/libro-ia-z80",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Artificial Intelligence for the Z80",
-    "link": "https://www.dfsantos.com/en/libro-ia-z80",
-    "pub_date": "2026-11-13 23:50:43",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://www.paradedb.com/blog/joins",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Do we still have to denormalize? Have your schema and search it too",
-    "link": "https://www.paradedb.com/blog/joins",
-    "pub_date": "2026-11-13 23:31:50",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
     "id": "技术-安全客-https://www.anquanke.com/post/id/316476",
     "feed_name": "安全客",
     "category": "技术",
@@ -710,6 +798,17 @@ const jsonData = [
     "author": " 安全客",
     "description": "",
     "content": ""
+  },
+  {
+    "id": "技术-Seebug Paper-https://paper.seebug.org/3534",
+    "feed_name": "Seebug Paper",
+    "category": "技术",
+    "title": "面向移动 SQLite 数据库的上下文感知证据抽取：一个符号—神经框架",
+    "link": "https://paper.seebug.org/3534",
+    "pub_date": "2026-11-13 16:27:55",
+    "author": "",
+    "description": "作者：Jeel Piyushkumar Khatiwala, Divyangkumar Patel, Dianxiang Xu, Weifeng Xu 原文链接：https://arxiv.org/pdf/2611.03323v1 摘要 从移动 SQLite 数据库中可靠地抽取取证证据是一项颇具挑战性的工作，原因在于：应用数据库模式（schema）缺乏文档记录、会随版本发布而演进，并且在不同操作系...",
+    "content": "作者：Jeel Piyushkumar Khatiwala, Divyangkumar Patel, Dianxiang Xu, Weifeng Xu 原文链接：https://arxiv.org/pdf/2611.03323v1 摘要 从移动 SQLite 数据库中可靠地抽取取证证据是一项颇具挑战性的工作，原因在于：应用数据库模式（schema）缺乏文档记录、会随版本发布而演进，并且在不同操作系..."
   },
   {
     "id": "技术-安全客-https://www.anquanke.com/post/id/316469",
@@ -788,37 +887,15 @@ const jsonData = [
     "content": "编辑推荐：尤兰迪问奥斯卡“靠诗歌能活吗”，奥斯卡在诗歌节上朗诵自己的诗，台下没人听，另一位诗人埃夫莱茵却粉丝成群。 原文：“尤兰迪有些肥胖的身材压着他，奥斯卡一步一步艰难前行” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-13.html"
   },
   {
-    "id": "技术-Hacker News-https://www.hackster.io/mit41301/simple-8085-computer-9fe156",
-    "feed_name": "Hacker News",
+    "id": "技术-Seebug Paper-https://paper.seebug.org/3533",
+    "feed_name": "Seebug Paper",
     "category": "技术",
-    "title": "Simple 8085 Computer",
-    "link": "https://www.hackster.io/mit41301/simple-8085-computer-9fe156",
-    "pub_date": "2026-11-12 22:18:04",
+    "title": "先取证还是先处置？面向信息物理系统时限性事件响应的信念级反事实标签",
+    "link": "https://paper.seebug.org/3533",
+    "pub_date": "2026-11-12 16:36:18",
     "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://www.newyorker.com/magazine/2026/11/16/john-berger-a-life-tom-overton-book-review",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "The Lasting Influence of John Berger",
-    "link": "https://www.newyorker.com/magazine/2026/11/16/john-berger-a-life-tom-overton-book-review",
-    "pub_date": "2026-11-12 11:44:33",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://blog.atuin.sh/making-atuin-sync-32x-faster-with-packfiles/",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Making Atuin sync 32x faster with packfiles",
-    "link": "https://blog.atuin.sh/making-atuin-sync-32x-faster-with-packfiles/",
-    "pub_date": "2026-11-12 02:14:36",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
+    "description": "作者：Ali Mohammadi Ruzbahani 原文链接：https://arxiv.org/html/2611.03974v1 摘要 当工业控制系统出现异常时，防御者往往必须在两种做法之间选择：立即针对最可能的原因采取行动，或先收集证据以区分两个外观相似的原因——而与此同时，过程正朝着停机漂移。学习或评估此类决策需要同一情境下每个候选动作的代价，而现有公开的信息物理安全数据集都不提供这一信...",
+    "content": "作者：Ali Mohammadi Ruzbahani 原文链接：https://arxiv.org/html/2611.03974v1 摘要 当工业控制系统出现异常时，防御者往往必须在两种做法之间选择：立即针对最可能的原因采取行动，或先收集证据以区分两个外观相似的原因——而与此同时，过程正朝着停机漂移。学习或评估此类决策需要同一情境下每个候选动作的代价，而现有公开的信息物理安全数据集都不提供这一信..."
   },
   {
     "id": "技术-十年之约-https://www.foreverblog.cn/daily/read/39/161554/rss",
@@ -930,39 +1007,6 @@ const jsonData = [
     "content": "编辑推荐：作者算了一笔账：国庆项目几十万设计费，两个设计师提成加起来不到一万，于是打算年底开溜。 原文：“提成打折得厉害，以前加班是拼，现在加班是耗，拼有尽头，耗没有。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-10.html"
   },
   {
-    "id": "技术-十年之约-https://www.foreverblog.cn/daily/read/37/161114/rss",
-    "feed_name": "十年之约",
-    "category": "技术",
-    "title": "记一次小手术",
-    "link": "https://www.foreverblog.cn/daily/read/37/161114/rss",
-    "pub_date": "2026-11-10 00:00:12",
-    "author": "",
-    "description": "编辑推荐：右手食指疼了多年，作者跟 Gemini 和 ChatGPT 描述症状，被怀疑是血管球瘤，自己拿笔尖一点点按甲根找到痛点，去手外科做了手术，取出一粒芝麻大的肿瘤。 原文：“我活了四十多年第一次上手术台，头顶好几个大的无影灯，空空荡荡的手术室只有两个人” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-10.html",
-    "content": "编辑推荐：右手食指疼了多年，作者跟 Gemini 和 ChatGPT 描述症状，被怀疑是血管球瘤，自己拿笔尖一点点按甲根找到痛点，去手外科做了手术，取出一粒芝麻大的肿瘤。 原文：“我活了四十多年第一次上手术台，头顶好几个大的无影灯，空空荡荡的手术室只有两个人” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-10.html"
-  },
-  {
-    "id": "技术-十年之约-https://www.foreverblog.cn/daily/read/37/161040/rss",
-    "feed_name": "十年之约",
-    "category": "技术",
-    "title": "以少年之名，赴人间之约",
-    "link": "https://www.foreverblog.cn/daily/read/37/161040/rss",
-    "pub_date": "2026-11-10 00:00:12",
-    "author": "",
-    "description": "编辑推荐：入职华为一年，作者翻出小升初差0.25分、中考差一分、高考差两分的旧账。 原文：“我捂着手问她为什么打我，她给出的理由更是让我至今难忘：” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-10.html",
-    "content": "编辑推荐：入职华为一年，作者翻出小升初差0.25分、中考差一分、高考差两分的旧账。 原文：“我捂着手问她为什么打我，她给出的理由更是让我至今难忘：” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-10.html"
-  },
-  {
-    "id": "技术-十年之约-https://www.foreverblog.cn/daily/read/37/161189/rss",
-    "feed_name": "十年之约",
-    "category": "技术",
-    "title": "深度使用滑板代步后",
-    "link": "https://www.foreverblog.cn/daily/read/37/161189/rss",
-    "pub_date": "2026-11-10 00:00:12",
-    "author": "",
-    "description": "编辑推荐：作者用滑板代步五个月，实测家到公司1.1公里：自行车6分钟，滑板8分钟，下班路段滑板更方便。 原文：“换上扫街轮，在普通的自行车道上蹬两脚就可以滑出去十几米” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-10.html",
-    "content": "编辑推荐：作者用滑板代步五个月，实测家到公司1.1公里：自行车6分钟，滑板8分钟，下班路段滑板更方便。 原文：“换上扫街轮，在普通的自行车道上蹬两脚就可以滑出去十几米” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-10.html"
-  },
-  {
     "id": "技术-安全客-https://www.anquanke.com/post/id/316450",
     "feed_name": "安全客",
     "category": "技术",
@@ -981,28 +1025,6 @@ const jsonData = [
     "author": " 安全客",
     "description": "",
     "content": ""
-  },
-  {
-    "id": "技术-十年之约-https://www.foreverblog.cn/daily/read/36/159456/rss",
-    "feed_name": "十年之约",
-    "category": "技术",
-    "title": "冬天一脱秋裤就下雪，这毛病是我外公传下来的",
-    "link": "https://www.foreverblog.cn/daily/read/36/159456/rss",
-    "pub_date": "2026-11-09 00:00:17",
-    "author": "",
-    "description": "编辑推荐：作者冬天脱秋裤掉白屑，一家人都有这毛病，试出洗澡后三分钟内涂厚身体乳、少用搓澡巾的办法。 原文：“有一次在朋友家过夜，脱衣服的时候我下意识把裤子卷起来塞进包里，动作快得像做贼。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-09.html",
-    "content": "编辑推荐：作者冬天脱秋裤掉白屑，一家人都有这毛病，试出洗澡后三分钟内涂厚身体乳、少用搓澡巾的办法。 原文：“有一次在朋友家过夜，脱衣服的时候我下意识把裤子卷起来塞进包里，动作快得像做贼。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-09.html"
-  },
-  {
-    "id": "技术-十年之约-https://www.foreverblog.cn/daily/read/36/160827/rss",
-    "feed_name": "十年之约",
-    "category": "技术",
-    "title": "芬兰与爱沙尼亚之旅（四）坦佩雷与湖滨木屋",
-    "link": "https://www.foreverblog.cn/daily/read/36/160827/rss",
-    "pub_date": "2026-11-09 00:00:17",
-    "author": "",
-    "description": "编辑推荐：作者在坦佩雷附近租了湖滨木屋，没热水淋浴、旱厕有异味、蚊子多，头两天觉得花钱找罪受，后来把脚泡在湖水里发呆。 原文：“小号我干脆就在大自然里解决了。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-09.html",
-    "content": "编辑推荐：作者在坦佩雷附近租了湖滨木屋，没热水淋浴、旱厕有异味、蚊子多，头两天觉得花钱找罪受，后来把脚泡在湖水里发呆。 原文：“小号我干脆就在大自然里解决了。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-09.html"
   },
   {
     "id": "技术-安全客-https://www.anquanke.com/post/id/316079",
@@ -1076,6 +1098,17 @@ const jsonData = [
     "content": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 雄安新区正在建设的雄安大剧院，它的幕墙采用 3D 打印装饰板拼贴而成，是世界最大的 3D 打印建筑幕墙。（ via ） 如果科技停止在21世纪初 （1） 网上流行一道题目，大家应该都见过：\" 如果可以穿越，你愿意生活在哪个朝代？ \" 我觉得，这个题目有点侮辱智商，因为答案显而易见。正常人肯定只愿意生活在现代，而且越现代越好…"
   },
   {
+    "id": "技术-Seebug Paper-https://paper.seebug.org/3532",
+    "feed_name": "Seebug Paper",
+    "category": "技术",
+    "title": "说同样的话，做不同的事：诊断与引导推理型 VLA 中的文本—动作背离",
+    "link": "https://paper.seebug.org/3532",
+    "pub_date": "2026-11-05 17:08:06",
+    "author": "",
+    "description": "作者：Zihao Feng, Qingzhao Zhang, Chunyu Xia, Bo Yu, Z. Morley Mao, Ramesh Govindan 原文链接：https://arxiv.org/html/2611.04166v1 摘要 推理型视觉—语言—动作（VLA）模型将物理控制与自然语言理由（rationale）配对，监督者可以阅读这些理由来监控具身安全。此前针对 VLA 推理的...",
+    "content": "作者：Zihao Feng, Qingzhao Zhang, Chunyu Xia, Bo Yu, Z. Morley Mao, Ramesh Govindan 原文链接：https://arxiv.org/html/2611.04166v1 摘要 推理型视觉—语言—动作（VLA）模型将物理控制与自然语言理由（rationale）配对，监督者可以阅读这些理由来监控具身安全。此前针对 VLA 推理的..."
+  },
+  {
     "id": "技术-安全客-https://www.anquanke.com/post/id/316435",
     "feed_name": "安全客",
     "category": "技术",
@@ -1146,6 +1179,17 @@ const jsonData = [
     "content": ""
   },
   {
+    "id": "技术-Seebug Paper-https://paper.seebug.org/3531",
+    "feed_name": "Seebug Paper",
+    "category": "技术",
+    "title": "基于证据锚定的大语言模型辅助 Android 移动取证报告",
+    "link": "https://paper.seebug.org/3531",
+    "pub_date": "2026-10-30 17:29:32",
+    "author": "",
+    "description": "作者：Madhab Chandra Das, Sajid Ahmed, Tasnia Tabassum, Qingzhong Liu 原文链接：https://arxiv.org/pdf/2610.26946v1 摘要 大语言模型可以辅助起草取证报告，但流畅的输出并不能保证证据层面的可靠性。本研究提出一个以证据为锚定的框架，用于在原子主张（atomic-claim）层面评估大语言模型辅助生成的 A...",
+    "content": "作者：Madhab Chandra Das, Sajid Ahmed, Tasnia Tabassum, Qingzhong Liu 原文链接：https://arxiv.org/pdf/2610.26946v1 摘要 大语言模型可以辅助起草取证报告，但流畅的输出并不能保证证据层面的可靠性。本研究提出一个以证据为锚定的框架，用于在原子主张（atomic-claim）层面评估大语言模型辅助生成的 A..."
+  },
+  {
     "id": "技术-阮一峰的网络日志-http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html",
     "feed_name": "阮一峰的网络日志",
     "category": "技术",
@@ -1155,6 +1199,17 @@ const jsonData = [
     "author": "阮一峰",
     "description": "这里记录每周值得分享的科技内容，周五发布。 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面图 四川宜宾市的青少年发展中心，建筑中庭的透光屋顶象征一个万花筒，会有不断变化的日光效果。（via） 不要让 AI 代表你 现在，不少人让 AI 代表自己做事，比如购买奶茶、回复邮件。 我建议不要这样。你可以用 AI 帮助自己学习和工作，但不要让它代表你，因为会造…",
     "content": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 四川宜宾市的青少年发展中心，建筑中庭的透光屋顶象征一个万花筒，会有不断变化的日光效果。（ via ） 不要让 AI 代表你 现在，不少人让 AI 代表自己做事，比如购买奶茶、回复邮件。 我建议不要这样。你可以用 AI 帮助自己学习和工作，但不要让它代表你，因为会造成社会混乱。 前不久，有人做了一个 实验 。他让6个 AI …"
+  },
+  {
+    "id": "技术-Seebug Paper-https://paper.seebug.org/3530",
+    "feed_name": "Seebug Paper",
+    "category": "技术",
+    "title": "攻击者离场之后：面向 LLM 智能体的跨会话残留攻击基准评测",
+    "link": "https://paper.seebug.org/3530",
+    "pub_date": "2026-10-28 17:23:26",
+    "author": "",
+    "description": "作者：Zhiyue Xu, Xukai Wang, Zhiyuan Huang, Mingjie Zhan, Jian Zhao, Xu-Yao Zhang 原文链接：https://arxiv.org/html/2610.28425v1 摘要 现代 LLM 智能体通过两条通道在会话之间持久化状态：一是被静默前置到系统提示中的长期记忆文件，二是无需用户输入即可唤醒智能体的定时任务。一次性的间接提示...",
+    "content": "作者：Zhiyue Xu, Xukai Wang, Zhiyuan Huang, Mingjie Zhan, Jian Zhao, Xu-Yao Zhang 原文链接：https://arxiv.org/html/2610.28425v1 摘要 现代 LLM 智能体通过两条通道在会话之间持久化状态：一是被静默前置到系统提示中的长期记忆文件，二是无需用户输入即可唤醒智能体的定时任务。一次性的间接提示..."
   },
   {
     "id": "技术-HelloGitHub 月刊-https://hellogithub.com/periodical/volume/127",
@@ -1168,6 +1223,72 @@ const jsonData = [
     "content": "本期共有 42 个项目，包含 C 项目 (3)，C# 项目 (1)，C++ 项目 (1)，Go 项目 (4)，JavaScript 项目 (5)，Kotlin 项目 (3)，Python 项目 (5)，Rust 项目 (3)，Skills (4)，Swift 项目 (2)，人工智能 (5)，其它 (5)，开源书籍 (1)"
   },
   {
+    "id": "技术-Seebug Paper-https://paper.seebug.org/3529",
+    "feed_name": "Seebug Paper",
+    "category": "技术",
+    "title": "基于小语言模型的 RAG 流水线上下文感知提示注入检测：nokast-secureRAG",
+    "link": "https://paper.seebug.org/3529",
+    "pub_date": "2026-10-23 16:33:28",
+    "author": "",
+    "description": "作者：Abhishek Rai 原文链接：https://arxiv.org/html/2610.28364v1 摘要 本地检索增强生成（Retrieval-Augmented Generation, RAG）系统让强大的智能助手能够在私有数据上运行，但也继承了一类日益增长的安全风险——尤其是间接提示注入（Indirect Prompt Injection, IPI）与检索投毒，即隐藏在检索内容中...",
+    "content": "作者：Abhishek Rai 原文链接：https://arxiv.org/html/2610.28364v1 摘要 本地检索增强生成（Retrieval-Augmented Generation, RAG）系统让强大的智能助手能够在私有数据上运行，但也继承了一类日益增长的安全风险——尤其是间接提示注入（Indirect Prompt Injection, IPI）与检索投毒，即隐藏在检索内容中..."
+  },
+  {
+    "id": "技术-Seebug Paper-https://paper.seebug.org/3528",
+    "feed_name": "Seebug Paper",
+    "category": "技术",
+    "title": "讲解一下这次PHP核弹级别漏洞的原理",
+    "link": "https://paper.seebug.org/3528",
+    "pub_date": "2026-10-23 15:22:21",
+    "author": "",
+    "description": "作者：Laruence 原文链接：https://mp.weixin.qq.com/s/bB2EqImUlslJGCs7melQGw 这几天PHP圈很热闹，AI发现了一个核弹级别，隐藏了十几年的PHP的RCE漏洞，连日本首相都发X提醒大家注意。哈哈哈 本来昨天就想写一个分析的，不过考虑到可能被攻击者利用，就等到Patch出来以后，今天再发吧，本文以已经公开的攻击脚本POC为例，来解释，具体链接我就...",
+    "content": "作者：Laruence 原文链接：https://mp.weixin.qq.com/s/bB2EqImUlslJGCs7melQGw 这几天PHP圈很热闹，AI发现了一个核弹级别，隐藏了十几年的PHP的RCE漏洞，连日本首相都发X提醒大家注意。哈哈哈 本来昨天就想写一个分析的，不过考虑到可能被攻击者利用，就等到Patch出来以后，今天再发吧，本文以已经公开的攻击脚本POC为例，来解释，具体链接我就..."
+  },
+  {
+    "id": "技术-Seebug Paper-https://paper.seebug.org/3527",
+    "feed_name": "Seebug Paper",
+    "category": "技术",
+    "title": "MAS-Guard：从单体智能体到多智能体 LLM 系统的统一防护栏",
+    "link": "https://paper.seebug.org/3527",
+    "pub_date": "2026-10-22 16:25:37",
+    "author": "",
+    "description": "作者：Mohammad Kachuee, Phu Mon Htut, Sheng Li, Nikolaos Pappas, Miguel Ballesteros Martinez, Yassine Benajiba, Sujith Ravi, Dan Roth 原文链接：https://arxiv.org/pdf/2610.28397v1 摘要 智能体 AI（Agentic AI）将大语言模型（L...",
+    "content": "作者：Mohammad Kachuee, Phu Mon Htut, Sheng Li, Nikolaos Pappas, Miguel Ballesteros Martinez, Yassine Benajiba, Sujith Ravi, Dan Roth 原文链接：https://arxiv.org/pdf/2610.28397v1 摘要 智能体 AI（Agentic AI）将大语言模型（L..."
+  },
+  {
+    "id": "技术-Seebug Paper-https://paper.seebug.org/3526",
+    "feed_name": "Seebug Paper",
+    "category": "技术",
+    "title": "BARE-AI：通过内置性能监视器实现 AI 硬件的比特翻转攻击韧性",
+    "link": "https://paper.seebug.org/3526",
+    "pub_date": "2026-10-15 17:08:10",
+    "author": "",
+    "description": "作者：Habibur Rahaman, Swastik Bhattacharya, Sanjay Das, Kanad Basu, Swarup Bhunia 原文链接：https://arxiv.org/pdf/2610.08739v2 摘要 深度神经网络（DNN）如今已成为众多安全关键系统不可或缺的组成部分，但它们仍然极易受到比特翻转攻击（BFA）的威胁——在这种攻击中，少量的内存级扰动即可使...",
+    "content": "作者：Habibur Rahaman, Swastik Bhattacharya, Sanjay Das, Kanad Basu, Swarup Bhunia 原文链接：https://arxiv.org/pdf/2610.08739v2 摘要 深度神经网络（DNN）如今已成为众多安全关键系统不可或缺的组成部分，但它们仍然极易受到比特翻转攻击（BFA）的威胁——在这种攻击中，少量的内存级扰动即可使..."
+  },
+  {
+    "id": "技术-Seebug Paper-https://paper.seebug.org/3525",
+    "feed_name": "Seebug Paper",
+    "category": "技术",
+    "title": "基于信息论安全密钥分发的高效安全联邦学习：一个医学影像案例研究",
+    "link": "https://paper.seebug.org/3525",
+    "pub_date": "2026-10-12 16:56:54",
+    "author": "",
+    "description": "作者：Ivan Donà, Hans H. Brunner, Álvaro Troyano Olivas, Chi-Hang Fred Fung, Momtchil Peev, Giovanni Iacca 原文链接：https://arxiv.org/pdf/2610.06420v1 摘要 联邦学习（Federated Learning, FL）能够在不集中敏感数据的前提下，实现跨机构的模型协同...",
+    "content": "作者：Ivan Donà, Hans H. Brunner, Álvaro Troyano Olivas, Chi-Hang Fred Fung, Momtchil Peev, Giovanni Iacca 原文链接：https://arxiv.org/pdf/2610.06420v1 摘要 联邦学习（Federated Learning, FL）能够在不集中敏感数据的前提下，实现跨机构的模型协同..."
+  },
+  {
+    "id": "技术-Seebug Paper-https://paper.seebug.org/3524",
+    "feed_name": "Seebug Paper",
+    "category": "技术",
+    "title": "TWINGUARD-LITE：面向生成式患者数字孪生的基于规则的状态准入网关",
+    "link": "https://paper.seebug.org/3524",
+    "pub_date": "2026-10-08 16:23:17",
+    "author": "",
+    "description": "作者：Wenhui Chu 与 Sheikh Rabiul Islam 原文链接：https://arxiv.org/pdf/2610.09012v1 摘要 未来的生成式患者数字孪生可能将纵向健康档案与语言模型智能体相结合，并跨会话保存信息。一项拟议更新的措辞并不能揭示它是否来自被允许的来源、是否与患者的记录相冲突，或者是否属于他人。我们提出 TWINGUARD-LITE，一个基于规则的网关，只有...",
+    "content": "作者：Wenhui Chu 与 Sheikh Rabiul Islam 原文链接：https://arxiv.org/pdf/2610.09012v1 摘要 未来的生成式患者数字孪生可能将纵向健康档案与语言模型智能体相结合，并跨会话保存信息。一项拟议更新的措辞并不能揭示它是否来自被允许的来源、是否与患者的记录相冲突，或者是否属于他人。我们提出 TWINGUARD-LITE，一个基于规则的网关，只有..."
+  },
+  {
     "id": "技术-HelloGitHub 月刊-https://hellogithub.com/periodical/volume/126",
     "feed_name": "HelloGitHub 月刊",
     "category": "技术",
@@ -1177,6 +1298,50 @@ const jsonData = [
     "author": "",
     "description": "本期共有 39 个项目，包含 C 项目 (1)，C# 项目 (3)，C++ 项目 (1)，Go 项目 (4)，JavaScript 项目 (5)，Python 项目 (5)，Rust 项目 (3)，Skills (4)，Swift 项目 (4)，人工智能 (5)，其它 (4)",
     "content": "本期共有 39 个项目，包含 C 项目 (1)，C# 项目 (3)，C++ 项目 (1)，Go 项目 (4)，JavaScript 项目 (5)，Python 项目 (5)，Rust 项目 (3)，Skills (4)，Swift 项目 (4)，人工智能 (5)，其它 (4)"
+  },
+  {
+    "id": "技术-Seebug Paper-https://paper.seebug.org/3523",
+    "feed_name": "Seebug Paper",
+    "category": "技术",
+    "title": "多源 LLM 智能体输入中分段级投毒的检测与定位",
+    "link": "https://paper.seebug.org/3523",
+    "pub_date": "2026-09-24 17:52:50",
+    "author": "",
+    "description": "作者：Xue Tan, Changhui Wang, Sanrui Yang, Hao Luan, Zhuyang Yu, Jin Wei, Ping Chen, Xiaoyan Sun†, Jun Dai 原文链接：https://arxiv.org/html/2609.14723v1 摘要 现代大语言模型（LLM）智能体越来越多地通过聚合外部数据分段来构造提示词（prompt），这些分段包括检...",
+    "content": "作者：Xue Tan, Changhui Wang, Sanrui Yang, Hao Luan, Zhuyang Yu, Jin Wei, Ping Chen, Xiaoyan Sun†, Jun Dai 原文链接：https://arxiv.org/html/2609.14723v1 摘要 现代大语言模型（LLM）智能体越来越多地通过聚合外部数据分段来构造提示词（prompt），这些分段包括检..."
+  },
+  {
+    "id": "技术-Seebug Paper-https://paper.seebug.org/3522",
+    "feed_name": "Seebug Paper",
+    "category": "技术",
+    "title": "面向安全漏洞的自动化程序修复智能体的对抗性测试",
+    "link": "https://paper.seebug.org/3522",
+    "pub_date": "2026-09-21 16:30:51",
+    "author": "",
+    "description": "作者：Fares Trad, Simin Chen, Hung Viet Pham, Gias Uddin, Baishakhi Ray 原文链接：https://arxiv.org/pdf/2609.15963v1 摘要 基于大语言模型（LLM）的软件智能体被设计用于自动化程序修复（Automated Program Repair, APR）任务，这使得在不久的将来，APR 智能体有望在无需太多...",
+    "content": "作者：Fares Trad, Simin Chen, Hung Viet Pham, Gias Uddin, Baishakhi Ray 原文链接：https://arxiv.org/pdf/2609.15963v1 摘要 基于大语言模型（LLM）的软件智能体被设计用于自动化程序修复（Automated Program Repair, APR）任务，这使得在不久的将来，APR 智能体有望在无需太多..."
+  },
+  {
+    "id": "技术-Seebug Paper-https://paper.seebug.org/3521",
+    "feed_name": "Seebug Paper",
+    "category": "技术",
+    "title": "大模型中转站研究与测评报告（2026）",
+    "link": "https://paper.seebug.org/3521",
+    "pub_date": "2026-09-20 10:40:03",
+    "author": "",
+    "description": "作者：知道创宇积极防御实验室 前言 随着大语言模型在编码、Agent（智能体）等场景中的深入应用，开发者对多模型、低成本、开箱即用的模型 API 需求持续增长，大模型中转站逐渐成为连接开发者与模型服务的重要基础设施。中转站对外提供与主流模型 API 兼容的统一接口，将不同模型厂商的服务进行聚合，调用者通常只需修改模型名称即可完成切换。 与直接调用模型厂商官方 API 不同，开发者在使用中转站时，实...",
+    "content": "作者：知道创宇积极防御实验室 前言 随着大语言模型在编码、Agent（智能体）等场景中的深入应用，开发者对多模型、低成本、开箱即用的模型 API 需求持续增长，大模型中转站逐渐成为连接开发者与模型服务的重要基础设施。中转站对外提供与主流模型 API 兼容的统一接口，将不同模型厂商的服务进行聚合，调用者通常只需修改模型名称即可完成切换。 与直接调用模型厂商官方 API 不同，开发者在使用中转站时，实..."
+  },
+  {
+    "id": "技术-Seebug Paper-https://paper.seebug.org/3520",
+    "feed_name": "Seebug Paper",
+    "category": "技术",
+    "title": "当世界说谎：面向下游控制的潜在世界模型后门攻击",
+    "link": "https://paper.seebug.org/3520",
+    "pub_date": "2026-09-17 16:19:18",
+    "author": "",
+    "description": "作者：Roberto Riaño, Gorka Abad, Stjepan Picek, Aitor Urbieta 原文链接：https://arxiv.org/pdf/2609.15781 摘要 预训练世界模型——一种学习得到的模拟器，它将观测编码为潜在状态并预测该状态在动作作用下如何演化——正开始像如今的预训练编码器和语言模型那样，被作为现成的动力学骨干网络复用于控制任务。我们表明，这种复用...",
+    "content": "作者：Roberto Riaño, Gorka Abad, Stjepan Picek, Aitor Urbieta 原文链接：https://arxiv.org/pdf/2609.15781 摘要 预训练世界模型——一种学习得到的模拟器，它将观测编码为潜在状态并预测该状态在动作作用下如何演化——正开始像如今的预训练编码器和语言模型那样，被作为现成的动力学骨干网络复用于控制任务。我们表明，这种复用..."
   },
   {
     "id": "技术-HelloGitHub 月刊-https://hellogithub.com/periodical/volume/125",
@@ -1353,171 +1518,6 @@ const jsonData = [
     "author": "",
     "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. h…",
     "content": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. https://dsa.zhulinsen.tech 📈 股票智能分析系统 &n…"
-  },
-  {
-    "id": "技术-github python-https://github.com/google/elephant-goldfish-model",
-    "feed_name": "github python",
-    "category": "技术",
-    "title": "google/elephant-goldfish-model",
-    "link": "https://github.com/google/elephant-goldfish-model",
-    "pub_date": "",
-    "author": "",
-    "description": "Open-source plugin for designing and reviewing software with agents https://egm.dev Design with an elephant. Review with a goldfish. Install · Quickstart · Documentation · Website Develop ideas with context and review do…",
-    "content": "Open-source plugin for designing and reviewing software with agents https://egm.dev Design with an elephant. Review with a goldfish. Install · Quickstart · Documentation · Website Develop ideas with context and review documents with fresh eyes. EGM is an open-…"
-  },
-  {
-    "id": "技术-github python-https://github.com/homeassistant-ai/ha-mcp",
-    "feed_name": "github python",
-    "category": "技术",
-    "title": "homeassistant-ai/ha-mcp",
-    "link": "https://github.com/homeassistant-ai/ha-mcp",
-    "pub_date": "",
-    "author": "",
-    "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. https://homeassistant-ai.github.io/ha-mcp/ Breaking change (v7.3.0): ha_config_set_yaml has been moved to beta. HA-MCP — Manage Home As…",
-    "content": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. https://homeassistant-ai.github.io/ha-mcp/ Breaking change (v7.3.0): ha_config_set_yaml has been moved to beta . HA-MCP — Manage Home Assistant with AI Configure and automate …"
-  },
-  {
-    "id": "技术-github python-https://github.com/anthropics/claude-quickstarts",
-    "feed_name": "github python",
-    "category": "技术",
-    "title": "anthropics/claude-quickstarts",
-    "link": "https://github.com/anthropics/claude-quickstarts",
-    "pub_date": "",
-    "author": "",
-    "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API Claude Quickstarts Claude Quickstarts is a collection of projects designed to help devel…",
-    "content": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building …"
-  },
-  {
-    "id": "技术-github python-https://github.com/soxoj/maigret",
-    "feed_name": "github python",
-    "category": "技术",
-    "title": "soxoj/maigret",
-    "link": "https://github.com/soxoj/maigret",
-    "pub_date": "",
-    "author": "",
-    "description": "🕵️‍♂️ Collect a dossier on a person by username from 6K websites https://maigret.app/gh Maigret English · 简体中文 · Français Documentation Maigret collects a dossier on a person by username only, checking for accounts on a…",
-    "content": "🕵️‍♂️ Collect a dossier on a person by username from 6K websites https://maigret.app/gh Maigret English · 简体中文 · Français 📖 Documentation Maigret collects a dossier on a person by username only , checking for accounts on a huge number of sites and gathering …"
-  },
-  {
-    "id": "技术-github python-https://github.com/davila7/claude-code-templates",
-    "feed_name": "github python",
-    "category": "技术",
-    "title": "davila7/claude-code-templates",
-    "link": "https://github.com/davila7/claude-code-templates",
-    "pub_date": "",
-    "author": "",
-    "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods https://aitmpl.com Claude Code Templates SUPPORTED BY An open catalog of components for Claude Code, insta…",
-    "content": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods https://aitmpl.com Claude Code Templates SUPPORTED BY &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; An open catalog of components for C…"
-  },
-  {
-    "id": "技术-github python-https://github.com/harry0703/MoneyPrinterTurbo",
-    "feed_name": "github python",
-    "category": "技术",
-    "title": "harry0703/MoneyPrinterTurbo",
-    "link": "https://github.com/harry0703/MoneyPrinterTurbo",
-    "pub_date": "",
-    "author": "",
-    "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频主题或关键词，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 简体中文 | English | 日本語…",
-    "content": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频 主题 或 关键词 ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 简体中文 | English | 日本語 | 版本发布 | 问题反馈 界面预览 🖥️ WebUI API 特别…"
-  },
-  {
-    "id": "技术-github python-https://github.com/google/skills",
-    "feed_name": "github python",
-    "category": "技术",
-    "title": "google/skills",
-    "link": "https://github.com/google/skills",
-    "pub_date": "",
-    "author": "",
-    "description": "Agent Skills for Google products and technologies Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation npx skills add google/skills When prompted, …",
-    "content": "Agent Skills for Google products and technologies Agent Skills This repository contains Agent Skills for Google products and technologies, including Google Cloud . Installation npx skills add google/skills When prompted, select specific skills or all skills, t…"
-  },
-  {
-    "id": "技术-github python-https://github.com/NVIDIA/SkillSpector",
-    "feed_name": "github python",
-    "category": "技术",
-    "title": "NVIDIA/SkillSpector",
-    "link": "https://github.com/NVIDIA/SkillSpector",
-    "pub_date": "",
-    "author": "",
-    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.…",
-    "content": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them. https://docs.nvidia.com/skills/scanning…"
-  },
-  {
-    "id": "技术-github python-https://github.com/mvanhorn/last30days-skill",
-    "feed_name": "github python",
-    "category": "技术",
-    "title": "mvanhorn/last30days-skill",
-    "link": "https://github.com/mvanhorn/last30days-skill",
-    "pub_date": "",
-    "author": "",
-    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary /last30days English | Français | Deutsch | Español | Português (Brasil) | 日本語 | 简体中文 |…",
-    "content": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary /last30days English | Français | Deutsch | Español | Português (Brasil) | 日本語 | 简体中文 | العربية An AI agent-led search engine s…"
-  },
-  {
-    "id": "技术-github python-https://github.com/bradautomates/claude-video",
-    "feed_name": "github python",
-    "category": "技术",
-    "title": "bradautomates/claude-video",
-    "link": "https://github.com/bradautomates/claude-video",
-    "pub_date": "",
-    "author": "",
-    "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude. /watch Give an agent video evidence: a URL or local file becomes timestamped frames and a transcript. In…",
-    "content": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude. /watch Give an agent video evidence: a URL or local file becomes timestamped frames and a transcript. Install it in Claude Code (the desktop app…"
-  },
-  {
-    "id": "技术-github python-https://github.com/NVIDIA/auto-ontology",
-    "feed_name": "github python",
-    "category": "技术",
-    "title": "NVIDIA/auto-ontology",
-    "link": "https://github.com/NVIDIA/auto-ontology",
-    "pub_date": "",
-    "author": "",
-    "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.…",
-    "content": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. Auto Ontology Agents can retrieve docum…"
-  },
-  {
-    "id": "技术-github python-https://github.com/kajisho5/ffmpeg-skill",
-    "feed_name": "github python",
-    "category": "技术",
-    "title": "kajisho5/ffmpeg-skill",
-    "link": "https://github.com/kajisho5/ffmpeg-skill",
-    "pub_date": "",
-    "author": "",
-    "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys. http…",
-    "content": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys. https://www.npmjs.com/package/ffmpeg-skill G…"
-  },
-  {
-    "id": "技术-github go-https://github.com/opensandbox-group/OpenSandbox",
-    "feed_name": "github go",
-    "category": "技术",
-    "title": "opensandbox-group/OpenSandbox",
-    "link": "https://github.com/opensandbox-group/OpenSandbox",
-    "pub_date": "",
-    "author": "",
-    "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents. https://open-sandbox.ai OpenSandbox An Agentic AI Foundation (AAIF) Project Run AI agents in sandboxes on your own infrastructure. OpenSandbox gives AI applicat…",
-    "content": "Secure, Fast, and Extensible Sandbox runtime for AI agents. https://open-sandbox.ai OpenSandbox An Agentic AI Foundation (AAIF) Project Run AI agents in sandboxes on your own infrastructure. OpenSandbox gives AI applications isolated environments to execute co…"
-  },
-  {
-    "id": "技术-github go-https://github.com/JuliusBrussee/caveman",
-    "feed_name": "github go",
-    "category": "技术",
-    "title": "JuliusBrussee/caveman",
-    "link": "https://github.com/JuliusBrussee/caveman",
-    "pub_date": "",
-    "author": "",
-    "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. https://docs.caveman.so/caveman New: Caveman Code. Free. The most efficient coding a…",
-    "content": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. https://docs.caveman.so/caveman New: Caveman Code. Free. The most efficient coding agent. Same model, same work, smaller bil…"
-  },
-  {
-    "id": "技术-github go-https://github.com/dsx-ai-factory/nvke",
-    "feed_name": "github go",
-    "category": "技术",
-    "title": "dsx-ai-factory/nvke",
-    "link": "https://github.com/dsx-ai-factory/nvke",
-    "pub_date": "",
-    "author": "",
-    "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal. https://docs.nvidia.com/nvke/ NVIDIA Kubernetes Engine (NVKE) Run a managed Kubernetes service on your own NVIDIA GPU infrastructure. …",
-    "content": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal. https://docs.nvidia.com/nvke/ NVIDIA Kubernetes Engine (NVKE) Run a managed Kubernetes service on your own NVIDIA GPU infrastructure. NVIDIA Kubernetes® Engine (NVKE) provide…"
   }
 ];
 

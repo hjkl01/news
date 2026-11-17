@@ -1,5 +1,225 @@
 const jsonData = [
   {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261117/trump-asia-china-xi-putin/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "关于特朗普访华及中美俄首脑会晤，你应该了解的",
+    "link": "https://cn.nytimes.com/world/20261117/trump-asia-china-xi-putin/dual",
+    "pub_date": "2026-11-17 11:06:04",
+    "author": "",
+    "description": "郭莉莉2026年11月17日俄罗斯艺术家阿列克谢·谢尔吉延科创作的绘画作品，描绘了美国、俄罗斯和中国的领导人。这幅画于周四在俄罗斯圣彼得堡首次亮相。 Andrei Bok/Reuters President Trump sets off this week for meetings in Asia that will culminate in a summit with two strongmen he has often praise…",
+    "content": "郭莉莉 2026年11月17日 俄罗斯艺术家阿列克谢·谢尔吉延科创作的绘画作品，描绘了美国、俄罗斯和中国的领导人。这幅画于周四在俄罗斯圣彼得堡首次亮相。 Andrei Bok/Reuters President Trump sets off this week for meetings in Asia that will culminate in a summit with two strongmen he has often praised: President Xi Jinping of China and P…"
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+    "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-17 10:37:53",
+    "author": "",
+    "description": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+    "content": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back."
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261117/trump-china-ai-chip-loophole/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "特朗普访华前，美国推进新规封堵芯片出口漏洞",
+    "link": "https://cn.nytimes.com/usa/20261117/trump-china-ai-chip-loophole/dual",
+    "pub_date": "2026-11-17 10:36:03",
+    "author": "",
+    "description": "ANA SWANSON, TONY ROMM2026年11月17日位于马来西亚柔佛州的一座正在建设中的Megaspeed数据中心。 Ulet Ifansasti for The New York Times The Trump administration said on Monday that it was moving forward with a new rule that would clamp down on China’s …",
+    "content": "ANA SWANSON, TONY ROMM 2026年11月17日 位于马来西亚柔佛州的一座正在建设中的Megaspeed数据中心。 Ulet Ifansasti for The New York Times The Trump administration said on Monday that it was moving forward with a new rule that would clamp down on China’s ability to access advanced A.I. chips …"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261117/jensen-huang-nvidia-china-asia/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "黄仁勋骤然离场，亚洲失去驻美“AI大使”",
+    "link": "https://cn.nytimes.com/business/20261117/jensen-huang-nvidia-china-asia/dual",
+    "pub_date": "2026-11-17 09:36:03",
+    "author": "",
+    "description": "黄瑞黎, ADAM SATARIANO, XINYUN WU, RIVER AKIRA DAVIS2026年11月17日7月，黄仁勋在东京一家餐厅外参加完晚宴活动后，向记者们分发了零食。 Tomohiro Ohsumi/Getty Images In Indonesia, Jensen Huang was called the leader of the artificial intelligence revolution. In Ja…",
+    "content": "黄瑞黎, ADAM SATARIANO, XINYUN WU, RIVER AKIRA DAVIS 2026年11月17日 7月，黄仁勋在东京一家餐厅外参加完晚宴活动后，向记者们分发了零食。 Tomohiro Ohsumi/Getty Images In Indonesia, Jensen Huang was called the leader of the artificial intelligence revolution. In Japan, he was “the next Steve Jobs,” acc…"
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Five EU countries announce migrant deportation centre in Rwanda",
+    "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-17 07:20:45",
+    "author": "",
+    "description": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+    "content": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "California sues OpenAI over hacking risks",
+    "link": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
+    "pub_date": "2026-11-17 06:06:22",
+    "author": "",
+    "description": "The state's attorney general started investigating OpenAI after the Hugging Face attack and now says this attack was \"entirely foreseeable\" due to OpenAI's poor security practices.",
+    "content": "The state's attorney general started investigating OpenAI after the Hugging Face attack and now says this attack was \"entirely foreseeable\" due to OpenAI's poor security practices."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+    "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-17 05:40:07",
+    "author": "",
+    "description": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+    "content": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
+    "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-17 04:33:57",
+    "author": "",
+    "description": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
+    "content": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
+    "link": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-17 03:30:30",
+    "author": "",
+    "description": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
+    "content": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
+    "link": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
+    "pub_date": "2026-11-17 02:49:26",
+    "author": "",
+    "description": "The new rule closes a loophole that existed that allowed Chinese companies to still access advanced AI chips remotely, despite U.S. restrictions on their physical sale to China.",
+    "content": "The new rule closes a loophole that existed that allowed Chinese companies to still access advanced AI chips remotely, despite U.S. restrictions on their physical sale to China."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
+    "link": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
+    "pub_date": "2026-11-17 02:04:50",
+    "author": "",
+    "description": "Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally binding controls, campaigners fear the win…",
+    "content": "Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally binding controls, campaigners fear the window to act is closing."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/16/nx-s1-6042432/nearly-two-million-people-are-behind-bars-in-the-us-how-did-we-get-here",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Nearly two million people are behind bars in the US. How did we get here?",
+    "link": "https://www.npr.org/2026/11/16/nx-s1-6042432/nearly-two-million-people-are-behind-bars-in-the-us-how-did-we-get-here",
+    "pub_date": "2026-11-17 01:34:07",
+    "author": "",
+    "description": "Lynn Novick's new, four-part PBS documentary series, Crime and Punishment in America, goes inside the U.S. prison system and explores how our approach to criminals has changed over time.",
+    "content": "Lynn Novick's new, four-part PBS documentary series, Crime and Punishment in America , goes inside the U.S. prison system and explores how our approach to criminals has changed over time."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "When will we see Robert Pattinson as Bond in cinemas?",
+    "link": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-17 01:18:54",
+    "author": "",
+    "description": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
+    "content": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/16/nx-s1-5983473/clancy-trial-retrial-murder-charges",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Lindsay Clancy to face a new trial in spring of 2027 over children's killing",
+    "link": "https://www.npr.org/2026/11/16/nx-s1-5983473/clancy-trial-retrial-murder-charges",
+    "pub_date": "2026-11-17 00:28:19",
+    "author": "",
+    "description": "A new trial is set in Massachusetts against Lindsay Clancy as prosecutors seek a criminal conviction over the killing of her three young children.",
+    "content": "A new trial is set in Massachusetts against Lindsay Clancy as prosecutors seek a criminal conviction over the killing of her three young children."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-16 23:40:16",
+    "author": "",
+    "description": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+    "content": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/crkgvnl51w1vo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Street cricket with a legend then metro ride as William and Kate begin India visit",
+    "link": "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-16 23:08:59",
+    "author": "",
+    "description": "The Prince and Princess of Wales are visiting Mumbai for the Earthshot Prize this week, but started their trip with some fun outings.",
+    "content": "The Prince and Princess of Wales are visiting Mumbai for the Earthshot Prize this week, but started their trip with some fun outings."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c574290jvk8wo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Robert Pattinson: How the Twilight star became 007",
+    "link": "https://www.bbc.co.uk/news/articles/c574290jvk8wo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-16 23:02:41",
+    "author": "",
+    "description": "The Twilight, Batman and Odyssey star's profile will go even more stellar when he plays James Bond.",
+    "content": "The Twilight, Batman and Odyssey star's profile will go even more stellar when he plays James Bond."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+    "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-16 22:58:12",
+    "author": "",
+    "description": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
+    "content": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Raye, Rosalía and Dolly Parton recognised in Grammy nominations",
+    "link": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-16 22:48:55",
+    "author": "",
+    "description": "British singer Raye lands 11 nominations while Dolly Parton is recognised two months after her death.",
+    "content": "British singer Raye lands 11 nominations while Dolly Parton is recognised two months after her death."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
+    "link": "https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-16 22:22:36",
+    "author": "",
+    "description": "The Estonian government says Russia was behind the attempted sabotage, which the Kremlin denies.",
+    "content": "The Estonian government says Russia was behind the attempted sabotage, which the Kremlin denies."
+  },
+  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -9,17 +229,6 @@ const jsonData = [
     "author": "",
     "description": "The French film star was due to start an appeal trial after being found guilty of sexually assaulting two women on a Paris set.",
     "content": "The French film star was due to start an appeal trial after being found guilty of sexually assaulting two women on a Paris set."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
-    "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-16 20:54:44",
-    "author": "",
-    "description": "Germany, Denmark, Austria, Greece and the Netherlands are expected to announce a \"return hub\" for failed asylum seekers.",
-    "content": "Germany, Denmark, Austria, Greece and the Netherlands are expected to announce a \"return hub\" for failed asylum seekers."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cvde1klewg88o?at_medium=RSS&at_campaign=rss",
@@ -33,28 +242,6 @@ const jsonData = [
     "content": "The poet, writer and diplomat died in Europe in 1974 having been forced to leave his native country."
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cr0qj0nzwj34o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Man sentenced over 'horrific' attempted murder of three children",
-    "link": "https://www.bbc.co.uk/news/articles/cr0qj0nzwj34o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-16 20:27:15",
-    "author": "",
-    "description": "Riad Bouchaker was sentenced after the attempted murder of three children in November 2023.",
-    "content": "Riad Bouchaker was sentenced after the attempted murder of three children in November 2023."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
-    "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-16 20:20:49",
-    "author": "",
-    "description": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-    "content": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back."
-  },
-  {
     "id": "国外-NPR News-https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip",
     "feed_name": "NPR News",
     "category": "国外",
@@ -66,26 +253,26 @@ const jsonData = [
     "content": "U.S. Transportation Secretary Sean Duffy said that things could be back to normal at the end of Monday after an FAA ground stop disrupted flights. And, Trump heads to Asia for a high-profile trilateral summit."
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
+    "id": "国外-NPR News-https://www.npr.org/2026/11/16/nx-s1-6041687/chris-van-hollen-chuck-schumer-senate-leader",
+    "feed_name": "NPR News",
     "category": "国外",
-    "title": "Klopp says Infantino worse than Blatter",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-16 19:27:08",
+    "title": "Chris Van Hollen says he can beat Chuck Schumer. Here's his case",
+    "link": "https://www.npr.org/2026/11/16/nx-s1-6041687/chris-van-hollen-chuck-schumer-senate-leader",
+    "pub_date": "2026-11-16 19:39:14",
     "author": "",
-    "description": "Germany manager Jurgen Klopp says he \"didn't think things could get worse after Sepp Blatter, but someone has managed to do just that\" as he calls for Fifa president Gianni Infantino to be replaced.",
-    "content": "Germany manager Jurgen Klopp says he \"didn't think things could get worse after Sepp Blatter, but someone has managed to do just that\" as he calls for Fifa president Gianni Infantino to be replaced."
+    "description": "Sen. Chris Van Hollen told NPR's Morning Edition why he believes he can defeat Sen. Chuck Schumer and what he would change about Senate Democratic leadership.",
+    "content": "Sen. Chris Van Hollen told NPR's Morning Edition why he believes he can defeat Sen. Chuck Schumer and what he would change about Senate Democratic leadership."
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
+    "id": "国外-NPR News-https://www.npr.org/2026/11/16/nx-s1-6037801/regulating-ai-will-being-a-top-priority-for-congressional-democrats-in-the-new-year",
+    "feed_name": "NPR News",
     "category": "国外",
-    "title": "Yemeni forces retreat to defend port city from Houthis",
-    "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-16 19:09:38",
+    "title": "Regulating AI will being a top priority for congressional Democrats in the new year",
+    "link": "https://www.npr.org/2026/11/16/nx-s1-6037801/regulating-ai-will-being-a-top-priority-for-congressional-democrats-in-the-new-year",
+    "pub_date": "2026-11-16 19:38:50",
     "author": "",
-    "description": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden.",
-    "content": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden."
+    "description": "A big priority for the incoming Congress will be regulating artificial intelligence. Democrats will face stiff opposition from the Trump administration and its hands-off policy towards AI.",
+    "content": "A big priority for the incoming Congress will be regulating artificial intelligence. Democrats will face stiff opposition from the Trump administration and its hands-off policy towards AI."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
@@ -99,17 +286,6 @@ const jsonData = [
     "content": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime."
   },
   {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
-    "link": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
-    "pub_date": "2026-11-16 18:00:00",
-    "author": "",
-    "description": "The trip to China marks Trump's second time this year, and comes as the president and his party faced widespread backlash from voters in the recent midterm elections.",
-    "content": "The trip to China marks Trump's second time this year, and comes as the president and his party faced widespread backlash from voters in the recent midterm elections."
-  },
-  {
     "id": "国外-NPR News-https://www.npr.org/2026/11/16/nx-s1-6020923/arctic-bird-migration-alaska-climate-change",
     "feed_name": "NPR News",
     "category": "国外",
@@ -119,17 +295,6 @@ const jsonData = [
     "author": "",
     "description": "Migratory birds cross the entire globe, carefully timing their journeys with the seasons. In a hotter climate, that timing is increasingly out of sync.",
     "content": "Migratory birds cross the entire globe, carefully timing their journeys with the seasons. In a hotter climate, that timing is increasingly out of sync."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/16/nx-s1-6034048/snap-san-diego-food-assistance",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "As millions lose food aid nationwide, this SNAP office is doubling up as a food pantry",
-    "link": "https://www.npr.org/2026/11/16/nx-s1-6034048/snap-san-diego-food-assistance",
-    "pub_date": "2026-11-16 18:00:00",
-    "author": "",
-    "description": "The cuts and changes to SNAP have been difficult for government workers who take pride in helping others. In San Diego, workers said they couldn't sit back while their neighbors went hungry.",
-    "content": "The cuts and changes to SNAP have been difficult for government workers who take pride in helping others. In San Diego, workers said they couldn't sit back while their neighbors went hungry."
   },
   {
     "id": "国外-NPR News-https://www.npr.org/2026/11/16/nx-s1-6028826/student-podcast-challenge-2027-information-deadline",
@@ -143,50 +308,6 @@ const jsonData = [
     "content": "The annual audio competition for grades four through 12 returns in January. Now in its ninth year, the contest has involved more than 90,000 students around the country."
   },
   {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/16/nx-s1-6037761/sleep-weight-gain-loss",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Why sleep matters when it comes to weight gain and loss",
-    "link": "https://www.npr.org/2026/11/16/nx-s1-6037761/sleep-weight-gain-loss",
-    "pub_date": "2026-11-16 18:00:00",
-    "author": "",
-    "description": "Sleep can have a powerful impact on weight. Research shows it can affect appetite. There is also a two-way relationship between sleep quality and diet.",
-    "content": "Sleep can have a powerful impact on weight. Research shows it can affect appetite. There is also a two-way relationship between sleep quality and diet."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/16/nx-s1-6038373/morning-news-brief",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Morning news brief",
-    "link": "https://www.npr.org/2026/11/16/nx-s1-6038373/morning-news-brief",
-    "pub_date": "2026-11-16 17:46:19",
-    "author": "",
-    "description": "Thousands of travelers are still waiting to reschedule flights after Friday's nationwide ground stop, Sen. Chris Van Hollen mounts bid to become Senate majority leader, President Trump heads to Asia.",
-    "content": "Thousands of travelers are still waiting to reschedule flights after Friday's nationwide ground stop, Sen. Chris Van Hollen mounts bid to become Senate majority leader, President Trump heads to Asia."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/13/nx-s1-6034941/affordability-childcare-midterms",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Affordability was a key issue for midterm voters. It helped make childcare one, too",
-    "link": "https://www.npr.org/2026/11/13/nx-s1-6034941/affordability-childcare-midterms",
-    "pub_date": "2026-11-16 17:45:55",
-    "author": "",
-    "description": "Childcare costs have surged, putting a major financial burden on U.S. families. Advocates say the subject once on the fringes of political debate became a major issue during the midterms.",
-    "content": "Childcare costs have surged, putting a major financial burden on U.S. families. Advocates say the subject once on the fringes of political debate became a major issue during the midterms."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
-    "link": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-16 16:56:04",
-    "author": "",
-    "description": "The UK, Australia, Canada and Italy say Israeli authorities are holding back vital supplies at the borders, including 150,00 tents.",
-    "content": "The UK, Australia, Canada and Italy say Israeli authorities are holding back vital supplies at the borders, including 150,00 tents."
-  },
-  {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/technology/20261116/jensen-huang-nvidia-board/dual",
     "feed_name": "纽约时报双语版",
     "category": "国外",
@@ -196,17 +317,6 @@ const jsonData = [
     "author": "",
     "description": "TRIPP MICKLE, ANA SWANSON, 孟建国, JONATHAN SWAN, JULIAN E. BARNES, MAGGIE HABERMAN2026年11月16日上周四，黄仁勋辞去了英伟达首席执行官的职务。 Mike Kai Chen for The New York Times Jensen Huang was agitated. 黄仁勋焦躁不安。 It was September 2025, and The Ne…",
     "content": "TRIPP MICKLE, ANA SWANSON, 孟建国, JONATHAN SWAN, JULIAN E. BARNES, MAGGIE HABERMAN 2026年11月16日 上周四，黄仁勋辞去了英伟达首席执行官的职务。 Mike Kai Chen for The New York Times Jensen Huang was agitated. 黄仁勋焦躁不安。 It was September 2025, and The New York Times had just called his compa…"
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cj93rggenq4xo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "US basketball player arrested with 34kg of cannabis at Nigerian airport",
-    "link": "https://www.bbc.co.uk/news/articles/cj93rggenq4xo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-16 15:24:45",
-    "author": "",
-    "description": "The anti-drugs agency says the American attempted to leave the airport, abandoning his luggage with the drugs.",
-    "content": "The anti-drugs agency says the American attempted to leave the airport, abandoning his luggage with the drugs."
   },
   {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20261116/jensen-huang-taiwan/dual",
@@ -223,34 +333,12 @@ const jsonData = [
     "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/cm3wgeqnppljo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
-    "title": "Watch: New York teen reunites with cat missing after building collapse",
+    "title": "New York teen reunites with cat missing after building collapse",
     "link": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo?at_medium=RSS&at_campaign=rss",
     "pub_date": "2026-11-16 12:36:45",
     "author": "",
     "description": "Rescuers found the pet cat in the ruins of Zariah's apartment four days after she made an emotional plea to the public.",
     "content": "Rescuers found the pet cat in the ruins of Zariah's apartment four days after she made an emotional plea to the public."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Mexican drug lord Miguel Ángel Félix Gallardo dies age 80",
-    "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-16 11:21:56",
-    "author": "",
-    "description": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
-    "content": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
-    "link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-16 11:09:49",
-    "author": "",
-    "description": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
-    "content": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago."
   },
   {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261116/nvidia-trump-huang-china-xi/dual",
@@ -297,26 +385,15 @@ const jsonData = [
     "content": "ALI WATKINS 2026年11月16日 Megaspeed位于新加坡的办公室。该公司表示，前高管黄乐目前在公司没有担任任何职务。美国官员指控她为中国从事间谍活动。 Taryn Ng/Agence France-Presse — Getty Images Megaspeed, the Singaporean data center company, said in a statement on Sunday that Alice Huang, a former executive at the center …"
   },
   {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/15/nx-s1-6041683/flight-disruptions-expected-to-last-into-monday",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Flight disruptions expected to last into Monday",
-    "link": "https://www.npr.org/2026/11/15/nx-s1-6041683/flight-disruptions-expected-to-last-into-monday",
-    "pub_date": "2026-11-16 09:19:28",
-    "author": "",
-    "description": "Congress recently gave the Department of Transportation $12.5 billion to upgrade the aging air traffic control system. President Trump wants more.",
-    "content": "Congress recently gave the Department of Transportation $12.5 billion to upgrade the aging air traffic control system. President Trump wants more."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
-    "title": "Clothing factories shut in Bangladesh as workers strike over pay",
-    "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-16 09:05:44",
+    "title": "Is India rethinking its short-term military recruitment scheme?",
+    "link": "https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-16 08:41:42",
     "author": "",
-    "description": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
-    "content": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month."
+    "description": "India has softened its recruitment scheme, giving young soldiers a longer military stint and another shot at permanent service.",
+    "content": "India has softened its recruitment scheme, giving young soldiers a longer military stint and another shot at permanent service."
   },
   {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261115/trump-putin-xi-china-nuclear-proliferation/dual",
@@ -337,8 +414,8 @@ const jsonData = [
     "link": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
     "pub_date": "2026-11-16 08:13:14",
     "author": "",
-    "description": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
-    "content": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power"
+    "description": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power.",
+    "content": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cr0qjz77j4k1o?at_medium=RSS&at_campaign=rss",
@@ -352,70 +429,15 @@ const jsonData = [
     "content": "The remarkable reconstruction of Derna is being used as a showcase for the rest of Libya by Khalifa Haftar and his sons."
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/sport/tennis/articles/c61740145y7wo?at_medium=RSS&at_campaign=rss",
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
-    "title": "Teenager Andreeva caps stunning week with WTA Finals title",
-    "link": "https://www.bbc.co.uk/sport/tennis/articles/c61740145y7wo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-16 07:18:38",
+    "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+    "link": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-16 02:38:11",
     "author": "",
-    "description": "French Open champion Mirra Andreeva caps her stellar season with a hard-fought victory over Elina Svitolina to win the WTA Finals.",
-    "content": "French Open champion Mirra Andreeva caps her stellar season with a hard-fought victory over Elina Svitolina to win the WTA Finals."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Far from home. Voyager 1 is now farther than anything man has sent into space",
-    "link": "https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space",
-    "pub_date": "2026-11-16 06:41:22",
-    "author": "",
-    "description": "NASA's Voyager 1, which is the furthest man-made object from Earth, is set to reach a new milestone this week. On Wednesday, the probe will be roughly 16 billion miles from Earth.",
-    "content": "NASA's Voyager 1, which is the furthest man-made object from Earth, is set to reach a new milestone this week. On Wednesday, the probe will be roughly 16 billion miles from Earth."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-    "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-16 03:32:39",
-    "author": "",
-    "description": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
-    "content": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "How telecoms upgrade work sparked US flight chaos",
-    "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-15 22:57:15",
-    "author": "",
-    "description": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-    "content": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
-    "link": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-15 08:06:55",
-    "author": "",
-    "description": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
-    "content": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Judo champion shakes up French presidential race with surprise candidacy",
-    "link": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-15 08:06:51",
-    "author": "",
-    "description": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
-    "content": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him."
+    "description": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
+    "content": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
@@ -427,61 +449,6 @@ const jsonData = [
     "author": "",
     "description": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
     "content": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\"."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
-    "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-15 03:14:33",
-    "author": "",
-    "description": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
-    "content": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
-    "link": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-13 23:09:40",
-    "author": "",
-    "description": "The ship was intentionally sunk off the coast of Florida in order to create the world's largest artificial ocean reef.",
-    "content": "The ship was intentionally sunk off the coast of Florida in order to create the world's largest artificial ocean reef."
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/opinion/20261113/jensen-huang-nvidia/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "黄仁勋因何跌落神坛？傲慢与自负",
-    "link": "https://cn.nytimes.com/opinion/20261113/jensen-huang-nvidia/dual",
-    "pub_date": "2026-11-13 14:36:04",
-    "author": "",
-    "description": "STEPHEN WITT2026年11月13日 We live in the age of artificial intelligence — an age that Jensen Huang, perhaps more than any other single person, has made possible. The systems we are building with Nvidia’s equipment will tra…",
-    "content": "STEPHEN WITT 2026年11月13日 We live in the age of artificial intelligence — an age that Jensen Huang, perhaps more than any other single person, has made possible. The systems we are building with Nvidia’s equipment will transform our society and culture in ways …"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261113/nvidia-ceo-huang-ai-memes/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "黄仁勋丑闻引发人工智能“玩梗”热潮",
-    "link": "https://cn.nytimes.com/usa/20261113/nvidia-ceo-huang-ai-memes/dual",
-    "pub_date": "2026-11-13 13:36:04",
-    "author": "",
-    "description": "ZANE IRWIN2026年11月13日英伟达董事会周四宣布，联合创始人兼首席执行官黄仁勋已辞职。 Anthony Wallace/Agence France-Presse — Getty Images Jensen Huang and his leather-clad likeness had become synonymous with the technological giant he co-founded, Nvidia. …",
-    "content": "ZANE IRWIN 2026年11月13日 英伟达董事会周四宣布，联合创始人兼首席执行官黄仁勋已辞职。 Anthony Wallace/Agence France-Presse — Getty Images Jensen Huang and his leather-clad likeness had become synonymous with the technological giant he co-founded, Nvidia. They were so entwined that, this year,…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261113/trump-jensen-huang-nvidia/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "特朗普曾敦促黄仁勋为保住英伟达CEO职位而战",
-    "link": "https://cn.nytimes.com/usa/20261113/trump-jensen-huang-nvidia/dual",
-    "pub_date": "2026-11-13 11:36:04",
-    "author": "",
-    "description": "MAGGIE HABERMAN, JONATHAN SWAN, TRIPP MICKLE, JULIAN E. BARNES2026年11月13日特朗普总统与黄仁勋上个月在华盛顿的一场峰会期间。 Demetrius Freeman for The New York Times President Trump called Jensen Huang on Tuesday, before the Nvidia chief stepped d…",
-    "content": "MAGGIE HABERMAN, JONATHAN SWAN, TRIPP MICKLE, JULIAN E. BARNES 2026年11月13日 特朗普总统与黄仁勋上个月在华盛顿的一场峰会期间。 Demetrius Freeman for The New York Times President Trump called Jensen Huang on Tuesday, before the Nvidia chief stepped down amid a rapidly unfolding spy scand…"
   },
   {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261022-%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E8%BF%87%E4%B8%A4%E4%BA%BF%E9%83%A8%E6%89%8B%E6%9C%BA%E6%96%B0%E5%8F%8D%E8%AF%88%E7%A8%8B%E5%BA%8F%E8%AF%86%E5%88%AB%E7%9B%98%E9%97%AE%E6%B5%8F%E8%A7%88%E5%A2%99%E5%A4%96%E8%B4%A2%E7%BB%8F%E7%BD%91%E7%AB%99%E4%BA%BA%E5%91%98",
