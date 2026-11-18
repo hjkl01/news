@@ -1,5 +1,258 @@
 const jsonData = [
   {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/17/g-s1-151567/alaska-senate-results-peltola-sullivan",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Mary Peltola flips Alaska's Senate seat into Democrats' column",
+    "link": "https://www.npr.org/2026/11/17/g-s1-151567/alaska-senate-results-peltola-sullivan",
+    "pub_date": "2026-11-18 11:27:23",
+    "author": "",
+    "description": "Former Democratic Rep. Mary Peltola has narrowly won Alaska's U.S. Senate race, toppling the Republican incumbent, according to a race call by The Associated Press.",
+    "content": "Former Democratic Rep. Mary Peltola has narrowly won Alaska's U.S. Senate race, toppling the Republican incumbent, according to a race call by The Associated Press."
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20261118/trump-xi-meeting-tensions/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "习近平与特朗普“友谊”表象下，中美经济裂痕扩大",
+    "link": "https://cn.nytimes.com/china/20261118/trump-xi-meeting-tensions/dual",
+    "pub_date": "2026-11-18 10:36:03",
+    "author": "",
+    "description": "艾莎, MURPHY ZHAO2026年11月18日9月，特朗普总统和第一夫人梅拉尼娅在白宫欢迎中国国家主席习近平和夫人彭丽媛。 Haiyun Jiang/The New York Times In front of the cameras, President Trump and China’s Xi Jinping have showcased a budding friendship, cemented by state visi…",
+    "content": "艾莎, MURPHY ZHAO 2026年11月18日 9月，特朗普总统和第一夫人梅拉尼娅在白宫欢迎中国国家主席习近平和夫人彭丽媛。 Haiyun Jiang/The New York Times In front of the cameras, President Trump and China’s Xi Jinping have showcased a budding friendship, cemented by state visits, friendly pats on the arm and the o…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261118/carney-china-xi-trade-apec/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "中加达成贸易协议进一步削减关税，两国关系升温",
+    "link": "https://cn.nytimes.com/world/20261118/carney-china-xi-trade-apec/dual",
+    "pub_date": "2026-11-18 09:36:03",
+    "author": "",
+    "description": "IAN AUSTEN2026年11月18日加拿大总理马克·卡尼与中国领导人习近平周二在深圳会晤。 Adrian Wyld/The Canadian Press, via Associated Press Prime Minister Mark Carney of Canada and China’s leader, Xi Jinping, have struck an agreement to reduce some tariffs b…",
+    "content": "IAN AUSTEN 2026年11月18日 加拿大总理马克·卡尼与中国领导人习近平周二在深圳会晤。 Adrian Wyld/The Canadian Press, via Associated Press Prime Minister Mark Carney of Canada and China’s leader, Xi Jinping, have struck an agreement to reduce some tariffs between their countries, a largely symb…"
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+    "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-18 09:18:18",
+    "author": "",
+    "description": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+    "content": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang."
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261118/trump-china-ai-chip-policy/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "英伟达丑闻加深特朗普政府内部裂痕",
+    "link": "https://cn.nytimes.com/usa/20261118/trump-china-ai-chip-policy/dual",
+    "pub_date": "2026-11-18 09:06:04",
+    "author": "",
+    "description": "JONATHAN SWAN, MAGGIE HABERMAN, ANA SWANSON, SHAWN McCREESH2026年11月18日 President Trump headed on Monday for a trip to Asia to meet President Xi Jinping of China with his administration openly divided over how hard to squ…",
+    "content": "JONATHAN SWAN, MAGGIE HABERMAN, ANA SWANSON, SHAWN McCREESH 2026年11月18日 President Trump headed on Monday for a trip to Asia to meet President Xi Jinping of China with his administration openly divided over how hard to squeeze that country on artificial intelli…"
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+    "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-18 07:02:12",
+    "author": "",
+    "description": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+    "content": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+    "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-18 06:46:30",
+    "author": "",
+    "description": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+    "content": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+    "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-18 06:44:15",
+    "author": "",
+    "description": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
+    "content": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+    "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-18 05:24:35",
+    "author": "",
+    "description": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+    "content": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Russian military plane crashes, killing all 19 on board",
+    "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-18 05:06:11",
+    "author": "",
+    "description": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
+    "content": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "US loses measles elimination status after 26 years amid record case numbers",
+    "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-18 05:04:00",
+    "author": "",
+    "description": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
+    "content": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+    "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-18 04:30:20",
+    "author": "",
+    "description": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+    "content": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+    "link": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-18 04:25:46",
+    "author": "",
+    "description": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
+    "content": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\"."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
+    "link": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-18 02:58:57",
+    "author": "",
+    "description": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
+    "content": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
+    "link": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
+    "pub_date": "2026-11-18 02:34:31",
+    "author": "",
+    "description": "Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, and the U.S. retaliated by firing at Iranian targets along an important shipping route.",
+    "content": "Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, and the U.S. retaliated by firing at Iranian targets along an important shipping route."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "UK sanctions firms over Israeli West Bank settlements",
+    "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-18 02:27:27",
+    "author": "",
+    "description": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+    "content": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+    "link": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-18 02:20:36",
+    "author": "",
+    "description": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
+    "content": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Who to watch in Spain's election race",
+    "link": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-18 02:13:45",
+    "author": "",
+    "description": "Spain votes on 29 November, with the conservatives and the far right favourites to win after eight years of Socialist-led rule.",
+    "content": "Spain votes on 29 November, with the conservatives and the far right favourites to win after eight years of Socialist-led rule."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+    "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-18 01:37:04",
+    "author": "",
+    "description": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
+    "content": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\"."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Nvidia board says it does not intend to reinstate Jensen Huang as CEO",
+    "link": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
+    "pub_date": "2026-11-18 01:36:31",
+    "author": "",
+    "description": "The former Nvidia CEO said he would be \"honored\" to return if the board allowed. But the board says it has no intention of reinstating him.",
+    "content": "The former Nvidia CEO said he would be \"honored\" to return if the board allowed. But the board says it has no intention of reinstating him."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+    "link": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-18 01:19:57",
+    "author": "",
+    "description": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
+    "content": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "BBC reports from Kyiv bridge hit by Russian attack",
+    "link": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-17 23:54:15",
+    "author": "",
+    "description": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike.",
+    "content": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "How the attack on Crimean Bridge unfolded",
+    "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-17 23:38:10",
+    "author": "",
+    "description": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
+    "content": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv."
+  },
+  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -11,39 +264,6 @@ const jsonData = [
     "content": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily."
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-    "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-17 21:02:17",
-    "author": "",
-    "description": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-    "content": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-    "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-17 21:01:11",
-    "author": "",
-    "description": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-    "content": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
-    "link": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-17 20:35:57",
-    "author": "",
-    "description": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
-    "content": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead."
-  },
-  {
     "id": "国外-NPR News-https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
     "feed_name": "NPR News",
     "category": "国外",
@@ -53,6 +273,17 @@ const jsonData = [
     "author": "",
     "description": "Trump says he plans to discuss Ukraine during his Asia trip, which contradicts what the White House previously announced. And, Silicon Valley leaders are pushing for Jensen Huang's return to Nvidia.",
     "content": "Trump says he plans to discuss Ukraine during his Asia trip, which contradicts what the White House previously announced. And, Silicon Valley leaders are pushing for Jensen Huang's return to Nvidia."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/17/nx-s1-6042514/jack-reed-faa-oversight-ground-stop-funding",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Sen. Jack Reed says FAA needs a real plan, not just more money",
+    "link": "https://www.npr.org/2026/11/17/nx-s1-6042514/jack-reed-faa-oversight-ground-stop-funding",
+    "pub_date": "2026-11-17 19:58:42",
+    "author": "",
+    "description": "Sen. Jack Reed raised concerns about FAA oversight of contractors after last week's nationwide ground stop and criticized the Trump administration's request for $50 billion in additional funding.",
+    "content": "Sen. Jack Reed raised concerns about FAA oversight of contractors after last week's nationwide ground stop and criticized the Trump administration's request for $50 billion in additional funding."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss",
@@ -154,39 +385,6 @@ const jsonData = [
     "content": "While the rise of AI continues to fuel the debate over whether college is worth the cost, apprenticeships in the skilled trades are having a moment, drawing in people of all backgrounds including college graduates."
   },
   {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/17/nx-s1-6035684/school-cellphone-ban-learning-loss-yondr-research",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Does locking up a student's cell phone improve test scores? A new study suggests so",
-    "link": "https://www.npr.org/2026/11/17/nx-s1-6035684/school-cellphone-ban-learning-loss-yondr-research",
-    "pub_date": "2026-11-17 18:00:00",
-    "author": "",
-    "description": "A new study of school cellphone bans finds they may help students make up for some of the learning they've lost since 2013 – a divergence from earlier study results.",
-    "content": "A new study of school cellphone bans finds they may help students make up for some of the learning they've lost since 2013 – a divergence from earlier study results."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate",
-    "link": "https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war",
-    "pub_date": "2026-11-17 17:50:45",
-    "author": "",
-    "description": "A Ukrainian drone and missile attack prepared over several weeks struck a vital Russian rail and road bridge to the occupied Crimean Peninsula, Ukrainian President Volodymyr Zelenskyy said Tuesday.",
-    "content": "A Ukrainian drone and missile attack prepared over several weeks struck a vital Russian rail and road bridge to the occupied Crimean Peninsula, Ukrainian President Volodymyr Zelenskyy said Tuesday."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/17/nx-s1-6042259/morning-news-brief",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Morning news brief",
-    "link": "https://www.npr.org/2026/11/17/nx-s1-6042259/morning-news-brief",
-    "pub_date": "2026-11-17 17:46:54",
-    "author": "",
-    "description": "The FAA says it will rethink how it upgrades its aging system after nationwide ground stop, Trump to hold joint summit with leaders of China and Russia, Silicon Valley reacts to Nvidia scandal.",
-    "content": "The FAA says it will rethink how it upgrades its aging system after nationwide ground stop, Trump to hold joint summit with leaders of China and Russia, Silicon Valley reacts to Nvidia scandal."
-  },
-  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -198,28 +396,6 @@ const jsonData = [
     "content": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back."
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cm5y1wr1535ko?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Nigerians among 12 suspects arrested in $4.5m Canada luxury car theft syndicate",
-    "link": "https://www.bbc.co.uk/news/articles/cm5y1wr1535ko?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-17 16:11:20",
-    "author": "",
-    "description": "Canadian authorities say they have recovered 96 luxury vehicles destined for West Africa.",
-    "content": "Canadian authorities say they have recovered 96 luxury vehicles destined for West Africa."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Japan sends up jets after alleged Russian incursion of its airspace",
-    "link": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-17 15:44:17",
-    "author": "",
-    "description": "Taiwan and South Korea also responded to Russian military aircraft detected near their airspaces.",
-    "content": "Taiwan and South Korea also responded to Russian military aircraft detected near their airspaces."
-  },
-  {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261117/nvidia-jensen-madison-huang/dual",
     "feed_name": "纽约时报双语版",
     "category": "国外",
@@ -229,17 +405,6 @@ const jsonData = [
     "author": "",
     "description": "KALLEY HUANG, TRIPP MICKLE, RYAN MAC2026年11月17日8月，英伟达产品营销高级总监、黄仁勋之女黄敏珊在北京的2026年世界机器人大会上。 Maxim Shemetov/Reuters Madison Huang was yelling. Her father, Nvidia’s chief executive, Jensen Huang, had been scheduled to headlin…",
     "content": "KALLEY HUANG, TRIPP MICKLE, RYAN MAC 2026年11月17日 8月，英伟达产品营销高级总监、黄仁勋之女黄敏珊在北京的2026年世界机器人大会上。 Maxim Shemetov/Reuters Madison Huang was yelling. Her father, Nvidia’s chief executive, Jensen Huang, had been scheduled to headline a conference in New Delhi in Februar…"
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Body of Melbourne Cup horse found dumped in Sydney skip",
-    "link": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-17 15:01:00",
-    "author": "",
-    "description": "The remains of a top Australian racehorse that died of colic on Monday were found at a public rubbish tip.",
-    "content": "The remains of a top Australian racehorse that died of colic on Monday were found at a public rubbish tip."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/ckjwjl6ywgn9o?at_medium=RSS&at_campaign=rss",
@@ -319,17 +484,6 @@ const jsonData = [
     "content": "郭莉莉 2026年11月17日 俄罗斯艺术家阿列克谢·谢尔吉延科创作的绘画作品，描绘了美国、俄罗斯和中国的领导人。这幅画于周四在俄罗斯圣彼得堡首次亮相。 Andrei Bok/Reuters President Trump sets off this week for meetings in Asia that will culminate in a summit with two strongmen he has often praised: President Xi Jinping of China and P…"
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
-    "link": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-17 10:38:08",
-    "author": "",
-    "description": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan.",
-    "content": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan."
-  },
-  {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261117/trump-china-ai-chip-loophole/dual",
     "feed_name": "纽约时报双语版",
     "category": "国外",
@@ -339,61 +493,6 @@ const jsonData = [
     "author": "",
     "description": "ANA SWANSON, TONY ROMM2026年11月17日位于马来西亚柔佛州的一座正在建设中的Megaspeed数据中心。 Ulet Ifansasti for The New York Times The Trump administration said on Monday that it was moving forward with a new rule that would clamp down on China’s …",
     "content": "ANA SWANSON, TONY ROMM 2026年11月17日 位于马来西亚柔佛州的一座正在建设中的Megaspeed数据中心。 Ulet Ifansasti for The New York Times The Trump administration said on Monday that it was moving forward with a new rule that would clamp down on China’s ability to access advanced A.I. chips …"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261117/jensen-huang-nvidia-china-asia/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "黄仁勋骤然离场，亚洲失去驻美“AI大使”",
-    "link": "https://cn.nytimes.com/business/20261117/jensen-huang-nvidia-china-asia/dual",
-    "pub_date": "2026-11-17 09:36:03",
-    "author": "",
-    "description": "黄瑞黎, ADAM SATARIANO, XINYUN WU, RIVER AKIRA DAVIS2026年11月17日7月，黄仁勋在东京一家餐厅外参加完晚宴活动后，向记者们分发了零食。 Tomohiro Ohsumi/Getty Images In Indonesia, Jensen Huang was called the leader of the artificial intelligence revolution. In Ja…",
-    "content": "黄瑞黎, ADAM SATARIANO, XINYUN WU, RIVER AKIRA DAVIS 2026年11月17日 7月，黄仁勋在东京一家餐厅外参加完晚宴活动后，向记者们分发了零食。 Tomohiro Ohsumi/Getty Images In Indonesia, Jensen Huang was called the leader of the artificial intelligence revolution. In Japan, he was “the next Steve Jobs,” acc…"
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
-    "link": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-17 09:26:01",
-    "author": "",
-    "description": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
-    "content": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c3pw450ndyjqo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "BBC launches programme for children forced from school by bandits and poverty in West Africa",
-    "link": "https://www.bbc.co.uk/news/articles/c3pw450ndyjqo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-17 08:08:19",
-    "author": "",
-    "description": "The new show brings English, maths and science lessons to children via TV, radio and social media.",
-    "content": "The new show brings English, maths and science lessons to children via TV, radio and social media."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmewvxg855yno?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Taking Korea's toughest exam from behind bars",
-    "link": "https://www.bbc.co.uk/news/articles/cmewvxg855yno?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-17 07:09:49",
-    "author": "",
-    "description": "Eleven convicts at the Mandela Boys' School will be among the thousands of young Koreans taking the country's hardest exam, the Suneung.",
-    "content": "Eleven convicts at the Mandela Boys' School will be among the thousands of young Koreans taking the country's hardest exam, the Suneung."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "California sues OpenAI over hacking risks",
-    "link": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
-    "pub_date": "2026-11-17 06:06:22",
-    "author": "",
-    "description": "The state's attorney general started investigating OpenAI after the Hugging Face attack and now says this attack was \"entirely foreseeable\" due to OpenAI's poor security practices.",
-    "content": "The state's attorney general started investigating OpenAI after the Hugging Face attack and now says this attack was \"entirely foreseeable\" due to OpenAI's poor security practices."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o?at_medium=RSS&at_campaign=rss",
@@ -416,28 +515,6 @@ const jsonData = [
     "author": "",
     "description": "The Prince and Princess of Wales are visiting Mumbai for the Earthshot Prize this week, but started their trip with some fun outings.",
     "content": "The Prince and Princess of Wales are visiting Mumbai for the Earthshot Prize this week, but started their trip with some fun outings."
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/technology/20261116/jensen-huang-nvidia-board/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "黄仁勋的婚外情秘密是如何泄露到公众视野的",
-    "link": "https://cn.nytimes.com/technology/20261116/jensen-huang-nvidia-board/dual",
-    "pub_date": "2026-11-16 15:36:03",
-    "author": "",
-    "description": "TRIPP MICKLE, ANA SWANSON, 孟建国, JONATHAN SWAN, JULIAN E. BARNES, MAGGIE HABERMAN2026年11月16日上周四，黄仁勋辞去了英伟达首席执行官的职务。 Mike Kai Chen for The New York Times Jensen Huang was agitated. 黄仁勋焦躁不安。 It was September 2025, and The Ne…",
-    "content": "TRIPP MICKLE, ANA SWANSON, 孟建国, JONATHAN SWAN, JULIAN E. BARNES, MAGGIE HABERMAN 2026年11月16日 上周四，黄仁勋辞去了英伟达首席执行官的职务。 Mike Kai Chen for The New York Times Jensen Huang was agitated. 黄仁勋焦躁不安。 It was September 2025, and The New York Times had just called his compa…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20261116/jensen-huang-taiwan/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "台湾民众如何看待“国民爸爸”黄仁勋丑闻",
-    "link": "https://cn.nytimes.com/asia-pacific/20261116/jensen-huang-taiwan/dual",
-    "pub_date": "2026-11-16 14:06:03",
-    "author": "",
-    "description": "袁莉2026年11月16日台北临江夜市。 When the news broke in Taiwan on Thursday night that Jensen Huang had resigned as Nvidia’s chief executive, Ray Wang was too upset to sleep. He drank a whole bottle of red wine and prayed for Mr. Hua…",
-    "content": "袁莉 2026年11月16日 台北临江夜市。 When the news broke in Taiwan on Thursday night that Jensen Huang had resigned as Nvidia’s chief executive, Ray Wang was too upset to sleep. He drank a whole bottle of red wine and prayed for Mr. Huang. 周四晚间，黄仁勋 辞去 英伟达首席执行官职务的消息传到台湾时，王永泰…"
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/cm3wgeqnppljo?at_medium=RSS&at_campaign=rss",
