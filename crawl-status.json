@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-11-18T04:00:29.851Z",
-  "ended_at": "2026-11-18T04:00:30.085Z",
-  "duration_ms": 234,
+  "started_at": "2026-11-18T14:52:37.708Z",
+  "ended_at": "2026-11-18T14:52:37.889Z",
+  "duration_ms": 181,
   "config": {
     "concurrency": 16,
     "cache_enabled": true,
@@ -17,26 +17,20 @@
   "summary": {
     "total_sources": 62,
     "fetched_sources": 0,
-    "cache_hit_sources": 59,
-    "failed_sources": 3,
-    "circuit_open_sources": 3,
+    "cache_hit_sources": 60,
+    "failed_sources": 2,
+    "circuit_open_sources": 2,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1603,
-    "total_items_after_retention": 1393,
+    "total_items_after_dedupe": 1513,
+    "total_items_after_retention": 1303,
     "build_blocked": false
   },
   "critical_failures": [],
   "failures": [
     {
-      "title": "极客公园",
-      "url": "https://www.geekpark.net/rss",
+      "title": "BBC 中文版",
+      "url": "https://plink.anyfeeder.com/bbc/cn",
       "reason": "The operation was aborted.",
-      "skippedByCircuit": true
-    },
-    {
-      "title": "钛媒体",
-      "url": "https://plink.anyfeeder.com/tmtpost",
-      "reason": "HTTP 404",
       "skippedByCircuit": true
     },
     {
@@ -48,14 +42,9 @@
   ],
   "circuit_open": [
     {
-      "title": "极客公园",
-      "url": "https://www.geekpark.net/rss",
+      "title": "BBC 中文版",
+      "url": "https://plink.anyfeeder.com/bbc/cn",
       "reason": "The operation was aborted."
-    },
-    {
-      "title": "钛媒体",
-      "url": "https://plink.anyfeeder.com/tmtpost",
-      "reason": "HTTP 404"
     },
     {
       "title": "机器之心",
