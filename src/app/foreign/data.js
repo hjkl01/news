@@ -1,14 +1,289 @@
 const jsonData = [
   {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/17/g-s1-151567/alaska-senate-results-peltola-sullivan",
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "The seven Anthropic founders who are about to become multi-billionaires",
+    "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-18 21:55:14",
+    "author": "",
+    "description": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+    "content": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+    "link": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-18 21:04:48",
+    "author": "",
+    "description": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
+    "content": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/18/g-s1-153872/u-s-foreign-aid-memorandum-understanding-zambia-zimbabwe",
     "feed_name": "NPR News",
     "category": "国外",
-    "title": "Mary Peltola flips Alaska's Senate seat into Democrats' column",
-    "link": "https://www.npr.org/2026/11/17/g-s1-151567/alaska-senate-results-peltola-sullivan",
-    "pub_date": "2026-11-18 11:27:23",
+    "title": "The off-and-on switch for U.S. aid leads to a cliffhanger for Zambia and Zimbabwe",
+    "link": "https://www.npr.org/2026/11/18/g-s1-153872/u-s-foreign-aid-memorandum-understanding-zambia-zimbabwe",
+    "pub_date": "2026-11-18 21:03:38",
     "author": "",
-    "description": "Former Democratic Rep. Mary Peltola has narrowly won Alaska's U.S. Senate race, toppling the Republican incumbent, according to a race call by The Associated Press.",
-    "content": "Former Democratic Rep. Mary Peltola has narrowly won Alaska's U.S. Senate race, toppling the Republican incumbent, according to a race call by The Associated Press."
+    "description": "After dismantling the United States Agency for International Development, the Trump administration is restarting foreign aid. In Zambia and Zimbabwe, there are different approaches but similar worries.",
+    "content": "After dismantling the United States Agency for International Development, the Trump administration is restarting foreign aid. In Zambia and Zimbabwe, there are different approaches but similar worries."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+    "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-18 20:39:24",
+    "author": "",
+    "description": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
+    "content": "The three leaders will meet together for the first time on Thursday during a closely-watched summit."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
+    "link": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai",
+    "pub_date": "2026-11-18 20:14:28",
+    "author": "",
+    "description": "Former Democratic Rep. Mary Peltola has won one of the U.S.' most watched Senate races. And, Nvidia's board says it doesn't plan to reinstate former CEO Jensen Huang despite pressure from his allies.",
+    "content": "Former Democratic Rep. Mary Peltola has won one of the U.S.' most watched Senate races. And, Nvidia's board says it doesn't plan to reinstate former CEO Jensen Huang despite pressure from his allies."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Who to watch in Spain's election race",
+    "link": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-18 19:44:25",
+    "author": "",
+    "description": "Spain votes on 29 November, with the conservatives leading most polls after eight years of Socialist-led rule.",
+    "content": "Spain votes on 29 November, with the conservatives leading most polls after eight years of Socialist-led rule."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Bancroft sandpaper claims heap pressure on Cummins",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-18 19:12:46",
+    "author": "",
+    "description": "Cameron Bancroft claims the whole Australia team knew about the 2018 sandpaper plot in explosive revelations that will heap pressure on current captain Pat Cummins.",
+    "content": "Cameron Bancroft claims the whole Australia team knew about the 2018 sandpaper plot in explosive revelations that will heap pressure on current captain Pat Cummins."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/18/nx-s1-6040326/grand-theft-auto-6-review-vice-city-masterpiece",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Grand Theft Auto VI is a grounded love story, a gonzo crime thriller and a gaming triumph",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6040326/grand-theft-auto-6-review-vice-city-masterpiece",
+    "pub_date": "2026-11-18 19:00:00",
+    "author": "",
+    "description": "An inspired synthesis of violent satire and contemplative storytelling, Grand Theft Auto VI is more mature and ambitious than any prior game in the record-breaking franchise.",
+    "content": "An inspired synthesis of violent satire and contemplative storytelling, Grand Theft Auto VI is more mature and ambitious than any prior game in the record-breaking franchise."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Greetings from a Berlin square, where an artist's statue watches over children at play",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue",
+    "pub_date": "2026-11-18 19:00:00",
+    "author": "",
+    "description": "Children frolic around the ever-watchful and calm Käthe Kollwitz cast in bronze, in a square named after the German artist, whose work often depicted children in the wake of World War I.",
+    "content": "Children frolic around the ever-watchful and calm Käthe Kollwitz cast in bronze, in a square named after the German artist, whose work often depicted children in the wake of World War I."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
+    "link": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-18 18:53:21",
+    "author": "",
+    "description": "Thursday's meeting between the leaders of US, China and Russia will give Vladimir Putin a big stage - but it does not bring him closer to winning the war in Ukraine.",
+    "content": "Thursday's meeting between the leaders of US, China and Russia will give Vladimir Putin a big stage - but it does not bring him closer to winning the war in Ukraine."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Trump lands in China with key meetings with Xi and Putin on the agenda",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin",
+    "pub_date": "2026-11-18 18:32:03",
+    "author": "",
+    "description": "Xi paid Trump a special honor by greeting him on the tarmac after Air Force One arrived in Shenzhen, reciprocating a gesture made by the U.S. president during Xi's visit to Washington in September.",
+    "content": "Xi paid Trump a special honor by greeting him on the tarmac after Air Force One arrived in Shenzhen, reciprocating a gesture made by the U.S. president during Xi's visit to Washington in September."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+    "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-18 18:23:57",
+    "author": "",
+    "description": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
+    "content": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/18/nx-s1-6042889/east-potomac-golf-history-future",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "How the East Potomac golf course became a D.C. landmark — and what could happen to it",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6042889/east-potomac-golf-history-future",
+    "pub_date": "2026-11-18 18:02:00",
+    "author": "",
+    "description": "A federal judge is keeping East Potomac Park open for now, but hasn't ordered the government to keep the municipal golf course operational.",
+    "content": "A federal judge is keeping East Potomac Park open for now, but hasn't ordered the government to keep the municipal golf course operational."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/18/nx-s1-6037808/meta-instagram-schools-teens-safety",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Project Gryffindor: Meta's plan to get more school kids using Instagram",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6037808/meta-instagram-schools-teens-safety",
+    "pub_date": "2026-11-18 18:00:00",
+    "author": "",
+    "description": "Meta said it launched its \"school partnership program\" to keep teens safe, but internal documents tell a different story.",
+    "content": "Meta said it launched its \"school partnership program\" to keep teens safe, but internal documents tell a different story."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/18/nx-s1-6031176/special-education-teachers-audience-response",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Special education teachers shared their stories. You told NPR you felt seen",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6031176/special-education-teachers-audience-response",
+    "pub_date": "2026-11-18 18:00:00",
+    "author": "",
+    "description": "NPR is following along as about a dozen special education teachers navigate this school year and share their joys and challenges. Listeners say they're not alone.",
+    "content": "NPR is following along as about a dozen special education teachers navigate this school year and share their joys and challenges. Listeners say they're not alone."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/18/nx-s1-6044223/openai-embedded-evaluators-program-critics",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "OpenAI announces new AI safety program; researchers worry it won't be enough",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6044223/openai-embedded-evaluators-program-critics",
+    "pub_date": "2026-11-18 18:00:00",
+    "author": "",
+    "description": "OpenAI CEO Sam Altman said he would grant \"employee level\" access to outside researchers to evaluate AI safety. The pilot program appears much more restrictive.",
+    "content": "OpenAI CEO Sam Altman said he would grant \"employee level\" access to outside researchers to evaluate AI safety. The pilot program appears much more restrictive."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/18/nx-s1-6044646/china-and-the-u-s-emissions-cop31-antalya",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "China and the U.S. are still the biggest polluters, but only China is doing better",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6044646/china-and-the-u-s-emissions-cop31-antalya",
+    "pub_date": "2026-11-18 18:00:00",
+    "author": "",
+    "description": "The two largest emitters of greenhouse gases are China and the United States. Now, the countries' stories are diverging: many Chinese provinces are reducing coal use, while the U.S. is falling behind on climate technolog…",
+    "content": "The two largest emitters of greenhouse gases are China and the United States. Now, the countries' stories are diverging: many Chinese provinces are reducing coal use, while the U.S. is falling behind on climate technologies."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
+    "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-18 17:28:35",
+    "author": "",
+    "description": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
+    "content": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Ghana's new $60m presidential jet sparks public outrage",
+    "link": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-18 17:27:51",
+    "author": "",
+    "description": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
+    "content": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living."
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261118/trump-china-ai-tensions/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "间谍指控、安全担忧：中美围绕人工智能的紧张局势加剧",
+    "link": "https://cn.nytimes.com/usa/20261118/trump-china-ai-tensions/dual",
+    "pub_date": "2026-11-18 15:06:03",
+    "author": "",
+    "description": "黄安伟, DUSTIN VOLZ2026年11月18日对间谍活动的怀疑加剧了华盛顿与北京在人工智能问题上的相互猜疑。 Haiyun Jiang/The New York Times When President Trump and Xi Jinping, the leader of China, met earlier this fall, they sounded committed to finding common ground …",
+    "content": "黄安伟, DUSTIN VOLZ 2026年11月18日 对间谍活动的怀疑加剧了华盛顿与北京在人工智能问题上的相互猜疑。 Haiyun Jiang/The New York Times When President Trump and Xi Jinping, the leader of China, met earlier this fall, they sounded committed to finding common ground on calibrating the rapid development o…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/opinion/20261118/trump-xi-putin-summit/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "特朗普向习近平和普京献媚不会有好结果",
+    "link": "https://cn.nytimes.com/opinion/20261118/trump-xi-putin-summit/dual",
+    "pub_date": "2026-11-18 14:36:03",
+    "author": "",
+    "description": "KURT CAMPBELL2026年11月18日 Illustration by Sam Whitney/The New York Times A vexing feature of President Trump’s foreign policy is his unfailing attraction to the world’s two dominant strongmen, President Xi Jinping of Chin…",
+    "content": "KURT CAMPBELL 2026年11月18日 Illustration by Sam Whitney/The New York Times A vexing feature of President Trump’s foreign policy is his unfailing attraction to the world’s two dominant strongmen, President Xi Jinping of China and President Vladimir Putin of Russi…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20261118/xi-apec/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "间谍丑闻、贸易失衡：习近平的APEC“高光”会否蒙尘？",
+    "link": "https://cn.nytimes.com/china/20261118/xi-apec/dual",
+    "pub_date": "2026-11-18 13:36:04",
+    "author": "",
+    "description": "DAVID PIERSON2026年11月18日中国领导人习近平周二在中国深圳出席一场会议。通过在这个科技中心主办亚太经合组织峰会，习近平可能希望借此证明中国的增长可以惠及世界。 Pool photo by Maxim Shemetov When China’s then-paramount leader, Deng Xiaoping, toured Shenzhen in 1992, he used the southern Chin…",
+    "content": "DAVID PIERSON 2026年11月18日 中国领导人习近平周二在中国深圳出席一场会议。通过在这个科技中心主办亚太经合组织峰会，习近平可能希望借此证明中国的增长可以惠及世界。 Pool photo by Maxim Shemetov When China’s then-paramount leader, Deng Xiaoping, toured Shenzhen in 1992, he used the southern Chinese city to signal an embrace of open …"
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cx053jrv9rz9o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Can a US-backed mineral highway bring peace and prosperity to DR Congo?",
+    "link": "https://www.bbc.co.uk/news/articles/cx053jrv9rz9o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-18 13:11:42",
+    "author": "",
+    "description": "The Lobito Corridor is at the centre of a US-backed effort to secure access to Africa's critical minerals.",
+    "content": "The Lobito Corridor is at the centre of a US-backed effort to secure access to Africa's critical minerals."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Rubio says US not 'under systemic attack' after series of tech outages",
+    "link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-18 12:57:06",
+    "author": "",
+    "description": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
+    "content": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected."
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261118/17trump-summit-manila-asean-marcos/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "特朗普短暂出席东盟峰会，淡化国内外担忧",
+    "link": "https://cn.nytimes.com/usa/20261118/17trump-summit-manila-asean-marcos/dual",
+    "pub_date": "2026-11-18 12:36:04",
+    "author": "",
+    "description": "KATIE ROGERS, DAVID E. SANGER2026年11月18日特朗普总统周二抵达马尼拉，开启为期48小时的亚洲之行。 Doug Mills/The New York Times President Trump arrived in Manila on Tuesday, at the tail end of a diplomatic summit in which world leaders had arranged t…",
+    "content": "KATIE ROGERS, DAVID E. SANGER 2026年11月18日 特朗普总统周二抵达马尼拉，开启为期48小时的亚洲之行。 Doug Mills/The New York Times President Trump arrived in Manila on Tuesday, at the tail end of a diplomatic summit in which world leaders had arranged to hold part of the gathering at his ho…"
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Waymo pulls driverless taxis from all US freeways",
+    "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-18 11:07:22",
+    "author": "",
+    "description": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+    "content": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents."
   },
   {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20261118/trump-xi-meeting-tensions/dual",
@@ -20,6 +295,28 @@ const jsonData = [
     "author": "",
     "description": "艾莎, MURPHY ZHAO2026年11月18日9月，特朗普总统和第一夫人梅拉尼娅在白宫欢迎中国国家主席习近平和夫人彭丽媛。 Haiyun Jiang/The New York Times In front of the cameras, President Trump and China’s Xi Jinping have showcased a budding friendship, cemented by state visi…",
     "content": "艾莎, MURPHY ZHAO 2026年11月18日 9月，特朗普总统和第一夫人梅拉尼娅在白宫欢迎中国国家主席习近平和夫人彭丽媛。 Haiyun Jiang/The New York Times In front of the cameras, President Trump and China’s Xi Jinping have showcased a budding friendship, cemented by state visits, friendly pats on the arm and the o…"
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cm15ezz8n394o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump",
+    "link": "https://www.bbc.co.uk/news/articles/cm15ezz8n394o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-18 10:29:52",
+    "author": "",
+    "description": "Asif Merchant was found guilty in March of trying to hire undercover FBI agents as hitmen to assassinate US officials, including the president.",
+    "content": "Asif Merchant was found guilty in March of trying to hire undercover FBI agents as hitmen to assassinate US officials, including the president."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cwd01jjl5zzzo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Irishman charged with destroying US military aircraft with axe",
+    "link": "https://www.bbc.co.uk/news/articles/cwd01jjl5zzzo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-18 10:00:37",
+    "author": "",
+    "description": "The $60m (£45m) plane was destroyed in an hours-long raid by an anti-war protester, according to the FBI.",
+    "content": "The $60m (£45m) plane was destroyed in an hours-long raid by an anti-war protester, according to the FBI."
   },
   {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261118/carney-china-xi-trade-apec/dual",
@@ -36,7 +333,7 @@ const jsonData = [
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
-    "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+    "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
     "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
     "pub_date": "2026-11-18 09:18:18",
     "author": "",
@@ -55,15 +352,26 @@ const jsonData = [
     "content": "JONATHAN SWAN, MAGGIE HABERMAN, ANA SWANSON, SHAWN McCREESH 2026年11月18日 President Trump headed on Monday for a trip to Asia to meet President Xi Jinping of China with his administration openly divided over how hard to squeeze that country on artificial intelli…"
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
-    "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-    "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-18 07:02:12",
+    "title": "Pakistan's solar revolution is so successful the national grid is lagging behind",
+    "link": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-18 07:34:56",
     "author": "",
-    "description": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
-    "content": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips."
+    "description": "People installing their own solar panels has helped boost the solar share of Pakistan's electricity from 1% to 28%.",
+    "content": "People installing their own solar panels has helped boost the solar share of Pakistan's electricity from 1% to 28%."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/cq62p73jjl90o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Millions of red crabs start annual migration on Christmas Island",
+    "link": "https://www.bbc.co.uk/news/videos/cq62p73jjl90o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-18 07:05:39",
+    "author": "",
+    "description": "The crabs were seen migrating from forests to the sea to breed on the coast of the Australian territory.",
+    "content": "The crabs were seen migrating from forests to the sea to breed on the coast of the Australian territory."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
@@ -77,17 +385,6 @@ const jsonData = [
     "content": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations."
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
-    "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-18 06:44:15",
-    "author": "",
-    "description": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
-    "content": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations."
-  },
-  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -97,17 +394,6 @@ const jsonData = [
     "author": "",
     "description": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
     "content": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Russian military plane crashes, killing all 19 on board",
-    "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-18 05:06:11",
-    "author": "",
-    "description": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
-    "content": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
@@ -132,50 +418,6 @@ const jsonData = [
     "content": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked."
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
-    "link": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-18 04:25:46",
-    "author": "",
-    "description": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
-    "content": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\"."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
-    "link": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-18 02:58:57",
-    "author": "",
-    "description": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
-    "content": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
-    "link": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
-    "pub_date": "2026-11-18 02:34:31",
-    "author": "",
-    "description": "Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, and the U.S. retaliated by firing at Iranian targets along an important shipping route.",
-    "content": "Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, and the U.S. retaliated by firing at Iranian targets along an important shipping route."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "UK sanctions firms over Israeli West Bank settlements",
-    "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-18 02:27:27",
-    "author": "",
-    "description": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
-    "content": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory."
-  },
-  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -185,39 +427,6 @@ const jsonData = [
     "author": "",
     "description": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
     "content": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Who to watch in Spain's election race",
-    "link": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-18 02:13:45",
-    "author": "",
-    "description": "Spain votes on 29 November, with the conservatives and the far right favourites to win after eight years of Socialist-led rule.",
-    "content": "Spain votes on 29 November, with the conservatives and the far right favourites to win after eight years of Socialist-led rule."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
-    "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-18 01:37:04",
-    "author": "",
-    "description": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
-    "content": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\"."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Nvidia board says it does not intend to reinstate Jensen Huang as CEO",
-    "link": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
-    "pub_date": "2026-11-18 01:36:31",
-    "author": "",
-    "description": "The former Nvidia CEO said he would be \"honored\" to return if the board allowed. But the board says it has no intention of reinstating him.",
-    "content": "The former Nvidia CEO said he would be \"honored\" to return if the board allowed. But the board says it has no intention of reinstating him."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
@@ -242,116 +451,6 @@ const jsonData = [
     "content": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike."
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "How the attack on Crimean Bridge unfolded",
-    "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-17 23:38:10",
-    "author": "",
-    "description": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
-    "content": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "How new US chip restrictions on South East Asia will hit China",
-    "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-17 22:25:45",
-    "author": "",
-    "description": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
-    "content": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
-    "link": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
-    "pub_date": "2026-11-17 20:20:57",
-    "author": "",
-    "description": "Trump says he plans to discuss Ukraine during his Asia trip, which contradicts what the White House previously announced. And, Silicon Valley leaders are pushing for Jensen Huang's return to Nvidia.",
-    "content": "Trump says he plans to discuss Ukraine during his Asia trip, which contradicts what the White House previously announced. And, Silicon Valley leaders are pushing for Jensen Huang's return to Nvidia."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/17/nx-s1-6042514/jack-reed-faa-oversight-ground-stop-funding",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Sen. Jack Reed says FAA needs a real plan, not just more money",
-    "link": "https://www.npr.org/2026/11/17/nx-s1-6042514/jack-reed-faa-oversight-ground-stop-funding",
-    "pub_date": "2026-11-17 19:58:42",
-    "author": "",
-    "description": "Sen. Jack Reed raised concerns about FAA oversight of contractors after last week's nationwide ground stop and criticized the Trump administration's request for $50 billion in additional funding.",
-    "content": "Sen. Jack Reed raised concerns about FAA oversight of contractors after last week's nationwide ground stop and criticized the Trump administration's request for $50 billion in additional funding."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Gunmen kill Costa Rican journalist who reported on drugs trade",
-    "link": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-17 19:58:16",
-    "author": "",
-    "description": "Rodríguez had denounced alleged links between criminal organisations and powerful figures in Costa Rica.",
-    "content": "Rodríguez had denounced alleged links between criminal organisations and powerful figures in Costa Rica."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
-    "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-17 19:49:01",
-    "author": "",
-    "description": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
-    "content": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox"
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/sections/planet-money/2026/11/17/g-s1-153933/can-google-win-the-ai-race-without-killing-its-cash-cow",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Can Google win the AI race without killing its cash cow?",
-    "link": "https://www.npr.org/sections/planet-money/2026/11/17/g-s1-153933/can-google-win-the-ai-race-without-killing-its-cash-cow",
-    "pub_date": "2026-11-17 19:30:00",
-    "author": "",
-    "description": "In late October, Google had the worst stock day in its history as a public company. The Planet Money newsletter asks: has Google been caught in \"the innovator's dilemma\"?",
-    "content": "In late October, Google had the worst stock day in its history as a public company. The Planet Money newsletter asks: has Google been caught in \"the innovator's dilemma\"?"
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
-    "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-17 19:17:32",
-    "author": "",
-    "description": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
-    "content": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "I'm a human doctor with human intelligence. But I sure do like my AI notetaker",
-    "link": "https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe",
-    "pub_date": "2026-11-17 19:00:00",
-    "author": "",
-    "description": "Has your doctor asked whether they can use artificial intelligence to take notes during an exam? It's very popular, and here's how to think through the pros and the cons of the new technology.",
-    "content": "Has your doctor asked whether they can use artificial intelligence to take notes during an exam? It's very popular, and here's how to think through the pros and the cons of the new technology."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Trump arrives in Philippines to kick off Asia trip",
-    "link": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
-    "pub_date": "2026-11-17 18:43:55",
-    "author": "",
-    "description": "Manila is President Trump's first stop on a three-day trip that will later take him to China for historic three-way nuclear talks with Chinese President Xi Jinping and Russian President Vladimir Putin.",
-    "content": "Manila is President Trump's first stop on a three-day trip that will later take him to China for historic three-way nuclear talks with Chinese President Xi Jinping and Russian President Vladimir Putin."
-  },
-  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -361,39 +460,6 @@ const jsonData = [
     "author": "",
     "description": "President Trump says he would be keen to meet the North Korea leader in China.",
     "content": "President Trump says he would be keen to meet the North Korea leader in China."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "More people are getting the flu. Should you get a flu shot before you travel?",
-    "link": "https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster",
-    "pub_date": "2026-11-17 18:00:00",
-    "author": "",
-    "description": "Thanksgiving is just around the corner, just as millions of Americans are expected to travel for the holidays. Another thing that's upon us? Cold and flu season.",
-    "content": "Thanksgiving is just around the corner, just as millions of Americans are expected to travel for the holidays. Another thing that's upon us? Cold and flu season."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/17/nx-s1-6012818/skilled-trades-apprenticeship-college-data-centers-jobs",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "She went to college to become a social worker. Now she's joined the skilled trades",
-    "link": "https://www.npr.org/2026/11/17/nx-s1-6012818/skilled-trades-apprenticeship-college-data-centers-jobs",
-    "pub_date": "2026-11-17 18:00:00",
-    "author": "",
-    "description": "While the rise of AI continues to fuel the debate over whether college is worth the cost, apprenticeships in the skilled trades are having a moment, drawing in people of all backgrounds including college graduates.",
-    "content": "While the rise of AI continues to fuel the debate over whether college is worth the cost, apprenticeships in the skilled trades are having a moment, drawing in people of all backgrounds including college graduates."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
-    "link": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-17 17:27:44",
-    "author": "",
-    "description": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back.",
-    "content": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back."
   },
   {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261117/nvidia-jensen-madison-huang/dual",
@@ -429,17 +495,6 @@ const jsonData = [
     "content": "MIRA RAPP-HOOPER, ELY RATNER 2026年11月17日 Damon Winter/The New York Times Since returning to the White House, President Trump has gambled that if Washington took a more accommodating stance toward China’s ambitions in Asia, Beijing would respond with restraint.…"
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-    "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-17 13:59:01",
-    "author": "",
-    "description": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
-    "content": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say."
-  },
-  {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20261117/asean-trade-security-technology/dual",
     "feed_name": "纽约时报双语版",
     "category": "国外",
@@ -451,61 +506,6 @@ const jsonData = [
     "content": "DAMIEN CAVE 2026年11月17日 周一，各国领导人在马尼拉举行的东盟峰会上合影。 Pool photo by Ted Aljibe President Trump’s trip to Asia this week will largely be seen as a test of American power in the main region where the United States and China compete for influence. 亚洲是美国与中国争夺影响力的主要地区。特朗…"
   },
   {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261117/bessent-lutnick-china/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "白宫内部对华政策分歧公开化，贝森特日趋鹰派",
-    "link": "https://cn.nytimes.com/usa/20261117/bessent-lutnick-china/dual",
-    "pub_date": "2026-11-17 12:36:04",
-    "author": "",
-    "description": "ALAN RAPPEPORT, ANA SWANSON2026年11月17日 President Trump heads to Asia on Monday for high-stakes meetings with foreign leaders aimed at ending Russia’s war in Ukraine and smoothing over trade frictions with China. But the …",
-    "content": "ALAN RAPPEPORT, ANA SWANSON 2026年11月17日 President Trump heads to Asia on Monday for high-stakes meetings with foreign leaders aimed at ending Russia’s war in Ukraine and smoothing over trade frictions with China. But the most tense meeting could take place abo…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261117/carney-china-xi-trump-putin-trade/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "卡尼再次访华，中国会是加拿大摆脱美国依赖的答案吗？",
-    "link": "https://cn.nytimes.com/world/20261117/carney-china-xi-trump-putin-trade/dual",
-    "pub_date": "2026-11-17 12:36:04",
-    "author": "",
-    "description": "IAN AUSTEN2026年11月17日加拿大总理马克·卡尼周六在马尼拉出席新闻发布会，他此行是为参加东南亚国家联盟峰会。 Ian Austen/The New York Times The importance of Europe to Prime Minister Mark Carney’s plan to diversify Canada’s economy and politics away from its reliance…",
-    "content": "IAN AUSTEN 2026年11月17日 加拿大总理马克·卡尼周六在马尼拉出席新闻发布会，他此行是为参加东南亚国家联盟峰会。 Ian Austen/The New York Times The importance of Europe to Prime Minister Mark Carney’s plan to diversify Canada’s economy and politics away from its reliance on the United States was underscored …"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261117/trump-asia-china-xi-putin/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "关于特朗普访华及中美俄首脑会晤，你应该了解的",
-    "link": "https://cn.nytimes.com/world/20261117/trump-asia-china-xi-putin/dual",
-    "pub_date": "2026-11-17 11:06:04",
-    "author": "",
-    "description": "郭莉莉2026年11月17日俄罗斯艺术家阿列克谢·谢尔吉延科创作的绘画作品，描绘了美国、俄罗斯和中国的领导人。这幅画于周四在俄罗斯圣彼得堡首次亮相。 Andrei Bok/Reuters President Trump sets off this week for meetings in Asia that will culminate in a summit with two strongmen he has often praise…",
-    "content": "郭莉莉 2026年11月17日 俄罗斯艺术家阿列克谢·谢尔吉延科创作的绘画作品，描绘了美国、俄罗斯和中国的领导人。这幅画于周四在俄罗斯圣彼得堡首次亮相。 Andrei Bok/Reuters President Trump sets off this week for meetings in Asia that will culminate in a summit with two strongmen he has often praised: President Xi Jinping of China and P…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261117/trump-china-ai-chip-loophole/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "特朗普访华前，美国推进新规封堵芯片出口漏洞",
-    "link": "https://cn.nytimes.com/usa/20261117/trump-china-ai-chip-loophole/dual",
-    "pub_date": "2026-11-17 10:36:03",
-    "author": "",
-    "description": "ANA SWANSON, TONY ROMM2026年11月17日位于马来西亚柔佛州的一座正在建设中的Megaspeed数据中心。 Ulet Ifansasti for The New York Times The Trump administration said on Monday that it was moving forward with a new rule that would clamp down on China’s …",
-    "content": "ANA SWANSON, TONY ROMM 2026年11月17日 位于马来西亚柔佛州的一座正在建设中的Megaspeed数据中心。 Ulet Ifansasti for The New York Times The Trump administration said on Monday that it was moving forward with a new rule that would clamp down on China’s ability to access advanced A.I. chips …"
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Pope Leo hit by flying rosary while waving to crowds in Peru",
-    "link": "https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-17 05:12:13",
-    "author": "",
-    "description": "The pontiff was struck in the face by what is thought to be prayer beads while travelling aboard the popemobile to deliver a farewell Mass.",
-    "content": "The pontiff was struck in the face by what is thought to be prayer beads while travelling aboard the popemobile to deliver a farewell Mass."
-  },
-  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/crkgvnl51w1vo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -515,17 +515,6 @@ const jsonData = [
     "author": "",
     "description": "The Prince and Princess of Wales are visiting Mumbai for the Earthshot Prize this week, but started their trip with some fun outings.",
     "content": "The Prince and Princess of Wales are visiting Mumbai for the Earthshot Prize this week, but started their trip with some fun outings."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/cm3wgeqnppljo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "New York teen reunites with cat missing after building collapse",
-    "link": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-16 12:36:45",
-    "author": "",
-    "description": "Rescuers found the pet cat in the ruins of Zariah's apartment four days after she made an emotional plea to the public.",
-    "content": "Rescuers found the pet cat in the ruins of Zariah's apartment four days after she made an emotional plea to the public."
   },
   {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261022-%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E8%BF%87%E4%B8%A4%E4%BA%BF%E9%83%A8%E6%89%8B%E6%9C%BA%E6%96%B0%E5%8F%8D%E8%AF%88%E7%A8%8B%E5%BA%8F%E8%AF%86%E5%88%AB%E7%9B%98%E9%97%AE%E6%B5%8F%E8%A7%88%E5%A2%99%E5%A4%96%E8%B4%A2%E7%BB%8F%E7%BD%91%E7%AB%99%E4%BA%BA%E5%91%98",
@@ -746,424 +735,6 @@ const jsonData = [
     "author": "",
     "description": "21/10/2026 - 18:13 法新社21日台北消息，台湾情报部门周二表示，中国已加剧针对台湾的网络攻击和散布虚假信息行动，而台湾正准备于11月底举行地方选举。 据台湾国家安全局周二提交给立法院的报告指出：2026年前九个月，台湾平均每天遭受260万次网络攻击，自6月以来这一现象愈演愈烈。 该报告指出，中国“网络军队”将台湾的学术和科研领域、电信行业及国防供应链，作为攻击目标，旨在“干扰台湾政府的国防行动、破坏国际合作并窃取敏感技…",
     "content": "21/10/2026 - 18:13 法新社21日台北消息，台湾情报部门周二表示，中国已加剧针对台湾的网络攻击和散布虚假信息行动，而台湾正准备于11月底举行地方选举。 据台湾国家安全局周二提交给立法院的报告指出：2026年前九个月，台湾平均每天遭受260万次网络攻击，自6月以来这一现象愈演愈烈。 该报告指出，中国“网络军队”将台湾的学术和科研领域、电信行业及国防供应链，作为攻击目标，旨在“干扰台湾政府的国防行动、破坏国际合作并窃取敏感技术”。 另据台湾自由时报引述台湾国安局报告，近期已发现中共结合人工智慧（AI）技…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cx054n50gm37o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "俄羅斯以間諜罪嫌抓捕日本駐庫頁島記者",
-    "link": "https://www.bbc.com/zhongwen/articles/cx054n50gm37o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-14 18:34:28",
-    "author": "",
-    "description": "TASS / 俄罗斯联邦安全局称，被捕记者为《北海道新闻》的今井裕纪（Yuki Imai；音译），他是在远东萨哈林州（库页岛）被逮捕。 俄罗斯当局以涉嫌从事间谍活动为由拘捕一名日本记者，指控他为东京蒐集与莫斯科国防能力有关的资讯。 据报导，这名记者是《北海道新闻》的今井裕纪（Yuki Imai；音译），他在俄罗斯远东萨哈林州（Sakhalin；中国旧称库页岛）被拘留，当时距离其离开俄罗斯仅余一天。他其后被押送至莫斯科，一家法院下令将他羁…",
-    "content": "TASS / 俄罗斯联邦安全局称，被捕记者为《北海道新闻》的今井裕纪（Yuki Imai；音译），他是在远东萨哈林州（库页岛）被逮捕。 俄罗斯当局以涉嫌从事间谍活动为由拘捕一名日本记者，指控他为东京蒐集与莫斯科国防能力有关的资讯。 据报导，这名记者是《北海道新闻》的今井裕纪（Yuki Imai；音译），他在俄罗斯远东萨哈林州（Sakhalin；中国旧称库页岛）被拘留，当时距离其离开俄罗斯仅余一天。他其后被押送至莫斯科，一家法院下令将他羁押候审。 日本表示，仍在寻求有关拘捕事件的详情，且尚未能与今井取得联系。 此次拘…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cwm235qpgrrdo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "從今以後，不擇手段？普京新策略要讓烏克蘭全國片瓦無存",
-    "link": "https://www.bbc.com/zhongwen/articles/cwm235qpgrrdo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-14 17:09:43",
-    "author": "",
-    "description": "Getty Images/BBC 乌克兰局势正发生惊人逆转：身处前线的士兵如今会打电话回首都基辅（Kyiv）家中，询问家人是否安全。 居住在基辅的彼得·迪金森（Peter Dickinson）向BBC国际部（BBC World Service）表示：“现在人们谈论基辅时，会说它是一座前线城市。” “基本上，现在它和那些地理位置正处于战线上的城市一样危险，甚至可能更危险。” 俄罗斯近数星期加强以导弹和无人机袭击乌克兰首都及其他主要城市，攻…",
-    "content": "Getty Images/BBC 乌克兰局势正发生惊人逆转：身处前线的士兵如今会打电话回首都基辅（Kyiv）家中，询问家人是否安全。 居住在基辅的彼得·迪金森（Peter Dickinson）向BBC国际部（BBC World Service）表示：“现在人们谈论基辅时，会说它是一座前线城市。” “基本上，现在它和那些地理位置正处于战线上的城市一样危险，甚至可能更危险。” 俄罗斯近数星期加强以导弹和无人机袭击乌克兰首都及其他主要城市，攻击民用目标，包括学校、医院、酒店、数据中心、列车和桥梁。 例如在9月30日，无人…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cmqln6xl303no/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "「我會跟電視說話」：中國這些孤獨的人付錢感受溫暖",
-    "link": "https://www.bbc.com/zhongwen/articles/cmqln6xl303no/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-14 16:42:17",
-    "author": "",
-    "description": "BBC / 观看：为什么中国孤独的人会雇用“临时孩子”？（英语影片） “最大的困难真是寂寞。有的时候想说话，所以我就跟电视说哈。” 91岁的杨女士居住在中国繁华的首都北京郊区。丈夫过世后，她感到非常孤独，甚至考虑过安乐死。 “我问过儿子，但他告诉我这是犯法的。我告诉他，如果有一天合法了，我想去做——我不想活了。” 由于患有青光眼，视力逐渐衰退，她甚至无法完成调节空调控制等基本操作。 BBC / 91岁的杨女士患有青光眼，视力逐渐衰退，她…",
-    "content": "BBC / 观看：为什么中国孤独的人会雇用“临时孩子”？（英语影片） “最大的困难真是寂寞。有的时候想说话，所以我就跟电视说哈。” 91岁的杨女士居住在中国繁华的首都北京郊区。丈夫过世后，她感到非常孤独，甚至考虑过安乐死。 “我问过儿子，但他告诉我这是犯法的。我告诉他，如果有一天合法了，我想去做——我不想活了。” 由于患有青光眼，视力逐渐衰退，她甚至无法完成调节空调控制等基本操作。 BBC / 91岁的杨女士患有青光眼，视力逐渐衰退，她发现自己越来越难以独自完成简单的任务和日常生活。 像杨女士这样的案例在中国城市变…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/crpdgz701dyzo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "梵蒂岡證實教宗患上肺腺癌，但手術成功",
-    "link": "https://www.bbc.com/zhongwen/articles/crpdgz701dyzo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-14 12:37:43",
-    "author": "",
-    "description": "Reuters / 教宗良十四世周二抵达罗马杰梅里医院，准备接受手术。 梵蒂冈在一份医疗公告中表示，罗马天主教教宗良十四世（Pope Leo XIV）被诊断出患有肺癌，但已成功接受手术，切除了右肺下叶。 71岁的教宗周二（10月13日）在罗马杰梅里医院杰梅里医院（Gemelli Hospital）接受了90分钟的手术，随后被诊断出患有肺腺癌。 梵蒂冈方面表示：“手术很成功，没有出现并发症。”声明还补充说：“术后教宗正常甦醒，短暂观察后返…",
-    "content": "Reuters / 教宗良十四世周二抵达罗马杰梅里医院，准备接受手术。 梵蒂冈在一份医疗公告中表示，罗马天主教教宗良十四世（Pope Leo XIV）被诊断出患有肺癌，但已成功接受手术，切除了右肺下叶。 71岁的教宗周二（10月13日）在罗马杰梅里医院杰梅里医院（Gemelli Hospital）接受了90分钟的手术，随后被诊断出患有肺腺癌。 梵蒂冈方面表示：“手术很成功，没有出现并发症。”声明还补充说：“术后教宗正常甦醒，短暂观察后返回房间。” 梵蒂冈方面称，肿块是在“例行检查”中首次发现。教宗预计将在医院留医一…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c3n07pkpk5ggo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "台灣選舉解讀：「北藍南綠」的政治版圖是否「鐵板一塊」？",
-    "link": "https://www.bbc.com/zhongwen/articles/c3n07pkpk5ggo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-14 11:36:37",
-    "author": "",
-    "description": "Reuters / 台北市长期被视为国民党的重要票仓，国民党籍市长蒋万安于2022年当选台北市长，今年将争取连任。 台湾将于11月底举行地方选举，选出直辖市长、县市长及县市议员。 蓝绿两大政党在地方执政版图的消长备受关注。一般认为，国民党的核心支持者较集中于北部地区，民进党则在南部具有较深厚的支持基础。 然而，在人口结构、产业发展及政治环境变化下，这种长期形成的政治版图已逐渐松动，近年的选举结果都显示“北蓝南绿”并非一成不变。 BBC中…",
-    "content": "Reuters / 台北市长期被视为国民党的重要票仓，国民党籍市长蒋万安于2022年当选台北市长，今年将争取连任。 台湾将于11月底举行地方选举，选出直辖市长、县市长及县市议员。 蓝绿两大政党在地方执政版图的消长备受关注。一般认为，国民党的核心支持者较集中于北部地区，民进党则在南部具有较深厚的支持基础。 然而，在人口结构、产业发展及政治环境变化下，这种长期形成的政治版图已逐渐松动，近年的选举结果都显示“北蓝南绿”并非一成不变。 BBC中文访问多位政治学者，分析台湾选举政治“基本盘”的缘由和变数，以及在本届地方选举，…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/crvg9n72v9p2o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "AI翻譯：還有多久會完全取代人類？",
-    "link": "https://www.bbc.com/zhongwen/articles/crvg9n72v9p2o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-14 10:38:13",
-    "author": "",
-    "description": "Ariella Baltié / 阿里埃拉·巴尔蒂（Ariella Baltié）专门从事法律翻译工作，她表示误译的后果可以很严重。 法国人在下大雨时会说“Il pleut des cordes”。 直译是“天上在下绳子”（It's raining ropes）。这类惯用语，往往会难倒人工智能翻译。 “你可以想像，这会令人工智能陷入怎样的两难。”法国国家科学研究中心（CNRS）专攻自动翻译的研究主任弗朗索瓦·伊冯（François Yv…",
-    "content": "Ariella Baltié / 阿里埃拉·巴尔蒂（Ariella Baltié）专门从事法律翻译工作，她表示误译的后果可以很严重。 法国人在下大雨时会说“Il pleut des cordes”。 直译是“天上在下绳子”（It's raining ropes）。这类惯用语，往往会难倒人工智能翻译。 “你可以想像，这会令人工智能陷入怎样的两难。”法国国家科学研究中心（CNRS）专攻自动翻译的研究主任弗朗索瓦·伊冯（François Yvon）说。 他表示，训练良好的系统会知道，天上并不是真的掉下绳子，因此会使用英语…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cmg47k6z44w7o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "「黑珍珠」瑪麗亞：表演中國川劇的塞拉利昂女子",
-    "link": "https://www.bbc.com/zhongwen/articles/cmg47k6z44w7o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-14 08:17:23",
-    "author": "",
-    "description": "Mariatu Kargbo / 青年时，迷惘的玛丽亚透过电视接触到中国戏曲，成为了她日后到中国发展的契机。 在中国，人们称她为“黑珍珠”——出生于塞拉利昂（Sierra Leone；狮子山共和国）的玛丽亚（Maria），凭藉表演中国传统戏曲而声名大噪。 在塞拉利昂内战期间成长的玛丽亚，童年时竭尽所能求生。 父亲在她三岁时去世，玛丽亚在街头售卖糖果、饮用水和鱼，以帮补学费。 那是一种艰苦而危险的生活。工作整个上午后，玛丽亚还得赶去上课数…",
-    "content": "Mariatu Kargbo / 青年时，迷惘的玛丽亚透过电视接触到中国戏曲，成为了她日后到中国发展的契机。 在中国，人们称她为“黑珍珠”——出生于塞拉利昂（Sierra Leone；狮子山共和国）的玛丽亚（Maria），凭藉表演中国传统戏曲而声名大噪。 在塞拉利昂内战期间成长的玛丽亚，童年时竭尽所能求生。 父亲在她三岁时去世，玛丽亚在街头售卖糖果、饮用水和鱼，以帮补学费。 那是一种艰苦而危险的生活。工作整个上午后，玛丽亚还得赶去上课数小时，而且经常因迟到而遭到打骂。 后来，在13岁那年，玛丽亚发现抚养自己长大的女…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cwly388njx3go/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "人類身高的起伏變化：哪些歷史事件影響最大？",
-    "link": "https://www.bbc.com/zhongwen/articles/cwly388njx3go/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-14 08:17:20",
-    "author": "",
-    "description": "tetyanka, NGUYEN THI NHI, Klaus Vedfelt, George Marks via Getty Images 与你的曾祖父母相比，你有多高？很有可能，你明显比他们高。 根据研究出版物 Our World in Data（我们世界的数据），如今世界各地的年轻人平均比100年前的祖先高出约10厘米。 2016年的一项研究对比了1896年和1996年出生的人，发现韩国（南韩）女性和伊朗男性身高增长最多，分别增长…",
-    "content": "tetyanka, NGUYEN THI NHI, Klaus Vedfelt, George Marks&nbsp;via&nbsp;Getty Images 与你的曾祖父母相比，你有多高？很有可能，你明显比他们高。 根据研究出版物 Our World in Data（我们世界的数据），如今世界各地的年轻人平均比100年前的祖先高出约10厘米。 2016年的一项研究对比了1896年和1996年出生的人，发现韩国（南韩）女性和伊朗男性身高增长最多，分别增长了20厘米和17厘米。 苏格兰阿伯丁大学（Universit…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c63r584g9xwpo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "中共中央紀委：薄熙來前搭檔黃奇帆接受調查",
-    "link": "https://www.bbc.com/zhongwen/articles/c63r584g9xwpo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-13 19:49:31",
-    "author": "",
-    "description": "Reuters / 黄奇帆在薄熙来、王立军系列丑闻爆发后留守重庆至2016年。 中共反贪腐机关宣布，已离任多时的前重庆市市长黄奇帆被立案调查。 中共中央纪律检查委员会星期二（10月13日）宣布，74岁的黄奇帆“涉嫌严重违纪违法”，正接受纪律审查和监察调查。通报一如惯例未说明其具体罪嫌，但一般意味着是贪污腐败。 黄奇帆2001年起于重庆任职，2010年起出任市长兼中共市委副书记，不久后便爆发市委书记薄熙来与副市长兼公安局长王立军系列丑闻。…",
-    "content": "Reuters / 黄奇帆在薄熙来、王立军系列丑闻爆发后留守重庆至2016年。 中共反贪腐机关宣布，已离任多时的前重庆市市长黄奇帆被立案调查。 中共中央纪律检查委员会星期二（10月13日）宣布，74岁的黄奇帆“涉嫌严重违纪违法”，正接受纪律审查和监察调查。通报一如惯例未说明其具体罪嫌，但一般意味着是贪污腐败。 黄奇帆2001年起于重庆任职，2010年起出任市长兼中共市委副书记，不久后便爆发市委书记薄熙来与副市长兼公安局长王立军系列丑闻。黄奇帆任职市长直到2016年底。 黄奇帆退任市长后仍不时作为经济学家发表公开演说…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c862yzkgzwero/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "華為尊界V800事件：一場煞車測試如何演變成中國輿論風暴",
-    "link": "https://www.bbc.com/zhongwen/articles/c862yzkgzwero/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-13 17:04:11",
-    "author": "",
-    "description": "Getty Images / 尊界是华为和江淮汽车联合开发的高档电动车车系。 中国知名车媒懂车帝近日发布对电动车尊界V800的测试影片，显示多辆测试车在紧急制动过程中制动踏板支架断裂。事件迅速引发舆论关注，但相关影片随后在多个平台被下架，在官方定调之前，多数主流媒体亦保持沉默。 影片10月8日发布后快速冲上微博热搜，仅次日，测评影片陆续无法在多个平台正常查看，多家主流媒体亦未持续跟进相关争议，直至11日中共官方《人民日报》发文，才再次带…",
-    "content": "Getty Images / 尊界是华为和江淮汽车联合开发的高档电动车车系。 中国知名车媒懂车帝近日发布对电动车尊界V800的测试影片，显示多辆测试车在紧急制动过程中制动踏板支架断裂。事件迅速引发舆论关注，但相关影片随后在多个平台被下架，在官方定调之前，多数主流媒体亦保持沉默。 影片10月8日发布后快速冲上微博热搜，仅次日，测评影片陆续无法在多个平台正常查看，多家主流媒体亦未持续跟进相关争议，直至11日中共官方《人民日报》发文，才再次带动中国多家官方媒体集中跟进。 香港浸会大学传理学院副教授闾丘露薇对BBC中文分析…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cmeweg5eg7ljo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "從台海到太平洋：中國民兵船「首現東部海域」意味著什麼？",
-    "link": "https://www.bbc.com/zhongwen/articles/cmeweg5eg7ljo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-13 13:14:53",
-    "author": "",
-    "description": "Reuters / 台湾安捷航空（Apex Aviation）发布的侦查报告显示，今年8月有一艘具有中共海上民兵背景的中国渔船，在台湾东部海域活动。 路透社近日报导，一艘被辨识为中国海上民兵船的渔船，今年8月在台湾东部太平洋外海与另外两艘中国船只共同活动，并称这是此类船只“首次”被发现在台湾东部海域出没。 军事学者向BBC中文分析，这类船只可能承担海上监控、情报蒐集等任务。由于近年台湾社会对海底电缆安全格外关注，也有部分专家讨论，此类船…",
-    "content": "Reuters / 台湾安捷航空（Apex Aviation）发布的侦查报告显示，今年8月有一艘具有中共海上民兵背景的中国渔船，在台湾东部海域活动。 路透社近日报导，一艘被辨识为中国海上民兵船的渔船，今年8月在台湾东部太平洋外海与另外两艘中国船只共同活动，并称这是此类船只“首次”被发现在台湾东部海域出没。 军事学者向BBC中文分析，这类船只可能承担海上监控、情报蒐集等任务。由于近年台湾社会对海底电缆安全格外关注，也有部分专家讨论，此类船只可能涉及对海底基础设施的侦察活动。 美国国务院一名发言人向台湾媒体表示，美方持…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cwly013m3dg7o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "法國超市的冰箱受到網路攻擊 東西熱壞了",
-    "link": "https://www.bbc.com/zhongwen/articles/cwly013m3dg7o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-13 12:42:59",
-    "author": "",
-    "description": "AFP via Getty Images / 据报道，受影响的两家连锁超市之一 Intermarché 在法国拥有超过2000家门市，但只有一部分门市遭到黑客攻击。 数百家法国超市遭受网路攻击，导致其冰箱和冰柜过热，造成价值数百万欧元的生鲜和冷冻食品变质。 据一家受影响的连锁超市称，骇客控制了调节冷藏设备温度的软体，迫使一些冷藏设备在一夜之间升温至50摄氏度。 U合作社（Coopérative U）的执行长表示，旗下多家超市遭到了“极其…",
-    "content": "AFP via Getty Images / 据报道，受影响的两家连锁超市之一 Intermarché 在法国拥有超过2000家门市，但只有一部分门市遭到黑客攻击。 数百家法国超市遭受网路攻击，导致其冰箱和冰柜过热，造成价值数百万欧元的生鲜和冷冻食品变质。 据一家受影响的连锁超市称，骇客控制了调节冷藏设备温度的软体，迫使一些冷藏设备在一夜之间升温至50摄氏度。 U合作社（Coopérative U）的执行长表示，旗下多家超市遭到了“极其严重且史无前例”的攻击。 该连锁超市的100多家门市成为攻击目标，Interma…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cm20wlw680w9o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "廣州開發電玩遊戲「喚醒」威爾士民間傳說潛力",
-    "link": "https://www.bbc.com/zhongwen/articles/cm20wlw680w9o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-13 08:12:26",
-    "author": "",
-    "description": "Bluepoch / 该游戏由中国开发商深蓝互动打造。该公司表示，威尔斯文化有许多层面都与游戏的世界观和故事“产生了强烈共鸣”。 中国角色扮演游戏中出现一名名为蕾安侬（Rhiannon）的威尔士（威尔斯）角色，或许是人们最意想不到的地方之一，但《重返未来：1999》正是如此。 这款以20世纪为背景的时间旅行策略游戏，由中国广州开发商深蓝互动（Bluepoch）出品。该公司表示，威尔士文化有许多层面都与游戏的世界观和故事“产生了强烈共鸣”…",
-    "content": "Bluepoch / 该游戏由中国开发商深蓝互动打造。该公司表示，威尔斯文化有许多层面都与游戏的世界观和故事“产生了强烈共鸣”。 中国角色扮演游戏中出现一名名为蕾安侬（Rhiannon）的威尔士（威尔斯）角色，或许是人们最意想不到的地方之一，但《重返未来：1999》正是如此。 这款以20世纪为背景的时间旅行策略游戏，由中国广州开发商深蓝互动（Bluepoch）出品。该公司表示，威尔士文化有许多层面都与游戏的世界观和故事“产生了强烈共鸣”。 配音员汪佳宜（Rebecca Wang）表示，学习这门语言的一些特点，例如大…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c9p8gv3dnjmgo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "伊朗與烏克蘭 哪場戰爭對柴油價格影響最大？",
-    "link": "https://www.bbc.com/zhongwen/articles/c9p8gv3dnjmgo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-13 08:12:19",
-    "author": "",
-    "description": "BBC 美国总统唐纳德·特朗普（Donald Trump；川普）将全球柴油（油渣）出口减少及世界各地价格飙升归咎于乌克兰对俄罗斯炼油厂的袭击，并称总统弗拉基米尔·泽连斯基（Volodymyr Zelensky）“想给世界制造麻烦”。 特朗普说：“他该死的最好停手。”随后又暗示，乌克兰应该“换一位能够达成协议的领导人”。 但也有人将责任归咎于美国和以色列对伊朗的战争，认为这场冲突削减了波斯湾地区精炼燃料的出口。 在特朗普宣布一项具争议的从…",
-    "content": "BBC 美国总统唐纳德·特朗普（Donald Trump；川普）将全球柴油（油渣）出口减少及世界各地价格飙升归咎于乌克兰对俄罗斯炼油厂的袭击，并称总统弗拉基米尔·泽连斯基（Volodymyr Zelensky）“想给世界制造麻烦”。 特朗普说：“他该死的最好停手。”随后又暗示，乌克兰应该“换一位能够达成协议的领导人”。 但也有人将责任归咎于美国和以色列对伊朗的战争，认为这场冲突削减了波斯湾地区精炼燃料的出口。 在特朗普宣布一项具争议的从俄罗斯进口柴油协议，承诺“让美国人享有更低价格”之后，BBC事实查核（BBC V…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cqy0rd16x33lo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "胡塞武裝空襲沙特利雅德機場 中東衝突又一危險時刻",
-    "link": "https://www.bbc.com/zhongwen/articles/cqy0rd16x33lo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-12 15:51:51",
-    "author": "",
-    "description": "APTN 沙特阿拉伯雅德哈立德国王机场（King Khalid Airport, Riyadh）星期六、日（10月10、11日）先后遭受导弹袭击，是这个本已充满紧张与冲突的地区又一个危险时刻。 两次袭击共造成14人死亡、300多人受伤。该机场是沙特王国最重要的基础设施之一。 也门胡塞（Houthis）武装其后警告航空公司不要使用沙特机场，引发外界对该地区民航航空安全的忧虑。 沙特阿拉伯被杀了个措手不及。 近几星期来，胡塞武装加强了对沙特…",
-    "content": "APTN 沙特阿拉伯雅德哈立德国王机场（King Khalid Airport, Riyadh）星期六、日（10月10、11日）先后遭受导弹袭击，是这个本已充满紧张与冲突的地区又一个危险时刻。 两次袭击共造成14人死亡、300多人受伤。该机场是沙特王国最重要的基础设施之一。 也门胡塞（Houthis）武装其后警告航空公司不要使用沙特机场，引发外界对该地区民航航空安全的忧虑。 沙特阿拉伯被杀了个措手不及。 近几星期来，胡塞武装加强了对沙特阿拉伯领土的攻击，但过去数天的袭击目标直指该国的关键基础设施，即首都的主要机场，…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c6lyk8d5d7ygo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "美國停止公開處決已近一個世紀，如今為何重啟？",
-    "link": "https://www.bbc.com/zhongwen/articles/c6lyk8d5d7ygo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-12 08:08:36",
-    "author": "",
-    "description": "Getty Images / 估计有两万人于 1936 年聚集在肯塔基州，观看对雷尼·贝西亚（Rainey Bethea）的公开绞刑。 他们从四面八方成群结队而来。男女老少聚集在肯塔基州的河岸边，观看一名被裁定强奸并杀害一名年长白人寡妇的黑人男子遭公开绞刑。 那一天是1936年8月14日，地点在肯塔基州欧文斯伯勒（Owensboro）。当时正值传奇热浪席卷期间的一个酷热星期五。有人为了保住观看位置，前一晚就在绞刑架附近过夜；也有人在前一…",
-    "content": "Getty Images / 估计有两万人于 1936 年聚集在肯塔基州，观看对雷尼·贝西亚（Rainey Bethea）的公开绞刑。 他们从四面八方成群结队而来。男女老少聚集在肯塔基州的河岸边，观看一名被裁定强奸并杀害一名年长白人寡妇的黑人男子遭公开绞刑。 那一天是1936年8月14日，地点在肯塔基州欧文斯伯勒（Owensboro）。当时正值传奇热浪席卷期间的一个酷热星期五。有人为了保住观看位置，前一晚就在绞刑架附近过夜；也有人在前一晚举行所谓的“绞刑派对”，带着宿醉前来，而青少年则向围观者贩售爆米花和汽水。 到…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c63el43dw8pko/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "緬甸年輕人的恐懼：走在街頭，隨時被「抓壯丁」賣給軍方",
-    "link": "https://www.bbc.com/zhongwen/articles/c63el43dw8pko/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-12 08:08:15",
-    "author": "",
-    "description": "Getty Images / 缅甸当局被要求积极完成军方的征兵配额，导致贪污、勒索和绑架事件增加。 如果你身处缅甸南部克伦邦（Karen State）首府帕安（Hpa-An），而且年轻、身体健全，那么天黑后最好不要留在外面。近几个月来，这已成为当地人普遍认同的生存法则。 但对佐敏（Zaw Min）而言，他别无选择。 这名26岁的嘟嘟车司机因担心自身安全，要求隐去真实姓名。他说：“我会担心，但我必须外出工作。我的家人总是不断打电话给我，提…",
-    "content": "Getty Images / 缅甸当局被要求积极完成军方的征兵配额，导致贪污、勒索和绑架事件增加。 如果你身处缅甸南部克伦邦（Karen State）首府帕安（Hpa-An），而且年轻、身体健全，那么天黑后最好不要留在外面。近几个月来，这已成为当地人普遍认同的生存法则。 但对佐敏（Zaw Min）而言，他别无选择。 这名26岁的嘟嘟车司机因担心自身安全，要求隐去真实姓名。他说：“我会担心，但我必须外出工作。我的家人总是不断打电话给我，提醒我不要把乘客载得太远，要小心接载的是什么人……我必须时刻保持警惕。” 他解释道…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cw30empz9qyvo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "種族歧視風波爆發時，與Blackpink成員Lisa共處一室是什麼感受？",
-    "link": "https://www.bbc.com/zhongwen/articles/cw30empz9qyvo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-11 14:44:19",
-    "author": "",
-    "description": "Getty Images / Lisa本名为普兰披雅・玛诺班（Pranpriya Manobal），出生于泰国；作为Blackpink成员之一，她成为全球辨识度最高的K-pop偶像之一。 成为一场网络丑闻的主角，是什么感受？ 这是有关拉莉莎·马诺芭（Lalisa Manoban）的一部新纪录片所提出的问题之一。Lisa是K-pop现象级女团Blackpink的成员之一，也是电视剧《白莲花度假村》（The White Lotus）中崭露头…",
-    "content": "Getty Images / Lisa本名为普兰披雅・玛诺班（Pranpriya Manobal），出生于泰国；作为Blackpink成员之一，她成为全球辨识度最高的K-pop偶像之一。 成为一场网络丑闻的主角，是什么感受？ 这是有关拉莉莎·马诺芭（Lalisa Manoban）的一部新纪录片所提出的问题之一。Lisa是K-pop现象级女团Blackpink的成员之一，也是电视剧《白莲花度假村》（The White Lotus）中崭露头角的新星。 这部纪录片记录了一场持续发酵的争议。流出的影片显示，Blackpin…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c6n8dx52dgj5o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "台北選戰掀美沙冬爭議 香港逾半世紀戒毒經驗有何啟示？",
-    "link": "https://www.bbc.com/zhongwen/articles/c6n8dx52dgj5o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-11 09:12:43",
-    "author": "",
-    "description": "Shanshan Kao/BBC News Chinese / 位于香港湾仔的美沙酮（美沙冬）诊所。特区政府卫生署目前设有18处此类诊所，部份专门在晚间运作。 台湾“九合一”地方选举正处于拉票阶段，其中在台北市长选举上，毒品议题近来成为选战新战场，焦点之一围绕美沙酮（Methadone，美沙冬）的特性及成效。 美沙酮属于受管制药物，可抑制海洛英（海洛因，俗称“白粉”）、吗啡及鸦片的成瘾，通常不会令服用者产生快感，亦无严重的副作用。 全球…",
-    "content": "Shanshan Kao/BBC News Chinese / 位于香港湾仔的美沙酮（美沙冬）诊所。特区政府卫生署目前设有18处此类诊所，部份专门在晚间运作。 台湾“九合一”地方选举正处于拉票阶段，其中在台北市长选举上，毒品议题近来成为选战新战场，焦点之一围绕美沙酮（Methadone，美沙冬）的特性及成效。 美沙酮属于受管制药物，可抑制海洛英（海洛因，俗称“白粉”）、吗啡及鸦片的成瘾，通常不会令服用者产生快感，亦无严重的副作用。 全球有多个地区采用美沙酮作为代用药物，治疗鸦片类毒品成瘾人士，获联合国旗下毒品和犯罪…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c53981jp28e0o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "什麼是「微笑抑鬱」？如何察覺徵兆？",
-    "link": "https://www.bbc.com/zhongwen/articles/c53981jp28e0o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-11 08:41:33",
-    "author": "",
-    "description": "Getty / “微笑抑郁”并非正式认可的诊断名称，但过去五年，这个词的网络搜寻量增加了50%。 想像一个患有抑郁症的人，你脑海中浮现的，可能是一个连起床也感到困难的人。 他们或许经常哭泣、疏远朋友，甚至几乎没有足够精力捱过一天。 你大概不会想到，同一个人可能在晚餐时说笑逗乐、社交生活十分忙碌，而且工作表现出色。 但对于有所谓“微笑抑郁”的人来说，情况可能正是如此。 而有时被蒙在鼓里的，并不是朋友、伴侣或同事，而是你自己。 “微笑抑郁”…",
-    "content": "Getty / “微笑抑郁”并非正式认可的诊断名称，但过去五年，这个词的网络搜寻量增加了50%。 想像一个患有抑郁症的人，你脑海中浮现的，可能是一个连起床也感到困难的人。 他们或许经常哭泣、疏远朋友，甚至几乎没有足够精力捱过一天。 你大概不会想到，同一个人可能在晚餐时说笑逗乐、社交生活十分忙碌，而且工作表现出色。 但对于有所谓“微笑抑郁”的人来说，情况可能正是如此。 而有时被蒙在鼓里的，并不是朋友、伴侣或同事，而是你自己。 “微笑抑郁”是什么？ Getty / 世界卫生组织表示，全球约有3.22亿人患有抑郁症。 “…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c6lyk794d8p7o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "以「山巔之城」論台灣：賴清德雙十演說想傳達什麼訊息？",
-    "link": "https://www.bbc.com/zhongwen/articles/c6lyk794d8p7o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-10 19:37:11",
-    "author": "",
-    "description": "Reuters / 学者认为赖清德今年的“双十讲话”有相当内容是在向美国传递讯息。 台湾总统赖清德在中华民国115年“双十”国庆大会发表演说，引用基督教《圣经》“山巅之城”（City upon a Hill）概念，强调台湾将成为“维护印太和平与稳定的关键力量”。 在星期六（10月10日）的讲话中，针对近期中国国家主席习近平与美国总统特朗普（Donald Trump；川普）的互动，赖清德称乐见美中透过对话管理竞争，但“绝不容许扭曲二战历史…",
-    "content": "Reuters / 学者认为赖清德今年的“双十讲话”有相当内容是在向美国传递讯息。 台湾总统赖清德在中华民国115年“双十”国庆大会发表演说，引用基督教《圣经》“山巅之城”（City upon a Hill）概念，强调台湾将成为“维护印太和平与稳定的关键力量”。 在星期六（10月10日）的讲话中，针对近期中国国家主席习近平与美国总统特朗普（Donald Trump；川普）的互动，赖清德称乐见美中透过对话管理竞争，但“绝不容许扭曲二战历史，也要尊重台湾人民生存的权利”。 在两岸关系方面，赖清德表示，台湾强化自我防卫并…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c60rlq5d24wwo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "這位丈夫15年來潛水760次，就為了「靠近」海嘯失蹤的妻子",
-    "link": "https://www.bbc.com/zhongwen/articles/c60rlq5d24wwo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-10 15:48:57",
-    "author": "",
-    "description": "Yasuo Takamatsu / 高松康雄在50多岁时开始学习潜水，当时他看到潜水员在海中搜寻海啸遇难者。 每个月两次，日本东北部宫城县的女川港，总有一名男子登上一艘小渔船，驶向几公里外的大海。 他叫高松康雄。13年多来，他一直重复着同样的动作：戴上潜水面罩、背上氧气瓶、系好配重腰带。 当船驶到足够远的地方，他便纵身跃入冰冷的海水。 每一次潜水，他都回到同一片大海。15年前，这片海夺走了他的妻子祐子。 海啸 Getty Images …",
-    "content": "Yasuo Takamatsu / 高松康雄在50多岁时开始学习潜水，当时他看到潜水员在海中搜寻海啸遇难者。 每个月两次，日本东北部宫城县的女川港，总有一名男子登上一艘小渔船，驶向几公里外的大海。 他叫高松康雄。13年多来，他一直重复着同样的动作：戴上潜水面罩、背上氧气瓶、系好配重腰带。 当船驶到足够远的地方，他便纵身跃入冰冷的海水。 每一次潜水，他都回到同一片大海。15年前，这片海夺走了他的妻子祐子。 海啸 Getty Images / 2011年日本东北部近海发生规模9.0至9.1的强烈海底地震，引发海啸。 2…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c58jz8w7kmjyo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "賴清德雙十講話：台灣強化防衛不是放棄對話",
-    "link": "https://www.bbc.com/zhongwen/articles/c58jz8w7kmjyo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-10 13:01:42",
-    "author": "",
-    "description": "台湾举行2026年，即中华民国115年国庆大会，总统赖清德发表双十节演说，引用基督教《圣经》提出要建设“山巅之城”，让台湾成为“维护印太和平与稳定的关键力量”。 针对近期中国国家主席习近平与美国总统特朗普（川普）的互动，赖清德称乐见美中透过对话管理竞争，但“绝不容许扭曲二战历史，也要尊重台湾人民生存的权利”，又称台湾强化自卫不是放弃对话，喊话中国大陆“武力不能凌驾规则”，“台湾愿意交流，但不会接受矮化”。 在星期六（10月10日）的演说…",
-    "content": "台湾举行2026年，即中华民国115年国庆大会，总统赖清德发表双十节演说，引用基督教《圣经》提出要建设“山巅之城”，让台湾成为“维护印太和平与稳定的关键力量”。 针对近期中国国家主席习近平与美国总统特朗普（川普）的互动，赖清德称乐见美中透过对话管理竞争，但“绝不容许扭曲二战历史，也要尊重台湾人民生存的权利”，又称台湾强化自卫不是放弃对话，喊话中国大陆“武力不能凌驾规则”，“台湾愿意交流，但不会接受矮化”。 在星期六（10月10日）的演说中，身兼民主进步党主席的赖清德又就11月底举行的“九合一”地方选举表示，政党可以…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cmwy48r8ex41o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "老撾的班根軍用機場 中國能用來做甚麼？",
-    "link": "https://www.bbc.com/zhongwen/articles/cmwy48r8ex41o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-09 08:18:18",
-    "author": "",
-    "description": "Vantor/Reuters/Getty Images / 老挝国家主席通伦（图中下）6月访问北京时，中国国家主席习近平呼吁中老两国建立涵盖国防等多个领域的战略对话机制。 2026年10月8日，越南总理黎明兴正式访问老挝（寮国），并在首都万象（永珍）与该国领导人会晤。 这次出访受到越南国内舆论关注，因为这是黎明兴以政府领导人身分进行的首次双边访问。而他也是老挝新任总理沙伦赛（Saleumxay Kommasith）接待的首位外国领导人。…",
-    "content": "Vantor/Reuters/Getty Images / 老挝国家主席通伦（图中下）6月访问北京时，中国国家主席习近平呼吁中老两国建立涵盖国防等多个领域的战略对话机制。 2026年10月8日，越南总理黎明兴正式访问老挝（寮国），并在首都万象（永珍）与该国领导人会晤。 这次出访受到越南国内舆论关注，因为这是黎明兴以政府领导人身分进行的首次双边访问。而他也是老挝新任总理沙伦赛（Saleumxay Kommasith）接待的首位外国领导人。 但对国际观察人士而言，关注焦点落在距离万象以北50多公里的班根（Ban Keu…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/ckwyq35pnxjno/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "俄羅斯鼠疫會引發一場全球疫情嗎？",
-    "link": "https://www.bbc.com/zhongwen/articles/ckwyq35pnxjno/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-08 20:34:52",
-    "author": "",
-    "description": "Getty Images 一名俄罗斯实验室技术员在西伯利亚一处鼠疫研究中心身亡，但肺鼠疫通常很容易被控制，原因有很多。 场景听起来或许有些似曾相识。 上周五，西伯利亚一名女子因“原因未明”的肺炎死亡，她此前可能曾接触鼠疫。俄罗斯媒体报道，近200人被隔离。官员迅速出面打消疑虑，但网上的揣测与恐慌仍在蔓延。 这名28岁女子名叫达莉亚·希皮洛娃（Darya Shipilova），任职于西伯利亚伊尔库茨克（Irkutsk）地区的防疫研究所。 …",
-    "content": "Getty Images 一名俄罗斯实验室技术员在西伯利亚一处鼠疫研究中心身亡，但肺鼠疫通常很容易被控制，原因有很多。 场景听起来或许有些似曾相识。 上周五，西伯利亚一名女子因“原因未明”的肺炎死亡，她此前可能曾接触鼠疫。俄罗斯媒体报道，近200人被隔离。官员迅速出面打消疑虑，但网上的揣测与恐慌仍在蔓延。 这名28岁女子名叫达莉亚·希皮洛娃（Darya Shipilova），任职于西伯利亚伊尔库茨克（Irkutsk）地区的防疫研究所。 未经证实的消息指，她出现类似肺炎的症状，可能是在打破一支装有鼠疫菌的试管之后，也…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cqlymyyze8mjo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "台灣AV盛極而衰：中國市場如何催生這場成人片熱潮？",
-    "link": "https://www.bbc.com/zhongwen/articles/cqlymyyze8mjo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-08 17:37:08",
-    "author": "",
-    "description": "BBC / 谁养大了台湾AV产业？ 台湾被视为“亚洲唯一能合法拍摄无码成人影片”的地区，并曾在2020年前后迎来产业快速扩张。 有AV演员向BBC中文表示，高峰时期全台片商超过20家，每月产出180至300支作品。学者估计，相关成人娱乐产业产值可达新台币200亿元。 然而，随着大型片商“麻豆传媒”于2026年突然停运，台湾成人影片产业的兴衰再度受到关注。 多名从业者透露，产业在疫情期间快速成长，背后可能与中国市场需求、线上博弈广告及灰色…",
-    "content": "BBC / 谁养大了台湾AV产业？ 台湾被视为“亚洲唯一能合法拍摄无码成人影片”的地区，并曾在2020年前后迎来产业快速扩张。 有AV演员向BBC中文表示，高峰时期全台片商超过20家，每月产出180至300支作品。学者估计，相关成人娱乐产业产值可达新台币200亿元。 然而，随着大型片商“麻豆传媒”于2026年突然停运，台湾成人影片产业的兴衰再度受到关注。 多名从业者透露，产业在疫情期间快速成长，背后可能与中国市场需求、线上博弈广告及灰色资金流入有关。近年随着资金退潮及龙头企业倒下，整个产业正面临巨大挑战。 BBC中…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cq5ynx00d4leo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "美國中期選舉是甚麼？這是一份簡易指南",
-    "link": "https://www.bbc.com/zhongwen/articles/cq5ynx00d4leo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-08 12:41:43",
-    "author": "",
-    "description": "BBC 美国中期选举在11月举行，届时选民将参与一场投票，而这场选举的结果可能对唐纳德·特朗普（Donald Trump；川普）余下的总统任期产生重大影响。 甚么是中期选举？ 11月3日，美国人将选出国会议员。国会由两部分组成，即众议院和参议院。 选举每两年举行一次；当选举在总统四年任期的中间举行时，便被称为中期选举（midterms）。 国会的一项重要职责是制定及通过联邦法律，也就是适用于全国的法律。 中期选举的结果将决定哪个政党能控…",
-    "content": "BBC 美国中期选举在11月举行，届时选民将参与一场投票，而这场选举的结果可能对唐纳德·特朗普（Donald Trump；川普）余下的总统任期产生重大影响。 甚么是中期选举？ 11月3日，美国人将选出国会议员。国会由两部分组成，即众议院和参议院。 选举每两年举行一次；当选举在总统四年任期的中间举行时，便被称为中期选举（midterms）。 国会的一项重要职责是制定及通过联邦法律，也就是适用于全国的法律。 中期选举的结果将决定哪个政党能控制国会，是特朗普所属的共和党，还是在野民主党，以及总统推行其计划的难易程度。 选…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c69wzrwr2z1eo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "「地球不只有一個北極」——怎麼講？",
-    "link": "https://www.bbc.com/zhongwen/articles/c69wzrwr2z1eo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-08 10:16:46",
-    "author": "",
-    "description": "BBC/Getty Images 我们都听说过北极（North Pole），那是一片冰封世界，有海冰、北极熊、北极光（Northern Lights）和午夜太阳。 但你知道吗？其实北极并不是一个很容易界定的概念，而且北极还不只一个。 事实上，按照英国探险家兼气候科学家费莉西蒂·阿斯顿（Felicity Aston）的说法，“地球上可以说有很多个北极”。 她在BBC播客《无限猴笼》（The Infinite Monkey Cage）中表示…",
-    "content": "BBC/Getty Images 我们都听说过北极（North Pole），那是一片冰封世界，有海冰、北极熊、北极光（Northern Lights）和午夜太阳。 但你知道吗？其实北极并不是一个很容易界定的概念，而且北极还不只一个。 事实上，按照英国探险家兼气候科学家费莉西蒂·阿斯顿（Felicity Aston）的说法，“地球上可以说有很多个北极”。 她在BBC播客《无限猴笼》（The Infinite Monkey Cage）中表示：“无论以任何定义来看，两个绝对称得上北极的地方，就是磁北极（magnetic …"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c6pwg52xjp8jo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "「特習會」後兩架美國 F-16V 抵台 「雖遲但到」的時機與信號",
-    "link": "https://www.bbc.com/zhongwen/articles/c6pwg52xjp8jo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-05 08:14:01",
-    "author": "",
-    "description": "Getty Images 台湾向美国订购的 66 架 F-16V 战机中，首批 2 架本周五（10 月 2 日）飞抵台东空军志航基地。这是台湾自1990 年代以来首次采购新战机，也是这笔延宕多年的军售案首度有实机落地。 这批采购于 2019 年特朗普（Donald Trump）第一个总统任期内批准，总价值 2472 亿新台币（约 77.6 亿美元）。原定的交付时程一再推迟，如今首批战机抵台的时间点，距离中国国家主席习近平结束访美行程仅数…",
-    "content": "Getty Images 台湾向美国订购的 66 架 F-16V 战机中，首批 2 架本周五（10 月 2 日）飞抵台东空军志航基地。这是台湾自1990 年代以来首次采购新战机，也是这笔延宕多年的军售案首度有实机落地。 这批采购于 2019 年特朗普（Donald Trump）第一个总统任期内批准，总价值 2472 亿新台币（约 77.6 亿美元）。原定的交付时程一再推迟，如今首批战机抵台的时间点，距离中国国家主席习近平结束访美行程仅数日，令这次交付的政治意涵备受关注。 值得留意的是，两架战机早在 8 月 17 日…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cq62yr0ndd5zo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "為什麼有些人坐電動車更容易暈車？",
-    "link": "https://www.bbc.com/zhongwen/articles/cq62yr0ndd5zo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-03 12:19:55",
-    "author": "",
-    "description": "Getty Images/Halfpoint Images 劳拉·贝尔德（Lola Baird）刚刚请男友把车停到路边。行程开始40分钟后，她因为恶心而感到“受不了”，最后忍不住在男友的车旁吐了出来。 现年24岁、来自伦敦北部的劳拉，在男友两年前买下电动车之前，从未试过晕车。此后，每当男友驾车载她走较远的路程，她都会感到“非常恶心”。 情况甚至严重到令她要求男友换车。 劳拉并非唯一有这种经历的人。其他人告诉BBC新闻，他们或自己的孩子乘…",
-    "content": "Getty Images/Halfpoint Images 劳拉·贝尔德（Lola Baird）刚刚请男友把车停到路边。行程开始40分钟后，她因为恶心而感到“受不了”，最后忍不住在男友的车旁吐了出来。 现年24岁、来自伦敦北部的劳拉，在男友两年前买下电动车之前，从未试过晕车。此后，每当男友驾车载她走较远的路程，她都会感到“非常恶心”。 情况甚至严重到令她要求男友换车。 劳拉并非唯一有这种经历的人。其他人告诉BBC新闻，他们或自己的孩子乘坐电动车时，会感到比以往更容易晕车。不过，与此同时，许多电动车司机都说，不曾经历…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cw80zedd4gd8o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "中國Z世代為何迷上玄學拜佛？ 什麼是「心靈經濟」？",
-    "link": "https://www.bbc.com/zhongwen/articles/cw80zedd4gd8o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-03 11:42:21",
-    "author": "",
-    "description": "Getty Images / 中国Z世代为何迷上玄学拜佛？ 什么是“心灵经济”？ 中国年轻人涌向寺庙、算命、塔罗牌和各类灵修产品。这未必是因为他们找到了宗教信仰，而是因为在充满不确定性的时代，他们正试图寻求一丝寄托。 面对就业、收入与未来的焦虑，许多人希望藉此寻求运气、心安以及掌控感。对某些人来说，这意味着去寺庙上香祈福或算命求签；对另一些人来说，则是购买号称能带来好运的手鍊、符咒等各类产品。 商界也敏锐地捕捉到了这一趋势。无论是品牌还…",
-    "content": "Getty Images / 中国Z世代为何迷上玄学拜佛？ 什么是“心灵经济”？ 中国年轻人涌向寺庙、算命、塔罗牌和各类灵修产品。这未必是因为他们找到了宗教信仰，而是因为在充满不确定性的时代，他们正试图寻求一丝寄托。 面对就业、收入与未来的焦虑，许多人希望藉此寻求运气、心安以及掌控感。对某些人来说，这意味着去寺庙上香祈福或算命求签；对另一些人来说，则是购买号称能带来好运的手鍊、符咒等各类产品。 商界也敏锐地捕捉到了这一趋势。无论是品牌还是寺庙，都正积极抢滩这个日益蓬勃的“心灵经济”（spiritual econom…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c61kd3ze2mnno/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "「工程師治國」：中國為何熱衷於「超級工程」？",
-    "link": "https://www.bbc.com/zhongwen/articles/c61kd3ze2mnno/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-03 11:16:15",
-    "author": "",
-    "description": "Getty Images / “工程师治国”：中国为何热衷于“超级工程”？ 大型建设工程正在重塑中国——从巨型大坝、庞大的太阳能发电场，到覆盖全国的高铁网络。北京的“工程师思维”能否助其应对气候变化？ 中国的高层领导层长期由工程师主导，国家主席习近平便是其中之一，他曾在1970年代接受过化学工程专业的训练。 从港珠澳大桥到“南水北调”工程，这种对基建的热狂已延伸至能源领域。作为全球最大碳排放国，中国已投入数万亿美元布局风电、核电与特高压…",
-    "content": "Getty Images / “工程师治国”：中国为何热衷于“超级工程”？ 大型建设工程正在重塑中国——从巨型大坝、庞大的太阳能发电场，到覆盖全国的高铁网络。北京的“工程师思维”能否助其应对气候变化？ 中国的高层领导层长期由工程师主导，国家主席习近平便是其中之一，他曾在1970年代接受过化学工程专业的训练。 从港珠澳大桥到“南水北调”工程，这种对基建的热狂已延伸至能源领域。作为全球最大碳排放国，中国已投入数万亿美元布局风电、核电与特高压输电网。 然而，中国至今仍高度依赖煤电，且大规模工程常破坏在地生态，并造成数百万…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/ck3rerpdp7x9o/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "機師刀刺同僚企圖劫機 杜拜往以色列航班乘客化解空難",
-    "link": "https://www.bbc.com/zhongwen/articles/ck3rerpdp7x9o/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-10-01 14:20:54",
-    "author": "",
-    "description": "Reuters 一架从阿联酋杜拜飞往以色列的客机上，在9月30日发生企图空中劫机事件。其中一名机师刺伤另一名副机师后，机上乘客在机人员协助下闯进驾驶舱并合力制伏施袭者，目击画面记录了惊险的瞬间。 涉事客机属于“杜拜航空”（Flydubai），当时正从杜拜飞往以色列，事发后一度失控骤降约1.5万英尺。乘客描述称，涉事机师似乎企图让飞机坠毁。 客机随后发出求救讯号，触发重大安全警报，以色列紧急出动战机拦截该航班。最终，机上其他机制接手操控飞…",
-    "content": "Reuters 一架从阿联酋杜拜飞往以色列的客机上，在9月30日发生企图空中劫机事件。其中一名机师刺伤另一名副机师后，机上乘客在机人员协助下闯进驾驶舱并合力制伏施袭者，目击画面记录了惊险的瞬间。 涉事客机属于“杜拜航空”（Flydubai），当时正从杜拜飞往以色列，事发后一度失控骤降约1.5万英尺。乘客描述称，涉事机师似乎企图让飞机坠毁。 客机随后发出求救讯号，触发重大安全警报，以色列紧急出动战机拦截该航班。最终，机上其他机制接手操控飞机，紧急降落于沙特阿拉伯，涉嫌施袭的机师被逮捕。 以色列即将举行大选，当局尚未透…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cm5ye14v6n8xo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "特朗普排除美中合作開發人工智能",
-    "link": "https://www.bbc.com/zhongwen/articles/cm5ye14v6n8xo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-09-30 12:39:30",
-    "author": "",
-    "description": "Getty Images / 特朗普在 America.gov 网站的启动仪式上发表讲话。 美国总统特朗普（Donald Trump；川普）表示，不会考虑与中国合资发展人工智能（artificial intelligence, AI；人工智慧），认为这等同于把美国的技术机密交给主要经济竞争对手。 尽管美国民众对人工智能可能带来的风险越加关注，特朗普周二（9月29日）在华盛顿出席一场活动时，再次反对对人工智能发展加设限制，认为这些限制会妨…",
-    "content": "Getty Images / 特朗普在 America.gov 网站的启动仪式上发表讲话。 美国总统特朗普（Donald Trump；川普）表示，不会考虑与中国合资发展人工智能（artificial intelligence, AI；人工智慧），认为这等同于把美国的技术机密交给主要经济竞争对手。 尽管美国民众对人工智能可能带来的风险越加关注，特朗普周二（9月29日）在华盛顿出席一场活动时，再次反对对人工智能发展加设限制，认为这些限制会妨碍这项技术未来的发展。 中国国家主席习近平上周访问白宫后，中美宣布成立新的人工智…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cmzxzl450p2no/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "特朗普習近平峰會：沒有說出口的議題可能更重要",
-    "link": "https://www.bbc.com/zhongwen/articles/cmzxzl450p2no/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-09-29 11:48:29",
-    "author": "",
-    "description": "Reuters / 习近平与特朗普在华盛顿的会谈没有发表联合声明，也未取得多少重大突破。 中国星期一（9月28日）公布了更多有关国家主席习近平与唐纳德·特朗普（Donald Tump；川普）上星期会谈中达成共识的资讯，让一些具体成果得以曝光。 但双方没有发表联合声明，也几乎没有重大突破。 相反，两国政府各自发布了这次会晤的说法，这或许显示尽管有白宫参观行程以及加强双边关系的承诺，华盛顿与北京仍对彼此保持戒心。 以下是我们目前已知，以及仍…",
-    "content": "Reuters / 习近平与特朗普在华盛顿的会谈没有发表联合声明，也未取得多少重大突破。 中国星期一（9月28日）公布了更多有关国家主席习近平与唐纳德·特朗普（Donald Tump；川普）上星期会谈中达成共识的资讯，让一些具体成果得以曝光。 但双方没有发表联合声明，也几乎没有重大突破。 相反，两国政府各自发布了这次会晤的说法，这或许显示尽管有白宫参观行程以及加强双边关系的承诺，华盛顿与北京仍对彼此保持戒心。 以下是我们目前已知，以及仍然未知的四件有关此次会谈的事情。 新的人工智能对话与沟通渠道 北京表示，已与华盛…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c3qjkx1wdyyxo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "為何特朗普在國宴上送習近平一座華麗的白頭海鵰雕像？",
-    "link": "https://www.bbc.com/zhongwen/articles/c3qjkx1wdyyxo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-09-25 12:56:06",
-    "author": "",
-    "description": "EPA / 特朗普称，他与第一夫人梅拉尼娅一同参与了雕像的设计。 美国总统特朗普在华盛顿一场盛大的国宴上，向中国国家主席习近平赠送了一座白头海鵰雕像。这种鸟类原生于北美，也是美国的国家象征。 这份礼物在星期四的国宴上，于一众贵宾面前亮相。特朗普说，它体现了“美国自由翱翔的精神”。 他表示，自己和第一夫人梅拉尼娅·特朗普都有参与雕像的设计。 这座雕像亦反映了国际外交中一个珍贵但有时相当棘手的环节：送礼。 此类礼物虽只是小小心意，却别具意义…",
-    "content": "EPA / 特朗普称，他与第一夫人梅拉尼娅一同参与了雕像的设计。 美国总统特朗普在华盛顿一场盛大的国宴上，向中国国家主席习近平赠送了一座白头海鵰雕像。这种鸟类原生于北美，也是美国的国家象征。 这份礼物在星期四的国宴上，于一众贵宾面前亮相。特朗普说，它体现了“美国自由翱翔的精神”。 他表示，自己和第一夫人梅拉尼娅·特朗普都有参与雕像的设计。 这座雕像亦反映了国际外交中一个珍贵但有时相当棘手的环节：送礼。 此类礼物虽只是小小心意，却别具意义，也呼应习近平与特朗普三天峰会的一项更宏大目标——在两个全球超级大国的领导人之间…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/c9zrz24j8pdvo/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "從年輕縣官到國家主席：習近平41年來的訪美影像",
-    "link": "https://www.bbc.com/zhongwen/articles/c9zrz24j8pdvo/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-09-22 22:36:55",
-    "author": "",
-    "description": "Reuters 1985年，31岁的习近平以中共河北省正定县委书记身份首次访问美国，行程包括三藩市和艾奥瓦州。当时，他此行主要是考察农业和地方发展。 四十多年来，习近平先后以地方官员、中国国家副主席和国家主席等不同身份访美。随着职位转变，访问内容也由地方交流和经贸考察，逐步转为中美元首会晤和多边外交活动。 本周三至五（9月23日至25日）将是习近平第11次官式访问美国。过去的访问横跨中美关系多个阶段，既有地方层面的交流，也有在白宫、庄园…",
-    "content": "Reuters 1985年，31岁的习近平以中共河北省正定县委书记身份首次访问美国，行程包括三藩市和艾奥瓦州。当时，他此行主要是考察农业和地方发展。 四十多年来，习近平先后以地方官员、中国国家副主席和国家主席等不同身份访美。随着职位转变，访问内容也由地方交流和经贸考察，逐步转为中美元首会晤和多边外交活动。 本周三至五（9月23日至25日）将是习近平第11次官式访问美国。过去的访问横跨中美关系多个阶段，既有地方层面的交流，也有在白宫、庄园和国际峰会上的高层会晤。 BBC中文透过历年照片，回顾习近平四十多年来的访美经历…"
-  },
-  {
-    "id": "国外-BBC 中文版-https://www.bbc.com/zhongwen/articles/cp931k7xx4do/simp?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC 中文版",
-    "category": "国外",
-    "title": "2026台灣地方選舉：「九合一」為何重要？選舉時程是什麼？",
-    "link": "https://www.bbc.com/zhongwen/articles/cp931k7xx4do/simp?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-09-16 12:47:26",
-    "author": "",
-    "description": "Getty Images / 台湾的地方选举又称“九合一”选举，图为2022年选举开票。 台湾将在今年11月28日举行“九合一”地方选举，选出直辖市长和县市长在内9类地方公职。 其中，蓝绿差距较小、全台人口最多的新北市，被视为决定胜负的重要战场。 分析指出，这场选举不仅是针对总统赖清德的执政信任票，亦是2028年总统大选的起跑赛。对于两岸路线遭党内质疑的国民党主席郑丽文而言，此役也是她能否取得总统大选提名的关键。 相较于“抗中保台”，此…",
-    "content": "Getty Images / 台湾的地方选举又称“九合一”选举，图为2022年选举开票。 台湾将在今年11月28日举行“九合一”地方选举，选出直辖市长和县市长在内9类地方公职。 其中，蓝绿差距较小、全台人口最多的新北市，被视为决定胜负的重要战场。 分析指出，这场选举不仅是针对总统赖清德的执政信任票，亦是2028年总统大选的起跑赛。对于两岸路线遭党内质疑的国民党主席郑丽文而言，此役也是她能否取得总统大选提名的关键。 相较于“抗中保台”，此次选举议题更聚焦于民生经济。选前三个月，赖清德宣布派发一万现金、在野阵营则提出三…"
   }
 ];
 
