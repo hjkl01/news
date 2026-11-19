@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-11-19T03:57:20.285Z",
-  "ended_at": "2026-11-19T03:57:20.485Z",
-  "duration_ms": 200,
+  "started_at": "2026-11-19T14:58:23.468Z",
+  "ended_at": "2026-11-19T14:58:23.687Z",
+  "duration_ms": 219,
   "config": {
     "concurrency": 16,
     "cache_enabled": true,
@@ -17,12 +17,12 @@
   "summary": {
     "total_sources": 62,
     "fetched_sources": 0,
-    "cache_hit_sources": 61,
-    "failed_sources": 1,
-    "circuit_open_sources": 1,
+    "cache_hit_sources": 60,
+    "failed_sources": 2,
+    "circuit_open_sources": 2,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1554,
-    "total_items_after_retention": 1345,
+    "total_items_after_dedupe": 1545,
+    "total_items_after_retention": 1334,
     "build_blocked": false
   },
   "critical_failures": [],
@@ -32,6 +32,12 @@
       "url": "https://www.jiqizhixin.com/rss",
       "reason": "Invalid character in entity name\nLine: 6\nColumn: 83\nChar: =",
       "skippedByCircuit": true
+    },
+    {
+      "title": "Seebug Paper",
+      "url": "https://paper.seebug.org/rss/",
+      "reason": "The operation was aborted.",
+      "skippedByCircuit": true
     }
   ],
   "circuit_open": [
@@ -39,6 +45,11 @@
       "title": "机器之心",
       "url": "https://www.jiqizhixin.com/rss",
       "reason": "Invalid character in entity name\nLine: 6\nColumn: 83\nChar: ="
+    },
+    {
+      "title": "Seebug Paper",
+      "url": "https://paper.seebug.org/rss/",
+      "reason": "The operation was aborted."
     }
   ]
 }
