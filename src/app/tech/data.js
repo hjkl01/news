@@ -1,5 +1,1061 @@
 const jsonData = [
   {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8211963.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "消费股，正在悄悄启动",
+    "link": "https://www.tmtpost.com/8211963.html",
+    "pub_date": "2026-11-20 11:34:15",
+    "author": "",
+    "description": "残冬已过，草木初萌。",
+    "content": "残冬已过，草木初萌。"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8211677.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "Herman Miller 与他的中国学徒",
+    "link": "https://www.tmtpost.com/8211677.html",
+    "pub_date": "2026-11-20 11:34:10",
+    "author": "",
+    "description": "体验的细节没有终点，定义权的争夺也没有终点，一切悬而未定。",
+    "content": "体验的细节没有终点，定义权的争夺也没有终点，一切悬而未定。"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8212003.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "英伟达换帅，为什么连贝索斯都急着警告 “不能外聘”？",
+    "link": "https://www.tmtpost.com/8212003.html",
+    "pub_date": "2026-11-20 11:34:06",
+    "author": "",
+    "description": "黄仁勋辞任后，贝索斯公开警告英伟达绝不能外聘CEO，一家万亿美元巨头为何连空降兵都接不住？",
+    "content": "黄仁勋辞任后，贝索斯公开警告英伟达绝不能外聘CEO，一家万亿美元巨头为何连空降兵都接不住？"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8211847.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "Kimi的当务之急是赶紧推广自家AI姬",
+    "link": "https://www.tmtpost.com/8211847.html",
+    "pub_date": "2026-11-20 11:25:42",
+    "author": "",
+    "description": "Kimi的角色还停在Benchmark。",
+    "content": "Kimi的角色还停在Benchmark。"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8212028.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "刚刚，七位亿万富豪同时诞生",
+    "link": "https://www.tmtpost.com/8212028.html",
+    "pub_date": "2026-11-20 11:25:35",
+    "author": "",
+    "description": "598名非创始人员工，持股账面价值将超1亿美元。",
+    "content": "598名非创始人员工，持股账面价值将超1亿美元。"
+  },
+  {
+    "id": "科技-超能网-http://www.expreview.com/109604.html",
+    "feed_name": "超能网",
+    "category": "科技",
+    "title": "惠普发布ProDesk 2 Mini G2i：搭载英特尔Wildcat Lake平台的紧凑型台式机",
+    "link": "http://www.expreview.com/109604.html",
+    "pub_date": "2026-11-20 11:21:00",
+    "author": "吕嘉俭",
+    "description": "惠普宣布，推出ProDesk 2 Mini G2i，这是一款紧凑型台式机，搭载了英特尔代号“Wildcat Lake”的酷睿Ultra 300系列移动处理器，提供了多种扩展选项，包括可升级内存、存储和Wi-Fi模块，并带有多个USB接口。 ProDesk 2 Mini G2i的整体尺寸为181 x 177 x 34 mm，重量约为940g，看起来十分小巧。惠普不仅配备了一个用于DDR5-5600内存的单SODIMM插槽，最大支持32GB…",
+    "content": "惠普 宣布 ，推出ProDesk 2 Mini G2i，这是一款紧凑型台式机，搭载了英特尔代号“Wildcat Lake”的酷睿Ultra 300系列移动处理器，提供了多种扩展选项，包括可升级内存、存储和Wi-Fi模块，并带有多个USB接口。 ProDesk 2 Mini G2i的整体尺寸为181 x 177 x 34 mm，重量约为940g，看起来十分小巧。惠普不仅配备了一个用于DDR5-5600内存的单SODIMM插槽，最大支持32GB容量（美国地区最高提供24GB），也可以选择8GB或者16GB的LPDDR5…"
+  },
+  {
+    "id": "科技-超能网-http://www.expreview.com/109603.html",
+    "feed_name": "超能网",
+    "category": "科技",
+    "title": "威刚推出XPG Invader X mini Chroma机箱：紧凑型多彩中塔，配四ARGB风扇",
+    "link": "http://www.expreview.com/109603.html",
+    "pub_date": "2026-11-20 11:04:00",
+    "author": "吕嘉俭",
+    "description": "威刚宣布，推出XPG Invader X mini Chroma机箱，属于紧凑型中塔产品，提供了四种全新配色，包括SKY（天空蓝）、CORAL（珊瑚粉）、IRIS（鸢尾紫）和AQUA（湖绿色）。官方表示，新产品通过标志性的构造，将简洁线条与全景玻璃面板完美搭配，让玩家的硬件与个人风格尽显无遗。 XPG Invader X mini Chroma机箱的整体尺寸为460 x 210 x 359 mm，重量为5.7kg，可以支持Mini-IT…",
+    "content": "威刚 宣布 ，推出XPG Invader X mini Chroma机箱，属于紧凑型中塔产品，提供了四种全新配色，包括SKY（天空蓝）、CORAL（珊瑚粉）、IRIS（鸢尾紫）和AQUA（湖绿色）。官方表示，新产品通过标志性的构造，将简洁线条与全景玻璃面板完美搭配，让玩家的硬件与个人风格尽显无遗。 XPG Invader X mini Chroma机箱的整体尺寸为460 x 210 x 359 mm，重量为5.7kg，可以支持Mini-ITX、Micro-ATX和ATX规格的主板。无需工具即可拆卸的前面板让玩家操作…"
+  },
+  {
+    "id": "科技-InfoQ 中文-https://www.infoq.cn/article/S4LH5Z9zcbLokm5uNSKR",
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "谷歌发布用于机器人控制、仿真和策略优化的 Gemini 4 Argon",
+    "link": "https://www.infoq.cn/article/S4LH5Z9zcbLokm5uNSKR",
+    "pub_date": "2026-11-20 11:00:00",
+    "author": "",
+    "description": "谷歌发布了 Gemini 4 Argon\"，并将其定位为一款通用物理推理模型，适用于机器人控制、 Real2Sim 场景构建、机器人视频多模态标注以及迭代策略优化，而非单一的末端执行器策略。 在已发布的提示词中，在 MuJoCo\" 孪生环境中进行训练后，Argon 引导波士顿动力公司的 Spot 机器人完成了脚踏板任务；利用视觉坐标和 HTTP 运动原语操控比较简单的机械臂；通过 Gemini Omni 视频世界模型实现闭环控制。Rea…",
+    "content": "谷歌发布了 Gemini 4 Argon \"，并将其定位为一款通用物理推理模型，适用于机器人控制、 Real2Sim 场景构建、机器人视频多模态标注以及迭代策略优化，而非单一的末端执行器策略。 在已发布的提示词中，在 MuJoCo \" 孪生环境中进行训练后，Argon 引导波士顿动力公司的 Spot 机器人完成了脚踏板任务；利用视觉坐标和 HTTP 运动原语操控比较简单的机械臂；通过 Gemini Omni 视频世界模型实现闭环控制。Real2Sim 示例从遥操作视频重建出 MuJoCo 场景；标注提示则对演示视频…"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8212110.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "高开又跳水，巨头组团押注 Anthropic：AI 大模型的公开市场考题才刚刚开始",
+    "link": "https://www.tmtpost.com/8212110.html",
+    "pub_date": "2026-11-20 10:58:50",
+    "author": "",
+    "description": "产业资本互相 “输血”，万亿估值能撑多久？",
+    "content": "产业资本互相 “输血”，万亿估值能撑多久？"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8211742.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "银行高管组团增持：瑞丰银行高管浮盈超160万，上海银行高管浮亏百万",
+    "link": "https://www.tmtpost.com/8211742.html",
+    "pub_date": "2026-11-20 10:53:33",
+    "author": "",
+    "description": "有赚有赔。",
+    "content": "有赚有赔。"
+  },
+  {
+    "id": "科技-IT 之家-https://www.ithome.com/1/029/813.htm",
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "腾讯向百度索赔 1 亿元，后者未拦截《仙逆》盗版视频网站链接",
+    "link": "https://www.ithome.com/1/029/813.htm",
+    "pub_date": "2026-11-20 10:50:45",
+    "author": "",
+    "description": "感谢IT之家网友 鬼谷、村口李大爷 的线索投递！ IT之家 11 月 20 日消息，福建省福州市中级人民法院 11 月 10 日在人民法院公告网刊登了一份起诉状副本及开庭传票，显示因《仙逆》动画盗版纠纷，腾讯向百度索赔 1 亿元。 本案原告为深圳市腾讯计算机系统有限公司、上海腾讯企鹅影视文化传播有限公司、腾讯云计算（福州）有限责任公司，被告为北京百度网讯科技有限公司、五一八生活服务（福州）有限公司，案由为侵害作品信息网络传播权纠纷。 原…",
+    "content": "感谢IT之家网友 鬼谷 、 村口李大爷 的线索投递！ IT之家 11 月 20 日消息，福建省福州市中级人民法院 11 月 10 日在人民法院公告网刊登了一份起诉状副本及开庭传票，显示因《仙逆》动画盗版纠纷， 腾讯向百度索赔 1 亿元 。 本案原告为深圳市腾讯计算机系统有限公司、上海腾讯企鹅影视文化传播有限公司、腾讯云计算（福州）有限责任公司，被告为北京百度网讯科技有限公司、五一八生活服务（福州）有限公司，案由为侵害作品信息网络传播权纠纷。 原告诉请判令： 1、判令被告一就福州市中级人民法院（2024）闽 01 民…"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8211889.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "从Anthropic敲钟，看中国大模型怎么定价？",
+    "link": "https://www.tmtpost.com/8211889.html",
+    "pub_date": "2026-11-20 10:47:09",
+    "author": "",
+    "description": "Anthropic上市，更像是一次针对整个AI行业的压力测试。",
+    "content": "Anthropic上市，更像是一次针对整个AI行业的压力测试。"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8211813.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "火箭公司都想自研发动机，九州云箭们靠什么赚钱？",
+    "link": "https://www.tmtpost.com/8211813.html",
+    "pub_date": "2026-11-20 10:47:03",
+    "author": "",
+    "description": "发动机还没卖出规模，资本市场先迎来了敲门者。",
+    "content": "发动机还没卖出规模，资本市场先迎来了敲门者。"
+  },
+  {
+    "id": "科技-超能网-http://www.expreview.com/109602.html",
+    "feed_name": "超能网",
+    "category": "科技",
+    "title": "零刻ME Pro四盘位NAS添龙芯2K3000版：2+4存储配置，售价2015元起",
+    "link": "http://www.expreview.com/109602.html",
+    "pub_date": "2026-11-20 10:45:00",
+    "author": "吕嘉俭",
+    "description": "去年末，零刻推出了ME Pro，分为双/四盘位NAS，采用了DIY抽屉式设计，可升级主板，选择英特尔、AMD、Arm和龙芯架构的处理器。现在零刻带来了新的选择，增添了搭载龙芯2K3000处理器的四盘位版本，外观延续了之前英特尔酷睿UItra X7 358H处理器版本的设计。目前新产品已登陆到电商平台，并开始销售了。另外厂商提供五年质保，并有30天试玩活动，具体可咨询在线客服工作人员。 零刻 ME Pro，0GB内存 + 64GB存储，首…",
+    "content": "去年末，零刻推出了ME Pro，分为双/四盘位NAS，采用了DIY抽屉式设计，可升级主板，选择英特尔、AMD、Arm和龙芯架构的处理器。现在零刻带来了新的选择，增添了搭载龙芯2K3000处理器的四盘位版本，外观延续了之前英特尔酷睿UItra X7 358H处理器版本的设计。目前新产品已登陆到电商平台，并开始销售了。另外厂商提供五年质保，并有30天试玩活动，具体可咨询在线客服工作人员。 零刻 ME Pro，0GB内存 + 64GB存储，首发到手价2015元，京东地址： 点此前往&gt;&gt;&gt; 零刻 ME P…"
+  },
+  {
+    "id": "科技-Wired-https://www.wired.com/story/fiona-the-hippo-died-after-eating-a-hat-but-how-does-a-hat-kill-a-hippo/",
+    "feed_name": "Wired",
+    "category": "科技",
+    "title": "Fiona the Hippo Died After Eating a Hat. But How Does a Hat Kill a Hippo?",
+    "link": "https://www.wired.com/story/fiona-the-hippo-died-after-eating-a-hat-but-how-does-a-hat-kill-a-hippo/",
+    "pub_date": "2026-11-20 10:39:47",
+    "author": "",
+    "description": "The beloved 9-year-old hippo at the Cincinnati Zoo was famous for surviving premature birth. Veterinary experts explain how a 2,500-pound animal can succumb to a knit hat.",
+    "content": "The beloved 9-year-old hippo at the Cincinnati Zoo was famous for surviving premature birth. Veterinary experts explain how a 2,500-pound animal can succumb to a knit hat."
+  },
+  {
+    "id": "科技-雷峰网-https://www.leiphone.com/category/weiwu/4aDJzWuF4mfxzIIw.html",
+    "feed_name": "雷峰网",
+    "category": "科技",
+    "title": "独家丨荣耀、腾讯背景团队创业做 AI 交互吊坠，已获李泽湘早期投资",
+    "link": "https://www.leiphone.com/category/weiwu/4aDJzWuF4mfxzIIw.html",
+    "pub_date": "2026-11-20 10:35:00",
+    "author": "",
+    "description": "导语：创始人肖裕炜曾在荣耀工作五年，经历横跨 GPU 底层技术与 AI 终端设备。 创始人肖裕炜曾在荣耀工作五年，经历横跨 GPU 底层技术与 AI 终端设备。 作者丨黄艳冰 编辑丨姚单 雷峰网·鲸犀独家获悉，荣耀前高级算法工程师肖裕炜已离职创业，于今年年中创立 AI 交互硬件公司 KnowVoice。其目前正在李泽湘教授的下深圳科创学院孵化，已获得早期投资支持。 创始人兼 CEO 肖裕炜生于 1998 年，本科毕业于广东工业大学，为广…",
+    "content": "导语：创始人肖裕炜曾在荣耀工作五年，经历横跨 GPU 底层技术与 AI 终端设备。 创始人肖裕炜曾在荣耀工作五年，经历横跨 GPU 底层技术与 AI 终端设备。 作者丨黄艳冰 编辑丨 姚单 雷峰网·鲸犀独家获悉， 荣耀前高级算法工程师肖裕炜已离职创业，于今年年中创立 AI 交互硬件公司 KnowVoice。 其目前正在李泽湘教授的下深圳科创学院孵化，已获得早期投资支持。 创始人兼 CEO 肖裕炜生于 1998 年，本科毕业于广东工业大学，为广工大 Robomaster 战队 DynamicX 联创。毕业后就职于荣耀…"
+  },
+  {
+    "id": "科技-超能网-http://www.expreview.com/109601.html",
+    "feed_name": "超能网",
+    "category": "科技",
+    "title": "泰坦军团推出G3280W显示器：31.5英寸QD-OLED，2K@240Hz，到手4999元",
+    "link": "http://www.expreview.com/109601.html",
+    "pub_date": "2026-11-20 10:34:43",
+    "author": "冼廷斌",
+    "description": "近日，泰坦军团推出了G3280W显示器，该产品主打大屏OLED体验，配备第4.5代31.5英寸QD-OLED面板，支持4K@240Hz，支持HDR TrueBlack 500，支持99%DCI-P3色域覆盖，内置扬声器，配备DP 2.1接口以及全功能Type-C接口。泰坦军团 G3280W显示器已上架电商平台，官方售价5555元，目前到手价4999.5元，支持12期免息优惠，支持三年质保服务。 泰坦军团 G3280W显示器，京东商城地址…",
+    "content": "近日，泰坦军团推出了G3280W显示器，该产品主打大屏OLED体验，配备第4.5代31.5英寸QD-OLED面板，支持4K@240Hz，支持HDR TrueBlack 500，支持99%DCI-P3色域覆盖，内置扬声器，配备DP 2.1接口以及全功能Type-C接口。泰坦军团&nbsp;G3280W显示器已上架电商平台，官方售价5555元，目前到手价4999.5元，支持12期免息优惠，支持三年质保服务。 泰坦军团 G3280W显示器，京东商城地址： 点击前往&gt;&gt;&gt; 三维尺寸方面，泰坦军团 G328…"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8211617.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "从去IOE到去CUDA，阿里为何在此时“散养”平头哥",
+    "link": "https://www.tmtpost.com/8211617.html",
+    "pub_date": "2026-11-20 10:32:10",
+    "author": "",
+    "description": "一套资本配置的新模板。",
+    "content": "一套资本配置的新模板。"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8211887.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "资生堂清空欧珀莱",
+    "link": "https://www.tmtpost.com/8211887.html",
+    "pub_date": "2026-11-20 10:32:03",
+    "author": "",
+    "description": "外资美妆，何去何从？",
+    "content": "外资美妆，何去何从？"
+  },
+  {
+    "id": "科技-IT 之家-https://www.ithome.com/1/029/803.htm",
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "动画电影《冰川时代 6：火山大冒险》发布正式预告，2027 年全球献映",
+    "link": "https://www.ithome.com/1/029/803.htm",
+    "pub_date": "2026-11-20 10:21:19",
+    "author": "",
+    "description": "IT之家 11 月 20 日消息，“冰川时代”系列回归之作《冰川时代 6》今日发布正式预告。这次冰川动物们探索神秘的“失落世界”，遇上火山喷发。迪士尼电影官方表示，2027 年即将全球献映。 该片名为《冰川时代 6：火山大冒险》（暂译），将于 2027 年 2 月 5 日在北美上映，也是《冰川时代》系列在 2019 年迪士尼 / 福斯交易后首部院线长片、蓝天动画工作室关闭后该系列新出的首部长片。 IT之家小伙伴记得用最会买购买电影票，享…",
+    "content": "IT之家 11 月 20 日消息，“冰川时代”系列回归之作 《冰川时代 6》今日发布正式预告 。这次冰川动物们探索神秘的“失落世界”，遇上火山喷发。迪士尼电影官方表示，2027 年即将全球献映。 该片名为《冰川时代 6：火山大冒险》（暂译），将于 2027 年 2 月 5 日在北美上映，也是《冰川时代》系列在 2019 年迪士尼 / 福斯交易后首部院线长片、蓝天动画工作室关闭后该系列新出的首部长片。 IT之家小伙伴记得用 最会买购买电影票 ，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！ 广告声…"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8212036.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "黄仁勋的最后一季财报",
+    "link": "https://www.tmtpost.com/8212036.html",
+    "pub_date": "2026-11-20 10:19:05",
+    "author": "",
+    "description": "克雷斯在电话会上只回了一句，“我们能搞定”。",
+    "content": "克雷斯在电话会上只回了一句，“我们能搞定”。"
+  },
+  {
+    "id": "科技-IT 之家-https://www.ithome.com/1/029/801.htm",
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "英伟达回应数据泄露疑云：正调查第三方事件，未发现自身系统受影响",
+    "link": "https://www.ithome.com/1/029/801.htm",
+    "pub_date": "2026-11-20 10:18:57",
+    "author": "",
+    "description": "IT之家 11 月 20 日消息，科技媒体 BleepingComputer 昨日（11 月 19 日）发布博文，报道称英伟达回应勒索组织 Gentlemen 泄露威胁，表示正调查第三方事件，未发现自身系统受影响。 勒索软件组织 Gentlemen 在暗网挂出泄露威胁，声称已窃取了英伟达公司的相关数据，并设置了截至 11 月 28 日的倒计时。IT之家援引博文介绍，该组织尚未出示入侵证据，也未公布任何数据样本，其说法仍有待核实。 英伟达…",
+    "content": "IT之家 11 月 20 日消息，科技媒体 BleepingComputer 昨日（11 月 19 日）发布博文， 报道称英伟达回应勒索组织 Gentlemen 泄露威胁，表示正调查第三方事件，未发现自身系统受影响。 勒索软件组织 Gentlemen 在暗网挂出泄露威胁，声称已窃取了英伟达公司的相关数据，并设置了截至 11 月 28 日的倒计时。IT之家援引博文介绍，该组织尚未出示入侵证据，也未公布任何数据样本，其说法仍有待核实。 英伟达回应称，公司正在调查一起可能涉及第三方合作伙伴的安全事件。“ 我们尚未发现英伟…"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8211578.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "55亿山东富豪尽显豪气，“白送”上市公司超2亿“大礼”",
+    "link": "https://www.tmtpost.com/8211578.html",
+    "pub_date": "2026-11-20 10:08:00",
+    "author": "",
+    "description": "无论是从股权价值还是财务数据来看，亚振家居实控人给公司免费送上的这份“大礼”都可谓“诚意十足”。",
+    "content": "无论是从股权价值还是财务数据来看，亚振家居实控人给公司免费送上的这份“大礼”都可谓“诚意十足”。"
+  },
+  {
+    "id": "科技-IT 之家-https://www.ithome.com/1/029/795.htm",
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "育碧成立 Motherbrain 专注于游戏 AI，半年员工人数减少近 1100 人",
+    "link": "https://www.ithome.com/1/029/795.htm",
+    "pub_date": "2026-11-20 10:03:05",
+    "author": "",
+    "description": "IT之家 11 月 20 日消息，VideoGamesChronicle 今日报道称，育碧成立了一家专注于游戏 AI 技术的新子公司 Motherbrain，负责研发用于游戏玩法创新的 AI 技术，并为旗下游戏开发团队提供支持。 根据育碧 11 月 19 日公布的 2026-2027 财年上半年财报，公司确认 Motherbrain 已正式成为独立子公司，主要负责开发游戏领域的生成式 AI 技术，支持旗下各个游戏创作团队探索新的玩法体验…",
+    "content": "IT之家 11 月 20 日消息，VideoGamesChronicle 今日报道称，育碧成立了一家专注于游戏 AI 技术的新子公司 Motherbrain，负责研发用于游戏玩法创新的 AI 技术，并为旗下游戏开发团队提供支持。 根据育碧 11 月 19 日公布的 2026-2027 财年上半年财报，公司确认 Motherbrain 已正式成为独立子公司，主要负责开发游戏领域的生成式 AI 技术，支持旗下各个游戏创作团队探索新的玩法体验。 育碧联合创始人兼首席执行官 Yves Guillemot 表示，Mother…"
+  },
+  {
+    "id": "科技-雷峰网-https://www.leiphone.com/category/weiwu/o4pLV3X7mPE6sfxq.html",
+    "feed_name": "雷峰网",
+    "category": "科技",
+    "title": "独家丨影石研究院首度公开：字节旧将亓鲁任负责人",
+    "link": "https://www.leiphone.com/category/weiwu/o4pLV3X7mPE6sfxq.html",
+    "pub_date": "2026-11-20 10:01:00",
+    "author": "",
+    "description": "导语：这次变动，亓鲁将推动AI能力与影像场景的进一步结合。 雷峰网·鲸犀独家获悉，影石创新董事亓鲁已出任影石研究院中心负责人，并兼任公司首席 AI 官。知情人士称，他将主要负责相关算法及人工智能领域的研发工作。 亓鲁是一位 90 后，本硕博先后毕业于山东大学、中国科学院、香港中文大学，并在加州大学默塞德分校做过博士后，当前为武汉大学计算机学院教授，研究方向涉及计算机视觉与无人机。 同时，亓鲁有丰富的学术履历，除高校任职外，还担任 IEE…",
+    "content": "导语：这次变动，亓鲁将推动AI能力与影像场景的进一步结合。 雷峰网·鲸犀独家获悉，影石创新董事亓鲁已出任影石研究院中心负责人，并兼任公司首席 AI 官。知情人士称，他将主要负责相关算法及人工智能领域的研发工作。 亓鲁是一位 90 后，本硕博先后毕业于山东大学、中国科学院、香港中文大学，并在加州大学默塞德分校做过博士后，当前为武汉大学计算机学院教授，研究方向涉及计算机视觉与无人机。 同时，亓鲁有丰富的学术履历，除高校任职外，还担任 IEEE TPAMI 编委以及多家国际学术会议领域主席。 在加入影石前，他曾在字节跳动…"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8211807.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "史上最大IPO开盘暴涨，市值一度逼近2万亿美元",
+    "link": "https://www.tmtpost.com/8211807.html",
+    "pub_date": "2026-11-20 10:01:00",
+    "author": "",
+    "description": "史上最大IPO诞生。",
+    "content": "史上最大IPO诞生。"
+  },
+  {
+    "id": "科技-InfoQ 中文-https://www.infoq.cn/article/KBcjdx4ZlUj4hyI7zvdd",
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "Snowflake Expedition 大会亮出哪些新能力？一文梳理重磅更新 ｜ 技术趋势",
+    "link": "https://www.infoq.cn/article/KBcjdx4ZlUj4hyI7zvdd",
+    "pub_date": "2026-11-20 10:00:00",
+    "author": "",
+    "description": "2026 年 Snowflake Expedition 大会上，Snowflake 展示了一系列覆盖平台架构的重大升级，正逐步由云数据平台演进为支持自主 AI 智能体、实时流式应用和对话式商业智能的统一引擎。 此次发布围绕一个核心理念展开：AI 的价值取决于其所依托的企业业务上下文。 通过引入原生业务本体（Business Ontology）、端到端延迟低于 15 秒的实时流式架构，以及旨在替代传统按用户席位授权的仪表板工具的对话式 B…",
+    "content": "2026 年 Snowflake Expedition 大会上，Snowflake 展示了一系列覆盖平台架构的重大升级，正逐步由云数据平台演进为支持自主 AI 智能体、实时流式应用和对话式商业智能的统一引擎。 此次发布围绕一个核心理念展开：AI 的价值取决于其所依托的企业业务上下文。 通过引入原生业务本体（Business Ontology）、端到端延迟低于 15 秒的实时流式架构，以及旨在替代传统按用户席位授权的仪表板工具的对话式 BI，Snowflake 正在打通运营数据、分析工作流与 AI 推理之间的界限。 …"
+  },
+  {
+    "id": "科技-InfoQ 中文-https://www.infoq.cn/article/tfy0PQW5LMZCXlCugMo6",
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "Cloudflare 重构 D1 控制平面，支持数百万数据库规模",
+    "link": "https://www.infoq.cn/article/tfy0PQW5LMZCXlCugMo6",
+    "pub_date": "2026-11-20 10:00:00",
+    "author": "",
+    "description": "Cloudflare 近日发表了一篇文章，介绍其如何重新设计无服务器 SQL 数据库 D1 的控制平面\"，以支持数百万个数据库。此次重构是为避免集中式架构中的性能瓶颈，同时引入重试机制、幂等性保障和最终一致性。 D1 的控制平面架构围绕三种存储系统构建：使用 Postgres 存储事务性元数据，使用 ClickHouse 进行分析，使用 Workers KV 存储全球复制的路由数据。该架构将查询处理保留在边缘节点，与集中式管理操作分离，…",
+    "content": "Cloudflare 近日发表了一篇文章，介绍其如何 重新设计无服务器 SQL 数据库 D1 的控制平面 \"，以支持数百万个数据库。此次重构是为避免集中式架构中的性能瓶颈，同时引入重试机制、幂等性保障和最终一致性。 D1 的控制平面架构围绕三种存储系统构建：使用 Postgres 存储事务性元数据，使用 ClickHouse 进行分析，使用 Workers KV 存储全球复制的路由数据。该架构将查询处理保留在边缘节点，与集中式管理操作分离，并通过分布式元数据缓存、连接池、异步工作流和定期健康检查提升可扩展性，同时增…"
+  },
+  {
+    "id": "科技-InfoQ 中文-https://www.infoq.cn/article/YTGHxcabs0RI3btLIUxm",
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "火山引擎 Agent-Native 团队的上下文管理实践｜AICon北京",
+    "link": "https://www.infoq.cn/article/YTGHxcabs0RI3btLIUxm",
+    "pub_date": "2026-11-20 10:00:00",
+    "author": "",
+    "description": "当 Agent 真正进入企业流程，哪些工作可以交给 AI ？50 + 实战案例揭晓答案！ AI 正在从回答问题的辅助工具，走向理解目标、调用系统、完成任务的工作承担者。当 Agent 真正进入企业流程，问题不再是 “如何把 AI 做出来”，而是哪些工作可以交给 AI、结果如何验收、权限、成本与风险如何收住。随着大模型向推理、工具调用、多模态和长任务延伸，开发重心正从单次调用转向上下文、工具、执行环境与反馈回路的设计，Coding Age…",
+    "content": "当 Agent 真正进入企业流程，哪些工作可以交给 AI ？50 + 实战案例揭晓答案！ AI 正在从回答问题的辅助工具，走向理解目标、调用系统、完成任务的工作承担者。当 Agent 真正进入企业流程，问题不再是 “如何把 AI 做出来”，而是哪些工作可以交给 AI、结果如何验收、权限、成本与风险如何收住。随着大模型向推理、工具调用、多模态和长任务延伸，开发重心正从单次调用转向上下文、工具、执行环境与反馈回路的设计，Coding Agent 也从代码补全演进为能理解代码库、运行测试、完成复杂任务的工程协作者。Ope…"
+  },
+  {
+    "id": "科技-超能网-http://www.expreview.com/109599.html",
+    "feed_name": "超能网",
+    "category": "科技",
+    "title": "技嘉 钛金雕GP-AP1600TM国行上市：16cm钛金能效，4.3英寸LCD屏，4599元",
+    "link": "http://www.expreview.com/109599.html",
+    "pub_date": "2026-11-20 09:57:28",
+    "author": "冼廷斌",
+    "description": "此前我们曾报道，技嘉推出了钛金雕GP-AP1600TM电源，该产品主打钛金能效，机身长度仅为16cm，配有自定义功能LCD屏幕，使用氮化镓技术，提供有两个16Pin接口。技嘉 钛金雕GP-AP1600TM电源现已上架国内电商平台，官方售价4599元，支持10年质保服务。 技嘉 钛金雕GP-AP1600TM电源，京东商城地址：点击前往>>> 三维尺寸方面，技嘉 钛金雕GP-AP1600TM电源的具体数据为160×150×86mm，是目前消…",
+    "content": "此前我们曾报道，技嘉推出了钛金雕GP-AP1600TM电源，该产品主打钛金能效，机身长度仅为16cm，配有自定义功能LCD屏幕，使用氮化镓技术，提供有两个16Pin接口。技嘉&nbsp;钛金雕GP-AP1600TM电源现已上架国内电商平台，官方售价4599元，支持10年质保服务。 技嘉 钛金雕GP-AP1600TM电源，京东商城地址： 点击前往&gt;&gt;&gt; 三维尺寸方面，技嘉 钛金雕GP-AP1600TM电源的具体数据为160×150×86mm，是目前消费级市场罕见的紧凑型钛金电源设计。内部用料方面，技…"
+  },
+  {
+    "id": "科技-雷峰网-https://www.leiphone.com/category/ai/0u1BjHIMazUFuNZc.html",
+    "feed_name": "雷峰网",
+    "category": "科技",
+    "title": "商汤20%资源投入背后的逻辑：林达华谈拼手速与长期竞争力",
+    "link": "https://www.leiphone.com/category/ai/0u1BjHIMazUFuNZc.html",
+    "pub_date": "2026-11-20 09:47:00",
+    "author": "",
+    "description": "导语： Scaling Law在空间智能这里失效了？ Scaling Law在空间智能这里失效了？ 作者丨周蕾 编辑丨岑峰 今年初字节的Seedance 2.0发布时，“电影级别”的出片质量让不少从业者倍感兴奋和震撼，新的创作蓝图正在他们面前徐徐展开——但对商汤的Seko团队来说，那是一段“迷茫”的日子。 商汤联合创始人、首席科学家林达华在最近一次访谈中回忆，那段时间他去见投资人、参加行业会议，被问到的几乎总是同一个问题：你们的Seko…",
+    "content": "导语：&nbsp;Scaling Law在空间智能这里失效了？ &nbsp; Scaling Law在空间智能这里失效了？ &nbsp; &nbsp; 作者丨周蕾 &nbsp; &nbsp; 编辑丨岑峰 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs…"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8211760.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "苏伊士运河恢复通航，全球航运公司为什么反而紧张了？",
+    "link": "https://www.tmtpost.com/8211760.html",
+    "pub_date": "2026-11-20 09:46:24",
+    "author": "",
+    "description": "船公司却开始面临新的运力安排。",
+    "content": "船公司却开始面临新的运力安排。"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8211777.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "AI办公的“入口之战”打完了吗？",
+    "link": "https://www.tmtpost.com/8211777.html",
+    "pub_date": "2026-11-20 09:46:19",
+    "author": "",
+    "description": "AI办公下半场，要争什么？",
+    "content": "AI办公下半场，要争什么？"
+  },
+  {
+    "id": "科技-超能网-http://www.expreview.com/109598.html",
+    "feed_name": "超能网",
+    "category": "科技",
+    "title": "V社称Steam Machine 512G版本可现货购买，2TB版本已发放购买邀请",
+    "link": "http://www.expreview.com/109598.html",
+    "pub_date": "2026-11-20 09:45:40",
+    "author": "梁文杰",
+    "description": "V社近日在官网上发布公告称，Steam Machine 512G版本已完成所有的预订订单处理，正式转入现货购买状态；而2TB版本则已向所有申请预订的用户发放了购买邀请，同时因为预订用户超过了可供应数量，因此关闭预订通道，不再接受新的报名。V社也欢迎2TB版预订用户转向购买512G版，不过这么做会导致失去2TB候补名单的资格。 V社在公告上称，目前512G版本有一定的库存，用户可直接添加到购物车，但当前库存销售完毕后，公司会将512G版变…",
+    "content": "V社近日在官网上 发布 公告称，Steam Machine 512G版本已完成所有的预订订单处理，正式转入现货购买状态；而2TB版本则已向所有申请预订的用户发放了购买邀请，同时因为预订用户超过了可供应数量，因此关闭预订通道，不再接受新的报名。V社也欢迎2TB版预订用户转向购买512G版，不过这么做会导致失去2TB候补名单的资格。 V社在公告上称，目前512G版本有一定的库存，用户可直接添加到购物车，但当前库存销售完毕后，公司会将512G版变更为缺货状态，暂时不开放预订候补名单；也表示下一步会继续加大Steam Ma…"
+  },
+  {
+    "id": "科技-超能网-http://www.expreview.com/109600.html",
+    "feed_name": "超能网",
+    "category": "科技",
+    "title": "AMD发布Unsloth Desktop NPU支持：XDNA 2接管本地智能体推理",
+    "link": "http://www.expreview.com/109600.html",
+    "pub_date": "2026-11-20 09:43:00",
+    "author": "Strike",
+    "description": "AI智能体正在从云端走向PC本地，而要真正跑起来，光有模型不够，硬件和应用还得接上头。11月19日AMD发布官方博客，宣布与微调工具厂商Unsloth合作，为Unsloth Desktop带来NPU支持，基于XDNA 2架构的AMD NPU由此成为全球首个被该应用支持的NPU。 这套合作由Lemonade与FastFlowLM（FLM）两个推理框架搭桥：Unsloth Desktop管界面和模型管理，Lemonade和FLM负责把推理送…",
+    "content": "AI智能体正在从云端走向PC本地，而要真正跑起来，光有模型不够，硬件和应用还得接上头。11月19日AMD发布官方博客，宣布与微调工具厂商Unsloth合作，为Unsloth Desktop带来NPU支持，基于XDNA 2架构的AMD NPU由此成为全球首个被该应用支持的NPU。 这套合作由Lemonade与FastFlowLM（FLM）两个推理框架搭桥：Unsloth Desktop管界面和模型管理，Lemonade和FLM负责把推理送进XDNA 2 NPU。Unsloth Desktop还提供兼容OpenAI规范…"
+  },
+  {
+    "id": "科技-超能网-http://www.expreview.com/109597.html",
+    "feed_name": "超能网",
+    "category": "科技",
+    "title": "Sudkoo SK700V VC MACH上市：升级VC均热板底座，解热功耗达300W，699元",
+    "link": "http://www.expreview.com/109597.html",
+    "pub_date": "2026-11-20 09:41:00",
+    "author": "郑滔",
+    "description": "在今年的Computex上，Sudkoo展示了他们最新的风冷散热器产品线。其中SK700V VC MACH在SK700V MACH的基础上升级了VC均热板底座，将解热功耗进一步提升至300W。近日，这款新品终于迎来了上市，售价为699元。厂商提供五年的质保服务。 SK700V VC MACH，京东地址：点此前往>>> SK700V VC MACH的整体尺寸与SK700V MACH保持一致，为146×103×164mm，没有因换用VC均热…",
+    "content": "在今年的Computex上，Sudkoo展示了他们最新的风冷散热器产品线。其中SK700V VC MACH在SK700V MACH的基础上升级了VC均热板底座，将解热功耗进一步提升至300W。近日，这款新品终于迎来了上市，售价为699元。厂商提供五年的质保服务。 SK700V VC MACH，京东地址： 点此前往&gt;&gt;&gt; SK700V VC MACH的整体尺寸与SK700V MACH保持一致，为146×103×164mm，没有因换用VC均热板底座而增加高度，完美避让主板内存。两者的外观结构也没有太大…"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8211639.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "估值1300亿，三个辍学00后做AI，英伟达、阿里抢着买单",
+    "link": "https://www.tmtpost.com/8211639.html",
+    "pub_date": "2026-11-20 09:38:29",
+    "author": "",
+    "description": "Mercor估值突破200亿美元。",
+    "content": "Mercor估值突破200亿美元。"
+  },
+  {
+    "id": "科技-IT 之家-https://www.ithome.com/1/029/786.htm",
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "美光：2027 年存储芯片已有 75% 库存售罄，供需形势会比今年更加紧张",
+    "link": "https://www.ithome.com/1/029/786.htm",
+    "pub_date": "2026-11-20 09:25:21",
+    "author": "",
+    "description": "IT之家 11 月 20 日消息，据科创板日报今日报道，美光科技总裁兼首席技术与产品官 Scott DeBoer 在接受采访时表示，存储芯片的供需在很长一段时间内都无法达到平衡。 他指出，在可预见的未来，供需找不到明确的平衡点，预计 2027 年供需形势会比 2026 年更加紧张。 另据 Investing.com 本周公布的 TomorrowX 峰会记录稿，美光 CEO Sanjay Mehrotra 表示，所有主要客户都在寻求在堆叠…",
+    "content": "IT之家 11 月 20 日消息，据科创板日报今日报道，美光科技总裁兼首席技术与产品官 Scott DeBoer 在接受采访时表示，存储芯片的供需在很长一段时间内都无法达到平衡。 他指出，在可预见的未来，供需找不到明确的平衡点， 预计 2027 年供需形势会比 2026 年更加紧张 。 另据 Investing.com 本周公布的 TomorrowX 峰会记录稿，美光 CEO Sanjay Mehrotra 表示，所有主要客户都在寻求在堆叠式 3D DRAM 上合作，预计在 2030–2031 年间实现更广泛的应用…"
+  },
+  {
+    "id": "科技-IT 之家-https://www.ithome.com/1/029/783.htm",
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "国家邮政局：1-10 月快递业务量完成 1688.2 亿件，同比增长 3.8%，10 月下滑 0.5%",
+    "link": "https://www.ithome.com/1/029/783.htm",
+    "pub_date": "2026-11-20 09:17:58",
+    "author": "",
+    "description": "IT之家 11 月 20 日消息，国家邮政局公布 2026 年 1-10 月邮政行业运行情况，IT之家整理主要内容如下： 1-10 月，邮政行业业务收入（不包括邮政储蓄银行直接营业收入）累计完成 15485.7 亿元，同比增长 5.3%。其中，快递业务收入累计完成 12981.5 亿元，同比增长 6.6%。 1-10 月，邮政行业寄递业务量累计完成 1830.3 亿件，同比增长 3.3%。其中, 快递业务量累计完成 1688.2 亿件，…",
+    "content": "IT之家 11 月 20 日消息，国家邮政局公布 2026 年 1-10 月邮政行业运行情况，IT之家整理主要内容如下： 1-10 月，邮政行业业务收入（不包括邮政储蓄银行直接营业收入）累计完成 15485.7 亿元，同比增长 5.3%。其中， 快递业务收入累计完成 12981.5 亿元，同比增长 6.6% 。 1-10 月，邮政行业寄递业务量累计完成 1830.3 亿件，同比增长 3.3%。其中, 快递业务量累计完成 1688.2 亿件，同比增长 3.8% 。 10 月份，邮政行业业务收入完成 1592.6 亿元…"
+  },
+  {
+    "id": "科技-爱范儿-https://www.ifanr.com/1690510?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "feed_name": "爱范儿",
+    "category": "科技",
+    "title": "AI Agent 元年，苹果是最后一个入局的巨头",
+    "link": "https://www.ifanr.com/1690510?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "pub_date": "2026-11-20 09:17:16",
+    "author": "",
+    "description": "苹果急了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "content": "苹果急了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+    "id": "科技-快科技-https://news.mydrivers.com/1/1167/1167193.htm",
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "真玩出花了！比亚迪发布折叠方向盘：钛9率先用上",
+    "link": "https://news.mydrivers.com/1/1167/1167193.htm",
+    "pub_date": "2026-11-20 09:16:58",
+    "author": "",
+    "description": "",
+    "content": "国内第一台“没有”方向盘的量产车来了！ 刚刚，比亚迪方程豹首款大六座旗舰SUV 方程豹钛9 正式上市，入门版的四驱Max 版27.99万，Ultra版29.99万，顶配来到32.99万。 方程豹造爆款的能力有目共睹，钛3和钛7销量都不错，而老大哥钛9更是被寄予厚望。 这款车也有很多比亚迪旗下其他车没有的技能，比如DMS超级混动平台，比如线控地盘，还有最最花哨的——折叠座舱。 简而言之，就是方向盘可以折叠收纳进去，驻车时可向内收纳，释放主驾空间，这样一来，主驾空间就大大拓宽了。 而且发布即量产，这项技术会出现在顶配的…"
+  },
+  {
+    "id": "科技-果壳网 / 科学人-https://www.guokr.com/article/470744/",
+    "feed_name": "果壳网 / 科学人",
+    "category": "科技",
+    "title": "刚拒绝黄仁勋回归，英伟达官宣全员加薪，热门接班人曝光",
+    "link": "https://www.guokr.com/article/470744/",
+    "pub_date": "2026-11-20 09:15:10",
+    "author": "",
+    "description": "以下文章来源于APPSO，作者发现明日产品的 作者 | 明日产品的 来源 | APPSO（ID：appsolution） 就在老黄交出帅印整整一周后的昨天凌晨，英伟达召开了第一场后黄仁勋时代的全员大会。 面对 5000 亿美元市值蒸发、会前塞爆信箱的 700 多个员工追问，以及老黄在场外喊话随时准备复出的漫天流言，临危受命的临时 CEO 科莱特·克雷斯选择用最朴素的钞能力回应一切。 没有什么震荡，是加薪解决不了的 以前英伟达开全员大会，…",
+    "content": "以下文章来源于APPSO，作者发现明日产品的 作者 | 明日产品的 来源 | APPSO（ID：appsolution） 就在老黄交出帅印整整一周后的昨天凌晨，英伟达召开了第一场后黄仁勋时代的全员大会。 面对 5000 亿美元市值蒸发、会前塞爆信箱的 700 多个员工追问，以及老黄在场外喊话随时准备复出的漫天流言，临危受命的临时 CEO 科莱特·克雷斯选择用最朴素的钞能力回应一切。 没有什么震荡，是加薪解决不了的 以前英伟达开全员大会，完全是老黄一个人的脱口秀专场。 穿皮衣的掌门人往台上一站，讲段子、灌鸡汤、画算力…"
+  },
+  {
+    "id": "科技-快科技-https://news.mydrivers.com/1/1167/1167192.htm",
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "换机动机一览！调查：97%中国受访者计划年内购买苹果iPhone 18 Pro、Duo等",
+    "link": "https://news.mydrivers.com/1/1167/1167192.htm",
+    "pub_date": "2026-11-20 09:14:20",
+    "author": "",
+    "description": "",
+    "content": "快科技11月20日消息，摩根大通最新发布的年度全球消费者调查显示，全球消费者购买新一代iPhone的意愿已经攀升至近年来的最高水平，今年新推出的iPhone 18 Pro与iPhone 18 Pro Max系列，是拉动购买意愿上涨的核心推动因素。 调查统计的数据显示，73%的受访消费者明确表示计划在2026年入手一台新iPhone，这一比例相比2025年统计的71%、2024年统计的68%，已经实现了连续三年稳步上涨。 在所有有明确购机计划的iPhone潜在用户中，中国受访者的购机意愿和行动意愿最为突出，有97%的…"
+  },
+  {
+    "id": "科技-快科技-https://news.mydrivers.com/1/1167/1167190.htm",
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "日本人脑洞大开用面条喂海胆 谁料口感更鲜甜了",
+    "link": "https://news.mydrivers.com/1/1167/1167190.htm",
+    "pub_date": "2026-11-20 09:13:21",
+    "author": "",
+    "description": "",
+    "content": "最近，内蒙古赤峰的一位姥爷在网上一战成名。 刚学会网购的他，一出手就下单了3万斤薯条，送到家后，直接在院子里堆了座“薯条山”。 视频截图 大家都以为是老人不熟悉手机操作，购买薯条的时候误按了好几个零，但他对这事一点不慌，解释道： 这些是食品加工厂淘汰的半成品薯条，淀粉含量高，油脂也足，拿来喂猪刚好，一斤只要5毛，比其他猪饲料要便宜得多。 从家人分享的视频中可以看出，二师兄吃得很开心，低头狂炫，也算是实现了薯条自由。 不过，论食物自由，咱们二师兄的口味还不算最独特的，在日本香川县，当地野生的海胆已经嗦上了面条，实现了…"
+  },
+  {
+    "id": "科技-快科技-https://news.mydrivers.com/1/1167/1167189.htm",
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "超英伟达2倍以上！AMD的中国生意有多大：22.4%营收来自中国",
+    "link": "https://news.mydrivers.com/1/1167/1167189.htm",
+    "pub_date": "2026-11-20 09:11:51",
+    "author": "",
+    "description": "",
+    "content": "快科技11月20日消息， 在全球AI算力竞赛的背景下，中国市场对芯片巨头的业绩贡献度备受关注。据市场分析机构的数据及企业财报披露，AMD在2025财年向中国客户开票的金额高达77.5亿美元（快科技注：约合人民币517亿元），占其总营收的22.4%。 这一数据意味着，中国不仅是AMD极其关键的海外市场， 其营收占比更是远超主要竞争对手英伟达（9.1%）的两倍以上。 在复杂的全球供应链环境下，国内市场对AMD业绩的支撑作用极为显著。 从业务结构来看，数据中心与客户端业务是AMD在华营收的双引擎。随着国内云服务商与AI企…"
+  },
+  {
+    "id": "科技-快科技-https://news.mydrivers.com/1/1167/1167188.htm",
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "1280000000000美元！Anthropic一夜杀疯",
+    "link": "https://news.mydrivers.com/1/1167/1167188.htm",
+    "pub_date": "2026-11-20 09:10:45",
+    "author": "",
+    "description": "",
+    "content": "美东时间11月19日，Anthropic上市首日正式收盘报97.17 美元/股，较发行价上涨17.07%，收盘市值约1.28 万亿美元，盘中一度曾冲到2 万亿美元。（虎嗅注：按最终招股书列示的发行及同步私募后总股数计算，不计超额配售） 终于，创立不到六年的人工智能巨头Anthropic，通过有史以来规模最大的IPO募集了约813亿美元，成为一家上市公司。其股票在纳斯达克上市交易，股票代码为“ANT”。 北京时间11月19日晚22点30分，常规交易时段开始后，在延迟开盘撮合期间，指示性开盘价数次上调。首笔成交约在两个…"
+  },
+  {
+    "id": "科技-IT 之家-https://www.ithome.com/1/029/779.htm",
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "苹果关闭全球最大粉丝社区，Apple 支持社区结束 28 年运营今日永久关闭",
+    "link": "https://www.ithome.com/1/029/779.htm",
+    "pub_date": "2026-11-20 08:56:56",
+    "author": "",
+    "description": "IT之家 11 月 20 日消息，苹果 Apple 支持社区已于今天（11 月 20 日）永久关闭，结束延续 28 年的用户技术互助历史，意味着苹果全球最大粉丝社区退出历史舞台。 在官方欢迎邮件中，苹果曾称 Apple 支持社区为“苹果全球最大粉丝社区”，是世界各地 Apple 用户分享知识、互相帮助的平台，社区积累的问答涉及 iPhone、Mac、iPad、Apple Watch、iCloud 等产品与服务。 Apple 支持社区可以…",
+    "content": "IT之家 11 月 20 日消息，苹果 Apple 支持社区已于今天（11 月 20 日）永久关闭， 结束延续 28 年的用户技术互助历史，意味着苹果全球最大粉丝社区退出历史舞台。 在官方欢迎邮件中，苹果曾称 Apple 支持社区为“苹果全球最大粉丝社区”，是世界各地 Apple 用户分享知识、互相帮助的平台，社区积累的问答涉及 iPhone 、Mac、 iPad 、Apple Watch、iCloud 等产品与服务。 Apple 支持社区可以追溯到 1998 年的 Apple Tech Exchange，后来经历…"
+  },
+  {
+    "id": "科技-IT 之家-https://www.ithome.com/1/029/778.htm",
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "特斯拉副总裁陶琳：马斯克 24 小时中国行专门从深圳飞到上海，对上海超级工厂赞赏有加",
+    "link": "https://www.ithome.com/1/029/778.htm",
+    "pub_date": "2026-11-20 08:56:53",
+    "author": "",
+    "description": "感谢IT之家网友 软媒新友2399371 的线索投递！ IT之家 11 月 20 日消息，昨晚，特斯拉公司副总裁陶琳分享了马斯克中国行最新消息。她表示，马斯克短短 24 小时的中国行，专门从深圳飞到上海。马斯克说：“我想来上海，感谢亚太以及中国团队。” 陶琳写道：“辅助驾驶技术进展一日千里，人形机器人正在快速提升各项技能….. 在跟同事们面对面的交流中，他分享的很多好消息都让大家兴奋不已。对上海超级工厂的制造实力、中国团队展现出的执行力…",
+    "content": "感谢IT之家网友 软媒新友2399371 的线索投递！ IT之家 11 月 20 日消息，昨晚，特斯拉公司副总裁陶琳分享了马斯克中国行最新消息。她表示，马斯克短短 24 小时的中国行，专门从深圳飞到上海。马斯克说：“我想来上海，感谢亚太以及中国团队。” 陶琳写道：“辅助驾驶技术进展一日千里，人形机器人正在快速提升各项技能….. 在跟同事们面对面的交流中，他分享的很多好消息都让大家兴奋不已。 对上海超级工厂的制造实力、中国团队展现出的执行力和制造水准，他都赞赏有加 。特斯拉上海工厂不仅是特斯拉全球制造体系的重要一环，…"
+  },
+  {
+    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+    "feed_name": "TechCrunch",
+    "category": "科技",
+    "title": "Apple may be developing its own AI agent that runs your Mac",
+    "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+    "pub_date": "2026-11-20 08:56:01",
+    "author": "",
+    "description": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+    "content": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots."
+  },
+  {
+    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+    "feed_name": "TechCrunch",
+    "category": "科技",
+    "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+    "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+    "pub_date": "2026-11-20 08:43:50",
+    "author": "",
+    "description": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+    "content": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion."
+  },
+  {
+    "id": "科技-爱范儿-https://www.ifanr.com/1690473?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "feed_name": "爱范儿",
+    "category": "科技",
+    "title": "早报｜苹果招人打造「接管电脑」的AI智能体/史上最大IPO，Anthropic上市/华为官宣Mate 90 Air主打轻薄",
+    "link": "https://www.ifanr.com/1690473?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "pub_date": "2026-11-20 08:29:44",
+    "author": "",
+    "description": "· 旅行者 1 号距地球达一光日，信号单程需 24 小时 · 网易 UU 远程将上线付费会员，基础远控继续免费 · 腾讯大幅削减元宝投入，微信小微日活达 3000 万 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "content": "· 旅行者 1 号距地球达一光日，信号单程需 24 小时 · 网易 UU 远程将上线付费会员，基础远控继续免费 · 腾讯大幅削减元宝投入，微信小微日活达 3000 万 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+    "feed_name": "TechCrunch",
+    "category": "科技",
+    "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+    "link": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+    "pub_date": "2026-11-20 08:26:03",
+    "author": "",
+    "description": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
+    "content": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust."
+  },
+  {
+    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
+    "feed_name": "TechCrunch",
+    "category": "科技",
+    "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+    "link": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
+    "pub_date": "2026-11-20 07:37:56",
+    "author": "",
+    "description": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
+    "content": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones."
+  },
+  {
+    "id": "科技-Wired-https://www.wired.com/story/dudes-online-are-so-mad-that-gta-vi-makes-them-respect-women/",
+    "feed_name": "Wired",
+    "category": "科技",
+    "title": "Dudes Online Are So Mad That ‘Grand Theft Auto 6’ Makes Them Respect Women",
+    "link": "https://www.wired.com/story/dudes-online-are-so-mad-that-gta-vi-makes-them-respect-women/",
+    "pub_date": "2026-11-20 07:12:17",
+    "author": "",
+    "description": "Much to the dismay of right-wing streamers, being a thoughtful boyfriend is key to the game’s storyline.",
+    "content": "Much to the dismay of right-wing streamers, being a thoughtful boyfriend is key to the game’s storyline."
+  },
+  {
+    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
+    "feed_name": "TechCrunch",
+    "category": "科技",
+    "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
+    "link": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
+    "pub_date": "2026-11-20 06:33:26",
+    "author": "",
+    "description": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
+    "content": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun."
+  },
+  {
+    "id": "科技-The Verge-https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+    "feed_name": "The Verge",
+    "category": "科技",
+    "title": "Apple is hiring engineers to build its own AI agent",
+    "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+    "pub_date": "2026-11-20 06:31:41",
+    "author": "Emma Roth",
+    "description": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg,…",
+    "content": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg , which says Apple is looking for an eng…"
+  },
+  {
+    "id": "科技-Ars Technica-https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+    "feed_name": "Ars Technica",
+    "category": "科技",
+    "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
+    "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+    "pub_date": "2026-11-20 06:16:37",
+    "author": "",
+    "description": "Amazon now uses its shopping platform for political purposes.",
+    "content": "Amazon now uses its shopping platform for political purposes."
+  },
+  {
+    "id": "科技-Wired-https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
+    "feed_name": "Wired",
+    "category": "科技",
+    "title": "Best Amazon Black Friday Deals (2026)",
+    "link": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
+    "pub_date": "2026-11-20 06:02:12",
+    "author": "",
+    "description": "For die-hard Amazon shoppers, the retailer is starting Black Friday early. You can shop the deals from now until November 30.",
+    "content": "For die-hard Amazon shoppers, the retailer is starting Black Friday early. You can shop the deals from now until November 30."
+  },
+  {
+    "id": "科技-The Verge-https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+    "feed_name": "The Verge",
+    "category": "科技",
+    "title": "A brief history of Nvidia’s recent stock fluctuations",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+    "pub_date": "2026-11-20 05:59:35",
+    "author": "Ellen Thomas",
+    "description": "Traders work on the floor of the New York Stock Exchange during morning trading on November 18, 2026 in New York City. | Image: Getty Images \"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as s…",
+    "content": "Traders work on the floor of the New York Stock Exchange during morning trading on November 18, 2026 in New York City. | Image: Getty Images \"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company…"
+  },
+  {
+    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+    "feed_name": "TechCrunch",
+    "category": "科技",
+    "title": "Meta’s new Muse Charm device may cost $300",
+    "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+    "pub_date": "2026-11-20 05:58:06",
+    "author": "",
+    "description": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+    "content": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable."
+  },
+  {
+    "id": "科技-Wired-https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
+    "feed_name": "Wired",
+    "category": "科技",
+    "title": "What’s With All These Outages?",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
+    "pub_date": "2026-11-20 05:57:01",
+    "author": "",
+    "description": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
+    "content": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang."
+  },
+  {
+    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+    "feed_name": "TechCrunch",
+    "category": "科技",
+    "title": "These tech outages are giving Y2K, AI agent style",
+    "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+    "pub_date": "2026-11-20 05:42:31",
+    "author": "",
+    "description": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+    "content": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say."
+  },
+  {
+    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
+    "feed_name": "TechCrunch",
+    "category": "科技",
+    "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
+    "link": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
+    "pub_date": "2026-11-20 05:33:24",
+    "author": "",
+    "description": "Uber is testing the new program in three U.S. cities.",
+    "content": "Uber is testing the new program in three U.S. cities."
+  },
+  {
+    "id": "科技-Ars Technica-https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
+    "feed_name": "Ars Technica",
+    "category": "科技",
+    "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
+    "link": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
+    "pub_date": "2026-11-20 05:19:12",
+    "author": "",
+    "description": "Expert called MAHA's spending \"pretty unusual\" for a PAC.",
+    "content": "Expert called MAHA's spending \"pretty unusual\" for a PAC."
+  },
+  {
+    "id": "科技-果壳网 / 科学人-https://www.guokr.com/article/470743/",
+    "feed_name": "果壳网 / 科学人",
+    "category": "科技",
+    "title": "谁说便宜没好货？几百块买到的首饰，给我今年最强幸福感！",
+    "link": "https://www.guokr.com/article/470743/",
+    "pub_date": "2026-11-20 05:15:11",
+    "author": "",
+    "description": "最近气温骤降，后台收到不少留言，问我们推荐一些适合冬天戴的首饰，能打破沉闷，又能花小钱办大事。 其实大家的许愿我都听到了。 想要色彩丰富、让沉闷冬天瞬间生动起来，还得适合即将到来的新年佩戴或者送人，还有什么比水晶更合适呢！水晶不仅能点亮全身的穿搭，更藏着美好的寓意。 这两年水晶也火到不行，国内外各种明星有多爱水晶，咱们就不多说了直接上图~ 原因无他，颜色丰富种类款式多，既能彰显个性，又能搭配各种衣服，跟玉石、彩宝相比价钱也更亲民，买一堆…",
+    "content": "最近气温骤降，后台收到不少留言，问我们推荐一些适合 冬天戴的首饰，能打破沉闷，又能花小钱办大事。 其实大家的许愿我都听到了。 想要色彩丰富、让沉闷冬天瞬间生动起来，还得适合即将到来的新年佩戴或者送人，还有什么比水晶更合适呢！水晶不仅能点亮全身的穿搭，更藏着美好的寓意。 这两年水晶也火到不行，国内外各种明星有多爱水晶，咱们就不多说了直接上图~ 原因无他，颜色丰富种类款式多，既能彰显个性，又能搭配各种衣服，跟玉石、彩宝相比价钱也更亲民，买一堆回家不心疼。 但是说实话，作为买手水晶这个行业水真的极深，染色、烤色、以次充好…"
+  },
+  {
+    "id": "科技-The Verge-https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
+    "feed_name": "The Verge",
+    "category": "科技",
+    "title": "Meta now sells 3D movies on Quest VR headsets",
+    "link": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
+    "pub_date": "2026-11-20 05:12:06",
+    "author": "Jay Peters",
+    "description": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include titles like Avatar, Spide…",
+    "content": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today . The movies are available in Meta's TV app and include titles like Avatar , Spider-Man: Far From Home , Jurassic World …"
+  },
+  {
+    "id": "科技-Wired-https://www.wired.com/story/hatch-black-friday-deals-2026/",
+    "feed_name": "Wired",
+    "category": "科技",
+    "title": "The Best Hatch Black Friday Deals (2026)",
+    "link": "https://www.wired.com/story/hatch-black-friday-deals-2026/",
+    "pub_date": "2026-11-20 04:44:44",
+    "author": "",
+    "description": "Grab the Hatch Sleep Clock for $188 (25 percent off) at Hatch or Amazon through November 30.",
+    "content": "Grab the Hatch Sleep Clock for $188 (25 percent off) at Hatch or Amazon through November 30."
+  },
+  {
+    "id": "科技-Wired-https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
+    "feed_name": "Wired",
+    "category": "科技",
+    "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
+    "link": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
+    "pub_date": "2026-11-20 04:34:17",
+    "author": "",
+    "description": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner.",
+    "content": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner."
+  },
+  {
+    "id": "科技-Ars Technica-https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+    "feed_name": "Ars Technica",
+    "category": "科技",
+    "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+    "link": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+    "pub_date": "2026-11-20 04:29:46",
+    "author": "",
+    "description": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
+    "content": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit."
+  },
+  {
+    "id": "科技-The Verge-https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+    "feed_name": "The Verge",
+    "category": "科技",
+    "title": "Meta’s Muse Charm might cost $300",
+    "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+    "pub_date": "2026-11-20 04:22:17",
+    "author": "Jay Peters",
+    "description": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and sai…",
+    "content": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information . CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Char…"
+  },
+  {
+    "id": "科技-Ars Technica-https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+    "feed_name": "Ars Technica",
+    "category": "科技",
+    "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+    "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+    "pub_date": "2026-11-20 04:19:28",
+    "author": "",
+    "description": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
+    "content": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives."
+  },
+  {
+    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "feed_name": "TechCrunch",
+    "category": "科技",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "pub_date": "2026-11-20 04:18:49",
+    "author": "",
+    "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "content": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+  },
+  {
+    "id": "科技-The Verge-https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+    "feed_name": "The Verge",
+    "category": "科技",
+    "title": "Google is putting AI chats right on the homepage",
+    "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+    "pub_date": "2026-11-20 04:05:06",
+    "author": "Emma Roth",
+    "description": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the G…",
+    "content": "Google is updating its homepage to include AI searches. In a post on X , Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you c…"
+  },
+  {
+    "id": "科技-Ars Technica-https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
+    "feed_name": "Ars Technica",
+    "category": "科技",
+    "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
+    "link": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
+    "pub_date": "2026-11-20 03:52:54",
+    "author": "",
+    "description": "\"Project Suncatcher is a long-term moonshot.\"",
+    "content": "\"Project Suncatcher is a long-term moonshot.\""
+  },
+  {
+    "id": "科技-The Verge-https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming",
+    "feed_name": "The Verge",
+    "category": "科技",
+    "title": "FCC greenlights rule allowing prisons to jam cellphone signals",
+    "link": "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming",
+    "pub_date": "2026-11-20 03:40:28",
+    "author": "Emma Roth",
+    "description": "The Federal Communications Commission voted unanimously to allow state and local prisons to jam cellphones. In an announcement on Thursday, the FCC argues the rule will help combat an \"influx of contraband cellphones\" us…",
+    "content": "The Federal Communications Commission voted unanimously to allow state and local prisons to jam cellphones. In an announcement on Thursday , the FCC argues the rule will help combat an \"influx of contraband cellphones\" used to carry out crimes from prison. Jam…"
+  },
+  {
+    "id": "科技-The Verge-https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale",
+    "feed_name": "The Verge",
+    "category": "科技",
+    "title": "Sony’s WH-1000XM5 are cheaper than ever for Black Friday",
+    "link": "https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale",
+    "pub_date": "2026-11-20 03:35:52",
+    "author": "Brad Bourque",
+    "description": "All four colors of the WH-1000XM5 are in stock at the discounted price. Back in my day, the only “Doorbuster” sales were at physical retail stores. But now, you can get ultra-low prices before Black Friday whether you wa…",
+    "content": "All four colors of the WH-1000XM5 are in stock at the discounted price. Back in my day, the only “Doorbuster” sales were at physical retail stores. But now, you can get ultra-low prices before Black Friday whether you want to shop in-store or online. One that …"
+  },
+  {
+    "id": "科技-The Verge-https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply",
+    "feed_name": "The Verge",
+    "category": "科技",
+    "title": "You can now buy a Steam Machine without getting on a waitlist",
+    "link": "https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply",
+    "pub_date": "2026-11-20 03:33:22",
+    "author": "Jay Peters",
+    "description": "Valve announced some updates about Steam Machine availability today, including good news if you want to buy one right now and potential bad news about future supply due to RAMaggedon. The good news: You can now purchase …",
+    "content": "Valve announced some updates about Steam Machine availability today, including good news if you want to buy one right now and potential bad news about future supply due to RAMaggedon. The good news: You can now purchase a 512GB Steam Machine without getting on…"
+  },
+  {
+    "id": "科技-The Verge-https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
+    "feed_name": "The Verge",
+    "category": "科技",
+    "title": "Some creators are skeptical of Instagram’s new affiliate program",
+    "link": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
+    "pub_date": "2026-11-20 03:12:30",
+    "author": "Mia Sato",
+    "description": "For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers. A new integration between Instagram and Amazon was announced earlier this month as a way to …",
+    "content": "For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers. A new integration between Instagram and Amazon was announced earlier this month as a way to make it easier for influencers to make m…"
+  },
+  {
+    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+    "feed_name": "TechCrunch",
+    "category": "科技",
+    "title": "Anthropic’s IPO could deliver $156B to charity",
+    "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+    "pub_date": "2026-11-20 03:10:45",
+    "author": "",
+    "description": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+    "content": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion."
+  },
+  {
+    "id": "科技-Ars Technica-https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
+    "feed_name": "Ars Technica",
+    "category": "科技",
+    "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
+    "link": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
+    "pub_date": "2026-11-20 02:44:39",
+    "author": "",
+    "description": "Some models fare better, but all fail in similar ways.",
+    "content": "Some models fare better, but all fail in similar ways."
+  },
+  {
+    "id": "科技-The Verge-https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
+    "feed_name": "The Verge",
+    "category": "科技",
+    "title": "Sonos is taking up to 30 percent off speakers and soundbars right now",
+    "link": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
+    "pub_date": "2026-11-20 02:33:08",
+    "author": "Sheena Vasani",
+    "description": "The excellent Sonos Play offers up to 24 hours of playback on a single charge. | Photo: John Higgins / The Verge Sonos speakers and soundbars aren’t exactly cheap, but thankfully the company’s Black Friday sale has alrea…",
+    "content": "The excellent Sonos Play offers up to 24 hours of playback on a single charge. | Photo: John Higgins / The Verge Sonos speakers and soundbars aren&#8217;t exactly cheap, but thankfully the company&#8217;s Black Friday sale has already begun , making everything…"
+  },
+  {
+    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+    "feed_name": "TechCrunch",
+    "category": "科技",
+    "title": "Google gives Gemini the ability to use your Mac for you",
+    "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+    "pub_date": "2026-11-20 02:09:11",
+    "author": "",
+    "description": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+    "content": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows."
+  },
+  {
+    "id": "科技-Ars Technica-https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/",
+    "feed_name": "Ars Technica",
+    "category": "科技",
+    "title": "Google will launch Android app verification requirement globally in January 2027",
+    "link": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/",
+    "pub_date": "2026-11-20 02:00:33",
+    "author": "",
+    "description": "Google says almost all developers have already gotten on board with verification.",
+    "content": "Google says almost all developers have already gotten on board with verification."
+  },
+  {
+    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+    "feed_name": "TechCrunch",
+    "category": "科技",
+    "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+    "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+    "pub_date": "2026-11-20 01:38:40",
+    "author": "",
+    "description": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belo…",
+    "content": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them."
+  },
+  {
+    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+    "feed_name": "TechCrunch",
+    "category": "科技",
+    "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+    "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+    "pub_date": "2026-11-20 01:00:00",
+    "author": "",
+    "description": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+    "content": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers."
+  },
+  {
+    "id": "科技-Wired-https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+    "feed_name": "Wired",
+    "category": "科技",
+    "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
+    "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+    "pub_date": "2026-11-20 01:00:00",
+    "author": "",
+    "description": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
+    "content": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue."
+  },
+  {
+    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+    "feed_name": "TechCrunch",
+    "category": "科技",
+    "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+    "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+    "pub_date": "2026-11-20 00:59:23",
+    "author": "",
+    "description": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+    "content": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised."
+  },
+  {
+    "id": "科技-Solidot-https://www.solidot.org/story?sid=85937",
+    "feed_name": "Solidot",
+    "category": "科技",
+    "title": "IEA 警告称到 2030 年数据中心碳排放量将增加七成",
+    "link": "https://www.solidot.org/story?sid=85937",
+    "pub_date": "2026-11-20 00:34:10",
+    "author": "",
+    "description": "国际能源署（IEA）发表报告警告，到 2030 年数据中心碳排放量将增加七成。报告称，到 2030 年数据中心的用电量将达到目前的水平的两倍，未来四年 AI 数据中心每年将额外消耗 350 TWh 的电力，这一数字超过了英国全年的总耗电量。IEA 预计到这个十年末，中国 AI 数据中心所需电力中约半数将来自燃煤电厂。其余电力将来自可再生能源，核能发电占比相对较小，天然气发电占比极低。相比下美国数据中心约 60% 的电力将依赖天然气供应。…",
+    "content": "国际能源署（IEA）发表报告警告，到 2030 年数据中心碳排放量将增加七成。报告称，到 2030 年数据中心的用电量将达到目前的水平的两倍，未来四年 AI 数据中心每年将额外消耗 350 TWh 的电力，这一数字超过了英国全年的总耗电量。IEA 预计到这个十年末，中国 AI 数据中心所需电力中约半数将来自燃煤电厂。其余电力将来自可再生能源，核能发电占比相对较小，天然气发电占比极低。相比下美国数据中心约 60% 的电力将依赖天然气供应。截至今年 8 月，美国已有约 180 GW 的新建天然气发电项目规划为数据中心供…"
+  },
+  {
+    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+    "feed_name": "TechCrunch",
+    "category": "科技",
+    "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+    "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+    "pub_date": "2026-11-20 00:19:41",
+    "author": "",
+    "description": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+    "content": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure."
+  },
+  {
+    "id": "科技-超能网-http://www.expreview.com/109596.html",
+    "feed_name": "超能网",
+    "category": "科技",
+    "title": "Epic平台免费领取《深渊之印》，至11月27日0点截止",
+    "link": "http://www.expreview.com/109596.html",
+    "pub_date": "2026-11-20 00:08:00",
+    "author": "吕嘉俭",
+    "description": "Epic Games Store本周送出的游戏是《深渊之印（Mark of the Deep）》，领取的截止时间是2026年11月27日0点，喜欢的玩家不要错过。 《深渊之印》，游戏领取地址：点击前往>>> 《深渊之印》是一款由巴西独立游戏工作室Mad Mimic开发、Light Up Games发行的海盗主题动作冒险游戏，于2025年1月25日首度发售。游戏采用手绘美术风格与动态光影效果，融合了海盗、诅咒与深渊怪物等元素，拥有强烈的叙…",
+    "content": "Epic Games Store本周送出的游戏是《深渊之印（Mark of the Deep）》，领取的截止时间是2026年11月27日0点，喜欢的玩家不要错过。 《深渊之印》，游戏领取地址： 点击前往&gt;&gt;&gt; 《深渊之印》是一款由巴西独立游戏工作室Mad Mimic开发、Light Up Games发行的海盗主题动作冒险游戏，于2025年1月25日首度发售。游戏采用手绘美术风格与动态光影效果，融合了海盗、诅咒与深渊怪物等元素，拥有强烈的叙事性，并融合了广受好评的银河恶魔城游戏与魂系游戏的惊险元素，…"
+  },
+  {
+    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/",
+    "feed_name": "TechCrunch",
+    "category": "科技",
+    "title": "UK government forced to disclose secret Apple backdoor order",
+    "link": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/",
+    "pub_date": "2026-11-19 23:32:20",
+    "author": "",
+    "description": "The U.K. tribunal's ruling rejected London's claim that disclosing the order would be damaging to national security.",
+    "content": "The U.K. tribunal's ruling rejected London's claim that disclosing the order would be damaging to national security."
+  },
+  {
+    "id": "科技-Solidot-https://www.solidot.org/story?sid=85936",
+    "feed_name": "Solidot",
+    "category": "科技",
+    "title": "欧盟委员会如何向逾 4 万工作人员部署 Matrix",
+    "link": "https://www.solidot.org/story?sid=85936",
+    "pub_date": "2026-11-19 23:19:01",
+    "author": "",
+    "description": "Matrix 点对点通信协议正被越来越多的政府机构使用，其中之一是欧盟委员会。欧盟委员会在 2025 年 12 月完成了概念验证，证明 Matrix 协议及其客户端 Element 能完全满足其需求。2026 年 9 月欧盟将基于 Matrix 的工具部署到了每一台笔记本电脑，该工具由欧盟委员会自行运营，服务着逾 4 万名用户。开发 Element 的公司发表博客介绍了欧盟委员会的经验。",
+    "content": "Matrix 点对点通信协议正被越来越多的政府机构使用，其中之一是欧盟委员会。欧盟委员会在 2025 年 12 月完成了概念验证，证明 Matrix 协议及其客户端 Element 能完全满足其需求。2026 年 9 月欧盟将基于 Matrix 的工具部署到了每一台笔记本电脑，该工具由欧盟委员会自行运营，服务着逾 4 万名用户。开发 Element 的公司发表博客介绍了欧盟委员会的经验。"
+  },
+  {
+    "id": "科技-果壳网 / 科学人-https://www.guokr.com/article/470742/",
+    "feed_name": "果壳网 / 科学人",
+    "category": "科技",
+    "title": "全网AI集体翻车！为什么它们死活画不对13个鸡蛋？",
+    "link": "https://www.guokr.com/article/470742/",
+    "pub_date": "2026-11-19 23:15:10",
+    "author": "",
+    "description": "给你一张白纸，画13个鸡蛋，你需要多久？ 一分钟？画一个数一个，画完再点一遍，大概连橡皮都用不上。 可这道题交给AI，它画了十几轮，一轮也没画对。 11月18日，“让豆包画13个鸡蛋”就这么冲上了微博热搜，话题热度当天破了百万。 从热搜里流传的截图看，经过是这样的。 “让豆包画13个鸡蛋”，这是第一轮丨微博用户@一号哨位 “让豆包画13个鸡蛋”，这是第二轮丨微博用户@一号哨位 “让豆包画13个鸡蛋”，这是第三轮丨微博用户@一号哨位 “让…",
+    "content": "给你一张白纸， 画13个鸡蛋，你需要多久？ 一分钟？画一个数一个，画完再点一遍，大概连橡皮都用不上。 可 这道题交给AI，它画了十几轮，一轮也没画对。 11月18日，“让豆包画13个鸡蛋”就这么冲上了微博热搜，话题热度当天破了百万。 从热搜里流传的截图看，经过是这样的。 “让豆包画13个鸡蛋”，这是第一轮丨微博用户@一号哨位 “让豆包画13个鸡蛋”，这是第二轮丨微博用户@一号哨位 “让豆包画13个鸡蛋”，这是第三轮丨微博用户@一号哨位 “让豆包画13个鸡蛋”，不知道是第几轮了丨微博用户@一号哨位 “11号呢？”这句…"
+  },
+  {
+    "id": "科技-爱范儿-https://www.ifanr.com/1690430?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "feed_name": "爱范儿",
+    "category": "科技",
+    "title": "比亚迪发布折叠方向盘！首搭方程豹钛 9，27.99 万元起！",
+    "link": "https://www.ifanr.com/1690430?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "pub_date": "2026-11-19 23:01:13",
+    "author": "",
+    "description": "推翻百年来的空间格局。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "content": "推翻百年来的空间格局。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+    "id": "科技-爱范儿-https://www.ifanr.com/1690375?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "feed_name": "爱范儿",
+    "category": "科技",
+    "title": "刚刚，Anthropic 敲钟上市！史上最大IPO却让硅谷吵翻了",
+    "link": "https://www.ifanr.com/1690375?utm_source=rss&utm_medium=rss&utm_campaign=",
+    "pub_date": "2026-11-19 22:58:57",
+    "author": "",
+    "description": "例如，为什么就你 A 社封号这么严格 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+    "content": "例如，为什么就你 A 社封号这么严格 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+    "id": "科技-InfoQ 中文-https://www.infoq.cn/article/Mf3Zbm9JF3RWbkvjMKYZ",
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "Sam Altman罕见发声：我不担心Anthropic先上市，市场上不缺投资者",
+    "link": "https://www.infoq.cn/article/Mf3Zbm9JF3RWbkvjMKYZ",
+    "pub_date": "2026-11-19 22:57:55",
+    "author": "",
+    "description": "从黄仁勋的去留，到 AI 行业的算力投资，再到超级智能是否会让人类失去控制权，Sam Altman 在最新访谈中谈到了 AI 产业面临的一系列关键问题。 他对黄仁勋表达了强烈的敬意，非常共情黄仁勋如今的处境，并且表示很难想象没有 Jensen 的 AI 革命。对于竞争对手Anthropic 本周上市，他表示并不担心其抢先上市，也相信 AI 仍有巨大的资本和商业空间。 他同时提醒，芯片厂商对需求的预期可能存在重复，DRAM 短缺也暴露出供…",
+    "content": "从黄仁勋的去留，到 AI 行业的算力投资，再到超级智能是否会让人类失去控制权，Sam Altman 在最新访谈中谈到了 AI 产业面临的一系列关键问题。 他对黄仁勋表达了强烈的敬意，非常共情黄仁勋如今的处境，并且表示很难想象没有 Jensen 的 AI 革命。对于竞争对手Anthropic 本周上市，他表示并不担心其抢先上市，也相信 AI 仍有巨大的资本和商业空间。 他同时提醒，芯片厂商对需求的预期可能存在重复，DRAM 短缺也暴露出供应链扩产滞后的问题。面对公众对 AI 和数据中心的抵触，他认为行业必须重新赢得信…"
+  },
+  {
     "id": "科技-TechCrunch-https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
     "feed_name": "TechCrunch",
     "category": "科技",
@@ -11,48 +1067,15 @@ const jsonData = [
     "content": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead."
   },
   {
-    "id": "科技-The Verge-https://www.theverge.com/tech/1037552/analogue-3d-nintendo-64-console-wi-fi-activated-automatic-updates",
-    "feed_name": "The Verge",
+    "id": "科技-Solidot-https://www.solidot.org/story?sid=85935",
+    "feed_name": "Solidot",
     "category": "科技",
-    "title": "The Analogue 3D can now update itself over Wi-Fi",
-    "link": "https://www.theverge.com/tech/1037552/analogue-3d-nintendo-64-console-wi-fi-activated-automatic-updates",
-    "pub_date": "2026-11-19 22:32:33",
-    "author": "Andrew Liszewski",
-    "description": "Analogue has long been good at expanding the features and functionality of its consoles through regular firmware updates, but installing those updates has always required moving files around with a memory card. That's no…",
-    "content": "Analogue has long been good at expanding the features and functionality of its consoles through regular firmware updates, but installing those updates has always required moving files around with a memory card. That's no longer the case with the Analogue 3D , …"
-  },
-  {
-    "id": "科技-The Verge-https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
-    "feed_name": "The Verge",
-    "category": "科技",
-    "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
-    "pub_date": "2026-11-19 22:25:37",
-    "author": "Hayden Field",
-    "description": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come.…",
-    "content": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milesto…"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8211669.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "重庆汽车与医药制造双线并进，产业升级如何转化为企业长期价值？",
-    "link": "https://www.tmtpost.com/8211669.html",
-    "pub_date": "2026-11-19 22:17:37",
+    "title": "城镇夜空飞过的人造卫星数量超过肉眼可见星星数量",
+    "link": "https://www.solidot.org/story?sid=85935",
+    "pub_date": "2026-11-19 22:27:21",
     "author": "",
-    "description": "重庆上市公司已有一批表现较突出的企业，但不同企业将产业优势转化为长期价值的能力仍有差异。",
-    "content": "重庆上市公司已有一批表现较突出的企业，但不同企业将产业优势转化为长期价值的能力仍有差异。"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8211651.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "价值判断：跌停板的投资机会和风险提示（11月17日）｜上市公司观察",
-    "link": "https://www.tmtpost.com/8211651.html",
-    "pub_date": "2026-11-19 22:12:51",
-    "author": "",
-    "description": "本期三只均为本轮第一根跌停，收盘对济安定价的溢价在一倍至一点四倍之间。",
-    "content": "本期三只均为本轮第一根跌停，收盘对济安定价的溢价在一倍至一点四倍之间。"
+    "description": "在夜晚的任何时刻，中纬度地区城镇上空掠过的人造卫星数量超过 700 颗，很多情况下超过了肉眼可见的星星数量。目前地球低轨道运行着 15833 颗人造卫星，其中 Starlink 星座的卫星数量最多。Accu Components 公司的研究人员分析了 10 月 12 日和 18 日的卫星轨迹数据，发现如果视野完全无遮挡，那么一个典型的英国的城镇上空，夜晚任何时刻都有 710 颗卫星掠过。Starlink 卫星轨道与赤道呈约 53 度夹角…",
+    "content": "在夜晚的任何时刻，中纬度地区城镇上空掠过的人造卫星数量超过 700 颗，很多情况下超过了肉眼可见的星星数量。目前地球低轨道运行着 15833 颗人造卫星，其中 Starlink 星座的卫星数量最多。Accu Components 公司的研究人员分析了 10 月 12 日和 18 日的卫星轨迹数据，发现如果视野完全无遮挡，那么一个典型的英国的城镇上空，夜晚任何时刻都有 710 颗卫星掠过。Starlink 卫星轨道与赤道呈约 53 度夹角，因此卫星集中在中纬度地区上空。赤道附近的夜空较为干净，平均有 490 颗。不是…"
   },
   {
     "id": "科技-Ars Technica-https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
@@ -64,17 +1087,6 @@ const jsonData = [
     "author": "",
     "description": "Watching fights wasn't as good as practical experience, but it got the mice halfway there.",
     "content": "Watching fights wasn't as good as practical experience, but it got the mice halfway there."
-  },
-  {
-    "id": "科技-The Verge-https://www.theverge.com/games/1036550/grand-theft-auto-6-gta-vi-pc-version-fomo",
-    "feed_name": "The Verge",
-    "category": "科技",
-    "title": "The wait begins for GTA VI on PC",
-    "link": "https://www.theverge.com/games/1036550/grand-theft-auto-6-gta-vi-pc-version-fomo",
-    "pub_date": "2026-11-19 22:00:00",
-    "author": "Cameron Faulkner",
-    "description": "Grand Theft Auto VI is finally here for millions of players who own a PlayStation 5 or Xbox Series X / S, and those who plan to buy a console, despite rising costs this year, just to play it. As you have likely already n…",
-    "content": "Grand Theft Auto VI is finally here for millions of players who own a PlayStation 5 or Xbox Series X / S, and those who plan to buy a console, despite rising costs this year , just to play it. As you have likely already noticed, the launch is inescapable, and …"
   },
   {
     "id": "科技-TechCrunch-https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/",
@@ -95,41 +1107,8 @@ const jsonData = [
     "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
     "pub_date": "2026-11-19 22:00:00",
     "author": "",
-    "description": "Superhuman is making Go its central agent and making it available in Docs and Mail",
-    "content": "Superhuman is making Go its central agent and making it available in Docs and Mail"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8211631.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "价值判断：涨停板的投资机会和风险提示（11月17日）｜上市公司观察",
-    "link": "https://www.tmtpost.com/8211631.html",
-    "pub_date": "2026-11-19 21:56:01",
-    "author": "",
-    "description": "本期四只标的分两头：三只首板收在济安定价之下，折价从四成二到五成六；瀛通通讯两连板，收在定价的两倍以上。",
-    "content": "本期四只标的分两头：三只首板收在济安定价之下，折价从四成二到五成六；瀛通通讯两连板，收在定价的两倍以上。"
-  },
-  {
-    "id": "科技-The Verge-https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
-    "feed_name": "The Verge",
-    "category": "科技",
-    "title": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
-    "link": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
-    "pub_date": "2026-11-19 21:53:38",
-    "author": "Emma Roth",
-    "description": "Google is teaming up with Jeff Bezos' Blue Origin to launch its AI server satellites. The companies announced on Thursday that Blue Origin's New Glenn rocket will shuttle satellites equipped with Google's Tensor Processi…",
-    "content": "Google is teaming up with Jeff Bezos' Blue Origin to launch its AI server satellites. The companies announced on Thursday that Blue Origin's New Glenn rocket will shuttle satellites equipped with Google's Tensor Processing Units (TPUs) into space in the first …"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8211622.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "从英伟达到苹果、微软：同样拥抱AI，为什么企业的财富命运截然不同？",
-    "link": "https://www.tmtpost.com/8211622.html",
-    "pub_date": "2026-11-19 21:48:30",
-    "author": "",
-    "description": "本文先讨论AI改变的四条决策前提，再借助七阶行为逻辑，观察不同领导方式可能带来的财富后果。这里讨论的是作用机制，不意味着某一种行为逻辑必然对应某一种财富结果。",
-    "content": "本文先讨论AI改变的四条决策前提，再借助七阶行为逻辑，观察不同领导方式可能带来的财富后果。这里讨论的是作用机制，不意味着某一种行为逻辑必然对应某一种财富结果。"
+    "description": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
+    "content": "Superhuman is making Go its central agent and making it available in Docs and Mail."
   },
   {
     "id": "科技-Ars Technica-https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
@@ -143,28 +1122,6 @@ const jsonData = [
     "content": "\"We also have a responsibility to not go too fast and cut too many corners.\""
   },
   {
-    "id": "科技-IT 之家-https://www.ithome.com/1/029/687.htm",
-    "feed_name": "IT 之家",
-    "category": "科技",
-    "title": "欧盟委员会证实遭到 AI 驱动的网络攻击，事态规模暂难判断",
-    "link": "https://www.ithome.com/1/029/687.htm",
-    "pub_date": "2026-11-19 21:38:39",
-    "author": "",
-    "description": "IT之家 11 月 19 日消息，据路透社报道，当地时间 19 日，欧盟委员会证实遭受了利用 AI 工具进行的网络攻击。有关此事的调查尚未结束，事态规模暂难判断。 发言人托马斯 · 雷尼耶在记者会上说：“我可以确认，我们近期发现了一起网络攻击，并采取了必要的应对措施。为防止事态扩大和避免进一步风险，我们暂时下线了几个应用程序，大部分后来恢复了运行。调查还在继续，我们会根据陆续查明的情况采取必要措施。这场网络攻击是用 AI 生成的。” 这…",
-    "content": "IT之家 11 月 19 日消息，据路透社报道，当地时间 19 日，欧盟委员会证实遭受了利用 AI 工具进行的网络攻击。有关此事的调查尚未结束，事态规模暂难判断。 发言人托马斯 · 雷尼耶在记者会上说：“我可以确认，我们近期发现了一起网络攻击，并采取了必要的应对措施。为防止事态扩大和避免进一步风险， 我们暂时下线了几个应用程序，大部分后来恢复了运行 。调查还在继续，我们会根据陆续查明的情况采取必要措施。这场网络攻击是用 AI 生成的。” 这起攻击是 在 10 月 22 日发现的 ，尚无证据显示数据泄露波及委员会全体…"
-  },
-  {
-    "id": "科技-IT 之家-https://www.ithome.com/1/029/686.htm",
-    "feed_name": "IT 之家",
-    "category": "科技",
-    "title": "快手 CEO 程一笑：Kling 4.0 模型已经进入游戏和具身智能等场景",
-    "link": "https://www.ithome.com/1/029/686.htm",
-    "pub_date": "2026-11-19 21:36:29",
-    "author": "",
-    "description": "IT之家 11 月 19 日消息，据《科创板日报》今天报道，快手 CEO 程一笑今日在业绩会中透露，Kling 4.0 模型上线后，可灵流水实现提升，当前收入增长由企业客户 API 调用和专业创作者付费订阅双轮驱动，用户规模与 ARPPU（每付费用户平均收益）均保持增长。 程一笑透露，Kling 4.0 目前已经进入影视、短剧及漫剧制作、广告营销、创意设计、游戏和具身智能等场景，可用于动态分镜、镜头预演、风格化内容制作、商品展示及游戏设…",
-    "content": "IT之家 11 月 19 日消息，据《科创板日报》今天报道，快手 CEO 程一笑今日在业绩会中透露，Kling 4.0 模型上线后，可灵流水实现提升，当前收入增长由企业客户 API 调用和专业创作者付费订阅双轮驱动，用户规模与 ARPPU（每付费用户平均收益）均保持增长。 程一笑透露， Kling 4.0 目前已经进入影视、短剧及漫剧制作、广告营销、创意设计、游戏和具身智能等场景 ，可用于动态分镜、镜头预演、风格化内容制作、商品展示及游戏设定可视化等任务。 据IT之家此前报道，快手 Kling 4.0 模型采用「理…"
-  },
-  {
     "id": "科技-Solidot-https://www.solidot.org/story?sid=85934",
     "feed_name": "Solidot",
     "category": "科技",
@@ -176,28 +1133,6 @@ const jsonData = [
     "content": "高强度运动后如果没有充足的恢复时间，带来的影响可能不只是肌肉和耐力受损。一项研究表明，过度训练还会扰乱大脑的化学环境，有可能阻碍大脑回归正常静息状态。巴西圣保罗大学的科研人员发现，长时间高强度运动会改变海马体内多巴胺的调节机制。海马体是负责记忆与情绪调控的重要脑区。研究团队观察到，按照高强度方案训练的小鼠，本该进入恢复期时，多巴胺水平却持续偏高。多巴胺在动机、警觉性方面发挥重要作用。他们认为，人类体内如果出现类似的紊乱，或许可以解释为什么过度训练有时会伴随失眠、焦虑和持续性疲劳。如果这一推论得到证实，将进一步证明充…"
   },
   {
-    "id": "科技-The Verge-https://www.theverge.com/entertainment/1037106/grand-theft-auto-6-smartphone",
-    "feed_name": "The Verge",
-    "category": "科技",
-    "title": "Grand Theft Auto VI understands just how important a smartphone is",
-    "link": "https://www.theverge.com/entertainment/1037106/grand-theft-auto-6-smartphone",
-    "pub_date": "2026-11-19 21:30:00",
-    "author": "Andrew Webster",
-    "description": "Grand Theft Auto VI, in many ways, tries to simulate real life. And life in 2026 would not be complete without a smartphone. GTA VI understands this and makes the phone not just a central part of the experience, but an o…",
-    "content": "Grand Theft Auto VI , in many ways, tries to simulate real life. And life in 2026 would not be complete without a smartphone. GTA VI understands this and makes the phone not just a central part of the experience, but an object that exists within the world. You…"
-  },
-  {
-    "id": "科技-快科技-https://news.mydrivers.com/1/1167/1167129.htm",
-    "feed_name": "快科技",
-    "category": "科技",
-    "title": "1.95吨、60km/h追尾撞击！方程豹钛9第三排完好：整车也无起火爆炸",
-    "link": "https://news.mydrivers.com/1/1167/1167129.htm",
-    "pub_date": "2026-11-19 21:10:14",
-    "author": "",
-    "description": "",
-    "content": "快科技11月19日消息， 今晚方程豹钛9正式上市，发布会上，官方公开了一项严苛的后部追尾碰撞验证：一台重达1.95吨的测试车辆，以60km/h的速度从正后方撞击钛9，新车顺利通过全部考核项目。 方程豹钛9以硬核车身实力，定义全维硬派新境。撞击结束后，车辆A、B、C、D柱均未发生结构性失效，第三排乘员的生存空间保持完整。后备箱放置的鱼竿、露营长杆等硬质长条模拟物品，在巨大惯性冲击下也没有刺穿第三排靠背。 这份安全表现，并非单纯依靠钢板加厚就能实现的，而是依托一套经过精心设计的能量传散路径，逐步消化撞击冲击力。 后方传…"
-  },
-  {
     "id": "科技-MIT Technology Review-https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
     "feed_name": "MIT Technology Review",
     "category": "科技",
@@ -205,8 +1140,8 @@ const jsonData = [
     "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
     "pub_date": "2026-11-19 21:10:00",
     "author": "",
-    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A human liver has been kept alive outside the body for seven weeks, setting a reco…",
-    "content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A human liver has been kept alive outside the body for seven weeks, setting a record Researchers in Australia …"
+    "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Resear…",
+    "content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim the…"
   },
   {
     "id": "科技-爱范儿-https://www.ifanr.com/1690322?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -220,83 +1155,6 @@ const jsonData = [
     "content": "新中产、新比例、新潮流 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
   },
   {
-    "id": "科技-The Verge-https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
-    "feed_name": "The Verge",
-    "category": "科技",
-    "title": "I let Apple’s always-listening AI summarize my life for two weeks",
-    "link": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
-    "pub_date": "2026-11-19 21:00:00",
-    "author": "Victoria Song",
-    "description": "Siri Recap can be turned on or off manually from the wrist. Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch…",
-    "content": "Siri Recap can be turned on or off manually from the wrist. Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambi…"
-  },
-  {
-    "id": "科技-快科技-https://news.mydrivers.com/1/1167/1167128.htm",
-    "feed_name": "快科技",
-    "category": "科技",
-    "title": "别太迷信PC版GTA6：RTX 5070显卡也跑不到60帧",
-    "link": "https://news.mydrivers.com/1/1167/1167128.htm",
-    "pub_date": "2026-11-19 20:53:46",
-    "author": "",
-    "description": "",
-    "content": "快科技11月19日消息，全球游戏玩家期待的3A大作GTA6正式发售了，好评如潮，然而锁30帧的性能引发争议，很多人认为是主机不行，上了PC之后可以轻松跑60帧。 对于这个想法，经常爆料科技硬件的大V@Kepler给出的观点会让大家很失望，他表示主机板GTA6性能这么差，大多数PC也不会跑到60帧的。 他这个观点让很多粉丝不服，认为PC性能比PS5主机强得多，但Kepler不为所动，还给出了证据证明大部分PC没这个能力，用的应该是科技媒体网站汇总过的显卡性能。 PS5主机的显卡规格相当于RX 6700，以它性能为基准…"
-  },
-  {
-    "id": "科技-快科技-https://news.mydrivers.com/1/1167/1167127.htm",
-    "feed_name": "快科技",
-    "category": "科技",
-    "title": "黄仁勋被拒回归后！微软高管：英伟达风波将促使客户考虑采用其他公司AI芯片",
-    "link": "https://news.mydrivers.com/1/1167/1167127.htm",
-    "pub_date": "2026-11-19 20:51:36",
-    "author": "",
-    "description": "",
-    "content": "快科技11月19日消息，黄仁勋此前曾公开表露过想要重回英伟达工作的想法，但英伟达官方已经明确给出了回绝的态度，公司现任CEO更是直接表态，接下来的发展重心要完全向前看，不会考虑创始人复职的相关方案。 针对黄仁勋的骤然离职引发的英伟达内部震荡，微软商业业务首席执行官贾德森·阿尔索夫也公开给出了自己的观察，点明了这场风波给整个全球AI芯片产业带来的连锁反应。 这位高管判断，英伟达近期发生的这一系列内部风波，相当于给所有深度绑定英伟达供应链的下游客户提了醒。 此事会直接推动这些客户主动评估其他厂商推出的AI芯片产品，通过…"
-  },
-  {
-    "id": "科技-快科技-https://news.mydrivers.com/1/1167/1167126.htm",
-    "feed_name": "快科技",
-    "category": "科技",
-    "title": "阿里Q2财报出炉：营收2715.2亿元 AI年化收入突破100亿美元",
-    "link": "https://news.mydrivers.com/1/1167/1167126.htm",
-    "pub_date": "2026-11-19 20:50:10",
-    "author": "",
-    "description": "",
-    "content": "快科技11月19日消息，阿里巴巴发布2027财年第二季度财报，对应2026年7月至9月。 本季度营收2715.2亿元，同比增长10%。其中，AI相关产品年化收入突破100亿美元，云业务继续加速增长。 这次财报的一大看点，是AI带来的实际收入。 本季度，阿里AI相关产品收入达到179.18亿元，连续13个季度保持三位数同比增长。 按当前收入水平折算，年化收入规模已超过100亿美元。 AI云与算力服务收入达到609.7亿元，同比增长53%，高于市场预期的597.7亿元。外部商业化收入同比增长64%，外部经常性收入同比增…"
-  },
-  {
-    "id": "科技-IT 之家-https://www.ithome.com/1/029/673.htm",
-    "feed_name": "IT 之家",
-    "category": "科技",
-    "title": "SK 海力士回应“HBM4 良率已突破 70%”：商业机密，不便披露",
-    "link": "https://www.ithome.com/1/029/673.htm",
-    "pub_date": "2026-11-19 20:49:42",
-    "author": "",
-    "description": "IT之家 11 月 19 日消息，日前有消息称，SK 海力士 HBM4 的良率已突破 70%。对于上述传闻及未来预期良率何时进一步突破等，财闻向 SK 海力士方面进行求证，相关负责人回应称：公司始终致力于通过持续的技术创新和工艺优化，为客户提供高质量、高性能的存储解决方案，HBM 相关产品的具体良率数据及未来预期属于核心商业信息，不便对外公开披露。 报道援引天使投资人、资深人工智能专家郭涛的话说，市场流传的“70% 良率”只是渠道测算数…",
-    "content": "IT之家 11 月 19 日消息，日前有消息称，SK 海力士 HBM4 的良率已突破 70%。对于上述传闻及未来预期良率何时进一步突破等，财闻向 SK 海力士方面进行求证，相关负责人回应称：公司始终致力于通过持续的技术创新和工艺优化，为客户提供高质量、高性能的存储解决方案，HBM 相关产品的具体良率数据及未来预期 属于核心商业信息，不便对外公开披露 。 报道援引天使投资人、资深人工智能专家郭涛的话说，市场流传的“70% 良率”只是 渠道测算数据 ，且存在明显的统计口径差异化情况。另外，多层堆叠工艺容错率极低， 微小…"
-  },
-  {
-    "id": "科技-快科技-https://news.mydrivers.com/1/1167/1167125.htm",
-    "feed_name": "快科技",
-    "category": "科技",
-    "title": "零百加速4.8秒！方程豹钛9首发DMS：两台电机干出三电机的效果",
-    "link": "https://news.mydrivers.com/1/1167/1167125.htm",
-    "pub_date": "2026-11-19 20:39:59",
-    "author": "",
-    "description": "",
-    "content": "快科技11月19日消息，今晚方程豹钛9正式上市，新车首发搭载比亚迪DMS超级混动全能平台， 1.5T插混专用高效发动机配合前后总功率400kW的双电机，让这台5.3米的全尺寸SUV跑出4.8秒零百加速。 比亚迪集团方程豹事业部总经理熊甜波在发布会上表示，继DM-i为节能而生、DM-p为性能而生、DMO为越野而生之后，DMS为全能而生，S即Super。 这套平台将三大混动技术优势聚合一体，实现能耗、性能、操控、安全四大维度的极致平衡，是比亚迪史上最全面的混动技术平台。 发布会上熊甜波还科普了增程与插混的本质差异，增程…"
-  },
-  {
-    "id": "科技-The Verge-https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
-    "feed_name": "The Verge",
-    "category": "科技",
-    "title": "Canva adds an AI ‘off’ button",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
-    "pub_date": "2026-11-19 20:30:00",
-    "author": "Emma Roth",
-    "description": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off…",
-    "content": "Canva will now allow you to turn off its generative AI features. With this change , you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with it…"
-  },
-  {
     "id": "科技-Solidot-https://www.solidot.org/story?sid=85933",
     "feed_name": "Solidot",
     "category": "科技",
@@ -306,17 +1164,6 @@ const jsonData = [
     "author": "",
     "description": "世界知识产权组织公布的年度《世界知识产权指标》（WIPI）报告显示，2025 年全球专利申请量 394 万件，同比增长 6%，创近十年来最快增速。这可能与利用 AI 加快专利申请相关。数据显示，中国继续高居第一达到 191万 件，同比增长 6%，其次是美国（489,766件）、日本（466,301件）、大韩民国（319,210件）和德国（132,714件）。 印度达到 105,163 件，同比增长 38%，首次突破 10 万件。计算机技…",
     "content": "世界知识产权组织公布的年度《世界知识产权指标》（WIPI）报告显示，2025 年全球专利申请量 394 万件，同比增长 6%，创近十年来最快增速。这可能与利用 AI 加快专利申请相关。数据显示，中国继续高居第一达到 191万 件，同比增长 6%，其次是美国（489,766件）、日本（466,301件）、大韩民国（319,210件）和德国（132,714件）。 印度达到 105,163 件，同比增长 38%，首次突破 10 万件。计算机技术仍是专利申请量最大的技术领域，占所有已公布专利申请总量的 13%。世界知识产权…"
-  },
-  {
-    "id": "科技-IT 之家-https://www.ithome.com/1/029/667.htm",
-    "feed_name": "IT 之家",
-    "category": "科技",
-    "title": "网传格力电器因 150 元成被执行人？朱磊回应称系诉讼费缴款，属正常司法公示",
-    "link": "https://www.ithome.com/1/029/667.htm",
-    "pub_date": "2026-11-19 20:19:44",
-    "author": "",
-    "description": "感谢IT之家网友 补药吖 的线索投递！ IT之家 11 月 19 日消息，一则关于“格力电器被列为被执行人”的消息在网络上传开。中国执行信息公开网信息显示，格力电器新增一则小额被执行人信息，立案时间为 11 月 17 日，执行标的为 150 元，执行法院为义乌市人民法院，案件号为（2026）浙 0782 执 32271 号。 珠海格力电器股份有限公司市场总监朱磊就此事作出回应，IT之家附原文如下： 关于近期网传“格力电器被列为被执行人”…",
-    "content": "感谢IT之家网友 补药吖 的线索投递！ IT之家 11 月 19 日消息，一则关于“格力电器被列为被执行人”的消息在网络上传开。中国执行信息公开网信息显示，格力电器新增一则小额被执行人信息，立案时间为 11 月 17 日， 执行标的为 150 元 ，执行法院为义乌市人民法院，案件号为（2026）浙 0782 执 32271 号。 珠海格力电器股份有限公司市场总监朱磊就此事作出回应，IT之家附原文如下： 关于近期网传“格力电器被列为被执行人”一事，我给大家说明一下情况： 此事源于格力起诉义乌商家在网上违规售卖格力售后…"
   },
   {
     "id": "科技-果壳网 / 科学人-https://www.guokr.com/article/470740/",
@@ -330,17 +1177,6 @@ const jsonData = [
     "content": "近日，京东健康面向全球正式推出来华就医一站式服务，覆盖卡塔尔、阿联酋、哈萨克斯坦、印度尼西亚、蒙古国等市场。 除了传统治病外，京东还拓展了体检、口腔、中医正骨和高端健康管理，目前已经具备“就医+抗衰健康管理+旅行”的产品雏形。 这是否意味着 跨境健康将成为新风口？ 京东推出这一服务，单看动作似乎有些突然。但放在更大背景下看，外国人来华就医其实并不是新现象。今年4月，大批海外人士专程来华看病就成为一个热点事件，甚至催生了“带外国人看病”这个赛道。 曾有媒体报道把来华寻医的外国人分成三类。第一类来自东南亚、中东等地，看…"
   },
   {
-    "id": "科技-The Verge-https://www.theverge.com/features/1034740/ketogenic-diet-anorexia-roblox-medical-funding",
-    "feed_name": "The Verge",
-    "category": "科技",
-    "title": "Roblox money is pushing a controversial anorexia treatment",
-    "link": "https://www.theverge.com/features/1034740/ketogenic-diet-anorexia-roblox-medical-funding",
-    "pub_date": "2026-11-19 20:00:00",
-    "author": "Arielle Duhaime-Ross",
-    "description": "In a dark room, a man with a camera makes his pitch: Therapy isn't the first treatment you should get if you have anorexia or bulimia, he says. He's in his late 20s, wearing a backward camo baseball cap and a silver chai…",
-    "content": "In a dark room, a man with a camera makes his pitch: Therapy isn't the first treatment you should get if you have anorexia or bulimia, he says. He's in his late 20s, wearing a backward camo baseball cap and a silver chain. \"Instead of going straight to the the…"
-  },
-  {
     "id": "科技-Wired-https://www.wired.com/story/best-home-entertainment-gifts-2026/",
     "feed_name": "Wired",
     "category": "科技",
@@ -352,17 +1188,6 @@ const jsonData = [
     "content": "Because staying home can actually mean having the time of your life, whether alone or with friends."
   },
   {
-    "id": "科技-Wired-https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
-    "feed_name": "Wired",
-    "category": "科技",
-    "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
-    "link": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
-    "pub_date": "2026-11-19 20:00:00",
-    "author": "",
-    "description": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger towards data centers could impact its growth.",
-    "content": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger towards data centers could impact its growth."
-  },
-  {
     "id": "科技-Wired-https://www.wired.com/story/voyager-light-day-away-how-far-that-really-is/",
     "feed_name": "Wired",
     "category": "科技",
@@ -372,6 +1197,17 @@ const jsonData = [
     "author": "",
     "description": "The distance and forces shaping the venerable craft’s trajectory are mind-boggling reminders of the vastness of space.",
     "content": "The distance and forces shaping the venerable craft’s trajectory are mind-boggling reminders of the vastness of space."
+  },
+  {
+    "id": "科技-Wired-https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+    "feed_name": "Wired",
+    "category": "科技",
+    "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
+    "link": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+    "pub_date": "2026-11-19 20:00:00",
+    "author": "",
+    "description": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger toward data centers could impact its growth.",
+    "content": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger toward data centers could impact its growth."
   },
   {
     "id": "科技-MIT Technology Review-https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
@@ -388,7 +1224,7 @@ const jsonData = [
     "id": "科技-Wired-https://www.wired.com/story/best-early-black-friday-laptop-deals-11-18-26/",
     "feed_name": "Wired",
     "category": "科技",
-    "title": "The Best Early Black Friday Deals on Laptops I’ve Tested Myself (2026)",
+    "title": "The Best Early Black Friday Deals on Laptops I’ve Tested (2026)",
     "link": "https://www.wired.com/story/best-early-black-friday-laptop-deals-11-18-26/",
     "pub_date": "2026-11-19 19:30:00",
     "author": "",
@@ -407,21 +1243,10 @@ const jsonData = [
     "content": "When everything goes down, don’t assume it’s a cyberattack."
   },
   {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8211170.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "大衣只卖499元，中产在山姆捡漏MaxMara平替",
-    "link": "https://www.tmtpost.com/8211170.html",
-    "pub_date": "2026-11-19 19:02:56",
-    "author": "",
-    "description": "继续改变品类认知。",
-    "content": "继续改变品类认知。"
-  },
-  {
     "id": "科技-Wired-https://www.wired.com/story/best-early-black-friday-dyson-vacuum-deals-11-19-2026/",
     "feed_name": "Wired",
     "category": "科技",
-    "title": "Best Dyson Early Black Friday Vacuum Deals (2026): Dyson V16 Piston Animal, Dyson V15 Detect",
+    "title": "Best Early Dyson Black Friday Vacuum Deals (2026)",
     "link": "https://www.wired.com/story/best-early-black-friday-dyson-vacuum-deals-11-19-2026/",
     "pub_date": "2026-11-19 19:00:00",
     "author": "",
@@ -451,59 +1276,15 @@ const jsonData = [
     "content": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a…"
   },
   {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8210657.html",
-    "feed_name": "钛媒体",
+    "id": "科技-超能网-http://www.expreview.com/109595.html",
+    "feed_name": "超能网",
     "category": "科技",
-    "title": "国产GPU，风浪越大鱼越贵",
-    "link": "https://www.tmtpost.com/8210657.html",
-    "pub_date": "2026-11-19 18:58:06",
-    "author": "",
-    "description": "黄仁勋卸任英伟达CEO，全球AI算力格局发生转变，中国AI产业面临供给风险挑战。",
-    "content": "黄仁勋卸任英伟达CEO，全球AI算力格局发生转变，中国AI产业面临供给风险挑战。"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8210698.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "谁吃掉了名创优品的利润？",
-    "link": "https://www.tmtpost.com/8210698.html",
-    "pub_date": "2026-11-19 18:48:31",
-    "author": "",
-    "description": "持续增收不增利。",
-    "content": "持续增收不增利。"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8210987.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "哈尔滨买了“迪士尼”",
-    "link": "https://www.tmtpost.com/8210987.html",
-    "pub_date": "2026-11-19 18:48:28",
-    "author": "",
-    "description": "哈尔滨第一次向别人借冬天。",
-    "content": "哈尔滨第一次向别人借冬天。"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8210830.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "国产芯片正在准备三级跳",
-    "link": "https://www.tmtpost.com/8210830.html",
-    "pub_date": "2026-11-19 18:48:26",
-    "author": "",
-    "description": "国产芯片迎来新一轮资本投入，从产品量产、工艺迭代到争夺客户订单，产业竞争正在升级。长鑫、长江存储加速进入高端市场，国产AI芯片则面临英伟达整套计算系统的挑战。融资只是起点，能否持续迭代、赢得下一代产品订单，才是国产芯片实现“三级跳”的关键。",
-    "content": "国产芯片迎来新一轮资本投入，从产品量产、工艺迭代到争夺客户订单，产业竞争正在升级。长鑫、长江存储加速进入高端市场，国产AI芯片则面临英伟达整套计算系统的挑战。融资只是起点，能否持续迭代、赢得下一代产品订单，才是国产芯片实现“三级跳”的关键。"
-  },
-  {
-    "id": "科技-Wired-https://www.wired.com/story/how-the-november-13-faa-ground-stop-went-down/",
-    "feed_name": "Wired",
-    "category": "科技",
-    "title": "‘The Hairiest 90 Minutes of My Career’: How the FAA Ground Stop Went Down",
-    "link": "https://www.wired.com/story/how-the-november-13-faa-ground-stop-went-down/",
-    "pub_date": "2026-11-19 18:30:00",
-    "author": "",
-    "description": "“Instability” in the complex US aviation communications system led to a chaotic few hours for air traffic controllers and pilots. Nearly a week later, officials still don’t fully know what happened.",
-    "content": "“Instability” in the complex US aviation communications system led to a chaotic few hours for air traffic controllers and pilots. Nearly a week later, officials still don’t fully know what happened."
+    "title": "《杀戮尖塔2》在Steam销量接近800万份，近四分之一玩家游玩超百小时",
+    "link": "http://www.expreview.com/109595.html",
+    "pub_date": "2026-11-19 18:33:00",
+    "author": "吕嘉俭",
+    "description": "据TECHPOWERUP报道，《杀戮尖塔2（Slay the Spire 2）》自2026年3月6日发售以来，经过了8个月的时间，在Steam的销量已超过790万份d，为Mega Crit带来了约1.576亿美元。事实上，游戏在开启抢先体验阶段的前24小时，Steam峰值在线人数就超过了43万人，这种成功是可以预见的。 值得关注的还有其他一些数据，包括：在11月初，《杀戮尖塔2》日均活跃玩家数约为50万，但在游戏v0.113.0更新后不…",
+    "content": "据TECHPOWERUP 报道 ，《杀戮尖塔2（Slay the Spire 2）》自2026年3月6日发售以来，经过了8个月的时间，在Steam的销量已超过790万份d，为Mega Crit带来了约1.576亿美元。事实上，游戏在开启抢先体验阶段的前24小时，Steam峰值在线人数就超过了43万人，这种成功是可以预见的。 值得关注的还有其他一些数据，包括：在11月初，《杀戮尖塔2》日均活跃玩家数约为50万，但在游戏v0.113.0更新后不久，引入了新角色、新的玩法模式和机制，同时还带来了常规的漏洞修复和补丁后，这…"
   },
   {
     "id": "科技-Wired-https://www.wired.com/gallery/best-theragun-percussive-therapy-devices/",
@@ -517,15 +1298,15 @@ const jsonData = [
     "content": "From massage guns to compression boots and LED face masks, these Therabody gifts are perfect for anyone who deserves some rest and relaxation."
   },
   {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8211254.html",
-    "feed_name": "钛媒体",
+    "id": "科技-Wired-https://www.wired.com/story/how-the-november-13-faa-ground-stop-went-down/",
+    "feed_name": "Wired",
     "category": "科技",
-    "title": "业绩重压下，航天机电继续处理海外亏损光伏项目",
-    "link": "https://www.tmtpost.com/8211254.html",
-    "pub_date": "2026-11-19 18:27:07",
+    "title": "‘The Hairiest 90 Minutes of My Career’: How the FAA Ground Stop Went Down",
+    "link": "https://www.wired.com/story/how-the-november-13-faa-ground-stop-went-down/",
+    "pub_date": "2026-11-19 18:30:00",
     "author": "",
-    "description": "航天机电的业绩拐点还没到来",
-    "content": "航天机电的业绩拐点还没到来"
+    "description": "“Instability” in the complex US aviation communications system led to a chaotic few hours for air traffic controllers and pilots. Nearly a week later, officials still don’t fully know what happened.",
+    "content": "“Instability” in the complex US aviation communications system led to a chaotic few hours for air traffic controllers and pilots. Nearly a week later, officials still don’t fully know what happened."
   },
   {
     "id": "科技-超能网-http://www.expreview.com/109594.html",
@@ -539,17 +1320,6 @@ const jsonData = [
     "content": "《焚剑：残阳恩仇录（Burning Sword: Death Sun）》是一款以南宋乱世为背景的武侠动作游戏，现已在PC平台开启抢先体验。目前 Steam 上游戏有首发促销，过去标准版价格63元（-10%折扣，原价70元），优惠至11月29日。 &nbsp; &nbsp; if (IsMobile()) { jQuery(\"iframe\").attr(\"width\", \"100%\"); jQuery(\"iframe\").attr(\"height\", jQuery(\"#post_body\").width() * 9 …"
   },
   {
-    "id": "科技-IT 之家-https://www.ithome.com/1/029/639.htm",
-    "feed_name": "IT 之家",
-    "category": "科技",
-    "title": "阿里巴巴 2027 财年上半年归母净利润 750.72 亿元，同比增长 17%",
-    "link": "https://www.ithome.com/1/029/639.htm",
-    "pub_date": "2026-11-19 18:18:08",
-    "author": "",
-    "description": "IT之家 11 月 19 日消息，阿里巴巴今日发布 2027 财年（2026 年 4 月 1 日～2027 年 3 月 31 日）上半年（2026 年 4 月 1 日～2026 年 9 月 30 日）及第二财季（2026 年 7 月 1 日～2026 年 9 月 30 日）报告： 2027 财年上半年 营业总收入：5404.72 亿元，同比增长 9% 毛利润：2059.00 亿元，同比下降 1.12% 毛利率：38.10%，同比下降 3…",
-    "content": "IT之家 11 月 19 日消息，阿里巴巴今日发布 2027 财年（2026 年 4 月 1 日～2027 年 3 月 31 日） 上半年（2026 年 4 月 1 日～2026 年 9 月 30 日）及第二财季（2026 年 7 月 1 日～2026 年 9 月 30 日） 报告： 2027 财年上半年 营业总收入 ：5404.72 亿元，同比增长 9% 毛利润 ：2059.00 亿元，同比下降 1.12% 毛利率 ：38.10%，同比下降 3.93 个百分点 经营利润 ：442.77 亿元，同比增长 10% 归…"
-  },
-  {
     "id": "科技-果壳网 / 科学人-https://www.guokr.com/article/470739/",
     "feed_name": "果壳网 / 科学人",
     "category": "科技",
@@ -559,17 +1329,6 @@ const jsonData = [
     "author": "",
     "description": "2025年8月，得州中部一户人家的前门外墙上，染上了浅浅的红色印记，血渍一样。屋主第一反应是赶紧拿刷子刷掉，毕竟不想让人以为他家是凶案现场[1]。 你可能已经注意到了，那红色印记的墙上挂着一个空壳。 3年前就有人在新英格兰拍到过“血”印更明显的照片，现场就停着一只蝴蝶，具体来说是黄缘蛱蝶（Nymphalis antiopa），很明显它就是造成血印的“元凶”。 那墙上的红印，其实是蝴蝶刚钻出蛹壳时从屁股里排出来的东西，叫 meconium…",
     "content": "2025年8月，得州中部一户人家的前门外墙上，染上了浅浅的红色印记，血渍一样。屋主第一反应是赶紧拿刷子刷掉，毕竟不想让人以为他家是凶案现场[1]。 你可能已经注意到了，那红色印记的墙上挂着一个空壳。 3年前就有人在新英格兰拍到过“血”印更明显的照片，现场就停着一只蝴蝶，具体来说是黄缘蛱蝶（Nymphalis antiopa），很明显它就是造成血印的“元凶”。 那墙上的红印，其实是蝴蝶刚钻出蛹壳时从屁股里排出来的东西，叫 meconium，也就是 蛹便。 简单来说，那是是蝴蝶攒了整整一个蛹期的废物。 夏天里，毛毛虫化…"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8211143.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "腾讯的“存亡时刻”写在利润表与现金流里",
-    "link": "https://www.tmtpost.com/8211143.html",
-    "pub_date": "2026-11-19 18:11:19",
-    "author": "",
-    "description": "一家年赚2000亿的公司怎么就“生死存亡”了？",
-    "content": "一家年赚2000亿的公司怎么就“生死存亡”了？"
   },
   {
     "id": "科技-雷峰网-https://www.leiphone.com/category/private/wIgMWmjlB5GTKg6e.html",
@@ -583,17 +1342,6 @@ const jsonData = [
     "content": "导语：Recursive 联创 Jeff Clune ：“QD、开放式、AI 生成算法，我觉得它们就是下一代伟大的 AI。” Recursive 联创 Jeff Clune ：“QD、开放式、AI 生成算法，我觉得它们就是下一代伟大的 AI。” &nbsp; &nbsp; 作者丨 邓哲敏 &nbsp; &nbsp; 编辑丨 齐铖湧 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n…"
   },
   {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8211241.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "睿能科技拟控股博泰智能，5亿作价押注锂电，2027年周期隐忧待考",
-    "link": "https://www.tmtpost.com/8211241.html",
-    "pub_date": "2026-11-19 18:06:43",
-    "author": "",
-    "description": "睿能拟控股博泰智能。",
-    "content": "睿能拟控股博泰智能。"
-  },
-  {
     "id": "科技-InfoQ 中文-https://www.infoq.cn/article/6xqcZfMgJ99ZQiGFbjym",
     "feed_name": "InfoQ 中文",
     "category": "科技",
@@ -603,17 +1351,6 @@ const jsonData = [
     "author": "",
     "description": "“刚选定模型、完成平台搭建，业务流程也已经接入。但没过几天，市场上又出现一个表现更好的模型，CEO转头就问CIO：能不能也试试？”红帽全球副总裁兼大中华区总裁曹衡康（Victor Tsao）提到了企业落地AI时经常遇到的一个困境。 对企业来说，换模型并不像个人更换一个聊天工具那么简单。模型背后还连接着GPU适配、推理服务、数据接口和业务流程，前一套系统刚刚跑顺，新模型就来了，企业既不想错过技术进步，也不愿意为此重新搭建整套环境。 Age…",
     "content": "“刚选定模型、完成平台搭建，业务流程也已经接入。但没过几天，市场上又出现一个表现更好的模型，CEO转头就问CIO：能不能也试试？”红帽全球副总裁兼大中华区总裁曹衡康（Victor Tsao）提到了企业落地AI时经常遇到的一个困境。 &nbsp; 对企业来说，换模型并不像个人更换一个聊天工具那么简单。模型背后还连接着GPU适配、推理服务、数据接口和业务流程，前一套系统刚刚跑顺，新模型就来了，企业既不想错过技术进步，也不愿意为此重新搭建整套环境。 &nbsp; Agent的出现又带来了另一层压力。当智能体开始接入企业内…"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8210519.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "钛媒体硅谷峰会震撼开启，马斯克背后传奇投资人、Google X创始人、全球AI及投资领军者齐聚斯坦福",
-    "link": "https://www.tmtpost.com/8210519.html",
-    "pub_date": "2026-11-19 18:05:15",
-    "author": "",
-    "description": "Google X创始人、马斯克背后长期资本创始人、洛克菲勒国际主席、斯坦福顶尖科学家，哥伦比亚大学AI监管权威专家、还有多位AI创新与生命科技领军人物齐聚，提前预判2027，全球技术与资金将走向何处？",
-    "content": "Google X创始人、马斯克背后长期资本创始人、洛克菲勒国际主席、斯坦福顶尖科学家，哥伦比亚大学AI监管权威专家、还有多位AI创新与生命科技领军人物齐聚，提前预判2027，全球技术与资金将走向何处？"
   },
   {
     "id": "科技-Wired-https://www.wired.com/story/best-gifts-for-travelers/",
@@ -669,17 +1406,6 @@ const jsonData = [
     "author": "Strike",
     "description": "近日，国内GPU厂商摩尔线程公布了MDC 2026（摩尔线程MUSA开发者大会）的首张产品预热海报。海报以耸立的双峰为背景，中央若隐若现露出显卡一角，配了一句化用苏轼的话：“不识＿＿真面目，只缘硬核在其中。” 海报透露了两条技术线索：山体一侧覆盖三维网格，对应底层图形渲染；另一侧延伸出神经网络，指向端侧AI推理。这基本坐实了代号“庐山”的新产品要来了，也说明在算力芯片普遍挤向数据中心的风口下，摩尔线程仍守着消费级市场和PC桌面生态。 先…",
     "content": "近日，国内GPU厂商摩尔线程公布了MDC 2026（摩尔线程MUSA开发者大会）的首张产品预热海报。海报以耸立的双峰为背景，中央若隐若现露出显卡一角，配了一句化用苏轼的话：“不识＿＿真面目，只缘硬核在其中。” 海报透露了两条技术线索：山体一侧覆盖三维网格，对应底层图形渲染；另一侧延伸出神经网络，指向端侧AI推理。这基本坐实了代号“庐山”的新产品要来了，也说明在算力芯片普遍挤向数据中心的风口下，摩尔线程仍守着消费级市场和PC桌面生态。 先说图形。硬件级光线追踪是次世代3A游戏的标配，也是国产显卡一直缺的一块。“庐山”…"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8211189.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "Banks Are Turning AI Compute Bills Into Working Capital",
-    "link": "https://www.tmtpost.com/8211189.html",
-    "pub_date": "2026-11-19 17:18:06",
-    "author": "",
-    "description": "Chinese lenders have begun packaging model usage, cloud contracts, and orders into small business loans. The products fill a gap equity markets leave open: AI firms burn cash on tokens from day one, own little collateral…",
-    "content": "Chinese lenders have begun packaging model usage, cloud contracts, and orders into small business loans. The products fill a gap equity markets leave open: AI firms burn cash on tokens from day one, own little collateral, and need revolving funds more than per…"
   },
   {
     "id": "科技-果壳网 / 科学人-https://www.guokr.com/article/470738/",
@@ -779,17 +1505,6 @@ const jsonData = [
     "author": "吕嘉俭",
     "description": "据Wccftech报道，微软在Ignite 2026大会上宣布，为Windows 11引入名为“基线保护（Baseline protection）”的新安全机制。目前该功能已在Windows Insider预览版中开放测试，计划2027年正式上线。 基线保护将原本分散的多项安全设置集成成一次检查，开发者无需逐项确认系统状态。初版包含了八项防护，包括TPM 2.0、安全启动、内存完整性等，系统必须在启动时全部通过才能拿到合格结果。开发者可…",
     "content": "据Wccftech 报道 ，微软在Ignite 2026大会上宣布，为Windows 11引入名为“ 基线保护 （Baseline protection）”的新安全机制。目前该功能已在Windows Insider预览版中开放测试，计划2027年正式上线。 基线保护将原本分散的多项安全设置集成成一次检查，开发者无需逐项确认系统状态。初版包含了八项防护，包括TPM 2.0、安全启动、内存完整性等，系统必须在启动时全部通过才能拿到合格结果。开发者可以请求简单的通过/失败返回值、缺失防护的详细清单，或硬件支持的认证令牌用…"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8210529.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "国内首款Gen6 SSD量产，AI存储重算经济帐",
-    "link": "https://www.tmtpost.com/8210529.html",
-    "pub_date": "2026-11-19 16:35:17",
-    "author": "",
-    "description": "PCIe 6.0 SSD量产的真正价值，不是让存储设备跑出一个更漂亮的速度数字，而是让AI基础设施有机会重新算一笔账。",
-    "content": "PCIe 6.0 SSD量产的真正价值，不是让存储设备跑出一个更漂亮的速度数字，而是让AI基础设施有机会重新算一笔账。"
   },
   {
     "id": "科技-InfoQ 中文-https://www.infoq.cn/article/rtBT5s1opGGazFgQi0YS",
@@ -946,17 +1661,6 @@ const jsonData = [
     "content": "近日，Minisforum（铭凡）推出了T5 Max-388台式机，搭载了AMD Ryzen AI Max+ 388处理器。目前新产品已登陆电商平台，并开始销售了，仅提供48GB内存与1TB硬盘的存储配置版本，显示售价9999元，到手价9699元，厂商提供三年质保。 Minisforum T5 Max-388台式机，48GB RAM + 1TB SSD，京东地址： 点此前往&gt;&gt;&gt; 相比于大多数Minisforum的迷你PC产品，T5 Max-388台式机的体积要更大一些，采用了金属材质机身，整体尺…"
   },
   {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8210307.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "拒绝黄仁勋回归还不够，英伟达开始围剿他女儿了",
-    "link": "https://www.tmtpost.com/8210307.html",
-    "pub_date": "2026-11-19 14:57:35",
-    "author": "",
-    "description": "要是真想完全“去黄化”，只靠舆论也是有些难度的。",
-    "content": "要是真想完全“去黄化”，只靠舆论也是有些难度的。"
-  },
-  {
     "id": "科技-Solidot-https://www.solidot.org/story?sid=85928",
     "feed_name": "Solidot",
     "category": "科技",
@@ -999,17 +1703,6 @@ const jsonData = [
     "author": "",
     "description": "体检报告出来了，翻到“身体质量指数（BMI）”那一栏，数字旁边赫然印着“超重”或者“肥胖”。 这个数字超出标准，是不是说明身体已经出了问题？先别急着给自己宣判。 2026年11月，《自然》（Nature）上发表的一项研究分析了844108名成年人的数据，发现只凭BMI判断肥胖，既可能多算一些人，也可能漏掉另一些人。即使同样肥胖，不同人的身体功能和未来风险，也可能相差很大。 这不是说BMI没用，研究真正想探讨的问题是，当我们说一个人“肥胖…",
     "content": "体检报告出来了，翻到“身体质量指数（BMI）”那一栏，数字旁边赫然印着“超重”或者“肥胖”。 这个数字超出标准，是不是说明身体已经出了问题？先别急着给自己宣判。 2026年11月，《自然》（Nature）上发表的一项研究分析了844108名成年人的数据， 发现只凭BMI判断肥胖，既可能多算一些人，也可能漏掉另一些人。即使同样肥胖，不同人的身体功能和未来风险，也可能相差很大。 这不是说BMI没用，研究真正想探讨的问题是，当我们说一个人“肥胖”时，如何透过一个身材指标，去看到潜在的健康问题。 BMI判断肥胖，或许不够 …"
-  },
-  {
-    "id": "科技-极客公园-http://www.geekpark.net/news/374196",
-    "feed_name": "极客公园",
-    "category": "科技",
-    "title": "「北美大豆包」谷歌，终于杀回 AI 牌桌中央",
-    "link": "http://www.geekpark.net/news/374196",
-    "pub_date": "2026-11-19 14:10:00",
-    "author": "",
-    "description": "作者｜Wildcard 编辑｜靖宇 谷歌，这次是真的回来了。 11 月 18 日，Google DeepMind 点亮了Gemini 4 Neon的霓虹灯牌。 这是 Gemini 4 系列在短短 7 周内甩出的第 4 款元素模型。如果看一眼官方放出的基准跑分长表和社区实测反馈，你会发现它精准卡在了一个极其舒服的「甜点」位上，既有接近、甚至局部反超旗舰的硬核智商，又把单任务成本砍到了竞争对手的一半左右。 在 Reddit 技术社区里，挑剔…",
-    "content": "作者｜Wildcard 编辑｜靖宇 谷歌，这次是真的回来了。 11 月 18 日，Google DeepMind 点亮了 Gemini 4 Neon 的霓虹灯牌。 这是 Gemini 4 系列在短短 7 周内甩出的第 4 款元素模型 。如果看一眼官方放出的基准跑分长表和社区实测反馈，你会发现它精准卡在了一个极其舒服的「甜点」位上，既有接近、甚至局部反超旗舰的硬核智商，又把单任务成本砍到了竞争对手的一半左右。 在 Reddit 技术社区里，挑剔的开发者们罕见地给出了一边倒的好评，直呼它「 便宜得离谱又强得可怕 」。每…"
   },
   {
     "id": "科技-超能网-http://www.expreview.com/109581.html",
@@ -1065,699 +1758,6 @@ const jsonData = [
     "author": "",
     "description": "Save on We-Vibe, including app-controlled bestsellers and popular gift sets designed for couples, connection, and shared pleasure.",
     "content": "Save on We-Vibe, including app-controlled bestsellers and popular gift sets designed for couples, connection, and shared pleasure."
-  },
-  {
-    "id": "科技-Wired-https://www.wired.com/story/turbotax-coupon/",
-    "feed_name": "Wired",
-    "category": "科技",
-    "title": "TurboTax Full Service Coupons This November 2026",
-    "link": "https://www.wired.com/story/turbotax-coupon/",
-    "pub_date": "2026-11-19 14:00:00",
-    "author": "",
-    "description": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
-    "content": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED."
-  },
-  {
-    "id": "科技-Wired-https://www.wired.com/story/sportsmans-warehouse-promo-code/",
-    "feed_name": "Wired",
-    "category": "科技",
-    "title": "Sportsman's Warehouse Promo Code: Save in November 2026",
-    "link": "https://www.wired.com/story/sportsmans-warehouse-promo-code/",
-    "pub_date": "2026-11-19 14:00:00",
-    "author": "",
-    "description": "Whether you are hunting for firearms, camping supplies, or boating gear, use these Sportsman’s Warehouse coupons to maximize your savings in November 2026.",
-    "content": "Whether you are hunting for firearms, camping supplies, or boating gear, use these Sportsman’s Warehouse coupons to maximize your savings in November 2026."
-  },
-  {
-    "id": "科技-Wired-https://www.wired.com/story/lowes-promo-code/",
-    "feed_name": "Wired",
-    "category": "科技",
-    "title": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
-    "link": "https://www.wired.com/story/lowes-promo-code/",
-    "pub_date": "2026-11-19 14:00:00",
-    "author": "",
-    "description": "Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED.",
-    "content": "Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED."
-  },
-  {
-    "id": "科技-Wired-https://www.wired.com/story/home-chef-promo-code/",
-    "feed_name": "Wired",
-    "category": "科技",
-    "title": "Home Chef Promo Codes for November 2026",
-    "link": "https://www.wired.com/story/home-chef-promo-code/",
-    "pub_date": "2026-11-19 14:00:00",
-    "author": "",
-    "description": "Enjoy up to 50% off deliveries, free meals, and more with the latest Home Chef coupons.",
-    "content": "Enjoy up to 50% off deliveries, free meals, and more with the latest Home Chef coupons."
-  },
-  {
-    "id": "科技-Wired-https://www.wired.com/story/fanatics-promo-code/",
-    "feed_name": "Wired",
-    "category": "科技",
-    "title": "Fanatics Promo Code: 10% Off",
-    "link": "https://www.wired.com/story/fanatics-promo-code/",
-    "pub_date": "2026-11-19 14:00:00",
-    "author": "",
-    "description": "Gear up for the season with verified Fanatics coupons, free shipping codes, and student or military discounts on jerseys, hats, and team gear.",
-    "content": "Gear up for the season with verified Fanatics coupons, free shipping codes, and student or military discounts on jerseys, hats, and team gear."
-  },
-  {
-    "id": "科技-Wired-https://www.wired.com/story/blue-apron-coupon/",
-    "feed_name": "Wired",
-    "category": "科技",
-    "title": "50% Off Blue Apron Promo Codes | November 2026",
-    "link": "https://www.wired.com/story/blue-apron-coupon/",
-    "pub_date": "2026-11-19 14:00:00",
-    "author": "",
-    "description": "Browse chef-curated meal plans, plus get $25 off with an exclusive Blue Apron coupon code, plus 50% off your first 2 orders, and more top coupons on WIRED.",
-    "content": "Browse chef-curated meal plans, plus get $25 off with an exclusive Blue Apron coupon code, plus 50% off your first 2 orders, and more top coupons on WIRED."
-  },
-  {
-    "id": "科技-Wired-https://www.wired.com/story/litter-robot-promo-code/",
-    "feed_name": "Wired",
-    "category": "科技",
-    "title": "Litter-Robot Promo Codes: Up to $150 Off",
-    "link": "https://www.wired.com/story/litter-robot-promo-code/",
-    "pub_date": "2026-11-19 14:00:00",
-    "author": "",
-    "description": "Get the latest Litter-Robot Discounts on Litter-Robot self-cleaning litter boxes, accessories, and more.",
-    "content": "Get the latest Litter-Robot Discounts on Litter-Robot self-cleaning litter boxes, accessories, and more."
-  },
-  {
-    "id": "科技-Wired-https://www.wired.com/story/sony-promo-code/",
-    "feed_name": "Wired",
-    "category": "科技",
-    "title": "Sony Coupons: 45% Off Sony Headphones and Sony Cameras November 2026",
-    "link": "https://www.wired.com/story/sony-promo-code/",
-    "pub_date": "2026-11-19 14:00:00",
-    "author": "",
-    "description": "Upgrade your setup with Sony’s newest releases. Save on industry-leading noise-canceling audio, and pro-level Alpha cameras.",
-    "content": "Upgrade your setup with Sony’s newest releases. Save on industry-leading noise-canceling audio, and pro-level Alpha cameras."
-  },
-  {
-    "id": "科技-Wired-https://www.wired.com/story/expressvpn-coupons/",
-    "feed_name": "Wired",
-    "category": "科技",
-    "title": "ExpressVPN Coupons: 80% Off",
-    "link": "https://www.wired.com/story/expressvpn-coupons/",
-    "pub_date": "2026-11-19 14:00:00",
-    "author": "",
-    "description": "Learn how to get the best value from your ExpressVPN subscription plans, whether you need a flexible 1-month plan or want to lock in up to 61% savings on multi-year deals.",
-    "content": "Learn how to get the best value from your ExpressVPN subscription plans, whether you need a flexible 1-month plan or want to lock in up to 61% savings on multi-year deals."
-  },
-  {
-    "id": "科技-Wired-https://www.wired.com/story/target-promo-code/",
-    "feed_name": "Wired",
-    "category": "科技",
-    "title": "Target Promo Code: $50 Off | November 2026",
-    "link": "https://www.wired.com/story/target-promo-code/",
-    "pub_date": "2026-11-19 14:00:00",
-    "author": "",
-    "description": "Get $50 off your next order or up to 50% off site wide with Target coupon codes and Circle deals.",
-    "content": "Get $50 off your next order or up to 50% off site wide with Target coupon codes and Circle deals."
-  },
-  {
-    "id": "科技-InfoQ 中文-https://www.infoq.cn/article/y1DHWaCUGxsuSrQwqEXi",
-    "feed_name": "InfoQ 中文",
-    "category": "科技",
-    "title": "12类高频任务、3类实践案例，商汤小浣熊带着街道办 AI 白皮书来了！",
-    "link": "https://www.infoq.cn/article/y1DHWaCUGxsuSrQwqEXi",
-    "pub_date": "2026-11-19 13:56:19",
-    "author": "",
-    "description": "哈喽，小浣熊的朋友们👋 走访巡查、协调处置、整理台账、汇总工单、准备汇报……这些都是街道办日常工作的一部分。 一次现场走访，要把几十张照片和记录整理成台账；一批热线工单，需要逐条阅读、分类、分析；一份已经审定的材料，报送前还要反复调整格式。 这些日常任务，有哪些环节可以借助 AI 更高效地完成？ 围绕街道办的日常工作，商汤小浣熊及商汤小浣熊 OPC 人才孵化中心携手 Datawhale、InfoQ、51CTO、观猹，并邀请多位专家参与…",
-    "content": "哈喽，小浣熊的朋友们👋 走访巡查、协调处置、整理台账、汇总工单、准备汇报……这些都是街道办日常工作的一部分。 一次现场走访，要把几十张照片和记录整理成台账；一批热线工单，需要逐条阅读、分类、分析；一份已经审定的材料，报送前还要反复调整格式。 这些日常任务，有哪些环节可以借助 AI 更高效地完成？ 围绕街道办的日常工作，商汤小浣熊及商汤小浣熊 OPC 人才孵化中心携手 Datawhale、InfoQ、51CTO、观猹，并邀请多位专家参与指导，共同编制《街道办AI智能化白皮书》（以下简称《白皮书》）。 《白皮书》汇集…"
-  },
-  {
-    "id": "科技-雷峰网-https://www.leiphone.com/category/ai/gIEEBnDSMmXYn1bE.html",
-    "feed_name": "雷峰网",
-    "category": "科技",
-    "title": "AI4S青年志②丨赋澈生物王子龙：实验室里的「企业家」",
-    "link": "https://www.leiphone.com/category/ai/gIEEBnDSMmXYn1bE.html",
-    "pub_date": "2026-11-19 13:35:00",
-    "author": "",
-    "description": "导语：同时拥有理工科训练、结构生物学功底，和系统商科思维的创业者，在AI4S领域里并不常见。 同时拥有理工科训练、结构生物学功底，和系统商科思维的创业者，在AI4S领域里并不常见。 作者丨周蕾 编辑丨岑峰 【编者按】AI4S有时给人“雷声大雨点小”之感，是因为不少人把AI当成了目的本身，拿着锤子满世界找钉子，对科研周期与商业回报的错配却无知无觉。“AI4S青年志”第二篇，我们关注一个可能破解AI4S落地困局的样本。 一篇论文，通常只需要…",
-    "content": "导语：同时拥有理工科训练、结构生物学功底，和系统商科思维的创业者，在AI4S领域里并不常见。 同时拥有理工科训练、结构生物学功底，和系统商科思维的创业者，在AI4S领域里并不常见。 &nbsp; &nbsp; 作者丨周蕾 &nbsp; &nbsp; 编辑丨岑峰 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb…"
-  },
-  {
-    "id": "科技-果壳网 / 科学人-https://www.guokr.com/article/470735/",
-    "feed_name": "果壳网 / 科学人",
-    "category": "科技",
-    "title": "我死了十年，活过来只需要一滴水！秘密竟和你吃的糖有关系！",
-    "link": "https://www.guokr.com/article/470735/",
-    "pub_date": "2026-11-19 13:15:08",
-    "author": "",
-    "description": "在科幻小说《三体》中，刘慈欣塑造了一群奇幻的外星生物“三体人”。 这些外星人为了在环境恶劣的星球上生存，有一奇招：躯体脱水。即能迅速脱水变成一张“纸皮”，进入休眠状态，等熬过灾难，再将纸皮浸泡在水中，就恢复原样了！ 图源：剧版《三体》 这在生物学上可行吗？ 这样的生物，在地球上还真有原型！大名鼎鼎的“九死还魂草”——卷柏就是其中之一。 一团毫无生气的干枯草球，浸水后，竟重新焕发生机。丨参考文献[1] 卷柏被称为“不死植物”“万年松”。它…",
-    "content": "在科幻小说《三体》中，刘慈欣塑造了一群奇幻的外星生物“三体人”。 这些外星人为了在环境恶劣的星球上生存，有一奇招： 躯体脱水。即能迅速脱水变成一张“纸皮”，进入休眠状态，等熬过灾难，再将纸皮浸泡在水中，就恢复原样了！ 图源：剧版《三体》 这在生物学上可行吗？ 这样的生物，在地球上还真有原型！大名鼎鼎的 “九死还魂草”——卷柏就是其中之一。 一团毫无生气的干枯草球，浸水后，竟重新焕发生机。丨参考文献[1] 卷柏被称为 “不死植物”“万年松”。它们是如何具备这种“死而复生”的非凡本领的？ 远古走来的神奇植物 虽然名字里…"
-  },
-  {
-    "id": "科技-InfoQ 中文-https://www.infoq.cn/article/sbD3maMohpCIExV3UUH0",
-    "feed_name": "InfoQ 中文",
-    "category": "科技",
-    "title": "开源项目 pg_vectorsearch 为 PostgreSQL 带来了更具可扩展性的向量搜索功能",
-    "link": "https://www.infoq.cn/article/sbD3maMohpCIExV3UUH0",
-    "pub_date": "2026-11-19 13:00:00",
-    "author": "",
-    "description": "Tiger Data 发布了 pg_vectorsearch\"，这是一个用于向量相似性搜索的开源 PostgreSQL 扩展，目前处于 Alpha 阶段。其 PRISM 索引采用数据分区和压缩技术，而非 pgvector 的 HNSW 索引所使用的基于图的方法，这样可以降低内存需求并缩短索引构建时间。 据开发者介绍，pg_vectorsearch 支持直接在 PostgreSQL 中进行更快、更节省内存的向量搜索，减少了处理大型向量数据…",
-    "content": "Tiger Data 发布了 pg_vectorsearch \"，这是一个用于向量相似性搜索的开源 PostgreSQL 扩展，目前处于 Alpha 阶段。其 PRISM 索引采用数据分区和压缩技术，而非 pgvector 的 HNSW 索引所使用的基于图的方法，这样可以降低内存需求并缩短索引构建时间。 据开发者介绍，pg_vectorsearch 支持直接在 PostgreSQL 中进行更快、更节省内存的向量搜索，减少了处理大型向量数据集所需的基础设施。该扩展支持现有的 pgvector 列，使应用程序不需要单独…"
-  },
-  {
-    "id": "科技-超能网-http://www.expreview.com/109557.html",
-    "feed_name": "超能网",
-    "category": "科技",
-    "title": "半岛铁盒推出F40-AI服务器机箱：提供12个硬盘位和15个风扇位，售价650元",
-    "link": "http://www.expreview.com/109557.html",
-    "pub_date": "2026-11-19 12:21:16",
-    "author": "冼廷斌",
-    "description": "近日，半岛铁盒推出了F40-AI服务器机箱，该产品主打硬件兼容性，体积约75L，使用全塔设计，提供有15个风扇安装位，最大支持安装SSI-EEB主板，提供有8个PCIE拓展槽，显卡最大限长450mm，最大支持安装12个2.5英寸硬盘。半岛铁盒 F40-AI服务器机箱现已上架电商平台，官方售价650元，支持一年质保服务。 半岛铁盒 F40-AI服务器机箱，京东商城地址：点击前往>>> 三维尺寸方面，半岛铁盒 F40-AI服务器机箱的具体数…",
-    "content": "近日，半岛铁盒推出了F40-AI服务器机箱，该产品主打硬件兼容性，体积约75L，使用全塔设计，提供有15个风扇安装位，最大支持安装SSI-EEB主板，提供有8个PCIE拓展槽，显卡最大限长450mm，最大支持安装12个2.5英寸硬盘。半岛铁盒&nbsp;F40-AI服务器机箱现已上架电商平台，官方售价650元，支持一年质保服务。 半岛铁盒 F40-AI服务器机箱，京东商城地址： 点击前往&gt;&gt;&gt; 三维尺寸方面，半岛铁盒&nbsp;F40-AI服务器机箱的具体数据为550（高）×248（宽）×550（…"
-  },
-  {
-    "id": "科技-InfoQ 中文-https://www.infoq.cn/article/R9BxSitBpwGcDwfS22ac",
-    "feed_name": "InfoQ 中文",
-    "category": "科技",
-    "title": "从业者正在对 Anthropic “没人需要 Claude Code 心理模型”的说法进行验证",
-    "link": "https://www.infoq.cn/article/R9BxSitBpwGcDwfS22ac",
-    "pub_date": "2026-11-19 12:00:00",
-    "author": "",
-    "description": "Anthropic 发布了一篇文章\"，介绍了 Claude Code 团队目前的代码审查流程——毕竟 Claude 现在已经编写了 Claude Code 自身约 90% 的代码。最引人质疑的不是这个百分比，而是团队声称自己不再需要的东西。 这篇由 Addy Osmani、Morgan Westlee Lunt 和 Qing Wang 共同撰写的文章，是对 Anthropic 此前关于使用内部系统取代 Git\" 的报道的补充说明。此前，…",
-    "content": "Anthropic 发布了一篇文章 \"，介绍了 Claude Code 团队目前的代码审查流程——毕竟 Claude 现在已经编写了 Claude Code 自身约 90% 的代码。最引人质疑的不是这个百分比，而是团队声称自己不再需要的东西。 这篇由 Addy Osmani、Morgan Westlee Lunt 和 Qing Wang 共同撰写的文章，是对 Anthropic 此前关于 使用内部系统取代 Git \" 的报道的补充说明。此前，该公司的单体仓库（monorepo）合并变更量从 5 月的每日约 2500…"
-  },
-  {
-    "id": "科技-超能网-http://www.expreview.com/109556.html",
-    "feed_name": "超能网",
-    "category": "科技",
-    "title": "谷歌将直接采购HBM用于TPU：降低与博通相关成本",
-    "link": "http://www.expreview.com/109556.html",
-    "pub_date": "2026-11-19 11:50:00",
-    "author": "吕嘉俭",
-    "description": "据TrendForce报道，谷歌打算直接采购HBM用于TPU，这标志着与芯片设计合作伙伴博通之间的关系发生变化，不再采用捆绑采购协议的方式。有分析指出，这是谷歌在基础设施支出持续加速的情况下，提高对AI芯片成本控制权的努力之一。 分析指出，这一转变也可能对三星、SK海力士和美光等主要存储器供应商产生影响。客户对HBM采购拥有更大的控制权可能会提升供应价格和合同条款的谈判难度，迫使DRAM制造商更倾向于维护盈利能力。尽管目前HBM供应短缺…",
-    "content": "据TrendForce 报道 ，谷歌打算直接采购HBM用于TPU，这标志着与芯片设计合作伙伴博通之间的关系发生变化，不再采用捆绑采购协议的方式。有分析指出，这是谷歌在基础设施支出持续加速的情况下，提高对AI芯片成本控制权的努力之一。 分析指出，这一转变也可能对三星、SK海力士和美光等主要存储器供应商产生影响。客户对HBM采购拥有更大的控制权可能会提升供应价格和合同条款的谈判难度，迫使DRAM制造商更倾向于维护盈利能力。尽管目前HBM供应短缺和现有合同条款对DRAM供应商有利，但是一些长期供应合同已经包含价格上限，随…"
-  },
-  {
-    "id": "科技-超能网-http://www.expreview.com/109553.html",
-    "feed_name": "超能网",
-    "category": "科技",
-    "title": "英伟达推出Nemotron for Science：借助智能体加速科学发现",
-    "link": "http://www.expreview.com/109553.html",
-    "pub_date": "2026-11-19 11:46:00",
-    "author": "吕嘉俭",
-    "description": "英伟达宣布，推出Nemotron for Science，这是整合其NVIDIA Nemotron 3.5 Super VL开放模型的科学应用、全新开放化学数据集及后训练方案，助力科研人员构建用于科学发现的专用智能体，可适配化学实验、蛋白质设计等专业任务。 英伟达超大规模与高性能计算副总裁Ian Buck表示：“加速计算正在改变科学家应对全球极为复杂挑战的方式。NVIDIA Nemotron for Science为科研人员提供开放模型…",
-    "content": "英伟达 宣布 ，推出Nemotron for Science，这是整合其NVIDIA Nemotron 3.5 Super VL开放模型的科学应用、全新开放化学数据集及后训练方案，助力科研人员构建用于科学发现的专用智能体，可适配化学实验、蛋白质设计等专业任务。 英伟达超大规模与高性能计算副总裁Ian Buck表示：“加速计算正在改变科学家应对全球极为复杂挑战的方式。NVIDIA Nemotron for Science为科研人员提供开放模型、科学数据和后训练方案，助力其构建能够针对科学问题进行推理的专用智能体，并借…"
-  },
-  {
-    "id": "科技-雷峰网-https://www.leiphone.com/category/industrynews/98sAVeAaYPhJQvgY.html",
-    "feed_name": "雷峰网",
-    "category": "科技",
-    "title": "AI 已经进入企业，为什么组织还没有进化？",
-    "link": "https://www.leiphone.com/category/industrynews/98sAVeAaYPhJQvgY.html",
-    "pub_date": "2026-11-19 11:17:00",
-    "author": "",
-    "description": "导语： 十年前看人工智能，十年后看智能组织。 十年前看人工智能，十年后看智能组织。 作者丨成妍菁 编辑丨胡 敏 最近与AI圈子的人聊，普遍谈到一个点，人已经接受AI提效，但企业还没准备好。（雷峰网(公众号：雷峰网)雷峰网雷峰网） 一边是员工已经在用agent 干活、甚至开始自己搭小系统；另一边是公司的KPI、审批链、汇报节奏，还按着三年前的样子在转。 Deloitte近期的调查显示，近四分之三的美国企业高管预计，未来四年，约一半业务流程…",
-    "content": "导语：&nbsp;十年前看人工智能，十年后看智能组织。 &nbsp; 十年前看人工智能，十年后看智能组织。 &nbsp; &nbsp; 作者丨 成妍菁 &nbsp; &nbsp; 编辑丨 胡 &nbsp; 敏 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &…"
-  },
-  {
-    "id": "科技-InfoQ 中文-https://www.infoq.cn/article/aYOP1HZW5bbdhSmzSuaP",
-    "feed_name": "InfoQ 中文",
-    "category": "科技",
-    "title": "老黄离职后首次全员大会：提前涨薪发股票，不会寻找“黄仁勋的克隆人”！贝索斯：外部 CEO 很难成功",
-    "link": "https://www.infoq.cn/article/aYOP1HZW5bbdhSmzSuaP",
-    "pub_date": "2026-11-19 11:00:00",
-    "author": "",
-    "description": "黄仁勋离开英伟达一周后，这家 AI 芯片巨头召开了一场不同寻常的全体员工大会。 过去 33 年，英伟达的员工早已习惯在季度全员大会上看到黄仁勋。对部分员工而言，他的内部分享不仅是公司经营情况的通报，更像是一场备受期待的演出。但这一次，站在台前的换成了临时 CEO Colette Kress。 是的，这场全员大会没有黄仁勋，也没有人能够立即替代他。 11 月 18 日，据 WIRED 获得的会议发言内容，Kress 在会议开始仅几分钟后，…",
-    "content": "黄仁勋离开英伟达一周后，这家 AI 芯片巨头召开了一场不同寻常的全体员工大会。 过去 33 年，英伟达的员工早已习惯在季度全员大会上看到黄仁勋。对部分员工而言，他的内部分享不仅是公司经营情况的通报，更像是一场备受期待的演出。但这一次，站在台前的换成了临时 CEO Colette Kress。 是的，这场全员大会没有黄仁勋，也没有人能够立即替代他。 11 月 18 日，据 WIRED 获得的会议发言内容，Kress 在会议开始仅几分钟后，就向员工宣布了一项重要决定：公司将在 12 月提前为员工加薪，并增加股权激励，比…"
-  },
-  {
-    "id": "科技-InfoQ 中文-https://www.infoq.cn/article/eO0w7sdaGClvppFqwt5j",
-    "feed_name": "InfoQ 中文",
-    "category": "科技",
-    "title": "Bug0 发布 QA Agent，利用缓存的 Playwright 回放实现回归测试自动化",
-    "link": "https://www.infoq.cn/article/eO0w7sdaGClvppFqwt5j",
-    "pub_date": "2026-11-19 11:00:00",
-    "author": "",
-    "description": "Linearbytes\" 发布了 Bug0 QA Agent\"，这是一个用于代理式浏览器回归测试的开源 Playwright 库。该 AI 代理能够将以自然语言表达的测试指令与用户界面操作关联起来，在适当情况下缓存这些操作以加快持续集成（CI）的重放速度，并在用户界面发生变化时将其重新映射到测试规范。验证过程基于最多三个大语言模型（LLM）达成的共识以及视觉模型的评估结果。 一方面，虽然传统的 Web 应用程序测试方法在很大程度上实现了…",
-    "content": "Linearbytes \" 发布了 Bug0 QA Agent \"，这是一个用于代理式浏览器回归测试的开源 Playwright 库。该 AI 代理能够将以自然语言表达的测试指令与用户界面操作关联起来，在适当情况下缓存这些操作以加快持续集成（CI）的重放速度，并在用户界面发生变化时将其重新映射到测试规范。验证过程基于最多三个大语言模型（LLM）达成的共识以及视觉模型的评估结果。 一方面，虽然传统的 Web 应用程序测试方法在很大程度上实现了自动化，但并未将人工智能作为提高生产力的关键因素。而另一方面，创新团队则采用…"
-  },
-  {
-    "id": "科技-爱范儿-https://www.ifanr.com/1690288?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "feed_name": "爱范儿",
-    "category": "科技",
-    "title": "刚拒绝黄仁勋回归，英伟达官宣全员加薪，热门接班人曝光",
-    "link": "https://www.ifanr.com/1690288?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "pub_date": "2026-11-19 10:59:25",
-    "author": "",
-    "description": "英伟达何去何从 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-    "content": "英伟达何去何从 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
-  },
-  {
-    "id": "科技-雷峰网-https://www.leiphone.com/category/industrynews/L9tleA0kDSyrruLn.html",
-    "feed_name": "雷峰网",
-    "category": "科技",
-    "title": "阿里樊路远离场，虎鲸文娱去向何方？",
-    "link": "https://www.leiphone.com/category/industrynews/L9tleA0kDSyrruLn.html",
-    "pub_date": "2026-11-19 10:53:00",
-    "author": "",
-    "description": "导语：执掌大文娱八年，阿里悍将也要去创业。 “其实从三个月前就传来老樊要走，只是一直在交接流程。” “去年四月老樊的任期就多延长了一年。” 多位大厂人士对雷峰网表示，阿里虎鲸文娱CEO樊路远离职的消息内部早就有所传闻。 11月16日，大麦娱乐发布公告，樊路远辞任执行董事、董事会主席及CEO，理由是“专注发展个人事业”。 对于老樊接下来的创业方向，有知情人士表示会聚焦于AI领域，但做游戏的可能性不大。 樊路远在阿里体系内工作近20年，有报…",
-    "content": "导语：执掌大文娱八年，阿里悍将也要去创业。&nbsp; “其实从三个月前就传来老樊要走，只是一直在交接流程。” “去年四月老樊的任期就多延长了一年。” 多位大厂人士对雷峰网表示，阿里虎鲸文娱CEO樊路远离职的消息内部早就有所传闻。 11月16日，大麦娱乐发布公告，樊路远辞任执行董事、董事会主席及CEO，理由是“专注发展个人事业”。 对于老樊接下来的创业方向，有知情人士表示会聚焦于AI领域，但做游戏的可能性不大。 樊路远在阿里体系内工作近20年，有报道称，他也是大文娱自2016年组建以来任期最长的一号位。 往近看，樊…"
-  },
-  {
-    "id": "科技-InfoQ 中文-https://www.infoq.cn/article/UEZ4CPEr1vyESW6z647r",
-    "feed_name": "InfoQ 中文",
-    "category": "科技",
-    "title": "微软将停用 Azure 部署环境，而且不会推出替代产品",
-    "link": "https://www.infoq.cn/article/UEZ4CPEr1vyESW6z647r",
-    "pub_date": "2026-11-19 10:00:00",
-    "author": "",
-    "description": "微软将逐步停用其 Azure 开发环境服务的两个组成部分。Azure 部署环境\"将于 2027 年 2 月 22 日停用，而且不会有后续产品。Microsoft Dev Box\" 则将于 2028 年 9 月 18 日停用，取而代之的是 Windows 365——微软已明确表示，后者并非等效的替代方案。 部署环境停用指南\"中列出了替代方案，但其中没有一款是产品。微软建议“使用 Azure Resource Manager 模板或 Bic…",
-    "content": "微软将逐步停用其 Azure 开发环境服务的两个组成部分。 Azure 部署环境 \"将于 2027 年 2 月 22 日停用，而且不会有后续产品。 Microsoft Dev Box \" 则将于 2028 年 9 月 18 日停用，取而代之的是 Windows 365——微软已明确表示，后者并非等效的替代方案。 部署环境停用指南 \"中列出了替代方案，但其中没有一款是产品。微软建议“使用 Azure Resource Manager 模板或 Bicep 直接进行基础设施即代码部署”，当团队“需要标准化、受管控的构建块…"
-  },
-  {
-    "id": "科技-InfoQ 中文-https://www.infoq.cn/article/u8eHrtbbchlNRkP94ALh",
-    "feed_name": "InfoQ 中文",
-    "category": "科技",
-    "title": "从可用到好用：Agent 的观测、评估与持续优化｜AICon北京",
-    "link": "https://www.infoq.cn/article/u8eHrtbbchlNRkP94ALh",
-    "pub_date": "2026-11-19 10:00:00",
-    "author": "",
-    "description": "当 Agent 真正进入企业流程，哪些工作可以交给 AI ？50 + 实战案例揭晓答案！ AI 正在从回答问题的辅助工具，走向理解目标、调用系统、完成任务的工作承担者。当 Agent 真正进入企业流程，问题不再是 “如何把 AI 做出来”，而是哪些工作可以交给 AI、结果如何验收、权限、成本与风险如何收住。随着大模型向推理、工具调用、多模态和长任务延伸，开发重心正从单次调用转向上下文、工具、执行环境与反馈回路的设计，Coding Age…",
-    "content": "当 Agent 真正进入企业流程，哪些工作可以交给 AI ？50 + 实战案例揭晓答案！ AI 正在从回答问题的辅助工具，走向理解目标、调用系统、完成任务的工作承担者。当 Agent 真正进入企业流程，问题不再是 “如何把 AI 做出来”，而是哪些工作可以交给 AI、结果如何验收、权限、成本与风险如何收住。随着大模型向推理、工具调用、多模态和长任务延伸，开发重心正从单次调用转向上下文、工具、执行环境与反馈回路的设计，Coding Agent 也从代码补全演进为能理解代码库、运行测试、完成复杂任务的工程协作者。Ope…"
-  },
-  {
-    "id": "科技-The Verge-https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
-    "feed_name": "The Verge",
-    "category": "科技",
-    "title": "Elon Musk tries to explain what&#8217;s going on with Ukraine and Starlink",
-    "link": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
-    "pub_date": "2026-11-19 09:39:45",
-    "author": "Jay Peters",
-    "description": "Elon Musk said Ukrainian president Volodymyr Zelenskyy is lying about disruptions to Starshield in Ukraine and that he's trying to misuse SpaceX's consumer service, Starlink, for military purposes. Musk made the comments…",
-    "content": "Elon Musk said Ukrainian president Volodymyr Zelenskyy is lying about disruptions to Starshield in Ukraine and that he's trying to misuse SpaceX's consumer service, Starlink, for military purposes. Musk made the comments at The New York Times ' DealBook Summit…"
-  },
-  {
-    "id": "科技-极客公园-http://www.geekpark.net/news/374177",
-    "feed_name": "极客公园",
-    "category": "科技",
-    "title": "WorkBuddy 日活超过 1000 万；曝英伟达未投企业责任险，或因黄仁勋事件遭巨额索赔；DeepSeek 再调整 API 计费 | 极客早知道",
-    "link": "http://www.geekpark.net/news/374177",
-    "pub_date": "2026-11-19 09:03:37",
-    "author": "",
-    "description": "黄仁勋辞职风波升级：英伟达遭两起证券欺诈诉讼，公司自身却未投保企业责任险 11 月 18 日消息，据路透社报道，英伟达为公司高管和董事购买了责任保险，最高赔付额度达 9.5 亿美元，但公司自身没有购买通常用于覆盖证券诉讼辩护费用、和解金与判决赔偿的企业责任保险。 这意味着，如果围绕黄仁勋突然辞去 CEO 职务引发的诉讼最终胜诉，涉及股价暴跌的赔偿需要由公司自行承担。英伟达目前持有超过 500 亿美元现金储备。自 11 月 8 日黄仁勋承…",
-    "content": "黄仁勋辞职风波升级：英伟达遭两起证券欺诈诉讼，公司自身却未投保企业责任险 11 月 18 日消息，据路透社报道，英伟达为公司高管和董事购买了责任保险，最高赔付额度达 9.5 亿美元，但公司自身没有购买通常用于覆盖证券诉讼辩护费用、和解金与判决赔偿的企业责任保险。 这意味着，如果围绕黄仁勋突然辞去 CEO 职务引发的诉讼最终胜诉，涉及股价暴跌的赔偿需要由公司自行承担。英伟达目前持有超过 500 亿美元现金储备。自 11 月 8 日黄仁勋承认对妻子不忠以来，针对英伟达及相关人员的诉讼至少已有两起，其中包括一名个人股东在…"
-  },
-  {
-    "id": "科技-雷峰网-https://www.leiphone.com/category/zaobao/wMg9SCFKwT7JSsGq.html",
-    "feed_name": "雷峰网",
-    "category": "科技",
-    "title": "英伟达临时CEO称将不再向中国出货H200芯片；一天之内173名管理人员被免，宗馥莉大规模「动刀」；英特尔被曝再度裁员，波及全球IT员工",
-    "link": "https://www.leiphone.com/category/zaobao/wMg9SCFKwT7JSsGq.html",
-    "pub_date": "2026-11-19 08:59:00",
-    "author": "",
-    "description": "导语：早报来啦~ 要闻提示 1.英特尔被曝再度裁员，波及全球IT员工 2.英伟达临时CEO称将不再向中国出货H200芯片，外交部回应 3.权志龙母公司将推机器人女团，与宇树合作的K-pop演唱会12月首演 4.宗馥莉再掀人事风暴：173名管理人员被免职 5.最高涨560元！大疆两款手持云台相机涨价 6.腾讯第三季度营收2073亿元，WorkBuddy日活超千万 7.张朝阳再度回应搜狐“躺平”：大模型投入太大，没资源来做这个事情 8.英伟…",
-    "content": "导语：早报来啦~ 要闻提示 1.英特尔被曝再度裁员，波及全球IT员工 2.英伟达临时CEO称将不再向中国出货H200芯片，外交部回应 3.权志龙母公司将推机器人女团，与宇树合作的K-pop演唱会12月首演 4.宗馥莉再掀人事风暴：173名管理人员被免职 5.最高涨560元！大疆两款手持云台相机涨价 6.腾讯第三季度营收2073亿元，WorkBuddy日活超千万 7.张朝阳再度回应搜狐“躺平”：大模型投入太大，没资源来做这个事情 8.英伟达员工大会宣布告别“黄仁勋时代”：12 月员工加薪，启动新 CEO 遴选 今日头…"
-  },
-  {
-    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-    "feed_name": "TechCrunch",
-    "category": "科技",
-    "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-    "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-    "pub_date": "2026-11-19 08:42:56",
-    "author": "",
-    "description": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short an…",
-    "content": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might…"
-  },
-  {
-    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
-    "feed_name": "TechCrunch",
-    "category": "科技",
-    "title": "Elon Musk says: ‘I’m not MAGA’",
-    "link": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
-    "pub_date": "2026-11-19 08:40:49",
-    "author": "",
-    "description": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent so much money during…",
-    "content": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent so much money during the U.S. midterms."
-  },
-  {
-    "id": "科技-爱范儿-https://www.ifanr.com/1690255?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "feed_name": "爱范儿",
-    "category": "科技",
-    "title": "早报｜GTA6开售，评分破纪录/大疆多款相机涨价/豆包工作三个月日活破800万",
-    "link": "https://www.ifanr.com/1690255?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "pub_date": "2026-11-19 08:36:04",
-    "author": "",
-    "description": "· Google 发布 Gemini 4 Neon，主打复杂任务与更低单次成本 · 英伟达员工大会：董事会不让黄仁勋回归，临时 CEO 承诺涨薪 · 英特尔再裁全球 IT 员工，继续推进组织精简 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-    "content": "· Google 发布 Gemini 4 Neon，主打复杂任务与更低单次成本 · 英伟达员工大会：董事会不让黄仁勋回归，临时 CEO 承诺涨薪 · 英特尔再裁全球 IT 员工，继续推进组织精简 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
-  },
-  {
-    "id": "科技-爱范儿-https://www.ifanr.com/1690235?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "feed_name": "爱范儿",
-    "category": "科技",
-    "title": "刚刚，Gemini 4 Neon 突袭发布，性价比一夜斩杀 Opus 5.5",
-    "link": "https://www.ifanr.com/1690235?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "pub_date": "2026-11-19 07:56:47",
-    "author": "",
-    "description": "性能更强，还更便宜 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-    "content": "性能更强，还更便宜 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
-  },
-  {
-    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-    "feed_name": "TechCrunch",
-    "category": "科技",
-    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-    "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-    "pub_date": "2026-11-19 07:45:00",
-    "author": "",
-    "description": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
-    "content": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world."
-  },
-  {
-    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-    "feed_name": "TechCrunch",
-    "category": "科技",
-    "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-    "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-    "pub_date": "2026-11-19 07:25:17",
-    "author": "",
-    "description": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
-    "content": "“I don’t think [Huang is] disloyal to the United States,\" Musk said."
-  },
-  {
-    "id": "科技-Ars Technica-https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
-    "feed_name": "Ars Technica",
-    "category": "科技",
-    "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
-    "link": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
-    "pub_date": "2026-11-19 07:25:04",
-    "author": "",
-    "description": "Democrats try to prevent quorum, say Thumann lied about not working on media issues.",
-    "content": "Democrats try to prevent quorum, say Thumann lied about not working on media issues."
-  },
-  {
-    "id": "科技-The Verge-https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
-    "feed_name": "The Verge",
-    "category": "科技",
-    "title": "The nation’s largest school districts consider ditching Google Search",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
-    "pub_date": "2026-11-19 07:18:35",
-    "author": "Terrence O’Brien",
-    "description": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next yea…",
-    "content": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times . Starting next year, schools will not have the option to …"
-  },
-  {
-    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-    "feed_name": "TechCrunch",
-    "category": "科技",
-    "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-    "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-    "pub_date": "2026-11-19 07:17:28",
-    "author": "",
-    "description": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
-    "content": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO."
-  },
-  {
-    "id": "科技-Ars Technica-https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
-    "feed_name": "Ars Technica",
-    "category": "科技",
-    "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
-    "link": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
-    "pub_date": "2026-11-19 07:10:39",
-    "author": "",
-    "description": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
-    "content": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary."
-  },
-  {
-    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-    "feed_name": "TechCrunch",
-    "category": "科技",
-    "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-    "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-    "pub_date": "2026-11-19 06:58:11",
-    "author": "",
-    "description": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
-    "content": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers."
-  },
-  {
-    "id": "科技-Wired-https://www.wired.com/story/guys-really-we-got-this/",
-    "feed_name": "Wired",
-    "category": "科技",
-    "title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
-    "link": "https://www.wired.com/story/guys-really-we-got-this/",
-    "pub_date": "2026-11-19 06:16:23",
-    "author": "",
-    "description": "WIRED is tallying up how many times Nvidia’s interim CEO has assured everyone that the company has everything under control.",
-    "content": "WIRED is tallying up how many times Nvidia’s interim CEO has assured everyone that the company has everything under control."
-  },
-  {
-    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-    "feed_name": "TechCrunch",
-    "category": "科技",
-    "title": "Anthropic prices IPO at $83 a share, above projected range",
-    "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-    "pub_date": "2026-11-19 06:11:15",
-    "author": "",
-    "description": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
-    "content": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis."
-  },
-  {
-    "id": "科技-Ars Technica-https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/",
-    "feed_name": "Ars Technica",
-    "category": "科技",
-    "title": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
-    "link": "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/",
-    "pub_date": "2026-11-19 06:08:57",
-    "author": "",
-    "description": "\"This time requires leadership and fortitude,\" Senator Bill Cassidy said.",
-    "content": "\"This time requires leadership and fortitude,\" Senator Bill Cassidy said."
-  },
-  {
-    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/",
-    "feed_name": "TechCrunch",
-    "category": "科技",
-    "title": "Palmer Luckey doesn’t deny that he’s a prepper",
-    "link": "https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/",
-    "pub_date": "2026-11-19 06:04:03",
-    "author": "",
-    "description": "The Anduril founder said Wednesday that Americans should always have three days of food, water, and medicine — just in case.",
-    "content": "The Anduril founder said Wednesday that Americans should always have three days of food, water, and medicine — just in case."
-  },
-  {
-    "id": "科技-Wired-https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
-    "feed_name": "Wired",
-    "category": "科技",
-    "title": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
-    "link": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
-    "pub_date": "2026-11-19 06:00:00",
-    "author": "",
-    "description": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say.",
-    "content": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say."
-  },
-  {
-    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
-    "feed_name": "TechCrunch",
-    "category": "科技",
-    "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
-    "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
-    "pub_date": "2026-11-19 05:57:40",
-    "author": "",
-    "description": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
-    "content": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks."
-  },
-  {
-    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
-    "feed_name": "TechCrunch",
-    "category": "科技",
-    "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
-    "link": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
-    "pub_date": "2026-11-19 05:34:13",
-    "author": "",
-    "description": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
-    "content": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks."
-  },
-  {
-    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
-    "feed_name": "TechCrunch",
-    "category": "科技",
-    "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
-    "link": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
-    "pub_date": "2026-11-19 05:31:21",
-    "author": "",
-    "description": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
-    "content": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang."
-  },
-  {
-    "id": "科技-Ars Technica-https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/",
-    "feed_name": "Ars Technica",
-    "category": "科技",
-    "title": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",
-    "link": "https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/",
-    "pub_date": "2026-11-19 05:29:24",
-    "author": "",
-    "description": "CEO Ted Sarandos discusses gaps in making hit shows that streamers can find.",
-    "content": "CEO Ted Sarandos discusses gaps in making hit shows that streamers can find."
-  },
-  {
-    "id": "科技-Wired-https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
-    "feed_name": "Wired",
-    "category": "科技",
-    "title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
-    "link": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
-    "pub_date": "2026-11-19 05:15:00",
-    "author": "",
-    "description": "The Trump administration announced plans to clamp down on China’s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing.",
-    "content": "The Trump administration announced plans to clamp down on China’s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing."
-  },
-  {
-    "id": "科技-Ars Technica-https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
-    "feed_name": "Ars Technica",
-    "category": "科技",
-    "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
-    "link": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
-    "pub_date": "2026-11-19 04:41:12",
-    "author": "",
-    "description": "Hardened defaults align with DoD standards, but there may be growing pains.",
-    "content": "Hardened defaults align with DoD standards, but there may be growing pains."
-  },
-  {
-    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
-    "feed_name": "TechCrunch",
-    "category": "科技",
-    "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
-    "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
-    "pub_date": "2026-11-19 04:07:01",
-    "author": "",
-    "description": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
-    "content": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said."
-  },
-  {
-    "id": "科技-Wired-https://www.wired.com/story/australia-neil-the-seal-management-plan/",
-    "feed_name": "Wired",
-    "category": "科技",
-    "title": "Australia’s Plan to Manage Neil the Unruly Seal Involves ‘Hazing’ and ‘Seal Enrichment’",
-    "link": "https://www.wired.com/story/australia-neil-the-seal-management-plan/",
-    "pub_date": "2026-11-19 03:59:15",
-    "author": "",
-    "description": "The new 27-page document lays out how to keep the Tasmania’s viral marine mammal from wreaking havoc when he comes ashore.",
-    "content": "The new 27-page document lays out how to keep the Tasmania’s viral marine mammal from wreaking havoc when he comes ashore."
-  },
-  {
-    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
-    "feed_name": "TechCrunch",
-    "category": "科技",
-    "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
-    "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
-    "pub_date": "2026-11-19 03:56:39",
-    "author": "",
-    "description": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
-    "content": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says."
-  },
-  {
-    "id": "科技-Wired-https://www.wired.com/story/13-years-of-anticipation-deserves-a-day-off-the-gta-vi-work-blackout-is-here/",
-    "feed_name": "Wired",
-    "category": "科技",
-    "title": "The ‘GTA 6’ Work Blackout Is Here",
-    "link": "https://www.wired.com/story/13-years-of-anticipation-deserves-a-day-off-the-gta-vi-work-blackout-is-here/",
-    "pub_date": "2026-11-19 03:34:55",
-    "author": "",
-    "description": "From taking sick days and vacation days to gaming at the office, many are going all out to embrace the franchise’s long-awaited release.",
-    "content": "From taking sick days and vacation days to gaming at the office, many are going all out to embrace the franchise’s long-awaited release."
-  },
-  {
-    "id": "科技-Ars Technica-https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
-    "feed_name": "Ars Technica",
-    "category": "科技",
-    "title": "Best Buy sells Blu-rays online and in-store again",
-    "link": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
-    "pub_date": "2026-11-19 03:31:17",
-    "author": "",
-    "description": "Popular titles like The Odyssey are being “sold & shipped by Best Buy.\"",
-    "content": "Popular titles like The Odyssey are being “sold &#038; shipped by Best Buy.\""
-  },
-  {
-    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
-    "feed_name": "TechCrunch",
-    "category": "科技",
-    "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
-    "link": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
-    "pub_date": "2026-11-19 03:29:41",
-    "author": "",
-    "description": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
-    "content": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents."
-  },
-  {
-    "id": "科技-Ars Technica-https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
-    "feed_name": "Ars Technica",
-    "category": "科技",
-    "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
-    "link": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
-    "pub_date": "2026-11-19 03:19:33",
-    "author": "",
-    "description": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says.",
-    "content": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says."
-  },
-  {
-    "id": "科技-Wired-https://www.wired.com/story/best-early-black-friday-phone-deals-11-18-26/",
-    "feed_name": "Wired",
-    "category": "科技",
-    "title": "Best Early Black Friday Phone Deals (2026)",
-    "link": "https://www.wired.com/story/best-early-black-friday-phone-deals-11-18-26/",
-    "pub_date": "2026-11-19 03:17:06",
-    "author": "",
-    "description": "As the holidays creep closer, I’m already seeing some tempting early Black Friday phone deals.",
-    "content": "As the holidays creep closer, I’m already seeing some tempting early Black Friday phone deals."
-  },
-  {
-    "id": "科技-Wired-https://www.wired.com/story/ai-debt-collection-service-exposed-66-million-accounts-and-315000-call-recordings/",
-    "feed_name": "Wired",
-    "category": "科技",
-    "title": "An AI Debt Collection Service Exposed 6.6 Million Accounts and 315,000 Call Recordings",
-    "link": "https://www.wired.com/story/ai-debt-collection-service-exposed-66-million-accounts-and-315000-call-recordings/",
-    "pub_date": "2026-11-19 03:00:00",
-    "author": "",
-    "description": "A pair of serious vulnerabilities in the CreditNirvana platform would have allowed attackers to access troves of detailed sensitive information, including emails, texts, and credit reports.",
-    "content": "A pair of serious vulnerabilities in the CreditNirvana platform would have allowed attackers to access troves of detailed sensitive information, including emails, texts, and credit reports."
-  },
-  {
-    "id": "科技-Ars Technica-https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/",
-    "feed_name": "Ars Technica",
-    "category": "科技",
-    "title": "Trump admin orders Kalshi to halt wagers on what words Trump will say",
-    "link": "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/",
-    "pub_date": "2026-11-19 02:46:08",
-    "author": "",
-    "description": "CFTC: Kalshi bets may violate US ban on contracts that can be easily manipulated.",
-    "content": "CFTC: Kalshi bets may violate US ban on contracts that can be easily manipulated."
-  },
-  {
-    "id": "科技-Ars Technica-https://arstechnica.com/health/2026/11/the-shameful-measles-data-that-lost-the-us-its-elimination-status/",
-    "feed_name": "Ars Technica",
-    "category": "科技",
-    "title": "The \"shameful\" measles data that lost the US its elimination status",
-    "link": "https://arstechnica.com/health/2026/11/the-shameful-measles-data-that-lost-the-us-its-elimination-status/",
-    "pub_date": "2026-11-19 02:30:23",
-    "author": "",
-    "description": "Measles became endemic in the US months ago—and it's only accelerating.",
-    "content": "Measles became endemic in the US months ago—and it's only accelerating."
-  },
-  {
-    "id": "科技-Ars Technica-https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
-    "feed_name": "Ars Technica",
-    "category": "科技",
-    "title": "Will Wright's next simulation will use AI to mine content from your memories",
-    "link": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
-    "pub_date": "2026-11-19 02:10:33",
-    "author": "",
-    "description": "With MyMems, Wright says he wants to \"turn the simulation inward.\"",
-    "content": "With MyMems , Wright says he wants to \"turn the simulation inward.\""
-  },
-  {
-    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
-    "feed_name": "TechCrunch",
-    "category": "科技",
-    "title": "Google’s AI feature in Search gets its own incognito mode",
-    "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
-    "pub_date": "2026-11-19 02:04:05",
-    "author": "",
-    "description": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
-    "content": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations."
   }
 ];
 
