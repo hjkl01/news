@@ -1,5 +1,225 @@
 const jsonData = [
   {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-20 21:52:04",
+    "author": "",
+    "description": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+    "content": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "White House removes cyber-security chief after series of tech outages",
+    "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-20 21:28:32",
+    "author": "",
+    "description": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
+    "content": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+    "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-20 21:01:16",
+    "author": "",
+    "description": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
+    "content": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
+    "link": "https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain",
+    "pub_date": "2026-11-20 20:24:40",
+    "author": "",
+    "description": "The same day Dennes was given lethal injection, Florida carried out a record-breaking 20th execution of the year.",
+    "content": "The same day Dennes was given lethal injection, Florida carried out a record-breaking 20th execution of the year."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
+    "link": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
+    "pub_date": "2026-11-20 20:04:57",
+    "author": "",
+    "description": "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could become dangerous.",
+    "content": "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could become dangerous."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/sections/planet-money/2026/11/20/nx-s1-6047750/just-how-vulnerable-are-we-to-cyberattacks",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Just how vulnerable are we to cyberattacks?",
+    "link": "https://www.npr.org/sections/planet-money/2026/11/20/nx-s1-6047750/just-how-vulnerable-are-we-to-cyberattacks",
+    "pub_date": "2026-11-20 20:00:00",
+    "author": "",
+    "description": "In a week of outages, we're thinking about the rising threat of AI-powered cyberattacks. But sometimes, it's not the most sophisticated attack that's concerning, but the easy targets buried in old software.",
+    "content": "In a week of outages, we're thinking about the rising threat of AI-powered cyberattacks. But sometimes, it's not the most sophisticated attack that's concerning, but the easy targets buried in old software."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Senate passes bipartisan energy bill amid environmental concerns",
+    "link": "https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill",
+    "pub_date": "2026-11-20 19:00:28",
+    "author": "",
+    "description": "As Americans struggle with rising energy costs and increased demand driven by AI, the Senate passed a bipartisan bill that will speed up the approval process for data centers and power plants.",
+    "content": "As Americans struggle with rising energy costs and increased demand driven by AI, the Senate passed a bipartisan bill that will speed up the approval process for data centers and power plants."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Nearly 600 women killed in South Africa within three months",
+    "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-20 18:56:02",
+    "author": "",
+    "description": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
+    "content": "Police officials called for \"greater efforts to prevent... violence\" against women and children."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "South Korea catches 111 students with new measures against exam cheating",
+    "link": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-20 18:16:19",
+    "author": "",
+    "description": "The students were caught with banned smart devices while taking the high-stakes Suneung exam.",
+    "content": "The students were caught with banned smart devices while taking the high-stakes Suneung exam."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "New York City unveils a bold plan to move its jails off Rikers Island",
+    "link": "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model",
+    "pub_date": "2026-11-20 18:00:00",
+    "author": "",
+    "description": "New York City officials are moving forward with plans to close Rikers, the city's main jail complex, after years of discussion. The jail has been plagued by assaults and inmate deaths.",
+    "content": "New York City officials are moving forward with plans to close Rikers, the city's main jail complex, after years of discussion. The jail has been plagued by assaults and inmate deaths."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/20/nx-s1-6038969/trump-crypto-profits-corruption-meme-coin-world-liberty-explainer",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "How exactly did Trump get so rich on crypto? We explain",
+    "link": "https://www.npr.org/2026/11/20/nx-s1-6038969/trump-crypto-profits-corruption-meme-coin-world-liberty-explainer",
+    "pub_date": "2026-11-20 18:00:00",
+    "author": "",
+    "description": "President Trump has made billions of dollars in his second term — most of it in cryptocurrencies. Democrats are vowing to probe his businesses as they gear up to take over Congress next year.",
+    "content": "President Trump has made billions of dollars in his second term — most of it in cryptocurrencies. Democrats are vowing to probe his businesses as they gear up to take over Congress next year."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/20/g-s1-154337/florida-starship-bond-schumer-ai-flu-alaska-news-quiz",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Critics are calling what brand-new release a masterpiece? The quiz knows",
+    "link": "https://www.npr.org/2026/11/20/g-s1-154337/florida-starship-bond-schumer-ai-flu-alaska-news-quiz",
+    "pub_date": "2026-11-20 18:00:00",
+    "author": "",
+    "description": "Plus: Are you up to date on your James Bond news? If so, you'll get at least one question right.",
+    "content": "Plus: Are you up to date on your James Bond news? If so, you'll get at least one question right."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/20/nx-s1-6045879/young-people-record-their-older-relatives-for-the-great-listen",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Young people record their older relatives for The Great Listen",
+    "link": "https://www.npr.org/2026/11/20/nx-s1-6045879/young-people-record-their-older-relatives-for-the-great-listen",
+    "pub_date": "2026-11-20 17:41:31",
+    "author": "",
+    "description": "Young people sit down to record their elders as part of the annual holiday tradition from StoryCorps called The Great Listen.",
+    "content": "Young people sit down to record their elders as part of the annual holiday tradition from StoryCorps called The Great Listen."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "The U.K. and EU hold a rare summit to strengthen ties",
+    "link": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
+    "pub_date": "2026-11-20 17:14:41",
+    "author": "",
+    "description": "A decade after the people of Britain voted to leave the European Union, top EU officials are meeting with Prime Minister Andy Burnham on Friday, looking to mend more fences.",
+    "content": "A decade after the people of Britain voted to leave the European Union, top EU officials are meeting with Prime Minister Andy Burnham on Friday, looking to mend more fences."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cm3rgnvxj339o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Nigeria moves to end jail terms for attempted suicide",
+    "link": "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-20 14:32:17",
+    "author": "",
+    "description": "Nigeria's proposed reform follows years of calls from psychiatrists and a parallel Senate bill.",
+    "content": "Nigeria's proposed reform follows years of calls from psychiatrists and a parallel Senate bill."
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261120/nvidia-chips-commerce-china-huang/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "英伟达曾申请向中国涉军企业出售芯片，获商务部批准",
+    "link": "https://cn.nytimes.com/business/20261120/nvidia-chips-commerce-china-huang/dual",
+    "pub_date": "2026-11-20 14:06:04",
+    "author": "",
+    "description": "ANA SWANSON, CECILIA KANG2026年11月20日 Lawmakers released confidential information on Thursday showing that the Commerce Department had approved the sale of more than 800,000 advanced A.I. chips to Chinese companies for th…",
+    "content": "ANA SWANSON, CECILIA KANG 2026年11月20日 Lawmakers released confidential information on Thursday showing that the Commerce Department had approved the sale of more than 800,000 advanced A.I. chips to Chinese companies for the year, as of May 11, including several…"
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "More climate money for Africa? Europe says use what's already pledged",
+    "link": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-20 13:03:43",
+    "author": "",
+    "description": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
+    "content": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change."
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261120/trump-summit-power/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "特朗普试图在国际舞台展示权力，在国内却将被迫分享权力",
+    "link": "https://cn.nytimes.com/world/20261120/trump-summit-power/dual",
+    "pub_date": "2026-11-20 12:36:04",
+    "author": "",
+    "description": "PETER BAKER2026年11月20日周四在中国深圳举行的三方会晤让特朗普总统获得了一个求之不得的喘息机会。长期以来，他一直对俄罗斯总统普京和中国国家主席习近平这样的威权领导人表示钦佩。 Doug Mills/The New York Times This was the picture President Trump wanted for years: a trio of global titans sitting down t…",
+    "content": "PETER BAKER 2026年11月20日 周四在中国深圳举行的三方会晤让特朗普总统获得了一个求之不得的喘息机会。长期以来，他一直对俄罗斯总统普京和中国国家主席习近平这样的威权领导人表示钦佩。 Doug Mills/The New York Times This was the picture President Trump wanted for years: a trio of global titans sitting down together, just the three of them, a 21s…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261120/myanmar-genocide-icj-decision-/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "国际法院裁定缅甸对罗辛亚人实施种族灭绝",
+    "link": "https://cn.nytimes.com/world/20261120/myanmar-genocide-icj-decision-/dual",
+    "pub_date": "2026-11-20 12:36:04",
+    "author": "",
+    "description": "JEANNA SMIALEK, HANNAH BEECH2026年11月20日2017年，罗辛亚难民从缅甸逃往孟加拉国，身后的村庄燃起熊熊大火。 Adam Dean for The New York Times The International Court of Justice ruled on Thursday that Myanmar committed genocide against Rohingya Muslims, a l…",
+    "content": "JEANNA SMIALEK, HANNAH BEECH 2026年11月20日 2017年，罗辛亚难民从缅甸逃往孟加拉国，身后的村庄燃起熊熊大火。 Adam Dean for The New York Times The International Court of Justice ruled on Thursday that Myanmar committed genocide against Rohingya Muslims, a landmark decision years in the making t…"
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "China issues Mount Fuji warning as family of missing climber offers reward",
+    "link": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-20 12:13:22",
+    "author": "",
+    "description": "The $75,000 reward offered by Chen Jie's family has sparked fears of more reckless climbing attempts.",
+    "content": "The $75,000 reward offered by Chen Jie's family has sparked fears of more reckless climbing attempts."
+  },
+  {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261120/trump-xi-putin/dual",
     "feed_name": "纽约时报双语版",
     "category": "国外",
@@ -22,15 +242,15 @@ const jsonData = [
     "content": "艾莎 2026年11月20日 随着华盛顿和北京在人工智能领域争夺霸权，双方都在为其本土技术划定红线。 Tingshu Wang/Reuters It was the biggest initial public offering in history and investors from China and Hong Kong were left out. 这是史上最大的首次公开募股，而来自中国和香港的投资者被排除在外。 Anthropic, the artificial intelligence company …"
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmlye2334wlyo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
-    "title": "More climate money for Africa? Europe says use what's already pledged",
-    "link": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-20 08:54:50",
+    "title": "US army warns detonation of unstable explosives will create toxic plume",
+    "link": "https://www.bbc.co.uk/news/articles/cmlye2334wlyo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-20 09:27:27",
     "author": "",
-    "description": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
-    "content": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change."
+    "description": "The Army has delayed the controlled explosion of unstable lead azide in eastern Iowa to Monday after concerns from residents and lawmakers.",
+    "content": "The Army has delayed the controlled explosion of unstable lead azide in eastern Iowa to Monday after concerns from residents and lawmakers."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
@@ -69,12 +289,12 @@ const jsonData = [
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
-    "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+    "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
     "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
     "pub_date": "2026-11-20 08:13:21",
     "author": "",
-    "description": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
-    "content": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege."
+    "description": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
+    "content": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
@@ -165,6 +385,17 @@ const jsonData = [
     "content": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist."
   },
   {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/19/nx-s1-6045773/faa-air-traffic-control-system-modernization-challenges",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Why the U.S. air traffic control system still relies on an 'antique' network",
+    "link": "https://www.npr.org/2026/11/19/nx-s1-6045773/faa-air-traffic-control-system-modernization-challenges",
+    "pub_date": "2026-11-20 05:59:57",
+    "author": "",
+    "description": "The FAA says the telecom outage that led to Friday's nationwide ground stop began with an upgrade to fiber-optic cables. Industry experts say the work is long overdue.",
+    "content": "The FAA says the telecom outage that led to Friday's nationwide ground stop began with an upgrade to fiber-optic cables. Industry experts say the work is long overdue."
+  },
+  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -174,28 +405,6 @@ const jsonData = [
     "author": "",
     "description": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
     "content": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Judges have put Trump's arch and golf course on hold, but only for a matter of days",
-    "link": "https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders",
-    "pub_date": "2026-11-20 03:46:27",
-    "author": "",
-    "description": "A federal judge has twice delayed construction of Trump's arch. Another is keeping East Potomac Park open. The proposed golf course redesign got mixed feedback from a federal arts panel on Thursday.",
-    "content": "A federal judge has twice delayed construction of Trump's arch. Another is keeping East Potomac Park open. The proposed golf course redesign got mixed feedback from a federal arts panel on Thursday."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/19/nx-s1-5996688/magic-6-marriage-tips-nina-totenberg-relationships",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "The 'Magic Six': How to strengthen your marriage in midlife",
-    "link": "https://www.npr.org/2026/11/19/nx-s1-5996688/magic-6-marriage-tips-nina-totenberg-relationships",
-    "pub_date": "2026-11-20 02:28:23",
-    "author": "",
-    "description": "How do we maintain healthy romantic relationships as we age? Allison Aubrey and Scott Detrow talk about about the science of healthy, later-in-life relationships.",
-    "content": "How do we maintain healthy romantic relationships as we age? Allison Aubrey and Scott Detrow talk about about the science of healthy, later-in-life relationships."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
@@ -253,28 +462,6 @@ const jsonData = [
     "content": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation."
   },
   {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "'Bigger than Barack Obama's election': Scholars reflect on Mississippi Senate race",
-    "link": "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race",
-    "pub_date": "2026-11-20 01:03:11",
-    "author": "",
-    "description": "Scott Colom is now this Southern state's first Black U.S. senator in nearly 150 years. Scholars and Mississippi natives Eddie Glaude and Kiese Laymon discuss the historic significance of his victory.",
-    "content": "Scott Colom is now this Southern state's first Black U.S. senator in nearly 150 years. Scholars and Mississippi natives Eddie Glaude and Kiese Laymon discuss the historic significance of his victory."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/19/nx-s1-6045916/democrats-midterm-house-majority",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "The midterms were the largest win for either party in 50 years",
-    "link": "https://www.npr.org/2026/11/19/nx-s1-6045916/democrats-midterm-house-majority",
-    "pub_date": "2026-11-19 23:55:05",
-    "author": "",
-    "description": "Some 56% of people cast votes for Democrats in House races, compared to 42% who voted Republican. That 14-point spread is the widest win for either party in 50 years, since after Watergate.",
-    "content": "Some 56% of people cast votes for Democrats in House races, compared to 42% who voted Republican. That 14-point spread is the widest win for either party in 50 years, since after Watergate."
-  },
-  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -319,39 +506,6 @@ const jsonData = [
     "content": "The Mrima Hill site is estimated to hold deposits of critical minerals worth more than $60bn (£45bn)."
   },
   {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
-    "link": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
-    "pub_date": "2026-11-19 20:29:41",
-    "author": "",
-    "description": "The International Court of Justice found that Myanmar security forces \"acted with genocidal intent\" against the Rohingya during military operations in the northern Rakhine state in 2017.",
-    "content": "The International Court of Justice found that Myanmar security forces \"acted with genocidal intent\" against the Rohingya during military operations in the northern Rakhine state in 2017."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/19/g-s1-154159/world-toilet-day-gender-equality-menstruation",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "World Toilet Day is a funny idea with a serious goal: A world awash in toilets",
-    "link": "https://www.npr.org/2026/11/19/g-s1-154159/world-toilet-day-gender-equality-menstruation",
-    "pub_date": "2026-11-19 20:26:31",
-    "author": "",
-    "description": "Yahoo for the loo! November 19 marks the 25th anniversary of World Toilet Day. The theme this year: \"Sanitation and Gender Equality: Safe Toilets, Equal Futures.\"",
-    "content": "Yahoo for the loo! November 19 marks the 25th anniversary of World Toilet Day. The theme this year: \"Sanitation and Gender Equality: Safe Toilets, Equal Futures.\""
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker",
-    "link": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic",
-    "pub_date": "2026-11-19 20:26:01",
-    "author": "",
-    "description": "Despite growing concern over a possible AI bubble, Anthropic had a record-breaking initial public offering. And, Hakeem Jeffries could become the first Black Speaker of the House.",
-    "content": "Despite growing concern over a possible AI bubble, Anthropic had a record-breaking initial public offering. And, Hakeem Jeffries could become the first Black Speaker of the House."
-  },
-  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -374,28 +528,6 @@ const jsonData = [
     "content": "A truck driver's fortunes have changed overnight after he won a Diwali lottery in the northern Indian state of Punjab."
   },
   {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/19/nx-s1-6045750/katherine-clark-hakeem-jeffries-house-democrats",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Incoming House majority leader Katherine Clark stresses Democratic unity",
-    "link": "https://www.npr.org/2026/11/19/nx-s1-6045750/katherine-clark-hakeem-jeffries-house-democrats",
-    "pub_date": "2026-11-19 19:20:42",
-    "author": "",
-    "description": "As Democrats prepare to take control of the House, incoming majority leader Katherine Clark discusses the party's ambitious agenda and divisions within its ranks.",
-    "content": "As Democrats prepare to take control of the House, incoming majority leader Katherine Clark discusses the party's ambitious agenda and divisions within its ranks."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/19/nx-s1-6046487/gregory-meeks-trump-xi-putin-summit",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Top House Democrat questions what Trump accomplished in Xi-Putin summit",
-    "link": "https://www.npr.org/2026/11/19/nx-s1-6046487/gregory-meeks-trump-xi-putin-summit",
-    "pub_date": "2026-11-19 19:20:37",
-    "author": "",
-    "description": "Rep. Gregory Meeks raises concerns about U.S. alliances after Trump's summit with Xi and Putin. He also discusses Chinese espionage amid the Nvidia scandal.",
-    "content": "Rep. Gregory Meeks raises concerns about U.S. alliances after Trump's summit with Xi and Putin. He also discusses Chinese espionage amid the Nvidia scandal."
-  },
-  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/crx20q3qy0vxo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -405,17 +537,6 @@ const jsonData = [
     "author": "",
     "description": "DJ lag, one of South Africa's best-known electronic music producers, is among several African stars to feature on Grand Theft Auto 6.",
     "content": "DJ lag, one of South Africa's best-known electronic music producers, is among several African stars to feature on Grand Theft Auto 6."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/19/nx-s1-6043018/muslims-will-outnumber-christians-worldwide-by-2035-report-says",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Muslims will outnumber Christians worldwide by 2035, report says",
-    "link": "https://www.npr.org/2026/11/19/nx-s1-6043018/muslims-will-outnumber-christians-worldwide-by-2035-report-says",
-    "pub_date": "2026-11-19 18:00:00",
-    "author": "",
-    "description": "By 2070, the Democratic Republic of the Congo will surpass the United States as the country with the largest total number of Christians.",
-    "content": "By 2070, the Democratic Republic of the Congo will surpass the United States as the country with the largest total number of Christians."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
@@ -484,39 +605,6 @@ const jsonData = [
     "content": "赫海威, KIUKO NOTOYA 2026年11月19日 The atmosphere was tense. The handshake was quick. 气氛紧张。握手匆匆。 President Xi Jinping of China and Prime Minister Sanae Takaichi of Japan met briefly on Wednesday at the opening of the Asia-Pacific Economic Cooperation forum in Shenz…"
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
-    "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-19 10:59:06",
-    "author": "",
-    "description": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
-    "content": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump."
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261119/trump-xi-shenzhen-spy-scandal/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "特朗普抵达深圳：展示友好关系，无视间谍丑闻",
-    "link": "https://cn.nytimes.com/world/20261119/trump-xi-shenzhen-spy-scandal/dual",
-    "pub_date": "2026-11-19 10:06:33",
-    "author": "",
-    "description": "PETER BAKER2026年11月19日周三，特朗普总统与中国国家主席习近平在深圳。 Doug Mills/The New York Times President Trump was welcomed to China on Wednesday with a warm embrace both figuratively and literally, as he arrived for a fraught visit shadowe…",
-    "content": "PETER BAKER 2026年11月19日 周三，特朗普总统与中国国家主席习近平在深圳。 Doug Mills/The New York Times President Trump was welcomed to China on Wednesday with a warm embrace both figuratively and literally, as he arrived for a fraught visit shadowed by a major spy scandal that he seeme…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20261119/a-tropical-chinese-city-is-half-empty-and-ready-for-the-summit/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "APE峰会期间，深圳变“空城”",
-    "link": "https://cn.nytimes.com/china/20261119/a-tropical-chinese-city-is-half-empty-and-ready-for-the-summit/dual",
-    "pub_date": "2026-11-19 09:06:04",
-    "author": "",
-    "description": "KEITH BRADSHER2026年11月19日 World leaders coming to Shenzhen this week are arriving in an almost spotless, ultramodern metropolis, its streets bedecked with pastel banners but mostly emptied of the crowds typical of many C…",
-    "content": "KEITH BRADSHER 2026年11月19日 World leaders coming to Shenzhen this week are arriving in an almost spotless, ultramodern metropolis, its streets bedecked with pastel banners but mostly emptied of the crowds typical of many Chinese cities. 本周来到深圳的世界领导人们看到的是一座几乎一尘不…"
-  },
-  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -526,94 +614,6 @@ const jsonData = [
     "author": "",
     "description": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
     "content": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life."
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20261119/xi-trump-china-arrival/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "习近平罕见前往机场迎接特朗普",
-    "link": "https://cn.nytimes.com/china/20261119/xi-trump-china-arrival/dual",
-    "pub_date": "2026-11-19 08:36:03",
-    "author": "",
-    "description": "郭莉莉2026年11月19日周三，特朗普总统与中国领导人习近平在中国深圳宝安国际机场会面时相互拥抱。 Doug Mills/The New York Times When President Trump arrived in Shenzhen on Wednesday, Xi Jinping was waiting for him at the bottom of the steps descending from Air Force …",
-    "content": "郭莉莉 2026年11月19日 周三，特朗普总统与中国领导人习近平在中国深圳宝安国际机场会面时相互拥抱。 Doug Mills/The New York Times When President Trump arrived in Shenzhen on Wednesday, Xi Jinping was waiting for him at the bottom of the steps descending from Air Force One. 周三，当特朗普总统抵达深圳时，习近平在“空军一号”的舷梯下等候他。…"
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
-    "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-19 07:28:03",
-    "author": "",
-    "description": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
-    "content": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-    "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-19 05:13:06",
-    "author": "",
-    "description": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
-    "content": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "William and Kate meet PM Modi as they wrap up India tour",
-    "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-19 04:07:08",
-    "author": "",
-    "description": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize",
-    "content": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize"
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-    "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-19 01:00:40",
-    "author": "",
-    "description": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
-    "content": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
-    "link": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-18 23:39:57",
-    "author": "",
-    "description": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
-    "content": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
-    "link": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-18 21:04:48",
-    "author": "",
-    "description": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
-    "content": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Ghana's new $60m presidential jet sparks public outrage",
-    "link": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-18 17:27:51",
-    "author": "",
-    "description": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
-    "content": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living."
   },
   {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261022-%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E8%BF%87%E4%B8%A4%E4%BA%BF%E9%83%A8%E6%89%8B%E6%9C%BA%E6%96%B0%E5%8F%8D%E8%AF%88%E7%A8%8B%E5%BA%8F%E8%AF%86%E5%88%AB%E7%9B%98%E9%97%AE%E6%B5%8F%E8%A7%88%E5%A2%99%E5%A4%96%E8%B4%A2%E7%BB%8F%E7%BD%91%E7%AB%99%E4%BA%BA%E5%91%98",
