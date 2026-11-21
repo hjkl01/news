@@ -1,14 +1,179 @@
 const jsonData = [
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
-    "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-    "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-21 10:09:46",
+    "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-21 21:17:38",
     "author": "",
-    "description": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-    "content": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow."
+    "description": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+    "content": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Perspective: Defining 'human'",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human",
+    "pub_date": "2026-11-21 21:00:00",
+    "author": "",
+    "description": "The Cambridge Dictionary has chosen the word \"human\" as its Word of the Year. Why ever might a word that entered the English language over 500 years ago be so honored?",
+    "content": "The Cambridge Dictionary has chosen the word \"human\" as its Word of the Year. Why ever might a word that entered the English language over 500 years ago be so honored?"
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Senate permitting bill speeds up renewables, divides greens over oil and gas",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas",
+    "pub_date": "2026-11-21 20:40:17",
+    "author": "",
+    "description": "A permitting reform bill in the Senate could help speed the development of renewable energy projects, but it's splitting environmentalists over other provisions that help the oil and gas industry.",
+    "content": "A permitting reform bill in the Senate could help speed the development of renewable energy projects, but it's splitting environmentalists over other provisions that help the oil and gas industry."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+    "link": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
+    "pub_date": "2026-11-21 20:30:16",
+    "author": "",
+    "description": "A mathematician who works for artificial intelligence giant Anthropic claims he has solved a Holy Grail of math problems with the help of the company's AI tool Claude. It marks the second time in recent months that an AI…",
+    "content": "A mathematician who works for artificial intelligence giant Anthropic claims he has solved a Holy Grail of math problems with the help of the company's AI tool Claude. It marks the second time in recent months that an AI company or someone linked to one claims…"
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+    "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-21 18:26:36",
+    "author": "",
+    "description": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+    "content": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/21/nx-s1-6043793/stop-thinking-about-work",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "5 ways to turn off your 'work brain' after the day ends",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6043793/stop-thinking-about-work",
+    "pub_date": "2026-11-21 18:01:00",
+    "author": "",
+    "description": "Don't let your work troubles follow you home. Psychologist Guy Winch shares techniques to help you stop ruminating about your nine-to-five, so you can focus on what really matters.",
+    "content": "Don't let your work troubles follow you home. Psychologist Guy Winch shares techniques to help you stop ruminating about your nine-to-five, so you can focus on what really matters."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "An effort to circumvent the Electoral College may be within reach. But hurdles remain",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact",
+    "pub_date": "2026-11-21 18:00:00",
+    "author": "",
+    "description": "A national effort to ensure that only winners of the popular vote become president could reach a critical milestone soon.",
+    "content": "A national effort to ensure that only winners of the popular vote become president could reach a critical milestone soon."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Anthropic says it will put humanity first. Will its IPO change that?",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
+    "pub_date": "2026-11-21 18:00:00",
+    "author": "",
+    "description": "Critics say now that the AI giant is a public company, its commitment to put safety ahead of commercial success will be tested.",
+    "content": "Critics say now that the AI giant is a public company, its commitment to put safety ahead of commercial success will be tested."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "The AI boom had a really bad week — and it's raising loud alarms",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+    "pub_date": "2026-11-21 18:00:00",
+    "author": "",
+    "description": "AI stocks — and the broader markets — got pummeled this week, raising major concerns about the financial system and the wider economy. Here's what to know.",
+    "content": "AI stocks — and the broader markets — got pummeled this week, raising major concerns about the financial system and the wider economy. Here's what to know."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+    "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-21 17:52:11",
+    "author": "",
+    "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+    "content": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+    "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-21 17:40:55",
+    "author": "",
+    "description": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+    "content": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "FBI reportedly investigating apparent hack of its criminal database",
+    "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-21 17:34:20",
+    "author": "",
+    "description": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+    "content": "The National Crime Information Center database is used by federal and local law enforcement to share information."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+    "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-21 16:10:25",
+    "author": "",
+    "description": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+    "content": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\"."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Trafalgar Square Christmas tree felled in Norway",
+    "link": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-21 16:10:03",
+    "author": "",
+    "description": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two.",
+    "content": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
+    "link": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
+    "pub_date": "2026-11-21 16:08:01",
+    "author": "",
+    "description": "Efforts to establish rules for AI-powered killer robots and drones have run aground. U.N.-backed talks in Geneva ended Saturday with an agreement to extend discussions for two more years.",
+    "content": "Efforts to establish rules for AI-powered killer robots and drones have run aground. U.N.-backed talks in Geneva ended Saturday with an agreement to extend discussions for two more years."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Man convicted of starting Palisades fire in Los Angeles",
+    "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-21 12:34:00",
+    "author": "",
+    "description": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+    "content": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
@@ -47,7 +212,7 @@ const jsonData = [
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
-    "title": "A new Nepal, an old neighbour - Balendra Shah's India test",
+    "title": "A new Nepal, an old neighbour - Balendra Shah's India test on first visit",
     "link": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
     "pub_date": "2026-11-21 07:28:17",
     "author": "",
@@ -58,7 +223,7 @@ const jsonData = [
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
-    "title": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
+    "title": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
     "link": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
     "pub_date": "2026-11-21 07:20:33",
     "author": "",
@@ -80,7 +245,7 @@ const jsonData = [
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
-    "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+    "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
     "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
     "pub_date": "2026-11-21 07:08:57",
     "author": "",
@@ -132,17 +297,6 @@ const jsonData = [
     "content": "AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big slide for the market."
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-    "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-21 05:57:07",
-    "author": "",
-    "description": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
-    "content": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled."
-  },
-  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -165,39 +319,6 @@ const jsonData = [
     "content": "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin."
   },
   {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/20/nx-s1-6046485/rising-seas-have-forced-this-quinault-village-to-relocate",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Rising seas have forced this Quinault village to relocate",
-    "link": "https://www.npr.org/2026/11/20/nx-s1-6046485/rising-seas-have-forced-this-quinault-village-to-relocate",
-    "pub_date": "2026-11-21 05:38:13",
-    "author": "",
-    "description": "The Quinault Indian Nation has moved its largest village away from rising seas and tsunamis",
-    "content": "The Quinault Indian Nation has moved its largest village away from rising seas and tsunamis"
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Trump's impact on an Ohio steel plant",
-    "link": "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant",
-    "pub_date": "2026-11-21 05:38:11",
-    "author": "",
-    "description": "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal. The switch would have cut hazardous air pollution -- and greenhouse gas emissions. But that plan has changed under…",
-    "content": "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal. The switch would have cut hazardous air pollution -- and greenhouse gas emissions. But that plan has changed under President Trump"
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/20/nx-s1-6039337/mlk-i-have-a-dream-speech-draft-public-display",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "MLK's handwritten draft of iconic speech on display for the first time",
-    "link": "https://www.npr.org/2026/11/20/nx-s1-6039337/mlk-i-have-a-dream-speech-draft-public-display",
-    "pub_date": "2026-11-21 05:38:05",
-    "author": "",
-    "description": "The only known handwritten draft of The Reverend Martin Luther King Jr.'s 'I Have a Dream' speech is on display in his hometown. The iconic phrase, however, never made it on the page.",
-    "content": "The only known handwritten draft of The Reverend Martin Luther King Jr.'s 'I Have a Dream' speech is on display in his hometown. The iconic phrase, however, never made it on the page."
-  },
-  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -207,17 +328,6 @@ const jsonData = [
     "author": "",
     "description": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
     "content": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Gérard Depardieu and French author investigated over sexual allegations",
-    "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-21 03:45:20",
-    "author": "",
-    "description": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
-    "content": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\"."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
@@ -231,37 +341,15 @@ const jsonData = [
     "content": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February."
   },
   {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
-    "link": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
-    "pub_date": "2026-11-21 02:25:09",
-    "author": "",
-    "description": "A federal judge in Virginia said she will issue a preliminary injunction against Trump's arch, going a step further than the D.C. federal judge who temporarily blocked construction earlier this week.",
-    "content": "A federal judge in Virginia said she will issue a preliminary injunction against Trump's arch, going a step further than the D.C. federal judge who temporarily blocked construction earlier this week."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
-    "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-    "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-21 01:49:48",
+    "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
+    "link": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-21 02:48:48",
     "author": "",
-    "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
-    "content": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
-    "link": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
-    "pub_date": "2026-11-21 01:00:00",
-    "author": "",
-    "description": "Less than half of Republicans nationwide considered the midterm elections \"free and fair,\" according to new polling.",
-    "content": "Less than half of Republicans nationwide considered the midterm elections \"free and fair,\" according to new polling."
+    "description": "BBC News Mundo’s Rafael Rojas visits the real-life Miami locations that inspired Vice City, GTA 6’s fictionalised setting.",
+    "content": "BBC News Mundo’s Rafael Rojas visits the real-life Miami locations that inspired Vice City, GTA 6’s fictionalised setting."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
@@ -275,39 +363,6 @@ const jsonData = [
     "content": "Thousands marched across European cities on Friday to protest against the cost of living and other issues."
   },
   {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/20/g-s1-154644/orchestra-noir-black-musical-tour-classical-music",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "How Orchestra Noir turned classical music into a cultural movement",
-    "link": "https://www.npr.org/2026/11/20/g-s1-154644/orchestra-noir-black-musical-tour-classical-music",
-    "pub_date": "2026-11-21 00:12:18",
-    "author": "",
-    "description": "Orchestra Noir is back on tour, selling out stages across the country and proving classical music can be anything you want it to be.",
-    "content": "Orchestra Noir is back on tour, selling out stages across the country and proving classical music can be anything you want it to be."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Nearly 600 women killed in South Africa within three months",
-    "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-20 23:55:16",
-    "author": "",
-    "description": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
-    "content": "Police officials called for \"greater efforts to prevent... violence\" against women and children."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
-    "link": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-20 23:55:02",
-    "author": "",
-    "description": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US.",
-    "content": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US."
-  },
-  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -317,61 +372,6 @@ const jsonData = [
     "author": "",
     "description": "Russia struck bridges and railway stations in the capital Kyiv in a major attack.",
     "content": "Russia struck bridges and railway stations in the capital Kyiv in a major attack."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Trump touts meeting with Xi and Putin but offers little results",
-    "link": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
-    "pub_date": "2026-11-20 23:00:00",
-    "author": "",
-    "description": "At a White House press conference Friday, Trump offered little in actual results of the meetings, beyond a joint statement on unity over some issues.",
-    "content": "At a White House press conference Friday, Trump offered little in actual results of the meetings, beyond a joint statement on unity over some issues."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-    "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-20 21:01:16",
-    "author": "",
-    "description": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
-    "content": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Texas death-row inmate screams as execution takes more than one hour",
-    "link": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-20 20:42:37",
-    "author": "",
-    "description": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug.",
-    "content": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
-    "link": "https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain",
-    "pub_date": "2026-11-20 20:24:40",
-    "author": "",
-    "description": "The same day Dennes was given lethal injection, Florida carried out a record-breaking 20th execution of the year.",
-    "content": "The same day Dennes was given lethal injection, Florida carried out a record-breaking 20th execution of the year."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "South Korea catches 111 students with new measures against exam cheating",
-    "link": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-20 18:16:19",
-    "author": "",
-    "description": "The students were caught with banned smart devices while taking the high-stakes Suneung exam.",
-    "content": "The students were caught with banned smart devices while taking the high-stakes Suneung exam."
   },
   {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261120/nvidia-chips-commerce-china-huang/dual",
@@ -438,17 +438,6 @@ const jsonData = [
     "author": "",
     "description": "黄安伟2026年11月20日周四，俄罗斯总统普京、中国领导人习近平与特朗普总统在深圳举行了三国领导人的首次正式三边会晤。 Doug Mills/The New York Times At the end of a visit to Moscow more than three years ago, Xi Jinping, the leader of China, uttered a line to President Vladimir …",
     "content": "黄安伟 2026年11月20日 周四，俄罗斯总统普京、中国领导人习近平与特朗普总统在深圳举行了三国领导人的首次正式三边会晤。 Doug Mills/The New York Times At the end of a visit to Moscow more than three years ago, Xi Jinping, the leader of China, uttered a line to President Vladimir V. Putin of Russia that has come to de…"
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "From premature baby to social media star - Famed hippo Fiona dies",
-    "link": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-20 06:54:03",
-    "author": "",
-    "description": "The beloved hippopotamus died days after swallowing a knitted hat that accidentally got into her enclosure at the Cincinnati Zoo.",
-    "content": "The beloved hippopotamus died days after swallowing a knitted hat that accidentally got into her enclosure at the Cincinnati Zoo."
   },
   {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261119/xi-trump-hug-shenzhen/dual",
