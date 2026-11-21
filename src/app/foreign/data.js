@@ -5,21 +5,329 @@ const jsonData = [
     "category": "国外",
     "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
     "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-20 21:52:04",
+    "pub_date": "2026-11-21 10:09:46",
     "author": "",
     "description": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
     "content": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow."
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
-    "title": "White House removes cyber-security chief after series of tech outages",
-    "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-20 21:28:32",
+    "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+    "link": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-21 09:02:39",
     "author": "",
-    "description": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
-    "content": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller."
+    "description": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
+    "content": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "ANC fights to keep control of South Africa's key cities after election setback",
+    "link": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-21 08:34:51",
+    "author": "",
+    "description": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level.",
+    "content": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+    "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-21 08:01:39",
+    "author": "",
+    "description": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
+    "content": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "A new Nepal, an old neighbour - Balendra Shah's India test",
+    "link": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-21 07:28:17",
+    "author": "",
+    "description": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
+    "content": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
+    "link": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-21 07:20:33",
+    "author": "",
+    "description": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for.",
+    "content": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "US declassifies more UFO footage filmed in the Middle East",
+    "link": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-21 07:15:20",
+    "author": "",
+    "description": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026.",
+    "content": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+    "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-21 07:08:57",
+    "author": "",
+    "description": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+    "content": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+    "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-21 06:42:47",
+    "author": "",
+    "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+    "content": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "French police officers sentenced for beating of music producer Michel Zecler",
+    "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-21 06:37:09",
+    "author": "",
+    "description": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+    "content": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
+    "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-21 06:14:17",
+    "author": "",
+    "description": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
+    "content": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+    "link": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
+    "pub_date": "2026-11-21 06:11:29",
+    "author": "",
+    "description": "AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big slide for the market.",
+    "content": "AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big slide for the market."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+    "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-21 05:57:07",
+    "author": "",
+    "description": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+    "content": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "What the new UK-EU deal could mean for future post-Brexit relations",
+    "link": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-21 05:43:22",
+    "author": "",
+    "description": "The BBC's political and Europe editors analyse the new agreements between the UK and EU.",
+    "content": "The BBC's political and Europe editors analyse the new agreements between the UK and EU."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "The latest from Trump's press conference",
+    "link": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
+    "pub_date": "2026-11-21 05:38:21",
+    "author": "",
+    "description": "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin.",
+    "content": "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/20/nx-s1-6046485/rising-seas-have-forced-this-quinault-village-to-relocate",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Rising seas have forced this Quinault village to relocate",
+    "link": "https://www.npr.org/2026/11/20/nx-s1-6046485/rising-seas-have-forced-this-quinault-village-to-relocate",
+    "pub_date": "2026-11-21 05:38:13",
+    "author": "",
+    "description": "The Quinault Indian Nation has moved its largest village away from rising seas and tsunamis",
+    "content": "The Quinault Indian Nation has moved its largest village away from rising seas and tsunamis"
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Trump's impact on an Ohio steel plant",
+    "link": "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant",
+    "pub_date": "2026-11-21 05:38:11",
+    "author": "",
+    "description": "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal. The switch would have cut hazardous air pollution -- and greenhouse gas emissions. But that plan has changed under…",
+    "content": "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal. The switch would have cut hazardous air pollution -- and greenhouse gas emissions. But that plan has changed under President Trump"
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/20/nx-s1-6039337/mlk-i-have-a-dream-speech-draft-public-display",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "MLK's handwritten draft of iconic speech on display for the first time",
+    "link": "https://www.npr.org/2026/11/20/nx-s1-6039337/mlk-i-have-a-dream-speech-draft-public-display",
+    "pub_date": "2026-11-21 05:38:05",
+    "author": "",
+    "description": "The only known handwritten draft of The Reverend Martin Luther King Jr.'s 'I Have a Dream' speech is on display in his hometown. The iconic phrase, however, never made it on the page.",
+    "content": "The only known handwritten draft of The Reverend Martin Luther King Jr.'s 'I Have a Dream' speech is on display in his hometown. The iconic phrase, however, never made it on the page."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Trump threatens ban on US firms building AI data centres overseas",
+    "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-21 04:54:12",
+    "author": "",
+    "description": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+    "content": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Gérard Depardieu and French author investigated over sexual allegations",
+    "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-21 03:45:20",
+    "author": "",
+    "description": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
+    "content": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\"."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+    "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-21 03:27:49",
+    "author": "",
+    "description": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
+    "content": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
+    "link": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
+    "pub_date": "2026-11-21 02:25:09",
+    "author": "",
+    "description": "A federal judge in Virginia said she will issue a preliminary injunction against Trump's arch, going a step further than the D.C. federal judge who temporarily blocked construction earlier this week.",
+    "content": "A federal judge in Virginia said she will issue a preliminary injunction against Trump's arch, going a step further than the D.C. federal judge who temporarily blocked construction earlier this week."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+    "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-21 01:49:48",
+    "author": "",
+    "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+    "content": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
+    "link": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
+    "pub_date": "2026-11-21 01:00:00",
+    "author": "",
+    "description": "Less than half of Republicans nationwide considered the midterm elections \"free and fair,\" according to new polling.",
+    "content": "Less than half of Republicans nationwide considered the midterm elections \"free and fair,\" according to new polling."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Cost of living protests sweep across Europe",
+    "link": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-21 00:45:34",
+    "author": "",
+    "description": "Thousands marched across European cities on Friday to protest against the cost of living and other issues.",
+    "content": "Thousands marched across European cities on Friday to protest against the cost of living and other issues."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/20/g-s1-154644/orchestra-noir-black-musical-tour-classical-music",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "How Orchestra Noir turned classical music into a cultural movement",
+    "link": "https://www.npr.org/2026/11/20/g-s1-154644/orchestra-noir-black-musical-tour-classical-music",
+    "pub_date": "2026-11-21 00:12:18",
+    "author": "",
+    "description": "Orchestra Noir is back on tour, selling out stages across the country and proving classical music can be anything you want it to be.",
+    "content": "Orchestra Noir is back on tour, selling out stages across the country and proving classical music can be anything you want it to be."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Nearly 600 women killed in South Africa within three months",
+    "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-20 23:55:16",
+    "author": "",
+    "description": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
+    "content": "Police officials called for \"greater efforts to prevent... violence\" against women and children."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
+    "link": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-20 23:55:02",
+    "author": "",
+    "description": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US.",
+    "content": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "What we know about the latest Russian missile strikes on Ukraine",
+    "link": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-20 23:14:01",
+    "author": "",
+    "description": "Russia struck bridges and railway stations in the capital Kyiv in a major attack.",
+    "content": "Russia struck bridges and railway stations in the capital Kyiv in a major attack."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Trump touts meeting with Xi and Putin but offers little results",
+    "link": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
+    "pub_date": "2026-11-20 23:00:00",
+    "author": "",
+    "description": "At a White House press conference Friday, Trump offered little in actual results of the meetings, beyond a joint statement on unity over some issues.",
+    "content": "At a White House press conference Friday, Trump offered little in actual results of the meetings, beyond a joint statement on unity over some issues."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
@@ -33,6 +341,17 @@ const jsonData = [
     "content": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine."
   },
   {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Texas death-row inmate screams as execution takes more than one hour",
+    "link": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-20 20:42:37",
+    "author": "",
+    "description": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug.",
+    "content": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug."
+  },
+  {
     "id": "国外-NPR News-https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain",
     "feed_name": "NPR News",
     "category": "国外",
@@ -42,50 +361,6 @@ const jsonData = [
     "author": "",
     "description": "The same day Dennes was given lethal injection, Florida carried out a record-breaking 20th execution of the year.",
     "content": "The same day Dennes was given lethal injection, Florida carried out a record-breaking 20th execution of the year."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
-    "link": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
-    "pub_date": "2026-11-20 20:04:57",
-    "author": "",
-    "description": "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could become dangerous.",
-    "content": "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could become dangerous."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/sections/planet-money/2026/11/20/nx-s1-6047750/just-how-vulnerable-are-we-to-cyberattacks",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Just how vulnerable are we to cyberattacks?",
-    "link": "https://www.npr.org/sections/planet-money/2026/11/20/nx-s1-6047750/just-how-vulnerable-are-we-to-cyberattacks",
-    "pub_date": "2026-11-20 20:00:00",
-    "author": "",
-    "description": "In a week of outages, we're thinking about the rising threat of AI-powered cyberattacks. But sometimes, it's not the most sophisticated attack that's concerning, but the easy targets buried in old software.",
-    "content": "In a week of outages, we're thinking about the rising threat of AI-powered cyberattacks. But sometimes, it's not the most sophisticated attack that's concerning, but the easy targets buried in old software."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Senate passes bipartisan energy bill amid environmental concerns",
-    "link": "https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill",
-    "pub_date": "2026-11-20 19:00:28",
-    "author": "",
-    "description": "As Americans struggle with rising energy costs and increased demand driven by AI, the Senate passed a bipartisan bill that will speed up the approval process for data centers and power plants.",
-    "content": "As Americans struggle with rising energy costs and increased demand driven by AI, the Senate passed a bipartisan bill that will speed up the approval process for data centers and power plants."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Nearly 600 women killed in South Africa within three months",
-    "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-20 18:56:02",
-    "author": "",
-    "description": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
-    "content": "Police officials called for \"greater efforts to prevent... violence\" against women and children."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
@@ -99,72 +374,6 @@ const jsonData = [
     "content": "The students were caught with banned smart devices while taking the high-stakes Suneung exam."
   },
   {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "New York City unveils a bold plan to move its jails off Rikers Island",
-    "link": "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model",
-    "pub_date": "2026-11-20 18:00:00",
-    "author": "",
-    "description": "New York City officials are moving forward with plans to close Rikers, the city's main jail complex, after years of discussion. The jail has been plagued by assaults and inmate deaths.",
-    "content": "New York City officials are moving forward with plans to close Rikers, the city's main jail complex, after years of discussion. The jail has been plagued by assaults and inmate deaths."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/20/nx-s1-6038969/trump-crypto-profits-corruption-meme-coin-world-liberty-explainer",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "How exactly did Trump get so rich on crypto? We explain",
-    "link": "https://www.npr.org/2026/11/20/nx-s1-6038969/trump-crypto-profits-corruption-meme-coin-world-liberty-explainer",
-    "pub_date": "2026-11-20 18:00:00",
-    "author": "",
-    "description": "President Trump has made billions of dollars in his second term — most of it in cryptocurrencies. Democrats are vowing to probe his businesses as they gear up to take over Congress next year.",
-    "content": "President Trump has made billions of dollars in his second term — most of it in cryptocurrencies. Democrats are vowing to probe his businesses as they gear up to take over Congress next year."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/20/g-s1-154337/florida-starship-bond-schumer-ai-flu-alaska-news-quiz",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Critics are calling what brand-new release a masterpiece? The quiz knows",
-    "link": "https://www.npr.org/2026/11/20/g-s1-154337/florida-starship-bond-schumer-ai-flu-alaska-news-quiz",
-    "pub_date": "2026-11-20 18:00:00",
-    "author": "",
-    "description": "Plus: Are you up to date on your James Bond news? If so, you'll get at least one question right.",
-    "content": "Plus: Are you up to date on your James Bond news? If so, you'll get at least one question right."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/20/nx-s1-6045879/young-people-record-their-older-relatives-for-the-great-listen",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Young people record their older relatives for The Great Listen",
-    "link": "https://www.npr.org/2026/11/20/nx-s1-6045879/young-people-record-their-older-relatives-for-the-great-listen",
-    "pub_date": "2026-11-20 17:41:31",
-    "author": "",
-    "description": "Young people sit down to record their elders as part of the annual holiday tradition from StoryCorps called The Great Listen.",
-    "content": "Young people sit down to record their elders as part of the annual holiday tradition from StoryCorps called The Great Listen."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "The U.K. and EU hold a rare summit to strengthen ties",
-    "link": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
-    "pub_date": "2026-11-20 17:14:41",
-    "author": "",
-    "description": "A decade after the people of Britain voted to leave the European Union, top EU officials are meeting with Prime Minister Andy Burnham on Friday, looking to mend more fences.",
-    "content": "A decade after the people of Britain voted to leave the European Union, top EU officials are meeting with Prime Minister Andy Burnham on Friday, looking to mend more fences."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cm3rgnvxj339o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Nigeria moves to end jail terms for attempted suicide",
-    "link": "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-20 14:32:17",
-    "author": "",
-    "description": "Nigeria's proposed reform follows years of calls from psychiatrists and a parallel Senate bill.",
-    "content": "Nigeria's proposed reform follows years of calls from psychiatrists and a parallel Senate bill."
-  },
-  {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261120/nvidia-chips-commerce-china-huang/dual",
     "feed_name": "纽约时报双语版",
     "category": "国外",
@@ -174,17 +383,6 @@ const jsonData = [
     "author": "",
     "description": "ANA SWANSON, CECILIA KANG2026年11月20日 Lawmakers released confidential information on Thursday showing that the Commerce Department had approved the sale of more than 800,000 advanced A.I. chips to Chinese companies for th…",
     "content": "ANA SWANSON, CECILIA KANG 2026年11月20日 Lawmakers released confidential information on Thursday showing that the Commerce Department had approved the sale of more than 800,000 advanced A.I. chips to Chinese companies for the year, as of May 11, including several…"
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "More climate money for Africa? Europe says use what's already pledged",
-    "link": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-20 13:03:43",
-    "author": "",
-    "description": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
-    "content": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change."
   },
   {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261120/trump-summit-power/dual",
@@ -209,17 +407,6 @@ const jsonData = [
     "content": "JEANNA SMIALEK, HANNAH BEECH 2026年11月20日 2017年，罗辛亚难民从缅甸逃往孟加拉国，身后的村庄燃起熊熊大火。 Adam Dean for The New York Times The International Court of Justice ruled on Thursday that Myanmar committed genocide against Rohingya Muslims, a landmark decision years in the making t…"
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "China issues Mount Fuji warning as family of missing climber offers reward",
-    "link": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-20 12:13:22",
-    "author": "",
-    "description": "The $75,000 reward offered by Chen Jie's family has sparked fears of more reckless climbing attempts.",
-    "content": "The $75,000 reward offered by Chen Jie's family has sparked fears of more reckless climbing attempts."
-  },
-  {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261120/trump-xi-putin/dual",
     "feed_name": "纽约时报双语版",
     "category": "国外",
@@ -242,28 +429,6 @@ const jsonData = [
     "content": "艾莎 2026年11月20日 随着华盛顿和北京在人工智能领域争夺霸权，双方都在为其本土技术划定红线。 Tingshu Wang/Reuters It was the biggest initial public offering in history and investors from China and Hong Kong were left out. 这是史上最大的首次公开募股，而来自中国和香港的投资者被排除在外。 Anthropic, the artificial intelligence company …"
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmlye2334wlyo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "US army warns detonation of unstable explosives will create toxic plume",
-    "link": "https://www.bbc.co.uk/news/articles/cmlye2334wlyo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-20 09:27:27",
-    "author": "",
-    "description": "The Army has delayed the controlled explosion of unstable lead azide in eastern Iowa to Monday after concerns from residents and lawmakers.",
-    "content": "The Army has delayed the controlled explosion of unstable lead azide in eastern Iowa to Monday after concerns from residents and lawmakers."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-    "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-20 08:50:24",
-    "author": "",
-    "description": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-    "content": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin."
-  },
-  {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261120/xi-putin-trump-meeting-china-russia/dual",
     "feed_name": "纽约时报双语版",
     "category": "国外",
@@ -275,94 +440,6 @@ const jsonData = [
     "content": "黄安伟 2026年11月20日 周四，俄罗斯总统普京、中国领导人习近平与特朗普总统在深圳举行了三国领导人的首次正式三边会晤。 Doug Mills/The New York Times At the end of a visit to Moscow more than three years ago, Xi Jinping, the leader of China, uttered a line to President Vladimir V. Putin of Russia that has come to de…"
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Why Canada is embracing AI data centres while the US pushes back",
-    "link": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-20 08:13:24",
-    "author": "",
-    "description": "Shark Tank's Kevin O'Leary is among the big investors looking to Canada as a data centre development destination, while his US project faces local opposition.",
-    "content": "Shark Tank's Kevin O'Leary is among the big investors looking to Canada as a data centre development destination, while his US project faces local opposition."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
-    "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-20 08:13:21",
-    "author": "",
-    "description": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
-    "content": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "How did Anthropic's stock market debut unfold?",
-    "link": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-20 07:52:25",
-    "author": "",
-    "description": "The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%.",
-    "content": "The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Trump posthumously pardons US baseball legend Pete Rose",
-    "link": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-20 07:51:50",
-    "author": "",
-    "description": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
-    "content": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-    "link": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-20 07:40:29",
-    "author": "",
-    "description": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
-    "content": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-    "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-20 07:33:51",
-    "author": "",
-    "description": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-    "content": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Cumin-laced fizzy sodas are giving cola giants a tough fight in India",
-    "link": "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-20 07:29:00",
-    "author": "",
-    "description": "Cumin-laced sodas are capturing a bigger market share in India as demand for homegrown flavours goes up.",
-    "content": "Cumin-laced sodas are capturing a bigger market share in India as demand for homegrown flavours goes up."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "California targets Nvidia in China AI chip probe",
-    "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-20 07:04:30",
-    "author": "",
-    "description": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
-    "content": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure."
-  },
-  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -372,182 +449,6 @@ const jsonData = [
     "author": "",
     "description": "The beloved hippopotamus died days after swallowing a knitted hat that accidentally got into her enclosure at the Cincinnati Zoo.",
     "content": "The beloved hippopotamus died days after swallowing a knitted hat that accidentally got into her enclosure at the Cincinnati Zoo."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
-    "link": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-20 06:48:22",
-    "author": "",
-    "description": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist.",
-    "content": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/19/nx-s1-6045773/faa-air-traffic-control-system-modernization-challenges",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Why the U.S. air traffic control system still relies on an 'antique' network",
-    "link": "https://www.npr.org/2026/11/19/nx-s1-6045773/faa-air-traffic-control-system-modernization-challenges",
-    "pub_date": "2026-11-20 05:59:57",
-    "author": "",
-    "description": "The FAA says the telecom outage that led to Friday's nationwide ground stop began with an upgrade to fiber-optic cables. Industry experts say the work is long overdue.",
-    "content": "The FAA says the telecom outage that led to Friday's nationwide ground stop began with an upgrade to fiber-optic cables. Industry experts say the work is long overdue."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-    "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-20 04:07:02",
-    "author": "",
-    "description": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
-    "content": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-    "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-20 01:38:22",
-    "author": "",
-    "description": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
-    "content": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/c60qj10j0ld5o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Rohingya genocide: What was said in court and what happens now?",
-    "link": "https://www.bbc.co.uk/news/videos/c60qj10j0ld5o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-20 01:35:05",
-    "author": "",
-    "description": "The verdict marks the first time a state has ever been found to have committed genocide by an international court.",
-    "content": "The verdict marks the first time a state has ever been found to have committed genocide by an international court."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Susan Smith denied parole again 32 years after drowning her two sons",
-    "link": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-20 01:23:34",
-    "author": "",
-    "description": "At a hearing on the possibility of parole, Smith said she wished she could change the past, and her two children \"did not deserve to die\".",
-    "content": "At a hearing on the possibility of parole, Smith said she wished she could change the past, and her two children \"did not deserve to die\"."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "BBC correspondents discuss what Trump, Xi and Putin got out of historic talks",
-    "link": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-20 01:23:29",
-    "author": "",
-    "description": "Trump, Putin and Xi have issued a \"joint declaration of peace\" after historical trilateral talks, but what did they get out of meeting?",
-    "content": "Trump, Putin and Xi have issued a \"joint declaration of peace\" after historical trilateral talks, but what did they get out of meeting?"
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-    "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-20 01:03:23",
-    "author": "",
-    "description": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-    "content": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
-    "link": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-19 23:52:26",
-    "author": "",
-    "description": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people.",
-    "content": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
-    "link": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-19 21:31:23",
-    "author": "",
-    "description": "The US Secretary of Defence says Venezuela has \"gone from our most aggressive regional threat to a compliant security partner\".",
-    "content": "The US Secretary of Defence says Venezuela has \"gone from our most aggressive regional threat to a compliant security partner\"."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
-    "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-19 21:07:35",
-    "author": "",
-    "description": "The bridge - a symbol of Russia's occupation of the Crimean Peninsula - suffered major damaged following a combined attack by Ukraine earlier this week.",
-    "content": "The bridge - a symbol of Russia's occupation of the Crimean Peninsula - suffered major damaged following a combined attack by Ukraine earlier this week."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
-    "link": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-19 20:56:30",
-    "author": "",
-    "description": "The Mrima Hill site is estimated to hold deposits of critical minerals worth more than $60bn (£45bn).",
-    "content": "The Mrima Hill site is estimated to hold deposits of critical minerals worth more than $60bn (£45bn)."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Florida pastor found guilty over role in assassination of Haitian president",
-    "link": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-19 19:44:57",
-    "author": "",
-    "description": "Christian Emmanuel Sanon is convicted of involvement in the plot that resulted in the killing of Jovenel Moïse.",
-    "content": "Christian Emmanuel Sanon is convicted of involvement in the plot that resulted in the killing of Jovenel Moïse."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Indian driver wins $1.3m in life-changing lottery prize",
-    "link": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-19 19:38:09",
-    "author": "",
-    "description": "A truck driver's fortunes have changed overnight after he won a Diwali lottery in the northern Indian state of Punjab.",
-    "content": "A truck driver's fortunes have changed overnight after he won a Diwali lottery in the northern Indian state of Punjab."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/crx20q3qy0vxo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "'It's a dream come true' – South African DJ celebrates featuring in GTA 6",
-    "link": "https://www.bbc.co.uk/news/articles/crx20q3qy0vxo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-19 18:32:10",
-    "author": "",
-    "description": "DJ lag, one of South Africa's best-known electronic music producers, is among several African stars to feature on Grand Theft Auto 6.",
-    "content": "DJ lag, one of South Africa's best-known electronic music producers, is among several African stars to feature on Grand Theft Auto 6."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
-    "link": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-19 17:21:54",
-    "author": "",
-    "description": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods.",
-    "content": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods."
   },
   {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261119/xi-trump-hug-shenzhen/dual",
@@ -572,17 +473,6 @@ const jsonData = [
     "content": "孟建国, ADAM SATARIANO 2026年11月19日 阿里巴巴是一家业务广泛的互联网巨头。 Qilai Shen for The New York Times In 2023, as the artificial intelligence boom took off, Alice Huang and her husband, Kang Wei, were pitching investors in Shanghai on a plan to build an A.I. business in Southe…"
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
-    "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-19 12:42:52",
-    "author": "",
-    "description": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
-    "content": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump."
-  },
-  {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/world/20261119/trump-xi-putin-summit-yalta/dual",
     "feed_name": "纽约时报双语版",
     "category": "国外",
@@ -603,17 +493,6 @@ const jsonData = [
     "author": "",
     "description": "赫海威, KIUKO NOTOYA2026年11月19日 The atmosphere was tense. The handshake was quick. 气氛紧张。握手匆匆。 President Xi Jinping of China and Prime Minister Sanae Takaichi of Japan met briefly on Wednesday at the opening of the Asia-Paci…",
     "content": "赫海威, KIUKO NOTOYA 2026年11月19日 The atmosphere was tense. The handshake was quick. 气氛紧张。握手匆匆。 President Xi Jinping of China and Prime Minister Sanae Takaichi of Japan met briefly on Wednesday at the opening of the Asia-Pacific Economic Cooperation forum in Shenz…"
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
-    "link": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-19 08:49:19",
-    "author": "",
-    "description": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
-    "content": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life."
   },
   {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261022-%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E8%BF%87%E4%B8%A4%E4%BA%BF%E9%83%A8%E6%89%8B%E6%9C%BA%E6%96%B0%E5%8F%8D%E8%AF%88%E7%A8%8B%E5%BA%8F%E8%AF%86%E5%88%AB%E7%9B%98%E9%97%AE%E6%B5%8F%E8%A7%88%E5%A2%99%E5%A4%96%E8%B4%A2%E7%BB%8F%E7%BD%91%E7%AB%99%E4%BA%BA%E5%91%98",
