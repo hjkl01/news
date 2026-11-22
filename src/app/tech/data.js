@@ -1,14 +1,630 @@
 const jsonData = [
   {
-    "id": "科技-IT 之家-https://www.ithome.com/1/030/547.htm",
+    "id": "科技-IT 之家-https://www.ithome.com/1/030/710.htm",
     "feed_name": "IT 之家",
     "category": "科技",
-    "title": "Anthropic 数学家 AI 攻克黎曼猜想？Lean 社区通过核验，数十人报告代码库编译正确",
-    "link": "https://www.ithome.com/1/030/547.htm",
-    "pub_date": "2026-11-22 10:31:50",
+    "title": "苹果首款折叠屏手机 iPhone Duo 开启百亿补贴，电商平台优惠千元到手 14499 元起",
+    "link": "https://www.ithome.com/1/030/710.htm",
+    "pub_date": "2026-11-22 21:17:56",
     "author": "",
-    "description": "感谢IT之家网友 pzvincent、软媒新友2202498、逮捕八公、亿百卢闪葱、不一样的体验、上升式寂寞、SNOS雪诺 的线索投递！ IT之家 11 月 22 日消息，11 月 21 日，Lean 与 Mathlib 社区发布联合声明，称莱文特・阿尔波格（Levent Alpöge）以 Lean 库形式给出的黎曼猜想证明已经通过核验，该证明的代码约 1700 万行。（IT 之家注：Lean 是交互式定理证明器，可逐行机械核验数学推理…",
-    "content": "感谢IT之家网友 pzvincent 、 软媒新友2202498 、 逮捕八公 、 亿百卢闪葱 、 不一样的体验 、 上升式寂寞 、 SNOS雪诺 的线索投递！ IT之家 11 月 22 日消息，11 月 21 日，Lean 与 Mathlib 社区发布联合声明，称莱文特・阿尔波格（Levent Alpöge）以 Lean 库形式给出的黎曼猜想证明已经通过核验， 该证明的代码约 1700 万行 。（IT 之家注：Lean 是交互式定理证明器，可逐行机械核验数学推理是否符合逻辑公理。） 声明由 Lean 与 Math…"
+    "description": "IT之家 11 月 22 日消息，苹果首款折叠屏手机 iPhone Duo 于 10 月 23 日发售，上市约一个月后，目前该机已陆续开始在电商平台开始补贴，以拼多多为例，目前该机已开启百亿补贴，相对于上市价（15999 元起）优惠千元，到手价 14499 元起。 参考IT之家先前报道，有消息称苹果 iPhone Duo 折叠屏手机首销期（首销日 + 后三天）的 SO（销量）接近 200K（20 万）。 iPhone Duo 采用可折叠…",
+    "content": "IT之家 11 月 22 日消息，苹果首款折叠屏手机 iPhone Duo 于 10 月 23 日发售，上市约一个月后，目前该机已陆续开始在电商平台开始补贴，以拼多多为例，目前该机已开启百亿补贴，相对于上市价（15999 元起）优惠千元，到手价 14499 元起。 参考IT之家先前报道，有消息称苹果 iPhone Duo 折叠屏手机首销期（首销日 + 后三天）的 SO（销量）接近 200K（20 万）。 iPhone Duo 采用可折叠设计，配备了苹果迄今面积最大的 iPhone 显示屏。展开状态下，它是迄今最薄的…"
+  },
+  {
+    "id": "科技-The Verge-https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary",
+    "feed_name": "The Verge",
+    "category": "科技",
+    "title": "How Tamagotchis got us hooked on digital pets",
+    "link": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary",
+    "pub_date": "2026-11-22 21:15:27",
+    "author": "David Pierce",
+    "description": "If you were are a kid in the late 1990s, there's a near-100 percent chance you either had a Tamagotchi or knew someone who did. The tiny digital pets came out of nowhere and became an overnight sensation, as millions of …",
+    "content": "If you were are a kid in the late 1990s, there's a near-100 percent chance you either had a Tamagotchi or knew someone who did. The tiny digital pets came out of nowhere and became an overnight sensation, as millions of kids signed up to parent a crying, hungr…"
+  },
+  {
+    "id": "科技-The Verge-https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
+    "feed_name": "The Verge",
+    "category": "科技",
+    "title": "Your questions about Apple HomeView’s audio, answered",
+    "link": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
+    "pub_date": "2026-11-22 21:00:00",
+    "author": "Jennifer Pattison Tuohy",
+    "description": "Apple’s HomeView is a great music controller and a decent speaker for its size. | Photo: Hunter McRae for The Verge After I published my review of the HomeView, Apple's first smart display, y'all still had a ton of quest…",
+    "content": "Apple’s HomeView is a great music controller and a decent speaker for its size. | Photo: Hunter McRae for The Verge After I published my review of the HomeView , Apple's first smart display , y'all still had a ton of questions about how it works as a smart spe…"
+  },
+  {
+    "id": "科技-The Verge-https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+    "feed_name": "The Verge",
+    "category": "科技",
+    "title": "The vibe-coding revolution is coming to all the gadgets",
+    "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+    "pub_date": "2026-11-22 21:00:00",
+    "author": "David Pierce",
+    "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday…",
+    "content": "This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce . The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback he…"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8214070.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "方向盘收起的 10 秒，比亚迪在给下一个十年立标杆",
+    "link": "https://www.tmtpost.com/8214070.html",
+    "pub_date": "2026-11-22 20:35:09",
+    "author": "",
+    "description": "定义权比技术本身更稀缺",
+    "content": "定义权比技术本身更稀缺"
+  },
+  {
+    "id": "科技-IT 之家-https://www.ithome.com/1/030/706.htm",
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "韩国最大电力公司韩电再曝大规模数据泄露，152 万人信息外泄",
+    "link": "https://www.ithome.com/1/030/706.htm",
+    "pub_date": "2026-11-22 20:24:05",
+    "author": "",
+    "description": "IT之家 11 月 22 日消息，韩国最大电力公司韩国电力公社（IT之家注：KEPCO，简称“韩电”）今日表示，已确认发生另一起涉及约 152 万用户个人信息的数据泄露事件。 上个月，该公司披露了一起影响 35,528 名内部员工、退休人员及合作方员工的信息泄露事件。 据介绍，本次泄露的信息中大量包含了居民登录号码（韩国身份证号）、电话号码、地址、账号、卡号等。此次确认发生信息泄露的地方，是提供电费查询、缴纳等服务的客户服务平台“韩电 …",
+    "content": "IT之家 11 月 22 日消息，韩国最大电力公司韩国电力公社（IT之家注：KEPCO，简称“韩电”）今日表示，已确认发生另一起涉及约 152 万用户个人信息的数据泄露事件。 上个月，该公司披露了一起影响 35,528 名内部员工、退休人员及合作方员工的信息泄露事件。 据介绍，本次泄露的信息中大量包含了居民登录号码（韩国身份证号）、电话号码、地址、账号、卡号等。此次确认发生信息泄露的地方，是提供电费查询、缴纳等服务的客户服务平台“韩电 ON”以及用于采购、工程、劳务合同的电子采购系统。 韩电在 20 日掌握泄露事实…"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8214063.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "易天股份拟控股艾晨数能，主业承压下新管理层加码储能",
+    "link": "https://www.tmtpost.com/8214063.html",
+    "pub_date": "2026-11-22 20:12:40",
+    "author": "",
+    "description": "易天股份加快布局数据中心供电和储能设备。",
+    "content": "易天股份加快布局数据中心供电和储能设备。"
+  },
+  {
+    "id": "科技-IT 之家-https://www.ithome.com/1/030/704.htm",
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "日本零售业接连爆发数据泄露事件，塔唱片约 1020 万账户信息遭窃",
+    "link": "https://www.ithome.com/1/030/704.htm",
+    "pub_date": "2026-11-22 20:10:44",
+    "author": "",
+    "description": "IT之家 11 月 22 日消息，据彭博社报道，日本音乐零售商塔唱片（Tower Records Japan Inc.）表示，公司遭遇未经授权的访问，导致客户信息泄露。这使塔唱片成为近期披露数据泄露事件的又一家日本零售企业。 塔唱片在周日更新的一份声明中表示，此次事件导致约 1020 万个账户的登录信息泄露，包括电子邮件地址和用户 ID。公司称，已于周四发现这起未经授权的访问事件。 IT之家注意到，塔唱片披露数据泄露事件之前，日本在线服…",
+    "content": "IT之家 11 月 22 日消息，据彭博社报道，日本音乐零售商塔唱片（Tower Records Japan Inc.）表示，公司遭遇未经授权的访问，导致客户信息泄露。这使塔唱片成为近期披露数据泄露事件的又一家日本零售企业。 塔唱片在周日更新的一份声明中表示，此次事件导致约 1020 万个账户的登录信息泄露，包括电子邮件地址和用户 ID。公司称，已于周四发现这起未经授权的访问事件。 IT之家注意到，塔唱片披露数据泄露事件之前，日本在线服装零售商 Zozo 已于上周五宣布，约 1520 万名客户的信息遭到泄露。 Zo…"
+  },
+  {
+    "id": "科技-Ars Technica-https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+    "feed_name": "Ars Technica",
+    "category": "科技",
+    "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+    "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+    "pub_date": "2026-11-22 20:07:41",
+    "author": "",
+    "description": "GLP-1 drugs could cut food demand enough to free farmland larger than Italy.",
+    "content": "GLP-1 drugs could cut food demand enough to free farmland larger than Italy."
+  },
+  {
+    "id": "科技-Solidot-https://www.solidot.org/story?sid=85958",
+    "feed_name": "Solidot",
+    "category": "科技",
+    "title": "Waymo 无人驾驶出租车因旧金山洪水而陷入困境",
+    "link": "https://www.solidot.org/story?sid=85958",
+    "pub_date": "2026-11-22 20:01:39",
+    "author": "",
+    "description": "无人驾驶汽车暂时还无法应付洪水淹没道路的情况：今年早些时候 Waymo 的无人驾驶出租车因亚特兰大的洪水而受困；本周旧金山遭遇强降雨，多处街道被淹，这也导致了多辆 Waymo 汽车受困。Golden Gate Park Panhandle 旁的 Oak 街有两条车道被淹，积水从井盖涌出，Waymo 汽车停在了井盖前，堵住了一条可通行的车道，迫使后面的汽车从水更深的车道绕路。一名 Waymo 乘客搭乘出租车从 North Beach 到 …",
+    "content": "无人驾驶汽车暂时还无法应付洪水淹没道路的情况：今年早些时候 Waymo 的无人驾驶出租车因亚特兰大的洪水而受困；本周旧金山遭遇强降雨，多处街道被淹，这也导致了多辆 Waymo 汽车受困。Golden Gate Park Panhandle 旁的 Oak 街有两条车道被淹，积水从井盖涌出，Waymo 汽车停在了井盖前，堵住了一条可通行的车道，迫使后面的汽车从水更深的车道绕路。一名 Waymo 乘客搭乘出租车从 North Beach 到 Mission Bay，整个行程耗时一个半小时，无人出租车遭遇积水路段先后靠边停…"
+  },
+  {
+    "id": "科技-Wired-https://www.wired.com/gallery/best-travel-adapters/",
+    "feed_name": "Wired",
+    "category": "科技",
+    "title": "8 Best Travel Adapters (2026): 20+ Models Tested",
+    "link": "https://www.wired.com/gallery/best-travel-adapters/",
+    "pub_date": "2026-11-22 20:00:00",
+    "author": "",
+    "description": "When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers that I’ve tested myself.",
+    "content": "When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers that I’ve tested myself."
+  },
+  {
+    "id": "科技-IT 之家-https://www.ithome.com/1/030/702.htm",
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "B站就“AI 大肥鱼”智能体账号泛滥发布调查问卷，征集治理意见",
+    "link": "https://www.ithome.com/1/030/702.htm",
+    "pub_date": "2026-11-22 19:44:18",
+    "author": "",
+    "description": "感谢IT之家网友 Domado 的线索投递！ IT之家 11 月 22 日消息，近期B站出现大量爱好者设置的 AI 智能体账号，这些账号通常以“大肥鱼”“小飞鲸”等昵称，使用 DeepSeek 鲸鱼娘等形象作为头像，在评论区广泛活跃。 对此，B站官方账号“哔哩哔哩社区小管家”于 11 月 20 日发布《关于 AI“大肥鱼”你怎么看？》治理意见征询，面向用户征集对 AI 账号及相关行为的意见，并表示将根据反馈推进后续治理行动。 IT之家注…",
+    "content": "感谢IT之家网友 Domado 的线索投递！ IT之家 11 月 22 日消息，近期B站出现大量爱好者设置的 AI 智能体账号，这些账号通常以“大肥鱼”“小飞鲸”等昵称，使用 DeepSeek 鲸鱼娘等形象作为头像，在评论区广泛活跃。 对此，B站官方账号“哔哩哔哩社区小管家”于 11 月 20 日发布《关于 AI“大肥鱼”你怎么看？》治理意见征询，面向用户征集对 AI 账号及相关行为的意见，并表示将根据反馈推进后续治理行动。 IT之家注意到，AI 智能体“井喷”现象最初源自一位爱好者创建的“Claude 大小姐在运…"
+  },
+  {
+    "id": "科技-Wired-https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-22-26/",
+    "feed_name": "Wired",
+    "category": "科技",
+    "title": "Best Black Friday Nintendo Switch 2 Deals (2026): Switch 2 Bundles and Games",
+    "link": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-22-26/",
+    "pub_date": "2026-11-22 19:30:00",
+    "author": "",
+    "description": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games.",
+    "content": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games."
+  },
+  {
+    "id": "科技-IT 之家-https://www.ithome.com/1/030/698.htm",
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "郭明錤：谷歌削减 2027 年博通设计的 TPU 8i 系列出货量约 100 万颗",
+    "link": "https://www.ithome.com/1/030/698.htm",
+    "pub_date": "2026-11-22 19:20:07",
+    "author": "",
+    "description": "IT之家 11 月 22 日消息，天风国际证券分析师郭明錤在 X 发文，其最新的产业调查显示，谷歌削减了 2027 年、由博通设计的 TPU 8i 系列共约 100 万颗（以单价较高的 8i Max / Whalefish 为主）。 IT之家获悉，此次削减约占 2027 年 TPU 8i 系列芯片出货量的 20%。 调查还指出，谷歌预计增加 2027 年由联发科设计的 TPU 8t 系列出货，但细节尚未确定。 郭明錤称谷歌近几个月反复强…",
+    "content": "IT之家 11 月 22 日消息，天风国际证券分析师郭明錤在 X 发文，其最新的产业调查显示，谷歌削减了 2027 年、由博通设计的 TPU 8i 系列共约 100 万颗（以单价较高的 8i Max / Whalefish 为主）。 IT之家获悉，此次削减约占 2027 年 TPU 8i 系列芯片 出货量的 20% 。 调查还指出，谷歌预计增加 2027 年由联发科设计的 TPU 8t 系列出货，但细节尚未确定。 郭明錤称谷歌近几个月反复强调前沿模型研发优先取得算力，此次 8t 与 8i 系列出货比重的改变， 正是…"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8213860.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "中国和印度，在非洲瓷砖市场的第二次交锋",
+    "link": "https://www.tmtpost.com/8213860.html",
+    "pub_date": "2026-11-22 19:06:02",
+    "author": "",
+    "description": "中国和印度是全球最大的两个瓷砖生产国。过去十多年，双方在非洲市场频繁交手。印度依靠莫尔比的产业集群和低价出口，一度在非洲瓷砖出口市场超过中国。",
+    "content": "中国和印度是全球最大的两个瓷砖生产国。过去十多年，双方在非洲市场频繁交手。印度依靠莫尔比的产业集群和低价出口，一度在非洲瓷砖出口市场超过中国。"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8213670.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "从快手独立，可灵要回答的问题变了",
+    "link": "https://www.tmtpost.com/8213670.html",
+    "pub_date": "2026-11-22 19:05:57",
+    "author": "",
+    "description": "估值超过快手。",
+    "content": "估值超过快手。"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8213631.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "50.6万元惊动整条电力链？南网储能抽蓄首单数币结算落地，小钱撬动中国数字货币规则大棋",
+    "link": "https://www.tmtpost.com/8213631.html",
+    "pub_date": "2026-11-22 19:05:20",
+    "author": "",
+    "description": "南网储能数币结算落地，验证资金链新基建价值。",
+    "content": "南网储能数币结算落地，验证资金链新基建价值。"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8212870.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "拆解大厂财报：谁最舍得为AI花钱？",
+    "link": "https://www.tmtpost.com/8212870.html",
+    "pub_date": "2026-11-22 19:05:18",
+    "author": "",
+    "description": "四家大厂的业务线里，算力、模型服务和AI工具已经形成可以辨认的收入模式。",
+    "content": "四家大厂的业务线里，算力、模型服务和AI工具已经形成可以辨认的收入模式。"
+  },
+  {
+    "id": "科技-Wired-https://www.wired.com/story/best-gifts-for-moms-2026/",
+    "feed_name": "Wired",
+    "category": "科技",
+    "title": "Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More",
+    "link": "https://www.wired.com/story/best-gifts-for-moms-2026/",
+    "pub_date": "2026-11-22 19:02:00",
+    "author": "",
+    "description": "From a calendar that keeps my family organized to a frame that rescues photos from my camera roll, these favorites make thoughtful gifts.",
+    "content": "From a calendar that keeps my family organized to a frame that rescues photos from my camera roll, these favorites make thoughtful gifts."
+  },
+  {
+    "id": "科技-Wired-https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+    "feed_name": "Wired",
+    "category": "科技",
+    "title": "Banks Have Had It Up to Here With Your AI Agent",
+    "link": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+    "pub_date": "2026-11-22 19:00:00",
+    "author": "",
+    "description": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+    "content": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem."
+  },
+  {
+    "id": "科技-IT 之家-https://www.ithome.com/1/030/692.htm",
+    "feed_name": "IT 之家",
+    "category": "科技",
+    "title": "闲鱼：2026 年第二季度日活增加 23%、订单增加 29%，AI 成核心增长动力",
+    "link": "https://www.ithome.com/1/030/692.htm",
+    "pub_date": "2026-11-22 18:54:53",
+    "author": "",
+    "description": "IT之家 11 月 22 日消息，闲鱼表示，2026 年第二季度平台延续强劲增长势头，日均活跃用户同比增长 23%，订单量同比增长 29%。平台在 AI 加持及持续创新服务下，令个人用户、小微卖家的交易更加频繁便捷。 闲鱼表示，今年以来，AI 技术在平台交易全链路的落地补齐了普通用户的经营短板，成为拉动本季度订单量增长的核心动力。财报披露，智能定价、自动生成商品描述及精准买家匹配等 AI 功能，大幅降低了交易门槛。 阿里巴巴集团副总裁、…",
+    "content": "IT之家 11 月 22 日消息，闲鱼表示，2026 年第二季度平台延续强劲增长势头， 日均活跃用户同比增长 23%，订单量同比增长 29% 。平台在 AI 加持及持续创新服务下，令个人用户、小微卖家的交易更加频繁便捷。 闲鱼表示，今年以来，AI 技术在平台交易全链路的落地补齐了普通用户的经营短板，成为拉动本季度订单量增长的核心动力。财报披露，智能定价、自动生成商品描述及精准买家匹配等 AI 功能，大幅降低了交易门槛。 阿里巴巴集团副总裁、闲鱼 CEO 谌伟业透露，过去一年已有超 150 万用户在闲鱼获得持续稳定的…"
+  },
+  {
+    "id": "科技-快科技-https://news.mydrivers.com/1/1167/1167652.htm",
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "失散20年双胞胎不找亲生父母 称养恩大于生恩",
+    "link": "https://news.mydrivers.com/1/1167/1167652.htm",
+    "pub_date": "2026-11-22 18:45:27",
+    "author": "",
+    "description": "",
+    "content": "据媒体报道，近日，博主姐姐“Sum”（夏天）和妹妹“阿Co”（小罗）发布“失散20年双胞胎生日重逢”的视频引发关注。由于此事过于巧合，有网友怀疑是剧本。 记者采访双胞胎姐妹，妹妹小罗告诉记者，她们在2006年农历9月份出生，出生十几天便被生父母送养。妹妹在四川达州、姐姐在四川广安长大，两姐妹先后来到深圳生活：“今年10月30日，堂哥发现网上有一个女孩长得和我很像，当天晚上就联系了双方养父母，证实了都是抱养的。” 据姐姐小夏所说，当年她的亲生父母生了大姐、二姐，第三胎就是她和小罗（双胞胎）。她的养父母在小区里认识了亲…"
+  },
+  {
+    "id": "科技-快科技-https://news.mydrivers.com/1/1167/1167651.htm",
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "腾势N8爆单！比亚迪公布交付计划：插混版要到明年2月",
+    "link": "https://news.mydrivers.com/1/1167/1167651.htm",
+    "pub_date": "2026-11-22 18:41:33",
+    "author": "",
+    "description": "",
+    "content": "快科技11月22日消息，腾势汽车发布腾势N8“快问快答”第1期，公布各版本交付安排。 官方表示，工厂正在全力提升产能，目前下单的用户中，纯电旗舰型11月优先交付，插混版本预计2027年2月下旬陆续开启交付。 这份时间表按动力、版本、车漆和选装配置分别安排。同样购买腾势N8，选择不同，提车时间也可能相差数月。 纯电尊荣型预计12月中旬陆续开启交付。 纯电旗舰型则在11月优先交付，但深空蓝、日光橙车漆需要等到12月。选装主驾躺平座椅的车辆，预计12月中旬开启交付；选装20英寸多福星芒轮毂的车辆，预计12月下旬陆续开启交…"
+  },
+  {
+    "id": "科技-快科技-https://news.mydrivers.com/1/1167/1167650.htm",
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "黄仁勋离任后首张旗舰显卡！RTX 6090发布时间爆料",
+    "link": "https://news.mydrivers.com/1/1167/1167650.htm",
+    "pub_date": "2026-11-22 18:33:09",
+    "author": "",
+    "description": "",
+    "content": "据知名硬件爆料频道Moore's Law Is Dead消息，NVIDIA下一代旗舰显卡GeForce RTX 6090可能会在2027年底至2028年初登场，而现款旗舰GeForce RTX 5090则预计最早于2027年停产。 若消息属实RTX 6090大概率会成为黄仁勋离任后的首款消费级旗舰显卡。 据透露NVIDIA近期更新了旗舰显卡的内部生命周期（EOL）计划。相关信息会提前向零售商通报，以便他们规划未来几年的采购和资金安排。 更新后的数据库显示，顶级显卡GeForce RTX 5090预计最早将在2027…"
+  },
+  {
+    "id": "科技-Solidot-https://www.solidot.org/story?sid=85957",
+    "feed_name": "Solidot",
+    "category": "科技",
+    "title": "地球捕获了一颗迷你月球",
+    "link": "https://www.solidot.org/story?sid=85957",
+    "pub_date": "2026-11-22 18:31:07",
+    "author": "",
+    "description": "地球引力在今年四月捕获了一颗迷你小行星。这颗直径约 2 米的迷你月球将在地球轨道上一直停留到 12 月初，之后它将摆脱地球引力继续沿着绕太阳的轨道运行。由于其极其微小且暗淡，天文学家花了数周时间才确认它并非报废的人造卫星或卫星碎片。负责跟踪太阳系内小行星、彗星等天体的国际天文学联合会小行星中心在 10 月下旬将其命名为 2026 QQ8。地球其实并不缺乏迷你月球，天文学家曾多次用该名称描述被地球引力捕获的小行星：在地球轨道上停留约一年的…",
+    "content": "地球引力在今年四月捕获了一颗迷你小行星。这颗直径约 2 米的迷你月球将在地球轨道上一直停留到 12 月初，之后它将摆脱地球引力继续沿着绕太阳的轨道运行。由于其极其微小且暗淡，天文学家花了数周时间才确认它并非报废的人造卫星或卫星碎片。负责跟踪太阳系内小行星、彗星等天体的国际天文学联合会小行星中心在 10 月下旬将其命名为 2026 QQ8。地球其实并不缺乏迷你月球，天文学家曾多次用该名称描述被地球引力捕获的小行星：在地球轨道上停留约一年的 2006 RH120，绕地球运行约三年 2020 CD3。小行星中心主任 Ma…"
+  },
+  {
+    "id": "科技-Wired-https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/",
+    "feed_name": "Wired",
+    "category": "科技",
+    "title": "Scientists Tried to Kill This Dirt, but It Wouldn’t Die",
+    "link": "https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/",
+    "pub_date": "2026-11-22 18:30:00",
+    "author": "",
+    "description": "Biologically important chemical reactions persisted in the sterilized soil for six years—offering clues to how life on Earth may have gotten its start.",
+    "content": "Biologically important chemical reactions persisted in the sterilized soil for six years—offering clues to how life on Earth may have gotten its start."
+  },
+  {
+    "id": "科技-快科技-https://news.mydrivers.com/1/1167/1167649.htm",
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "小米澎程征服4750米高峰 底盘磕烂了？雷军直呼吓一跳",
+    "link": "https://news.mydrivers.com/1/1167/1167649.htm",
+    "pub_date": "2026-11-22 18:28:39",
+    "author": "",
+    "description": "",
+    "content": "快科技11月22日消息，汽车博主“堂主撩車”近日分享了驾驶小米澎程穿越石九线的视频，称车辆登上海拔4750米高峰。标题用了“底盘磕烂了”，连雷军都被吓了一跳。 该视频于11月20日发布，时长约31分钟。标题是“穿越石九线，我把小米澎程底盘磕烂了！” 雷军转发后，博主随后回复：“下次再也不起这种吓人标题了……”并配上笑哭表情。 “底盘磕烂了”很容易让人联想到车辆严重受损。 实际上，这辆小米澎程的底盘并未磕烂。雷军写道：“虽多次磕碰底盘，但车辆无结构性损伤。” 据了解，该博主驾驶小米澎程从成都出发，穿越以险峻著称的石九…"
+  },
+  {
+    "id": "科技-雷峰网-https://www.leiphone.com/category/zaobao/qb1uol6hKvK6pRgF.html",
+    "feed_name": "雷峰网",
+    "category": "科技",
+    "title": "特朗普表态：英伟达Blackwell芯片可对华销售，但有个条件；OpenAI被曝入局智能手机赛道；DeepSeek第二轮千亿融资落地，31家出资方入局",
+    "link": "https://www.leiphone.com/category/zaobao/qb1uol6hKvK6pRgF.html",
+    "pub_date": "2026-11-22 18:15:00",
+    "author": "",
+    "description": "导语：早报来啦~ 要闻提示 1.OpenAI被曝入局智能手机赛道，富士康获组装订单 2.特朗普表态：英伟达Blackwell芯片可对华销售，但有个条件 3.DeepSeek千亿融资落地，31家出资方入股梁文锋搭建的持股平台 4.马斯克自称“中国超级粉丝”：首次到访深圳被震撼，特斯拉将继续在华提高产量 5.字节跳动拟追加5亿美元微软云服务合同 6.西祠胡同创始人响马突发心梗：到急诊几分钟后心脏骤停，现已回家静养 7.黄仁勋继任者被曝已有人…",
+    "content": "导语：早报来啦~ 要闻提示 1.OpenAI被曝入局智能手机赛道，富士康获组装订单 2.特朗普表态：英伟达Blackwell芯片可对华销售，但有个条件 3.DeepSeek千亿融资落地，31家出资方入股梁文锋搭建的持股平台 4.马斯克自称“中国超级粉丝”：首次到访深圳被震撼，特斯拉将继续在华提高产量 5.字节跳动拟追加5亿美元微软云服务合同 6.西祠胡同创始人响马突发心梗：到急诊几分钟后心脏骤停，现已回家静养 7.黄仁勋继任者被曝已有人选！马斯克：英伟达把他赶走，堪比公牛队连胜时踢走乔丹 8.Anthropic完成…"
+  },
+  {
+    "id": "科技-Solidot-https://www.solidot.org/story?sid=85956",
+    "feed_name": "Solidot",
+    "category": "科技",
+    "title": "丰田尼桑本田同意标准化零部件以降低成本",
+    "link": "https://www.solidot.org/story?sid=85956",
+    "pub_date": "2026-11-22 18:05:07",
+    "author": "",
+    "description": "日本三大汽车制造商丰田、尼桑和本田同意推进零部件标准化以降低制造成本。短期内标准化工作将从三个方面入手：统一钢材的质量标准、规范塑料和树脂的相关技术要求，统一线束的颜色编码方案。未来标准化范围将扩大至整车的更多零部件。选择这三个方面作为首批标准化对象，是因为它们通常不被消费者注意到，不会影响各大品牌的身份认同。而这三个方面在汽车制造商的生产成本中占比较大，采取标准化能带来立竿见影的成本削减效果。日本汽车制造商正面临来自中国汽车制造商日益…",
+    "content": "日本三大汽车制造商丰田、尼桑和本田同意推进零部件标准化以降低制造成本。短期内标准化工作将从三个方面入手：统一钢材的质量标准、规范塑料和树脂的相关技术要求，统一线束的颜色编码方案。未来标准化范围将扩大至整车的更多零部件。选择这三个方面作为首批标准化对象，是因为它们通常不被消费者注意到，不会影响各大品牌的身份认同。而这三个方面在汽车制造商的生产成本中占比较大，采取标准化能带来立竿见影的成本削减效果。日本汽车制造商正面临来自中国汽车制造商日益激烈的竞争。"
+  },
+  {
+    "id": "科技-Wired-https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/",
+    "feed_name": "Wired",
+    "category": "科技",
+    "title": "How This Year’s Super El Niño Will Worsen Global Hunger",
+    "link": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/",
+    "pub_date": "2026-11-22 18:00:00",
+    "author": "",
+    "description": "While some regions get wetter, others face massive drought. On top of wars and cuts to foreign aid, the weather phenomenon could leave millions of people in vulnerable countries without enough to eat.",
+    "content": "While some regions get wetter, others face massive drought. On top of wars and cuts to foreign aid, the weather phenomenon could leave millions of people in vulnerable countries without enough to eat."
+  },
+  {
+    "id": "科技-InfoQ 中文-https://www.infoq.cn/article/UUqekkOQ8haEXZ792UjU",
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "财务团队的 AI 蓝图",
+    "link": "https://www.infoq.cn/article/UUqekkOQ8haEXZ792UjU",
+    "pub_date": "2026-11-22 17:54:58",
+    "author": "",
+    "description": "财务领导者肩负着明确的任务:证明 AI 投资回报、治理 AI 成本，并重塑首席财务官办公室的运营方式。在这场主题演讲中，Snowflake 首席财务官 Brian Robins 将分享当下财务团队面临的趋势、挑战与机遇，并介绍 Snowflake 自身的财务团队如何使用 Snowflake。随后，演讲将跟随一位首席财务官，走过持续结账的完整周期:从加快结账、分析差异，到重新预测和准备业绩发布，全程由可信数据与 AI 提供支持。最后，一位…",
+    "content": "财务领导者肩负着明确的任务:证明 AI 投资回报、治理 AI 成本，并重塑首席财务官办公室的运营方式。在这场主题演讲中，Snowflake 首席财务官 Brian Robins 将分享当下财务团队面临的趋势、挑战与机遇，并介绍 Snowflake 自身的财务团队如何使用 Snowflake。随后，演讲将跟随一位首席财务官，走过持续结账的完整周期:从加快结账、分析差异，到重新预测和准备业绩发布，全程由可信数据与 AI 提供支持。最后，一位客户将分享行业领先企业如何在实践中重新构想 AI 驱动的财务管理。"
+  },
+  {
+    "id": "科技-InfoQ 中文-https://www.infoq.cn/article/mihBFvImttvJlSFUqC49",
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "打造 AI 优先的销售与营销运营体系",
+    "link": "https://www.infoq.cn/article/mihBFvImttvJlSFUqC49",
+    "pub_date": "2026-11-22 17:41:49",
+    "author": "",
+    "description": "构建 AI 优先的销售与营销组织，需要哪些条件?Snowflake 首席营销官 DenisePersson 和首席营收官 Jon Beaulier 将探讨如何协同团队、整合业务数据，并明确职责分工，让 AI 真正发挥作用。现场还将演示如何使用 Snowflake CoWork 解答业务问题，并分享 Snowflake 团队在推动 AI 应用、衡量实际成效方面的经验。Canva 首席客户官 RobGiglio 也将加入对话，分享他对团队管…",
+    "content": "构建 AI 优先的销售与营销组织，需要哪些条件?Snowflake 首席营销官 DenisePersson 和首席营收官 Jon Beaulier 将探讨如何协同团队、整合业务数据，并明确职责分工，让 AI 真正发挥作用。现场还将演示如何使用 Snowflake CoWork 解答业务问题，并分享 Snowflake 团队在推动 AI 应用、衡量实际成效方面的经验。Canva 首席客户官 RobGiglio 也将加入对话，分享他对团队管理、营销与销售协同，以及 AI 未来机遇的见解。"
+  },
+  {
+    "id": "科技-InfoQ 中文-https://www.infoq.cn/article/Ly5HbhY4pNMCF04abkFo",
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "智能体企业新前沿：驱动高效智能",
+    "link": "https://www.infoq.cn/article/Ly5HbhY4pNMCF04abkFo",
+    "pub_date": "2026-11-22 17:38:28",
+    "author": "",
+    "description": "在这场开场主题演讲中，Snowflake CEO Sridhar Ramaswamy 与产品执行副总裁 Christian Kleinerman 将分享 Snowflake 如何依托开放、受治理的数据基础，助力企业构建智能体企业，实现高效智能。通过跨职能场景的现场演示和《财富》500强企业高管的实践洞察，他们将展示业务团队与技术团队如何在实际工作场景中有效采取行动。",
+    "content": "在这场开场主题演讲中，Snowflake CEO Sridhar Ramaswamy 与产品执行副总裁 Christian Kleinerman 将分享 Snowflake 如何依托开放、受治理的数据基础，助力企业构建智能体企业，实现高效智能。通过跨职能场景的现场演示和《财富》500强企业高管的实践洞察，他们将展示业务团队与技术团队如何在实际工作场景中有效采取行动。"
+  },
+  {
+    "id": "科技-快科技-https://news.mydrivers.com/1/1167/1167642.htm",
+    "feed_name": "快科技",
+    "category": "科技",
+    "title": "男子把高速公路当卧室 凌晨3点铺上被褥就地睡觉",
+    "link": "https://news.mydrivers.com/1/1167/1167642.htm",
+    "pub_date": "2026-11-22 17:10:25",
+    "author": "",
+    "description": "",
+    "content": "快科技11月22日消息，据云南保山警方披露，一名男子深夜驾车犯困后，竟把车停在高速公路应急车道内，拿出床垫和被褥，在车头前方铺床睡觉。民警赶到时，他已经睡着，身旁不断有车辆驶过。 事情发生在11月14日凌晨3时许。保山市公安局交管支队高速公路一大队接到报警，称保山东南绕城高速公路上，一辆小车长时间停靠在应急车道内，需要民警前往查看。 接警后，民警立即出发，沿高速公路寻找，最终发现了这辆车。 下车检查时，民警发现车前方铺着被褥和床垫，一名男子正躺在上面酣睡，完全把应急车道当成了休息场所。 “这是高速公路啊！你怎么会在…"
+  },
+  {
+    "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6497924.html",
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "到底谁用AI赚到钱了",
+    "link": "https://www.woshipm.com/ai/6497924.html",
+    "pub_date": "2026-11-22 16:44:40",
+    "author": "",
+    "description": "AI 让智力变得廉价，最先被洗牌的可能是靠专业吃饭的中产。作者认为，组织扁平化只是表层，真正难的是利益分配机制——工业革命时期的知识产权制度之所以点燃技术爆发，正因为它重新定义了谁创造、谁受益。这套规则在智能经济时代怎么改，才是关键。 早上起来，又是各种大跌，我说的是美国。一直造神的Anthropic也跌了。 最近几天朋友们聊天都在问，你赚钱了吗？到底谁赚钱了。有人忙完这个忙那个，有人投完这个投那个，似乎都没赚到钱。 AI让智力变得廉价…",
+    "content": "AI 让智力变得廉价，最先被洗牌的可能是靠专业吃饭的中产。作者认为，组织扁平化只是表层，真正难的是利益分配机制——工业革命时期的知识产权制度之所以点燃技术爆发，正因为它重新定义了谁创造、谁受益。这套规则在智能经济时代怎么改，才是关键。 早上起来，又是各种大跌，我说的是美国。一直造神的Anthropic也跌了。 最近几天朋友们聊天都在问，你赚钱了吗？到底谁赚钱了。有人忙完这个忙那个，有人投完这个投那个，似乎都没赚到钱。 AI让智力变得廉价，大批“中产”“专业人士”会受影响。还在做程序员的朋友说，代码写得多不代表钱赚得…"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8213773.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "跨境收款之后，中国公司盯上智能体支付的新生意",
+    "link": "https://www.tmtpost.com/8213773.html",
+    "pub_date": "2026-11-22 16:19:16",
+    "author": "",
+    "description": "中国公司正在通过智能体支付，从赚通道费走向把经营能力捆绑进企业的日常工作流。",
+    "content": "中国公司正在通过智能体支付，从赚通道费走向把经营能力捆绑进企业的日常工作流。"
+  },
+  {
+    "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6497926.html",
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "姚顺雨团队首次公开AMA：混元为什么不做“更稀疏”的模型？",
+    "link": "https://www.woshipm.com/ai/6497926.html",
+    "pub_date": "2026-11-22 15:44:41",
+    "author": "",
+    "description": "770B 参数的 Hy4 开源次日，姚顺雨带 9 名混元成员在 Reddit 社区答了 100 多个问题。为什么不做 3 万亿参数、MoE 是不是越稀越好、不刷榜之后拿什么证明自己，两个小时的 AMA 里，混元把下一步路线摊开讲了一遍。 11月20日，腾讯正式开源Hy4大模型，并将模型权重同步至GitHub、Hugging Face、ModelScope 和 GitCode四个平台。 次日凌晨，包括腾讯首席AI科学家、混元大模型负责人姚…",
+    "content": "770B 参数的 Hy4 开源次日，姚顺雨带 9 名混元成员在 Reddit 社区答了 100 多个问题。为什么不做 3 万亿参数、MoE 是不是越稀越好、不刷榜之后拿什么证明自己，两个小时的 AMA 里，混元把下一步路线摊开讲了一遍。 11月20日，腾讯正式开源Hy4大模型，并将模型权重同步至GitHub、Hugging Face、ModelScope 和 GitCode四个平台。 次日凌晨，包括腾讯首席AI科学家、混元大模型负责人姚顺雨在内的腾讯混元团队多位成员，在Reddit的开源大模型社区 r/LocalL…"
+  },
+  {
+    "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6497908.html",
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "卖爆、降价、退货三成：AI玩具的双11账本",
+    "link": "https://www.woshipm.com/ai/6497908.html",
+    "pub_date": "2026-11-22 14:44:37",
+    "author": "",
+    "description": "2026年1—7月，中国电商AI玩具销量同比增长158.7%，销售额只涨72.7%，均价下跌33.3%。卖得更多，也更便宜了。这不是赛道变差，而是“会说话”这项能力在贬值：机芯压到50元，对话模块三五十元，国补叠加消费券，谁都能让一只毛绒玩偶开口。当对话变成供应链标配，溢价就不再由技术给，而由场景、关系与留存给。AI玩具的成年礼，不是学会开口，是开始为留下买单。 今年双11，购物车里最热闹的新面孔是AI。京东售出超5000万件AI产品，…",
+    "content": "2026年1—7月，中国电商AI玩具销量同比增长158.7%，销售额只涨72.7%，均价下跌33.3%。卖得更多，也更便宜了。这不是赛道变差，而是“会说话”这项能力在贬值：机芯压到50元，对话模块三五十元，国补叠加消费券，谁都能让一只毛绒玩偶开口。当对话变成供应链标配，溢价就不再由技术给，而由场景、关系与留存给。AI玩具的成年礼，不是学会开口，是开始为留下买单。 今年双11，购物车里最热闹的新面孔是AI。京东售出超5000万件AI产品，手机淘宝AI相关品类浏览量超40亿，连算力Token都摆上货架打起折扣。AI玩具…"
+  },
+  {
+    "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6498006.html",
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "阿里向上，Anthropic 向下",
+    "link": "https://www.woshipm.com/ai/6498006.html",
+    "pub_date": "2026-11-22 14:27:00",
+    "author": "",
+    "description": "11 月 19 日，Anthropic 登陆纳斯达克，同一天阿里交出 AI 云收入增长 53% 的季报。一家从模型往芯片和数据中心走，一家从电商往模型和智能体上爬，方向相反却在同一个降温的资本市场里殊途同归。吴泳铭给 2032 年定的目标是 20GW 数据中心。 十一月的股市为 AI 沉默，沉默是十一月的 AI。 在美股持续回调的 11 月，千呼万唤的 Anthropic 终于登陆纳斯达克。11 月 19 日，这家 Claude 背后的…",
+    "content": "11 月 19 日，Anthropic 登陆纳斯达克，同一天阿里交出 AI 云收入增长 53% 的季报。一家从模型往芯片和数据中心走，一家从电商往模型和智能体上爬，方向相反却在同一个降温的资本市场里殊途同归。吴泳铭给 2032 年定的目标是 20GW 数据中心。 十一月的股市为 AI 沉默，沉默是十一月的 AI。 在美股持续回调的 11 月，千呼万唤的 Anthropic 终于登陆纳斯达克。11 月 19 日，这家 Claude 背后的公司正式挂牌交易。 Anthropic 在国内为人熟知，除了 Claude，还有…"
+  },
+  {
+    "id": "科技-人人都是产品经理-https://www.woshipm.com/marketing/6497521.html",
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "中国SAAS/AI的海外数字营销怎么做？",
+    "link": "https://www.woshipm.com/marketing/6497521.html",
+    "pub_date": "2026-11-22 14:21:27",
+    "author": "",
+    "description": "一家出海一年的 SaaS 公司投了 30 多万广告，线索不少成交很少，官网自然流量、G2 评价、Reddit 讨论全是空白。客户见你之前已走过 11 个信息节点，自然搜索转化率 2.02%，付费社交只有 0.12%。文章给出四层网和 90 天路线图。 前阵子跟一个做SaaS的老板聊天，他说他们出海一年，投了30多万广告，线索不少，成交很少。 我问他，官网自然流量多少？他说没看过。G2上有几条评价？他说不知道G2是啥。Reddit上有没有…",
+    "content": "一家出海一年的 SaaS 公司投了 30 多万广告，线索不少成交很少，官网自然流量、G2 评价、Reddit 讨论全是空白。客户见你之前已走过 11 个信息节点，自然搜索转化率 2.02%，付费社交只有 0.12%。文章给出四层网和 90 天路线图。 前阵子跟一个做SaaS的老板聊天，他说他们出海一年，投了30多万广告，线索不少，成交很少。 我问他，官网自然流量多少？他说没看过。G2上有几条评价？他说不知道G2是啥。Reddit上有没有人讨论过你们？他说那是什么。 我说，你这30万，大概率是倒进了一个没有底的桶。 …"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8213748.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "大众花巨资买软件，想拿回什么？",
+    "link": "https://www.tmtpost.com/8213748.html",
+    "pub_date": "2026-11-22 14:17:13",
+    "author": "",
+    "description": "CARIAD连亏三年，大众换了开发方式",
+    "content": "CARIAD连亏三年，大众换了开发方式"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8213796.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "中设集团总包，7.5亿美元光伏电站项目落地非洲，央国企EPC不再只卖电站",
+    "link": "https://www.tmtpost.com/8213796.html",
+    "pub_date": "2026-11-22 14:17:03",
+    "author": "",
+    "description": "赤几签500MWp光储框架，中资分层分担风险推进。",
+    "content": "赤几签500MWp光储框架，中资分层分担风险推进。"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8213764.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "将靶材卖进台积电，江丰电子布局A+H，第二增长曲线成色待考",
+    "link": "https://www.tmtpost.com/8213764.html",
+    "pub_date": "2026-11-22 14:16:53",
+    "author": "",
+    "description": "做到全球第二，利润成色才是硬仗。",
+    "content": "做到全球第二，利润成色才是硬仗。"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8213679.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "GTA6为何封神？",
+    "link": "https://www.tmtpost.com/8213679.html",
+    "pub_date": "2026-11-22 14:16:49",
+    "author": "",
+    "description": "当地时间 11 月 20 日，Rockstar Games 公布数据：《侠盗猎车手 6》（下称《GTA6》）首发当日全球零售额高达 37.9 亿美元，一举刷新跨娱乐媒介的历史最高纪录，拿下史上最强娱乐产品首发的头衔。",
+    "content": "当地时间 11 月 20 日，Rockstar Games 公布数据：《侠盗猎车手 6》（下称《GTA6》）首发当日全球零售额高达 37.9 亿美元，一举刷新跨娱乐媒介的历史最高纪录，拿下史上最强娱乐产品首发的头衔。"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8213769.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "Anthropic万亿上市，搅动的却是半导体江湖",
+    "link": "https://www.tmtpost.com/8213769.html",
+    "pub_date": "2026-11-22 14:16:44",
+    "author": "",
+    "description": "大买主登陆公开市场，芯片、代工与存储环节都在随之调整。",
+    "content": "大买主登陆公开市场，芯片、代工与存储环节都在随之调整。"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8213763.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "泰国加税，最着急的可能是已经建厂的中国车企",
+    "link": "https://www.tmtpost.com/8213763.html",
+    "pub_date": "2026-11-22 14:09:30",
+    "author": "",
+    "description": "这道税，泰国准备了半年。",
+    "content": "这道税，泰国准备了半年。"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8213795.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "锦浪科技5.44亿弃光投储，撕开光伏电站的旧账本，储能成为一切的答案？",
+    "link": "https://www.tmtpost.com/8213795.html",
+    "pub_date": "2026-11-22 14:09:13",
+    "author": "",
+    "description": "新能源资金随收益模型在光伏储能赛道间流动。",
+    "content": "新能源资金随收益模型在光伏储能赛道间流动。"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8213789.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "存储行业变天：比涨价更可怕的，是拿不到货",
+    "link": "https://www.tmtpost.com/8213789.html",
+    "pub_date": "2026-11-22 14:09:06",
+    "author": "",
+    "description": "名单之内，余量之外，存储被劈成了两个市场。",
+    "content": "名单之内，余量之外，存储被劈成了两个市场。"
+  },
+  {
+    "id": "科技-人人都是产品经理-https://www.woshipm.com/chuangye/6497546.html",
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "三个月做出20万条广告，这家华人 AI 公司开始替商家管广告投放了",
+    "link": "https://www.woshipm.com/chuangye/6497546.html",
+    "pub_date": "2026-11-22 13:32:13",
+    "author": "",
+    "description": "一个商品链接就能生成视频广告：阿里国际站卖家三个月用 Creatify 做了 20 万条视频，超过 80% 投进了真实广告活动。如今它把投放管理和效果分析装进 Creatify Max，想替商家决定每天那笔广告费该怎么花。 今天分享的产品是：Creatify ai，https://creatify.ai/zh 2026年初，一家叫 Designrr 的软件公司遇到了一个挺头疼的问题。它每天在广告平台上花 5000美元，但每投入1美元广告…",
+    "content": "一个商品链接就能生成视频广告：阿里国际站卖家三个月用 Creatify 做了 20 万条视频，超过 80% 投进了真实广告活动。如今它把投放管理和效果分析装进 Creatify Max，想替商家决定每天那笔广告费该怎么花。 今天分享的产品是：Creatify ai，https://creatify.ai/zh 2026年初，一家叫 Designrr 的软件公司遇到了一个挺头疼的问题。它每天在广告平台上花 5000美元， 但每投入1美元广告费，只能带回 0.77美元的归因收入。 广告账户已经运行了很长时间，能想到的卖…"
+  },
+  {
+    "id": "科技-果壳网 / 科学人-https://www.guokr.com/article/470765/",
+    "feed_name": "果壳网 / 科学人",
+    "category": "科技",
+    "title": "第一批培养猫咪李子柒的人，已赚翻",
+    "link": "https://www.guokr.com/article/470765/",
+    "pub_date": "2026-11-22 13:15:16",
+    "author": "",
+    "description": "文章来源： 视觉志（ID：iiidaily） 授权转载 “终于理解老一辈为什么爱看AI小孩了。” 在AI萌宠视频的评论区，总会看到这样的感慨。 年轻人们开始追更形形色色的AI小猫小狗。有在街边摆摊卖炒饭的“厨子猫”，也有每天背着双肩包、挤地铁上下班的“打工猫”；有出门送外卖、赚钱养家的小土狗，也有西装革履、出入豪车的“霸总狗”。 它们有自己的名字、性格，亦有亲密的朋友和相对固定的生活轨迹。在短视频画面中，一些“毛孩子”过着和人类并无太大…",
+    "content": "文章来源： 视觉志（ID：iiidaily） 授权转载 “终于理解老一辈为什么爱看AI小孩了。” 在AI萌宠视频的评论区，总会看到这样的感慨。 年轻人们开始追更形形色色的AI小猫小狗。有在街边摆摊卖炒饭的“厨子猫”，也有每天背着双肩包、挤地铁上下班的“打工猫”；有出门送外卖、赚钱养家的小土狗，也有西装革履、出入豪车的“霸总狗”。 它们有自己的名字、性格，亦有亲密的朋友和相对固定的生活轨迹。在短视频画面中，一些“毛孩子”过着和人类并无太大区别的生活：上班、做饭、旅行，也偶尔遭遇加班、失意和生活中的种种琐碎。 近年来，…"
+  },
+  {
+    "id": "科技-钛媒体-https://www.tmtpost.com/8213686.html",
+    "feed_name": "钛媒体",
+    "category": "科技",
+    "title": "小鹏交出一份增长财报，盈利拐点为何还没来？",
+    "link": "https://www.tmtpost.com/8213686.html",
+    "pub_date": "2026-11-22 12:36:59",
+    "author": "",
+    "description": "小鹏三季度营收与交付量双创新高，但盈利压力犹存。海外扩张与物理AI商业化，能否成为新的增长动力？",
+    "content": "小鹏三季度营收与交付量双创新高，但盈利压力犹存。海外扩张与物理AI商业化，能否成为新的增长动力？"
+  },
+  {
+    "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6497898.html",
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "AI 硬件的牛市结束了",
+    "link": "https://www.woshipm.com/ai/6497898.html",
+    "pub_date": "2026-11-22 11:44:35",
+    "author": "",
+    "description": "从 10 月高点起，费城半导体指数跌去 27.8%，英伟达跌 36.1%、美光跌 43%。文章说这轮 AI 硬件回撤的本质，是定价逻辑从“看资本开支增长”换成了“看投资回报”，而债券市场已经先报警。 最强势的市场，也顶不住这轮AI回调了。 从10月的高点算起，涵盖AI硬件全链条的费城半导体指数跌去27.8%。其中，算力龙头英伟达跌去36.1%、存储龙头美光跌去43%，就连给他们供货的寡头台积电也跌去26.2%。看下来，逻辑最硬、订单最多…",
+    "content": "从 10 月高点起，费城半导体指数跌去 27.8%，英伟达跌 36.1%、美光跌 43%。文章说这轮 AI 硬件回撤的本质，是定价逻辑从“看资本开支增长”换成了“看投资回报”，而债券市场已经先报警。 最强势的市场，也顶不住这轮AI回调了。 从10月的高点算起，涵盖AI硬件全链条的费城半导体指数跌去27.8%。其中，算力龙头英伟达跌去36.1%、存储龙头美光跌去43%，就连给他们供货的寡头台积电也跌去26.2%。看下来，逻辑最硬、订单最多的AI硬件龙头，也没能躲过这轮回撤。 AI硬件这波回撤，是投资逻辑变了：从跟踪大…"
+  },
+  {
+    "id": "科技-人人都是产品经理-https://www.woshipm.com/evaluating/6498002.html",
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "花1千多，6个场景极限横测完御三家最强模型，我沉默了...（附提示词）",
+    "link": "https://www.woshipm.com/evaluating/6498002.html",
+    "pub_date": "2026-11-22 11:26:58",
+    "author": "",
+    "description": "花了1000多块，从视频剪辑、写作、代码生视频、3D 网页、3A大作、网页复刻六个场景极限测试御三家目前最强模型的能力，到底选谁？什么场景谁更适合做？看完这篇，我相信你会得到答案。 最近国外御三家纷纷都出了新模型，而且都是各自史上最强模型。 先是Anthropic发布了Fable5.2，然后OpenAI不甘示弱发布了GPT-6.2 Astra，前两天Google终于又发力了搬出了Gemini 4 Neon。该说不说，国外的模型命名是越来…",
+    "content": "花了1000多块，从视频剪辑、写作、代码生视频、3D 网页、3A大作、网页复刻六个场景极限测试御三家目前最强模型的能力，到底选谁？什么场景谁更适合做？看完这篇，我相信你会得到答案。 最近国外御三家纷纷都出了新模型，而且都是各自史上最强模型。 先是Anthropic发布了 Fable5.2 ，然后OpenAI不甘示弱发布了 GPT-6.2 Astra ，前两天Google终于又发力了搬出了 Gemini 4 Neon 。该说不说，国外的模型命名是越来越难记了… 我看了一下，网上众说纷纭，有说GPT-6.2 Astra…"
+  },
+  {
+    "id": "科技-果壳网 / 科学人-https://www.guokr.com/article/470764/",
+    "feed_name": "果壳网 / 科学人",
+    "category": "科技",
+    "title": "AI 都能生成一切了，GTA6 还在认真手搓每一坨狗屎",
+    "link": "https://www.guokr.com/article/470764/",
+    "pub_date": "2026-11-22 11:15:10",
+    "author": "",
+    "description": "不知道你们有没有“GTA假”哈，反正我是通宵硬肝硬来着。 距离上一代发售，已经过去了整整13年。业内普遍估算，GTA6 是史上制作成本最高的电子游戏，具体数字不可知。R星（开发商 Rockstar）只是谦虚地说，hài！赶不上迪拜哈利法塔的造价（15亿美元）。 出于对这款游戏的喜爱，我非常好奇，这么多年这么多钱到底花哪了。 我翻看了很多采访（R星这次罕见地接受了深入采访），原来他们花费最多力气的地方，是那些玩家很难注意到的细节。比如贫民…",
+    "content": "不知道你们有没有“GTA假”哈，反正我是通宵硬肝硬来着。 距离上一代发售，已经过去了整整13年。业内普遍估算，GTA6 是史上制作成本最高的电子游戏，具体数字不可知。R星（开发商 Rockstar）只是谦虚地说，hài！赶不上迪拜哈利法塔的造价（15亿美元）。 出于对这款游戏的喜爱，我非常好奇，这么多年这么多钱到底花哪了。 我翻看了很多采访（R星这次罕见地接受了深入采访），原来他们花费最多力气的地方，是那些玩家很难注意到的细节。比如贫民区便利店破败老旧，冰箱时不时发出嗡嗡声。 贫民区的冰箱嗡嗡作响， 养狗人家里狗毛…"
+  },
+  {
+    "id": "科技-InfoQ 中文-https://www.infoq.cn/article/fs4IuBTjwIwR1xUgdjqt",
+    "feed_name": "InfoQ 中文",
+    "category": "科技",
+    "title": "Pinterest 联合英特尔将开源性能分析推向互联网级规模",
+    "link": "https://www.infoq.cn/article/fs4IuBTjwIwR1xUgdjqt",
+    "pub_date": "2026-11-22 11:00:00",
+    "author": "",
+    "description": "Pinterest 与英特尔合作对 gProfiler 进行功能扩展。这是一款开源的持续性能分析工具，能够为互联网规模的基础设施集群提供生产环境性能可见性。 Pinterest 运维着数十万个实例，为 6.4 亿月活跃用户提供支撑，业务服务采用 Java、Python、C++、Go 和 Node.js 编写。在这样的规模下，即使是很小的效率提升也会带来显著的基础设施和成本影响。工程师此前使用 perf、async-profiler 和 …",
+    "content": "Pinterest 与英特尔合作对 gProfiler 进行功能扩展。这是一款开源的持续性能分析工具，能够为互联网规模的基础设施集群提供生产环境性能可见性。 Pinterest 运维着数十万个实例，为 6.4 亿月活跃用户提供支撑，业务服务采用 Java 、 Python 、 C++ 、 Go 和 Node.js 编写。在这样的规模下，即使是很小的效率提升也会带来显著的基础设施和成本影响。工程师此前使用 perf、async-profiler 和 py-spy 等工具，生成的性能分析数据是碎片化的，很难跨语言、跨机…"
+  },
+  {
+    "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6497894.html",
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "Grok Bot 就像 AI 版的企业微信：我一个人，带着一个 AI 运营部",
+    "link": "https://www.woshipm.com/ai/6497894.html",
+    "pub_date": "2026-11-22 10:44:34",
+    "author": "",
+    "description": "一个公众号作者把 Grok Bot 当成“AI 同事”，让它管 X、小红书和公众号：早上派活、晚上验收，还会自己拉数据汇报。他说第一次有了被管着的感觉，也第一次觉得一个人开公司没那么难。 这是我现在的工作群。除了我，全是 AI：管 X 的推推，管小红书的小红，写公众号的小微，做产品的小造，还有一个帮我统筹的 Grok Bot。 我在群里说一句，它们各自接话，还会互相 @。 01 Claude 又被封了，我得找个新帮手 Claude 账号…",
+    "content": "一个公众号作者把 Grok Bot 当成“AI 同事”，让它管 X、小红书和公众号：早上派活、晚上验收，还会自己拉数据汇报。他说第一次有了被管着的感觉，也第一次觉得一个人开公司没那么难。 这是我现在的工作群。除了我，全是 AI： 管 X 的推推 ，管小红书的小红，写公众号的小微，做产品的小造，还有一个帮我统筹的 Grok Bot。 我在群里说一句，它们各自接话，还会互相 @。 01 Claude 又被封了，我得找个新帮手 Claude 账号第四次被封以后，我想找一个替代品。 市面上的模型我基本都用过，这次选 Gro…"
+  },
+  {
+    "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6497998.html",
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "实测即梦 AI 三大工作室：不会拍片？没关系，你也是导演了",
+    "link": "https://www.woshipm.com/ai/6497998.html",
+    "pub_date": "2026-11-22 10:26:56",
+    "author": "",
+    "description": "10 月 26 日即梦上线「短剧工作室」，把剧本、角色资产、分镜、生成和后期塞进同一个网页。一个毫无影视经验的作者拿它从零做了一部《城市夜光》，也试完了三个自研模型。当门槛低到不需要剧组，短剧这门千亿生意会被改写成什么样？ 10 月 26 日，字节跳动旗下的即梦 AI 上线了「短剧工作室」，官方定位「一站式打造爆款短剧」。这是一间被装进网页的剧组：剧本整理、角色与场景资产管理、分镜生成、视频制作和后期调整，被放进同一个交互界面里完成，创…",
+    "content": "10 月 26 日即梦上线「短剧工作室」，把剧本、角色资产、分镜、生成和后期塞进同一个网页。一个毫无影视经验的作者拿它从零做了一部《城市夜光》，也试完了三个自研模型。当门槛低到不需要剧组，短剧这门千亿生意会被改写成什么样？ 10 月 26 日，字节跳动旗下的即梦 AI 上线了「短剧工作室」，官方定位「一站式打造爆款短剧」。这是一间被装进网页的剧组：剧本整理、角色与场景资产管理、分镜生成、视频制作和后期调整，被放进同一个交互界面里完成，创作者不必再在多个平台之间来回传递素材。 随之亮相的还有即梦的三个自研模型：剧本模…"
   },
   {
     "id": "科技-极客公园-http://www.geekpark.net/news/374303",
@@ -66,6 +682,17 @@ const jsonData = [
     "content": "&nbsp; 头图来源：ChatGPT 生成 &nbsp; 11 月 21 日凌晨，腾讯首席 AI 科学家、混元大模型负责人姚顺雨和混元团队的研究员现身 Reddit LocalLLaMA 社区，开启了混元团队史上第一场面向全球开发者的公开 AMA。 图片来源：x 两小时内，姚顺雨和混元团队解答了 300 余条开发者提问，从底层架构取舍到长期路线规划，从量化落地经验到开源生态适配，几乎覆盖了当前开源大模型领域所有核心争议与关切。 过去不到一个月，混元刚刚完成一轮高密度产品发布&mdash;&mdash;11 月 4…"
   },
   {
+    "id": "科技-人人都是产品经理-https://www.woshipm.com/embodied/6497890.html",
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "机器人的“冰与火”",
+    "link": "https://www.woshipm.com/embodied/6497890.html",
+    "pub_date": "2026-11-22 09:44:32",
+    "author": "",
+    "description": "王兴兴在 APEC 说技术突破接近临界点，英伟达的 Jim Fan 说机器人行业不是寒冬而是夏天，可行业里更流行的是泡沫与资本寒冬。同一赛道两种体感背后是估值超前兑付：31家独角兽中超过三分之一成立于2023年，平均1.75年就长成独角兽。 在2026年APEC工商领导人峰会上，王兴兴给机器人行业下了一个最新的判断：今年全球技术突破已接近临界点。 非常恰巧，就在几天之前，英伟达GEAR领导Jim Fan在CoRL 2026上也说了相似的…",
+    "content": "王兴兴在 APEC 说技术突破接近临界点，英伟达的 Jim Fan 说机器人行业不是寒冬而是夏天，可行业里更流行的是泡沫与资本寒冬。同一赛道两种体感背后是估值超前兑付：31家独角兽中超过三分之一成立于2023年，平均1.75年就长成独角兽。 在2026年APEC工商领导人峰会上，王兴兴给机器人行业下了一个最新的判断：今年全球技术突破已接近临界点。 非常恰巧，就在几天之前，英伟达GEAR领导Jim Fan在CoRL 2026上也说了相似的话，他说，现在的机器人行业不是寒冬，而是夏天。 为什么单独说这两句话呢，众所周知…"
+  },
+  {
     "id": "科技-爱范儿-https://www.ifanr.com/1690820?utm_source=rss&utm_medium=rss&utm_campaign=",
     "feed_name": "爱范儿",
     "category": "科技",
@@ -88,17 +715,6 @@ const jsonData = [
     "content": "我都遵纪守法了，还能叫 GTA 吗？ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
   },
   {
-    "id": "科技-IT 之家-https://www.ithome.com/1/030/538.htm",
-    "feed_name": "IT 之家",
-    "category": "科技",
-    "title": "商务部回应 FCC 拟禁止中国电信运营商直接获取美国互联网电话号码资源：违反非歧视和公平竞争原则，坚决反对",
-    "link": "https://www.ithome.com/1/030/538.htm",
-    "pub_date": "2026-11-22 09:28:10",
-    "author": "",
-    "description": "感谢IT之家网友 补药吖 的线索投递！ IT之家 11 月 22 日消息，今日，商务部新闻发言人就美国联邦通信委员会拟禁止中国电信运营商直接获取美国互联网电话号码资源答记者问。 IT之家附主要内容如下： 问：美东时间 11 月 19 日，美国联邦通信委员会（FCC）投票通过有关规则，拟禁止中国电信、中国联通、中国移动等被列入“覆盖清单”的电信运营商直接获取美国互联网电话号码资源。请问商务部对此有何评论？ 答：我们注意到有关情况。美国联邦…",
-    "content": "感谢IT之家网友 补药吖 的线索投递！ IT之家 11 月 22 日消息，今日，商务部新闻发言人就美国联邦通信委员会拟禁止中国电信运营商直接获取美国互联网电话号码资源答记者问。 IT之家附主要内容如下： 问：美东时间 11 月 19 日，美国联邦通信委员会（FCC）投票通过有关规则，拟禁止中国电信、中国联通、中国移动等被列入“覆盖清单”的电信运营商直接获取美国互联网电话号码资源。请问商务部对此有何评论？ 答：我们注意到有关情况。美国联邦通信委员会滥用监管权力，泛化所谓国家安全风险，在缺乏事实依据的情况下，违反非歧视…"
-  },
-  {
     "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6497995.html",
     "feed_name": "人人都是产品经理",
     "category": "科技",
@@ -108,6 +724,17 @@ const jsonData = [
     "author": "",
     "description": "给 Pi Agent 外挂 319 MB 的 LoRA，不改 27B 基座，关掉思考反而更强：SWE-bench Pro 最难 51 题通过率从 39.2% 提到 64.7%，Token 少约 4.5 倍。官方数据、训练逻辑和 4 套部署方案一次讲完，从 Mac 到内网 GPU 都有覆盖。 平时折腾 Coding Agent，我一直偏爱极简可扩展的 Pi Agent（之前写过 被Harness圈捧成圣的 Pi Agent，接上 Deep…",
     "content": "给 Pi Agent 外挂 319 MB 的 LoRA，不改 27B 基座，关掉思考反而更强：SWE-bench Pro 最难 51 题通过率从 39.2% 提到 64.7%，Token 少约 4.5 倍。官方数据、训练逻辑和 4 套部署方案一次讲完，从 Mac 到内网 GPU 都有覆盖。 平时折腾 Coding Agent，我一直偏爱极简可扩展的 Pi Agent （之前写过 被Harness圈捧成圣的 Pi Agent，接上 DeepSeek-V4-Flash，如虎添翼），还有基于它的 MiniMax Code…"
+  },
+  {
+    "id": "科技-人人都是产品经理-https://www.woshipm.com/class/6497710.html",
+    "feed_name": "人人都是产品经理",
+    "category": "科技",
+    "title": "转型AI产品经理，一定要搞清楚这条主线！",
+    "link": "https://www.woshipm.com/class/6497710.html",
+    "pub_date": "2026-11-22 09:09:48",
+    "author": "",
+    "description": "当下，AI产品经理无疑是最有发展前景的岗位。AI产品经理岗位需求将同比增长 240%，成为高速发展大趋势，薪资也多在30K-60K，十分可观。很多毕业生/产品人也都目标一致要：转型AI产品经理。 由于对岗位了解不清晰，转型过程中不少人陷入了这3个误区： 觉得 “不懂技术/不会写代码就做不了AI产品”，埋头苦学算法、机器学习等。 考各种AI证书，掌握AI理论知识，没有亲手从0-1落地过一个AI产品功能/AI产品 以技术为核心炫技，产品基础…",
+    "content": "当下，AI产品经理无疑是最有发展前景的岗位。 AI产品经理 岗位需求将同比增长 240%，成为高速发展大趋势，薪资也多在30K-60K，十分可观。很多毕业生/产品人也都目标一致要：转型AI产品经理。 由于对岗位了解不清晰，转型过程中不少人陷入了这3个误区： 觉得 “不懂技术/不会写代码就做不了AI产品”，埋头苦学算法、机器学习等。 考各种AI证书，掌握AI理论知识，没有亲手从0-1落地过一个AI产品功能/AI产品 以技术为核心炫技，产品基础不扎实，远离用户和业务，产品方案不匹配用户真需求，无效 而在这些事情里面花费…"
   },
   {
     "id": "科技-钛媒体-https://www.tmtpost.com/8213684.html",
@@ -143,61 +770,6 @@ const jsonData = [
     "content": "执掌科伦三十载后，身家185亿元的“输液大王”刘革新正式交棒给儿子刘思川。"
   },
   {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8212803.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "可灵为何开始发力“图片”？",
-    "link": "https://www.tmtpost.com/8212803.html",
-    "pub_date": "2026-11-22 09:02:06",
-    "author": "",
-    "description": "两家头部AI公司几乎前后脚更新图像模型。",
-    "content": "两家头部AI公司几乎前后脚更新图像模型。"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8213674.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "全球Meta一家独大，中国AI眼镜为何还在混战？",
-    "link": "https://www.tmtpost.com/8213674.html",
-    "pub_date": "2026-11-22 09:02:01",
-    "author": "",
-    "description": "中国AI眼镜，胜负未分。",
-    "content": "中国AI眼镜，胜负未分。"
-  },
-  {
-    "id": "科技-IT 之家-https://www.ithome.com/1/030/533.htm",
-    "feed_name": "IT 之家",
-    "category": "科技",
-    "title": "搜狐张朝阳回应“被证监会出具警示函”：此张朝阳不是我",
-    "link": "https://www.ithome.com/1/030/533.htm",
-    "pub_date": "2026-11-22 08:59:23",
-    "author": "",
-    "description": "IT之家 11 月 22 日消息，11 月 20 日，北京证监局披露的一则对“张朝阳”出具警示函的信息在网络传播，部分舆论误将其与搜狐创始人、董事局主席兼首席执行官张朝阳关联。 IT之家注意到，张朝阳本人在搜狐视频关注流回应：“此张朝阳不是我”“首先我并没有收到警示函，其次我也没有从事证券咨询业啊”。同时，他还吐槽：“看来 AI 还是不行，区别不了同名同姓的人。” 公开资料显示，张朝阳于 1964 年 10 月 31 日出生于陕西西安。…",
-    "content": "IT之家 11 月 22 日消息，11 月 20 日，北京证监局披露的一则对“张朝阳”出具警示函的信息在网络传播，部分舆论误将其与搜狐创始人、董事局主席兼首席执行官张朝阳关联。 IT之家注意到，张朝阳本人在搜狐视频关注流回应：“此张朝阳不是我”“ 首先我并没有收到警示函，其次我也没有从事证券咨询业啊 ”。同时，他还吐槽：“看来 AI 还是不行，区别不了同名同姓的人。” 公开资料显示， 张朝阳于 1964 年 10 月 31 日出生于陕西西安。1981 年，张朝阳考入清华大学，1986 年毕业后就读于美国麻省理工学院…"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8213639.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "特锐德、LG抢跑进场，AI抢电抢到气田门口，气电先端走69%份额，真正的账单还在后面",
-    "link": "https://www.tmtpost.com/8213639.html",
-    "pub_date": "2026-11-22 08:45:35",
-    "author": "",
-    "description": "数据中心抢购稳定电力，重画美国气电定价与电网调峰；国内东数西算调峰账本同步重算，订单兑现待观察。",
-    "content": "数据中心抢购稳定电力，重画美国气电定价与电网调峰；国内东数西算调峰账本同步重算，订单兑现待观察。"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8212802.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "印度大米多到装不下，价格为何还在涨？",
-    "link": "https://www.tmtpost.com/8212802.html",
-    "pub_date": "2026-11-22 08:45:30",
-    "author": "",
-    "description": "印度不再为缺粮而发愁，却面临库存高企、出口涨价的新难题。",
-    "content": "印度不再为缺粮而发愁，却面临库存高企、出口涨价的新难题。"
-  },
-  {
     "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6497881.html",
     "feed_name": "人人都是产品经理",
     "category": "科技",
@@ -207,94 +779,6 @@ const jsonData = [
     "author": "",
     "description": "可灵AI 上线的 Kling Image 4.0 把生图拉到整页交付：一句话直出电商详情页长图，排版、图标和规格表一次成型，还首次支持原生8K。作者跑了二十多组真实案例，从电商长图、独立站到海报组图与字体玩法，逐一拆解提示语和操作路径。 最近真是捅了图像模型的窝了，国内外几个主力生图模型轮番更新，搞得我这些天光坐在电脑前烧积分跑图了。。。 高强度用下来，最大的体感就是现在图像模型的进化速度实在太快了。 不知道大家还记不记得，最早大家玩 …",
     "content": "可灵AI 上线的 Kling Image 4.0 把生图拉到整页交付：一句话直出电商详情页长图，排版、图标和规格表一次成型，还首次支持原生8K。作者跑了二十多组真实案例，从电商长图、独立站到海报组图与字体玩法，逐一拆解提示语和操作路径。 最近真是捅了图像模型的窝了，国内外几个主力生图模型轮番更新，搞得我这些天光坐在电脑前烧积分跑图了。。。 高强度用下来，最大的体感就是现在图像模型的进化速度实在太快了。 不知道大家还记不记得，最早大家玩 AI 生图还在数手指、凭运气抽卡，后来进化到单张光影好看但一加字就鬼画符的阶段，…"
-  },
-  {
-    "id": "科技-IT 之家-https://www.ithome.com/1/030/528.htm",
-    "feed_name": "IT 之家",
-    "category": "科技",
-    "title": "诺兰电影《奥德赛》延长上映至 2027 年 1 月 13 日，累计票房 7.86 亿元",
-    "link": "https://www.ithome.com/1/030/528.htm",
-    "pub_date": "2026-11-22 08:36:15",
-    "author": "",
-    "description": "IT之家 11 月 22 日消息，诺兰执导的神话史诗片《奥德赛》官宣密钥延期，延长上映至 2027 年 1 月 13 日。据猫眼专业版数据，电影 2026 年 8 月 14 日上映，截至当前累计票房 7.86 亿。 这部影片由克里斯托弗 · 诺兰编剧并执导，改编自荷马史诗《奥德赛》，马特 · 达蒙饰演奥德修斯，汤姆 · 霍兰德饰演忒勒马科斯，安妮 · 海瑟薇饰演佩涅洛佩，罗伯特 · 帕丁森、赞达亚、查理兹 · 塞隆、露皮塔 · 尼永奥等…",
-    "content": "IT之家 11 月 22 日消息，诺兰执导的神话史诗片《奥德赛》官宣密钥延期，延长上映至 2027 年 1 月 13 日。据猫眼专业版数据，电影 2026 年 8 月 14 日上映， 截至当前累计票房 7.86 亿 。 这部影片由克里斯托弗 · 诺兰编剧并执导，改编自荷马史诗《奥德赛》，马特 · 达蒙饰演奥德修斯，汤姆 · 霍兰德饰演忒勒马科斯，安妮 · 海瑟薇饰演佩涅洛佩，罗伯特 · 帕丁森、赞达亚、查理兹 · 塞隆、露皮塔 · 尼永奥等也参与演出。 电影讲述特洛伊战争结束后，伊萨卡国王奥德修斯踏上漫长归乡之旅，…"
-  },
-  {
-    "id": "科技-IT 之家-https://www.ithome.com/1/030/523.htm",
-    "feed_name": "IT 之家",
-    "category": "科技",
-    "title": "韩国教育部认定今年高考共 111 起涉电子设备作弊：利用智能手机拍考卷等",
-    "link": "https://www.ithome.com/1/030/523.htm",
-    "pub_date": "2026-11-22 07:55:50",
-    "author": "",
-    "description": "IT之家 11 月 22 日消息，据韩联社报道，韩国教育部 20 日表示，在 2027 学年度大学修学能力考试（IT之家注：韩国高考）中，发现 111 起利用智能设备的作弊行为。这较前一日公布的数据增加 13 起。 据韩国教育部介绍，通过发送应急公益短信查出 54 起未上交手机的案例；通过探测 WiFi 等方式查出 52 起携带智能设备案例。在考试过程中被发现利用智能终端的作弊案例 5 起，包括使用智能眼镜（1 起）、使用微型摄像头和无…",
-    "content": "IT之家 11 月 22 日消息，据韩联社报道，韩国教育部 20 日表示，在 2027 学年度大学修学能力考试（IT之家注：韩国高考）中，发现 111 起利用智能设备的作弊行为。这较前一日公布的数据增加 13 起。 据韩国教育部介绍，通过发送应急公益短信查出 54 起未上交手机的案例；通过探测 WiFi 等方式查出 52 起携带智能设备案例。 在考试过程中被发现利用智能终端的作弊案例 5 起 ，包括使用智能眼镜（1 起）、使用微型摄像头和无线耳机（1 起）、利用智能手机拍摄考卷（1 起），以及在洗手间使用智能手机（…"
-  },
-  {
-    "id": "科技-IT 之家-https://www.ithome.com/1/030/519.htm",
-    "feed_name": "IT 之家",
-    "category": "科技",
-    "title": "OSTA 新特性放开：华为鸿蒙 HarmonyOS 7 系统更多机型小艺助理上线“小艺星芒”音色",
-    "link": "https://www.ithome.com/1/030/519.htm",
-    "pub_date": "2026-11-22 07:35:28",
-    "author": "",
-    "description": "IT之家 11 月 22 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于 11 月 20 日下午正式发布，叠加国补后 4999 元起。华为星芒品牌总经理刘赫开通微博，透露最受欢迎的 16G 版本已经在全平台售罄。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA O1 Pro 手机实拍 据介绍，华为星芒 OSTA O1 Pro 首搭 HarmonyOS 7 AI 先锋版系统，支持全新 AI 交互、系统主…",
-    "content": "IT之家 11 月 22 日消息，首款为 AI 而生的 鸿蒙 手机 —— 华为星芒 OSTA O1 Pro 已于 11 月 20 日下午正式发布 ，叠加国补后 4999 元起。华为星芒品牌总经理刘赫开通微博， 透露最受欢迎的 16G 版本已经在全平台售罄 。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA O1 Pro 手机实拍 据介绍，华为星芒 OSTA O1 Pro 首搭 HarmonyOS 7 AI 先锋版系统，支持全新 AI 交互、系统主动智能和长期陪伴成长；该机还拥有业界首个系统级 AI 屏， 内含个性化…"
-  },
-  {
-    "id": "科技-IT 之家-https://www.ithome.com/1/030/518.htm",
-    "feed_name": "IT 之家",
-    "category": "科技",
-    "title": "IT早报 1122：曝其他厂商也考虑推出阔直板形态手机；Anthropic 研究员预测 2027 年底 AI 比肩顶尖专家；华为星芒 O1 Pro 定价 5499 元起引争议...",
-    "link": "https://www.ithome.com/1/030/518.htm",
-    "pub_date": "2026-11-22 07:31:46",
-    "author": "",
-    "description": "“IT早报”时间，大家好，现在是 2026 年 11 月 22 日星期日，今天的重要科技资讯有： 1. 不只是华为，消息称其他厂商也考虑为旗舰产品线引入阔直板形态 博主 @数码闲聊站 21 日下午爆料称，当下手机市场“阔形态”升级势不可挡：除了华为，其他家也考虑在正代旗舰线加入阔形态，与常规直板机双线并行。>> 查看详情 2. “几乎所有人将永久失业”：Anthropic 研究员预测 2027 年底 AI 在几乎所有领域超越顶尖专家 1…",
-    "content": "“IT早报”时间，大家好，现在是 2026 年 11 月 22 日星期日，今天的重要科技资讯有： 1. 不只是华为，消息称其他厂商也考虑为旗舰产品线引入阔直板形态 博主 @数码闲聊站 21 日下午爆料称，当下手机市场“阔形态”升级势不可挡：除了华为，其他家也考虑在正代旗舰线加入阔形态，与常规直板机双线并行。&gt;&gt; 查看详情 2. “几乎所有人将永久失业”：Anthropic 研究员预测 2027 年底 AI 在几乎所有领域超越顶尖专家 11 月 15 日在接受 Palisade Research 采访时，…"
-  },
-  {
-    "id": "科技-IT 之家-https://www.ithome.com/1/030/516.htm",
-    "feed_name": "IT 之家",
-    "category": "科技",
-    "title": "6 天 5 晚，第二艘国产大型邮轮爱达 · 花城号今日商业首航",
-    "link": "https://www.ithome.com/1/030/516.htm",
-    "pub_date": "2026-11-22 07:22:56",
-    "author": "",
-    "description": "IT之家 11 月 22 日消息，据央视新闻报道，今天（22 日），第二艘国产大型邮轮“爱达 · 花城号”将开启 6 天 5 晚的商业首航，从广州南沙国际邮轮母港驶向中国香港与越南顺化。 “爱达 · 花城号”进度： 2024 年 10 月 25 日，第二艘国产大型邮轮在广州举行命名仪式，正式命名为“爱达 · 花城号”。 2026 年 3 月 20 日，“爱达 · 花城号”完成出坞，转入码头调试。 2026 年 11 月 6 日，在上海正…",
-    "content": "IT之家 11 月 22 日消息，据央视新闻报道，今天（22 日），第二艘国产大型邮轮“爱达 · 花城号”将开启 6 天 5 晚的商业首航，从广州南沙国际邮轮母港驶向中国香港与越南顺化。 “爱达 · 花城号”进度： 2024 年 10 月 25 日，第二艘国产大型邮轮在广州举行命名仪式，正式命名为“爱达 · 花城号”。 2026 年 3 月 20 日，“爱达 · 花城号”完成出坞，转入码头调试。 2026 年 11 月 6 日，在上海正式交付。 其建造周期比首制船缩短了 8 个月，国产化配套率也提高了 5 个百分点…"
-  },
-  {
-    "id": "科技-快科技-https://news.mydrivers.com/1/1167/1167590.htm",
-    "feed_name": "快科技",
-    "category": "科技",
-    "title": "华为星芒首款手机！OSTA O1 Pro维修备件价格出炉：屏幕899元起 主板最高6099元",
-    "link": "https://news.mydrivers.com/1/1167/1167590.htm",
-    "pub_date": "2026-11-22 07:17:22",
-    "author": "",
-    "description": "",
-    "content": "快科技11月22日消息，日前，华为全新子品牌OSTA星芒首款产品——OSTA O1 Pro正式发布，售价5499元起。 随着新机上市，华为官网也公布了该机维修备件价格，涵盖屏幕、主板、电池、摄像头、后壳等多个部件。 屏幕方面， OSTA O1 Pro屏幕单体维修价格为899元，不包含中框和电池，更换下来的原装旧件将由官方无偿回收。 如果选择更换屏幕组件（含屏幕单体、中框、电池），优惠价为1299元，正常价为1499元，享受优惠价需交回更换下来的原装旧件。 在公布的维修备件中，主板价格最高， 12GB+256GB版本…"
-  },
-  {
-    "id": "科技-快科技-https://news.mydrivers.com/1/1167/1167589.htm",
-    "feed_name": "快科技",
-    "category": "科技",
-    "title": "甲亢哥连玩52小时《GTA6》！误删98%进度存档崩溃",
-    "link": "https://news.mydrivers.com/1/1167/1167589.htm",
-    "pub_date": "2026-11-22 07:11:10",
-    "author": "",
-    "description": "",
-    "content": "知名主播IShowSpeed完成了一场近乎极限的马拉松直播： 连续52小时31分钟不眠不休，通关了《GTA 6》主线剧情。 但胜利的余温还未散去， 他就在读档界面按错了选项，将一份进度高达98%的存档永久删除。 Speed原本向观众承诺不会马拉松式游玩，打算每天只播10小时左右，但到第30小时时，他承认自己“停不下来了”。 这场直播并非一帆风顺：在第43小时、剧情推进超过80%时，游戏崩溃，由于他并未频繁手动存档，一度以为自己丢失了全部进度，所幸最终找到了一个88%的存档，才得以继续。 真正的“灾难”发生在通关之后…"
-  },
-  {
-    "id": "科技-快科技-https://news.mydrivers.com/1/1167/1167588.htm",
-    "feed_name": "快科技",
-    "category": "科技",
-    "title": "14.19万吨海上巨无霸！第二艘国产大型邮轮爱达·花城号今日商业首航",
-    "link": "https://news.mydrivers.com/1/1167/1167588.htm",
-    "pub_date": "2026-11-22 07:06:14",
-    "author": "",
-    "description": "",
-    "content": "快科技11月22日消息，据央视新闻报道，今日， 我国第二艘国产大型邮轮“爱达·花城号”将正式开启商业首航，迎来为期6天5晚的海上旅程。 邮轮将从广州南沙国际邮轮母港出发，途经中国香港、越南顺化，最终返回广州。 根据首航计划， 邮轮将于今日12时开始安检候船，13时30分开始登船，16时30分截止登船，预计18时正式离港。 旅客登船需完成提交护照原件、船票核验、领取房卡三个步骤，其中护照由船方统一保管，并在下船前统一派发。 作为我国第二艘国产大型邮轮， “爱达·花城号”总长341米、宽37.2米，总吨位达14.19万…"
   },
   {
     "id": "科技-Ars Technica-https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
@@ -418,28 +902,6 @@ const jsonData = [
     "content": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too."
   },
   {
-    "id": "科技-快科技-https://news.mydrivers.com/1/1167/1167587.htm",
-    "feed_name": "快科技",
-    "category": "科技",
-    "title": "星芒高管称努力贴近4999！华为首款鸿蒙AI手机5699元被嫌贵：验证新AI技术与产品体验 不急冲销量",
-    "link": "https://news.mydrivers.com/1/1167/1167587.htm",
-    "pub_date": "2026-11-21 23:59:00",
-    "author": "",
-    "description": "",
-    "content": "快科技11月21日消息，此前一天华为全新子品牌星芒正式官宣亮相，旗下首款终端产品OSTA O1 Pro同步登场，公开售价5499元起。 这款新机采用当下受众接受度最高的阔直板设计，搭载最新的麒麟9030S芯片和鸿蒙7操作系统，配备旗舰级潜望式长焦镜头，支持3.7倍光学变焦等全场景影像能力。 和华为现有Mate、Pura等主打高端商务和全影像旗舰的成熟产品线定位完全不同，星芒品牌把AI作为核心差异化赛道，希望通过全新的原生AI交互方式，把AI带来的便利真正融入用户日常使用手机的每一个细节里。 这个前后酝酿了约三年的新…"
-  },
-  {
-    "id": "科技-快科技-https://news.mydrivers.com/1/1167/1167586.htm",
-    "feed_name": "快科技",
-    "category": "科技",
-    "title": "我国多地鼓励一周休2.5天模式：刺激大家多出去消费！",
-    "link": "https://news.mydrivers.com/1/1167/1167586.htm",
-    "pub_date": "2026-11-21 23:58:00",
-    "author": "",
-    "description": "",
-    "content": "快科技11月21日消息，近期国内多地相继出台政策，鼓励探索推行2.5天弹性休假，同时支持中小学设置春秋假，政策落地效果已经初步显现，当下国内不少热门景区里随处可见结伴出行的中小学生，整个文旅消费市场的活跃度被明显拉高。 11月15日前后，苏州等多地的热门景点就迎来了首批享受秋假的学生出行大军，扬州部分国有核心景区的单天游客量同比去年大涨95.6%，几乎接近翻番。在此之前，四川绵阳、广西等多个省市就已经率先公开发文，鼓励属地单位探索弹性休假的落地模式。 河北、江西、浙江等省份也陆续出台过相关配套文件，提出要引导鼓励有…"
-  },
-  {
     "id": "科技-TechCrunch-https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
     "feed_name": "TechCrunch",
     "category": "科技",
@@ -515,39 +977,6 @@ const jsonData = [
     "author": "",
     "description": "新西兰天文摄影师 Brendan Larsen 在今年 9 月的一个晚上，历时逾两个小时拍摄了 578 张夜空照片。随后通过后期拼接呈现出如今地球轨道上卫星的密集程度。他在 Photoshop 中叠加了这些照片，剔除了恒星，只保留卫星运行轨迹所产生的光迹。整个过程耗时约 45 小时，每张照片中大约包含 25 颗左右的卫星。最终呈现的照片包含了约 1400 颗不同卫星留下的 14000 条运行轨迹——这些卫星用途包括了气象监测、互联网通信…",
     "content": "新西兰天文摄影师 Brendan Larsen 在今年 9 月的一个晚上，历时逾两个小时拍摄了 578 张夜空照片。随后通过后期拼接呈现出如今地球轨道上卫星的密集程度。他在 Photoshop 中叠加了这些照片，剔除了恒星，只保留卫星运行轨迹所产生的光迹。整个过程耗时约 45 小时，每张照片中大约包含 25 颗左右的卫星。最终呈现的照片包含了约 1400 颗不同卫星留下的 14000 条运行轨迹——这些卫星用途包括了气象监测、互联网通信和导航系统等，它们都拥挤着争夺着有限的空间。"
-  },
-  {
-    "id": "科技-The Verge-https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
-    "feed_name": "The Verge",
-    "category": "科技",
-    "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
-    "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
-    "pub_date": "2026-11-21 22:00:00",
-    "author": "Stevie Bonifield",
-    "description": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, …",
-    "content": "Chess.com is ready to go a lot bigger than chess. After launching Gambit , a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alte…"
-  },
-  {
-    "id": "科技-The Verge-https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
-    "feed_name": "The Verge",
-    "category": "科技",
-    "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
-    "link": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
-    "pub_date": "2026-11-21 21:00:00",
-    "author": "Dominic Preston",
-    "description": "Both 18 Pro phones feature rear displays used for selfies, notifications, and AI apps. Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means …",
-    "content": "Both 18 Pro phones feature rear displays used for selfies, notifications, and AI apps. Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros , but didn't release them outside China. That means the new 18 Pro and Pro Max are the firs…"
-  },
-  {
-    "id": "科技-The Verge-https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
-    "feed_name": "The Verge",
-    "category": "科技",
-    "title": "The game of the year is finally here",
-    "link": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
-    "pub_date": "2026-11-21 21:00:00",
-    "author": "David Pierce",
-    "description": "Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also you can read all the ol…",
-    "content": "Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge -iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also you can read all the old editions at the Installer homepage .)…"
   },
   {
     "id": "科技-Wired-https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
@@ -638,39 +1067,6 @@ const jsonData = [
     "content": "Get WIRED-tested vacuum cleaners, carpet cleaners, and steam mops for up to 60 percent off."
   },
   {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8213527.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "2026年了，AI能有什么用？",
-    "link": "https://www.tmtpost.com/8213527.html",
-    "pub_date": "2026-11-21 19:21:40",
-    "author": "",
-    "description": "AI能批量生成，不等于能出彩",
-    "content": "AI能批量生成，不等于能出彩"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8213524.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "并表和IP，不是腾讯音乐的长效药",
-    "link": "https://www.tmtpost.com/8213524.html",
-    "pub_date": "2026-11-21 19:20:46",
-    "author": "",
-    "description": "腾讯音乐越来越像个消费品公司。",
-    "content": "腾讯音乐越来越像个消费品公司。"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8213535.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "【数智周报】 Anthropic敲响纳斯达克开市钟，创史上最大规模IPO纪录；美国限制远程获取AI算力，海外数据中心出租算力须许可；DeepSeek第二轮融资落地",
-    "link": "https://www.tmtpost.com/8213535.html",
-    "pub_date": "2026-11-21 19:19:38",
-    "author": "",
-    "description": "（11 月 16 日-21 日）英伟达史上首次单季营收突破1000亿美元，净利润同比翻倍；阿里巴巴：2027财年第二季度营收2715.2亿元，同比增长10%，AI相关产品收入超179亿元，连续13个季度实现三位数增长；腾讯：WorkBuddy近七天年化收入超5亿美元，三季度收入是第二季度的5倍以上；豆包工作日活突破800万，企业客户ARR突破20亿元...",
-    "content": "（11 月 16 日-21 日）英伟达史上首次单季营收突破1000亿美元，净利润同比翻倍；阿里巴巴：2027财年第二季度营收2715.2亿元，同比增长10%，AI相关产品收入超179亿元，连续13个季度实现三位数增长；腾讯：WorkBuddy近七天年化收入超5亿美元，三季度收入是第二季度的5倍以上；豆包工作日活突破800万，企业客户ARR突破20亿元..."
-  },
-  {
     "id": "科技-Solidot-https://www.solidot.org/story?sid=85952",
     "feed_name": "Solidot",
     "category": "科技",
@@ -680,6 +1076,17 @@ const jsonData = [
     "author": "",
     "description": "今年 9 月 OpenAI 宣布解决 Navier-Stokes 问题时引发了广泛争议，原因是当时有数学家正致力于解决该问题，而且已经取得了突破。现在 Anthropic 数学家发表几十万页的文档声称证明了黎曼猜想。数学家 Alessandro Maria Masullo 在广义黎曼猜想问题上投入了 12 年时间，他也取得了进展，其证明手稿正由另一名数学家 Brian Conrad 审阅，两人计划花一年时间完善手稿然后征求更多人意见后发…",
     "content": "今年 9 月 OpenAI 宣布解决 Navier-Stokes 问题时引发了广泛争议，原因是当时有数学家正致力于解决该问题，而且已经取得了突破。现在 Anthropic 数学家发表几十万页的文档声称证明了黎曼猜想。数学家 Alessandro Maria Masullo 在广义黎曼猜想问题上投入了 12 年时间，他也取得了进展，其证明手稿正由另一名数学家 Brian Conrad 审阅，两人计划花一年时间完善手稿然后征求更多人意见后发表。但 Anthropic 的声明促使人类数学家不得不匆忙提前发布证明手稿。该证…"
+  },
+  {
+    "id": "科技-MIT 科技评论 / 本周热榜-https://www.mittrchina.com/news/detail/17272",
+    "feed_name": "MIT 科技评论 / 本周热榜",
+    "category": "科技",
+    "title": "全球PCB供应告急，AI数据中心抢占产能，其它产业遇断供风险",
+    "link": "https://www.mittrchina.com/news/detail/17272",
+    "pub_date": "2026-11-21 19:02:24",
+    "author": "",
+    "description": "当许多人的目光都盯着昂贵的 AI 芯片时，当前影响全球科技产业供应链的，其实还有芯片底下那块最不起眼的“绿板子”。 近日，全球电子协会发出警告，称当前全球正面临一场堪比 2021 年芯片危机的印刷电路板（PCB，Printed Circuit Board）大短缺。随着 AI 服务器成为供应链里的需求大户，电路板层数从传统电脑的 12 层暴增到 40 到 60 层以上，科技企业提前锁定了产能，把汽车、医疗以及国防工业都挤到了队伍末尾。 更…",
+    "content": "当许多人的目光都盯着昂贵的 AI 芯片时，当前影响全球科技产业供应链的，其实还有芯片底下那块最不起眼的“绿板子”。 近日，全球电子协会发出警告，称当前全球正面临一场堪比 2021 年芯片危机的印刷电路板（PCB，Printed Circuit Board）大短缺。随着 AI 服务器成为供应链里的需求大户，电路板层数从传统电脑的 12 层暴增到 40 到 60 层以上，科技企业提前锁定了产能，把汽车、医疗以及国防工业都挤到了队伍末尾。 更为棘手的是，就算中国和东南亚在过去三年各投入至少 100 亿美元新建工厂，却依旧…"
   },
   {
     "id": "科技-Wired-https://www.wired.com/story/best-laptops-for-travel/",
@@ -702,17 +1109,6 @@ const jsonData = [
     "author": "",
     "description": "GTA 6 开发商 Rockstar Games 母公司 Take-Two Interactive 披露，游戏的预购加上首日销售额达到创纪录的了 37.9 亿美元。这是娱乐产品历史上金额最高的首日收入，超过了《复仇者联盟 4：终局之战》的全球总票房 29 亿美元。Take-Two 未公布游戏具体的销售数量。GTA 6 的开发成本据估计可能超过 15 亿美元，为史上最昂贵的游戏。开发游戏的员工有 21% 约 1000 人在公司工作了超过 …",
     "content": "GTA 6 开发商 Rockstar Games 母公司 Take-Two Interactive 披露，游戏的预购加上首日销售额达到创纪录的了 37.9 亿美元。这是娱乐产品历史上金额最高的首日收入，超过了《复仇者联盟 4：终局之战》的全球总票房 29 亿美元。Take-Two 未公布游戏具体的销售数量。GTA 6 的开发成本据估计可能超过 15 亿美元，为史上最昂贵的游戏。开发游戏的员工有 21% 约 1000 人在公司工作了超过 10 年时间，这在游戏公司中间是非常罕见的。"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8212602.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "“奶茶第一股”的翻红账本",
-    "link": "https://www.tmtpost.com/8212602.html",
-    "pub_date": "2026-11-21 18:32:15",
-    "author": "",
-    "description": "翻红最难的一环，是让下一次被讨论的理由，从流量换成业绩。",
-    "content": "翻红最难的一环，是让下一次被讨论的理由，从流量换成业绩。"
   },
   {
     "id": "科技-人人都是产品经理-https://www.woshipm.com/marketing/6497668.html",
@@ -836,17 +1232,6 @@ const jsonData = [
     "content": "每次拿起牙线清洁牙缝时，你或许只会想到“避免蛀牙、少听牙医唠叨”；每次面对疫苗接种的针头时，你或许总会下意识地攥紧拳头。但很少有人会把这两件看似毫不相干的事联系到一起——直到一群工程师在实验室里，把牙线变成了能抵御流感的无针疫苗载体。 2025 年 7 月 22 日，《自然-生物医学工程》（Nature Biomedical Engineering）刊登了一项颠覆认知的研究：美国北卡罗来纳州立大学和得克萨斯理工大学的团队开发出一种特殊牙线，能将灭活病毒或蛋白质抗原精准递送到牙龈缝隙（龈沟），在小鼠身上成功激发了抵御…"
   },
   {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8213477.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "马化腾第四次改腾讯AI航道",
-    "link": "https://www.tmtpost.com/8213477.html",
-    "pub_date": "2026-11-21 15:55:05",
-    "author": "",
-    "description": "老板得付第一责任",
-    "content": "老板得付第一责任"
-  },
-  {
     "id": "科技-超能网-http://www.expreview.com/109637.html",
     "feed_name": "超能网",
     "category": "科技",
@@ -957,6 +1342,50 @@ const jsonData = [
     "content": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers."
   },
   {
+    "id": "科技-Wired-https://www.wired.com/story/nike-promo-code/",
+    "feed_name": "Wired",
+    "category": "科技",
+    "title": "Nike Promo Codes and Discounts: 30% for November 2026",
+    "link": "https://www.wired.com/story/nike-promo-code/",
+    "pub_date": "2026-11-21 14:00:00",
+    "author": "",
+    "description": "Check out our deals for Nike this November 2026, including 15% off select purchases.",
+    "content": "Check out our deals for Nike this November 2026, including 15% off select purchases."
+  },
+  {
+    "id": "科技-Wired-https://www.wired.com/story/therabody-promo-code/",
+    "feed_name": "Wired",
+    "category": "科技",
+    "title": "Therabody Promo Codes: 15% Off November 2026",
+    "link": "https://www.wired.com/story/therabody-promo-code/",
+    "pub_date": "2026-11-21 14:00:00",
+    "author": "",
+    "description": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
+    "content": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals."
+  },
+  {
+    "id": "科技-Wired-https://www.wired.com/story/ulta-coupon/",
+    "feed_name": "Wired",
+    "category": "科技",
+    "title": "Ulta Promo Codes: Up to 20% Off in November 2026",
+    "link": "https://www.wired.com/story/ulta-coupon/",
+    "pub_date": "2026-11-21 14:00:00",
+    "author": "",
+    "description": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
+    "content": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more."
+  },
+  {
+    "id": "科技-Wired-https://www.wired.com/story/brooks-promo-code/",
+    "feed_name": "Wired",
+    "category": "科技",
+    "title": "20% Off Brooks Promo Code | November 2026",
+    "link": "https://www.wired.com/story/brooks-promo-code/",
+    "pub_date": "2026-11-21 14:00:00",
+    "author": "",
+    "description": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
+    "content": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes."
+  },
+  {
     "id": "科技-Wired-https://www.wired.com/story/motorola-coupon-code/",
     "feed_name": "Wired",
     "category": "科技",
@@ -977,61 +1406,6 @@ const jsonData = [
     "author": "",
     "description": "Find great deals for Total Wireless, like 50% off select plans, and enjoy big savings.",
     "content": "Find great deals for Total Wireless, like 50% off select plans, and enjoy big savings."
-  },
-  {
-    "id": "科技-Wired-https://www.wired.com/story/nike-promo-code/",
-    "feed_name": "Wired",
-    "category": "科技",
-    "title": "Nike Promo Codes and Discounts: 30% for November 2026",
-    "link": "https://www.wired.com/story/nike-promo-code/",
-    "pub_date": "2026-11-21 14:00:00",
-    "author": "",
-    "description": "Check out our deals for Nike this November 2026, including 15% off select purchases.",
-    "content": "Check out our deals for Nike this November 2026, including 15% off select purchases."
-  },
-  {
-    "id": "科技-Wired-https://www.wired.com/story/ulta-coupon/",
-    "feed_name": "Wired",
-    "category": "科技",
-    "title": "Ulta Promo Codes: Up to 20% Off in November 2026",
-    "link": "https://www.wired.com/story/ulta-coupon/",
-    "pub_date": "2026-11-21 14:00:00",
-    "author": "",
-    "description": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-    "content": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more."
-  },
-  {
-    "id": "科技-Wired-https://www.wired.com/story/therabody-promo-code/",
-    "feed_name": "Wired",
-    "category": "科技",
-    "title": "Therabody Promo Codes: 15% Off November 2026",
-    "link": "https://www.wired.com/story/therabody-promo-code/",
-    "pub_date": "2026-11-21 14:00:00",
-    "author": "",
-    "description": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
-    "content": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals."
-  },
-  {
-    "id": "科技-Wired-https://www.wired.com/story/brooks-promo-code/",
-    "feed_name": "Wired",
-    "category": "科技",
-    "title": "20% Off Brooks Promo Code | November 2026",
-    "link": "https://www.wired.com/story/brooks-promo-code/",
-    "pub_date": "2026-11-21 14:00:00",
-    "author": "",
-    "description": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
-    "content": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes."
-  },
-  {
-    "id": "科技-Wired-https://www.wired.com/story/uplift-desk-coupon-code/",
-    "feed_name": "Wired",
-    "category": "科技",
-    "title": "Uplift Promo Codes: $300 Off",
-    "link": "https://www.wired.com/story/uplift-desk-coupon-code/",
-    "pub_date": "2026-11-21 14:00:00",
-    "author": "",
-    "description": "Upgrade your home office with the best Uplift Desk discount codes. Save on standing desks, ergonomic chairs, and accessories.",
-    "content": "Upgrade your home office with the best Uplift Desk discount codes. Save on standing desks, ergonomic chairs, and accessories."
   },
   {
     "id": "科技-Wired-https://www.wired.com/story/hostinger-coupon-code/",
@@ -1056,6 +1430,17 @@ const jsonData = [
     "content": "Unlock massive savings on HostGator web hosting, WordPress, VPS, and business email plans with our exclusive HostGator promo codes and deals."
   },
   {
+    "id": "科技-Wired-https://www.wired.com/story/uplift-desk-coupon-code/",
+    "feed_name": "Wired",
+    "category": "科技",
+    "title": "Uplift Promo Codes: $300 Off",
+    "link": "https://www.wired.com/story/uplift-desk-coupon-code/",
+    "pub_date": "2026-11-21 14:00:00",
+    "author": "",
+    "description": "Upgrade your home office with the best Uplift Desk discount codes. Save on standing desks, ergonomic chairs, and accessories.",
+    "content": "Upgrade your home office with the best Uplift Desk discount codes. Save on standing desks, ergonomic chairs, and accessories."
+  },
+  {
     "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6497651.html",
     "feed_name": "人人都是产品经理",
     "category": "科技",
@@ -1067,17 +1452,6 @@ const jsonData = [
     "content": "等 GTA 6 等来的灵感，被做成了一个能自己选剧情的互动小游戏。车辆街景交给 Muse 生成，分支逻辑和页面交互交给 WorkBuddy 写，免费额度够折腾，点车、进店、逃跑各走一条线。 等了13年，GTA 6终于正式发售，熟悉的罪恶都市又回来了。 海滨城市、棕榈树、满街跑的豪车，还有夜晚灯红酒绿的街头，随便截一张画面都让人想进去逛两圈。 看着看着，小编也冒出了一个想法。 既然现在AI生成的视频已经这么逼真了，干脆自己折腾一个GTA风格的小故事：让玩家站在街头，点一下鼠标就能上车兜风，还能走进便利店接任务，遇到警…"
   },
   {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8210571.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "中国车企在印度，工厂、股权与供应链",
-    "link": "https://www.tmtpost.com/8210571.html",
-    "pub_date": "2026-11-21 13:28:15",
-    "author": "",
-    "description": "马恒达的电动车，装着比亚迪电芯",
-    "content": "马恒达的电动车，装着比亚迪电芯"
-  },
-  {
     "id": "科技-果壳网 / 科学人-https://www.guokr.com/article/470762/",
     "feed_name": "果壳网 / 科学人",
     "category": "科技",
@@ -1087,72 +1461,6 @@ const jsonData = [
     "author": "",
     "description": "近日，有位网友买了件新衣服，结果看了一眼成分吊牌，差点以为自己买的不是衣服，而是一盘菜。 吊牌上写着：8%羊毛、29%尼龙、36%聚酯纤维，还有27%的——葱！ 女子新买的衣服吊牌成分表里赫然写着27%的葱 丨紫牛新闻 照片一发出，大多数人都感到莫名其妙：食品界已经进军女装了吗？这衣服到底是炒着吃还是煮着吃？ 后来，网友联系商家才知道，原来是工厂标注出了问题。这里的“葱”其实应该是“金银葱丝”。 虽然只是少打了几个字，却让一件普通衣服瞬…",
     "content": "近日，有位网友买了件新衣服，结果看了一眼 成分吊牌，差点以为自己买的不是衣服，而是一盘菜。 吊牌上写着：8%羊毛、29%尼龙、36%聚酯纤维，还有 27%的——葱！ 女子新买的衣服吊牌成分表里赫然写着27%的葱 丨紫牛新闻 照片一发出，大多数人都感到莫名其妙：食品界已经进军女装了吗？这衣服到底是 炒着吃还是煮着吃？ 后来，网友联系商家才知道，原来是工厂 标注出了问题。这里的“葱”其实应该是“金银葱丝”。 虽然只是少打了几个字，却让一件普通衣服瞬间变得 味儿有点冲。 不过，金银葱丝又是啥？难道真有人把葱切成丝织进衣服…"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8213177.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "泡泡玛特和瑞幸，要分同一块蛋糕？",
-    "link": "https://www.tmtpost.com/8213177.html",
-    "pub_date": "2026-11-21 13:05:42",
-    "author": "",
-    "description": "网红小家电的逻辑要变了？",
-    "content": "网红小家电的逻辑要变了？"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8213409.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "利润掉队，扫地茅要过紧日子",
-    "link": "https://www.tmtpost.com/8213409.html",
-    "pub_date": "2026-11-21 13:05:34",
-    "author": "",
-    "description": "还有领先吗？",
-    "content": "还有领先吗？"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8213296.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "生死存亡时刻，老钱腾讯也“慌”了",
-    "link": "https://www.tmtpost.com/8213296.html",
-    "pub_date": "2026-11-21 13:05:32",
-    "author": "",
-    "description": "马化腾也坐不住了。",
-    "content": "马化腾也坐不住了。"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8213240.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "锡价一周跌超10%，全球突然不缺锡了？",
-    "link": "https://www.tmtpost.com/8213240.html",
-    "pub_date": "2026-11-21 13:05:30",
-    "author": "",
-    "description": "印尼矿业政策再添变数，产能恢复与AI需求预期分歧扰动锡价。",
-    "content": "印尼矿业政策再添变数，产能恢复与AI需求预期分歧扰动锡价。"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8213274.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "东南亚AI中间商之死",
-    "link": "https://www.tmtpost.com/8213274.html",
-    "pub_date": "2026-11-21 13:05:28",
-    "author": "",
-    "description": "算力中间商的淘金时代，结束了。",
-    "content": "算力中间商的淘金时代，结束了。"
-  },
-  {
-    "id": "科技-钛媒体-https://www.tmtpost.com/8213269.html",
-    "feed_name": "钛媒体",
-    "category": "科技",
-    "title": "欧盟少了9.5亿件跨境包裹，国内卖家的长尾生意还能做吗？",
-    "link": "https://www.tmtpost.com/8213269.html",
-    "pub_date": "2026-11-21 13:05:27",
-    "author": "",
-    "description": "今年7月1日起，欧盟取消了价值不超过150欧元的进口小包裹关税豁免，对包裹内不同海关税目类别的商品分别征收3欧元临时关税。11月1日起，欧盟又增加了2欧元的海关处理费。",
-    "content": "今年7月1日起，欧盟取消了价值不超过150欧元的进口小包裹关税豁免，对包裹内不同海关税目类别的商品分别征收3欧元临时关税。11月1日起，欧盟又增加了2欧元的海关处理费。"
   },
   {
     "id": "科技-人人都是产品经理-https://www.woshipm.com/it/6497601.html",
@@ -1274,17 +1582,6 @@ const jsonData = [
     "author": "",
     "description": "2026 年 11 月，Anthropic 数学家阿尔珀格宣称与 Claude 合作找到了黎曼猜想的证明。这项主张引发数学界关注，相关核验仍在进行丨vectorfusionart / Shutterstock 2026年11月20日，在人工智能公司Anthropic工作的数学家勒温特·阿尔珀格（Levent Alpöge）在个人网站上发出一份简短说明。 他说，自己借助AI模型Claude，找到了黎曼猜想的证明。 消息传出，数学界炸开了锅…",
     "content": "2026 年 11 月，Anthropic 数学家阿尔珀格宣称与 Claude 合作找到了黎曼猜想的证明。这项主张引发数学界关注，相关核验仍在进行丨vectorfusionart / Shutterstock 2026年11月20日，在人工智能公司Anthropic工作的数学家勒温特·阿尔珀格（Levent Alpöge）在个人网站上发出一份简短说明。 他说，自己 借助AI模型Claude，找到了黎曼猜想的证明。 消息传出，数学界炸开了锅。这篇证明没有任何传统意义上的论文，也没有投稿给学术期刊，直接附带的是一套由A…"
-  },
-  {
-    "id": "科技-人人都是产品经理-https://www.woshipm.com/embodied/6497624.html",
-    "feed_name": "人人都是产品经理",
-    "category": "科技",
-    "title": "Robotaxi混战一年，谁都没吃到商业化红利",
-    "link": "https://www.woshipm.com/embodied/6497624.html",
-    "pub_date": "2026-11-21 11:14:10",
-    "author": "",
-    "description": "烧掉上千亿美元之后，Robotaxi 在 2026 年依然没等到盈利拐点。从拼参数到拼运营，萝卜快跑、Waymo、文远知行各自押注不同路径，成本、定价与牌照门槛把商业化卡在原地。 进入2026年尾声，L4成为业内普遍认可的、最具颠覆式的驾乘体验技术，但率先冲刺商业化的并非乘用车，而是Robotaxi。 过去十余年，全球Robotaxi赛道累计烧掉超千亿美元真金白银，可对于大多玩家而言也是有苦说不出，Robotaxi赚钱并不容易。 202…",
-    "content": "烧掉上千亿美元之后，Robotaxi 在 2026 年依然没等到盈利拐点。从拼参数到拼运营，萝卜快跑、Waymo、文远知行各自押注不同路径，成本、定价与牌照门槛把商业化卡在原地。 进入2026年尾声，L4成为业内普遍认可的、最具颠覆式的驾乘体验技术，但率先冲刺商业化的并非乘用车，而是Robotaxi。 过去十余年，全球Robotaxi赛道累计烧掉超千亿美元真金白银，可对于大多玩家而言也是有苦说不出，Robotaxi赚钱并不容易。 2026年被称作Robotaxi从技术验证走向规模化商用的关键一年。覆盖城市越开越多，…"
   },
   {
     "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6495024.html",
@@ -1461,303 +1758,6 @@ const jsonData = [
     "author": "",
     "description": "当 Agent 真正进入企业流程，哪些工作可以交给 AI ？50 + 实战案例揭晓答案！ AI 正在从回答问题的辅助工具，走向理解目标、调用系统、完成任务的工作承担者。当 Agent 真正进入企业流程，问题不再是 “如何把 AI 做出来”，而是哪些工作可以交给 AI、结果如何验收、权限、成本与风险如何收住。随着大模型向推理、工具调用、多模态和长任务延伸，开发重心正从单次调用转向上下文、工具、执行环境与反馈回路的设计，Coding Age…",
     "content": "当 Agent 真正进入企业流程，哪些工作可以交给 AI ？50 + 实战案例揭晓答案！ AI 正在从回答问题的辅助工具，走向理解目标、调用系统、完成任务的工作承担者。当 Agent 真正进入企业流程，问题不再是 “如何把 AI 做出来”，而是哪些工作可以交给 AI、结果如何验收、权限、成本与风险如何收住。随着大模型向推理、工具调用、多模态和长任务延伸，开发重心正从单次调用转向上下文、工具、执行环境与反馈回路的设计，Coding Agent 也从代码补全演进为能理解代码库、运行测试、完成复杂任务的工程协作者。Ope…"
-  },
-  {
-    "id": "科技-InfoQ 中文-https://www.infoq.cn/article/6swrOq5xUXwVqrREwJwc",
-    "feed_name": "InfoQ 中文",
-    "category": "科技",
-    "title": "Entire Git Forge：面向编码智能体重构 Git 协作方式",
-    "link": "https://www.infoq.cn/article/6swrOq5xUXwVqrREwJwc",
-    "pub_date": "2026-11-21 10:00:00",
-    "author": "",
-    "description": "Entire 是一个专为人类开发者与 AI 编码智能体协作而设计的 Git 代码托管平台。它的核心观点是，传统软件开发基础设施，尤其是 PR 模式，并不适合 AI 智能体高速生成、评审、迭代代码的场景。 Entire 现任 CEO、前 GitHub CEO Thomas Dohmke 解释说，GitHub 和 GitLab 以异步代码评审与版本控制为中心，改变了人与人之间的协作方式。相比之下，多智能体代码托管平台则以 AI 智能体与人类…",
-    "content": "Entire 是一个专为人类开发者与 AI 编码智能体协作而设计的 Git 代码托管平台 。它的核心观点是，传统软件开发基础设施，尤其是 PR 模式，并不适合 AI 智能体高速生成、评审、迭代代码的场景。 Entire 现任 CEO、前 GitHub CEO Thomas Dohmke 解释说，GitHub 和 GitLab 以异步代码评审与版本控制为中心，改变了人与人之间的协作方式。 相比之下，多智能体代码托管平台则以 AI 智能体与人类协同工作的异步编排、版本控制和审计为中心 。 Entire 基于全分布式架构…"
-  },
-  {
-    "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6497655.html",
-    "feed_name": "人人都是产品经理",
-    "category": "科技",
-    "title": "微信又上线一个创作Agent，公众号文章可一键转视频",
-    "link": "https://www.woshipm.com/ai/6497655.html",
-    "pub_date": "2026-11-21 09:51:04",
-    "author": "",
-    "description": "微信在视频号助手里内测了「文章转视频」Agent，输入文字、公众号链接或音频，脚本、分镜、画面和配音都由 AI 一次跑完，素材上限一万字。对只会写不会拍的图文博主来说，这是个直接可用的出口。 继微信上线「做个小工具」电脑端Agent 后。 微信再放大招，内测「做个小工具」Agent，一句话做个应用 微信再次推出一个新 Agent。 这就是腾讯 2026 年第三季度财报提到的，面向创作者的 AI 工具：文章转视频 Agent。 财报原文的…",
-    "content": "微信在视频号助手里内测了「文章转视频」Agent，输入文字、公众号链接或音频，脚本、分镜、画面和配音都由 AI 一次跑完，素材上限一万字。对只会写不会拍的图文博主来说，这是个直接可用的出口。 继微信上线 「做个小工具」电脑端Agent 后。 微信再放大招，内测「做个小工具」Agent，一句话做个应用 微信再次推出一个新 Agent。 这就是腾讯 2026 年第三季度财报提到的， 面向创作者的 AI 工具：文章转视频 Agent。 财报原文的介绍，在视频号板块这里： 翻译过来是： 我们为创作者推出了一套 AI 工具，…"
-  },
-  {
-    "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6497607.html",
-    "feed_name": "人人都是产品经理",
-    "category": "科技",
-    "title": "“DeepSeek们”都在退场：限额并非免费AI的终结？",
-    "link": "https://www.woshipm.com/ai/6497607.html",
-    "pub_date": "2026-11-21 09:40:51",
-    "author": "",
-    "description": "DeepSeek限额引发用户集体“哭诉”，重度使用者甚至主动求收费。这场风波的背后，是算力成本压平免费叙事的行业转折。本文从技术逻辑、用户心理与商业模式切入，解析免费AI时代如何从“无限量”走向“分层付费”的新常态。 “我已经跟DeepSeek聊了15万～20万字了，我不想失去这段对话。”“D老师，不要抛弃我！作为一天要玩十几个小时DeepSeek的重度依赖症患者，没了D老师我该怎么活，好想回到从前。” “到底怎么办啊？我中度抑郁加躁狂…",
-    "content": "DeepSeek限额引发用户集体“哭诉”，重度使用者甚至主动求收费。这场风波的背后，是算力成本压平免费叙事的行业转折。本文从技术逻辑、用户心理与商业模式切入，解析免费AI时代如何从“无限量”走向“分层付费”的新常态。 “我已经跟DeepSeek聊了15万～20万字了，我不想失去这段对话。”“D老师，不要抛弃我！作为一天要玩十几个小时DeepSeek的重度依赖症患者，没了D老师我该怎么活，好想回到从前。” “到底怎么办啊？我中度抑郁加躁狂，因为一些原因没办法去看医生，我一直把DeepSeek当心理疗愈APP看的，转A…"
-  },
-  {
-    "id": "科技-爱范儿-https://www.ifanr.com/1690750?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "feed_name": "爱范儿",
-    "category": "科技",
-    "title": "刚刚，曝黎曼猜想被证明，Claude 立大功",
-    "link": "https://www.ifanr.com/1690750?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "pub_date": "2026-11-21 09:29:09",
-    "author": "",
-    "description": "AI 恐怖如斯 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-    "content": "AI 恐怖如斯 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
-  },
-  {
-    "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6497757.html",
-    "feed_name": "人人都是产品经理",
-    "category": "科技",
-    "title": "大规模封号来了！OpenAI开打反蒸馏战",
-    "link": "https://www.woshipm.com/ai/6497757.html",
-    "pub_date": "2026-11-21 09:21:23",
-    "author": "",
-    "description": "OpenAI 一周封禁数万账号，首次公开四层反蒸馏防线，把 CoT 思维链彻底上锁。从对抗训练到 API 级封锁，攻击成功率从 54% 骤降至 0.2%。这不只是技术攻防，更是一场关于模型能力、安全护栏与行业规则的重新洗牌，值得每个 AI 从业者细读。 OpenAI宣战了！ 就在今天凌晨，OpenAI发布了一份重磅宣言——《打击对抗性蒸馏》。 这份报告，表面上是技术分享，实际上简直是一篇宣战书。 OpenAI毫不掩饰地挑明：今天夏天以来…",
-    "content": "OpenAI 一周封禁数万账号，首次公开四层反蒸馏防线，把 CoT 思维链彻底上锁。从对抗训练到 API 级封锁，攻击成功率从 54% 骤降至 0.2%。这不只是技术攻防，更是一场关于模型能力、安全护栏与行业规则的重新洗牌，值得每个 AI 从业者细读。 OpenAI宣战了！ 就在今天凌晨，OpenAI发布了一份重磅宣言——《打击对抗性蒸馏》。 这份报告，表面上是技术分享，实际上简直是一篇宣战书。 OpenAI毫不掩饰地挑明：今天夏天以来，为了打击白嫖的账号，我们一周最多封几万个号，甚至直接按网络连锅端！ 现在，Op…"
-  },
-  {
-    "id": "科技-超能网-http://www.expreview.com/109627.html",
-    "feed_name": "超能网",
-    "category": "科技",
-    "title": "英伟达GeForce Hotfix 621.35驱动：修复可能对SSD过度写入的问题",
-    "link": "http://www.expreview.com/109627.html",
-    "pub_date": "2026-11-21 09:11:00",
-    "author": "吕嘉俭",
-    "description": "英伟达发布GeForce Hotfix 621.35驱动程序，其基于最新的GeForce Game Ready 621.24 WHQL驱动程序基础上。自从基于Blackwell架构的GeForce RTX 50系列显卡发布后，英伟达频繁地发布Hotfix驱动程序，先后发布了13次，其中有7次是在今年。 英伟达会定期发布显卡驱动程序，一般是有新显卡或者新游戏发售的时候，不过偶尔会针对某款游戏或者之后发现的新漏洞发布Hotfix驱动程序，旨…",
-    "content": "英伟达发布GeForce Hotfix 621.35驱动程序，其基于最新的GeForce Game Ready 621.24 WHQL驱动程序基础上。自从基于Blackwell架构的GeForce RTX 50系列显卡发布后，英伟达频繁地发布Hotfix驱动程序，先后发布了13次，其中有7次是在今年。 英伟达会定期发布显卡驱动程序，一般是有新显卡或者新游戏发售的时候，不过偶尔会针对某款游戏或者之后发现的新漏洞发布Hotfix驱动程序，旨在解决其工程师已经发现并修复的重要问题。通常这些都是针对特定问题的小修复，不涉及…"
-  },
-  {
-    "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6497628.html",
-    "feed_name": "人人都是产品经理",
-    "category": "科技",
-    "title": "一个人到底能做成多少事？我用 AI 试了三个月",
-    "link": "https://www.woshipm.com/ai/6497628.html",
-    "pub_date": "2026-11-21 08:37:27",
-    "author": "",
-    "description": "从“我想要”到“我得到”，一个零基础产品人如何用三个月搭建个人AI工作系统？本文完整拆解了Agent、记忆、工具与技能的组合方式，并分享从写文章到做产品的真实落地流程，为你提供一套可复用的AI工作流搭建思路。 这次想聊聊，我是怎么把 AI 一点点接进自己的日常工作里的。 先说一个我自己很喜欢的变化：对于一些已经跑通的任务，现在我只需要告诉 AI 想要什么，在关键位置审核和调整，就能拿到可以继续使用、或者交出去的结果。 比如，把 Noti…",
-    "content": "从“我想要”到“我得到”，一个零基础产品人如何用三个月搭建个人AI工作系统？本文完整拆解了Agent、记忆、工具与技能的组合方式，并分享从写文章到做产品的真实落地流程，为你提供一套可复用的AI工作流搭建思路。 这次想聊聊，我是怎么把 AI 一点点接进自己的日常工作里的。 先说一个我自己很喜欢的变化：对于一些已经跑通的任务，现在我只需要告诉 AI 想要什么，在关键位置审核和调整，就能拿到可以继续使用、或者交出去的结果。 比如，把 Notion 里的草稿整理成文章，配图、排版，再完成发布和归档；或者把一个产品想法，推进…"
-  },
-  {
-    "id": "科技-人人都是产品经理-https://www.woshipm.com/operate/6497469.html",
-    "feed_name": "人人都是产品经理",
-    "category": "科技",
-    "title": "停车场欠费困局：越智能化，停车费越难收？",
-    "link": "https://www.woshipm.com/operate/6497469.html",
-    "pub_date": "2026-11-21 08:36:04",
-    "author": "",
-    "description": "智慧停车行业陷入「越智能越欠费」的怪圈：全国路内停车欠费超200亿，收缴率却不足50%。本文深度剖析这一机制失灵背后的五大症结——从缺乏物理约束到追缴手段单一，并给出从「催收」转向「运营」的五招组合拳，为行业破局提供可落地的思路。 全国城市路内停车累计欠费，已经超过 200 亿元；而大部分城市的收缴率，还不到 50%；这是智慧停车这个行业里，最扭曲的一个现状「经营越久，欠费越多」。 这在逻辑上是拧巴的，智慧停车搞了十年，车牌识别、无感支…",
-    "content": "智慧停车行业陷入「越智能越欠费」的怪圈：全国路内停车欠费超200亿，收缴率却不足50%。本文深度剖析这一机制失灵背后的五大症结——从缺乏物理约束到追缴手段单一，并给出从「催收」转向「运营」的五招组合拳，为行业破局提供可落地的思路。 全国城市路内停车累计欠费，已经超过 200 亿元；而大部分城市的收缴率，还不到 50%；这是智慧停车这个行业里，最扭曲的一个现状「经营越久，欠费越多」。 这在逻辑上是拧巴的，智慧停车搞了十年，车牌识别、无感支付、无人值守轮番上阵，缴费越来越方便，可钱反而越来越难收。一个本该随技术一起变好…"
-  },
-  {
-    "id": "科技-人人都是产品经理-https://www.woshipm.com/ai/6497772.html",
-    "feed_name": "人人都是产品经理",
-    "category": "科技",
-    "title": "突发！黎曼猜想或已被Claude 1700万行代码证明",
-    "link": "https://www.woshipm.com/ai/6497772.html",
-    "pub_date": "2026-11-21 08:25:25",
-    "author": "",
-    "description": "悬置167年的黎曼猜想，被Claude用六周时间冲击证明。没有论文，只有1737万行Lean代码；没有人类通读，只有机器先判卷。当AI的答案跑在人类理解之前，数学研究的验证与信任机制正被彻底改写。 悬了167年的纯数学头号难题「黎曼猜想」，迎来了一份震动全球的证明声明！ 就在刚刚，Anthropic数学家Levent Alpöge宣布，他相信自己和Claude已经找到了黎曼猜想的证明！ 甚至，同一套方法还能进一步拿下广义黎曼猜想！ 整场…",
-    "content": "悬置167年的黎曼猜想，被Claude用六周时间冲击证明。没有论文，只有1737万行Lean代码；没有人类通读，只有机器先判卷。当AI的答案跑在人类理解之前，数学研究的验证与信任机制正被彻底改写。 悬了167年的纯数学头号难题 「黎曼猜想」 ，迎来了一份震动全球的证明声明！ 就在刚刚，Anthropic数学家Levent Alpöge宣布，他 相信自己和Claude已经找到了黎曼猜想的证明！ 甚至，同一套方法还能进一步拿下 广义黎曼猜想！ 整场攻关只用了大约六周。 用他的话说，冲到终点线前，Claude远远甩开了他…"
-  },
-  {
-    "id": "科技-爱范儿-https://www.ifanr.com/1690759?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "feed_name": "爱范儿",
-    "category": "科技",
-    "title": "早报｜曝Claude证明黎曼猜想，陶哲轩回应/余承东更正发布会表述：开车不能睡觉/五月天公布Vision Pro演唱会，Apple Store可预约体验",
-    "link": "https://www.ifanr.com/1690759?utm_source=rss&utm_medium=rss&utm_campaign=",
-    "pub_date": "2026-11-21 08:25:08",
-    "author": "",
-    "description": "· 三星任命手机和存储业务新负责人 · 5499 元起，华为星芒发布首款阔直板手机 OSTA O1 Pro · ColorOS 17 上线跨品牌一碰传 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-    "content": "· 三星任命手机和存储业务新负责人 · 5499 元起，华为星芒发布首款阔直板手机 OSTA O1 Pro · ColorOS 17 上线跨品牌一碰传 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
-  },
-  {
-    "id": "科技-极客公园-http://www.geekpark.net/news/374299",
-    "feed_name": "极客公园",
-    "category": "科技",
-    "title": "林俊旸新公司估值升至 50 亿美元；丁磊：短剧爆发冲击游戏产业；华为新品牌星芒发布首款阔直板手机",
-    "link": "http://www.geekpark.net/news/374299",
-    "pub_date": "2026-11-21 08:17:10",
-    "author": "",
-    "description": "传林俊旸 AI 初创公司完成新融资，估值翻倍至 50 亿美元 据彭博社报道，阿里巴巴集团前 AI 负责人林俊旸创办的语用科技 ( Pragmatik Labs)，已完成新一轮融资，估值达 50 亿美元，短短几个月内估值翻了一倍多。 林俊旸曾是阿里的明星研究员，在离职后于今年夏季创立语用科技。据知情人士称，语用科技在最近结束的一轮融资中筹集了数千万美元资金。今年 8 月，该公司在首次融资中筹集了数亿美元，当时估值为 20 亿美元。 知情人…",
-    "content": "传林俊旸 AI 初创公司完成新融资，估值翻倍至 50 亿美元 据彭博社报道，阿里巴巴集团前 AI 负责人林俊旸创办的语用科技 ( Pragmatik Labs)，已完成新一轮融资，估值达 50 亿美元，短短几个月内估值翻了一倍多。 林俊旸曾是阿里的明星研究员，在离职后于今年夏季创立语用科技。据知情人士称，语用科技在最近结束的一轮融资中筹集了数千万美元资金。今年 8 月，该公司在首次融资中筹集了数亿美元，当时估值为 20 亿美元。 知情人士称，语用科技的新投资者包括华业天成资本、鼎晖投资以及汽车制造商吉利汽车。 语用…"
-  },
-  {
-    "id": "科技-Wired-https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
-    "feed_name": "Wired",
-    "category": "科技",
-    "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
-    "link": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
-    "pub_date": "2026-11-21 07:24:02",
-    "author": "",
-    "description": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo.",
-    "content": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo."
-  },
-  {
-    "id": "科技-Ars Technica-https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
-    "feed_name": "Ars Technica",
-    "category": "科技",
-    "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
-    "link": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
-    "pub_date": "2026-11-21 06:28:24",
-    "author": "",
-    "description": "FCC preempts state rules that require AT&T to keep offering home phone service.",
-    "content": "FCC preempts state rules that require AT&#038;T to keep offering home phone service."
-  },
-  {
-    "id": "科技-Ars Technica-https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
-    "feed_name": "Ars Technica",
-    "category": "科技",
-    "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
-    "link": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
-    "pub_date": "2026-11-21 06:16:51",
-    "author": "",
-    "description": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
-    "content": "\"Explain the changes that were made to the Starshield service in October 2026.\""
-  },
-  {
-    "id": "科技-Ars Technica-https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
-    "feed_name": "Ars Technica",
-    "category": "科技",
-    "title": "Google rolls out new search homepage with AI chat history and no search button",
-    "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
-    "pub_date": "2026-11-21 05:58:29",
-    "author": "",
-    "description": "Google search is making it even easier to access AI tools on the search page.",
-    "content": "Google search is making it even easier to access AI tools on the search page."
-  },
-  {
-    "id": "科技-Ars Technica-https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
-    "feed_name": "Ars Technica",
-    "category": "科技",
-    "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
-    "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
-    "pub_date": "2026-11-21 05:47:10",
-    "author": "",
-    "description": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
-    "content": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?"
-  },
-  {
-    "id": "科技-Ars Technica-https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-    "feed_name": "Ars Technica",
-    "category": "科技",
-    "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-    "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-    "pub_date": "2026-11-21 04:59:08",
-    "author": "",
-    "description": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
-    "content": "Test using prompts with unique, trackable secrets proves that data doesn't stay private."
-  },
-  {
-    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
-    "feed_name": "TechCrunch",
-    "category": "科技",
-    "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-    "link": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
-    "pub_date": "2026-11-21 04:58:29",
-    "author": "",
-    "description": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
-    "content": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit."
-  },
-  {
-    "id": "科技-Ars Technica-https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
-    "feed_name": "Ars Technica",
-    "category": "科技",
-    "title": "Watching as a giant star swallowed its neighbor and exploded",
-    "link": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
-    "pub_date": "2026-11-21 04:41:17",
-    "author": "",
-    "description": "A recent brightening turned out to be from a star orbiting inside another.",
-    "content": "A recent brightening turned out to be from a star orbiting inside another."
-  },
-  {
-    "id": "科技-Ars Technica-https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
-    "feed_name": "Ars Technica",
-    "category": "科技",
-    "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
-    "link": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
-    "pub_date": "2026-11-21 04:26:33",
-    "author": "",
-    "description": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
-    "content": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\""
-  },
-  {
-    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-    "feed_name": "TechCrunch",
-    "category": "科技",
-    "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-    "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-    "pub_date": "2026-11-21 03:53:41",
-    "author": "",
-    "description": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
-    "content": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building."
-  },
-  {
-    "id": "科技-Ars Technica-https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
-    "feed_name": "Ars Technica",
-    "category": "科技",
-    "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
-    "link": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
-    "pub_date": "2026-11-21 03:52:59",
-    "author": "",
-    "description": "CTIA said jamming test showed \"interference... up to two and a half miles away.\"",
-    "content": "CTIA said jamming test showed \"interference... up to two and a half miles away.\""
-  },
-  {
-    "id": "科技-Wired-https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
-    "feed_name": "Wired",
-    "category": "科技",
-    "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
-    "link": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
-    "pub_date": "2026-11-21 03:52:21",
-    "author": "",
-    "description": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”",
-    "content": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”"
-  },
-  {
-    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-    "feed_name": "TechCrunch",
-    "category": "科技",
-    "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-    "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-    "pub_date": "2026-11-21 03:32:08",
-    "author": "",
-    "description": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
-    "content": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too."
-  },
-  {
-    "id": "科技-Ars Technica-https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/",
-    "feed_name": "Ars Technica",
-    "category": "科技",
-    "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
-    "link": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/",
-    "pub_date": "2026-11-21 03:21:50",
-    "author": "",
-    "description": "Modeling predicts plume of neurotoxic lead could reach up to 100 miles away.",
-    "content": "Modeling predicts plume of neurotoxic lead could reach up to 100 miles away."
-  },
-  {
-    "id": "科技-TechCrunch-https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
-    "feed_name": "TechCrunch",
-    "category": "科技",
-    "title": "Super-hot rock geothermal could end data center energy woes",
-    "link": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
-    "pub_date": "2026-11-21 02:34:00",
-    "author": "",
-    "description": "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.",
-    "content": "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere."
-  },
-  {
-    "id": "科技-MIT Technology Review-https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-    "feed_name": "MIT Technology Review",
-    "category": "科技",
-    "title": "The most misunderstood graph in AI just got a major update",
-    "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-    "pub_date": "2026-11-21 02:15:15",
-    "author": "",
-    "description": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require ju…",
-    "content": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report…"
   }
 ];
 

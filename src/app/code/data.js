@@ -1,11 +1,110 @@
 const jsonData = [
   {
+    "id": "技术-Hacker News-https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Prisons get OK to jam contraband phones",
+    "link": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
+    "pub_date": "2026-11-22 21:00:52",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Lobsters-https://joshua.hu/fixing-google-feedburner-cache-problem-atom-rss",
+    "feed_name": "Lobsters",
+    "category": "技术",
+    "title": "Fixing Google’s Feedburner problem, and caching that half works",
+    "link": "https://joshua.hu/fixing-google-feedburner-cache-problem-atom-rss",
+    "pub_date": "2026-11-22 20:30:56",
+    "author": "joshua.hu via mtlynch",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://simonwillison.net/2026/Nov/21/muru/",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+    "link": "https://simonwillison.net/2026/Nov/21/muru/",
+    "pub_date": "2026-11-22 17:57:01",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+    "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+    "pub_date": "2026-11-22 16:57:34",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Notes on the discrete Fourier transform (DFT)",
+    "link": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+    "pub_date": "2026-11-22 14:52:25",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://github.com/tamnd/riemann-handbook",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Show HN: The Riemann Proof Handbook",
+    "link": "https://github.com/tamnd/riemann-handbook",
+    "pub_date": "2026-11-22 13:46:30",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://github.com/EL4CTEO/fast-anything",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
+    "link": "https://github.com/EL4CTEO/fast-anything",
+    "pub_date": "2026-11-22 12:10:09",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+    "link": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+    "pub_date": "2026-11-22 12:04:56",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
     "id": "技术-Hacker News-https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
     "feed_name": "Hacker News",
     "category": "技术",
-    "title": "OpenRouter off-boards 3 providers, pulls 125 endpoints from zero data retention",
+    "title": "Data Processing Incidents on Inference Providers",
     "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
     "pub_date": "2026-11-22 10:14:14",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://www.noemamag.com/the-mythology-of-conscious-ai/",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "The Mythology of Conscious AI",
+    "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+    "pub_date": "2026-11-22 10:10:02",
     "author": "",
     "description": "Comments",
     "content": "Comments"
@@ -18,17 +117,6 @@ const jsonData = [
     "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
     "pub_date": "2026-11-22 10:03:46",
     "author": "arstechnica.com via itamarst",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://github.com/ItsNotRexed/Leonida",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
-    "link": "https://github.com/ItsNotRexed/Leonida",
-    "pub_date": "2026-11-22 08:57:26",
-    "author": "",
     "description": "Comments",
     "content": "Comments"
   },
@@ -99,28 +187,6 @@ const jsonData = [
     "content": "Comments"
   },
   {
-    "id": "技术-Hacker News-https://tasklet.ai/careers",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
-    "link": "https://tasklet.ai/careers",
-    "pub_date": "2026-11-22 05:11:08",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
-    "link": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
-    "pub_date": "2026-11-22 05:06:14",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
     "id": "技术-Hacker News-https://www.pandex.io",
     "feed_name": "Hacker News",
     "category": "技术",
@@ -160,17 +226,6 @@ const jsonData = [
     "title": "Inkling-2-Mini in 5.4 GB Memory",
     "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
     "pub_date": "2026-11-22 02:02:19",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://jespino.github.io/gopgext/",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "PostgreSQL Extensions in Go",
-    "link": "https://jespino.github.io/gopgext/",
-    "pub_date": "2026-11-22 01:08:04",
     "author": "",
     "description": "Comments",
     "content": "Comments"
@@ -275,28 +330,6 @@ const jsonData = [
     "content": "编辑推荐：作者用 AI 一个下午写了个小程序，第二天就过审了，结果后面 17 天改了 3 次名字、被停服 7 天、备案重来一次，原因是个人主体不能做「用户发内容给别人看」这类功能。他把踩过的规矩整理成了表，准备以个人身份做小程序的可以先看看。 原文：“社保证明卡了我半天——得从人社渠道下载盖章版，要的是近三个月缴费明细，不是汇总。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-22.html"
   },
   {
-    "id": "技术-Hacker News-https://math.mit.edu/~drew/grh/",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Verification files for the Lean proof of the Riemann Hypothesis",
-    "link": "https://math.mit.edu/~drew/grh/",
-    "pub_date": "2026-11-21 23:54:34",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://onurgumus.github.io/zero-csharp/index.html",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Show HN: Zero C# – C# without a runtime or GC",
-    "link": "https://onurgumus.github.io/zero-csharp/index.html",
-    "pub_date": "2026-11-21 23:39:09",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
     "id": "技术-Lobsters-https://bwc9876.dev/blog/jj_todo/",
     "feed_name": "Lobsters",
     "category": "技术",
@@ -396,10 +429,21 @@ const jsonData = [
     "content": "Comments"
   },
   {
+    "id": "技术-Lobsters-https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+    "feed_name": "Lobsters",
+    "category": "技术",
+    "title": "GnuPG Security Advisory for GPGME (T8557,CVE-2026-129975)",
+    "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+    "pub_date": "2026-11-21 18:09:19",
+    "author": "lists.gnupg.org via rw-rw-rw-",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
     "id": "技术-Hacker News-https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
     "feed_name": "Hacker News",
     "category": "技术",
-    "title": "RCE in Gnupg",
+    "title": "GnuPG Security Advisory for GPGME",
     "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
     "pub_date": "2026-11-21 16:32:58",
     "author": "",
@@ -429,17 +473,6 @@ const jsonData = [
     "content": "Comments"
   },
   {
-    "id": "技术-Hacker News-https://news.ycombinator.com/item?id=50583761",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-    "link": "https://news.ycombinator.com/item?id=50583761",
-    "pub_date": "2026-11-21 07:18:32",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
     "id": "技术-Hacker News-https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
     "feed_name": "Hacker News",
     "category": "技术",
@@ -447,17 +480,6 @@ const jsonData = [
     "link": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
     "pub_date": "2026-11-21 06:11:05",
     "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Lobsters-https://antithesis.com/blog/2026/verifying-formal-models/",
-    "feed_name": "Lobsters",
-    "category": "技术",
-    "title": "Verifying formal models of Raft implementations",
-    "link": "https://antithesis.com/blog/2026/verifying-formal-models/",
-    "pub_date": "2026-11-21 05:54:45",
-    "author": "antithesis.com via a4j",
     "description": "Comments",
     "content": "Comments"
   },
@@ -473,17 +495,6 @@ const jsonData = [
     "content": "Comments"
   },
   {
-    "id": "技术-Hacker News-https://thinkingmachines.ai/news/inkling-2-mini/",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Inkling 2 Mini",
-    "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
-    "pub_date": "2026-11-21 04:12:19",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
     "id": "技术-Lobsters-https://cwa-union.org/news/releases/internet-archive-workers-launch-union-campaign-communications-workers-america",
     "feed_name": "Lobsters",
     "category": "技术",
@@ -491,39 +502,6 @@ const jsonData = [
     "link": "https://cwa-union.org/news/releases/internet-archive-workers-launch-union-campaign-communications-workers-america",
     "pub_date": "2026-11-21 02:39:29",
     "author": "cwa-union.org via skalnik",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Hurried Announcement: Alessandro Masullo GRH",
-    "link": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-    "pub_date": "2026-11-21 02:33:14",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://manidoraisamy.com/developer-to-architect.html",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "We promoted developers into architects without informing them",
-    "link": "https://manidoraisamy.com/developer-to-architect.html",
-    "pub_date": "2026-11-21 02:17:51",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://klauria.tech/klauria-art/",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "I'm quite pleased by the tech architecture of my art website",
-    "link": "https://klauria.tech/klauria-art/",
-    "pub_date": "2026-11-21 01:03:39",
-    "author": "",
     "description": "Comments",
     "content": "Comments"
   },
@@ -605,17 +583,6 @@ const jsonData = [
     "content": "编辑推荐：作者把去年那张写满31项的「我每天到底在干什么」翻出来，用两个问题筛了一遍：输入能不能穷举，错了能不能退回来。结果能整块交给工具的只有一类，话里带承诺的一律不交。 原文：“31 项里，真正需要我拿主意的，大概 6 项；剩下 25 项是搬运。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-21.html"
   },
   {
-    "id": "技术-Hacker News-https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Why there are still no non-WebKit browsers on iOS",
-    "link": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
-    "pub_date": "2026-11-20 23:03:31",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
     "id": "技术-Lobsters-https://alpo.ge/remark.pdf",
     "feed_name": "Lobsters",
     "category": "技术",
@@ -623,6 +590,17 @@ const jsonData = [
     "link": "https://alpo.ge/remark.pdf",
     "pub_date": "2026-11-20 22:46:49",
     "author": "alpo.ge via mitsuhiko",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://ambrook.com/offrange/livestock/field-mice-on-drugs",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Field Mice on Drugs",
+    "link": "https://ambrook.com/offrange/livestock/field-mice-on-drugs",
+    "pub_date": "2026-11-20 20:40:06",
+    "author": "",
     "description": "Comments",
     "content": "Comments"
   },
@@ -702,13 +680,13 @@ const jsonData = [
     "content": ""
   },
   {
-    "id": "技术-Lobsters-https://blog.harrison.page/garage-door-spam/",
-    "feed_name": "Lobsters",
+    "id": "技术-Hacker News-https://phys.org/news/2026-11-tiny-primordial-black-holes.html",
+    "feed_name": "Hacker News",
     "category": "技术",
-    "title": "Garage Door Spam",
-    "link": "https://blog.harrison.page/garage-door-spam/",
-    "pub_date": "2026-11-20 10:41:39",
-    "author": "blog.harrison.page via zk",
+    "title": "If tiny 'primordial' black holes exist",
+    "link": "https://phys.org/news/2026-11-tiny-primordial-black-holes.html",
+    "pub_date": "2026-11-20 11:37:41",
+    "author": "",
     "description": "Comments",
     "content": "Comments"
   },
@@ -722,6 +700,17 @@ const jsonData = [
     "author": "阮一峰",
     "description": "这里记录每周值得分享的科技内容，周五发布。 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面图 新建成的上海道教学院，由清华大学建筑设计研究院设计。（via） 最分心的一年 法国开发者亚历杭德罗·奥（Alejandro AO），是世界最大的大模型社区 Hugging Face 的布道师。 他做了很多视频，向初学者科普 AI 知识，都放在他的 Youtub…",
     "content": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 新建成的上海道教学院，由清华大学建筑设计研究院设计。（ via ） 最分心的一年 法国开发者 亚历杭德罗·奥 （Alejandro AO），是世界最大的大模型社区 Hugging Face 的布道师。 他做了很多视频，向初学者科普 AI 知识，都放在他的 Youtube 频道 。 他的内容以实操为主，也会涉及一些原理，容易…"
+  },
+  {
+    "id": "技术-Hacker News-https://joinmayberry.com/",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Self-hosted library branch over public web OPDS",
+    "link": "https://joinmayberry.com/",
+    "pub_date": "2026-11-20 05:15:47",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
   },
   {
     "id": "技术-十年之约-https://www.foreverblog.cn/daily/read/48/163696/rss",
@@ -779,12 +768,23 @@ const jsonData = [
     "content": "编辑推荐：作者游安徽皖南川藏线，在查济古镇见到溪边上游有人洗衣、下游三人洗菜，这顺序看着反了。逛完古镇继续进山，为避开白天拥堵，作者夜里开六道湾，那段山路没有路灯，急弯一个接一个。 原文：“小家伙玩得很开心。第二天一早醒来，才发现民宿落地窗外直接对着大山” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-20.html"
   },
   {
-    "id": "技术-Hacker News-https://panzerschrek.github.io/U-00DC-Sprache-site/2026/11/18/unit-testing.html",
+    "id": "技术-Hacker News-https://www.jacktollenaar.top/articles/split-rc.html",
     "feed_name": "Hacker News",
     "category": "技术",
-    "title": "Unit-testing in the Ü programming language",
-    "link": "https://panzerschrek.github.io/U-00DC-Sprache-site/2026/11/18/unit-testing.html",
-    "pub_date": "2026-11-19 20:34:54",
+    "title": "Split Radiance Cascades",
+    "link": "https://www.jacktollenaar.top/articles/split-rc.html",
+    "pub_date": "2026-11-19 22:08:33",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://avrea.com/blog/avrea-sandboxes-computers-should-be-forkable",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Is 'fork' missing operation in sandboxes?",
+    "link": "https://avrea.com/blog/avrea-sandboxes-computers-should-be-forkable",
+    "pub_date": "2026-11-19 21:28:43",
     "author": "",
     "description": "Comments",
     "content": "Comments"
@@ -801,12 +801,23 @@ const jsonData = [
     "content": "作者：Tamer Abdelaziz, Karim Ali 原文链接：https://arxiv.org/pdf/2611.04411v2 摘要 智能合约上的恶意交易造成了数十亿美元的损失。为了评估各自的检测器，大多数数据集会照搬公开事件数据库所引用的攻击交易，并为其搭配随机交易。然而，这些数据库从不依据执行结果核验其引用，而随机交易也很少与攻击相似。我们提出 TXBENCH，一个同时依据执行结果..."
   },
   {
-    "id": "技术-Hacker News-https://revyl.com/blog/pattern-engineering/",
+    "id": "技术-Hacker News-https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html",
     "feed_name": "Hacker News",
     "category": "技术",
-    "title": "Shaping the Loops, Closing the Loops",
-    "link": "https://revyl.com/blog/pattern-engineering/",
-    "pub_date": "2026-11-19 06:29:04",
+    "title": "Reversing the Next-Page Prefetcher in Skylake-X",
+    "link": "https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html",
+    "pub_date": "2026-11-19 08:50:05",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://erikdemaine.org/fonts/stringart/",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "String Art Font (2017)",
+    "link": "https://erikdemaine.org/fonts/stringart/",
+    "pub_date": "2026-11-19 01:42:57",
     "author": "",
     "description": "Comments",
     "content": "Comments"
@@ -878,17 +889,6 @@ const jsonData = [
     "content": "Comments"
   },
   {
-    "id": "技术-Hacker News-https://levineuwirth.org/essays/exponential-magic/",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Exponential Behavior in Magic: The Gathering",
-    "link": "https://levineuwirth.org/essays/exponential-magic/",
-    "pub_date": "2026-11-18 22:07:09",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
     "id": "技术-安全客-https://www.anquanke.com/post/id/316506",
     "feed_name": "安全客",
     "category": "技术",
@@ -917,6 +917,17 @@ const jsonData = [
     "author": " 安全客",
     "description": "",
     "content": ""
+  },
+  {
+    "id": "技术-Hacker News-https://github.com/pithings/unkernel",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "A real Linux kernel, compiled to WebAssembly",
+    "link": "https://github.com/pithings/unkernel",
+    "pub_date": "2026-11-18 00:35:46",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
   },
   {
     "id": "技术-十年之约-https://www.foreverblog.cn/daily/read/45/163240/rss",
@@ -1005,17 +1016,6 @@ const jsonData = [
     "author": "",
     "description": "编辑推荐：作者用 Lua 写脚本，把 Redis 缓存剩余的毫秒数 PTTL 和秒数 TTL 塞进同一次调用，从1到3000毫秒逐一测试，结果全都符合按秒四舍五入：剩499毫秒报0，剩500毫秒就报1。 原文：“TTL 返回 0，GET 还能拿到值。这不是竞态，也不是 README 里说漏了。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-18.html",
     "content": "编辑推荐：作者用 Lua 写脚本，把 Redis 缓存剩余的毫秒数 PTTL 和秒数 TTL 塞进同一次调用，从1到3000毫秒逐一测试，结果全都符合按秒四舍五入：剩499毫秒报0，剩500毫秒就报1。 原文：“TTL 返回 0，GET 还能拿到值。这不是竞态，也不是 README 里说漏了。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-18.html"
-  },
-  {
-    "id": "技术-Hacker News-https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Tropical Rainforests Species may be surprisingly young",
-    "link": "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html",
-    "pub_date": "2026-11-17 23:08:54",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
   },
   {
     "id": "技术-Seebug Paper-https://paper.seebug.org/3535",
