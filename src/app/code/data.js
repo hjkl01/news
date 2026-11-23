@@ -1,11 +1,470 @@
 const jsonData = [
   {
-    "id": "技术-Hacker News-https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
+    "id": "技术-Lobsters-https://dave.writersweb.org/index.md",
+    "feed_name": "Lobsters",
+    "category": "技术",
+    "title": "Good morning and welcome to my idea of a new web",
+    "link": "https://dave.writersweb.org/index.md",
+    "pub_date": "2026-11-23 11:15:06",
+    "author": "dave.writersweb.org via spc476",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Lobsters-https://pyfound.blogspot.com/2026/11/de-fanging-dangerous-triggers-in-github.html",
+    "feed_name": "Lobsters",
+    "category": "技术",
+    "title": "De-fanging dangerous triggers in GitHub Actions across an organization",
+    "link": "https://pyfound.blogspot.com/2026/11/de-fanging-dangerous-triggers-in-github.html",
+    "pub_date": "2026-11-23 11:02:13",
+    "author": "pyfound.blogspot.com via ubernostrum",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf",
     "feed_name": "Hacker News",
     "category": "技术",
-    "title": "Prisons get OK to jam contraband phones",
-    "link": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
-    "pub_date": "2026-11-22 21:00:52",
+    "title": "Advanced Character Physics (2001) [pdf]",
+    "link": "https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf",
+    "pub_date": "2026-11-23 10:17:27",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-安全客-https://www.anquanke.com/post/id/316523",
+    "feed_name": "安全客",
+    "category": "技术",
+    "title": "科技云报到：Agent 上生产，七成的账不在模型上",
+    "pub_date": "2026-11-23 10:01:35",
+    "author": " 科技云报到",
+    "description": "",
+    "content": ""
+  },
+  {
+    "id": "技术-安全客-https://www.anquanke.com/post/id/316536",
+    "feed_name": "安全客",
+    "category": "技术",
+    "title": "德国把网络威胁拉到最高档，理由就四个字：智能体 AI",
+    "pub_date": "2026-11-23 09:51:25",
+    "author": " 安全客",
+    "description": "",
+    "content": ""
+  },
+  {
+    "id": "技术-安全客-https://www.anquanke.com/post/id/316533",
+    "feed_name": "安全客",
+    "category": "技术",
+    "title": "全球第九的超算被黑，丢的是 4224 把 SSH 私钥",
+    "pub_date": "2026-11-23 09:29:02",
+    "author": " 安全客",
+    "description": "",
+    "content": ""
+  },
+  {
+    "id": "技术-Hacker News-https://spelunkr.tv",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+    "link": "https://spelunkr.tv",
+    "pub_date": "2026-11-23 09:13:51",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "What we learned operating auth for 1k APIs",
+    "link": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+    "pub_date": "2026-11-23 09:01:11",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Nespresso's project to reduce grams of coffee per capsule",
+    "link": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
+    "pub_date": "2026-11-23 07:57:45",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://0rwx.com/",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+    "link": "https://0rwx.com/",
+    "pub_date": "2026-11-23 07:53:00",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+    "link": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+    "pub_date": "2026-11-23 07:12:10",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "GL.iNet Security Notice 2026-11-20",
+    "link": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+    "pub_date": "2026-11-23 07:06:37",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://github.com/mjwsolo/localcode",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Localcode, open source agentic coding on your Mac with one command",
+    "link": "https://github.com/mjwsolo/localcode",
+    "pub_date": "2026-11-23 06:18:48",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
+    "link": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
+    "pub_date": "2026-11-23 06:10:58",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Lobsters-https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/",
+    "feed_name": "Lobsters",
+    "category": "技术",
+    "title": "GitHub Actions accepts invalid YAML",
+    "link": "https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/",
+    "pub_date": "2026-11-23 05:49:18",
+    "author": "yossarian.net by yossarian",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Lobsters-https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
+    "feed_name": "Lobsters",
+    "category": "技术",
+    "title": "Testing Terraform with AWS Emulator",
+    "link": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
+    "pub_date": "2026-11-23 05:44:04",
+    "author": "notes.hatedabamboo.me via winter",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "The struggle for freedom: How BSD escaped AT&T licensing",
+    "link": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
+    "pub_date": "2026-11-23 05:33:12",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Will the first approved psychedelic become a blockbuster?",
+    "link": "https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/",
+    "pub_date": "2026-11-23 05:13:10",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+    "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+    "pub_date": "2026-11-23 05:01:16",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://smallsf.com/",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "A miniature San Francisco with live buses, planes and boats",
+    "link": "https://smallsf.com/",
+    "pub_date": "2026-11-23 04:33:23",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://nyx.net/",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Nyx, the Oldest Internet Service Provider",
+    "link": "https://nyx.net/",
+    "pub_date": "2026-11-23 04:15:59",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Lobsters-https://dustycloud.org/blog/gliver-completes-the-guix-desktop/",
+    "feed_name": "Lobsters",
+    "category": "技术",
+    "title": "Gliver completes the Guix desktop",
+    "link": "https://dustycloud.org/blog/gliver-completes-the-guix-desktop/",
+    "pub_date": "2026-11-23 04:10:15",
+    "author": "dustycloud.org via eBPF",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Assume People Are Not Interested in Your Blog Post",
+    "link": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
+    "pub_date": "2026-11-23 03:41:30",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "What Happened to Silicon Valley?",
+    "link": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+    "pub_date": "2026-11-23 03:20:15",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Lobsters-https://alanpearce.eu/post/scriptura/",
+    "feed_name": "Lobsters",
+    "category": "技术",
+    "title": "scriptura: a cozy corner for your scripts",
+    "link": "https://alanpearce.eu/post/scriptura/",
+    "pub_date": "2026-11-23 03:13:26",
+    "author": "alanpearce.eu via winter",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+    "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+    "pub_date": "2026-11-23 03:10:34",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Lobsters-https://meshcoveragecalculator.lalala.ing/",
+    "feed_name": "Lobsters",
+    "category": "技术",
+    "title": "Calculate radio link placement and node amount for your city's mesh network",
+    "link": "https://meshcoveragecalculator.lalala.ing/",
+    "pub_date": "2026-11-23 02:17:44",
+    "author": "meshcoveragecalculator.lalala.ing by l4l4l4l4",
+    "description": "FSPL + Delta-Bullington based local-first WASM radio mesh network calculator with the end goal of making calls over mesh networks possible without pissing off anybody in the process (yes, I'm talking about you, Meshtasti…",
+    "content": "FSPL + Delta-Bullington based local-first WASM radio mesh network calculator with the end goal of making calls over mesh networks possible without pissing off anybody in the process (yes, I'm talking about you, Meshtastic maintainers). Feel free to tell me how…"
+  },
+  {
+    "id": "技术-Hacker News-https://boazbk.github.io/mltheoryseminar/",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Harvard CS 2881R AI Safety",
+    "link": "https://boazbk.github.io/mltheoryseminar/",
+    "pub_date": "2026-11-23 02:01:54",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://openai.com/index/perplexity-and-intelligence/",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Perplexity and Intelligence",
+    "link": "https://openai.com/index/perplexity-and-intelligence/",
+    "pub_date": "2026-11-23 01:06:27",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Lobsters-https://reiver.link/atproto/falsehoods-programmers-believe/",
+    "feed_name": "Lobsters",
+    "category": "技术",
+    "title": "Falsehoods Programmers Believe About ATProto",
+    "link": "https://reiver.link/atproto/falsehoods-programmers-believe/",
+    "pub_date": "2026-11-23 00:37:12",
+    "author": "reiver.link via jacky",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-十年之约-https://www.foreverblog.cn/daily/read/51/164419/rss",
+    "feed_name": "十年之约",
+    "category": "技术",
+    "title": "损失厌恶：为何赚一点就跑、亏了死扛",
+    "link": "https://www.foreverblog.cn/daily/read/51/164419/rss",
+    "pub_date": "2026-11-23 00:00:34",
+    "author": "",
+    "description": "编辑推荐：7 月 9 日夜里，作者做空焦煤期货，账上已经浮盈 19 点，差不多半个月工资。规则还没让走，作者怕这笔钱又亏没了，自己平了仓；之后价格先反弹再一路下跌，照规则这一单本该拿到 34 点。 原文：“朋友以旧换新。他那辆老车在二手市场问过，贩子只给几千块；到了店里走「置换抵扣」，销售说能抵两万上下” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-23.html",
+    "content": "编辑推荐：7 月 9 日夜里，作者做空焦煤期货，账上已经浮盈 19 点，差不多半个月工资。规则还没让走，作者怕这笔钱又亏没了，自己平了仓；之后价格先反弹再一路下跌，照规则这一单本该拿到 34 点。 原文：“朋友以旧换新。他那辆老车在二手市场问过，贩子只给几千块；到了店里走「置换抵扣」，销售说能抵两万上下” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-23.html"
+  },
+  {
+    "id": "技术-十年之约-https://www.foreverblog.cn/daily/read/51/164451/rss",
+    "feed_name": "十年之约",
+    "category": "技术",
+    "title": "一顶头盔，载着晨昏",
+    "link": "https://www.foreverblog.cn/daily/read/51/164451/rss",
+    "pub_date": "2026-11-23 00:00:34",
+    "author": "",
+    "description": "编辑推荐：网上有人抱怨查头盔，作者想起前年买来接送孩子的小电摩。店家送的两顶头盔拿在手里发飘，本想只给孩子换一顶，夫人说要换就一起换。两顶有 3C 认证的头盔到货后，作者对着帽内铭牌核对了品牌和型号。 原文：“小家伙趴在桌边，认认真真布置自己的盔，舍不得漏掉一处。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-23.html",
+    "content": "编辑推荐：网上有人抱怨查头盔，作者想起前年买来接送孩子的小电摩。店家送的两顶头盔拿在手里发飘，本想只给孩子换一顶，夫人说要换就一起换。两顶有 3C 认证的头盔到货后，作者对着帽内铭牌核对了品牌和型号。 原文：“小家伙趴在桌边，认认真真布置自己的盔，舍不得漏掉一处。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-23.html"
+  },
+  {
+    "id": "技术-十年之约-https://www.foreverblog.cn/daily/read/51/164379/rss",
+    "feed_name": "十年之约",
+    "category": "技术",
+    "title": "啃噬",
+    "link": "https://www.foreverblog.cn/daily/read/51/164379/rss",
+    "pub_date": "2026-11-23 00:00:34",
+    "author": "",
+    "description": "编辑推荐：作者做了一场噩梦：在教室里帮忙核对会议流程，想把啰嗦的主持词改短，点开文档却是一段放粤语的风景视频。去厕所时，蚯蚓、蜈蚣从皮肤里往外钻，肩膀上的大洞里，一条棕灰色大鱼正探出头来。 原文：“我来回调格式，咋个都不对，心里是又急又乱。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-23.html",
+    "content": "编辑推荐：作者做了一场噩梦：在教室里帮忙核对会议流程，想把啰嗦的主持词改短，点开文档却是一段放粤语的风景视频。去厕所时，蚯蚓、蜈蚣从皮肤里往外钻，肩膀上的大洞里，一条棕灰色大鱼正探出头来。 原文：“我来回调格式，咋个都不对，心里是又急又乱。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-23.html"
+  },
+  {
+    "id": "技术-十年之约-https://www.foreverblog.cn/daily/read/51/164454/rss",
+    "feed_name": "十年之约",
+    "category": "技术",
+    "title": "凌晨一点，我在厨房开椰子",
+    "link": "https://www.foreverblog.cn/daily/read/51/164454/rss",
+    "pub_date": "2026-11-23 00:00:34",
+    "author": "",
+    "description": "编辑推荐：作者翻看记录工具 Looki 这六天替自己记下的日常，白天多是办公室的双屏工位；11 月 17 日深夜那条，记的是作者拿菜刀给椰子削皮当夜宵，还有一晚半夜饿了，商量是拆包泡面还是切根香肠。 原文：“凌晨一点，它不闹了，就趴在桌角，前爪叠着，眼睛半睁不睁。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-23.html",
+    "content": "编辑推荐：作者翻看记录工具 Looki 这六天替自己记下的日常，白天多是办公室的双屏工位；11 月 17 日深夜那条，记的是作者拿菜刀给椰子削皮当夜宵，还有一晚半夜饿了，商量是拆包泡面还是切根香肠。 原文：“凌晨一点，它不闹了，就趴在桌角，前爪叠着，眼睛半睁不睁。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-23.html"
+  },
+  {
+    "id": "技术-十年之约-https://www.foreverblog.cn/daily/read/51/164368/rss",
+    "feed_name": "十年之约",
+    "category": "技术",
+    "title": "尚书阅读书友会不推荐",
+    "link": "https://www.foreverblog.cn/daily/read/51/164368/rss",
+    "pub_date": "2026-11-23 00:00:34",
+    "author": "",
+    "description": "编辑推荐：二宝带回一封「百部经典阅读马拉松」的致家长信，要读《钻出课本的小百科4》和《驶向草原的甜火车》。作者在免费电子书平台和闲鱼都没找到，网店每本约 34 元；问发起活动的尚书阅读书友会客服有没有电子版，隔了一天没人回。 原文：“我问二宝这个是必须得吗，二宝说是” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-23.html",
+    "content": "编辑推荐：二宝带回一封「百部经典阅读马拉松」的致家长信，要读《钻出课本的小百科4》和《驶向草原的甜火车》。作者在免费电子书平台和闲鱼都没找到，网店每本约 34 元；问发起活动的尚书阅读书友会客服有没有电子版，隔了一天没人回。 原文：“我问二宝这个是必须得吗，二宝说是” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-23.html"
+  },
+  {
+    "id": "技术-十年之约-https://www.foreverblog.cn/daily/read/51/164381/rss",
+    "feed_name": "十年之约",
+    "category": "技术",
+    "title": "生活碎碎念：我向镜花捞水月",
+    "link": "https://www.foreverblog.cn/daily/read/51/164381/rss",
+    "pub_date": "2026-11-23 00:00:34",
+    "author": "",
+    "description": "编辑推荐：作者一直想再试一次 Cosplay，这回从小金库拿出一小笔钱，买了套便宜的《崩坏：星穹铁道》开拓者「穹」的衣服，挑校运会第一天去操场转。没化妆，只戴了口罩，买来的假发对着镜子自己梳了半天。 原文：“不过事后发现，这里的调整其实意义不算太大，到外面风一吹就又乱了。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-23.html",
+    "content": "编辑推荐：作者一直想再试一次 Cosplay，这回从小金库拿出一小笔钱，买了套便宜的《崩坏：星穹铁道》开拓者「穹」的衣服，挑校运会第一天去操场转。没化妆，只戴了口罩，买来的假发对着镜子自己梳了半天。 原文：“不过事后发现，这里的调整其实意义不算太大，到外面风一吹就又乱了。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-23.html"
+  },
+  {
+    "id": "技术-十年之约-https://www.foreverblog.cn/daily/read/51/164420/rss",
+    "feed_name": "十年之约",
+    "category": "技术",
+    "title": "3940条评论搬完家，我又把它们数了一遍",
+    "link": "https://www.foreverblog.cn/daily/read/51/164420/rss",
+    "pub_date": "2026-11-23 00:00:34",
+    "author": "",
+    "description": "编辑推荐：博客评论系统 Waline 的数据原来存在 LeanCloud，这家服务要停，2027 年 1 月 12 日后数据销毁。作者 11 月把数据库换成 Neon，导出的文件里评论、阅读计数和旧管理员账号混在一起，拆出 3940 条评论再导入。 原文：“然后回博客翻了几篇老文章：楼层还在，回复关系还在，时间还是原来的时间，连那句「谢了」都挂在原来的位置。” 来自十年之约“今天读什么”：https://www.foreverblog.…",
+    "content": "编辑推荐：博客评论系统 Waline 的数据原来存在 LeanCloud，这家服务要停，2027 年 1 月 12 日后数据销毁。作者 11 月把数据库换成 Neon，导出的文件里评论、阅读计数和旧管理员账号混在一起，拆出 3940 条评论再导入。 原文：“然后回博客翻了几篇老文章：楼层还在，回复关系还在，时间还是原来的时间，连那句「谢了」都挂在原来的位置。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-23.html"
+  },
+  {
+    "id": "技术-十年之约-https://www.foreverblog.cn/daily/read/51/164358/rss",
+    "feed_name": "十年之约",
+    "category": "技术",
+    "title": "被黑客入侵后的 NixOS 加固",
+    "link": "https://www.foreverblog.cn/daily/read/51/164358/rss",
+    "pub_date": "2026-11-23 00:00:34",
+    "author": "",
+    "description": "编辑推荐：10 月 14 日深夜收到 CPU 占满的告警后，作者翻日志才发现，自己日常用的 SSH 密钥被人拿去登录了 434 次，对方还经内网一共进了 12 台机器。重装系统、换掉所有可能被盗的密钥之后，接着给这些 NixOS 服务器加固。 原文：“我当时比较慌张，没有想起来可以通过类似 ip link set eth0 down 的方式快速断网。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/d…",
+    "content": "编辑推荐：10 月 14 日深夜收到 CPU 占满的告警后，作者翻日志才发现，自己日常用的 SSH 密钥被人拿去登录了 434 次，对方还经内网一共进了 12 台机器。重装系统、换掉所有可能被盗的密钥之后，接着给这些 NixOS 服务器加固。 原文：“我当时比较慌张，没有想起来可以通过类似 ip link set eth0 down 的方式快速断网。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-23.html"
+  },
+  {
+    "id": "技术-十年之约-https://www.foreverblog.cn/daily/read/51/164480/rss",
+    "feed_name": "十年之约",
+    "category": "技术",
+    "title": "Aerial 装哪个 apk：标准版、守护版、精简版差在哪",
+    "link": "https://www.foreverblog.cn/daily/read/51/164480/rss",
+    "pub_date": "2026-11-23 00:00:34",
+    "author": "",
+    "description": "编辑推荐：有人给电视装了 Aerial 桌面的标准版，按主页键还是回到原来的桌面。作者把 v2.15 的三个安装包拆开比对：标准版向系统登记了「我是桌面」，守护版不登记，专给拒装桌面应用的电视用；能不能接管主页键，还要看电视让不让。 原文：“装完能用就先别动。电视不是手机，装坏了要搬凳子、翻遥控器、有时候还得再把电脑搬过来。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-…",
+    "content": "编辑推荐：有人给电视装了 Aerial 桌面的标准版，按主页键还是回到原来的桌面。作者把 v2.15 的三个安装包拆开比对：标准版向系统登记了「我是桌面」，守护版不登记，专给拒装桌面应用的电视用；能不能接管主页键，还要看电视让不让。 原文：“装完能用就先别动。电视不是手机，装坏了要搬凳子、翻遥控器、有时候还得再把电脑搬过来。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-23.html"
+  },
+  {
+    "id": "技术-Hacker News-https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+    "link": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+    "pub_date": "2026-11-22 23:35:24",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://osw-alliance.net/en/",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Open Social Web Alliance",
+    "link": "https://osw-alliance.net/en/",
+    "pub_date": "2026-11-22 23:24:32",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Lobsters-https://owl.billpg.com/what-if-netscape-did-ssl-the-http-way/",
+    "feed_name": "Lobsters",
+    "category": "技术",
+    "title": "What If Netscape Did SSL the HTTP Way?",
+    "link": "https://owl.billpg.com/what-if-netscape-did-ssl-the-http-way/",
+    "pub_date": "2026-11-22 22:48:20",
+    "author": "owl.billpg.com via cript0nauta",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-https://github.com/gulivan/worker755",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Show HN: I built a game where you are an LLM's subagent",
+    "link": "https://github.com/gulivan/worker755",
+    "pub_date": "2026-11-22 21:56:58",
     "author": "",
     "description": "Comments",
     "content": "Comments"
@@ -22,56 +481,12 @@ const jsonData = [
     "content": "Comments"
   },
   {
-    "id": "技术-Hacker News-https://simonwillison.net/2026/Nov/21/muru/",
+    "id": "技术-Hacker News-https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
     "feed_name": "Hacker News",
     "category": "技术",
-    "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-    "link": "https://simonwillison.net/2026/Nov/21/muru/",
-    "pub_date": "2026-11-22 17:57:01",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-    "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-    "pub_date": "2026-11-22 16:57:34",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Notes on the discrete Fourier transform (DFT)",
-    "link": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
-    "pub_date": "2026-11-22 14:52:25",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://github.com/tamnd/riemann-handbook",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Show HN: The Riemann Proof Handbook",
-    "link": "https://github.com/tamnd/riemann-handbook",
-    "pub_date": "2026-11-22 13:46:30",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://github.com/EL4CTEO/fast-anything",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
-    "link": "https://github.com/EL4CTEO/fast-anything",
-    "pub_date": "2026-11-22 12:10:09",
+    "title": "Masullo on the Riemann Hypothesis",
+    "link": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+    "pub_date": "2026-11-22 18:59:56",
     "author": "",
     "description": "Comments",
     "content": "Comments"
@@ -83,28 +498,6 @@ const jsonData = [
     "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
     "link": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
     "pub_date": "2026-11-22 12:04:56",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Data Processing Incidents on Inference Providers",
-    "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-    "pub_date": "2026-11-22 10:14:14",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://www.noemamag.com/the-mythology-of-conscious-ai/",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "The Mythology of Conscious AI",
-    "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-    "pub_date": "2026-11-22 10:10:02",
     "author": "",
     "description": "Comments",
     "content": "Comments"
@@ -143,17 +536,6 @@ const jsonData = [
     "content": "Comments"
   },
   {
-    "id": "技术-Hacker News-https://stulle.app/",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Sandwich Simulator",
-    "link": "https://stulle.app/",
-    "pub_date": "2026-11-22 08:07:59",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
     "id": "技术-Lobsters-https://sipacid.com/blog/port-scanning-for-mojang/",
     "feed_name": "Lobsters",
     "category": "技术",
@@ -165,34 +547,23 @@ const jsonData = [
     "content": "Comments"
   },
   {
-    "id": "技术-Hacker News-https://github.com/sebaandrada-cell/PcapAnalyzer",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
-    "link": "https://github.com/sebaandrada-cell/PcapAnalyzer",
-    "pub_date": "2026-11-22 06:09:58",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://linebender.org/blog/next-100-guis/",
-    "feed_name": "Hacker News",
+    "id": "技术-Lobsters-https://linebender.org/blog/next-100-guis/",
+    "feed_name": "Lobsters",
     "category": "技术",
     "title": "Advice for the next 100 Rust GUIs",
     "link": "https://linebender.org/blog/next-100-guis/",
-    "pub_date": "2026-11-22 05:17:53",
-    "author": "",
+    "pub_date": "2026-11-22 07:10:07",
+    "author": "linebender.org via bitshift",
     "description": "Comments",
     "content": "Comments"
   },
   {
-    "id": "技术-Hacker News-https://www.pandex.io",
+    "id": "技术-Hacker News-https://alperenkeles.com/posts/vocab-for-testing/",
     "feed_name": "Hacker News",
     "category": "技术",
-    "title": "Pandex – Official European Law for AI Agents, over MCP",
-    "link": "https://www.pandex.io",
-    "pub_date": "2026-11-22 04:47:41",
+    "title": "A Better Vocabulary for Testing",
+    "link": "https://alperenkeles.com/posts/vocab-for-testing/",
+    "pub_date": "2026-11-22 06:15:39",
     "author": "",
     "description": "Comments",
     "content": "Comments"
@@ -205,28 +576,6 @@ const jsonData = [
     "link": "https://progrium.xyz/articles/2026/single-binary-postgres",
     "pub_date": "2026-11-22 03:32:22",
     "author": "progrium.xyz via rrampage",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://pwn.ai/upload2shell",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Upload2Shell (CVE-2026-125396)",
-    "link": "https://pwn.ai/upload2shell",
-    "pub_date": "2026-11-22 02:29:29",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://github.com/ShinMegamiBoson/lookatmyquant",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Inkling-2-Mini in 5.4 GB Memory",
-    "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
-    "pub_date": "2026-11-22 02:02:19",
-    "author": "",
     "description": "Comments",
     "content": "Comments"
   },
@@ -352,17 +701,6 @@ const jsonData = [
     "content": "Comments"
   },
   {
-    "id": "技术-Hacker News-https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Lean verification of the Riemann Hypothesis",
-    "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-    "pub_date": "2026-11-21 22:36:45",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
     "id": "技术-Lobsters-https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
     "feed_name": "Lobsters",
     "category": "技术",
@@ -370,17 +708,6 @@ const jsonData = [
     "link": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
     "pub_date": "2026-11-21 21:57:53",
     "author": "herbsutter.com via olliej",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Detonating a pile of lead azide",
-    "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-    "pub_date": "2026-11-21 21:23:14",
-    "author": "",
     "description": "Comments",
     "content": "Comments"
   },
@@ -418,50 +745,6 @@ const jsonData = [
     "content": "Comments"
   },
   {
-    "id": "技术-Hacker News-https://blog.tymscar.com/posts/studiodisplayethernet/",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "My monitor was cutting my download speed by 75%",
-    "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-    "pub_date": "2026-11-21 18:36:32",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Lobsters-https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
-    "feed_name": "Lobsters",
-    "category": "技术",
-    "title": "GnuPG Security Advisory for GPGME (T8557,CVE-2026-129975)",
-    "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
-    "pub_date": "2026-11-21 18:09:19",
-    "author": "lists.gnupg.org via rw-rw-rw-",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "GnuPG Security Advisory for GPGME",
-    "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
-    "pub_date": "2026-11-21 16:32:58",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Lobsters-https://valkey.io/blog/from-skiplist-to-b+tree/",
-    "feed_name": "Lobsters",
-    "category": "技术",
-    "title": "From Skiplists to B+ Trees: Making Valkey Sorted Sets More Memory Efficient",
-    "link": "https://valkey.io/blog/from-skiplist-to-b+tree/",
-    "pub_date": "2026-11-21 12:31:29",
-    "author": "valkey.io via kana",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
     "id": "技术-Lobsters-https://slopstrap.mikelacher.com/l",
     "feed_name": "Lobsters",
     "category": "技术",
@@ -473,46 +756,13 @@ const jsonData = [
     "content": "Comments"
   },
   {
-    "id": "技术-Hacker News-https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+    "id": "技术-Hacker News-https://antithesis.com/blog/2026/verifying-formal-models/",
     "feed_name": "Hacker News",
     "category": "技术",
-    "title": "Getting the mind to steer the body to steer you",
-    "link": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
-    "pub_date": "2026-11-21 06:11:05",
+    "title": "Verifying formal models of Raft implementations",
+    "link": "https://antithesis.com/blog/2026/verifying-formal-models/",
+    "pub_date": "2026-11-21 00:33:22",
     "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-    "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-    "pub_date": "2026-11-21 05:03:12",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Lobsters-https://cwa-union.org/news/releases/internet-archive-workers-launch-union-campaign-communications-workers-america",
-    "feed_name": "Lobsters",
-    "category": "技术",
-    "title": "Internet Archive Staffers Are Unionizing",
-    "link": "https://cwa-union.org/news/releases/internet-archive-workers-launch-union-campaign-communications-workers-america",
-    "pub_date": "2026-11-21 02:39:29",
-    "author": "cwa-union.org via skalnik",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Lobsters-https://www.alicecaml.org/blog/alice-v0-6-0/",
-    "feed_name": "Lobsters",
-    "category": "技术",
-    "title": "Alice v0.6.0",
-    "link": "https://www.alicecaml.org/blog/alice-v0-6-0/",
-    "pub_date": "2026-11-21 00:44:09",
-    "author": "alicecaml.org via olex",
     "description": "Comments",
     "content": "Comments"
   },
@@ -594,57 +844,13 @@ const jsonData = [
     "content": "Comments"
   },
   {
-    "id": "技术-Hacker News-https://ambrook.com/offrange/livestock/field-mice-on-drugs",
+    "id": "技术-Hacker News-https://googlemapsmania.blogspot.com/2026/10/how-world-draws-world.html",
     "feed_name": "Hacker News",
     "category": "技术",
-    "title": "Field Mice on Drugs",
-    "link": "https://ambrook.com/offrange/livestock/field-mice-on-drugs",
-    "pub_date": "2026-11-20 20:40:06",
+    "title": "How the World Draws the World",
+    "link": "https://googlemapsmania.blogspot.com/2026/10/how-world-draws-world.html",
+    "pub_date": "2026-11-20 22:20:15",
     "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Lobsters-https://www.masteringemacs.org/article/announcing-dreamcoder",
-    "feed_name": "Lobsters",
-    "category": "技术",
-    "title": "DreamCoder: coding harness and IDE from the author of Mastering Emacs",
-    "link": "https://www.masteringemacs.org/article/announcing-dreamcoder",
-    "pub_date": "2026-11-20 19:14:06",
-    "author": "masteringemacs.org via facundoolano",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Lobsters-https://lwn.net/Articles/1102982/",
-    "feed_name": "Lobsters",
-    "category": "技术",
-    "title": "Removing binder.c",
-    "link": "https://lwn.net/Articles/1102982/",
-    "pub_date": "2026-11-20 18:33:36",
-    "author": "lwn.net via fanf",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Lobsters-https://vim-classic.org/news/vim-8.3.1-released.html",
-    "feed_name": "Lobsters",
-    "category": "技术",
-    "title": "Vim Classic 8.3.1 released",
-    "link": "https://vim-classic.org/news/vim-8.3.1-released.html",
-    "pub_date": "2026-11-20 18:02:03",
-    "author": "vim-classic.org via FedericoSchonborn",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Lobsters-https://dbushell.com/2026/11/16/visited-links/",
-    "feed_name": "Lobsters",
-    "category": "技术",
-    "title": "Visited links are purple",
-    "link": "https://dbushell.com/2026/11/16/visited-links/",
-    "pub_date": "2026-11-20 17:58:05",
-    "author": "dbushell.com via eaj",
     "description": "Comments",
     "content": "Comments"
   },
@@ -659,17 +865,6 @@ const jsonData = [
     "content": ""
   },
   {
-    "id": "技术-Lobsters-https://www.serpentine.com/posts/2026/announcing-jj-musubi/",
-    "feed_name": "Lobsters",
-    "category": "技术",
-    "title": "Announcing jj-musubi: live sync for Jujutsu",
-    "link": "https://www.serpentine.com/posts/2026/announcing-jj-musubi/",
-    "pub_date": "2026-11-20 17:39:11",
-    "author": "serpentine.com via Picnoir",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
     "id": "技术-安全客-https://www.anquanke.com/post/id/316525",
     "feed_name": "安全客",
     "category": "技术",
@@ -678,17 +873,6 @@ const jsonData = [
     "author": " 安全客",
     "description": "",
     "content": ""
-  },
-  {
-    "id": "技术-Hacker News-https://phys.org/news/2026-11-tiny-primordial-black-holes.html",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "If tiny 'primordial' black holes exist",
-    "link": "https://phys.org/news/2026-11-tiny-primordial-black-holes.html",
-    "pub_date": "2026-11-20 11:37:41",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
   },
   {
     "id": "技术-阮一峰的网络日志-http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html",
@@ -700,17 +884,6 @@ const jsonData = [
     "author": "阮一峰",
     "description": "这里记录每周值得分享的科技内容，周五发布。 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面图 新建成的上海道教学院，由清华大学建筑设计研究院设计。（via） 最分心的一年 法国开发者亚历杭德罗·奥（Alejandro AO），是世界最大的大模型社区 Hugging Face 的布道师。 他做了很多视频，向初学者科普 AI 知识，都放在他的 Youtub…",
     "content": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 新建成的上海道教学院，由清华大学建筑设计研究院设计。（ via ） 最分心的一年 法国开发者 亚历杭德罗·奥 （Alejandro AO），是世界最大的大模型社区 Hugging Face 的布道师。 他做了很多视频，向初学者科普 AI 知识，都放在他的 Youtube 频道 。 他的内容以实操为主，也会涉及一些原理，容易…"
-  },
-  {
-    "id": "技术-Hacker News-https://joinmayberry.com/",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Self-hosted library branch over public web OPDS",
-    "link": "https://joinmayberry.com/",
-    "pub_date": "2026-11-20 05:15:47",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
   },
   {
     "id": "技术-十年之约-https://www.foreverblog.cn/daily/read/48/163696/rss",
@@ -768,23 +941,12 @@ const jsonData = [
     "content": "编辑推荐：作者游安徽皖南川藏线，在查济古镇见到溪边上游有人洗衣、下游三人洗菜，这顺序看着反了。逛完古镇继续进山，为避开白天拥堵，作者夜里开六道湾，那段山路没有路灯，急弯一个接一个。 原文：“小家伙玩得很开心。第二天一早醒来，才发现民宿落地窗外直接对着大山” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-20.html"
   },
   {
-    "id": "技术-Hacker News-https://www.jacktollenaar.top/articles/split-rc.html",
+    "id": "技术-Hacker News-https://www.gameboymuseum.com/single-post/the-unlicensed-gospel-wisdom-tree-s-bible-games-on-the-game-boy",
     "feed_name": "Hacker News",
     "category": "技术",
-    "title": "Split Radiance Cascades",
-    "link": "https://www.jacktollenaar.top/articles/split-rc.html",
-    "pub_date": "2026-11-19 22:08:33",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://avrea.com/blog/avrea-sandboxes-computers-should-be-forkable",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Is 'fork' missing operation in sandboxes?",
-    "link": "https://avrea.com/blog/avrea-sandboxes-computers-should-be-forkable",
-    "pub_date": "2026-11-19 21:28:43",
+    "title": "The Unlicensed Gospel: Wisdom Tree's Bible Games on the Game Boy",
+    "link": "https://www.gameboymuseum.com/single-post/the-unlicensed-gospel-wisdom-tree-s-bible-games-on-the-game-boy",
+    "pub_date": "2026-11-19 22:27:07",
     "author": "",
     "description": "Comments",
     "content": "Comments"
@@ -799,28 +961,6 @@ const jsonData = [
     "author": "",
     "description": "作者：Tamer Abdelaziz, Karim Ali 原文链接：https://arxiv.org/pdf/2611.04411v2 摘要 智能合约上的恶意交易造成了数十亿美元的损失。为了评估各自的检测器，大多数数据集会照搬公开事件数据库所引用的攻击交易，并为其搭配随机交易。然而，这些数据库从不依据执行结果核验其引用，而随机交易也很少与攻击相似。我们提出 TXBENCH，一个同时依据执行结果...",
     "content": "作者：Tamer Abdelaziz, Karim Ali 原文链接：https://arxiv.org/pdf/2611.04411v2 摘要 智能合约上的恶意交易造成了数十亿美元的损失。为了评估各自的检测器，大多数数据集会照搬公开事件数据库所引用的攻击交易，并为其搭配随机交易。然而，这些数据库从不依据执行结果核验其引用，而随机交易也很少与攻击相似。我们提出 TXBENCH，一个同时依据执行结果..."
-  },
-  {
-    "id": "技术-Hacker News-https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "Reversing the Next-Page Prefetcher in Skylake-X",
-    "link": "https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html",
-    "pub_date": "2026-11-19 08:50:05",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
-  },
-  {
-    "id": "技术-Hacker News-https://erikdemaine.org/fonts/stringart/",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "String Art Font (2017)",
-    "link": "https://erikdemaine.org/fonts/stringart/",
-    "pub_date": "2026-11-19 01:42:57",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
   },
   {
     "id": "技术-十年之约-https://www.foreverblog.cn/daily/read/46/163506/rss",
@@ -878,12 +1018,23 @@ const jsonData = [
     "content": "编辑推荐：逛博友博客，发现文章结构工整，连吃碗面都要升华出人生哲理。 原文：“以前憋半天写不出几句，现在只要给 AI 一个主题，几秒钟就能生成一篇像模像样的文章。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-19.html"
   },
   {
-    "id": "技术-Hacker News-https://sgiannopoulos.github.io/blog/machine-code-programming/",
+    "id": "技术-Hacker News-https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
     "feed_name": "Hacker News",
     "category": "技术",
-    "title": "LLMs can read and write executables byte by byte from a hex dump",
-    "link": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
-    "pub_date": "2026-11-18 22:15:58",
+    "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
+    "link": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
+    "pub_date": "2026-11-18 23:43:29",
+    "author": "",
+    "description": "Comments",
+    "content": "Comments"
+  },
+  {
+    "id": "技术-Hacker News-http://togelius.blogspot.com/2026/11/advice-for-young-researchers.html",
+    "feed_name": "Hacker News",
+    "category": "技术",
+    "title": "Advice for Young Researchers",
+    "link": "http://togelius.blogspot.com/2026/11/advice-for-young-researchers.html",
+    "pub_date": "2026-11-18 21:33:25",
     "author": "",
     "description": "Comments",
     "content": "Comments"
@@ -917,17 +1068,6 @@ const jsonData = [
     "author": " 安全客",
     "description": "",
     "content": ""
-  },
-  {
-    "id": "技术-Hacker News-https://github.com/pithings/unkernel",
-    "feed_name": "Hacker News",
-    "category": "技术",
-    "title": "A real Linux kernel, compiled to WebAssembly",
-    "link": "https://github.com/pithings/unkernel",
-    "pub_date": "2026-11-18 00:35:46",
-    "author": "",
-    "description": "Comments",
-    "content": "Comments"
   },
   {
     "id": "技术-十年之约-https://www.foreverblog.cn/daily/read/45/163240/rss",
@@ -1137,61 +1277,6 @@ const jsonData = [
     "content": ""
   },
   {
-    "id": "技术-十年之约-https://www.foreverblog.cn/daily/read/43/162921/rss",
-    "feed_name": "十年之约",
-    "category": "技术",
-    "title": "飞向月球",
-    "link": "https://www.foreverblog.cn/daily/read/43/162921/rss",
-    "pub_date": "2026-11-16 00:00:30",
-    "author": "",
-    "description": "编辑推荐：作者给迷上探月纪录片的儿子小万万做火箭模型，却一直卡在零件的打印效果上。孩子早就认可了测试用的着陆腿，作者还在追求更逼真的外形。后来决定先把现有零件装完，才交出了第一个成品。 原文：“小羽：最后一周了要放暑假啦，下学期我们要去小班了小万万：那S老师还在吗？” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-16.html",
-    "content": "编辑推荐：作者给迷上探月纪录片的儿子小万万做火箭模型，却一直卡在零件的打印效果上。孩子早就认可了测试用的着陆腿，作者还在追求更逼真的外形。后来决定先把现有零件装完，才交出了第一个成品。 原文：“小羽：最后一周了要放暑假啦，下学期我们要去小班了小万万：那S老师还在吗？” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-16.html"
-  },
-  {
-    "id": "技术-十年之约-https://www.foreverblog.cn/daily/read/43/162825/rss",
-    "feed_name": "十年之约",
-    "category": "技术",
-    "title": "在江边坐一下午没钓到鱼，夜市的馄饨接住了那阵晚风",
-    "link": "https://www.foreverblog.cn/daily/read/43/162825/rss",
-    "pub_date": "2026-11-16 00:00:30",
-    "author": "",
-    "description": "编辑推荐：作者记下在武汉度过的十月：几次到江边钓鱼没什么收获，夜市里十三元一碗的馄饨倒很合口。月初作者和妻子发糕去九真山等日落，返程天已黑透，越走越近的狗叫让两人不敢跑，只能加快脚步。 原文：“不敢跑——怕动静反倒把它引过来，只能尽量快步往前走。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-16.html",
-    "content": "编辑推荐：作者记下在武汉度过的十月：几次到江边钓鱼没什么收获，夜市里十三元一碗的馄饨倒很合口。月初作者和妻子发糕去九真山等日落，返程天已黑透，越走越近的狗叫让两人不敢跑，只能加快脚步。 原文：“不敢跑——怕动静反倒把它引过来，只能尽量快步往前走。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-16.html"
-  },
-  {
-    "id": "技术-十年之约-https://www.foreverblog.cn/daily/read/43/162873/rss",
-    "feed_name": "十年之约",
-    "category": "技术",
-    "title": "慢跑减肥记",
-    "link": "https://www.foreverblog.cn/daily/read/43/162873/rss",
-    "pub_date": "2026-11-16 00:00:30",
-    "author": "",
-    "description": "编辑推荐：四十岁的作者跑了半年，体重轻了近十公斤，腰围小了六厘米。起先半小时跑四公里多，后来改成小步幅，每分钟一百七十至一百八十步，每次跑四十分钟。三餐照吃，不让自己饿着，晚饭尽量少吃。 原文：“半小时跑了4公里多，看着App上显示心率高达160多，我不仅没觉得危险，反而‘洋洋得意’。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-16.html",
-    "content": "编辑推荐：四十岁的作者跑了半年，体重轻了近十公斤，腰围小了六厘米。起先半小时跑四公里多，后来改成小步幅，每分钟一百七十至一百八十步，每次跑四十分钟。三餐照吃，不让自己饿着，晚饭尽量少吃。 原文：“半小时跑了4公里多，看着App上显示心率高达160多，我不仅没觉得危险，反而‘洋洋得意’。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-16.html"
-  },
-  {
-    "id": "技术-十年之约-https://www.foreverblog.cn/daily/read/43/162869/rss",
-    "feed_name": "十年之约",
-    "category": "技术",
-    "title": "审判你的只有你自己",
-    "link": "https://www.foreverblog.cn/daily/read/43/162869/rss",
-    "pub_date": "2026-11-16 00:00:30",
-    "author": "",
-    "description": "编辑推荐：《罪与罚》的辍学大学生拉斯柯尔尼科夫想靠杀人证明自己有权越过道德。作者说，嘴上把自己当拿破仑，身体却不听使唤：逃回家后，连抢来了什么都没看，就把赃物塞到破墙纸后，昏迷了三天三夜。 原文：“他握着斧头准备拼命。幸运的是敲门的人暂时离开了，他趁机溜到楼下油漆工干活的空房间里藏了起来。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-16.html",
-    "content": "编辑推荐：《罪与罚》的辍学大学生拉斯柯尔尼科夫想靠杀人证明自己有权越过道德。作者说，嘴上把自己当拿破仑，身体却不听使唤：逃回家后，连抢来了什么都没看，就把赃物塞到破墙纸后，昏迷了三天三夜。 原文：“他握着斧头准备拼命。幸运的是敲门的人暂时离开了，他趁机溜到楼下油漆工干活的空房间里藏了起来。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-16.html"
-  },
-  {
-    "id": "技术-十年之约-https://www.foreverblog.cn/daily/read/43/162886/rss",
-    "feed_name": "十年之约",
-    "category": "技术",
-    "title": "精神小伙崩老头记",
-    "link": "https://www.foreverblog.cn/daily/read/43/162886/rss",
-    "pub_date": "2026-11-16 00:00:30",
-    "author": "",
-    "description": "编辑推荐：广州一家青年旅舍的同屋请作者代租共享充电宝，答应归还，却自己先退了房，费用记在作者账上。作者发消息追问，对方先不回复，后来又提出要先收到二十元才肯去还。 原文：“你给我转 20我马上就去还。我心想这是人能说出来的话吗。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-16.html",
-    "content": "编辑推荐：广州一家青年旅舍的同屋请作者代租共享充电宝，答应归还，却自己先退了房，费用记在作者账上。作者发消息追问，对方先不回复，后来又提出要先收到二十元才肯去还。 原文：“你给我转 20我马上就去还。我心想这是人能说出来的话吗。” 来自十年之约“今天读什么”：https://www.foreverblog.cn/daily/2026-11-16.html"
-  },
-  {
     "id": "技术-安全客-https://www.anquanke.com/post/id/316476",
     "feed_name": "安全客",
     "category": "技术",
@@ -1325,16 +1410,6 @@ const jsonData = [
     "content": ""
   },
   {
-    "id": "技术-安全客-https://www.anquanke.com/post/id/316438",
-    "feed_name": "安全客",
-    "category": "技术",
-    "title": "科技云报到：即梦首个短剧模型上线，解锁AI短剧“省钱邪修”的正确方式",
-    "pub_date": "2026-11-06 14:48:32",
-    "author": " 科技云报到",
-    "description": "",
-    "content": ""
-  },
-  {
     "id": "技术-阮一峰的网络日志-http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html",
     "feed_name": "阮一峰的网络日志",
     "category": "技术",
@@ -1355,26 +1430,6 @@ const jsonData = [
     "author": "",
     "description": "作者：Zihao Feng, Qingzhao Zhang, Chunyu Xia, Bo Yu, Z. Morley Mao, Ramesh Govindan 原文链接：https://arxiv.org/html/2611.04166v1 摘要 推理型视觉—语言—动作（VLA）模型将物理控制与自然语言理由（rationale）配对，监督者可以阅读这些理由来监控具身安全。此前针对 VLA 推理的...",
     "content": "作者：Zihao Feng, Qingzhao Zhang, Chunyu Xia, Bo Yu, Z. Morley Mao, Ramesh Govindan 原文链接：https://arxiv.org/html/2611.04166v1 摘要 推理型视觉—语言—动作（VLA）模型将物理控制与自然语言理由（rationale）配对，监督者可以阅读这些理由来监控具身安全。此前针对 VLA 推理的..."
-  },
-  {
-    "id": "技术-安全客-https://www.anquanke.com/post/id/316435",
-    "feed_name": "安全客",
-    "category": "技术",
-    "title": "有人把欧洲超市的冷柜调到了50℃，这是第二个月了",
-    "pub_date": "2026-11-05 11:44:53",
-    "author": " 安全客",
-    "description": "",
-    "content": ""
-  },
-  {
-    "id": "技术-安全客-https://www.anquanke.com/post/id/316432",
-    "feed_name": "安全客",
-    "category": "技术",
-    "title": "币安丢了63亿美元，问题出在一台工程师的笔记本上",
-    "pub_date": "2026-11-05 11:36:50",
-    "author": " 安全客",
-    "description": "",
-    "content": ""
   },
   {
     "id": "技术-Seebug Paper-https://paper.seebug.org/3531",
@@ -1463,61 +1518,6 @@ const jsonData = [
     "author": "",
     "description": "作者：Ivan Donà, Hans H. Brunner, Álvaro Troyano Olivas, Chi-Hang Fred Fung, Momtchil Peev, Giovanni Iacca 原文链接：https://arxiv.org/pdf/2610.06420v1 摘要 联邦学习（Federated Learning, FL）能够在不集中敏感数据的前提下，实现跨机构的模型协同...",
     "content": "作者：Ivan Donà, Hans H. Brunner, Álvaro Troyano Olivas, Chi-Hang Fred Fung, Momtchil Peev, Giovanni Iacca 原文链接：https://arxiv.org/pdf/2610.06420v1 摘要 联邦学习（Federated Learning, FL）能够在不集中敏感数据的前提下，实现跨机构的模型协同..."
-  },
-  {
-    "id": "技术-Seebug Paper-https://paper.seebug.org/3524",
-    "feed_name": "Seebug Paper",
-    "category": "技术",
-    "title": "TWINGUARD-LITE：面向生成式患者数字孪生的基于规则的状态准入网关",
-    "link": "https://paper.seebug.org/3524",
-    "pub_date": "2026-10-08 16:23:17",
-    "author": "",
-    "description": "作者：Wenhui Chu 与 Sheikh Rabiul Islam 原文链接：https://arxiv.org/pdf/2610.09012v1 摘要 未来的生成式患者数字孪生可能将纵向健康档案与语言模型智能体相结合，并跨会话保存信息。一项拟议更新的措辞并不能揭示它是否来自被允许的来源、是否与患者的记录相冲突，或者是否属于他人。我们提出 TWINGUARD-LITE，一个基于规则的网关，只有...",
-    "content": "作者：Wenhui Chu 与 Sheikh Rabiul Islam 原文链接：https://arxiv.org/pdf/2610.09012v1 摘要 未来的生成式患者数字孪生可能将纵向健康档案与语言模型智能体相结合，并跨会话保存信息。一项拟议更新的措辞并不能揭示它是否来自被允许的来源、是否与患者的记录相冲突，或者是否属于他人。我们提出 TWINGUARD-LITE，一个基于规则的网关，只有..."
-  },
-  {
-    "id": "技术-HelloGitHub 月刊-https://hellogithub.com/periodical/volume/126",
-    "feed_name": "HelloGitHub 月刊",
-    "category": "技术",
-    "title": "HelloGitHub 第 126 期",
-    "link": "https://hellogithub.com/periodical/volume/126",
-    "pub_date": "2026-09-28 08:05:08",
-    "author": "",
-    "description": "本期共有 39 个项目，包含 C 项目 (1)，C# 项目 (3)，C++ 项目 (1)，Go 项目 (4)，JavaScript 项目 (5)，Python 项目 (5)，Rust 项目 (3)，Skills (4)，Swift 项目 (4)，人工智能 (5)，其它 (4)",
-    "content": "本期共有 39 个项目，包含 C 项目 (1)，C# 项目 (3)，C++ 项目 (1)，Go 项目 (4)，JavaScript 项目 (5)，Python 项目 (5)，Rust 项目 (3)，Skills (4)，Swift 项目 (4)，人工智能 (5)，其它 (4)"
-  },
-  {
-    "id": "技术-Seebug Paper-https://paper.seebug.org/3523",
-    "feed_name": "Seebug Paper",
-    "category": "技术",
-    "title": "多源 LLM 智能体输入中分段级投毒的检测与定位",
-    "link": "https://paper.seebug.org/3523",
-    "pub_date": "2026-09-24 17:52:50",
-    "author": "",
-    "description": "作者：Xue Tan, Changhui Wang, Sanrui Yang, Hao Luan, Zhuyang Yu, Jin Wei, Ping Chen, Xiaoyan Sun†, Jun Dai 原文链接：https://arxiv.org/html/2609.14723v1 摘要 现代大语言模型（LLM）智能体越来越多地通过聚合外部数据分段来构造提示词（prompt），这些分段包括检...",
-    "content": "作者：Xue Tan, Changhui Wang, Sanrui Yang, Hao Luan, Zhuyang Yu, Jin Wei, Ping Chen, Xiaoyan Sun†, Jun Dai 原文链接：https://arxiv.org/html/2609.14723v1 摘要 现代大语言模型（LLM）智能体越来越多地通过聚合外部数据分段来构造提示词（prompt），这些分段包括检..."
-  },
-  {
-    "id": "技术-Seebug Paper-https://paper.seebug.org/3522",
-    "feed_name": "Seebug Paper",
-    "category": "技术",
-    "title": "面向安全漏洞的自动化程序修复智能体的对抗性测试",
-    "link": "https://paper.seebug.org/3522",
-    "pub_date": "2026-09-21 16:30:51",
-    "author": "",
-    "description": "作者：Fares Trad, Simin Chen, Hung Viet Pham, Gias Uddin, Baishakhi Ray 原文链接：https://arxiv.org/pdf/2609.15963v1 摘要 基于大语言模型（LLM）的软件智能体被设计用于自动化程序修复（Automated Program Repair, APR）任务，这使得在不久的将来，APR 智能体有望在无需太多...",
-    "content": "作者：Fares Trad, Simin Chen, Hung Viet Pham, Gias Uddin, Baishakhi Ray 原文链接：https://arxiv.org/pdf/2609.15963v1 摘要 基于大语言模型（LLM）的软件智能体被设计用于自动化程序修复（Automated Program Repair, APR）任务，这使得在不久的将来，APR 智能体有望在无需太多..."
-  },
-  {
-    "id": "技术-HelloGitHub 月刊-https://hellogithub.com/periodical/volume/125",
-    "feed_name": "HelloGitHub 月刊",
-    "category": "技术",
-    "title": "HelloGitHub 第 125 期",
-    "link": "https://hellogithub.com/periodical/volume/125",
-    "pub_date": "2026-08-28 08:14:02",
-    "author": "",
-    "description": "本期共有 40 个项目，包含 C 项目 (1)，C# 项目 (3)，C++ 项目 (2)，Go 项目 (4)，Java 项目 (2)，JavaScript 项目 (4)，Kotlin 项目 (1)，Python 项目 (4)，Rust 项目 (3)，Skills (4)，Swift 项目 (2)，人工智能 (5)，其它 (5)",
-    "content": "本期共有 40 个项目，包含 C 项目 (1)，C# 项目 (3)，C++ 项目 (2)，Go 项目 (4)，Java 项目 (2)，JavaScript 项目 (4)，Kotlin 项目 (1)，Python 项目 (4)，Rust 项目 (3)，Skills (4)，Swift 项目 (2)，人工智能 (5)，其它 (5)"
   }
 ];
 
