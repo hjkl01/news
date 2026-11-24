@@ -3,12 +3,254 @@ const jsonData = [
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
-    "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
+    "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
     "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-24 13:33:07",
+    "pub_date": "2026-11-25 00:37:04",
     "author": "",
-    "description": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
-    "content": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\"."
+    "description": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+    "content": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+    "link": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-25 00:31:26",
+    "author": "",
+    "description": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
+    "content": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+    "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-24 23:35:53",
+    "author": "",
+    "description": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
+    "content": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Land mine casualties soar in Syria, two years after war",
+    "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-24 23:17:28",
+    "author": "",
+    "description": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
+    "content": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Who really owns the land in Albania that Jared Kushner wants to develop?",
+    "link": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
+    "pub_date": "2026-11-24 22:24:04",
+    "author": "",
+    "description": "Albania's Prime Minister Edi Rama has vowed that Kushner's resort project will go ahead as planned. But an ongoing investigation by Albania's state prosecutor into forged land titles could halt the project.",
+    "content": "Albania's Prime Minister Edi Rama has vowed that Kushner's resort project will go ahead as planned. But an ongoing investigation by Albania's state prosecutor into forged land titles could halt the project."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Russian governor detained in rare criminal case against regional leader",
+    "link": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-24 20:45:43",
+    "author": "",
+    "description": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
+    "content": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
+    "link": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
+    "pub_date": "2026-11-24 20:12:25",
+    "author": "",
+    "description": "President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia. And, Rep. Jimmy Gomez, D-Calif., says his resignation will be effective Dec. 1.",
+    "content": "President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia. And, Rep. Jimmy Gomez, D-Calif., says his resignation will be effective Dec. 1."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Car bomb tears through Colombian city wounding more than 20",
+    "link": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-24 19:45:52",
+    "author": "",
+    "description": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
+    "content": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/sections/planet-money/2026/11/24/g-s1-154477/what-should-it-cost-to-insure-a-home-in-wildfire-country",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "What should it cost to insure a home in wildfire country?",
+    "link": "https://www.npr.org/sections/planet-money/2026/11/24/g-s1-154477/what-should-it-cost-to-insure-a-home-in-wildfire-country",
+    "pub_date": "2026-11-24 19:30:00",
+    "author": "",
+    "description": "Some California homeowners have spent thousands making their homes safer from wildfires. Yet all that work has barely made a dent in their insurance bills. Should they be getting a bigger break?",
+    "content": "Some California homeowners have spent thousands making their homes safer from wildfires. Yet all that work has barely made a dent in their insurance bills. Should they be getting a bigger break?"
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Pope Francis' diary reveals claims he saw the devil three times",
+    "link": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-24 19:10:57",
+    "author": "",
+    "description": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass.",
+    "content": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+    "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-24 18:58:51",
+    "author": "",
+    "description": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+    "content": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+    "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-24 18:53:37",
+    "author": "",
+    "description": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+    "content": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/24/nx-s1-6001723/vitamin-k-deficiency-refusal-vaccine-misinformation-newborn-bleeding",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Doctors struggle to save babies after parents refuse vitamin K",
+    "link": "https://www.npr.org/2026/11/24/nx-s1-6001723/vitamin-k-deficiency-refusal-vaccine-misinformation-newborn-bleeding",
+    "pub_date": "2026-11-24 18:00:00",
+    "author": "",
+    "description": "Doctors are fighting an uphill battle against disinformation about routine vitamin K shots given to newborns in the hospital. It helps prevent a rare but devastating bleeding disorder.",
+    "content": "Doctors are fighting an uphill battle against disinformation about routine vitamin K shots given to newborns in the hospital. It helps prevent a rare but devastating bleeding disorder."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/24/nx-s1-6051604/trump-crypto-corruption-meme-coin-dinner",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "They attended Trump's meme coin dinner. It didn't go well",
+    "link": "https://www.npr.org/2026/11/24/nx-s1-6051604/trump-crypto-corruption-meme-coin-dinner",
+    "pub_date": "2026-11-24 18:00:00",
+    "author": "",
+    "description": "Trump's meme coin dinners have sparked intense controversy. These two guests attended his latest on Sunday — and agreed to provide NPR inside access.",
+    "content": "Trump's meme coin dinners have sparked intense controversy. These two guests attended his latest on Sunday — and agreed to provide NPR inside access."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/24/nx-s1-5928337/threatt-filling-station-oklahoma-route-66",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Black travelers on Route 66 weren't welcome at most gas stations — except this one",
+    "link": "https://www.npr.org/2026/11/24/nx-s1-5928337/threatt-filling-station-oklahoma-route-66",
+    "pub_date": "2026-11-24 18:00:00",
+    "author": "",
+    "description": "Threatt Filling Station in Luther, Okla., was the first Black-owned gas station on Route 66. At a time when Black families needed the Green Book to find places to stay, eat, use the bathroom, it provided fuel and respite…",
+    "content": "Threatt Filling Station in Luther, Okla., was the first Black-owned gas station on Route 66. At a time when Black families needed the Green Book to find places to stay, eat, use the bathroom, it provided fuel and respite."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/24/nx-s1-6051583/nvidia-huang-dei-trump-women",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "For workplace culture champions, Jensen Huang's return is 'unfathomable'",
+    "link": "https://www.npr.org/2026/11/24/nx-s1-6051583/nvidia-huang-dei-trump-women",
+    "pub_date": "2026-11-24 18:00:00",
+    "author": "",
+    "description": "Some who have worked to promote diversity and inclusion in Silicon Valley say Jensen Huang's reinstatement as Nvidia's CEO sends a message that all that matters is money.",
+    "content": "Some who have worked to promote diversity and inclusion in Silicon Valley say Jensen Huang's reinstatement as Nvidia's CEO sends a message that all that matters is money."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Bleeding, birth defects: Congo residents sue over alleged mining pollution",
+    "link": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals",
+    "pub_date": "2026-11-24 18:00:00",
+    "author": "",
+    "description": "A landmark lawsuit in Congo sees 27 residents accuse a Chinese-owned copper and cobalt mine of poisoning their community and the government of failing to protect them.",
+    "content": "A landmark lawsuit in Congo sees 27 residents accuse a Chinese-owned copper and cobalt mine of poisoning their community and the government of failing to protect them."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/24/nx-s1-6038806/colombia-water-plants-frailejons",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Meet Colombia's fuzzy 'water guardians'",
+    "link": "https://www.npr.org/2026/11/24/nx-s1-6038806/colombia-water-plants-frailejons",
+    "pub_date": "2026-11-24 18:00:00",
+    "author": "",
+    "description": "High in the Colombian Andes, a growing number of volunteers are racing to save an unusual plant that helps supply water to millions — one tiny seedling at a time.",
+    "content": "High in the Colombian Andes, a growing number of volunteers are racing to save an unusual plant that helps supply water to millions — one tiny seedling at a time."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/24/nx-s1-6051028/jamie-raskin-donald-trump-jr-1789-capital-democrats-investigation",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Democrats probe whether Trump Jr.-aligned businesses benefit from government access",
+    "link": "https://www.npr.org/2026/11/24/nx-s1-6051028/jamie-raskin-donald-trump-jr-1789-capital-democrats-investigation",
+    "pub_date": "2026-11-24 18:00:00",
+    "author": "",
+    "description": "Investigators say companies with ties to Donald Trump Jr's investment firm, 1789 Capital, have profited since his father's reelection.",
+    "content": "Investigators say companies with ties to Donald Trump Jr's investment firm, 1789 Capital, have profited since his father's reelection."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Watch: Moment troops raid home and capture Mexican drug lord",
+    "link": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-24 17:09:41",
+    "author": "",
+    "description": "Newly-released bodycam footage shows the moment troops detained 'El Chapo Isidro', who had managed to evade capture for years.",
+    "content": "Newly-released bodycam footage shows the moment troops detained 'El Chapo Isidro', who had managed to evade capture for years."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "What Jensen Huang's return teaches China's Xi about Trump",
+    "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-24 15:26:27",
+    "author": "",
+    "description": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
+    "content": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
+    "link": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-24 14:23:01",
+    "author": "",
+    "description": "Hasina has spoken several times of her desire to return, but this is the first time she has set a date.",
+    "content": "Hasina has spoken several times of her desire to return, but this is the first time she has set a date."
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261124/trump-nvidia-national-security/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "特朗普出手干预黄仁勋事件，无视国家安全担忧",
+    "link": "https://cn.nytimes.com/usa/20261124/trump-nvidia-national-security/dual",
+    "pub_date": "2026-11-24 14:06:04",
+    "author": "",
+    "description": "PETER BAKER2026年11月24日 By his own account, President Trump was watching the stock market slide and decided to stop it. He would take it upon himself to determine who should lead one of the nation’s largest companies. Nev…",
+    "content": "PETER BAKER 2026年11月24日 By his own account, President Trump was watching the stock market slide and decided to stop it. He would take it upon himself to determine who should lead one of the nation’s largest companies. Never mind national security concerns, nev…"
   },
   {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/opinion/20261124/jensen-huang-trump-reinstated/dual",
@@ -20,17 +262,6 @@ const jsonData = [
     "author": "",
     "description": "MICHELLE GOLDBERG2026年11月24日 Jensen Huang, the Nvidia chief executive ousted amid a spying scandal and then shockingly reinstated on Monday, has given new meaning to the phrase too big to fail. 英伟达首席执行官黄仁勋在间谍丑闻中下台、又在周一令人…",
     "content": "MICHELLE GOLDBERG 2026年11月24日 Jensen Huang, the Nvidia chief executive ousted amid a spying scandal and then shockingly reinstated on Monday, has given new meaning to the phrase too big to fail. 英伟达首席执行官黄仁勋在间谍丑闻中下台、又在周一令人震惊地复职，他为“大而不能倒”这一说法赋予了新的含义。 In recent d…"
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-    "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-24 12:36:31",
-    "author": "",
-    "description": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-    "content": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value."
   },
   {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261124/trump-administration-megaspeed-trade-blacklist-nvidia/dual",
@@ -77,17 +308,6 @@ const jsonData = [
     "content": "MAGGIE HABERMAN, JONATHAN SWAN, JULIAN E. BARNES 2026年11月24日 周五，特朗普总统在白宫。 Haiyun Jiang/The New York Times Jensen Huang was reappointed as chief executive of Nvidia after President Trump set in motion several days of maneuvering to provide the company’s board w…"
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-    "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-24 10:15:59",
-    "author": "",
-    "description": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
-    "content": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks."
-  },
-  {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261124/nvidia-jensen-huang/dual",
     "feed_name": "纽约时报双语版",
     "category": "国外",
@@ -102,7 +322,7 @@ const jsonData = [
     "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
-    "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
+    "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
     "link": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
     "pub_date": "2026-11-24 09:21:41",
     "author": "",
@@ -132,17 +352,6 @@ const jsonData = [
     "content": "South African communities tell the BBC of measures they're taking to keep women safe after a wave of horrific killings."
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-    "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-24 07:16:08",
-    "author": "",
-    "description": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
-    "content": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public."
-  },
-  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/crd910g5x882o?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -154,39 +363,6 @@ const jsonData = [
     "content": "ICE officers arrested two passengers, a father and daughter, as they were boarding a flight in Seattle on Saturday."
   },
   {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
-    "link": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations",
-    "pub_date": "2026-11-24 06:29:53",
-    "author": "",
-    "description": "California Congressman Rep. Jimmy Gomez says he will resign after a House Ethics report concluded Gomez's actions violated House rules by \"making unwelcome sexual advances.\"",
-    "content": "California Congressman Rep. Jimmy Gomez says he will resign after a House Ethics report concluded Gomez's actions violated House rules by \"making unwelcome sexual advances.\""
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/23/nx-s1-6045883/they-attended-trumps-controversial-meme-coin-dinner-it-didnt-go-well",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "They attended Trump's controversial meme coin dinner. It didn't go well",
-    "link": "https://www.npr.org/2026/11/23/nx-s1-6045883/they-attended-trumps-controversial-meme-coin-dinner-it-didnt-go-well",
-    "pub_date": "2026-11-24 06:17:59",
-    "author": "",
-    "description": "Trump held another meme coin dinner for top holders of his cryptocurrency — an event that has raised intense controversy. Here's an inside account from two guests who attended.",
-    "content": "Trump held another meme coin dinner for top holders of his cryptocurrency — an event that has raised intense controversy. Here's an inside account from two guests who attended."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/23/nx-s1-6045799/how-some-women-in-tech-are-responding-to-jensen-huangs-return-to-nvidia",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Some women in tech have concerns about Huang's return",
-    "link": "https://www.npr.org/2026/11/23/nx-s1-6045799/how-some-women-in-tech-are-responding-to-jensen-huangs-return-to-nvidia",
-    "pub_date": "2026-11-24 06:03:57",
-    "author": "",
-    "description": "Women who have advocated for DEI in tech say Jensen Huang's return to NVIDIA as CEO sends a message that in Silicon Valley, all that matters is money. s",
-    "content": "Women who have advocated for DEI in tech say Jensen Huang's return to NVIDIA as CEO sends a message that in Silicon Valley, all that matters is money. s"
-  },
-  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -196,28 +372,6 @@ const jsonData = [
     "author": "",
     "description": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
     "content": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\"."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
-    "link": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-24 05:03:34",
-    "author": "",
-    "description": "The UK is joined by several other nations in recognising an ICJ ruling that Myanmar carried out genocide.",
-    "content": "The UK is joined by several other nations in recognising an ICJ ruling that Myanmar carried out genocide."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/23/g-s1-155085/holidays-relationships-politics-dispute",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Mending relationships over the holidays? Considering a truce? NPR wants to know",
-    "link": "https://www.npr.org/2026/11/23/g-s1-155085/holidays-relationships-politics-dispute",
-    "pub_date": "2026-11-24 04:53:12",
-    "author": "",
-    "description": "Has a political or social issue broken down a relationship that was important to you? Can it be repaired? Tell us what's going on. You might be asked to participate in a possible upcoming segment on All Things Considered…",
-    "content": "Has a political or social issue broken down a relationship that was important to you? Can it be repaired? Tell us what's going on. You might be asked to participate in a possible upcoming segment on All Things Considered."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
@@ -253,17 +407,6 @@ const jsonData = [
     "content": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom."
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "What failure of COP31 reveals about a divided world",
-    "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-24 01:24:25",
-    "author": "",
-    "description": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
-    "content": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks."
-  },
-  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -273,28 +416,6 @@ const jsonData = [
     "author": "",
     "description": "The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks.",
     "content": "The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-    "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-24 01:07:25",
-    "author": "",
-    "description": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
-    "content": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/23/nx-s1-6047706/health-medicare-for-all-chances",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "'Medicare for all' is back on the drawing board. Does it stand a better chance this time?",
-    "link": "https://www.npr.org/2026/11/23/nx-s1-6047706/health-medicare-for-all-chances",
-    "pub_date": "2026-11-24 00:00:49",
-    "author": "",
-    "description": "Several newly elected Democratic U.S. senators campaigned on Medicare for All. Could this be the time it actually gets traction?",
-    "content": "Several newly elected Democratic U.S. senators campaigned on Medicare for All. Could this be the time it actually gets traction?"
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
@@ -308,17 +429,6 @@ const jsonData = [
     "content": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return."
   },
   {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Trump claims credit as Jensen Huang returns to Nvidia",
-    "link": "https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump",
-    "pub_date": "2026-11-23 22:53:41",
-    "author": "",
-    "description": "President Trump endorsed the announcement, calling it essential for the success of the company and the economy. He added that the government does not see Huang's return as a national security risk.",
-    "content": "President Trump endorsed the announcement, calling it essential for the success of the company and the economy. He added that the government does not see Huang's return as a national security risk."
-  },
-  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -330,17 +440,6 @@ const jsonData = [
     "content": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic."
   },
   {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
-    "link": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
-    "pub_date": "2026-11-23 20:42:03",
-    "author": "",
-    "description": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.",
-    "content": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history."
-  },
-  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -350,39 +449,6 @@ const jsonData = [
     "author": "",
     "description": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.",
     "content": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
-    "link": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
-    "pub_date": "2026-11-23 18:16:33",
-    "author": "",
-    "description": "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said, claiming that sea drones sank the navy vessel in a surprise assault.",
-    "content": "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said, claiming that sea drones sank the navy vessel in a surprise assault."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/23/nx-s1-6047791/mushroom-supplements-health-research",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Mushroom supplements promise health benefits. What does the science say?",
-    "link": "https://www.npr.org/2026/11/23/nx-s1-6047791/mushroom-supplements-health-research",
-    "pub_date": "2026-11-23 18:00:00",
-    "author": "",
-    "description": "Wellness influencers say mushroom supplements can help with your gut health, focus and immune system. Here is where research suggests there are some links.",
-    "content": "Wellness influencers say mushroom supplements can help with your gut health, focus and immune system. Here is where research suggests there are some links."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/23/nx-s1-6035702/kindness-kids-sesame-street-parents-survey",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "K is for kindness, but families worry the world has less of it",
-    "link": "https://www.npr.org/2026/11/23/nx-s1-6035702/kindness-kids-sesame-street-parents-survey",
-    "pub_date": "2026-11-23 18:00:00",
-    "author": "",
-    "description": "A decade after first asking families about kindness, Sesame Workshop asked parents similar questions. They responded that their kids are getting kinder even as the wider world becomes less so.",
-    "content": "A decade after first asking families about kindness, Sesame Workshop asked parents similar questions. They responded that their kids are getting kinder even as the wider world becomes less so."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
@@ -427,17 +493,6 @@ const jsonData = [
     "author": "",
     "description": "袁莉2026年11月23日 Dongyan Xu A new joke has been making the rounds on the Chinese internet. 中国网络上最近流传着一个新笑话。 Economists have long said that China’s growth has three engines: investment, consumption and exports. The new engin…",
     "content": "袁莉 2026年11月23日 Dongyan Xu A new joke has been making the rounds on the Chinese internet. 中国网络上最近流传着一个新笑话。 Economists have long said that China’s growth has three engines: investment, consumption and exports. The new engines, the joke goes, are raiding official…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20261123/china-nvidia-spy-chips-state-security/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "英伟达丑闻爆发数年前，中国情报机构已将目光瞄准AI芯片",
-    "link": "https://cn.nytimes.com/china/20261123/china-nvidia-spy-chips-state-security/dual",
-    "pub_date": "2026-11-23 10:36:03",
-    "author": "",
-    "description": "储百亮, JULIAN E. BARNES2026年11月23日中国情报机构获取芯片的行动至少已持续两年，相关细节此前未曾见诸报道。 Florence Lo/Reuters When China’s top espionage agency updated its priorities this year, it added a revealing goal: overcoming Western barriers to technol…",
-    "content": "储百亮, JULIAN E. BARNES 2026年11月23日 中国情报机构获取芯片的行动至少已持续两年，相关细节此前未曾见诸报道。 Florence Lo/Reuters When China’s top espionage agency updated its priorities this year, it added a revealing goal: overcoming Western barriers to technologies that Xi Jinping sees as crucial …"
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
