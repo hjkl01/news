@@ -1,25 +1,311 @@
 const jsonData = [
   {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "US announces new tariffs on host of countries including China",
+    "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-26 12:10:58",
+    "author": "",
+    "description": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+    "content": "The new levies would hit many of America's biggest trading partners, including China and the EU."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Macy's postpones Thanksgiving parade due to severe weather",
+    "link": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-26 12:04:14",
+    "author": "",
+    "description": "The was the first time ever that the iconic celebration was delayed because of storms. New York expects damaging winds and heavy rainfall over the Thanksgiving holiday.",
+    "content": "The was the first time ever that the iconic celebration was delayed because of storms. New York expects damaging winds and heavy rainfall over the Thanksgiving holiday."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "FedEx plane overshoots Miami runway, with flights briefly suspended at airport",
+    "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-26 11:27:33",
+    "author": "",
+    "description": "The brief ground stop comes on the day before the US Thanksgiving holiday, one of the busiest travel days of the year.",
+    "content": "The brief ground stop comes on the day before the US Thanksgiving holiday, one of the busiest travel days of the year."
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261126/trump-tariffs-trade/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "美国宣布对中国、欧盟等加征新关税",
+    "link": "https://cn.nytimes.com/business/20261126/trump-tariffs-trade/dual",
+    "pub_date": "2026-11-26 11:06:04",
+    "author": "",
+    "description": "TONY ROMM, ANA SWANSON2026年11月26日特朗普总统将第二次依据《1974年贸易法》第301条大规模征收关税。 The New York Times The Trump administration proposed a slate of new tariffs on Wednesday targeting imports from dozens of countries, including China, Ja…",
+    "content": "TONY ROMM, ANA SWANSON 2026年11月26日 特朗普总统将第二次依据《1974年贸易法》第301条大规模征收关税。 The New York Times The Trump administration proposed a slate of new tariffs on Wednesday targeting imports from dozens of countries, including China, Japan and the members of the European Un…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261126/intelligence-nvidia-affair-congressional-briefing/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "美国官员向国会工作人员通报英伟达事件相关情报",
+    "link": "https://cn.nytimes.com/usa/20261126/intelligence-nvidia-affair-congressional-briefing/dual",
+    "pub_date": "2026-11-26 10:36:03",
+    "author": "",
+    "description": "JULIAN E. BARNES, MAGGIE HABERMAN, JONATHAN SWAN2026年11月26日2024年，英伟达的黄仁勋与黄乐在台北的一次聚会上。 via Reuters A day after President Trump publicly proclaimed that Jensen Huang was not a national security threat or facing criminal pr…",
+    "content": "JULIAN E. BARNES, MAGGIE HABERMAN, JONATHAN SWAN 2026年11月26日 2024年，英伟达的黄仁勋与黄乐在台北的一次聚会上。 via Reuters A day after President Trump publicly proclaimed that Jensen Huang was not a national security threat or facing criminal prosecution, U.S. officials provided a t…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20261126/taiwan-elections-misinformation/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "研究称立场亲北京的AI虚假账号试图影响台湾选情",
+    "link": "https://cn.nytimes.com/asia-pacific/20261126/taiwan-elections-misinformation/dual",
+    "pub_date": "2026-11-26 10:36:03",
+    "author": "",
+    "description": "JULIAN E. BARNES2026年11月26日2024年台湾总统选举期间，台北的投票点。台湾将于11月28日举行地方选举。 Lam Yik Fei for The New York Times Researchers have discovered a coordinated social media campaign powered by artificial intelligence that appears to be t…",
+    "content": "JULIAN E. BARNES 2026年11月26日 2024年台湾总统选举期间，台北的投票点。台湾将于11月28日举行地方选举。 Lam Yik Fei for The New York Times Researchers have discovered a coordinated social media campaign powered by artificial intelligence that appears to be trying to influence elections in Taiwan…"
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ck62y23z58yeo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "As foreign troops withdraw from Somalia, could al-Shabab take over?",
+    "link": "https://www.bbc.co.uk/news/articles/ck62y23z58yeo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-26 10:06:10",
+    "author": "",
+    "description": "Somalia relies heavily on foreign funding and military support for its very survival.",
+    "content": "Somalia relies heavily on foreign funding and military support for its very survival."
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261126/china-ai-investment-spending/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "中国人工智能雄心面临一个严峻问题：去哪里找钱",
+    "link": "https://cn.nytimes.com/business/20261126/china-ai-investment-spending/dual",
+    "pub_date": "2026-11-26 09:36:04",
+    "author": "",
+    "description": "黄瑞黎, LI YOU2026年11月26日中国深圳繁忙的电子市场。 Qilai Shen for The New York Times As the United States and China vie for artificial intelligence supremacy, Chinese tech companies are facing a mounting challenge: finding the money to …",
+    "content": "黄瑞黎, LI YOU 2026年11月26日 中国深圳繁忙的电子市场。 Qilai Shen for The New York Times As the United States and China vie for artificial intelligence supremacy, Chinese tech companies are facing a mounting challenge: finding the money to keep up. 随着美中两国争夺人工智能霸权，中国科技企业正面临一个日益严…"
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "California warns of flooding as King Tides peak over Thanksgiving",
+    "link": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-26 09:22:55",
+    "author": "",
+    "description": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday.",
+    "content": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cwe89jyz4012o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "The US pastor who wants to see women's right to vote overturned",
+    "link": "https://www.bbc.co.uk/news/articles/cwe89jyz4012o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-26 08:24:25",
+    "author": "",
+    "description": "The movement to repeal women's right to vote has gained traction amongst some very conservative Christians.",
+    "content": "The movement to repeal women's right to vote has gained traction amongst some very conservative Christians."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Spanish elections: What you need to know and what's at stake",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-26 08:23:49",
+    "author": "",
+    "description": "After eight years of Socialist-led rule, snap elections are taking place on Sunday with conservative Alberto Núñez Feijóo vying to win office.",
+    "content": "After eight years of Socialist-led rule, snap elections are taking place on Sunday with conservative Alberto Núñez Feijóo vying to win office."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "France's political mainstream risks presidential vote debacle with no clear candidate",
+    "link": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-26 08:23:27",
+    "author": "",
+    "description": "Hard-right and hard-left candidates dominate the polls ahead of next year's presidential election.",
+    "content": "Hard-right and hard-left candidates dominate the polls ahead of next year's presidential election."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+    "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-26 08:23:05",
+    "author": "",
+    "description": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+    "content": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Has global jihadism failed, or is it simply changing shape?",
+    "link": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-26 08:22:18",
+    "author": "",
+    "description": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?",
+    "content": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?"
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-26 07:26:50",
+    "author": "",
+    "description": "A year after one of Hong Kong's deadliest fires, families left behind are still waiting for justice.",
+    "content": "A year after one of Hong Kong's deadliest fires, families left behind are still waiting for justice."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmvg2989wv74o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg2989wv74o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-26 07:18:27",
+    "author": "",
+    "description": "The Hollywood A-listers' legal battle focused on the vineyard they bought in 2008 and where they wed six years later.",
+    "content": "The Hollywood A-listers' legal battle focused on the vineyard they bought in 2008 and where they wed six years later."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+    "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-26 06:18:06",
+    "author": "",
+    "description": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+    "content": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "North Korea expels Swiss diplomat in sanctions row",
+    "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-26 05:51:17",
+    "author": "",
+    "description": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
+    "content": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "US stocks fall further as fears over AI intensify",
+    "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-26 05:43:18",
+    "author": "",
+    "description": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+    "content": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
+    "link": "https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection",
+    "pub_date": "2026-11-26 05:02:58",
+    "author": "",
+    "description": "The bakers behind these pop-up pastry drops aren't raking in the profits, but they are building a space for people to come together in polarized times.",
+    "content": "The bakers behind these pop-up pastry drops aren't raking in the profits, but they are building a space for people to come together in polarized times."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Moment Nasa spacecraft hit asteroid - and what happened next",
+    "link": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-26 04:11:46",
+    "author": "",
+    "description": "The crash was \"like something out of a disaster movie\", the BBC's science editor Rebecca Morelle says.",
+    "content": "The crash was \"like something out of a disaster movie\", the BBC's science editor Rebecca Morelle says."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+    "link": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-26 03:47:39",
+    "author": "",
+    "description": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
+    "content": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "What we know about Trump's Thanksgiving tariffs",
+    "link": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-26 03:38:05",
+    "author": "",
+    "description": "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs.",
+    "content": "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs."
+  },
+  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
-    "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
+    "title": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
     "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-26 00:20:14",
+    "pub_date": "2026-11-26 02:41:33",
     "author": "",
-    "description": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
-    "content": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal."
+    "description": "One gunman was killed after what the country's president described as a robbery of a cash-laden armoured car gone wrong.",
+    "content": "One gunman was killed after what the country's president described as a robbery of a cash-laden armoured car gone wrong."
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
+    "id": "国外-NPR News-https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Group of Senate Democrats push to add freshman to leadership",
+    "link": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen",
+    "pub_date": "2026-11-26 01:30:47",
+    "author": "",
+    "description": "Several Democratic senators have been signaling this move, saying the party needs to acknowledge the diverse class of incoming freshman that catapulted the party to victory in November.",
+    "content": "Several Democratic senators have been signaling this move, saying the party needs to acknowledge the diverse class of incoming freshman that catapulted the party to victory in November."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
-    "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
-    "link": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-25 23:42:50",
+    "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+    "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-26 01:30:16",
     "author": "",
-    "description": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
-    "content": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm."
+    "description": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
+    "content": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago"
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+    "link": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-26 00:42:11",
+    "author": "",
+    "description": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
+    "content": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/sport/cricket/videos/cwx2e0g93l3eo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Greatest catch ever? Man on motorbike takes incredible grab",
+    "link": "https://www.bbc.co.uk/sport/cricket/videos/cwx2e0g93l3eo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-26 00:23:03",
+    "author": "",
+    "description": "A passenger on a motorbike pulled off a remarkable one-handed catch after the ball was hit out of the ground for six in the Swat Premier League in Pakistan.",
+    "content": "A passenger on a motorbike pulled off a remarkable one-handed catch after the ball was hit out of the ground for six in the Swat Premier League in Pakistan."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
@@ -44,6 +330,17 @@ const jsonData = [
     "content": "The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect the history and identity of this new nation."
   },
   {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
+    "link": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-25 22:06:13",
+    "author": "",
+    "description": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say.",
+    "content": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say."
+  },
+  {
     "id": "国外-NPR News-https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
     "feed_name": "NPR News",
     "category": "国外",
@@ -53,28 +350,6 @@ const jsonData = [
     "author": "",
     "description": "59% of U.S. shoppers plan to use AI for holiday shopping this weekend, according to the National Retail Federation",
     "content": "59% of U.S. shoppers plan to use AI for holiday shopping this weekend, according to the National Retail Federation"
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
-    "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-25 20:42:11",
-    "author": "",
-    "description": "His deportation to and return from El Salvador became a flashpoint in the debate the US president's immigration agenda.",
-    "content": "His deportation to and return from El Salvador became a flashpoint in the debate the US president's immigration agenda."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79",
-    "link": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-25 20:24:12",
-    "author": "",
-    "description": "Odochie rose to prominence in 1987 after starring in a television adaptation of Chinua Achebe's acclaimed novel Things Fall Apart.",
-    "content": "Odochie rose to prominence in 1987 after starring in a television adaptation of Chinua Achebe's acclaimed novel Things Fall Apart."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
@@ -99,6 +374,17 @@ const jsonData = [
     "content": "Authorities have evacuated a 5-mile radius to prepare to dispose of thousands of pounds of lead azide. And, after a nearly two-year legal battle, Kilmar Abrego Garcia's has voluntarily left the U.S."
   },
   {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
+    "link": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
+    "pub_date": "2026-11-25 19:50:05",
+    "author": "",
+    "description": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned.",
+    "content": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned."
+  },
+  {
     "id": "国外-NPR News-https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
     "feed_name": "NPR News",
     "category": "国外",
@@ -110,15 +396,15 @@ const jsonData = [
     "content": "Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating sun to freezing nights, fire and snow."
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cw62p8z9edjlo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
-    "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-    "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-25 18:52:09",
+    "title": "Protesters call on Israel to free Palestinian student held without charge",
+    "link": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-25 18:03:42",
     "author": "",
-    "description": "The verdict follows a months-long trial in New York.",
-    "content": "The verdict follows a months-long trial in New York."
+    "description": "Mahdi Tunsi, 26, was taken from his university dormitory earlier this month and has since been held without charge.",
+    "content": "Mahdi Tunsi, 26, was taken from his university dormitory earlier this month and has since been held without charge."
   },
   {
     "id": "国外-NPR News-https://www.npr.org/2026/11/25/nx-s1-6052361/buying-new-things-feels-wonderful-can-be-trap-break-the-cycle",
@@ -154,61 +440,6 @@ const jsonData = [
     "content": "Steep discounts for \"Green Wednesday,\" one of the highest-selling days for cannabis, help customers keep costs down. But experts say retailers are feeling the pinch."
   },
   {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
-    "link": "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party",
-    "pub_date": "2026-11-25 17:44:13",
-    "author": "",
-    "description": "The Politburo member is the latest senior official targeted in President Xi Jinping's long-running anti-corruption campaign, which has shown no signs of letting up in scope or depth.",
-    "content": "The Politburo member is the latest senior official targeted in President Xi Jinping's long-running anti-corruption campaign, which has shown no signs of letting up in scope or depth."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/25/nx-s1-6052338/army-detonation-lead-explosives-iowa",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Army detonates nearly five tons of lead-based explosives in Iowa",
-    "link": "https://www.npr.org/2026/11/25/nx-s1-6052338/army-detonation-lead-explosives-iowa",
-    "pub_date": "2026-11-25 17:41:05",
-    "author": "",
-    "description": "The controlled detonation of more than 60 barrels — roughly five tons — of unstable lead azide at the Iowa Army Ammunition Plant in Middletown, Iowa is complete.",
-    "content": "The controlled detonation of more than 60 barrels — roughly five tons — of unstable lead azide at the Iowa Army Ammunition Plant in Middletown, Iowa is complete."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/25/nx-s1-6053203/abrego-garcia-leaves-us",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Kilmar Abrego Garcia leaves U.S. voluntarily for Spain",
-    "link": "https://www.npr.org/2026/11/25/nx-s1-6053203/abrego-garcia-leaves-us",
-    "pub_date": "2026-11-25 17:19:50",
-    "author": "",
-    "description": "Abrego Garcia, a Salvadoran immigrant who became a symbol of Trump's mass deportation campaign, voluntarily left the country on Tuesday after nearly two years of legal battles.",
-    "content": "Abrego Garcia, a Salvadoran immigrant who became a symbol of Trump's mass deportation campaign, voluntarily left the country on Tuesday after nearly two years of legal battles."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6d917jn5gq7o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date",
-    "link": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-25 15:26:54",
-    "author": "",
-    "description": "The son of Zimbabwe's late former President Robert Mugabe has faced multiple legal troubles in the recent past.",
-    "content": "The son of Zimbabwe's late former President Robert Mugabe has faced multiple legal troubles in the recent past."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Two children among six dead after plane crash off Mississippi coast",
-    "link": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-25 15:08:22",
-    "author": "",
-    "description": "Divers found the bodies of four adults and two boys, aged 8 and 10, in the fuselage, the US Coast Guard said.",
-    "content": "Divers found the bodies of four adults and two boys, aged 8 and 10, in the fuselage, the US Coast Guard said."
-  },
-  {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/opinion/20261125/jensen-huang-nvidia-ceo-reinstated/dual",
     "feed_name": "纽约时报双语版",
     "category": "国外",
@@ -218,17 +449,6 @@ const jsonData = [
     "author": "",
     "description": "STEPHEN WITT2026年11月25日 Jonathan Ernst/Reuters When Jensen Huang returned to the floor of his Silicon Valley headquarters on Monday, his employees greeted him with a standing ovation. The rank and file of Nvidia love Mr.…",
     "content": "STEPHEN WITT 2026年11月25日 Jonathan Ernst/Reuters When Jensen Huang returned to the floor of his Silicon Valley headquarters on Monday, his employees greeted him with a standing ovation. The rank and file of Nvidia love Mr. Huang, who has made many of them wealt…"
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Close-up images to be revealed of asteroid deliberately hit to test ability to protect Earth",
-    "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-25 14:00:36",
-    "author": "",
-    "description": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
-    "content": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft."
   },
   {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261125/huawei-guilty-new-york/dual",
@@ -264,17 +484,6 @@ const jsonData = [
     "content": "DAVID PIERSON, 黄瑞黎, CECILIA KANG 2026年11月25日 周一，英伟达的官方X账号发布了黄仁勋重新出任公司首席执行官的照片。 Nvidia, via Agence France-Presse — Getty Images The reappointment of Jensen Huang as Nvidia’s chief executive appears to be good news for Beijing: The most influential advocate in t…"
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "US attorney general dodges questions about Nvidia investigation",
-    "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-25 11:44:07",
-    "author": "",
-    "description": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-    "content": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement."
-  },
-  {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20261125/nvidia-alice-huang-china/dual",
     "feed_name": "纽约时报双语版",
     "category": "国外",
@@ -295,83 +504,6 @@ const jsonData = [
     "author": "",
     "description": "China launched its Shenzhou-24 space mission to bring three astronauts to its Tiangong space station.",
     "content": "China launched its Shenzhou-24 space mission to bring three astronauts to its Tiangong space station."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
-    "link": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-25 11:15:12",
-    "author": "",
-    "description": "Solomon Islands leader Matthew Wale said his country would no longer be a point of regional uncertainty.",
-    "content": "Solomon Islands leader Matthew Wale said his country would no longer be a point of regional uncertainty."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmrrg749d02do?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Lies, a disguise and surfboard bags: How a jealous Sydney policeman tried to cover up double murder",
-    "link": "https://www.bbc.co.uk/news/articles/cmrrg749d02do?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-25 09:51:43",
-    "author": "",
-    "description": "Beau Lamarre was on Wednesday found guilty of murdering his ex Jesse Baird, and Baird's new partner Luke Davies.",
-    "content": "Beau Lamarre was on Wednesday found guilty of murdering his ex Jesse Baird, and Baird's new partner Luke Davies."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Thomas Markle charged in US for possessing child sex abuse images",
-    "link": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-25 09:40:42",
-    "author": "",
-    "description": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
-    "content": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Trump's rescue of Nvidia's Huang brings political risks",
-    "link": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-25 09:03:05",
-    "author": "",
-    "description": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
-    "content": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "The rising cost of putting food on the table in India",
-    "link": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-25 09:02:13",
-    "author": "",
-    "description": "India's food inflation is broadening, squeezing household budgets.",
-    "content": "India's food inflation is broadening, squeezing household budgets."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/crd6128y1qn1o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Shot in the face at 15: The lives shattered by Cameroon's decade of conflict",
-    "link": "https://www.bbc.co.uk/news/articles/crd6128y1qn1o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-25 09:00:36",
-    "author": "",
-    "description": "More than half a million people have fled their homes since separatist groups demanded independence for Cameroon's English-speaking regions.",
-    "content": "More than half a million people have fled their homes since separatist groups demanded independence for Cameroon's English-speaking regions."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Clashing political visions reflect a divided Spain ahead of election",
-    "link": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-25 08:58:34",
-    "author": "",
-    "description": "Sunday’s election could see a far-right party enter the Spanish government for first time.",
-    "content": "Sunday’s election could see a far-right party enter the Spanish government for first time."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
@@ -396,28 +528,6 @@ const jsonData = [
     "content": "储百亮 2026年11月25日 上海市委书记陈吉宁。他的科学教育背景被认为与中国最高领导人习近平的优先事项相契合。 Pool photo by Carl Court The Communist Party leader of Shanghai, Chen Jining, has been placed under investigation on suspicion of “serious violations,” the Chinese government announced on Tuesday. It wa…"
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Is China behind a wave of AI fake videos targeting Taiwan?",
-    "link": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-25 07:05:11",
-    "author": "",
-    "description": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
-    "content": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "These North Koreans say they were spied on, beaten and jailed for being Christian",
-    "link": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-25 07:03:59",
-    "author": "",
-    "description": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith.",
-    "content": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith."
-  },
-  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/cknv4mq93gd2o?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -429,17 +539,6 @@ const jsonData = [
     "content": "The woman said she had to jump into a stranger's car to escape a flock of turkeys that chased her down the sidewalk."
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-    "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-24 23:35:53",
-    "author": "",
-    "description": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
-    "content": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday."
-  },
-  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -449,83 +548,6 @@ const jsonData = [
     "author": "",
     "description": "Newly-released bodycam footage shows the moment troops detained 'El Chapo Isidro', who had managed to evade capture for years.",
     "content": "Newly-released bodycam footage shows the moment troops detained 'El Chapo Isidro', who had managed to evade capture for years."
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/usa/20261124/trump-nvidia-national-security/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "特朗普出手干预黄仁勋事件，无视国家安全担忧",
-    "link": "https://cn.nytimes.com/usa/20261124/trump-nvidia-national-security/dual",
-    "pub_date": "2026-11-24 14:06:04",
-    "author": "",
-    "description": "PETER BAKER2026年11月24日 By his own account, President Trump was watching the stock market slide and decided to stop it. He would take it upon himself to determine who should lead one of the nation’s largest companies. Nev…",
-    "content": "PETER BAKER 2026年11月24日 By his own account, President Trump was watching the stock market slide and decided to stop it. He would take it upon himself to determine who should lead one of the nation’s largest companies. Never mind national security concerns, nev…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/opinion/20261124/jensen-huang-trump-reinstated/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "对特朗普来说，科技股价比中国间谍风险更重要",
-    "link": "https://cn.nytimes.com/opinion/20261124/jensen-huang-trump-reinstated/dual",
-    "pub_date": "2026-11-24 13:06:04",
-    "author": "",
-    "description": "MICHELLE GOLDBERG2026年11月24日 Jensen Huang, the Nvidia chief executive ousted amid a spying scandal and then shockingly reinstated on Monday, has given new meaning to the phrase too big to fail. 英伟达首席执行官黄仁勋在间谍丑闻中下台、又在周一令人…",
-    "content": "MICHELLE GOLDBERG 2026年11月24日 Jensen Huang, the Nvidia chief executive ousted amid a spying scandal and then shockingly reinstated on Monday, has given new meaning to the phrase too big to fail. 英伟达首席执行官黄仁勋在间谍丑闻中下台、又在周一令人震惊地复职，他为“大而不能倒”这一说法赋予了新的含义。 In recent d…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261124/trump-administration-megaspeed-trade-blacklist-nvidia/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "美国将Megaspeed列入贸易黑名单",
-    "link": "https://cn.nytimes.com/business/20261124/trump-administration-megaspeed-trade-blacklist-nvidia/dual",
-    "pub_date": "2026-11-24 11:36:03",
-    "author": "",
-    "description": "ANA SWANSON2026年11月24日Megaspeed被列入实体清单后，未经政府许可，企业不得向该公司运送美国技术产品。 Taryn Ng/Agence France-Presse — Getty Images The Trump administration on Monday barred a Singaporean data center firm at the center of the Nvidia scandal f…",
-    "content": "ANA SWANSON 2026年11月24日 Megaspeed被列入实体清单后，未经政府许可，企业不得向该公司运送美国技术产品。 Taryn Ng/Agence France-Presse — Getty Images The Trump administration on Monday barred a Singaporean data center firm at the center of the Nvidia scandal from buying advanced A.I. chips, accord…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20261124/china-us-nuclear-ai/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "中国的另一种人工智能焦虑：担忧美国在核竞争中占得先机",
-    "link": "https://cn.nytimes.com/china/20261124/china-us-nuclear-ai/dual",
-    "pub_date": "2026-11-24 11:06:03",
-    "author": "",
-    "description": "储百亮2026年11月24日上周在深圳举行的峰会上，中国领导人习近平与美国总统特朗普和俄罗斯总统普京就降低核风险问题进行了讨论。人工智能在核武器中的作用并未被提及。 Doug Mills/The New York Times When Xi Jinping, the Chinese leader, set about expanding China’s nuclear forces a decade ago, his goal was …",
-    "content": "储百亮 2026年11月24日 上周在深圳举行的峰会上，中国领导人习近平与美国总统特朗普和俄罗斯总统普京就降低核风险问题进行了讨论。人工智能在核武器中的作用并未被提及。 Doug Mills/The New York Times When Xi Jinping, the Chinese leader, set about expanding China’s nuclear forces a decade ago, his goal was to ensure that enough missiles could s…"
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
-    "link": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-24 09:21:41",
-    "author": "",
-    "description": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
-    "content": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/c51k9vp48d2vo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "First Lady Melania Trump welcomes this year's White House Christmas tree",
-    "link": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-24 02:49:19",
-    "author": "",
-    "description": "The official 2026 White House Christmas tree is an 18-foot fir from Silent Night Evergreens, a farm in Endeavor, Wisconsin.",
-    "content": "The official 2026 White House Christmas tree is an 18-foot fir from Silent Night Evergreens, a farm in Endeavor, Wisconsin."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Ukraine shares video of strikes on Russian ships off Libya",
-    "link": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-23 19:34:10",
-    "author": "",
-    "description": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.",
-    "content": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit."
   },
   {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261022-%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E8%BF%87%E4%B8%A4%E4%BA%BF%E9%83%A8%E6%89%8B%E6%9C%BA%E6%96%B0%E5%8F%8D%E8%AF%88%E7%A8%8B%E5%BA%8F%E8%AF%86%E5%88%AB%E7%9B%98%E9%97%AE%E6%B5%8F%E8%A7%88%E5%A2%99%E5%A4%96%E8%B4%A2%E7%BB%8F%E7%BD%91%E7%AB%99%E4%BA%BA%E5%91%98",
