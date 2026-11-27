@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-11-27T04:43:23.785Z",
-  "ended_at": "2026-11-27T04:43:24.071Z",
-  "duration_ms": 286,
+  "started_at": "2026-11-27T15:54:03.523Z",
+  "ended_at": "2026-11-27T15:54:03.783Z",
+  "duration_ms": 260,
   "config": {
     "concurrency": 16,
     "cache_enabled": true,
@@ -21,35 +21,35 @@
     "failed_sources": 2,
     "circuit_open_sources": 2,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1659,
-    "total_items_after_retention": 1438,
+    "total_items_after_dedupe": 1674,
+    "total_items_after_retention": 1461,
     "build_blocked": false
   },
   "critical_failures": [],
   "failures": [
     {
-      "title": "极客公园",
-      "url": "https://www.geekpark.net/rss",
-      "reason": "The operation was aborted.",
-      "skippedByCircuit": true
-    },
-    {
       "title": "机器之心",
       "url": "https://www.jiqizhixin.com/rss",
       "reason": "Invalid character in entity name\nLine: 6\nColumn: 83\nChar: =",
+      "skippedByCircuit": true
+    },
+    {
+      "title": "Seebug Paper",
+      "url": "https://paper.seebug.org/rss/",
+      "reason": "HTTP 504",
       "skippedByCircuit": true
     }
   ],
   "circuit_open": [
     {
-      "title": "极客公园",
-      "url": "https://www.geekpark.net/rss",
-      "reason": "The operation was aborted."
-    },
-    {
       "title": "机器之心",
       "url": "https://www.jiqizhixin.com/rss",
       "reason": "Invalid character in entity name\nLine: 6\nColumn: 83\nChar: ="
+    },
+    {
+      "title": "Seebug Paper",
+      "url": "https://paper.seebug.org/rss/",
+      "reason": "HTTP 504"
     }
   ]
 }
