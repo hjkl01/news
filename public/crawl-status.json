@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-11-26T16:05:46.482Z",
-  "ended_at": "2026-11-26T16:05:46.713Z",
-  "duration_ms": 231,
+  "started_at": "2026-11-27T04:43:23.785Z",
+  "ended_at": "2026-11-27T04:43:24.071Z",
+  "duration_ms": 286,
   "config": {
     "concurrency": 16,
     "cache_enabled": true,
@@ -21,16 +21,16 @@
     "failed_sources": 2,
     "circuit_open_sources": 2,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1690,
-    "total_items_after_retention": 1489,
+    "total_items_after_dedupe": 1659,
+    "total_items_after_retention": 1438,
     "build_blocked": false
   },
   "critical_failures": [],
   "failures": [
     {
-      "title": "Epic Game",
-      "url": "https://www.epicbundle.com/feed/",
-      "reason": "Unexpected close tag\nLine: 92\nColumn: 7\nChar: >",
+      "title": "极客公园",
+      "url": "https://www.geekpark.net/rss",
+      "reason": "The operation was aborted.",
       "skippedByCircuit": true
     },
     {
@@ -42,9 +42,9 @@
   ],
   "circuit_open": [
     {
-      "title": "Epic Game",
-      "url": "https://www.epicbundle.com/feed/",
-      "reason": "Unexpected close tag\nLine: 92\nColumn: 7\nChar: >"
+      "title": "极客公园",
+      "url": "https://www.geekpark.net/rss",
+      "reason": "The operation was aborted."
     },
     {
       "title": "机器之心",

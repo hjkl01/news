@@ -1,14 +1,168 @@
 const jsonData = [
   {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+    "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-27 11:28:15",
+    "author": "",
+    "description": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+    "content": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern."
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261127/trump-tariffs-asia/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "特朗普新关税再将矛头指向北京，旨在削弱中国供应链优势",
+    "link": "https://cn.nytimes.com/business/20261127/trump-tariffs-asia/dual",
+    "pub_date": "2026-11-27 11:06:01",
+    "author": "",
+    "description": "艾莎2026年11月27日本月早些时候，特朗普总统与习近平在中国深圳。 Doug Mills/The New York Times Fresh tariffs proposed by President Trump this week were a reminder to the world that he still intends to settle scores with trading partners he believes …",
+    "content": "艾莎 2026年11月27日 本月早些时候，特朗普总统与习近平在中国深圳。 Doug Mills/The New York Times Fresh tariffs proposed by President Trump this week were a reminder to the world that he still intends to settle scores with trading partners he believes are hurting the U.S. economy, despite …"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/china/20261127/hong-kong-fire-wang-fuk-court-anniversary/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "宏福苑大火一周年：民众纪念逝者，北京警告“以灾乱港”",
+    "link": "https://cn.nytimes.com/china/20261127/hong-kong-fire-wang-fuk-court-anniversary/dual",
+    "pub_date": "2026-11-27 10:36:02",
+    "author": "",
+    "description": "ANJALI TSUI2026年11月27日周四，人们在香港去年发生火灾的公寓楼附近献花。港府表示不会举办悼念活动。 Chan Long Hei/Associated Press A year ago Thursday, a blaze tore through a sprawling high-rise apartment complex in Hong Kong, spreading from one tower to the ne…",
+    "content": "ANJALI TSUI 2026年11月27日 周四，人们在香港去年发生火灾的公寓楼附近献花。港府表示不会举办悼念活动。 Chan Long Hei/Associated Press A year ago Thursday, a blaze tore through a sprawling high-rise apartment complex in Hong Kong, spreading from one tower to the next, killing 168 people. For the famili…"
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261127/nvidia-southeast-asia-sales/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "英伟达暂停向东南亚销售部分芯片，回应政府对华限制措施",
+    "link": "https://cn.nytimes.com/business/20261127/nvidia-southeast-asia-sales/dual",
+    "pub_date": "2026-11-27 10:06:04",
+    "author": "",
+    "description": "ADAM SATARIANO, 孟建国2026年11月27日 Nvidia has halted some sales of its most advanced A.I. chips to four countries in Southeast Asia as the Trump administration intensifies efforts to cut Chinese companies off from American c…",
+    "content": "ADAM SATARIANO, 孟建国 2026年11月27日 Nvidia has halted some sales of its most advanced A.I. chips to four countries in Southeast Asia as the Trump administration intensifies efforts to cut Chinese companies off from American computing power. 随着特朗普政府进一步加紧切断中国企业获取美国算…"
+  },
+  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
-    "title": "Hundreds of flights cancelled as severe weather disrupts Thanksgiving travel in US",
+    "title": "Major Thanksgiving storm brings flooding, flight delays across US",
     "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-26 23:57:26",
+    "pub_date": "2026-11-27 08:52:11",
     "author": "",
-    "description": "More than 80 million Americans are expected to be traveling as severe weather is forecast on the western and eastern coasts of the US.",
-    "content": "More than 80 million Americans are expected to be traveling as severe weather is forecast on the western and eastern coasts of the US."
+    "description": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+    "content": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
+    "link": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-27 08:48:11",
+    "author": "",
+    "description": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
+    "content": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+    "link": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-27 08:47:43",
+    "author": "",
+    "description": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
+    "content": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest."
+  },
+  {
+    "id": "国外-纽约时报双语版-https://cn.nytimes.com/asia-pacific/20261127/japan-china-takaichi-snubbed/dual",
+    "feed_name": "纽约时报双语版",
+    "category": "国外",
+    "title": "高市早苗访问中国时是否遭到冷遇？",
+    "link": "https://cn.nytimes.com/asia-pacific/20261127/japan-china-takaichi-snubbed/dual",
+    "pub_date": "2026-11-27 08:06:03",
+    "author": "",
+    "description": "赫海威, PABLO ROBLES2026年11月27日 Was Prime Minister Sanae Takaichi of Japan snubbed during China’s big summit? 日本首相高市早苗在中国举办的重要峰会期间是否遭到了冷遇？ That question has dominated the headlines in Japan in recent days, with some officia…",
+    "content": "赫海威, PABLO ROBLES 2026年11月27日 Was Prime Minister Sanae Takaichi of Japan snubbed during China’s big summit? 日本首相高市早苗在中国举办的重要峰会期间是否遭到了冷遇？ That question has dominated the headlines in Japan in recent days, with some officials saying that Beijing intentionally un…"
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
+    "link": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-27 07:03:16",
+    "author": "",
+    "description": "The city marks a year since a huge blaze tore through seven apartment blocks, killing 168 people.",
+    "content": "The city marks a year since a huge blaze tore through seven apartment blocks, killing 168 people."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+    "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-27 06:49:27",
+    "author": "",
+    "description": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+    "content": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
+    "link": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-27 06:06:20",
+    "author": "",
+    "description": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.",
+    "content": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+    "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-27 06:01:22",
+    "author": "",
+    "description": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
+    "content": "The possible environmental damage is still being assessed by Spain's sea rescue service."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+    "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-27 05:17:53",
+    "author": "",
+    "description": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+    "content": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
+    "link": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-27 03:26:16",
+    "author": "",
+    "description": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
+    "content": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
+    "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-27 00:21:19",
+    "author": "",
+    "description": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.",
+    "content": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
@@ -20,17 +174,6 @@ const jsonData = [
     "author": "",
     "description": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
     "content": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-    "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-26 23:17:18",
-    "author": "",
-    "description": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
-    "content": "The possible environmental damage is still being assessed by Spain's sea rescue service."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
@@ -99,15 +242,15 @@ const jsonData = [
     "content": "The East Coast's weather is a major concern this holiday, as it could lead to coastal flooding. And, the judge says the FCC can't punish ABC for satire Trump doesn't like."
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
-    "title": "Seven injured, four critically, after Bangkok oil refinery explosion",
-    "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-26 19:21:50",
+    "title": "Egyptian authorities arrest motorist over tanker crash that killed 31",
+    "link": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-26 20:16:06",
     "author": "",
-    "description": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.",
-    "content": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area."
+    "description": "Officials say the man confessed to travelling at speed and clipping the fuel truck as he was overtaking traffic.",
+    "content": "Officials say the man confessed to travelling at speed and clipping the fuel truck as he was overtaking traffic."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
@@ -119,17 +262,6 @@ const jsonData = [
     "author": "",
     "description": "Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV infection.",
     "content": "Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV infection."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
-    "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-26 18:38:35",
-    "author": "",
-    "description": "Officials say no lead has been detected in the surrounding area, which continues to be tested following concerns from locals.",
-    "content": "Officials say no lead has been detected in the surrounding area, which continues to be tested following concerns from locals."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
@@ -154,6 +286,17 @@ const jsonData = [
     "content": "The killings are the latest from a series of near daily attacks by Israel against what it says are Hamas targets."
   },
   {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/26/nx-s1-5983712/indian-pueblo-kitchen-native-american-food-albuquerque",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "At Albuquerque's Indian Pueblo Kitchen, Native American dishes are the main course",
+    "link": "https://www.npr.org/2026/11/26/nx-s1-5983712/indian-pueblo-kitchen-native-american-food-albuquerque",
+    "pub_date": "2026-11-26 18:00:00",
+    "author": "",
+    "description": "At an Albuquerque, N.M., museum, the restaurant is just as much of a draw as the exhibitions, with dishes like green chile stew and sweet biscochitos flavored with anise and cinnamon.",
+    "content": "At an Albuquerque, N.M., museum, the restaurant is just as much of a draw as the exhibitions, with dishes like green chile stew and sweet biscochitos flavored with anise and cinnamon."
+  },
+  {
     "id": "国外-NPR News-https://www.npr.org/2026/11/26/nx-s1-6028781/memories-of-a-good-meal-cookbook-chef-alon-shaya",
     "feed_name": "NPR News",
     "category": "国外",
@@ -165,15 +308,15 @@ const jsonData = [
     "content": "New Orleans Chef Alon Shaya's new cookbook shares stories of resilience from World War II, centered around food."
   },
   {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/26/nx-s1-5983712/indian-pueblo-kitchen-native-american-food-albuquerque",
-    "feed_name": "NPR News",
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/cmvg23djw8v9o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
     "category": "国外",
-    "title": "At Albuquerque's Indian Pueblo Kitchen, Native American dishes are the main course",
-    "link": "https://www.npr.org/2026/11/26/nx-s1-5983712/indian-pueblo-kitchen-native-american-food-albuquerque",
-    "pub_date": "2026-11-26 18:00:00",
+    "title": "Politics and peek-a-boo in Australian parliament as senator brings baby to work",
+    "link": "https://www.bbc.co.uk/news/videos/cmvg23djw8v9o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-26 17:49:42",
     "author": "",
-    "description": "At an Albuquerque, N.M., museum, the restaurant is just as much of a draw as the exhibitions, with dishes like green chile stew and sweet biscochitos flavored with anise and cinnamon.",
-    "content": "At an Albuquerque, N.M., museum, the restaurant is just as much of a draw as the exhibitions, with dishes like green chile stew and sweet biscochitos flavored with anise and cinnamon."
+    "description": "Senator Lidia Thorpe kept 6-month-old Aaliyah entertained, as her mum Senator Fatima Payman, participated in an online safety bill debate.",
+    "content": "Senator Lidia Thorpe kept 6-month-old Aaliyah entertained, as her mum Senator Fatima Payman, participated in an online safety bill debate."
   },
   {
     "id": "国外-NPR News-https://www.npr.org/2026/11/26/nx-s1-6044602/michael-twitty-thanksgiving-food-culinary-history",
@@ -229,28 +372,6 @@ const jsonData = [
     "author": "",
     "description": "For the last few years, the \"turkey bombers\" have taken to the skies for the benefit of residents in off-grid communities.",
     "content": "For the last few years, the \"turkey bombers\" have taken to the skies for the benefit of residents in off-grid communities."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/c52e8ndplvemo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Deadly fire erupts near Cairo killing dozens of people",
-    "link": "https://www.bbc.co.uk/news/videos/c52e8ndplvemo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-26 17:09:49",
-    "author": "",
-    "description": "At least 31 people have died in a large fire on a busy highway in Cairo, after a fuel tanker overturned, says Egypt's health ministry.",
-    "content": "At least 31 people have died in a large fire on a busy highway in Cairo, after a fuel tanker overturned, says Egypt's health ministry."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cky97x7delz9o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Two screenings of Pakistani TV show cancelled in India after backlash",
-    "link": "https://www.bbc.co.uk/news/articles/cky97x7delz9o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-26 16:30:12",
-    "author": "",
-    "description": "The show, Dar-e-Nijaat, has become a sensation in India but is now embroiled in a political row.",
-    "content": "The show, Dar-e-Nijaat, has become a sensation in India but is now embroiled in a political row."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cqwy4377yxnlo?at_medium=RSS&at_campaign=rss",
@@ -363,17 +484,6 @@ const jsonData = [
     "content": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm."
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "US announces new tariffs on host of countries including China",
-    "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-26 12:10:58",
-    "author": "",
-    "description": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-    "content": "The new levies would hit many of America's biggest trading partners, including China and the EU."
-  },
-  {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/opinion/20261126/china-ai-race-control/dual",
     "feed_name": "纽约时报双语版",
     "category": "国外",
@@ -383,17 +493,6 @@ const jsonData = [
     "author": "",
     "description": "DAN WANG2026年11月26日 Illustration by The New York Times Silicon Valley researchers and no small number of policymakers are worried that artificial intelligence will slither out of control. At the same time, many are reluc…",
     "content": "DAN WANG 2026年11月26日 Illustration by The New York Times Silicon Valley researchers and no small number of policymakers are worried that artificial intelligence will slither out of control. At the same time, many are reluctant to slacken the pace of development…"
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Macy's postpones Thanksgiving parade due to severe weather",
-    "link": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-26 12:04:14",
-    "author": "",
-    "description": "The move represents the first postponement of the iconic event, and comes after a forecast of strong winds and heavy rain.",
-    "content": "The move represents the first postponement of the iconic event, and comes after a forecast of strong winds and heavy rain."
   },
   {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261126/trump-tariffs-trade/dual",
@@ -429,48 +528,15 @@ const jsonData = [
     "content": "JULIAN E. BARNES 2026年11月26日 2024年台湾总统选举期间，台北的投票点。台湾将于11月28日举行地方选举。 Lam Yik Fei for The New York Times Researchers have discovered a coordinated social media campaign powered by artificial intelligence that appears to be trying to influence elections in Taiwan…"
   },
   {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261126/china-ai-investment-spending/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "中国人工智能雄心面临一个严峻问题：去哪里找钱",
-    "link": "https://cn.nytimes.com/business/20261126/china-ai-investment-spending/dual",
-    "pub_date": "2026-11-26 09:36:04",
-    "author": "",
-    "description": "黄瑞黎, LI YOU2026年11月26日中国深圳繁忙的电子市场。 Qilai Shen for The New York Times As the United States and China vie for artificial intelligence supremacy, Chinese tech companies are facing a mounting challenge: finding the money to …",
-    "content": "黄瑞黎, LI YOU 2026年11月26日 中国深圳繁忙的电子市场。 Qilai Shen for The New York Times As the United States and China vie for artificial intelligence supremacy, Chinese tech companies are facing a mounting challenge: finding the money to keep up. 随着美中两国争夺人工智能霸权，中国科技企业正面临一个日益严…"
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
-    "title": "California warns of flooding as King Tides peak over Thanksgiving",
-    "link": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-26 09:22:55",
+    "title": "France's political mainstream risks presidential vote debacle with no clear candidate",
+    "link": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-26 08:23:27",
     "author": "",
-    "description": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday.",
-    "content": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Spanish elections: What you need to know and what's at stake",
-    "link": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-26 08:23:49",
-    "author": "",
-    "description": "After eight years of Socialist-led rule, snap elections are taking place on Sunday with conservative Alberto Núñez Feijóo vying to win office.",
-    "content": "After eight years of Socialist-led rule, snap elections are taking place on Sunday with conservative Alberto Núñez Feijóo vying to win office."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Has global jihadism failed, or is it simply changing shape?",
-    "link": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-26 08:22:18",
-    "author": "",
-    "description": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?",
-    "content": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?"
+    "description": "Hard-right and hard-left candidates dominate the polls ahead of next year's presidential election.",
+    "content": "Hard-right and hard-left candidates dominate the polls ahead of next year's presidential election."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
@@ -484,28 +550,6 @@ const jsonData = [
     "content": "A year after one of Hong Kong's deadliest fires, families left behind are still waiting for justice."
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
-    "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-26 06:18:06",
-    "author": "",
-    "description": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
-    "content": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "North Korea expels Swiss diplomat in sanctions row",
-    "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-26 05:51:17",
-    "author": "",
-    "description": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
-    "content": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing."
-  },
-  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -515,72 +559,6 @@ const jsonData = [
     "author": "",
     "description": "The crash was \"like something out of a disaster movie\", the BBC's science editor Rebecca Morelle says.",
     "content": "The crash was \"like something out of a disaster movie\", the BBC's science editor Rebecca Morelle says."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
-    "link": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-26 00:42:11",
-    "author": "",
-    "description": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
-    "content": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/sport/cricket/videos/cwx2e0g93l3eo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Greatest catch ever? Man on motorbike takes incredible grab",
-    "link": "https://www.bbc.co.uk/sport/cricket/videos/cwx2e0g93l3eo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-26 00:23:03",
-    "author": "",
-    "description": "A passenger on a motorbike pulled off a remarkable one-handed catch after the ball was hit out of the ground for six in the Swat Premier League in Pakistan.",
-    "content": "A passenger on a motorbike pulled off a remarkable one-handed catch after the ball was hit out of the ground for six in the Swat Premier League in Pakistan."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Five Russian military jets hit in airfield strike, says Ukraine",
-    "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-25 22:46:41",
-    "author": "",
-    "description": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
-    "content": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine."
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/opinion/20261125/jensen-huang-nvidia-ceo-reinstated/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "为什么黄仁勋不可撼动",
-    "link": "https://cn.nytimes.com/opinion/20261125/jensen-huang-nvidia-ceo-reinstated/dual",
-    "pub_date": "2026-11-25 15:06:03",
-    "author": "",
-    "description": "STEPHEN WITT2026年11月25日 Jonathan Ernst/Reuters When Jensen Huang returned to the floor of his Silicon Valley headquarters on Monday, his employees greeted him with a standing ovation. The rank and file of Nvidia love Mr.…",
-    "content": "STEPHEN WITT 2026年11月25日 Jonathan Ernst/Reuters When Jensen Huang returned to the floor of his Silicon Valley headquarters on Monday, his employees greeted him with a standing ovation. The rank and file of Nvidia love Mr. Huang, who has made many of them wealt…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261125/huawei-guilty-new-york/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "华为在美被判窃取商业机密等罪名成立",
-    "link": "https://cn.nytimes.com/business/20261125/huawei-guilty-new-york/dual",
-    "pub_date": "2026-11-25 13:36:04",
-    "author": "",
-    "description": "SANTUL NERKAR, KATE CHRISTOBEK2026年11月25日由于华为自2019年以来实际上已被禁止在美国销售产品，这一酝酿已久的裁决或许不会对其命运产生重大影响。 Greg Baker/Agence France-Presse — Getty Images A federal jury on Tuesday found Huawei, the Chinese telecommunications giant tha…",
-    "content": "SANTUL NERKAR, KATE CHRISTOBEK 2026年11月25日 由于华为自2019年以来实际上已被禁止在美国销售产品，这一酝酿已久的裁决或许不会对其命运产生重大影响。 Greg Baker/Agence France-Presse — Getty Images A federal jury on Tuesday found Huawei, the Chinese telecommunications giant that U.S. officials have long viewed with…"
-  },
-  {
-    "id": "国外-纽约时报双语版-https://cn.nytimes.com/technology/20261125/jensen-huang-apology-nvidia-ceo/dual",
-    "feed_name": "纽约时报双语版",
-    "category": "国外",
-    "title": "“我犯了一些可怕的错误”：黄仁勋向英伟达员工致歉",
-    "link": "https://cn.nytimes.com/technology/20261125/jensen-huang-apology-nvidia-ceo/dual",
-    "pub_date": "2026-11-25 12:06:04",
-    "author": "",
-    "description": "TRIPP MICKLE, KALLEY HUANG2026年11月25日 A day after returning as chief executive at Nvidia, Jensen Huang apologized on Tuesday to his entire company for violating its code of conduct during an hourlong meeting that began o…",
-    "content": "TRIPP MICKLE, KALLEY HUANG 2026年11月25日 A day after returning as chief executive at Nvidia, Jensen Huang apologized on Tuesday to his entire company for violating its code of conduct during an hourlong meeting that began on a somber note before transforming int…"
   },
   {
     "id": "国外-RFI 法国国际广播电台-https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261022-%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E8%BF%87%E4%B8%A4%E4%BA%BF%E9%83%A8%E6%89%8B%E6%9C%BA%E6%96%B0%E5%8F%8D%E8%AF%88%E7%A8%8B%E5%BA%8F%E8%AF%86%E5%88%AB%E7%9B%98%E9%97%AE%E6%B5%8F%E8%A7%88%E5%A2%99%E5%A4%96%E8%B4%A2%E7%BB%8F%E7%BD%91%E7%AB%99%E4%BA%BA%E5%91%98",
