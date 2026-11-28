@@ -1,7 +1,7 @@
 {
-  "started_at": "2026-11-27T15:54:03.523Z",
-  "ended_at": "2026-11-27T15:54:03.783Z",
-  "duration_ms": 260,
+  "started_at": "2026-11-28T04:28:06.264Z",
+  "ended_at": "2026-11-28T04:28:06.566Z",
+  "duration_ms": 302,
   "config": {
     "concurrency": 16,
     "cache_enabled": true,
@@ -21,35 +21,35 @@
     "failed_sources": 2,
     "circuit_open_sources": 2,
     "critical_failures": 0,
-    "total_items_after_dedupe": 1674,
-    "total_items_after_retention": 1461,
+    "total_items_after_dedupe": 1678,
+    "total_items_after_retention": 1462,
     "build_blocked": false
   },
   "critical_failures": [],
   "failures": [
     {
-      "title": "机器之心",
-      "url": "https://www.jiqizhixin.com/rss",
-      "reason": "Invalid character in entity name\nLine: 6\nColumn: 83\nChar: =",
+      "title": "Epic Game",
+      "url": "https://www.epicbundle.com/feed/",
+      "reason": "Unexpected close tag\nLine: 92\nColumn: 7\nChar: >",
       "skippedByCircuit": true
     },
     {
-      "title": "Seebug Paper",
-      "url": "https://paper.seebug.org/rss/",
-      "reason": "HTTP 504",
+      "title": "机器之心",
+      "url": "https://www.jiqizhixin.com/rss",
+      "reason": "Invalid character in entity name\nLine: 6\nColumn: 83\nChar: =",
       "skippedByCircuit": true
     }
   ],
   "circuit_open": [
     {
+      "title": "Epic Game",
+      "url": "https://www.epicbundle.com/feed/",
+      "reason": "Unexpected close tag\nLine: 92\nColumn: 7\nChar: >"
+    },
+    {
       "title": "机器之心",
       "url": "https://www.jiqizhixin.com/rss",
       "reason": "Invalid character in entity name\nLine: 6\nColumn: 83\nChar: ="
-    },
-    {
-      "title": "Seebug Paper",
-      "url": "https://paper.seebug.org/rss/",
-      "reason": "HTTP 504"
     }
   ]
 }
