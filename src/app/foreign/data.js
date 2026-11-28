@@ -1,9 +1,130 @@
 const jsonData = [
   {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/28/nx-s1-6050187/cop31-talks-fall-apart",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "COP31 climate talks fail to reach an agreement on fossil fuel language",
+    "link": "https://www.npr.org/2026/11/28/nx-s1-6050187/cop31-talks-fall-apart",
+    "pub_date": "2026-11-28 22:28:45",
+    "author": "",
+    "description": "U.N. climate talks collapsed over whether to mention fossil fuels that cause global warning. Several countries and the E.U. would not accept a final proposal without this.",
+    "content": "U.N. climate talks collapsed over whether to mention fossil fuels that cause global warning. Several countries and the E.U. would not accept a final proposal without this."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+    "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-28 22:10:01",
+    "author": "",
+    "description": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
+    "content": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Argentina's bid to stop Falklands oil drilling rejected",
+    "link": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-28 21:36:36",
+    "author": "",
+    "description": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
+    "content": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/28/nx-s1-6045586/perspective-a-heros-name-lives-on",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Perspective: A hero's name lives on",
+    "link": "https://www.npr.org/2026/11/28/nx-s1-6045586/perspective-a-heros-name-lives-on",
+    "pub_date": "2026-11-28 21:00:00",
+    "author": "",
+    "description": "During Pearl Harbor, sailor Doris Miller carried the wounded to safety and fired a machine gun at Japanese planes. Next week, construction of a new aircraft carrier, the USS Doris Miller, begins.",
+    "content": "During Pearl Harbor, sailor Doris Miller carried the wounded to safety and fired a machine gun at Japanese planes. Next week, construction of a new aircraft carrier, the USS Doris Miller, begins."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+    "link": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-28 19:35:34",
+    "author": "",
+    "description": "The ChatGPT-maker alleges that tech giant Apple stole trade secrets through a former employee.",
+    "content": "The ChatGPT-maker alleges that tech giant Apple stole trade secrets through a former employee."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/28/nx-s1-6056284/explosion-school-eastern-afghanistan",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Explosion at a school in eastern Afghanistan kills 7, wounds more than 90",
+    "link": "https://www.npr.org/2026/11/28/nx-s1-6056284/explosion-school-eastern-afghanistan",
+    "pub_date": "2026-11-28 19:32:37",
+    "author": "",
+    "description": "Local officials said the blast appeared to have originated in a neighboring depot for mining explosives.",
+    "content": "Local officials said the blast appeared to have originated in a neighboring depot for mining explosives."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+    "link": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-28 18:34:58",
+    "author": "",
+    "description": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
+    "content": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization."
+  },
+  {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/28/g-s1-155837/democratic-attorneys-general-justice-system-texas",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "New wave of Democratic attorneys general may reshape the justice system",
+    "link": "https://www.npr.org/2026/11/28/g-s1-155837/democratic-attorneys-general-justice-system-texas",
+    "pub_date": "2026-11-28 18:00:00",
+    "author": "",
+    "description": "The Democratic victories could have major effects for what alleged crimes are investigated, lawsuits filed and court cases heard across the U.S.",
+    "content": "The Democratic victories could have major effects for what alleged crimes are investigated, lawsuits filed and court cases heard across the U.S."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Australian wrestler Bronson Reed dies aged 38, WWE says",
+    "link": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-28 15:31:14",
+    "author": "",
+    "description": "Tributes have flooded in for the 38-year-old Australian who is survived by his pregnant wife, Paige, their daughter.",
+    "content": "Tributes have flooded in for the 38-year-old Australian who is survived by his pregnant wife, Paige, their daughter."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Eight killed in Peruvian military helicopter crash",
+    "link": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-28 12:19:16",
+    "author": "",
+    "description": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking.",
+    "content": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking."
+  },
+  {
+    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+    "feed_name": "BBC World",
+    "category": "国外",
+    "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+    "link": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+    "pub_date": "2026-11-28 12:13:45",
+    "author": "",
+    "description": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
+    "content": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government."
+  },
+  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
-    "title": "Nigeria's 'ultimate hard man' who become an online meme",
+    "title": "Nigeria's acting legend who was loved across Africa and beyond",
     "link": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss",
     "pub_date": "2026-11-28 09:20:35",
     "author": "",
@@ -36,7 +157,7 @@ const jsonData = [
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
-    "title": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+    "title": "A clinic is offering to reassess ADHD and autism diagnoses - and hundreds of people are interested",
     "link": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
     "pub_date": "2026-11-28 08:05:17",
     "author": "",
@@ -55,6 +176,17 @@ const jsonData = [
     "content": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out."
   },
   {
+    "id": "国外-NPR News-https://www.npr.org/2026/11/27/nx-s1-6053049/sudans-lost-generation-war-is-stealing-a-generation-of-childhood",
+    "feed_name": "NPR News",
+    "category": "国外",
+    "title": "Sudan's lost generation: War is stealing the childhood of millions",
+    "link": "https://www.npr.org/2026/11/27/nx-s1-6053049/sudans-lost-generation-war-is-stealing-a-generation-of-childhood",
+    "pub_date": "2026-11-28 06:54:53",
+    "author": "",
+    "description": "Three years of war have stolen childhood from millions of children in Sudan, leaving them displaced, hungry and fighting for survival instead of learning in a classroom.",
+    "content": "Three years of war have stolen childhood from millions of children in Sudan, leaving them displaced, hungry and fighting for survival instead of learning in a classroom."
+  },
+  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -64,17 +196,6 @@ const jsonData = [
     "author": "",
     "description": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
     "content": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\"."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
-    "link": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-28 04:34:45",
-    "author": "",
-    "description": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
-    "content": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
@@ -143,28 +264,6 @@ const jsonData = [
     "content": "Hundreds of thousands of people were without power after severe weather hit both coasts of the United States during the Thanksgiving holiday."
   },
   {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Brazil pushes back on Macron calling its meat 'doped'",
-    "link": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-27 23:54:15",
-    "author": "",
-    "description": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products.",
-    "content": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Rare turtles found inside baggage at Amsterdam airport",
-    "link": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-27 21:38:07",
-    "author": "",
-    "description": "The endangered reptiles were bound with duct tape to prevent them moving, officials say.",
-    "content": "The endangered reptiles were bound with duct tape to prevent them moving, officials say."
-  },
-  {
     "id": "国外-NPR News-https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court",
     "feed_name": "NPR News",
     "category": "国外",
@@ -220,61 +319,6 @@ const jsonData = [
     "content": "Some parents, fed up with screens, have found an analog oasis in the role-playing game invented in the 1970s."
   },
   {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/27/nx-s1-6050867/prevent-dementia-alzheimers-your-turn",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "12 strategies to cut your risk of dementia. Take this quiz to start",
-    "link": "https://www.npr.org/2026/11/27/nx-s1-6050867/prevent-dementia-alzheimers-your-turn",
-    "pub_date": "2026-11-27 18:00:00",
-    "author": "",
-    "description": "Here's something you can do as you gather with family and friends this holiday season: Take a free, five-minute quiz to assess your brain health. You'll learn simple changes to keep your mind sharp.",
-    "content": "Here's something you can do as you gather with family and friends this holiday season: Take a free, five-minute quiz to assess your brain health. You'll learn simple changes to keep your mind sharp."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
-    "link": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
-    "pub_date": "2026-11-27 18:00:00",
-    "author": "",
-    "description": "Trump's sweeping immigration changes — an asylum ban, mass firings and new legal maneuvers — have all but ended asylum. The high court will soon consider whether some shifts deny people due process.",
-    "content": "Trump's sweeping immigration changes — an asylum ban, mass firings and new legal maneuvers — have all but ended asylum. The high court will soon consider whether some shifts deny people due process."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/27/nx-s1-6047116/morning-news-brief",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Morning news brief",
-    "link": "https://www.npr.org/2026/11/27/nx-s1-6047116/morning-news-brief",
-    "pub_date": "2026-11-27 17:47:08",
-    "author": "",
-    "description": "Thanksgiving storm pummels the East Coast, Americans expected to spend record amount on Black Friday, Israeli rival factions consider deals in race to form a new government.",
-    "content": "Thanksgiving storm pummels the East Coast, Americans expected to spend record amount on Black Friday, Israeli rival factions consider deals in race to form a new government."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/27/nx-s1-6043796/new-balloons-will-fly-in-the-postponed-100th-macys-thanksgiving-day-parade",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "New balloons will fly in the postponed 100th Macy's Thanksgiving Day Parade",
-    "link": "https://www.npr.org/2026/11/27/nx-s1-6043796/new-balloons-will-fly-in-the-postponed-100th-macys-thanksgiving-day-parade",
-    "pub_date": "2026-11-27 17:45:12",
-    "author": "",
-    "description": "Some new balloons are set to fly in the weather-delayed Macy's Thanksgiving Day Parade.",
-    "content": "Some new balloons are set to fly in the weather-delayed Macy's Thanksgiving Day Parade."
-  },
-  {
-    "id": "国外-NPR News-https://www.npr.org/2026/11/27/nx-s1-6055519/eagles-stun-cowboys",
-    "feed_name": "NPR News",
-    "category": "国外",
-    "title": "Eagles rally to stun Cowboys coming back from 21 points behind",
-    "link": "https://www.npr.org/2026/11/27/nx-s1-6055519/eagles-stun-cowboys",
-    "pub_date": "2026-11-27 16:23:12",
-    "author": "",
-    "description": "Eagles QB Joe Milton threw two long touchdowns against the quarterback's former team, the Dallas Cowboys, for the the start of quite a comeback, after being down 31-10 early in the third quarter.",
-    "content": "Eagles QB Joe Milton threw two long touchdowns against the quarterback's former team, the Dallas Cowboys, for the the start of quite a comeback, after being down 31-10 early in the third quarter."
-  },
-  {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
     "feed_name": "BBC World",
     "category": "国外",
@@ -284,17 +328,6 @@ const jsonData = [
     "author": "",
     "description": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not.",
     "content": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not."
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c69q8yjj1v0po?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Italy's former police chief rejected mafia inquiry allegations before death",
-    "link": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-27 15:28:10",
-    "author": "",
-    "description": "The contents of an eight-page letter by Gianni De Gennaro have been revealed days after his body was found at his Tuscany home.",
-    "content": "The contents of an eight-page letter by Gianni De Gennaro have been revealed days after his body was found at his Tuscany home."
   },
   {
     "id": "国外-BBC World-https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
@@ -317,17 +350,6 @@ const jsonData = [
     "author": "",
     "description": "郭莉莉, PEI-LIN WU2026年11月27日黄逸豪本月在台湾台北的“二三喜剧”登台演出。 Lam Yik Fei for The New York Times A Taiwanese comedian was attacked possibly because he made fun of Xi Jinping. It may be the best thing that’s ever happened to him. 一位台湾…",
     "content": "郭莉莉, PEI-LIN WU 2026年11月27日 黄逸豪本月在台湾台北的“二三喜剧”登台演出。 Lam Yik Fei for The New York Times A Taiwanese comedian was attacked possibly because he made fun of Xi Jinping. It may be the best thing that’s ever happened to him. 一位台湾喜剧演员可能因为调侃习近平而遭到袭击。这或许是他人生中发生过的最好的事。 A…"
-  },
-  {
-    "id": "国外-BBC World-https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
-    "feed_name": "BBC World",
-    "category": "国外",
-    "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
-    "link": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
-    "pub_date": "2026-11-27 14:04:51",
-    "author": "",
-    "description": "Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them.",
-    "content": "Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them."
   },
   {
     "id": "国外-纽约时报双语版-https://cn.nytimes.com/business/20261127/huawei-trump-china-ai/dual",
